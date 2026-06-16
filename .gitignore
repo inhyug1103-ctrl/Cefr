@@ -1,0 +1,3 @@
+out_*.docx
+*.tmp
+__pycache__/
