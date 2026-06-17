@@ -1,0 +1,1619 @@
+[
+ {
+  "num": "1141",
+  "hw": "little",
+  "pos": "adj., det., adv.",
+  "cefr": "A2",
+  "core": "크기가 '작은', 양이 '거의 없는'.",
+  "senses": [
+   "1) 작은·어린 (a little girl)",
+   "2) (양이) 거의 없는 (little time)",
+   "3) (a little) 약간의·조금"
+  ],
+  "etym": "고대영어 lytel(작은)에서. 양을 나타낼 때 비교급·최상급은 less-least.",
+  "deriv": "크기 '작은(a little dog)' / 양이 '거의 없는(little money, 부정적)' / 'a little(약간, 긍정적)'으로. 핵심: little(거의 없다, 부정) vs a little(약간 있다, 긍정). 셀 수 없는 양에 쓴다(few는 수). big(큰)·much(많은)와 짝.",
+  "syn": [
+   "small(작은)",
+   "tiny(아주 작은)",
+   "slight(약간의)"
+  ],
+  "anti": [
+   "big / large(큰)",
+   "much(많은)"
+  ],
+  "idiom": [
+   "a little(약간)",
+   "little by little(조금씩)",
+   "quite a little(꽤 많은)"
+  ],
+  "colloc": [
+   "a little girl(어린 소녀)",
+   "little time(시간이 거의 없음)",
+   "a little water(약간의 물)"
+  ],
+  "ex_add": "We have little time, so let's hurry.  (little=거의 없는, 부정적: 시간이 거의 없으니 서두르자)"
+ },
+ {
+  "num": "1142",
+  "hw": "lock",
+  "pos": "v., n.",
+  "cefr": "A2",
+  "core": "열쇠로 '잠그다', 그리고 그 '자물쇠'.",
+  "senses": [
+   "1) 잠그다·잠기다",
+   "2) 자물쇠·잠금장치 (명사)",
+   "3) 가두다·고정하다 (lock up)"
+  ],
+  "etym": "고대영어 loc(자물쇠·빗장)에서. 게르만어 계열.",
+  "deriv": "'잠그다' -> '자물쇠' / '가두다(lock away)'로. unlock(열다)과 짝. lock the door(문을 잠그다), lock up(문단속하다·가두다), under lock and key(단단히 잠가 둔). a lock of hair(머리 한 타래)는 동음이의어.",
+  "syn": [
+   "fasten(잠그다)",
+   "secure(채우다)",
+   "bolt(빗장을 지르다)"
+  ],
+  "anti": [
+   "unlock(열다)",
+   "open(열다)"
+  ],
+  "idiom": [
+   "lock up(문단속하다·가두다)",
+   "under lock and key(단단히 잠긴)",
+   "lock horns(맞붙다)"
+  ],
+  "colloc": [
+   "lock the door(문을 잠그다)",
+   "a door lock(문 자물쇠)",
+   "lock away(잠가 두다)"
+  ],
+  "ex_add": "Don't forget to lock the door.  (잠그다: 문 잠그는 거 잊지 마)"
+ },
+ {
+  "num": "1143",
+  "hw": "look",
+  "pos": "v., n.",
+  "cefr": "A2",
+  "core": "눈길을 '향해 보다', 그리고 '~처럼 보이다'.",
+  "senses": [
+   "1) 보다·바라보다 (look at)",
+   "2) ~처럼 보이다 (look + 형용사)",
+   "3) 표정·외모·눈길 (명사)"
+  ],
+  "etym": "고대영어 locian(보다)에서. see(눈에 들어옴)·watch(지켜봄)와 달리 look은 '의도적으로 시선을 둠'.",
+  "deriv": "'시선을 두다' -> '바라보다(look at)' / 겉이 '~해 보이다(look tired)'로. 목적어 앞 전치사 at 필수(look at). 구동사 다수: look for(찾다), look after(돌보다), look forward to(고대하다), look up(찾아보다). see/watch와 구별.",
+  "syn": [
+   "watch(지켜보다)",
+   "glance(흘끗 보다)",
+   "seem(~처럼 보이다)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "look after ~(~을 돌보다)",
+   "look forward to ~(~을 고대하다)",
+   "look for ~(~을 찾다)",
+   "look up to ~(~을 존경하다)"
+  ],
+  "colloc": [
+   "look at ~(~을 보다)",
+   "look tired(피곤해 보이다)",
+   "take a look(한번 보다)"
+  ],
+  "ex_add": "You look tired today.  (~처럼 보이다: 너 오늘 피곤해 보여)"
+ },
+ {
+  "num": "1144",
+  "hw": "lost",
+  "pos": "adj.",
+  "cefr": "A2",
+  "core": "lose의 분사형, '잃어버린·길을 잃은'.",
+  "senses": [
+   "1) 잃어버린·분실된",
+   "2) 길을 잃은 (get lost)",
+   "3) (마음이) 어쩔 줄 모르는·몰두한"
+  ],
+  "etym": "lose(잃다)의 과거분사 <- 고대영어 losian. lose-lost-lost. (connect: lose #0364.)",
+  "deriv": "'잃어버린' -> 물건이 '분실된(lost keys)' / 사람이 '길을 잃은(get lost)' / 마음이 '갈피를 못 잡는(feel lost)'으로. found(찾은)와 짝. get lost(길을 잃다·꺼져), a lost cause(가망 없는 일), lost and found(분실물 센터).",
+  "syn": [
+   "missing(없어진)",
+   "mislaid(잘못 둔)",
+   "astray(길을 잃은)"
+  ],
+  "anti": [
+   "found(찾은)"
+  ],
+  "idiom": [
+   "get lost(길을 잃다·꺼지다)",
+   "a lost cause(가망 없는 일)",
+   "lost for words(할 말을 잃은)",
+   "lost and found(분실물 보관소)"
+  ],
+  "colloc": [
+   "lost keys(잃어버린 열쇠)",
+   "get lost(길을 잃다)",
+   "feel lost(막막하다)"
+  ],
+  "ex_add": "We got lost on the way home.  (길을 잃은: 우리는 집에 오는 길에 길을 잃었다)"
+ },
+ {
+  "num": "1145",
+  "hw": "loud",
+  "pos": "adj.",
+  "cefr": "A2",
+  "core": "소리가 '큰·시끄러운'.",
+  "senses": [
+   "1) (소리가) 큰·시끄러운",
+   "2) (색·옷이) 요란한·튀는"
+  ],
+  "etym": "고대영어 hlud(소리가 큰)에서. 게르만어 계열.",
+  "deriv": "'소리가 큰' -> 색·옷이 '요란한(a loud shirt)'으로 비유. quiet/soft(조용한)와 짝. out loud(소리 내어), loud and clear(아주 분명하게). 부사 loudly·loud. 비교급 louder.",
+  "syn": [
+   "noisy(시끄러운)",
+   "blaring(쾅쾅 울리는)",
+   "deafening(귀청이 터질 듯한)"
+  ],
+  "anti": [
+   "quiet(조용한)",
+   "soft(부드러운)",
+   "faint(희미한)"
+  ],
+  "idiom": [
+   "out loud(소리 내어)",
+   "loud and clear(아주 분명히)",
+   "actions speak louder than words(말보다 행동)"
+  ],
+  "colloc": [
+   "a loud noise(큰 소음)",
+   "too loud(너무 시끄러운)",
+   "a loud voice(큰 목소리)"
+  ],
+  "ex_add": "The music is too loud.  (시끄러운: 음악이 너무 시끄럽다)"
+ },
+ {
+  "num": "1146",
+  "hw": "loudly",
+  "pos": "adv.",
+  "cefr": "A2",
+  "core": "'큰 소리로·시끄럽게'.",
+  "senses": [
+   "1) 큰 소리로·시끄럽게"
+  ],
+  "etym": "loud(시끄러운) + -ly.",
+  "deriv": "형용사 loud에 -ly가 붙어 '큰 소리로'. quietly(조용히)와 짝. 동사를 꾸민다(speak loudly, laugh loudly). 강조형 loud(부사)도 있으나 동사 뒤·구동사에서: turn it up loud.",
+  "syn": [
+   "noisily(시끄럽게)",
+   "at the top of one's voice(목청껏)"
+  ],
+  "anti": [
+   "quietly(조용히)",
+   "softly(부드럽게)"
+  ],
+  "idiom": [
+   "laugh loudly(크게 웃다)",
+   "speak loudly(큰 소리로 말하다)"
+  ],
+  "colloc": [
+   "talk loudly(큰 소리로 말하다)",
+   "loudly complain(큰 소리로 항의하다)",
+   "cheer loudly(크게 환호하다)"
+  ],
+  "ex_add": "The crowd cheered loudly.  (큰 소리로: 관중이 큰 소리로 환호했다)"
+ },
+ {
+  "num": "1147",
+  "hw": "luck",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "뜻밖에 따르는 '운·행운'.",
+  "senses": [
+   "1) 운·행운",
+   "2) 요행·운수 (good/bad luck)"
+  ],
+  "etym": "중세 네덜란드어 luk(행운)에서. 게르만어 계열.",
+  "deriv": "'뜻밖의 운' -> 좋은 '행운(good luck)' / 나쁜 '불운(bad luck)'으로. fortune(운·재산)과 비슷. good luck(행운을 빌어), be in luck(운이 좋다), no such luck(웬걸). 불가산. 형용사 lucky.",
+  "syn": [
+   "fortune(운)",
+   "chance(운)",
+   "fate(운명)"
+  ],
+  "anti": [
+   "misfortune(불운)"
+  ],
+  "idiom": [
+   "good luck(행운을 빌어)",
+   "be in luck(운이 좋다)",
+   "no such luck(아쉽게도 아니다)",
+   "tough luck(안됐네)"
+  ],
+  "colloc": [
+   "good luck(행운)",
+   "bad luck(불운)",
+   "a stroke of luck(뜻밖의 행운)"
+  ],
+  "ex_add": "Good luck with your exam!  (행운: 시험에 행운을 빌어!)"
+ },
+ {
+  "num": "1148",
+  "hw": "lucky",
+  "pos": "adj.",
+  "cefr": "A2",
+  "core": "운이 따르는 '운 좋은·행운의'.",
+  "senses": [
+   "1) 운이 좋은",
+   "2) 행운을 가져다주는 (a lucky charm)"
+  ],
+  "etym": "luck(운) + -y. luk(행운) 뿌리.",
+  "deriv": "'운이 따르는' -> '운 좋은(a lucky guess)' / '행운의(lucky number)'로. unlucky(운 없는)와 짝. be lucky to V(운 좋게 ~하다), a lucky charm(행운의 부적), lucky number seven. fortunate와 비슷. 부사 luckily.",
+  "syn": [
+   "fortunate(운 좋은)",
+   "blessed(복받은)"
+  ],
+  "anti": [
+   "unlucky(운 없는)",
+   "unfortunate(불운한)"
+  ],
+  "idiom": [
+   "a lucky break(뜻밖의 행운)",
+   "a lucky charm(행운의 부적)",
+   "lucky you(좋겠다)",
+   "third time lucky(삼세번)"
+  ],
+  "colloc": [
+   "a lucky number(행운의 숫자)",
+   "feel lucky(운이 좋다고 느끼다)",
+   "get lucky(운이 따르다)"
+  ],
+  "ex_add": "You are lucky to have such good friends.  (운 좋은: 그렇게 좋은 친구들이 있다니 넌 운이 좋아)"
+ },
+ {
+  "num": "1149",
+  "hw": "mail",
+  "pos": "n., v.",
+  "cefr": "A2",
+  "core": "우편으로 오가는 '편지·우편물', 그리고 '부치다'.",
+  "senses": [
+   "1) 우편·우편물 (미국, =영국 post)",
+   "2) 우편으로 보내다 (동사)",
+   "3) 이메일 (e-mail)"
+  ],
+  "etym": "옛 프랑스어 male(가방·자루)에서 — 우편물을 담던 '자루'에서 '우편'으로.",
+  "deriv": "'우편 자루' -> '우편물' / '부치다' / 'e-mail(전자 우편)'으로. 미국 mail = 영국 post. junk mail(광고 우편물), snail mail(종이 우편, e-mail에 비해 느린). 동음이의 male(남성)과 발음이 같다.",
+  "syn": [
+   "post(우편, 영국)",
+   "correspondence(서신)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "junk mail(광고 우편물)",
+   "snail mail(종이 우편)",
+   "in the mail(우편으로 가는 중인)"
+  ],
+  "colloc": [
+   "send mail(우편을 보내다)",
+   "check the mail(우편물을 확인하다)",
+   "e-mail(이메일)"
+  ],
+  "ex_add": "I'll mail the letter tomorrow.  (부치다: 내일 편지를 부칠게)"
+ },
+ {
+  "num": "1150",
+  "hw": "male",
+  "pos": "adj., n.",
+  "cefr": "A2",
+  "core": "남성·수컷의, 그리고 남성·수컷.",
+  "senses": [
+   "1) 남성의·수컷의",
+   "2) 남성·수컷 (명사)"
+  ],
+  "etym": "라틴어 masculus(남성) <- mas(남성)의 축소형. masculine(남성적인)과 한 mas 뿌리. female(femina에서)과는 어원이 다름(철자만 닮음).",
+  "deriv": "mas(남성) 뿌리 -> '남성의·수컷의'. female(여성의)과 짝이지만 어원은 무관. man/boy는 사람, male은 생물학적 성별(동식물 포함). a male student(남학생), the male of the species(수컷). 동음이의 mail(우편).",
+  "syn": [
+   "masculine(남성의)",
+   "man(남성)"
+  ],
+  "anti": [
+   "female(여성의)"
+  ],
+  "idiom": [
+   "the male of the species(그 종의 수컷)",
+   "a male-dominated field(남성 위주의 분야)"
+  ],
+  "colloc": [
+   "a male student(남학생)",
+   "male workers(남성 근로자)",
+   "a male lion(수사자)"
+  ],
+  "ex_add": "A male lion has a large mane.  (수컷의: 수사자는 큰 갈기가 있다)"
+ },
+ {
+  "num": "1151",
+  "hw": "manage",
+  "pos": "v.",
+  "cefr": "A2",
+  "core": "'손으로 다루듯' 잘 꾸려 나가다·해내다.",
+  "senses": [
+   "1) 관리하다·운영하다",
+   "2) (힘든 일을) 용케 해내다 (manage to V)",
+   "3) 그럭저럭 꾸려 가다"
+  ],
+  "etym": "이탈리아어 maneggiare(말을 손으로 다루다) <- 라틴어 manus(손). manual(손의)·manufacture(손으로 만듦)·manuscript(손으로 쓴 것)가 같은 manus(손) 뿌리.",
+  "deriv": "'손으로 다루다' -> 조직을 '관리하다(manage a team)' / 어려운 일을 '용케 해내다(manage to finish)'로. manus(손) 뿌리로 manual·manufacture와 묶인다. manage to V(가까스로 ~하다). 명사 management·manager.",
+  "syn": [
+   "run(운영하다)",
+   "handle(다루다)",
+   "cope(해내다)"
+  ],
+  "anti": [
+   "mismanage(잘못 관리하다)"
+  ],
+  "idiom": [
+   "manage to V(가까스로 ~하다)",
+   "manage without ~(~없이 꾸려 가다)",
+   "how do you manage?(어떻게 해내?)"
+  ],
+  "colloc": [
+   "manage a company(회사를 경영하다)",
+   "manage time(시간을 관리하다)",
+   "manage to finish(가까스로 끝내다)"
+  ],
+  "ex_add": "She manages a small restaurant.  (운영하다: 그녀는 작은 식당을 운영한다)"
+ },
+ {
+  "num": "1152",
+  "hw": "manager",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "조직·일을 '다뤄 꾸려 가는' 사람 = 관리자.",
+  "senses": [
+   "1) 관리자·운영자·부장",
+   "2) (팀·연예인의) 감독·매니저"
+  ],
+  "etym": "manage(관리하다) + -er. manus(손) 뿌리.",
+  "deriv": "'다뤄 꾸려 가는 사람' -> '관리자·매니저'. manus(손) 뿌리로 manage·manual과 묶인다. a sales manager(영업부장), a bank manager(은행 지점장), a team manager(팀 감독). boss(상사)와 비슷.",
+  "syn": [
+   "supervisor(감독자)",
+   "director(관리자)",
+   "boss(상사)"
+  ],
+  "anti": [
+   "employee(직원)",
+   "worker(노동자)"
+  ],
+  "idiom": [
+   "a general manager(총지배인)",
+   "a project manager(프로젝트 책임자)"
+  ],
+  "colloc": [
+   "a sales manager(영업 관리자)",
+   "a store manager(점장)",
+   "a good manager(유능한 관리자)"
+  ],
+  "ex_add": "Please speak to the manager.  (관리자: 매니저에게 말씀하세요)"
+ },
+ {
+  "num": "1153",
+  "hw": "manner",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "'손으로 다루는' 방식 = 방법·태도, 그리고 예절.",
+  "senses": [
+   "1) 방식·방법 (in this manner)",
+   "2) 태도·몸가짐",
+   "3) (manners) 예절·예의범절"
+  ],
+  "etym": "라틴어 manuarius(손의) <- manus(손). '손으로 다루는 방식'. manage·manual·manufacture가 같은 manus(손) 뿌리.",
+  "deriv": "'손으로 다루는 방식' -> 일하는 '방식' / 사람의 '태도' / 복수 '예절(table manners)'로. manus(손) 뿌리로 manage와 묶인다. good manners(예의 바름), in a ~ manner(~한 방식으로), it's bad manners to ~(~은 무례하다).",
+  "syn": [
+   "way(방식)",
+   "style(태도)",
+   "etiquette(예절)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "good manners(예의 바름)",
+   "bad manners(버릇없음)",
+   "in a manner of speaking(말하자면)",
+   "where are your manners?(예의가 어디 갔니?)"
+  ],
+  "colloc": [
+   "table manners(식사 예절)",
+   "good manners(좋은 매너)",
+   "a friendly manner(다정한 태도)"
+  ],
+  "ex_add": "It's good manners to say thank you.  (예절: 고맙다고 말하는 것은 예의다)"
+ },
+ {
+  "num": "1154",
+  "hw": "mark",
+  "pos": "n., v.",
+  "cefr": "A2",
+  "core": "표시한 '자국·점수', 그리고 '표시하다'.",
+  "senses": [
+   "1) 자국·흔적·표시",
+   "2) 점수·성적 (영국, get good marks)",
+   "3) 표시하다·채점하다 (동사)"
+  ],
+  "etym": "고대영어 mearc(경계·표시)에서. 게르만어 계열.",
+  "deriv": "'표시·자국' -> 더러운 '얼룩' / 매긴 '점수' / '표시하다·채점하다'로. a question mark(물음표), a birthmark(점), mark your answers(답을 표시하다), on your marks(제자리에). 영국 marks = 미국 grades(성적).",
+  "syn": [
+   "spot(자국)",
+   "sign(표시)",
+   "grade(점수)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "on your marks(제자리에)",
+   "leave one's mark(자취를 남기다)",
+   "hit the mark(적중하다)",
+   "a question mark(물음표)"
+  ],
+  "colloc": [
+   "a dirty mark(더러운 자국)",
+   "get good marks(좋은 점수를 받다)",
+   "mark the date(날짜를 표시하다)"
+  ],
+  "ex_add": "There is a dirty mark on your shirt.  (자국: 네 셔츠에 더러운 자국이 있어)"
+ },
+ {
+  "num": "1155",
+  "hw": "marry",
+  "pos": "v.",
+  "cefr": "A2",
+  "core": "부부의 연을 맺다 = 결혼하다.",
+  "senses": [
+   "1) ~와 결혼하다 (marry someone)",
+   "2) 결혼시키다·주례를 서다"
+  ],
+  "etym": "라틴어 maritare(결혼시키다) <- maritus(남편). married(기혼의)·marriage(결혼)가 같은 뿌리.",
+  "deriv": "'부부가 되다' -> 결혼하다. married(#0375)·marriage와 한 묶음. marry someone(전치사 없이, marry with X), get married to ~(~와 결혼하다), marry into ~(~ 집안에 시집·장가가다). divorce(이혼하다)와 짝.",
+  "syn": [
+   "wed(결혼하다)",
+   "tie the knot(결혼하다, 구어)"
+  ],
+  "anti": [
+   "divorce(이혼하다)"
+  ],
+  "idiom": [
+   "marry into money(부잣집에 장가[시집]가다)",
+   "tie the knot(백년가약을 맺다)"
+  ],
+  "colloc": [
+   "marry someone(~와 결혼하다)",
+   "get married(결혼하다)",
+   "marry young(어린 나이에 결혼하다)"
+  ],
+  "ex_add": "They got married last summer.  (결혼하다: 그들은 지난여름에 결혼했다)"
+ },
+ {
+  "num": "1156",
+  "hw": "math",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "수와 도형을 다루는 과목, 수학(mathematics의 줄임).",
+  "senses": [
+   "1) 수학 (미국 구어)"
+  ],
+  "etym": "mathematics(수학)의 줄임 — 그리스어 manthanein(배우다)에서. '배워야 할 것'이 본뜻. (영국 줄임말은 maths.)",
+  "deriv": "mathematics를 줄인 'math'(미국)·'maths'(영국). manthanein(배우다) 뿌리. do math(수학 문제를 풀다), good at math(수학을 잘하는), a math problem(수학 문제). 불가산.",
+  "syn": [
+   "mathematics(수학)",
+   "maths(수학, 영국)",
+   "arithmetic(산수)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "do the math(계산해 보다·따져 보다)",
+   "mental math(암산)"
+  ],
+  "colloc": [
+   "good at math(수학을 잘하는)",
+   "a math test(수학 시험)",
+   "do math(수학을 하다)"
+  ],
+  "ex_add": "Math is my favorite subject.  (수학: 수학은 내가 가장 좋아하는 과목이다)"
+ },
+ {
+  "num": "1157",
+  "hw": "mathematics",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "수·양·도형을 다루는 학문, 수학.",
+  "senses": [
+   "1) 수학 (격식)",
+   "2) 계산·셈"
+  ],
+  "etym": "그리스어 mathematike(배우는 것) <- manthanein(배우다). '배워야 할 학문'이 곧 수학이었다.",
+  "deriv": "'배워야 할 학문' -> '수학'. 줄임말 math(미)·maths(영). -ics로 끝나는 학문명은 단수 취급(Mathematics is hard). manthanein(배우다) 뿌리. physics·economics와 같은 -ics 무리. applied mathematics(응용 수학).",
+  "syn": [
+   "math(수학, 줄임말)",
+   "numeracy(수리력)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "pure mathematics(순수 수학)",
+   "applied mathematics(응용 수학)"
+  ],
+  "colloc": [
+   "study mathematics(수학을 공부하다)",
+   "a mathematics teacher(수학 교사)",
+   "advanced mathematics(고등 수학)"
+  ],
+  "ex_add": "Mathematics is used in many jobs.  (수학, 단수 취급: 수학은 많은 직업에 쓰인다)"
+ },
+ {
+  "num": "1158",
+  "hw": "matter",
+  "pos": "n., v.",
+  "cefr": "A2",
+  "core": "세상을 이루는 '물질', 다루어야 할 '문제', 그리고 '중요하다'.",
+  "senses": [
+   "1) 문제·일·사안 (a serious matter)",
+   "2) 물질·물체",
+   "3) 중요하다·문제가 되다 (동사)"
+  ],
+  "etym": "라틴어 materia(재료·물질) <- mater(어미·근원). material(재료)·maternal(어머니의)이 같은 mater(어미) 뿌리.",
+  "deriv": "'근원이 되는 재료(물질)' -> 다뤄야 할 '문제(a money matter)' / 동사 '중요하다(It doesn't matter)'로. mater(어미) 뿌리로 material과 묶인다. what's the matter?(무슨 일이야?), as a matter of fact(사실은), no matter what(무슨 일이 있어도).",
+  "syn": [
+   "issue(사안)",
+   "affair(일)",
+   "substance(물질)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "what's the matter?(무슨 일이야?)",
+   "as a matter of fact(사실은)",
+   "no matter what(무슨 일이 있어도)",
+   "a matter of time(시간 문제)"
+  ],
+  "colloc": [
+   "an important matter(중요한 일)",
+   "it doesn't matter(상관없다)",
+   "a money matter(돈 문제)"
+  ],
+  "ex_add": "It doesn't matter if we're late.  (중요하다, 동사: 우리가 늦어도 상관없어)"
+ },
+ {
+  "num": "1159",
+  "hw": "may",
+  "pos": "modal v.",
+  "cefr": "A2",
+  "core": "'~일지도 모른다(추측)', '~해도 된다(허락)'.",
+  "senses": [
+   "1) ~일지도 모른다 (약한 추측)",
+   "2) ~해도 된다 (격식 있는 허락)",
+   "3) (기원) ~하기를 (May you be happy)"
+  ],
+  "etym": "고대영어 magan(~할 수 있다·힘이 있다)에서. might(may의 과거)·main(힘)과 한 뿌리. (달 May는 별개 단어.)",
+  "deriv": "'~할 힘이 있다' -> 추측 '~일지도(It may rain)' / 정중한 허락 '~해도 된다(May I come in?)'로. might(더 약한 추측)가 과거형. can(구어 허락)보다 격식. may as well(~하는 편이 낫다), may well(~일 법하다).",
+  "syn": [
+   "might(~일지도 모른다)",
+   "be allowed to(~해도 된다)"
+  ],
+  "anti": [
+   "may not(~ 아닐 수도·안 된다)"
+  ],
+  "idiom": [
+   "may as well(~하는 게 낫다)",
+   "may well(충분히 ~일 법하다)",
+   "come what may(무슨 일이 있어도)",
+   "May I ~?(~해도 될까요?)"
+  ],
+  "colloc": [
+   "may be true(사실일지도 모른다)",
+   "may I help you?(도와드릴까요?)",
+   "may not(~ 아닐 수도)"
+  ],
+  "ex_add": "It may rain later, so take an umbrella.  (약한 추측: 이따 비가 올지 모르니 우산을 챙겨)"
+ },
+ {
+  "num": "1160",
+  "hw": "mayor",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "시·읍의 '으뜸 어른' = 시장(市長).",
+  "senses": [
+   "1) 시장·읍장·군수"
+  ],
+  "etym": "라틴어 maior(더 큰·연장자) <- magnus(큰). major(주요한)·maximum(최대)·mayor가 같은 maior(더 큰) 뿌리.",
+  "deriv": "'더 큰(으뜸) 사람' -> 도시의 '시장'. maior(더 큰) 뿌리로 major·maximum과 묶인다. the mayor of Seoul(서울 시장), run for mayor(시장 선거에 나서다), elect a mayor(시장을 뽑다). 발음 [메이어].",
+  "syn": [
+   "city leader(시 지도자)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "run for mayor(시장에 출마하다)",
+   "the mayor's office(시장실)"
+  ],
+  "colloc": [
+   "the mayor of ~(~의 시장)",
+   "elect a mayor(시장을 선출하다)",
+   "a former mayor(전 시장)"
+  ],
+  "ex_add": "The mayor opened the new library.  (시장: 시장이 새 도서관을 개관했다)"
+ },
+ {
+  "num": "1161",
+  "hw": "media",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "정보를 전하는 '매체' 전체 = 언론·미디어.",
+  "senses": [
+   "1) (the media) 대중 매체·언론",
+   "2) (medium의 복수) 매체·수단"
+  ],
+  "etym": "라틴어 media(가운데 것들) — medium(중간·매개)의 복수. '전달자와 수용자 사이를 잇는 것'. medium·middle·immediate가 같은 medius(중간) 뿌리.",
+  "deriv": "'사이를 잇는 것들' -> 신문·방송 등 '대중 매체'. medius(중간) 뿌리로 medium·middle과 묶인다. the media is/are(단·복수 둘 다), the mass media(대중 매체), social media(소셜 미디어). medium의 복수가 media.",
+  "syn": [
+   "the press(언론)",
+   "mass media(대중 매체)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "social media(소셜 미디어)",
+   "the mass media(대중 매체)",
+   "media coverage(언론 보도)"
+  ],
+  "colloc": [
+   "the news media(보도 매체)",
+   "social media(SNS)",
+   "media attention(언론의 관심)"
+  ],
+  "ex_add": "The story was reported by the media.  (언론: 그 사건은 언론에 보도됐다)"
+ },
+ {
+  "num": "1162",
+  "hw": "medical",
+  "pos": "adj.",
+  "cefr": "A2",
+  "core": "병을 '고치는' 일에 관한 = 의학의·의료의.",
+  "senses": [
+   "1) 의학의·의료의",
+   "2) 내과의 (medical treatment)"
+  ],
+  "etym": "라틴어 medicus(의사) <- mederi(고치다·돌보다). medicine(약)·remedy(치료)가 같은 mederi(고치다) 뿌리.",
+  "deriv": "'고치는 일에 관한' -> '의학의·의료의'. mederi(고치다) 뿌리로 medicine·remedy와 묶인다. medical care(의료), a medical school(의대), a medical check-up(건강 검진). medicine(약·의학)의 형용사.",
+  "syn": [
+   "health-related(건강 관련의)",
+   "clinical(임상의)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "medical care(의료)",
+   "a medical emergency(응급 상황)",
+   "medical history(병력)"
+  ],
+  "colloc": [
+   "medical treatment(의학적 치료)",
+   "a medical school(의과 대학)",
+   "medical advice(의학적 조언)"
+  ],
+  "ex_add": "She needs medical care right away.  (의료의: 그녀는 당장 의료 처치가 필요하다)"
+ },
+ {
+  "num": "1163",
+  "hw": "medicine",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "병을 '고치는' 약, 그리고 의학.",
+  "senses": [
+   "1) 약·약물",
+   "2) 의학·의술 (study medicine)"
+  ],
+  "etym": "라틴어 medicina(치료술·약) <- medicus(의사) <- mederi(고치다). medical·remedy가 같은 mederi(고치다) 뿌리.",
+  "deriv": "'고치는 것' -> '약(take medicine)' / '의학(study medicine)'으로. mederi(고치다) 뿌리로 medical·remedy와 묶인다. drug(약·마약)보다 중립적 '약'. take medicine(약을 먹다), laughter is the best medicine(웃음이 명약). 약은 보통 불가산.",
+  "syn": [
+   "drug(약)",
+   "medication(약물)",
+   "cure(치료법)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "take your medicine(약을 먹다·쓴 결과를 감수하다)",
+   "laughter is the best medicine(웃음이 보약)",
+   "a taste of one's own medicine(자업자득)"
+  ],
+  "colloc": [
+   "take medicine(약을 먹다)",
+   "cough medicine(기침약)",
+   "study medicine(의학을 공부하다)"
+  ],
+  "ex_add": "Take this medicine twice a day.  (약: 이 약을 하루 두 번 드세요)"
+ },
+ {
+  "num": "1164",
+  "hw": "memory",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "'마음에 담아 둔' 기억·추억, 그리고 기억력.",
+  "senses": [
+   "1) 기억력",
+   "2) 추억·기억 (childhood memories)",
+   "3) (컴퓨터) 메모리·저장 용량"
+  ],
+  "etym": "라틴어 memoria <- memor(잘 기억하는). remember(기억하다)·memorial(기념의)·commemorate(기념하다)가 같은 memor 뿌리.",
+  "deriv": "'마음에 담아 둠' -> '기억력(a good memory)' / '추억(happy memories)' / 컴퓨터 '메모리'로. memor(기억) 뿌리로 remember·memorial과 묶인다. in memory of ~(~을 기리며), from memory(기억에 의지해), a memory like a sieve(잘 잊어버림).",
+  "syn": [
+   "recollection(회상)",
+   "remembrance(기억)"
+  ],
+  "anti": [
+   "forgetfulness(건망증)"
+  ],
+  "idiom": [
+   "in memory of ~(~을 추모하여)",
+   "from memory(기억만으로)",
+   "a trip down memory lane(추억 여행)",
+   "jog one's memory(기억을 되살리다)"
+  ],
+  "colloc": [
+   "a good memory(좋은 기억력)",
+   "childhood memories(어린 시절 추억)",
+   "lose one's memory(기억을 잃다)"
+  ],
+  "ex_add": "I have happy memories of my childhood.  (추억: 나는 어린 시절의 행복한 추억이 있다)"
+ },
+ {
+  "num": "1165",
+  "hw": "metal",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "광석에서 얻는 단단한 물질, 금속.",
+  "senses": [
+   "1) 금속",
+   "2) (heavy metal) 헤비메탈 음악"
+  ],
+  "etym": "그리스어 metallon(광산·금속)에서. '캐낸 것'이 본뜻.",
+  "deriv": "'광산에서 캔 것' -> '금속'. gold·iron·silver의 상위 개념. 동음이의 medal(메달)과 혼동 주의: metal(금속)/medal(메달). made of metal(금속으로 된), a metal box(금속 상자), heavy metal(헤비메탈). 형용사 metallic.",
+  "syn": [
+   "alloy(합금)",
+   "iron(쇠)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "heavy metal(헤비메탈·중금속)",
+   "pedal to the metal(전속력으로)"
+  ],
+  "colloc": [
+   "made of metal(금속으로 만든)",
+   "a metal object(금속 물체)",
+   "precious metals(귀금속)"
+  ],
+  "ex_add": "The box is made of metal.  (금속: 그 상자는 금속으로 만들어졌다)"
+ },
+ {
+  "num": "1166",
+  "hw": "method",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "목표로 가는 '길(방법)' = 방법·방식.",
+  "senses": [
+   "1) 방법·방식",
+   "2) 체계·순서 (method in the madness)"
+  ],
+  "etym": "그리스어 methodos(추구·길) = meta(따라) + hodos(길). '목표를 좇아가는 길'. period·episode·exodus가 같은 hodos(길) 뿌리.",
+  "deriv": "'좇아가는 길' -> '방법'. hodos(길) 뿌리로 period(돎)·episode와 묶인다. way(방법)보다 체계적. a method of ~(~의 방법), the scientific method(과학적 방법), there's a method to one's madness(나름의 체계가 있다).",
+  "syn": [
+   "way(방법)",
+   "technique(기법)",
+   "approach(접근법)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "method in the madness(엉뚱해 보여도 나름의 체계)",
+   "a tried and tested method(검증된 방법)"
+  ],
+  "colloc": [
+   "a teaching method(교수법)",
+   "a simple method(간단한 방법)",
+   "the best method(최선의 방법)"
+  ],
+  "ex_add": "This is an easy method to learn words.  (방법: 이건 단어를 외우는 쉬운 방법이다)"
+ },
+ {
+  "num": "1167",
+  "hw": "middle",
+  "pos": "n., adj.",
+  "cefr": "A2",
+  "core": "양 끝에서 같은 거리인 '한가운데'.",
+  "senses": [
+   "1) 가운데·중앙 (the middle)",
+   "2) 한창·도중 (in the middle of)",
+   "3) 중간의 (the middle one)"
+  ],
+  "etym": "고대영어 middel, 인도유럽조어 *medhyo-. 라틴어 medius(media·medium·immediate)와 같은 '중간' 뿌리.",
+  "deriv": "'한가운데' -> 공간 '중앙' / 시간 '도중(in the middle of dinner)'으로. medius(중간) 뿌리로 media·medium과 묶인다. middle school(중학교), the Middle Ages(중세), the Middle East(중동), middle-aged(중년의). center(중심)와 비슷.",
+  "syn": [
+   "center(중심)",
+   "midpoint(중간점)",
+   "heart(한복판)"
+  ],
+  "anti": [
+   "edge(가장자리)",
+   "end(끝)",
+   "side(옆)"
+  ],
+  "idiom": [
+   "in the middle of ~(~의 한가운데·도중에)",
+   "the middle of nowhere(외딴곳)",
+   "middle of the road(중도의)"
+  ],
+  "colloc": [
+   "the middle of the room(방 한가운데)",
+   "middle school(중학교)",
+   "in the middle(가운데에)"
+  ],
+  "ex_add": "There is a table in the middle of the room.  (가운데: 방 한가운데에 탁자가 있다)"
+ },
+ {
+  "num": "1168",
+  "hw": "might",
+  "pos": "modal v., n.",
+  "cefr": "A2",
+  "core": "'~일지도 모른다'(may보다 약한 추측), 그리고 '힘'.",
+  "senses": [
+   "1) ~일지도 모른다 (약한 추측)",
+   "2) ~해도 될까요 (정중한 요청, may의 과거)",
+   "3) (명사) 힘·세력"
+  ],
+  "etym": "may(magan '할 수 있다')의 과거형. 명사 might(힘)도 magan(힘이 있다)에서. main(힘)·may와 한 뿌리.",
+  "deriv": "may의 과거 -> 더 약한 추측 '~일지도(It might rain)' / 정중한 표현. 명사로는 '힘(with all one's might)'. may(추측)보다 가능성이 낮음. might as well(~하는 편이 낫다), might have p.p.(~했을지도 모른다), with might and main(전력을 다해).",
+  "syn": [
+   "may(~일지도)",
+   "perhaps will(아마 ~할지도)",
+   "power(힘)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "might as well(~하는 게 낫다)",
+   "might have p.p.(~했을지도 모른다)",
+   "with all one's might(전력을 다해)"
+  ],
+  "colloc": [
+   "might be true(사실일지도 모른다)",
+   "might happen(일어날지도 모른다)",
+   "you might think(~라고 생각할 수도)"
+  ],
+  "ex_add": "She might be at home now.  (약한 추측: 그녀는 지금 집에 있을지도 몰라)"
+ },
+ {
+  "num": "1169",
+  "hw": "mind",
+  "pos": "n., v.",
+  "cefr": "A2",
+  "core": "생각·기억이 일어나는 '마음·정신', 그리고 '꺼리다'.",
+  "senses": [
+   "1) 마음·정신·지성",
+   "2) 꺼리다·언짢아하다 (Do you mind?)",
+   "3) 조심하다·신경 쓰다 (mind the gap)"
+  ],
+  "etym": "고대영어 gemynd(기억·생각) <- 인도유럽조어 *men-(생각하다). mental(정신의)·mention(언급)·remind(상기시키다)가 같은 men-(생각) 뿌리.",
+  "deriv": "'생각하는 곳' -> 명사 '마음·정신' / 동사 '꺼리다(I don't mind)·조심하다(mind your step)'로. men-(생각) 뿌리로 mental·remind와 묶인다. make up one's mind(결심하다), change one's mind(마음을 바꾸다), Do you mind ~ing?(~해도 될까요?), never mind(신경 쓰지 마).",
+  "syn": [
+   "intellect(지성)",
+   "thoughts(생각)",
+   "object to(꺼리다)"
+  ],
+  "anti": [
+   "body(몸)"
+  ],
+  "idiom": [
+   "make up one's mind(결심하다)",
+   "change one's mind(마음을 바꾸다)",
+   "never mind(신경 쓰지 마)",
+   "keep in mind(명심하다)"
+  ],
+  "colloc": [
+   "a sharp mind(예리한 지성)",
+   "Do you mind?(괜찮을까요?)",
+   "peace of mind(마음의 평안)"
+  ],
+  "ex_add": "Would you mind closing the window?  (꺼리다, Do you mind+Ving?: 창문 좀 닫아 주시겠어요?)"
+ },
+ {
+  "num": "1170",
+  "hw": "mirror",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "비춰 보는 '거울', 그리고 그대로 '비추다'.",
+  "senses": [
+   "1) 거울",
+   "2) (사회·현실을) 비추는 것 (a mirror of society)",
+   "3) 그대로 반영하다 (동사)"
+  ],
+  "etym": "라틴어 mirari(놀라 바라보다·감탄하다)에서 — '들여다보는 것'. miracle(기적)·admire(감탄하다)·marvel(경이)이 같은 mir-(바라보다·놀라다) 뿌리.",
+  "deriv": "'들여다보는 것' -> '거울' / 현실을 '비추는 것(art mirrors life)'으로 비유. mir-(바라보다) 뿌리로 miracle·admire와 묶인다. look in the mirror(거울을 보다), a rearview mirror(백미러), mirror image(거울상·좌우 대칭).",
+  "syn": [
+   "looking glass(거울)",
+   "reflector(반사경)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "mirror image(거울에 비친 상)",
+   "smoke and mirrors(눈속임)",
+   "the mirror never lies(거울은 거짓말을 안 한다)"
+  ],
+  "colloc": [
+   "look in the mirror(거울을 보다)",
+   "a bathroom mirror(욕실 거울)",
+   "a rearview mirror(백미러)"
+  ],
+  "ex_add": "She looked at herself in the mirror.  (거울: 그녀는 거울에 자신을 비춰 봤다)"
+ },
+ {
+  "num": "1171",
+  "hw": "missing",
+  "pos": "adj.",
+  "cefr": "A2",
+  "core": "있어야 할 자리에 '없는·실종된'.",
+  "senses": [
+   "1) 없어진·빠진 (a missing piece)",
+   "2) 행방불명의·실종된 (a missing child)"
+  ],
+  "etym": "miss(놓치다·없다)의 분사형. (connect: miss #0394.)",
+  "deriv": "'있어야 할 게 없는' -> 부품이 '빠진(a missing part)' / 사람이 '실종된(go missing)'으로. miss(놓치다)와 한 뿌리. go missing(행방불명되다), a missing person(실종자), the missing link(빠진 연결 고리).",
+  "syn": [
+   "lost(없어진)",
+   "absent(빠진)",
+   "gone(사라진)"
+  ],
+  "anti": [
+   "present(있는)",
+   "found(발견된)"
+  ],
+  "idiom": [
+   "go missing(행방불명되다)",
+   "the missing link(빠진 고리)",
+   "a missing person(실종자)"
+  ],
+  "colloc": [
+   "a missing child(실종 아동)",
+   "a missing piece(빠진 조각)",
+   "report ~ missing(~의 실종을 신고하다)"
+  ],
+  "ex_add": "One piece of the puzzle is missing.  (빠진: 퍼즐 조각 하나가 빠졌다)"
+ },
+ {
+  "num": "1172",
+  "hw": "monkey",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "나무를 타는 영리한 동물, 원숭이.",
+  "senses": [
+   "1) 원숭이",
+   "2) (구어) 장난꾸러기 (you little monkey)",
+   "3) (monkey around) 까불다 (동사)"
+  ],
+  "etym": "기원이 분명치 않다 — 16세기 유럽 우화에 등장하는 원숭이 이름에서 비롯됐다는 설.",
+  "deriv": "'나무 타는 동물' 원숭이 -> 까부는 아이 '장난꾸러기' / 'monkey around(까불다)'로 비유. ape(유인원)와 구별. monkey business(수상한 짓), a monkey on one's back(떨치기 힘든 짐). 복수 monkeys.",
+  "syn": [
+   "primate(영장류)",
+   "ape(유인원, 더 큼)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "monkey business(수상한 짓·장난)",
+   "monkey around(까불며 놀다)",
+   "a monkey on one's back(골치 아픈 부담)"
+  ],
+  "colloc": [
+   "a playful monkey(장난기 많은 원숭이)",
+   "monkeys climb trees(원숭이가 나무를 탄다)",
+   "a baby monkey(새끼 원숭이)"
+  ],
+  "ex_add": "The monkey climbed up the tree.  (원숭이: 원숭이가 나무 위로 올라갔다)"
+ },
+ {
+  "num": "1173",
+  "hw": "moon",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "밤하늘에 뜨는 지구의 위성, 달.",
+  "senses": [
+   "1) (the moon) 달",
+   "2) (행성의) 위성 (Jupiter's moons)"
+  ],
+  "etym": "고대영어 mona(달)에서 — month(달, 月)·Monday(달의 날)와 한 뿌리. 달의 차고 기욺으로 달력을 셌다.",
+  "deriv": "'밤하늘의 달' -> 다른 행성의 '위성'으로 확장. month·Monday와 한 뿌리. a full moon(보름달), a half moon(반달), over the moon(매우 기쁜), once in a blue moon(아주 드물게). sun(해)과 짝.",
+  "syn": [
+   "satellite(위성)",
+   "crescent(초승달)"
+  ],
+  "anti": [
+   "sun(해)"
+  ],
+  "idiom": [
+   "over the moon(뛸 듯이 기쁜)",
+   "once in a blue moon(아주 가끔)",
+   "ask for the moon(무리한 것을 바라다)",
+   "promise the moon(못 지킬 약속을 하다)"
+  ],
+  "colloc": [
+   "a full moon(보름달)",
+   "the moon shines(달이 빛나다)",
+   "land on the moon(달에 착륙하다)"
+  ],
+  "ex_add": "The full moon was bright last night.  (달: 어젯밤 보름달이 밝았다)"
+ },
+ {
+  "num": "1174",
+  "hw": "mostly",
+  "pos": "adv.",
+  "cefr": "A2",
+  "core": "대부분·주로.",
+  "senses": [
+   "1) 대부분·대개",
+   "2) 주로·거의"
+  ],
+  "etym": "most(대부분) + -ly. most는 much/many의 최상급.",
+  "deriv": "'대부분이' -> '주로(mostly sunny)'. most(대부분의, 한정사)의 부사형. mainly·largely와 비슷. The crowd was mostly young(거의 젊은 층이었다), mostly cloudy(대체로 흐림). 정도·빈도를 뭉뚱그려 나타낸다.",
+  "syn": [
+   "mainly(주로)",
+   "largely(대체로)",
+   "for the most part(대부분)"
+  ],
+  "anti": [
+   "rarely(드물게)",
+   "partly(부분적으로)"
+  ],
+  "idiom": [
+   "mostly sunny(대체로 맑은)",
+   "mostly because ~(주로 ~ 때문에)"
+  ],
+  "colloc": [
+   "mostly young(대부분 젊은)",
+   "mostly cloudy(대체로 흐린)",
+   "mostly true(대체로 사실인)"
+  ],
+  "ex_add": "The audience was mostly children.  (대부분: 관객은 대부분 아이들이었다)"
+ },
+ {
+  "num": "1175",
+  "hw": "motorcycle",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "엔진(motor)으로 달리는 두 바퀴(cycle) 탈것, 오토바이.",
+  "senses": [
+   "1) 오토바이·모터사이클"
+  ],
+  "etym": "motor(발동기) + cycle(두 바퀴 탈것). motor는 라틴어 movere(움직이다), cycle은 그리스어 kyklos(바퀴). '엔진 달린 자전거'.",
+  "deriv": "'엔진 달린 두 바퀴' -> 오토바이. motor(움직이는 것, movere)·cycle(바퀴, kyklos)의 결합. bicycle(자전거)과 짝. ride a motorcycle(오토바이를 타다), 줄여서 motorbike(영국). a motorcycle helmet(오토바이 헬멧).",
+  "syn": [
+   "motorbike(오토바이, 영국)",
+   "bike(오토바이, 구어)"
+  ],
+  "anti": [
+   "bicycle(자전거)"
+  ],
+  "idiom": [
+   "ride a motorcycle(오토바이를 타다)",
+   "a motorcycle gang(폭주족)"
+  ],
+  "colloc": [
+   "ride a motorcycle(오토바이를 타다)",
+   "a motorcycle accident(오토바이 사고)",
+   "a motorcycle helmet(오토바이 헬멧)"
+  ],
+  "ex_add": "He rides his motorcycle to work.  (오토바이: 그는 오토바이를 타고 출근한다)"
+ },
+ {
+  "num": "1176",
+  "hw": "movement",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "'움직임', 그리고 뜻을 같이하는 '운동'.",
+  "senses": [
+   "1) 움직임·이동·동작",
+   "2) (사회적) 운동 (a peace movement)",
+   "3) (음악의) 악장"
+  ],
+  "etym": "move(움직이다) + -ment. 라틴어 movere(움직이다). moment·motor·motion·promote가 같은 movere(움직이다) 뿌리.",
+  "deriv": "'움직임' -> 물리적 '이동·동작' / 사람들의 '운동(the civil rights movement)' / 교향곡의 '악장'으로. movere(움직이다) 뿌리로 moment·motor와 묶인다. a freedom movement(자유 운동), freedom of movement(이동의 자유).",
+  "syn": [
+   "motion(움직임)",
+   "campaign(운동)",
+   "gesture(동작)"
+  ],
+  "anti": [
+   "stillness(정지)"
+  ],
+  "idiom": [
+   "a grassroots movement(풀뿌리 운동)",
+   "freedom of movement(이동의 자유)"
+  ],
+  "colloc": [
+   "a sudden movement(갑작스러운 움직임)",
+   "a social movement(사회 운동)",
+   "body movement(신체 동작)"
+  ],
+  "ex_add": "The dancer's movements were beautiful.  (동작: 그 무용수의 동작은 아름다웠다)"
+ },
+ {
+  "num": "1177",
+  "hw": "musician",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "음악(music)을 연주·작곡하는 사람.",
+  "senses": [
+   "1) 음악가·연주자",
+   "2) 작곡가·뮤지션"
+  ],
+  "etym": "music(음악) + -ian(~하는 사람). 그리스어 Mousa(무사 여신). muse·museum과 한 뿌리.",
+  "deriv": "'음악을 하는 사람' -> 음악가. Muses(무사 여신) 뿌리로 music·museum과 묶인다. -ian은 직업을 만든다(politician, technician). a street musician(거리 연주자), a jazz musician(재즈 음악가), a talented musician(재능 있는 음악가).",
+  "syn": [
+   "player(연주자)",
+   "performer(공연자)",
+   "artist(예술가)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "a session musician(세션 연주자)",
+   "a street musician(거리 악사)"
+  ],
+  "colloc": [
+   "a talented musician(재능 있는 음악가)",
+   "a jazz musician(재즈 음악가)",
+   "a professional musician(전문 음악가)"
+  ],
+  "ex_add": "She dreams of becoming a musician.  (음악가: 그녀는 음악가가 되기를 꿈꾼다)"
+ },
+ {
+  "num": "1178",
+  "hw": "myself",
+  "pos": "pron.",
+  "cefr": "A2",
+  "core": "I의 재귀·강조형, '나 자신'.",
+  "senses": [
+   "1) 나 자신을[에게] (재귀)",
+   "2) 내가 직접·스스로 (강조)"
+  ],
+  "etym": "my(나의) + self(자신).",
+  "deriv": "주어와 목적어가 같을 때(I hurt myself), 또는 '직접'을 강조(I did it myself). by myself(혼자서). yourself/himself/ourselves와 같은 재귀대명사 무리. enjoy myself(즐겁게 보내다), help yourself류.",
+  "syn": [
+   "I personally(나 자신이 직접)"
+  ],
+  "anti": [
+   "yourself(너 자신)"
+  ],
+  "idiom": [
+   "by myself(혼자서·혼자 힘으로)",
+   "(all) by myself(나 혼자서)",
+   "I myself(나로서는)"
+  ],
+  "colloc": [
+   "enjoy myself(즐겁게 보내다)",
+   "by myself(혼자서)",
+   "I made it myself(내가 직접 만들었다)"
+  ],
+  "ex_add": "I made this cake myself.  (강조, 직접: 내가 직접 이 케이크를 만들었어)"
+ },
+ {
+  "num": "1179",
+  "hw": "nature",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "사람 손이 닿지 않은 '자연', 그리고 타고난 '본성'.",
+  "senses": [
+   "1) 자연·자연계",
+   "2) (사람·사물의) 본성·천성",
+   "3) 종류·성질 (the nature of ~)"
+  ],
+  "etym": "라틴어 natura(태어남·본성) <- nasci(태어나다). native·nation·natural·innate가 같은 nasci(태어나다) 뿌리.",
+  "deriv": "'태어난 그대로' -> 인공 아닌 '자연' / 타고난 '본성(human nature)'으로. nasci(태어나다) 뿌리로 natural·native와 묶인다. by nature(천성적으로), human nature(인간 본성), second nature(몸에 밴 습성), the nature of ~(~의 성질).",
+  "syn": [
+   "the wild(자연)",
+   "character(본성)",
+   "essence(본질)"
+  ],
+  "anti": [
+   "nurture(양육)",
+   "culture(인공·문화)"
+  ],
+  "idiom": [
+   "by nature(천성적으로)",
+   "human nature(인간 본성)",
+   "second nature(제2의 천성)",
+   "let nature take its course(순리에 맡기다)"
+  ],
+  "colloc": [
+   "protect nature(자연을 보호하다)",
+   "human nature(인간 본성)",
+   "good-natured(성품이 좋은)"
+  ],
+  "ex_add": "We should protect nature.  (자연: 우리는 자연을 보호해야 한다)"
+ },
+ {
+  "num": "1180",
+  "hw": "nearly",
+  "pos": "adv.",
+  "cefr": "A2",
+  "core": "거의 다 이른, '거의·하마터면'.",
+  "senses": [
+   "1) 거의",
+   "2) 하마터면 (nearly fell)"
+  ],
+  "etym": "near(가까운) + -ly. '가까이'에서 '거의'로.",
+  "deriv": "'가까이 다다른' -> '거의(nearly finished)'. almost와 거의 같은 뜻. not nearly(전혀 ~않다), nearly always(거의 항상), nearly all(거의 전부). near(가까운)의 부사형. completely(완전히)와는 다름.",
+  "syn": [
+   "almost(거의)",
+   "practically(사실상)",
+   "just about(거의)"
+  ],
+  "anti": [
+   "completely(완전히)",
+   "exactly(정확히)"
+  ],
+  "idiom": [
+   "not nearly(전혀 ~않은)",
+   "nearly always(거의 늘)",
+   "very nearly(하마터면)"
+  ],
+  "colloc": [
+   "nearly finished(거의 끝난)",
+   "nearly all(거의 전부)",
+   "nearly two hours(거의 두 시간)"
+  ],
+  "ex_add": "I'm nearly finished with my work.  (거의: 나는 일을 거의 다 끝냈다)"
+ },
+ {
+  "num": "1181",
+  "hw": "necessary",
+  "pos": "adj.",
+  "cefr": "A2",
+  "core": "없으면 안 되는, '꼭 필요한'.",
+  "senses": [
+   "1) 필요한·필수의",
+   "2) 불가피한·당연한"
+  ],
+  "etym": "라틴어 necessarius(피할 수 없는) <- necesse = ne(아닌) + cedere(물러나다·양보하다). '물러설[피할] 수 없는'. proceed·succeed·access가 같은 cedere(가다·물러나다) 뿌리.",
+  "deriv": "'피할 수 없는' -> '꼭 필요한'. cedere(가다) 뿌리로 succeed·proceed와 묶인다. unnecessary(불필요한)와 짝. if necessary(필요하다면), it is necessary to V/that ~. 명사 necessity. 강세 NEcessary.",
+  "syn": [
+   "essential(필수적인)",
+   "required(필요한)",
+   "vital(필수의)"
+  ],
+  "anti": [
+   "unnecessary(불필요한)",
+   "optional(선택적인)"
+  ],
+  "idiom": [
+   "if necessary(필요하다면)",
+   "a necessary evil(필요악)",
+   "when necessary(필요할 때)"
+  ],
+  "colloc": [
+   "absolutely necessary(절대적으로 필요한)",
+   "necessary information(필요한 정보)",
+   "it is necessary to V(~하는 것이 필요하다)"
+  ],
+  "ex_add": "It is necessary to wear a seat belt.  (필요한: 안전벨트를 매는 것은 필수다)"
+ },
+ {
+  "num": "1182",
+  "hw": "neck",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "머리와 몸통을 잇는 '목', 그리고 목처럼 좁은 부분.",
+  "senses": [
+   "1) 목",
+   "2) (옷의) 목둘레",
+   "3) (병 등의) 잘록한 목 부분"
+  ],
+  "etym": "고대영어 hnecca(목덜미)에서. 게르만어 계열.",
+  "deriv": "'머리와 몸통을 잇는 목' -> 옷의 '목둘레(a V-neck)' / 병의 '잘록한 목'으로 비유. throat(목구멍)과 구별. a stiff neck(뻣뻣한 목), neck and neck(막상막하), risk one's neck(목숨을 걸다), a pain in the neck(골칫거리).",
+  "syn": [
+   "throat(목구멍, 안쪽)",
+   "collar(목둘레)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "neck and neck(막상막하인)",
+   "a pain in the neck(골칫거리)",
+   "risk one's neck(위험을 무릅쓰다)",
+   "up to one's neck in ~(~에 깊이 빠진)"
+  ],
+  "colloc": [
+   "a long neck(긴 목)",
+   "a stiff neck(뻣뻣한 목)",
+   "around the neck(목 주위에)"
+  ],
+  "ex_add": "A giraffe has a very long neck.  (목: 기린은 목이 아주 길다)"
+ },
+ {
+  "num": "1183",
+  "hw": "nervous",
+  "pos": "adj.",
+  "cefr": "A2",
+  "core": "'신경(nerve)'이 곤두서 긴장한·불안한.",
+  "senses": [
+   "1) 긴장한·불안한·초조한",
+   "2) 신경의·신경 계통의 (the nervous system)"
+  ],
+  "etym": "라틴어 nervosus <- nervus(힘줄·신경). nerve(신경)·unnerve(불안하게 하다)가 같은 nervus(신경) 뿌리.",
+  "deriv": "'신경이 곤두선' -> '긴장한·불안한' / '신경 계통의(nervous system)'로. nervus(신경) 뿌리로 nerve와 묶인다. calm(차분한)과 짝. be nervous about ~(~ 때문에 긴장하다), get nervous(긴장하다), a nervous wreck(신경이 곤두선 사람).",
+  "syn": [
+   "anxious(불안한)",
+   "tense(긴장한)",
+   "jittery(초조한)"
+  ],
+  "anti": [
+   "calm(차분한)",
+   "relaxed(느긋한)",
+   "confident(자신 있는)"
+  ],
+  "idiom": [
+   "a nervous wreck(초긴장 상태인 사람)",
+   "the nervous system(신경계)",
+   "a bundle of nerves(잔뜩 긴장한 사람)"
+  ],
+  "colloc": [
+   "feel nervous(긴장하다)",
+   "nervous about ~(~ 때문에 불안한)",
+   "get nervous(초조해지다)"
+  ],
+  "ex_add": "I always feel nervous before a test.  (긴장한: 나는 시험 전에 늘 긴장한다)"
+ },
+ {
+  "num": "1184",
+  "hw": "network",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "그물(net)처럼 얽혀 일하는(work) 망·연결망.",
+  "senses": [
+   "1) (도로·통신) 망·네트워크",
+   "2) (사람들의) 연줄·인맥",
+   "3) 연결망을 만들다·인맥을 쌓다 (동사)"
+  ],
+  "etym": "net(그물) + work(짜임·일). '그물처럼 짜인 것'.",
+  "deriv": "'그물처럼 얽힌 것' -> 통신·도로 '망' / 사람들의 '인맥(a network of friends)'으로. a road network(도로망), a social network(소셜 네트워크), a computer network(컴퓨터 망). 동사 network(인맥을 쌓다). networking(인맥 쌓기).",
+  "syn": [
+   "web(망)",
+   "system(체계)",
+   "connections(연줄)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "a social network(인적 관계망)",
+   "an old boy network(동문 인맥)"
+  ],
+  "colloc": [
+   "a computer network(컴퓨터 네트워크)",
+   "a road network(도로망)",
+   "a network of ~(~의 망)"
+  ],
+  "ex_add": "The two computers are on the same network.  (네트워크: 두 컴퓨터는 같은 네트워크에 있다)"
+ },
+ {
+  "num": "1185",
+  "hw": "noise",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "듣기 싫은 '소음·시끄러운 소리'.",
+  "senses": [
+   "1) 소음·시끄러운 소리",
+   "2) (어떤) 소리·잡음 (a strange noise)"
+  ],
+  "etym": "라틴어 nausea(뱃멀미·메스꺼움)에서 옛 프랑스어 noise(다툼·소란)로 — 놀랍게도 nausea(메스꺼움)와 한 뿌리. (뱃사람들의 소란에서 왔다는 설.)",
+  "deriv": "'소란' -> '소음'. nausea(메스꺼움)와 한 뿌리. sound(소리, 중립)와 달리 noise는 '듣기 싫은 소리'. make noise(시끄럽게 하다), background noise(배경 소음), noise pollution(소음 공해). 형용사 noisy. 보통 불가산(소음 일반)·가산(특정 소리).",
+  "syn": [
+   "sound(소리)",
+   "din(소음)",
+   "racket(요란한 소리)"
+  ],
+  "anti": [
+   "silence(고요)",
+   "quiet(정적)"
+  ],
+  "idiom": [
+   "make a noise(시끄럽게 하다·항의하다)",
+   "background noise(배경 소음)",
+   "noise pollution(소음 공해)"
+  ],
+  "colloc": [
+   "a loud noise(큰 소음)",
+   "make noise(소음을 내다)",
+   "a strange noise(이상한 소리)"
+  ],
+  "ex_add": "What was that strange noise?  (소리: 저 이상한 소리는 뭐였지?)"
+ },
+ {
+  "num": "1186",
+  "hw": "noisy",
+  "pos": "adj.",
+  "cefr": "A2",
+  "core": "소음이 많은 '시끄러운'.",
+  "senses": [
+   "1) 시끄러운·떠들썩한"
+  ],
+  "etym": "noise(소음) + -y. nausea(메스꺼움) 뿌리.",
+  "deriv": "'소음이 많은' -> '시끄러운(a noisy class)'. quiet(조용한)와 짝. -y는 형용사를 만든다(rainy, sunny). noise(소음)의 형용사. a noisy street(번잡한 거리), too noisy(너무 시끄러운). loud(소리가 큰)와 비슷.",
+  "syn": [
+   "loud(시끄러운)",
+   "rowdy(떠들썩한)",
+   "boisterous(왁자지껄한)"
+  ],
+  "anti": [
+   "quiet(조용한)",
+   "silent(고요한)",
+   "peaceful(평온한)"
+  ],
+  "idiom": [
+   "a noisy neighbor(시끄러운 이웃)",
+   "the squeaky wheel gets the grease(시끄럽게 굴어야 챙겨 준다)"
+  ],
+  "colloc": [
+   "a noisy class(시끄러운 교실)",
+   "too noisy(너무 시끄러운)",
+   "a noisy crowd(떠들썩한 무리)"
+  ],
+  "ex_add": "The classroom was very noisy.  (시끄러운: 교실이 아주 시끄러웠다)"
+ },
+ {
+  "num": "1187",
+  "hw": "none",
+  "pos": "pron.",
+  "cefr": "A2",
+  "core": "'단 하나도 (아무것도) 없다'.",
+  "senses": [
+   "1) 아무도[아무것도] ~않다",
+   "2) 하나도 없는 (none of ~)",
+   "3) (none the +비교급) 조금도 ~않은"
+  ],
+  "etym": "고대영어 nan = ne(아닌) + an(하나). '하나도 아닌'. no·one·nothing과 한 뿌리.",
+  "deriv": "'하나도 아님' -> 'none of them(그들 중 아무도)'. no one(사람)·nothing(사물)을 아우르는 대명사. one(하나) 뿌리. none of ~(~ 중 아무것도), none other than(다름 아닌), none the wiser(여전히 모르는). 동음이의 nun(수녀).",
+  "syn": [
+   "not any(하나도 ~없는)",
+   "not one(한 명도 ~없는)"
+  ],
+  "anti": [
+   "all(모두)",
+   "some(일부)"
+  ],
+  "idiom": [
+   "none of your business(네 알 바 아니다)",
+   "none other than ~(다름 아닌 ~)",
+   "second to none(최고인)",
+   "none the wiser(여전히 깜깜한)"
+  ],
+  "colloc": [
+   "none of them(그들 중 아무도)",
+   "none left(하나도 안 남은)",
+   "none at all(전혀 없는)"
+  ],
+  "ex_add": "None of the answers were correct.  (아무것도 ~않다: 어느 답도 맞지 않았다)"
+ },
+ {
+  "num": "1188",
+  "hw": "normally",
+  "pos": "adv.",
+  "cefr": "A2",
+  "core": "기준(norm)대로 '보통·평소에는'.",
+  "senses": [
+   "1) 보통·평소에는",
+   "2) 정상적으로 (working normally)"
+  ],
+  "etym": "normal(정상의) + -ly. 라틴어 norma(목수의 직각자·기준). norm·normal·enormous가 같은 norma(기준) 뿌리.",
+  "deriv": "'기준대로' -> '보통(I normally walk)' / '정상적으로(functioning normally)'로. norma(기준) 뿌리로 norm·enormous와 묶인다. usually와 비슷. normally speaking(보통은). abnormally(비정상적으로)와 짝.",
+  "syn": [
+   "usually(보통)",
+   "generally(대개)",
+   "ordinarily(평소에)"
+  ],
+  "anti": [
+   "abnormally(비정상적으로)",
+   "unusually(유난히)"
+  ],
+  "idiom": [
+   "normally speaking(보통은)",
+   "back to normal(정상으로 돌아온)"
+  ],
+  "colloc": [
+   "normally happens(보통 일어난다)",
+   "work normally(정상 작동하다)",
+   "normally quiet(평소 조용한)"
+  ],
+  "ex_add": "I normally get up at seven.  (보통: 나는 보통 7시에 일어난다)"
+ },
+ {
+  "num": "1189",
+  "hw": "notice",
+  "pos": "v., n.",
+  "cefr": "A2",
+  "core": "눈에 띄어 '알아채다', 그리고 알리는 '게시·통지'.",
+  "senses": [
+   "1) 알아채다·눈치채다 (동사)",
+   "2) 게시문·공고",
+   "3) 통지·예고 (advance notice)"
+  ],
+  "etym": "라틴어 notitia(앎) <- notus(알려진) <- noscere(알다). note(메모)·notify(알리다)·notion(개념)이 같은 noscere(알다) 뿌리.",
+  "deriv": "'알게 됨' -> '알아채다(notice a change)' / 알리는 '게시문' / '통지(give notice)'로. noscere(알다) 뿌리로 note·notify와 묶인다. take notice of ~(~에 주목하다), at short notice(촉박하게), until further notice(추후 공지가 있을 때까지).",
+  "syn": [
+   "see(알아채다)",
+   "spot(발견하다)",
+   "announcement(공고)"
+  ],
+  "anti": [
+   "ignore(못 보고 지나치다)",
+   "overlook(간과하다)"
+  ],
+  "idiom": [
+   "take notice(주목하다)",
+   "at short notice(급히)",
+   "until further notice(추후 통지까지)",
+   "give notice(통보하다)"
+  ],
+  "colloc": [
+   "notice a change(변화를 알아채다)",
+   "a notice board(게시판)",
+   "hardly notice(거의 알아채지 못하다)"
+  ],
+  "ex_add": "Did you notice anything strange?  (알아채다: 뭔가 이상한 걸 알아챘어?)"
+ },
+ {
+  "num": "1190",
+  "hw": "nowhere",
+  "pos": "adv.",
+  "cefr": "A2",
+  "core": "'아무 데도 ~없다'.",
+  "senses": [
+   "1) 아무 데도 ~않다",
+   "2) (nowhere near) 전혀 ~아닌"
+  ],
+  "etym": "no(없는) + where(곳). '아무 곳도 아닌'.",
+  "deriv": "'아무 곳도 아님' -> '아무 데도(go nowhere)'. somewhere(어딘가)·anywhere(어디든)·everywhere(어디나)와 한 묶음. 그 자체가 부정어. out of nowhere(난데없이), in the middle of nowhere(외딴곳에), get nowhere(진척이 없다), nowhere near(어림도 없는).",
+  "syn": [
+   "not anywhere(아무 데도 ~않다)"
+  ],
+  "anti": [
+   "somewhere(어딘가)",
+   "everywhere(어디에나)"
+  ],
+  "idiom": [
+   "out of nowhere(난데없이)",
+   "in the middle of nowhere(외딴곳에)",
+   "get nowhere(진전이 없다)",
+   "nowhere near(전혀 ~아닌)"
+  ],
+  "colloc": [
+   "nowhere to go(갈 곳이 없는)",
+   "nowhere to be found(어디에도 없는)",
+   "go nowhere(아무 데도 못 가다)"
+  ],
+  "ex_add": "There was nowhere to sit on the bus.  (아무 데도 ~없다: 버스에 앉을 자리가 아무 데도 없었다)"
+ }
+]
