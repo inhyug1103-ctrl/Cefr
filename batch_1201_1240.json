@@ -1,0 +1,1295 @@
+[
+ {
+  "num": "1201",
+  "hw": "ourselves",
+  "pos": "pron.",
+  "cefr": "A2",
+  "core": "we의 재귀·강조형, '우리 자신'.",
+  "senses": [
+   "1) 우리 자신을[에게] (재귀)",
+   "2) 우리가 직접·스스로 (강조)"
+  ],
+  "etym": "our(우리의) + selves(self의 복수). myself·yourself의 복수 짝.",
+  "deriv": "주어와 목적어가 같을 때(We enjoyed ourselves), '직접'을 강조(We built it ourselves). by ourselves(우리끼리·우리 힘으로). myself/yourself/themselves와 같은 재귀대명사 무리. self -> selves(복수).",
+  "syn": [
+   "we personally(우리 자신이 직접)"
+  ],
+  "anti": [
+   "themselves(그들 자신)"
+  ],
+  "idiom": [
+   "by ourselves(우리끼리·우리 힘으로)",
+   "enjoy ourselves(즐겁게 보내다)",
+   "keep ~ to ourselves(우리만 알다)"
+  ],
+  "colloc": [
+   "enjoy ourselves(즐겁게 지내다)",
+   "by ourselves(우리끼리)",
+   "we did it ourselves(우리가 직접 했다)"
+  ],
+  "ex_add": "We enjoyed ourselves at the party.  (재귀: 우리는 파티에서 즐겁게 보냈다)"
+ },
+ {
+  "num": "1202",
+  "hw": "outside",
+  "pos": "prep., adv., n.",
+  "cefr": "A2",
+  "core": "무언가의 '바깥쪽에·밖에'.",
+  "senses": [
+   "1) ~의 밖에 (전치사)",
+   "2) (부사) 밖에·밖으로",
+   "3) 바깥쪽·외부 (명사)"
+  ],
+  "etym": "out(밖) + side(쪽). '바깥쪽'.",
+  "deriv": "'바깥쪽' -> 전치사 '~밖에(outside the house)' / 부사 '밖으로(go outside)' / 명사 '외부(the outside)'로. inside(안쪽)와 짝. outside of ~(~을 제외하고, 미국 구어), from the outside(밖에서 보면).",
+  "syn": [
+   "out(밖에)",
+   "outdoors(실외에)",
+   "exterior(외부)"
+  ],
+  "anti": [
+   "inside(안에)",
+   "indoors(실내에)",
+   "interior(내부)"
+  ],
+  "idiom": [
+   "outside the box(틀을 벗어나)",
+   "at the outside(기껏해야)",
+   "outside of ~(~ 외에, 미국)"
+  ],
+  "colloc": [
+   "outside the house(집 밖에)",
+   "go outside(밖으로 나가다)",
+   "the outside world(바깥세상)"
+  ],
+  "ex_add": "The children are playing outside.  (밖에서, 부사: 아이들이 밖에서 놀고 있다)"
+ },
+ {
+  "num": "1203",
+  "hw": "oven",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "굽고 데우는 조리 기구, 오븐.",
+  "senses": [
+   "1) 오븐·화덕",
+   "2) (비유) 찜통 같은 곳 (like an oven)"
+  ],
+  "etym": "고대영어 ofen(화덕)에서. 게르만어 계열.",
+  "deriv": "'굽는 화덕' -> 오븐 / 비유로 '찜통(The room was like an oven)'으로. a microwave oven(전자레인지), preheat the oven(오븐을 예열하다), bun in the oven(임신한, 구어). stove(가스레인지)와 구별.",
+  "syn": [
+   "stove(화덕)",
+   "furnace(가마)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "like an oven(찜통 같은)",
+   "a bun in the oven(임신 중인)"
+  ],
+  "colloc": [
+   "a hot oven(뜨거운 오븐)",
+   "preheat the oven(오븐을 예열하다)",
+   "put in the oven(오븐에 넣다)"
+  ],
+  "ex_add": "She baked bread in the oven.  (오븐: 그녀는 오븐에 빵을 구웠다)"
+ },
+ {
+  "num": "1204",
+  "hw": "own",
+  "pos": "adj., v.",
+  "cefr": "A2",
+  "core": "'자기 자신의', 그리고 '소유하다'.",
+  "senses": [
+   "1) 자기 자신의 (my own room)",
+   "2) 소유하다·가지다 (동사)",
+   "3) (own up) 잘못을 인정하다"
+  ],
+  "etym": "고대영어 agen(소유된) <- agan(가지다). owe(빚지다)·owner(소유주)와 한 뿌리.",
+  "deriv": "'자기 것인' -> 강조의 '자신의(my own)' / 동사 '소유하다(own a car)'로. owe(빚지다)와 한 뿌리. on one's own(혼자 힘으로·홀로), of one's own(자기만의), own up(잘못을 시인하다), hold one's own(잘 버티다). 명사 owner.",
+  "syn": [
+   "possess(소유하다)",
+   "have(가지다)",
+   "personal(자신의)"
+  ],
+  "anti": [
+   "rent(빌리다)",
+   "borrow(빌리다)"
+  ],
+  "idiom": [
+   "on one's own(혼자 힘으로)",
+   "of one's own(자기만의)",
+   "own up(잘못을 인정하다)",
+   "hold one's own(굴하지 않다)"
+  ],
+  "colloc": [
+   "my own room(나만의 방)",
+   "own a house(집을 소유하다)",
+   "on my own(혼자서)"
+  ],
+  "ex_add": "She has her own car.  (자신의: 그녀는 자기 차가 있다)"
+ },
+ {
+  "num": "1205",
+  "hw": "owner",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "무언가를 소유한(own) 사람 = 주인.",
+  "senses": [
+   "1) 주인·소유자",
+   "2) 소유주·점주 (the shop owner)"
+  ],
+  "etym": "own(소유하다) + -er. agan(가지다) 뿌리.",
+  "deriv": "'소유한 사람' -> '주인'. own(소유하다)·owe(빚지다)와 한 묶음. a car owner(차주), a dog owner(개 주인), the rightful owner(정당한 소유자). 명사 ownership(소유권). tenant(세입자)와 짝.",
+  "syn": [
+   "proprietor(소유주)",
+   "holder(보유자)",
+   "possessor(소유자)"
+  ],
+  "anti": [
+   "tenant(세입자)",
+   "renter(임차인)"
+  ],
+  "idiom": [
+   "the rightful owner(정당한 소유자)",
+   "a proud owner(자랑스러운 주인)"
+  ],
+  "colloc": [
+   "the owner of ~(~의 주인)",
+   "a business owner(사업주)",
+   "a dog owner(개 주인)"
+  ],
+  "ex_add": "The owner of the shop was very kind.  (주인: 그 가게 주인은 아주 친절했다)"
+ },
+ {
+  "num": "1206",
+  "hw": "pain",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "몸·마음의 '아픔·고통'. 본뜻은 '벌'.",
+  "senses": [
+   "1) (몸의) 아픔·통증",
+   "2) (마음의) 고통·괴로움",
+   "3) (a pain) 골칫거리·성가신 것"
+  ],
+  "etym": "라틴어 poena(벌·형벌) <- 그리스어 poine. penalty(벌)·punish(벌하다)와 같은 poena(벌) 뿌리.",
+  "deriv": "'벌(고통)' -> 몸의 '통증' / 마음의 '괴로움' / 성가신 '골칫거리(a pain in the neck)'로. poena(벌) 뿌리로 penalty·punish와 묶인다. no pain, no gain(고통 없이 얻는 것 없다), take pains(공들이다), a pain in the neck(골칫거리). 형용사 painful.",
+  "syn": [
+   "ache(쑤심)",
+   "suffering(고통)",
+   "discomfort(불편)"
+  ],
+  "anti": [
+   "pleasure(즐거움)",
+   "comfort(편안함)"
+  ],
+  "idiom": [
+   "no pain, no gain(고생 끝에 낙)",
+   "a pain in the neck(골칫거리)",
+   "take pains(애쓰다)",
+   "feel someone's pain(공감하다)"
+  ],
+  "colloc": [
+   "feel pain(아픔을 느끼다)",
+   "a sharp pain(쿡 쑤시는 통증)",
+   "back pain(허리 통증)"
+  ],
+  "ex_add": "I have a sharp pain in my stomach.  (통증: 배가 쿡쿡 쑤시게 아프다)"
+ },
+ {
+  "num": "1207",
+  "hw": "painter",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "그림을 그리거나 칠을 하는(paint) 사람.",
+  "senses": [
+   "1) 화가",
+   "2) 도장공·페인트칠하는 사람"
+  ],
+  "etym": "paint(그리다·칠하다) + -er. 라틴어 pingere(그리다). picture·pigment와 한 pingere(그리다) 뿌리.",
+  "deriv": "'그리는/칠하는 사람' -> 예술 '화가' / '도장공'으로. pingere(그리다) 뿌리로 paint·picture와 묶인다. a famous painter(유명 화가), a house painter(집 도장공). artist(예술가)와 비슷하나 painter는 '그림·칠'에 한정.",
+  "syn": [
+   "artist(화가)",
+   "decorator(도장공)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "a portrait painter(초상화가)",
+   "a landscape painter(풍경화가)"
+  ],
+  "colloc": [
+   "a famous painter(유명 화가)",
+   "a house painter(집 도장공)",
+   "a great painter(위대한 화가)"
+  ],
+  "ex_add": "Van Gogh was a famous painter.  (화가: 반 고흐는 유명한 화가였다)"
+ },
+ {
+  "num": "1208",
+  "hw": "palace",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "임금이 사는 으리으리한 '궁전'.",
+  "senses": [
+   "1) 궁전·왕궁",
+   "2) (비유) 호화로운 큰 건물"
+  ],
+  "etym": "라틴어 palatium — 로마 황제들이 살던 팔라티노 언덕(Palatine Hill)에서. 그 언덕 이름이 '궁전'이 됐다.",
+  "deriv": "'팔라티노 언덕(황제의 거처)' -> '궁전' / 호화로운 큰 건물 비유. 형용사 palatial(궁전 같은). Buckingham Palace(버킹엄 궁전), a royal palace(왕궁). castle(성)과 구별: palace는 '거주용 궁전', castle은 '방어용 성'.",
+  "syn": [
+   "castle(성)",
+   "mansion(대저택)",
+   "court(궁정)"
+  ],
+  "anti": [
+   "hut(오두막)",
+   "shack(판잣집)"
+  ],
+  "idiom": [
+   "a royal palace(왕궁)",
+   "a palace coup(궁중 쿠데타)"
+  ],
+  "colloc": [
+   "a royal palace(왕궁)",
+   "an old palace(옛 궁전)",
+   "visit a palace(궁전을 방문하다)"
+  ],
+  "ex_add": "The king lived in a grand palace.  (궁전: 그 왕은 웅장한 궁전에 살았다)"
+ },
+ {
+  "num": "1209",
+  "hw": "parking",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "차를 세워 두는 일, 주차.",
+  "senses": [
+   "1) 주차",
+   "2) 주차 공간 (free parking)"
+  ],
+  "etym": "park(주차하다)의 명사형(-ing). park는 '울 친 땅(parricus)'에서 — 차를 들여 두는 데서 '주차'로. (connect: park #0471.)",
+  "deriv": "'차를 세워 둠' -> '주차'. park(주차하다)와 한 묶음. a parking lot(주차장, 미국)·a car park(주차장, 영국), no parking(주차 금지), a parking ticket(주차 위반 딱지), parking space(주차 공간). 불가산.",
+  "syn": [
+   "parking space(주차 공간)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "no parking(주차 금지)",
+   "a parking lot(주차장)",
+   "a parking ticket(주차 딱지)"
+  ],
+  "colloc": [
+   "free parking(무료 주차)",
+   "a parking space(주차 공간)",
+   "parking is not allowed(주차 불가)"
+  ],
+  "ex_add": "There is no parking on this street.  (주차: 이 거리에는 주차가 안 된다)"
+ },
+ {
+  "num": "1210",
+  "hw": "particular",
+  "pos": "adj.",
+  "cefr": "A2",
+  "core": "여럿 중 '바로 그 하나의' = 특정한·까다로운.",
+  "senses": [
+   "1) 특정한·특별한 (this particular case)",
+   "2) 까다로운·꼼꼼한 (particular about)",
+   "3) (in particular) 특히"
+  ],
+  "etym": "라틴어 particularis <- particula(작은 부분) <- pars(부분). part·particle·party가 같은 pars(부분) 뿌리.",
+  "deriv": "'하나의 작은 부분' -> 콕 집은 '특정한(a particular reason)' / 세세히 따지는 '까다로운(particular about food)'으로. pars(부분) 뿌리로 part·particle과 묶인다. in particular(특히), nothing in particular(특별한 것 없이). general(일반적인)과 짝.",
+  "syn": [
+   "specific(특정한)",
+   "fussy(까다로운)",
+   "exact(엄밀한)"
+  ],
+  "anti": [
+   "general(일반적인)",
+   "ordinary(보통의)"
+  ],
+  "idiom": [
+   "in particular(특히)",
+   "nothing in particular(별것 아닌)",
+   "particular about ~(~에 까다로운)"
+  ],
+  "colloc": [
+   "a particular reason(특정한 이유)",
+   "in particular(특히)",
+   "particular about food(음식에 까다로운)"
+  ],
+  "ex_add": "Is there any particular reason you're late?  (특정한: 네가 늦은 특별한 이유라도 있어?)"
+ },
+ {
+  "num": "1211",
+  "hw": "passenger",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "탈것을 타고 '지나가는' 사람 = 승객.",
+  "senses": [
+   "1) 승객·탑승객"
+  ],
+  "etym": "옛 프랑스어 passagier <- passage(지나감) <- passer(지나가다). pass·passport·passage가 같은 pass(지나가다) 뿌리. (n은 나중에 끼어들었다.)",
+  "deriv": "'타고 지나가는 사람' -> '승객'. pass(지나가다) 뿌리로 passport·passage와 묶인다. driver(운전자)와 짝. a passenger seat(조수석), an airline passenger(항공 승객), a back-seat passenger(뒷좌석 승객).",
+  "syn": [
+   "traveler(여행자)",
+   "commuter(통근자)",
+   "rider(탑승자)"
+  ],
+  "anti": [
+   "driver(운전자)",
+   "pilot(조종사)"
+  ],
+  "idiom": [
+   "a passenger seat(조수석)",
+   "a fellow passenger(동승객)"
+  ],
+  "colloc": [
+   "airline passengers(항공 승객)",
+   "a passenger seat(승객 좌석)",
+   "carry passengers(승객을 태우다)"
+  ],
+  "ex_add": "The plane was full of passengers.  (승객: 비행기는 승객으로 가득했다)"
+ },
+ {
+  "num": "1212",
+  "hw": "past",
+  "pos": "n., adj., prep.",
+  "cefr": "A2",
+  "core": "이미 '지나간' 때 = 과거, 그리고 '~을 지나서'.",
+  "senses": [
+   "1) (the past) 과거",
+   "2) 지난·과거의 (the past few days)",
+   "3) ~을 지나서 / ~시 ~분 지난 (전치사)"
+  ],
+  "etym": "동사 pass(지나가다)의 옛 분사형에서 — '지나간'. pass·passenger·passport와 한 pass(지나가다) 뿌리.",
+  "deriv": "'지나간' -> 명사 '과거(in the past)' / 형용사 '지난(past events)' / 전치사 '~을 지나서·~시 ~분(half past two)'으로. present(현재)·future(미래)와 짝. pass(지나가다) 뿌리. in the past(과거에), past tense(과거 시제), walk past(지나쳐 걷다).",
+  "syn": [
+   "former times(옛날)",
+   "previous(지난)",
+   "by(~을 지나)"
+  ],
+  "anti": [
+   "present(현재)",
+   "future(미래)"
+  ],
+  "idiom": [
+   "in the past(과거에)",
+   "a thing of the past(옛일)",
+   "half past ~(~시 30분)",
+   "past one's prime(전성기가 지난)"
+  ],
+  "colloc": [
+   "in the past(과거에)",
+   "the past week(지난주)",
+   "past experience(과거 경험)"
+  ],
+  "ex_add": "We learned about the past in history class.  (과거: 우리는 역사 시간에 과거에 대해 배웠다)"
+ },
+ {
+  "num": "1213",
+  "hw": "pattern",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "본받을 '본', 되풀이되는 '무늬·양상'.",
+  "senses": [
+   "1) 무늬·문양",
+   "2) (반복되는) 양상·패턴 (a pattern of behavior)",
+   "3) 본·틀·도안"
+  ],
+  "etym": "라틴어 patronus(보호자·본보기)에서 — '본받을 모범'이 '본·무늬'로. patron(후원자)과 한 뿌리.",
+  "deriv": "'본받을 모범(본)' -> 옷의 '도안' / 반복되는 '무늬' / 행동의 '양상(a pattern of ~)'으로. patron(후원자)과 한 뿌리. a floral pattern(꽃무늬), follow a pattern(일정한 양상을 보이다), a sleep pattern(수면 패턴).",
+  "syn": [
+   "design(도안)",
+   "motif(무늬)",
+   "trend(양상)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "follow a pattern(일정한 양상을 따르다)",
+   "a pattern of behavior(행동 양상)"
+  ],
+  "colloc": [
+   "a floral pattern(꽃무늬)",
+   "a regular pattern(규칙적인 패턴)",
+   "weather patterns(날씨 양상)"
+  ],
+  "ex_add": "Her dress has a flower pattern.  (무늬: 그녀의 원피스에는 꽃무늬가 있다)"
+ },
+ {
+  "num": "1214",
+  "hw": "pay",
+  "pos": "v., n.",
+  "cefr": "A2",
+  "core": "본뜻은 '달래다'. 값을 치러 '지불하다', 그리고 '급여'.",
+  "senses": [
+   "1) (돈을) 내다·지불하다",
+   "2) (관심·경의를) 보이다 (pay attention)",
+   "3) 급여·보수 (명사) / 이득이 되다"
+  ],
+  "etym": "라틴어 pacare(달래다·만족시키다) <- pax(평화). 빚쟁이를 '달래(만족시켜)' 갚는 데서. peace·pacify가 같은 pax(평화) 뿌리.",
+  "deriv": "'(빚쟁이를) 달래다' -> 돈을 '지불하다(pay the bill)' / 관심을 '기울이다(pay attention)' / 명사 '급여'로. pax(평화) 뿌리로 peace와 묶인다(놀라운 연결!). pay-paid-paid. pay back(갚다), pay off(성과를 내다), pay attention(주목하다).",
+  "syn": [
+   "spend(내다)",
+   "settle(치르다)",
+   "wages(급여)"
+  ],
+  "anti": [
+   "earn(벌다)",
+   "charge(청구하다)"
+  ],
+  "idiom": [
+   "pay attention(주의를 기울이다)",
+   "pay off(결실을 보다)",
+   "pay back(되갚다)",
+   "crime doesn't pay(범죄는 득이 안 된다)"
+  ],
+  "colloc": [
+   "pay the bill(계산하다)",
+   "pay in cash(현금으로 내다)",
+   "good pay(좋은 보수)"
+  ],
+  "ex_add": "How much did you pay for it?  (지불하다: 그거 얼마 주고 샀어?)"
+ },
+ {
+  "num": "1215",
+  "hw": "peace",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "다툼 없는 '평화', 마음의 '평온'.",
+  "senses": [
+   "1) 평화 (전쟁의 반대)",
+   "2) 평온·고요 (peace and quiet)",
+   "3) 화해·평정"
+  ],
+  "etym": "라틴어 pax/pacem(평화)에서. pacify(달래다)·pacific(평화로운)·pay(달래 갚다)가 같은 pax(평화) 뿌리.",
+  "deriv": "'다툼 없는 상태' -> 나라 간 '평화' / 마음의 '평온(inner peace)'으로. pax(평화) 뿌리로 pacify·pay와 묶인다. war(전쟁)와 짝. peace and quiet(평온), make peace(화해하다), at peace(평온한), peace of mind(마음의 평안). 동음이의 piece(조각).",
+  "syn": [
+   "calm(평온)",
+   "harmony(화합)",
+   "tranquility(고요)"
+  ],
+  "anti": [
+   "war(전쟁)",
+   "conflict(분쟁)"
+  ],
+  "idiom": [
+   "peace and quiet(평온과 고요)",
+   "make peace(화해하다)",
+   "peace of mind(마음의 안정)",
+   "hold one's peace(잠자코 있다)"
+  ],
+  "colloc": [
+   "world peace(세계 평화)",
+   "make peace(평화를 이루다)",
+   "live in peace(평화롭게 살다)"
+  ],
+  "ex_add": "Everyone hopes for world peace.  (평화: 모두가 세계 평화를 바란다)"
+ },
+ {
+  "num": "1216",
+  "hw": "penny",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "영·미의 가장 작은 동전, 페니.",
+  "senses": [
+   "1) 페니 (영국 1펜스 / 미국 1센트 동전)",
+   "2) (a penny) 한 푼·약간의 돈"
+  ],
+  "etym": "고대영어 penig(동전)에서. 복수는 pennies(동전 낱개)·pence(금액, 영국).",
+  "deriv": "'가장 작은 동전' -> '한 푼'. 복수 구별: pennies(동전 개수) vs pence(금액, 영국). a penny for your thoughts(무슨 생각해?), spend a penny(화장실 가다, 영국 완곡), not a penny(한 푼도 ~없는), pennies from heaven(뜻밖의 횡재).",
+  "syn": [
+   "cent(센트)",
+   "coin(동전)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "a penny for your thoughts(무슨 생각 하니?)",
+   "spend a penny(화장실에 가다, 영국)",
+   "cost a pretty penny(꽤 비싸다)",
+   "in for a penny, in for a pound(시작했으면 끝장을 봐라)"
+  ],
+  "colloc": [
+   "a few pennies(몇 푼)",
+   "not a penny(한 푼도)",
+   "every penny(한 푼까지)"
+  ],
+  "ex_add": "I don't have a single penny left.  (한 푼: 나는 한 푼도 안 남았다)"
+ },
+ {
+  "num": "1217",
+  "hw": "per",
+  "pos": "prep.",
+  "cefr": "A2",
+  "core": "'~마다·~당' — 단위당 비율을 나타낸다.",
+  "senses": [
+   "1) ~당·~마다 (per person)",
+   "2) ~에 따라 (as per ~)"
+  ],
+  "etym": "라틴어 per(통하여·~에 의해·~마다)에서. percent·perfect·perhaps의 per-(통하여·완전히)와 한 뿌리.",
+  "deriv": "'~을 통하여' -> 단위 '~당(per hour)'. per-(통하여·완전히)는 percent(100당)·perfect(완전히 만든)·perhaps(우연에 의해)에도. miles per hour(시속), per person(1인당), per day(하루에), as per usual(여느 때처럼).",
+  "syn": [
+   "each(~마다)",
+   "for every(~당)",
+   "a/an(~에)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "as per ~(~에 따라)",
+   "as per usual(평소대로)",
+   "per annum(연간)"
+  ],
+  "colloc": [
+   "per person(1인당)",
+   "per hour(시간당)",
+   "per day(하루에)"
+  ],
+  "ex_add": "The ticket costs ten dollars per person.  (~당: 표는 1인당 10달러다)"
+ },
+ {
+  "num": "1218",
+  "hw": "percent",
+  "pos": "n., adv.",
+  "cefr": "A2",
+  "core": "'100당(per cent)' 얼마 = 퍼센트(%).",
+  "senses": [
+   "1) 퍼센트·백분율 (%)",
+   "2) 100분의 ~"
+  ],
+  "etym": "라틴어 per centum(100당) = per(~마다) + centum(백). cent·century·percent가 같은 centum(100) 뿌리.",
+  "deriv": "'100당' -> 백분율 '퍼센트(%)'. per(~마다) + centum(100). century·cent와 한 뿌리. 50 percent(50퍼센트), a high percentage(높은 비율). 숫자 뒤에서 단수 취급(ten percent). (영국 percent / per cent 둘 다.) 비율은 percentage.",
+  "syn": [
+   "percentage(백분율)",
+   "proportion(비율)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "a hundred percent(전적으로·완전히)",
+   "give a hundred percent(전력을 다하다)"
+  ],
+  "colloc": [
+   "ten percent(10퍼센트)",
+   "a high percent(높은 비율)",
+   "percent of ~(~의 퍼센트)"
+  ],
+  "ex_add": "About fifty percent of students passed.  (퍼센트: 학생의 약 50퍼센트가 통과했다)"
+ },
+ {
+  "num": "1219",
+  "hw": "perform",
+  "pos": "v.",
+  "cefr": "A2",
+  "core": "끝까지 '완수하다·해내다', 무대에서 '공연하다'.",
+  "senses": [
+   "1) (일·임무를) 수행하다·해내다",
+   "2) 공연하다·연주하다",
+   "3) (기계·사람이) 작동[활약]하다"
+  ],
+  "etym": "옛 프랑스어 parfournir(완전히 갖추다·끝내다) = par(끝까지) + fournir(채우다). '끝까지 다 채워 해냄'. furnish(갖추다)와 통한다.",
+  "deriv": "'끝까지 다 해냄' -> 임무를 '수행하다(perform a task)' / 무대에서 '공연하다(perform a play)'로. per-(끝까지)와 연결되어 인식되기도. perform well(좋은 성과를 내다). 명사 performance(공연·성과), 사람 performer.",
+  "syn": [
+   "carry out(수행하다)",
+   "do(해내다)",
+   "present(공연하다)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "perform a task(임무를 수행하다)",
+   "perform well(잘 해내다)",
+   "perform a miracle(기적을 행하다)"
+  ],
+  "colloc": [
+   "perform a play(연극을 공연하다)",
+   "perform surgery(수술을 하다)",
+   "perform on stage(무대에서 공연하다)"
+  ],
+  "ex_add": "The band performed on stage.  (공연하다: 그 밴드가 무대에서 공연했다)"
+ },
+ {
+  "num": "1220",
+  "hw": "perhaps",
+  "pos": "adv.",
+  "cefr": "A2",
+  "core": "'우연에 의해 그럴 수도' = 아마·어쩌면.",
+  "senses": [
+   "1) 아마·어쩌면 (불확실한 추측)",
+   "2) (정중한 제안) ~하면 어떨까요"
+  ],
+  "etym": "per(~에 의해) + hap(우연·운)의 복수 haps. '우연에 의해'. happen·happy·mishap이 같은 hap(운) 뿌리.",
+  "deriv": "'우연에 따라' -> '아마(Perhaps it will rain)' / 정중한 제안(Perhaps we could ~)으로. hap(운) 뿌리로 happen·happy와 묶인다. maybe(더 구어적)와 비슷. probably(아마, 더 높은 확률)와 구별. 문장 앞·뒤에 자유로이.",
+  "syn": [
+   "maybe(아마)",
+   "possibly(어쩌면)",
+   "conceivably(아마도)"
+  ],
+  "anti": [
+   "definitely(틀림없이)",
+   "certainly(분명히)"
+  ],
+  "idiom": [
+   "perhaps so(그럴지도)",
+   "perhaps not(아닐지도)"
+  ],
+  "colloc": [
+   "perhaps later(나중에 아마)",
+   "perhaps you're right(네 말이 맞을지도)",
+   "just perhaps(어쩌면 정말로)"
+  ],
+  "ex_add": "Perhaps we should leave now.  (정중한 제안: 어쩌면 지금 떠나는 게 좋겠다)"
+ },
+ {
+  "num": "1221",
+  "hw": "permission",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "무언가를 하도록 '통과시켜 줌' = 허락.",
+  "senses": [
+   "1) 허락·허가",
+   "2) 승인"
+  ],
+  "etym": "라틴어 permittere(통과시키다·허락하다) = per(통하여) + mittere(보내다). '~을 통해 보내 줌'. mission·transmit·message·admit가 같은 mittere(보내다) 뿌리.",
+  "deriv": "'통과시켜 줌' -> '허락'. permit(허락하다)의 명사. mittere(보내다) 뿌리로 mission·message와 묶인다. ask permission(허락을 구하다), with permission(허락을 받고), without permission(무단으로), give permission(허가하다). 불가산.",
+  "syn": [
+   "consent(동의)",
+   "approval(승인)",
+   "authorization(허가)"
+  ],
+  "anti": [
+   "prohibition(금지)",
+   "refusal(거부)"
+  ],
+  "idiom": [
+   "ask for permission(허락을 구하다)",
+   "with permission(허락하에)",
+   "without permission(무단으로)"
+  ],
+  "colloc": [
+   "give permission(허락하다)",
+   "get permission(허락을 받다)",
+   "written permission(서면 허가)"
+  ],
+  "ex_add": "You need permission to leave early.  (허락: 일찍 가려면 허락을 받아야 한다)"
+ },
+ {
+  "num": "1222",
+  "hw": "personality",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "그 사람만의 '성격·개성'.",
+  "senses": [
+   "1) 성격·개성",
+   "2) 매력·인격 (have personality)",
+   "3) 유명 인사 (a TV personality)"
+  ],
+  "etym": "person(사람) + -ality. 라틴어 persona(배우의 가면·배역)에서. personal·persona와 한 persona 뿌리.",
+  "deriv": "'그 사람다움' -> '성격·개성' / 끌리는 '매력' / 방송 '유명인'으로. persona(가면) 뿌리로 person·personal과 묶인다. a strong personality(강한 개성), a split personality(이중인격), a TV personality(방송인). character(성격·됨됨이)와 비슷.",
+  "syn": [
+   "character(성격)",
+   "temperament(기질)",
+   "nature(천성)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "a split personality(이중인격)",
+   "a personality clash(성격 충돌)",
+   "force of personality(인격의 힘)"
+  ],
+  "colloc": [
+   "a strong personality(강한 개성)",
+   "a friendly personality(상냥한 성격)",
+   "a TV personality(방송 유명인)"
+  ],
+  "ex_add": "She has a cheerful personality.  (성격: 그녀는 쾌활한 성격이다)"
+ },
+ {
+  "num": "1223",
+  "hw": "pet",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "집에서 기르며 아끼는 동물, 반려동물.",
+  "senses": [
+   "1) 반려동물·애완동물",
+   "2) 귀염둥이 (a teacher's pet)",
+   "3) 쓰다듬다 (동사)"
+  ],
+  "etym": "스코틀랜드·북잉글랜드 방언에서 '응석받이·귀염둥이'를 뜻하던 데서. 기원은 불확실.",
+  "deriv": "'아끼는 동물' -> 반려동물 / 귀염받는 '귀염둥이(teacher's pet)' / '쓰다듬다(동사)'로. a pet dog(반려견), keep a pet(반려동물을 기르다), a pet peeve(질색하는 것), the teacher's pet(선생님이 예뻐하는 학생).",
+  "syn": [
+   "companion animal(반려동물)",
+   "domestic animal(가축)"
+  ],
+  "anti": [
+   "wild animal(야생 동물)"
+  ],
+  "idiom": [
+   "a teacher's pet(선생님의 귀염둥이)",
+   "a pet peeve(특히 싫어하는 것)",
+   "a pet project(애착 사업)"
+  ],
+  "colloc": [
+   "a pet dog(반려견)",
+   "keep a pet(반려동물을 기르다)",
+   "a pet shop(반려동물 가게)"
+  ],
+  "ex_add": "They keep a cat as a pet.  (반려동물: 그들은 고양이를 반려동물로 키운다)"
+ },
+ {
+  "num": "1224",
+  "hw": "photograph",
+  "pos": "n., v.",
+  "cefr": "A2",
+  "core": "'빛으로 그린' 사진, 그리고 사진을 찍다.",
+  "senses": [
+   "1) 사진",
+   "2) 사진을 찍다 (동사)"
+  ],
+  "etym": "그리스어 phos/photos(빛) + graphein(그리다·쓰다). '빛으로 그린 것'. photo·photon·graph·paragraph가 같은 뿌리.",
+  "deriv": "'빛으로 그린 것' -> '사진'. 줄임말 photo(#0485). photos(빛) + graphein(그리다) — telegraph·autograph(graphein), photon(photos)과 묶인다. take a photograph(사진을 찍다), a black-and-white photograph(흑백 사진). picture와 비슷.",
+  "syn": [
+   "photo(사진)",
+   "picture(사진)",
+   "snapshot(스냅 사진)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "take a photograph(사진을 찍다)",
+   "a family photograph(가족사진)"
+  ],
+  "colloc": [
+   "take a photograph(사진을 찍다)",
+   "an old photograph(오래된 사진)",
+   "a photograph of ~(~의 사진)"
+  ],
+  "ex_add": "He took a photograph of the sunset.  (사진: 그는 노을 사진을 찍었다)"
+ },
+ {
+  "num": "1225",
+  "hw": "physical",
+  "pos": "adj.",
+  "cefr": "A2",
+  "core": "마음이 아닌 '몸의·물질의' = 신체의·물리적인.",
+  "senses": [
+   "1) 신체의·육체의",
+   "2) 물질의·물리적인",
+   "3) (명사) 신체검사 (a physical)"
+  ],
+  "etym": "그리스어 physis(자연·본성) -> physikos(자연의). physics(물리학)·physician(내과 의사)이 같은 physis(자연) 뿌리.",
+  "deriv": "'자연·물질에 관한' -> 정신 아닌 '신체의(physical health)' / 추상 아닌 '물리적인(physical evidence)'으로. physis(자연) 뿌리로 physics·physician과 묶인다. mental(정신의)·spiritual(정신적)과 짝. physical exercise(운동), physical education(체육, PE).",
+  "syn": [
+   "bodily(신체의)",
+   "material(물질의)",
+   "tangible(만질 수 있는)"
+  ],
+  "anti": [
+   "mental(정신의)",
+   "spiritual(정신적인)"
+  ],
+  "idiom": [
+   "physical education(체육)",
+   "get physical(완력을 쓰다)",
+   "a physical exam(신체검사)"
+  ],
+  "colloc": [
+   "physical health(신체 건강)",
+   "physical activity(신체 활동)",
+   "physical strength(체력)"
+  ],
+  "ex_add": "Regular exercise improves physical health.  (신체의: 규칙적 운동은 신체 건강을 좋게 한다)"
+ },
+ {
+  "num": "1226",
+  "hw": "physics",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "물질과 에너지의 '자연 법칙'을 다루는 학문, 물리학.",
+  "senses": [
+   "1) 물리학",
+   "2) (사물의) 물리적 성질"
+  ],
+  "etym": "그리스어 ta physika(자연에 관한 것들) <- physis(자연). physical·physician이 같은 physis(자연) 뿌리.",
+  "deriv": "'자연을 다루는 학문' -> 물리학. physis(자연) 뿌리로 physical과 묶인다. -ics로 끝나는 학문명은 단수 취급(Physics is hard). mathematics·economics와 같은 무리. nuclear physics(핵물리학), the laws of physics(물리 법칙).",
+  "syn": [
+   "physical science(물상 과학)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "the laws of physics(물리 법칙)",
+   "quantum physics(양자 물리학)"
+  ],
+  "colloc": [
+   "study physics(물리학을 공부하다)",
+   "a physics teacher(물리 교사)",
+   "nuclear physics(핵물리학)"
+  ],
+  "ex_add": "Physics explains how the world works.  (물리학, 단수 취급: 물리학은 세상이 어떻게 작동하는지 설명한다)"
+ },
+ {
+  "num": "1227",
+  "hw": "pilot",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "비행기·배를 '조종하는' 사람, 조종사.",
+  "senses": [
+   "1) (비행기) 조종사",
+   "2) (배의) 도선사",
+   "3) 시험적인·예비의 (a pilot program)"
+  ],
+  "etym": "이탈리아어 pilota(키잡이)에서 — 본래 '배의 키잡이'가 '비행기 조종사'로 넓어졌다.",
+  "deriv": "'키를 잡는 사람' -> '조종사' / 형용사 '시험적인(a pilot study)'으로. an airline pilot(항공 조종사), a fighter pilot(전투기 조종사), a pilot episode(시범 방송분). passenger(승객)와 짝.",
+  "syn": [
+   "aviator(비행사)",
+   "flier(조종사)",
+   "captain(기장)"
+  ],
+  "anti": [
+   "passenger(승객)"
+  ],
+  "idiom": [
+   "a pilot study(예비 연구)",
+   "a pilot program(시범 프로그램)",
+   "on autopilot(자동 조종으로·무의식적으로)"
+  ],
+  "colloc": [
+   "an airline pilot(항공 조종사)",
+   "a fighter pilot(전투기 조종사)",
+   "a pilot's license(조종사 면허)"
+  ],
+  "ex_add": "The pilot landed the plane safely.  (조종사: 조종사가 비행기를 무사히 착륙시켰다)"
+ },
+ {
+  "num": "1228",
+  "hw": "planet",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "별 사이를 '떠도는' 천체 = 행성.",
+  "senses": [
+   "1) 행성",
+   "2) (the planet) 지구"
+  ],
+  "etym": "그리스어 planetes(떠도는 것) <- planasthai(헤매다·떠돌다). 붙박이별(fixed star)과 달리 하늘을 '떠도는' 것이라 붙은 이름.",
+  "deriv": "'하늘을 떠도는 것' -> '행성' / '지구(save the planet)'로. star(스스로 빛나는 별)와 구별: planet은 '별 주위를 도는 떠돌이별'. the planets(행성들), planet Earth(지구), another planet(딴 세상, 비유). 형용사 planetary.",
+  "syn": [
+   "world(천체)",
+   "celestial body(천체)"
+  ],
+  "anti": [
+   "star(항성)"
+  ],
+  "idiom": [
+   "save the planet(지구를 구하다)",
+   "be on another planet(딴 세상에 있다·정신이 딴 데 가 있다)"
+  ],
+  "colloc": [
+   "planet Earth(지구)",
+   "the planets(행성들)",
+   "a distant planet(먼 행성)"
+  ],
+  "ex_add": "Mars is the fourth planet from the Sun.  (행성: 화성은 태양에서 네 번째 행성이다)"
+ },
+ {
+  "num": "1229",
+  "hw": "plant",
+  "pos": "n., v.",
+  "cefr": "A2",
+  "core": "땅에 뿌리내린 '식물', 그리고 씨를 '심다'.",
+  "senses": [
+   "1) 식물·초목",
+   "2) 심다·(씨를) 뿌리다 (동사)",
+   "3) 공장·발전소 (a power plant)"
+  ],
+  "etym": "라틴어 planta(어린싹·발바닥)에서 — 발로 눌러 모종을 심던 데서. plantation(농장)과 한 planta 뿌리.",
+  "deriv": "'심은 어린싹' -> '식물' / '심다(plant a tree)' / 생산 시설 '공장(a chemical plant)'으로. planta(싹) 뿌리로 plantation과 묶인다. animal(동물)과 짝(식물). water the plants(식물에 물을 주다), a power plant(발전소), plant a seed(씨를 심다).",
+  "syn": [
+   "vegetation(초목)",
+   "sow(심다)",
+   "factory(공장)"
+  ],
+  "anti": [
+   "animal(동물)",
+   "harvest(수확하다)"
+  ],
+  "idiom": [
+   "a power plant(발전소)",
+   "plant a seed(씨를 뿌리다·생각을 심다)"
+  ],
+  "colloc": [
+   "water the plants(식물에 물을 주다)",
+   "plant a tree(나무를 심다)",
+   "a house plant(실내 화초)"
+  ],
+  "ex_add": "She planted flowers in the garden.  (심다: 그녀는 정원에 꽃을 심었다)"
+ },
+ {
+  "num": "1230",
+  "hw": "plastic",
+  "pos": "n., adj.",
+  "cefr": "A2",
+  "core": "마음대로 '빚어 만드는' 합성수지, 플라스틱.",
+  "senses": [
+   "1) 플라스틱",
+   "2) 플라스틱의·합성수지의",
+   "3) 모양을 잘 바꾸는·성형의 (plastic surgery)"
+  ],
+  "etym": "그리스어 plastikos(빚어 만들 수 있는) <- plassein(빚다·만들다). plaster(회반죽)·plasticity(가소성)가 같은 plassein(빚다) 뿌리.",
+  "deriv": "'빚어 만들 수 있는' -> 자유로이 빚는 '플라스틱' / '성형의(plastic surgery)'로. plassein(빚다) 뿌리로 plaster와 묶인다. a plastic bag(비닐봉지), plastic surgery(성형 수술), single-use plastic(일회용 플라스틱). 환경 어휘로 자주 등장.",
+  "syn": [
+   "synthetic(합성의)",
+   "artificial(인공의)"
+  ],
+  "anti": [
+   "natural(천연의)"
+  ],
+  "idiom": [
+   "plastic surgery(성형 수술)",
+   "pay with plastic(카드로 결제하다)"
+  ],
+  "colloc": [
+   "a plastic bag(비닐봉지)",
+   "plastic bottles(플라스틱 병)",
+   "recycle plastic(플라스틱을 재활용하다)"
+  ],
+  "ex_add": "Please don't use plastic bags.  (플라스틱: 비닐봉지를 쓰지 마세요)"
+ },
+ {
+  "num": "1231",
+  "hw": "plate",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "음식을 담는 '납작한 접시'.",
+  "senses": [
+   "1) 접시",
+   "2) 판·금속판 (a steel plate)",
+   "3) 번호판 (a license plate)"
+  ],
+  "etym": "라틴어 platus(평평한) <- 그리스어 platys(넓적한). platform·plateau·plaza가 같은 platys(평평한) 뿌리.",
+  "deriv": "'평평한 것' -> 음식 '접시' / 금속 '판' / 차 '번호판'으로. platys(평평한) 뿌리로 platform과 묶인다. bowl(움푹한 그릇)과 구별: plate는 '평평한 접시'. a license plate(번호판), have a lot on one's plate(할 일이 산더미인).",
+  "syn": [
+   "dish(접시)",
+   "platter(큰 접시)"
+  ],
+  "anti": [
+   "bowl(움푹한 그릇)"
+  ],
+  "idiom": [
+   "have a lot on one's plate(할 일이 많다)",
+   "hand ~ on a plate(쉽게 거저 주다)",
+   "a license plate(자동차 번호판)"
+  ],
+  "colloc": [
+   "a dinner plate(접시)",
+   "a plate of food(음식 한 접시)",
+   "a paper plate(종이 접시)"
+  ],
+  "ex_add": "She put the food on a plate.  (접시: 그녀는 음식을 접시에 담았다)"
+ },
+ {
+  "num": "1232",
+  "hw": "platform",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "'평평하게(plat) 만든(form)' 단·승강장.",
+  "senses": [
+   "1) (역의) 승강장·플랫폼",
+   "2) 연단·무대·단(壇)",
+   "3) (정당의) 강령 / (컴퓨터) 플랫폼"
+  ],
+  "etym": "프랑스어 plateforme = plat(평평한, 그리스어 platys) + forme(형태, 라틴어 forma). '평평한 면'. plate·plaza와 plat-(평평) 뿌리, formal·uniform과 forma(형태) 뿌리.",
+  "deriv": "'평평하게 만든 면' -> 역의 '승강장' / 연설 '연단' / 정당 '강령' / 디지털 '플랫폼'으로. plat-(평평)·forma(형태)의 결합으로 plate·formal과 묶인다. on platform 3(3번 승강장에서), a digital platform(디지털 플랫폼).",
+  "syn": [
+   "stage(무대)",
+   "podium(연단)",
+   "stand(단)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "a political platform(정강·정책)",
+   "a launch platform(발사대)"
+  ],
+  "colloc": [
+   "a train platform(기차 승강장)",
+   "platform 3(3번 플랫폼)",
+   "a digital platform(디지털 플랫폼)"
+  ],
+  "ex_add": "The train leaves from platform two.  (승강장: 기차는 2번 승강장에서 출발한다)"
+ },
+ {
+  "num": "1233",
+  "hw": "please",
+  "pos": "exclam., v.",
+  "cefr": "A2",
+  "core": "정중함을 더하는 '부디', 그리고 '기쁘게 하다'.",
+  "senses": [
+   "1) 부디·제발 (정중한 요청)",
+   "2) 기쁘게 하다·만족시키다 (동사)",
+   "3) ~하고 싶은 대로 (do as you please)"
+  ],
+  "etym": "라틴어 placere(마음에 들다·기쁘게 하다)에서. pleasant(기분 좋은)·pleasure(기쁨)·pleased가 같은 placere(기쁘게 하다) 뿌리.",
+  "deriv": "'기쁘게 하다' -> 부탁을 부드럽게 하는 'please(부디)' / '만족시키다(hard to please)' / 'as you please(원하는 대로)'로. placere(기쁘게) 뿌리로 pleasure·pleasant와 묶인다. Yes, please(네, 부탁해요), please yourself(마음대로 해), if you please(괜찮으시다면).",
+  "syn": [
+   "kindly(부디)",
+   "satisfy(만족시키다)",
+   "delight(기쁘게 하다)"
+  ],
+  "anti": [
+   "displease(불쾌하게 하다)",
+   "annoy(짜증 나게 하다)"
+  ],
+  "idiom": [
+   "yes, please(네, 부탁해요)",
+   "please yourself(맘대로 해)",
+   "as you please(좋을 대로)",
+   "hard to please(비위 맞추기 어려운)"
+  ],
+  "colloc": [
+   "please help(좀 도와줘)",
+   "aim to please(만족시키려 애쓰다)",
+   "please come in(어서 들어오세요)"
+  ],
+  "ex_add": "Could you help me, please?  (정중한 요청: 저 좀 도와주시겠어요?)"
+ },
+ {
+  "num": "1234",
+  "hw": "pleased",
+  "pos": "adj.",
+  "cefr": "A2",
+  "core": "마음에 들어 '기쁜·만족한'.",
+  "senses": [
+   "1) 기쁜·만족한 (pleased with)",
+   "2) 기꺼이 하는 (pleased to V)"
+  ],
+  "etym": "please(기쁘게 하다)의 분사형. placere(기쁘게 하다) 뿌리.",
+  "deriv": "'기쁘게 된' -> '만족한(pleased with the result)' / '기꺼이(pleased to help)'로. placere(기쁘게) 뿌리로 please·pleasure와 묶인다. happy와 비슷하나 '만족'의 색. pleased with ~(~에 만족한), pleased to meet you(만나서 반가워요), -ed(느끼는 사람) 형.",
+  "syn": [
+   "happy(기쁜)",
+   "satisfied(만족한)",
+   "glad(반가운)"
+  ],
+  "anti": [
+   "displeased(불만스러운)",
+   "annoyed(짜증 난)"
+  ],
+  "idiom": [
+   "pleased to meet you(만나서 반갑습니다)",
+   "pleased as punch(아주 기뻐하는)",
+   "pleased with oneself(우쭐한)"
+  ],
+  "colloc": [
+   "pleased with ~(~에 만족한)",
+   "pleased to V(기꺼이 ~하다)",
+   "very pleased(아주 기쁜)"
+  ],
+  "ex_add": "I'm very pleased with my new bike.  (pleased with=~에 만족한: 나는 새 자전거가 아주 마음에 든다)"
+ },
+ {
+  "num": "1235",
+  "hw": "pocket",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "옷에 달린 작은 '주머니'.",
+  "senses": [
+   "1) (옷의) 주머니",
+   "2) (작은) 무리·구역 (a pocket of resistance)",
+   "3) 호주머니 사정·돈"
+  ],
+  "etym": "북프랑스어 poquet(작은 자루) <- poque(자루)의 축소형. pouch(주머니)·poke와 통한다.",
+  "deriv": "'작은 자루' -> 옷의 '주머니' / 작은 '구역(pockets of poverty)' / '주머니 사정'으로. pickpocket(소매치기), pocket money(용돈), out of pocket(돈을 손해 본), line one's pockets(사복을 채우다), deep pockets(두둑한 재력).",
+  "syn": [
+   "pouch(주머니)",
+   "compartment(칸)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "pocket money(용돈)",
+   "out of pocket(자기 돈을 들인)",
+   "line one's pockets(사복을 채우다)",
+   "deep pockets(두둑한 주머니)"
+  ],
+  "colloc": [
+   "a coat pocket(외투 주머니)",
+   "put in your pocket(주머니에 넣다)",
+   "pocket money(용돈)"
+  ],
+  "ex_add": "He put his hands in his pockets.  (주머니: 그는 주머니에 손을 넣었다)"
+ },
+ {
+  "num": "1236",
+  "hw": "polite",
+  "pos": "adj.",
+  "cefr": "A2",
+  "core": "'매끄럽게 다듬어진' 태도 = 예의 바른.",
+  "senses": [
+   "1) 예의 바른·정중한",
+   "2) 예의상의·형식적인 (a polite smile)"
+  ],
+  "etym": "라틴어 politus(닦여 매끈한) <- polire(닦다·광내다). polish(광내다)와 한 polire(닦다) 뿌리.",
+  "deriv": "'잘 닦인(다듬어진)' -> 태도가 '예의 바른'. polire(닦다) 뿌리로 polish와 묶인다. rude(무례한)와 짝. be polite to ~(~에게 정중하다), it is polite to V(~하는 것이 예의다). 부사 politely, 명사 politeness.",
+  "syn": [
+   "courteous(정중한)",
+   "well-mannered(예의 바른)",
+   "civil(공손한)"
+  ],
+  "anti": [
+   "rude(무례한)",
+   "impolite(버릇없는)"
+  ],
+  "idiom": [
+   "it's polite to ~(~하는 것이 예의다)",
+   "a polite smile(예의상의 미소)"
+  ],
+  "colloc": [
+   "polite to ~(~에게 예의 바른)",
+   "a polite reply(정중한 답변)",
+   "always polite(항상 예의 바른)"
+  ],
+  "ex_add": "It's polite to say thank you.  (예의 바른: 고맙다고 말하는 것이 예의다)"
+ },
+ {
+  "num": "1237",
+  "hw": "pollution",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "환경을 '더럽힘' = 오염.",
+  "senses": [
+   "1) 오염·공해",
+   "2) 오염 물질"
+  ],
+  "etym": "라틴어 polluere(더럽히다)에서. pollute(오염시키다)·pollutant(오염 물질)가 같은 뿌리.",
+  "deriv": "'더럽힘' -> 환경 '오염'. pollute(오염시키다)의 명사. air pollution(대기 오염), water pollution(수질 오염), noise pollution(소음 공해), environmental pollution(환경 오염). 불가산. 환경 주제 핵심어.",
+  "syn": [
+   "contamination(오염)",
+   "dirtiness(더러움)"
+  ],
+  "anti": [
+   "cleanliness(청결)",
+   "purity(순수)"
+  ],
+  "idiom": [
+   "air pollution(대기 오염)",
+   "noise pollution(소음 공해)",
+   "light pollution(빛 공해)"
+  ],
+  "colloc": [
+   "air pollution(대기 오염)",
+   "reduce pollution(오염을 줄이다)",
+   "water pollution(수질 오염)"
+  ],
+  "ex_add": "Air pollution is a serious problem in big cities.  (오염: 대기 오염은 대도시의 심각한 문제다)"
+ },
+ {
+  "num": "1238",
+  "hw": "population",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "한곳에 사는 '사람들의 수' = 인구.",
+  "senses": [
+   "1) 인구",
+   "2) (특정 지역·집단의) 개체 수·주민"
+  ],
+  "etym": "라틴어 populus(사람들)에서. people·popular·public이 같은 populus(사람들) 뿌리.",
+  "deriv": "'사람들의 수' -> '인구'. populus(사람들) 뿌리로 people·popular와 묶인다. a large population(많은 인구), population growth(인구 증가), the world population(세계 인구), an aging population(고령화 인구). 동물 개체 수에도.",
+  "syn": [
+   "inhabitants(주민)",
+   "number of people(인구수)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "population growth(인구 증가)",
+   "an aging population(고령화 인구)"
+  ],
+  "colloc": [
+   "a large population(많은 인구)",
+   "the world population(세계 인구)",
+   "population density(인구 밀도)"
+  ],
+  "ex_add": "The city has a population of two million.  (인구: 그 도시는 인구가 200만이다)"
+ },
+ {
+  "num": "1239",
+  "hw": "possession",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "'가지고 있음' = 소유, 그리고 가진 물건.",
+  "senses": [
+   "1) 소유·보유 (in possession of)",
+   "2) (possessions) 소유물·재산"
+  ],
+  "etym": "라틴어 possidere(차지하다) = potis(주인·능력 있는) + sedere(앉다). '주인으로 앉아 있음'. possible·potent(potis), sit·session(sedere)이 같은 뿌리.",
+  "deriv": "'주인으로 앉아 차지함' -> '소유' / 가진 '재산(personal possessions)'으로. possess(소유하다)의 명사. potis(능력) 뿌리로 possible과, sedere(앉다) 뿌리로 sit와 묶인다. in possession of ~(~을 소유한), take possession of ~(~을 차지하다). 재산은 보통 복수 possessions.",
+  "syn": [
+   "ownership(소유권)",
+   "belongings(소지품)",
+   "property(재산)"
+  ],
+  "anti": [
+   "-"
+  ],
+  "idiom": [
+   "in possession of ~(~을 소유한)",
+   "take possession of ~(~을 손에 넣다)",
+   "possession is nine-tenths of the law(점유가 곧 권리)"
+  ],
+  "colloc": [
+   "personal possessions(개인 소지품)",
+   "take possession(소유하다)",
+   "prized possession(가장 아끼는 물건)"
+  ],
+  "ex_add": "She lost all her possessions in the fire.  (소유물: 그녀는 화재로 전 재산을 잃었다)"
+ },
+ {
+  "num": "1240",
+  "hw": "possibility",
+  "pos": "n.",
+  "cefr": "A2",
+  "core": "일어날 수 '있음' = 가능성.",
+  "senses": [
+   "1) 가능성·있을 법함",
+   "2) (possibilities) 가망·잠재력"
+  ],
+  "etym": "possible(가능한) + -ity. 라틴어 posse(할 수 있다)에서. possible·potent·power가 같은 posse(할 수 있다) 뿌리.",
+  "deriv": "'할 수 있음' -> '가능성'. possible(형용사)의 명사. posse(할 수 있다) 뿌리로 possible·power와 묶인다. impossibility(불가능)와 짝. a strong possibility(높은 가능성), rule out the possibility(가능성을 배제하다), endless possibilities(무한한 가능성). probability(확률)와 비슷.",
+  "syn": [
+   "chance(가능성)",
+   "likelihood(있을 법함)",
+   "prospect(가망)"
+  ],
+  "anti": [
+   "impossibility(불가능)",
+   "certainty(확실성)"
+  ],
+  "idiom": [
+   "a distinct possibility(분명한 가능성)",
+   "rule out the possibility(가능성을 배제하다)",
+   "endless possibilities(무한한 가능성)"
+  ],
+  "colloc": [
+   "a strong possibility(높은 가능성)",
+   "the possibility of ~(~의 가능성)",
+   "a real possibility(실제 가능성)"
+  ],
+  "ex_add": "There is a possibility of rain tomorrow.  (가능성: 내일 비가 올 가능성이 있다)"
+ }
+]
