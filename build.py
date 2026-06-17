@@ -116,8 +116,9 @@ def card_table(c):
     ex_paras = ''
     if c.get('ex_orig'):
         r = run('[발췌] ', 15, '1F4E79', b=True) + run(c['ex_orig'], 16, i=True)
-        if c.get('ex_src'):
-            r += run('  (%s)' % c['ex_src'], 13, '999999')
+        src = (c.get('ex_src') or '').split(' | ')[0].strip()
+        if src:
+            r += run('  (%s)' % src, 13, '999999')
         ex_paras += para(r)
     if c.get('ex_add'):
         ex_paras += para(run('[추가] ', 15, 'C55A11', b=True) + run(c['ex_add'], 16))
