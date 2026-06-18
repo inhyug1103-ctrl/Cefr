@@ -116241,5 +116241,3334 @@
   "ex_add": "Customers are highly satisfied with the new service.  (satisfied=만족한)",
   "ex_orig": "Serbians are not satisfied and say that more attacks are being planned on Bulgarian soil, with the object of cutting off supplies from the Serbian Army.",
   "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3342",
+  "hw": "satisfy",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "충분히 채워 주다 -> '만족시키다 / (조건을) 충족하다 / 납득시키다'.",
+  "senses": [
+   "1) 만족시키다·흡족하게 하다",
+   "2) (욕구·조건을) 충족하다·채우다",
+   "3) 납득시키다·확신시키다"
+  ],
+  "etym": "라틴어 satis(충분히) + facere(만들다) -> satisfacere(충분히 채우다) -> 'satisfy'. '충분히 채워 줌'이 핵심. satis(충분히)는 satisfy·satisfaction(3340)·satiate(물리게 하다)·saturate(흠뻑 적시다)의 뿌리.",
+  "deriv": "satis(충분히)+facere(만들다) -> 'satisfy'. '충분히 채움 -> 만족시키다(satisfy customers, 고객을 만족시키다)·(조건을) 충족하다(satisfy the requirements, 요건을 충족하다)'. 한국 학습자 핵심: satis(충분히) 갈래 — satisfaction(3340)·satisfied(3341)·satiate(물리게 하다)·saturate(포화시키다)·sated(배부른)! facere(만들다) 갈래 — fact(2657)·factory(공장)·effect(효과)·manufacture(제조). satisfy a need(욕구를 충족하다), hard to satisfy(만족시키기 어려운). please(기쁘게 하다)·fulfill(충족하다)·meet(충족하다)와 유의어. 반대 dissatisfy(불만스럽게 하다)·disappoint(실망시키다).",
+  "syn": [
+   "please(기쁘게 하다)",
+   "fulfill(충족하다)",
+   "meet(충족하다)"
+  ],
+  "anti": [
+   "dissatisfy(불만스럽게 하다)",
+   "disappoint(실망시키다)"
+  ],
+  "idiom": [
+   "satisfy a need(욕구를 충족하다)",
+   "satisfy the requirements(요건을 충족하다)"
+  ],
+  "colloc": [
+   "satisfy customers(고객을 만족시키다)",
+   "satisfy demand(수요를 충족하다)",
+   "hard to satisfy(만족시키기 어려운)"
+  ],
+  "ex_add": "The meal was not enough to satisfy his hunger.  (satisfy=충족하다)",
+  "ex_orig": "Time only was asked to see what could be done to preserve that peace and satisfy Austria's grievances to the uttermost farthing.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3343",
+  "hw": "saving",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "아껴 둠 -> '절약·절감 / 저축(savings)'.",
+  "senses": [
+   "1) 절약·절감(a saving of ~)",
+   "2) (savings) 저축·저금",
+   "3) (the saving of) 구함·구제"
+  ],
+  "etym": "라틴어 salvus(안전한) -> 고대 프랑스어 sauver(구하다·안전하게 하다) -> save(구하다·아끼다) + -ing. '축내지 않고 안전하게 챙겨 둠'이 핵심. salvus(안전한)는 save·safe(안전한)·salvage(구조)·salvation(구원)의 뿌리.",
+  "deriv": "salvus(안전한) -> save(구하다·아끼다) -> 'saving'. '아껴 둠 -> 절약(a saving of $50, 50달러 절감)·(savings) 저축(life savings, 평생 모은 돈)'. 한국 학습자 핵심: salvus(안전한) 갈래 — save·safe(안전한)·salvage(구조하다)·salvation(구원)·salutary(유익한)! savings account(예금 계좌), savings bank(저축은행), a saving grace(나쁜 중 그나마 좋은 점). economy(절약)·reduction(3275, 절감)과 유의어. 반대 expense(지출)·spending(소비).",
+  "syn": [
+   "economy(절약)",
+   "reduction(절감)",
+   "thrift(검약)"
+  ],
+  "anti": [
+   "expense(지출)",
+   "spending(소비)"
+  ],
+  "idiom": [
+   "savings account(예금 계좌)",
+   "a saving grace(그나마 좋은 점)"
+  ],
+  "colloc": [
+   "life savings(평생 모은 돈)",
+   "cost saving(비용 절감)",
+   "energy saving(에너지 절약)"
+  ],
+  "ex_add": "Buying in bulk leads to big savings.  (saving=절감)",
+  "ex_orig": "Persons desiring to invest their savings at a small but sure interest rate will be able to buy the certificates at a 5 per cent. loan.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3344",
+  "hw": "scale",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "사다리·눈금 -> '규모·등급 / 저울 / 비늘'.",
+  "senses": [
+   "1) 규모·범위; 척도·등급",
+   "2) (지도·악기의) 비율·음계; 눈금",
+   "3) 저울; (물고기의) 비늘"
+  ],
+  "etym": "라틴어 scala(사다리·계단, scandere=오르다) -> 'scale'. 사다리의 '단계·눈금'에서 '척도·규모'로 발전. (비늘 뜻은 게르만어 skala=껍질에서 온 별개 어원.) scala(사다리)는 scale·escalate(확대되다)·escalator(에스컬레이터)의 뿌리.",
+  "deriv": "scala(사다리) -> 'scale'. '사다리의 단계 -> 눈금·척도 -> 등급·규모(on a large scale, 대규모로)·(눈금이 있는) 저울'. 한국 학습자 핵심: scala(사다리·오르다) 갈래 — escalate(단계적으로 확대되다)·escalator(에스컬레이터)·scan(훑다)! on a large/small scale(대/소규모로), scale of 1 to 10(1~10 등급), tip the scales(저울추를 기울이다·결정적이다), scale up/down(규모를 키우다/줄이다). size(크기)·extent(범위)·magnitude(규모)와 유의어.",
+  "syn": [
+   "size(크기)",
+   "extent(범위)",
+   "magnitude(규모)"
+  ],
+  "anti": [],
+  "idiom": [
+   "on a large scale(대규모로)",
+   "tip the scales(결정적이 되다)",
+   "scale up(규모를 키우다)"
+  ],
+  "colloc": [
+   "large-scale(대규모의)",
+   "scale of the problem(문제의 규모)",
+   "pay scale(급여 등급)"
+  ],
+  "ex_add": "The disaster happened on a massive scale.  (scale=규모)",
+  "ex_orig": "Let us now go up a step in the social scale and inquire whether those born in the mercantile class are as progressive as the peasantry.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3345",
+  "hw": "scandal",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "걸려 넘어지게 하는 덫 -> '추문·스캔들 / 물의'.",
+  "senses": [
+   "1) 추문·스캔들·부정 사건",
+   "2) 망신·수치스러운 일",
+   "3) 험담·중상"
+  ],
+  "etym": "그리스어 skandalon(걸려 넘어지게 하는 덫·올가미) -> 라틴어 scandalum -> 'scandal'. '사람을 걸려 넘어지게 하는 함정 -> 명예를 떨어뜨리는 추문'이 핵심.",
+  "deriv": "skandalon(덫) -> 'scandal'. '걸려 넘어지게 하는 덫 -> (명예를 떨어뜨리는) 추문(a political scandal, 정치 스캔들)'. 한국 학습자 핵심: slander(중상모략)와 어원·뜻이 헷갈리지만 별개! scandalous(수치스러운)·scandalize(분개하게 하다)가 가족. cause a scandal(물의를 일으키다), corruption scandal(부패 스캔들), be embroiled in a scandal(스캔들에 휘말리다). disgrace(불명예)·outrage(공분)와 유의어.",
+  "syn": [
+   "disgrace(불명예)",
+   "outrage(공분)",
+   "controversy(논란)"
+  ],
+  "anti": [],
+  "idiom": [
+   "cause a scandal(물의를 일으키다)",
+   "embroiled in a scandal(스캔들에 휘말린)"
+  ],
+  "colloc": [
+   "political scandal(정치 스캔들)",
+   "corruption scandal(부패 스캔들)",
+   "sex scandal(성 추문)"
+  ],
+  "ex_add": "The corruption scandal forced the mayor to resign.  (scandal=스캔들)",
+  "ex_orig": "The Watergate scandal, which would consume the larger part of his second term, resulted in his ultimate resignation on August 4, 1974.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "3346",
+  "hw": "scare",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "겁주다 -> '겁주다·겁먹다 / 공포·불안'.",
+  "senses": [
+   "1) 겁주다·놀라게 하다",
+   "2) 겁먹다·무서워하다",
+   "3) (n.) (갑작스러운) 공포·불안·소동"
+  ],
+  "etym": "고대 노르드어 skirra(겁먹게 하다, skjarr=겁 많은). '갑자기 놀라 움츠러들게 함'이 핵심.",
+  "deriv": "skirra(겁먹게 하다) -> 'scare'. '겁주다 -> 놀라게 하다(scare the children, 아이들을 겁주다)·(n.) 공포·소동(a health scare, 건강 공포)'. 한국 학습자 핵심: scared(겁먹은)·scary(무서운)가 가족 — scared(사람이 무서워하는) vs scary(무섭게 하는) 구별! scare away/off(겁주어 쫓다), scare the life out of(혼비백산하게 하다), scare tactics(공포 조성 전술). frighten(겁주다)·terrify(겁에 질리게 하다)·alarm(놀라게 하다)과 유의어. 반대 reassure(안심시키다)·comfort(위로하다).",
+  "syn": [
+   "frighten(겁주다)",
+   "terrify(겁에 질리게 하다)",
+   "alarm(놀라게 하다)"
+  ],
+  "anti": [
+   "reassure(안심시키다)",
+   "comfort(위로하다)"
+  ],
+  "idiom": [
+   "scare away(겁주어 쫓다)",
+   "scare tactics(공포 조성 전술)"
+  ],
+  "colloc": [
+   "scare easily(쉽게 겁먹다)",
+   "health scare(건강 공포)",
+   "scare the children(아이들을 겁주다)"
+  ],
+  "ex_add": "The loud noise scared the dog.  (scare=겁주다)",
+  "ex_orig": "I talked with the Captain generally about the torpedo scare, which neither of us regarded as of any moment.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3347",
+  "hw": "scenario",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "무대 진행 대본 -> '시나리오·각본 / 예상 상황'.",
+  "senses": [
+   "1) (영화의) 시나리오·각본",
+   "2) 예상되는 상황·시나리오",
+   "3) 전개 줄거리"
+  ],
+  "etym": "라틴어 scaena(무대) -> 이탈리아어 scenario(무대 진행표) -> 'scenario'. scaena는 그리스어 skene(천막·무대). '무대에서 일이 펼쳐지는 순서'가 핵심. scaena는 scene(장면)·scenery(경치)·scenic(경치 좋은)의 뿌리.",
+  "deriv": "scaena(무대) -> 'scenario'. '무대 진행 대본 -> 각본·(앞으로 펼쳐질) 예상 상황(worst-case scenario, 최악의 시나리오)'. 한국 학습자 핵심: scaena(무대) 갈래 — scene(장면)·scenery(경치)·scenic(경치 좋은)! worst-case scenario(최악의 경우), likely scenario(가능성 높은 상황), in this scenario(이 경우에). situation(상황)·script(대본)·plot(줄거리)과 유의어.",
+  "syn": [
+   "situation(상황)",
+   "script(대본)",
+   "plot(줄거리)"
+  ],
+  "anti": [],
+  "idiom": [
+   "worst-case scenario(최악의 시나리오)",
+   "in this scenario(이 경우에)"
+  ],
+  "colloc": [
+   "likely scenario(가능성 높은 상황)",
+   "nightmare scenario(악몽 같은 상황)",
+   "possible scenario(가능한 시나리오)"
+  ],
+  "ex_add": "Let's consider the worst-case scenario.  (scenario=시나리오)",
+  "ex_orig": "The exercise was the first ever conducted in and featured numerous training scenarios as well as the construction of a medical clinic.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "3348",
+  "hw": "schedule",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "일정 적은 쪽지 -> '일정·예정표 / 예정하다'.",
+  "senses": [
+   "1) 일정·예정표·시간표",
+   "2) 예정하다·일정을 잡다",
+   "3) 명세서·일람표"
+  ],
+  "etym": "라틴어 scheda/schedula(파피루스 쪽지·작은 종이) -> 후기 라틴어 -> 'schedule'. '일을 적어 둔 쪽지 -> 일정표'가 핵심.",
+  "deriv": "schedula(작은 종이) -> 'schedule'. '일정 쪽지 -> 예정표(a busy schedule, 빡빡한 일정)·예정하다(scheduled for 3 p.m., 오후 3시로 예정된)'. 한국 학습자 핵심: 발음 주의 — 미국 [스케줄], 영국 [셰줄]! on schedule(예정대로), behind schedule(예정보다 늦은), ahead of schedule(예정보다 일찍). timetable(시간표)·agenda(일정)·plan(계획)과 유의어.",
+  "syn": [
+   "timetable(시간표)",
+   "agenda(일정)",
+   "plan(계획)"
+  ],
+  "anti": [],
+  "idiom": [
+   "on schedule(예정대로)",
+   "behind schedule(예정보다 늦은)",
+   "ahead of schedule(예정보다 일찍)"
+  ],
+  "colloc": [
+   "busy schedule(빡빡한 일정)",
+   "tight schedule(빠듯한 일정)",
+   "schedule a meeting(회의 일정을 잡다)"
+  ],
+  "ex_add": "The project was completed ahead of schedule.  (schedule=일정)",
+  "ex_orig": "On May 12 the German Embassy notified the newspapers to discontinue publication of the advertisement, which had been scheduled to appear for the third time on the following Saturday.]",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3349",
+  "hw": "scholar",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "배움에 전념하는 이 -> '학자 / 장학생'.",
+  "senses": [
+   "1) 학자·석학",
+   "2) 장학생",
+   "3) (특정 분야의) 박식한 사람"
+  ],
+  "etym": "그리스어 schole(여가·한가함 -> 배우는 곳) -> 라틴어 schola(학교) -> scholaris(학교의 사람) -> 'scholar'. 고대 그리스에서 '여가'를 배움에 쓴 데서. '배움에 전념하는 사람'이 핵심. schole(여가·배움)는 scholar·school(학교)·scholarship(3350)·scholastic(학문의)의 뿌리.",
+  "deriv": "schole(여가·배움) -> schola(학교) -> 'scholar'. '배우는 사람 -> 학자(a respected scholar, 존경받는 학자)·장학생'. 한국 학습자 핵심: schole(여가->배움) 갈래 — school(학교)·scholarship(3350)·scholastic(학문의)·scholarly(학문적인)! 어원의 반전: '여가(leisure)'가 '학교(school)'가 됨 — 옛 그리스인은 한가할 때 배웠다! a Fulbright scholar(풀브라이트 장학생). academic(학자)·intellectual(지식인)·expert(전문가)와 유의어.",
+  "syn": [
+   "academic(학자)",
+   "intellectual(지식인)",
+   "expert(전문가)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a respected scholar(존경받는 학자)",
+   "a Fulbright scholar(풀브라이트 장학생)"
+  ],
+  "colloc": [
+   "leading scholar(선도적 학자)",
+   "visiting scholar(방문 학자)",
+   "scholar of history(역사학자)"
+  ],
+  "ex_add": "She is a leading scholar in ancient history.  (scholar=학자)",
+  "ex_orig": "The German scholar believes that it will detract from the respect due him if he does not assume a tone of condescension or overbearing censure.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3350",
+  "hw": "scholarship",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "학자의 자질 -> '장학금 / 학식·학문'.",
+  "senses": [
+   "1) 장학금",
+   "2) 학식·학문·박식",
+   "3) (전문적) 학술 연구"
+  ],
+  "etym": "그리스어 schole(여가·배움) -> scholar(3349) + -ship(자질·상태). '학자다움·학자를 길러 주는 돈'이 핵심.",
+  "deriv": "scholar(3349, 학자) -> 'scholarship'. '학자다움 -> 학식·(학자로 키우는) 장학금(win a scholarship, 장학금을 받다)'. 한국 학습자 핵심: schole(여가->배움) 갈래 — scholar(3349)·school(학교)·scholastic(학문의)! -ship(자질·상태) — scholarship·friendship(우정)·leadership(지도력)·membership(회원 자격). a full scholarship(전액 장학금), apply for a scholarship(장학금을 신청하다). grant(보조금)·learning(학식)·erudition(박식)과 유의어.",
+  "syn": [
+   "grant(보조금)",
+   "learning(학식)",
+   "erudition(박식)"
+  ],
+  "anti": [],
+  "idiom": [
+   "win a scholarship(장학금을 받다)",
+   "full scholarship(전액 장학금)"
+  ],
+  "colloc": [
+   "apply for a scholarship(장학금을 신청하다)",
+   "scholarship program(장학 프로그램)",
+   "academic scholarship(학업 장학금)"
+  ],
+  "ex_add": "He received a scholarship to study abroad.  (scholarship=장학금)",
+  "ex_orig": "Culture--a balanced and humanized state of mind--is only remotely connected with scholarship or even with education.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3351",
+  "hw": "scratch",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "긁다 -> '긁다·할퀴다 / 긁힌 자국'.",
+  "senses": [
+   "1) 긁다·할퀴다·긁어 파다",
+   "2) (가려운 데를) 긁다",
+   "3) (n.) 긁힌 자국·생채기"
+  ],
+  "etym": "중세 영어 scratchen(긁다, scratten과 cracchen의 혼성). '날카로운 것으로 표면을 긁음'이 핵심.",
+  "deriv": "scratchen(긁다) -> 'scratch'. '긁음 -> 할퀴다·(가려움을) 긁다(scratch an itch, 가려운 데를 긁다)·(n.) 생채기'. 한국 학습자 핵심: from scratch(맨 처음부터·아무것도 없는 데서, 빈출!), up to scratch(기준에 맞는), scratch the surface(겉만 훑다·수박 겉핥기), scratch your head(난감해하다). graze(긁히다)·scrape(긁다)·claw(할퀴다)와 유의어.",
+  "syn": [
+   "graze(긁히다)",
+   "scrape(긁다)",
+   "claw(할퀴다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "from scratch(맨 처음부터)",
+   "scratch the surface(겉만 훑다)",
+   "up to scratch(기준에 맞는)"
+  ],
+  "colloc": [
+   "scratch an itch(가려운 데를 긁다)",
+   "scratch the car(차에 흠집을 내다)",
+   "a deep scratch(깊은 긁힘)"
+  ],
+  "ex_add": "She baked the cake from scratch.  (from scratch=맨 처음부터)",
+  "ex_orig": "TREMELOO.--Belgian soldiers on patrol duty found a young girl naked on the ground, covered with scratches.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3352",
+  "hw": "scream",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "비명을 지르다 -> '비명을 지르다·소리치다 / 비명'.",
+  "senses": [
+   "1) 비명을 지르다·악을 쓰다",
+   "2) (기쁨·흥분으로) 소리치다",
+   "3) (n.) 비명·날카로운 소리"
+  ],
+  "etym": "중세 영어 scremen(날카롭게 외치다). 게르만어 의성어 계열로 '날카로운 소리를 냄'이 핵심.",
+  "deriv": "scremen(외치다) -> 'scream'. '날카롭게 외침 -> 비명을 지르다(scream in terror, 공포에 비명을 지르다)·(n.) 비명'. 한국 학습자 핵심: scream for(~을 외치며 요구하다), scream blue murder(고래고래 소리 지르다), a scream(아주 우스운 사람·것, 구어). 의성어 비명 동사군: scream(비명)·shriek(새된 비명)·screech(끼익 소리)·yell(고함)·shout(외침). shout(외치다)·shriek(새된 비명)·yell(고함치다)과 유의어. 반대 whisper(속삭이다).",
+  "syn": [
+   "shout(외치다)",
+   "shriek(새된 비명)",
+   "yell(고함치다)"
+  ],
+  "anti": [
+   "whisper(속삭이다)"
+  ],
+  "idiom": [
+   "scream for(~을 외치며 요구하다)",
+   "scream blue murder(고래고래 소리 지르다)"
+  ],
+  "colloc": [
+   "scream in terror(공포에 비명을 지르다)",
+   "scream loudly(크게 비명을 지르다)",
+   "a piercing scream(날카로운 비명)"
+  ],
+  "ex_add": "She screamed when she saw the spider.  (scream=비명을 지르다)",
+  "ex_orig": "Their guns got to work along the road and a shell came screaming up and burst perhaps twenty feet away, followed by three or four others.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3353",
+  "hw": "screen",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "가리는 막 -> '화면·스크린 / 가리개 / 가려 내다·심사하다'.",
+  "senses": [
+   "1) 화면·스크린",
+   "2) 가리개·칸막이·병풍",
+   "3) (동사) 가리다; 가려 내다·심사하다·검진하다"
+  ],
+  "etym": "고대 북프랑스어 escren(난로 가리개) -> 게르만어 기원 -> 'screen'. '시선·열을 가리는 막'이 핵심. '걸러 낸다'는 뜻은 가리개가 곡물을 '체질'하던 데서.",
+  "deriv": "escren(가리개) -> 'screen'. '가리는 막 -> (영상이 비치는) 화면·(가리개로) 가리다·(체로) 가려 내다 -> 심사하다(screen applicants, 지원자를 심사하다)·검진하다(screen for cancer, 암 검진을 하다)'. 한국 학습자 핵심: screen out(걸러 내다), the big screen(영화 스크린), the small screen(TV), screen time(화면 보는 시간), screenshot(화면 캡처). display(화면)·shield(가리다)·filter(거르다)와 유의어.",
+  "syn": [
+   "display(화면)",
+   "shield(가리다)",
+   "filter(거르다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "screen out(걸러 내다)",
+   "the big screen(영화)",
+   "screen time(화면 보는 시간)"
+  ],
+  "colloc": [
+   "computer screen(컴퓨터 화면)",
+   "screen applicants(지원자를 심사하다)",
+   "screen for disease(질병을 검진하다)"
+  ],
+  "ex_add": "All visitors are screened at the entrance.  (screen=심사하다)",
+  "ex_orig": "The use of women and even children as a screen for the protection of the German troops is referred to in a later part of this report.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3354",
+  "hw": "screening",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "가려 냄 -> '검진·심사 / (영화) 상영'.",
+  "senses": [
+   "1) (질병의) 검진·선별 검사",
+   "2) (자격) 심사·선별",
+   "3) (영화의) 상영"
+  ],
+  "etym": "screen(3353, 가려 내다·상영하다) + -ing. '체로 가려 냄 / 화면에 비춤'이 핵심.",
+  "deriv": "screen(3353, 가려 내다) -> 'screening'. '가려 냄 -> 검진(cancer screening, 암 검진)·심사·(화면에 비춤 ->) 상영(a private screening, 비공개 시사회)'. 한국 학습자 핵심: screen(3353)의 두 뜻이 그대로 명사화 — health screening(건강 검진), security screening(보안 검색), film screening(영화 상영). examination(검사)·selection(선별)·showing(상영)과 유의어.",
+  "syn": [
+   "examination(검사)",
+   "selection(선별)",
+   "showing(상영)"
+  ],
+  "anti": [],
+  "idiom": [
+   "cancer screening(암 검진)",
+   "private screening(비공개 시사회)"
+  ],
+  "colloc": [
+   "health screening(건강 검진)",
+   "security screening(보안 검색)",
+   "screening process(심사 과정)"
+  ],
+  "ex_add": "Regular screening can detect cancer early.  (screening=검진)",
+  "ex_orig": "After screening at major international film festivals in early 2010, the film had a general release in the latter part of the year.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "3355",
+  "hw": "seat",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "앉는 자리 -> '좌석·자리 / 앉히다 / (의회) 의석'.",
+  "senses": [
+   "1) 좌석·자리",
+   "2) (의회의) 의석; (조직의) 직위",
+   "3) (동사) 앉히다·수용하다"
+  ],
+  "etym": "고대 노르드어 saeti(자리) <- 게르만어 sit-(앉다). 라틴어 sedere(앉다)와 같은 인도유럽어 뿌리(*sed-). '앉는 자리'가 핵심. 친척: sit(앉다)·settle(3372)·resident(3301)·session(3371).",
+  "deriv": "*sed-(앉다) -> 'seat'. '앉는 자리 -> 좌석(take a seat, 앉다)·(앉는 자리 ->) 의석(win a seat, 의석을 차지하다)·앉히다'. 한국 학습자 핵심: 인도유럽어 *sed-(앉다) 대가족 — sit(앉다)·settle(3372)·resident(3301)·session(3371)·sediment(침전)·president(3210)! take a seat(앉다), in the driver's seat(주도권을 쥔), a back seat(뒷자리·부차적 위치), seat belt(안전벨트). chair(의자)·place(자리)와 유의어.",
+  "syn": [
+   "chair(의자)",
+   "place(자리)",
+   "bench(벤치)"
+  ],
+  "anti": [],
+  "idiom": [
+   "take a seat(앉다)",
+   "in the driver's seat(주도권을 쥔)",
+   "take a back seat(부차적 위치에 물러나다)"
+  ],
+  "colloc": [
+   "front seat(앞좌석)",
+   "win a seat(의석을 차지하다)",
+   "seat belt(안전벨트)"
+  ],
+  "ex_add": "Please take your seats; the show is about to begin.  (seat=좌석)",
+  "ex_orig": "Disappointed at not having been able to get through a Government bill regulating this evil, I had abandoned my seat in the Duma.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3356",
+  "hw": "sector",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "잘라 낸 부분 -> '부문·분야 / 구역'.",
+  "senses": [
+   "1) (경제의) 부문·분야",
+   "2) 구역·지구",
+   "3) (수학) 부채꼴"
+  ],
+  "etym": "라틴어 secare(자르다) -> sector(자르는 것·구획) -> 'sector'. '전체에서 잘라 낸 한 부분'이 핵심. secare(자르다)는 sector·section(부분)·segment(분절)·dissect(해부하다)·insect(곤충, 마디로 잘린 몸)의 뿌리.",
+  "deriv": "secare(자르다) -> 'sector'. '잘라 낸 부분 -> (경제) 부문(the public sector, 공공 부문)·구역'. 한국 학습자 핵심: secare(자르다) 갈래 — section(부분)·segment(분절)·dissect(해부)·insect(곤충)·intersect(교차하다)·bisect(이등분하다)! public/private sector(공공/민간 부문), service sector(서비스 부문), banking sector(은행 부문). field(분야)·area(분야)·branch(부문)와 유의어.",
+  "syn": [
+   "field(분야)",
+   "area(분야)",
+   "branch(부문)"
+  ],
+  "anti": [],
+  "idiom": [
+   "public sector(공공 부문)",
+   "private sector(민간 부문)"
+  ],
+  "colloc": [
+   "service sector(서비스 부문)",
+   "banking sector(은행 부문)",
+   "manufacturing sector(제조업 부문)"
+  ],
+  "ex_add": "The technology sector is growing rapidly.  (sector=부문)",
+  "ex_orig": "On Wednesday, the 28th, there was a complete lull on this sector of our line, and the shelling was less severe.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3357",
+  "hw": "secure",
+  "pos": "v., adj.",
+  "cefr": "B2",
+  "core": "걱정이 없는 -> '안전한·튼튼한 / 확보하다·안전하게 하다'.",
+  "senses": [
+   "1) 안전한·튼튼한·확실한",
+   "2) 안심하는·불안하지 않은",
+   "3) (동사) 확보하다·획득하다; 단단히 고정하다·안전하게 하다"
+  ],
+  "etym": "라틴어 se(없이) + cura(걱정·근심) -> securus(걱정 없는) -> 'secure'. '걱정거리가 없는 -> 안전한'이 핵심. cura(걱정·돌봄)는 secure·cure(치료)·curious(2533, 궁금한)·accurate(정확한)·curator(큐레이터)의 뿌리.",
+  "deriv": "se(없이)+cura(걱정) -> 'secure'. '걱정 없는 -> 안전한(a secure job, 안정된 직장)·(안전하게) 확보하다(secure a deal, 거래를 성사시키다)'. 한국 학습자 핵심: cura(걱정·돌봄) 갈래 — cure(치료)·curious(2533)·accurate(정확)·curator·security(안보)·sure(확실한, secure의 축약!)! financially secure(경제적으로 안정된), secure a loan(대출을 받다). safe(안전한)·obtain(얻다)·fasten(고정하다)과 유의어. 반대 insecure(불안한)·vulnerable(2585, 취약한).",
+  "syn": [
+   "safe(안전한)",
+   "obtain(얻다)",
+   "fasten(고정하다)"
+  ],
+  "anti": [
+   "insecure(불안한)",
+   "vulnerable(취약한)"
+  ],
+  "idiom": [
+   "secure a deal(거래를 성사시키다)",
+   "financially secure(경제적으로 안정된)"
+  ],
+  "colloc": [
+   "secure job(안정된 직장)",
+   "secure connection(보안 연결)",
+   "secure a loan(대출을 받다)"
+  ],
+  "ex_add": "Make sure the door is secure before you leave.  (secure=튼튼한)",
+  "ex_orig": "Should this happily be the case, the wisdom of the President will have been confirmed and the thankfulness of the nation secured to him.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3358",
+  "hw": "seek",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "찾아 나서다 -> '찾다·구하다 / ~하려고 하다'.",
+  "senses": [
+   "1) (찾아) 구하다·추구하다",
+   "2) 찾다·탐색하다",
+   "3) (seek to do) ~하려고 (애)쓰다"
+  ],
+  "etym": "고대 영어 secan(찾다·구하다). 라틴어 sagire(예민하게 알아채다)와 인도유럽어 뿌리를 공유. '냄새 맡듯 찾아 나섬'이 핵심. 친척: seeker(3359)·beseech(간청하다)·ransack(샅샅이 뒤지다).",
+  "deriv": "secan(찾다) -> 'seek'. '찾아 나섬 -> 구하다(seek advice, 조언을 구하다)·~하려 하다(seek to improve, 개선하려 하다)'. 한국 학습자 핵심: 불규칙 변화 seek-sought-sought! seek out(찾아내다), seek refuge(피난처를 구하다, 3277 refugee), much sought-after(많이 찾는·인기 있는). search(찾다)·pursue(3243, 추구하다)·look for(찾다)와 유의어. 반대 avoid(피하다)·shun(꺼리다).",
+  "syn": [
+   "search(찾다)",
+   "pursue(추구하다)",
+   "look for(찾다)"
+  ],
+  "anti": [
+   "avoid(피하다)",
+   "shun(꺼리다)"
+  ],
+  "idiom": [
+   "seek out(찾아내다)",
+   "much sought-after(인기 있는)",
+   "seek refuge(피난처를 구하다)"
+  ],
+  "colloc": [
+   "seek advice(조언을 구하다)",
+   "seek help(도움을 구하다)",
+   "seek to improve(개선하려 하다)"
+  ],
+  "ex_add": "You should seek professional advice.  (seek=구하다)",
+  "ex_orig": "For years he has been conscious that British diplomacy was seeking to isolate and crush Germany by an alliance of Latin, Slav, and Mongol",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3359",
+  "hw": "seeker",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "찾는 사람 -> '추구하는 사람·탐구자'.",
+  "senses": [
+   "1) (~을) 찾는 사람·추구하는 사람",
+   "2) 구직자·구도자 등(복합어)"
+  ],
+  "etym": "고대 영어 secan(찾다) -> seek(3358) + -er(사람). '찾아 나서는 사람'이 핵심.",
+  "deriv": "seek(3358, 찾다) -> 'seeker'. '찾는 사람 -> 추구자(a job seeker, 구직자)'. 한국 학습자 핵심: 복합어로 자주 쓰임 — asylum seeker(망명 신청자), job seeker(구직자), attention seeker(관심받고 싶어 하는 사람), thrill seeker(스릴을 즐기는 사람), truth seeker(진리 탐구자). hunter(추구자)·searcher(탐색자)와 유의어.",
+  "syn": [
+   "hunter(추구자)",
+   "searcher(탐색자)"
+  ],
+  "anti": [],
+  "idiom": [
+   "asylum seeker(망명 신청자)",
+   "attention seeker(관심을 끌려는 사람)"
+  ],
+  "colloc": [
+   "job seeker(구직자)",
+   "thrill seeker(스릴을 즐기는 사람)",
+   "pleasure seeker(쾌락을 좇는 사람)"
+  ],
+  "ex_add": "The program helps job seekers find work.  (seeker=구직자)",
+  "ex_orig": "Hence, many earnest peace-seekers have to confess that they do not see any means whatever available for promoting peace in Europe now, or even procuring a short truce.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3360",
+  "hw": "select",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "골라 추려내다 -> '선택하다·선발하다 / 엄선된'.",
+  "senses": [
+   "1) 선택하다·고르다·선발하다",
+   "2) (adj.) 엄선된·정선된·고급의"
+  ],
+  "etym": "라틴어 se(따로·떼어) + legere(모으다·고르다) -> seligere(추려 내다) -> 'select'. '따로 떼어 골라냄'이 핵심. legere(고르다·읽다)는 select·elect(선출하다)·collect(모으다)·neglect(소홀히 하다)·intelligent(똑똑한)의 뿌리.",
+  "deriv": "se(따로)+legere(고르다) -> 'select'. '추려냄 -> 선택하다(select a candidate, 후보를 선발하다)·(adj.) 엄선된(a select group, 엄선된 집단)'. 한국 학습자 핵심: legere(고르다·읽다) 갈래 — elect(선출)·collect(모으다)·neglect(소홀)·intelligent(똑똑한)·legend(전설)·lecture(강의)·selection(3361)! carefully select(신중히 고르다), a select few(선택된 소수). choose(고르다)·pick(뽑다)·opt(택하다)와 유의어. 반대 reject(거부하다)·discard(버리다).",
+  "syn": [
+   "choose(고르다)",
+   "pick(뽑다)",
+   "opt(택하다)"
+  ],
+  "anti": [
+   "reject(거부하다)",
+   "discard(버리다)"
+  ],
+  "idiom": [
+   "a select few(선택된 소수)",
+   "select group(엄선된 집단)"
+  ],
+  "colloc": [
+   "select a candidate(후보를 선발하다)",
+   "carefully select(신중히 고르다)",
+   "randomly select(무작위로 고르다)"
+  ],
+  "ex_add": "The committee will select the winner next week.  (select=선발하다)",
+  "ex_orig": "It is rather accident than special distinction which had made it possible to select individual battalions for mention.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3361",
+  "hw": "selection",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "골라 추려냄 -> '선택·선발 / 선택된 것·구색'.",
+  "senses": [
+   "1) 선택·선발·선정",
+   "2) 선택된 것·정선품",
+   "3) 구색·가짓수; (생물) 도태·선택"
+  ],
+  "etym": "라틴어 se(따로) + legere(고르다) -> select(3360)의 명사형. '추려냄'이 핵심.",
+  "deriv": "select(3360, 선택하다) -> 'selection'. '추려냄 -> 선택(natural selection, 자연 선택)·구색(a wide selection, 다양한 구색)'. 한국 학습자 핵심: legere(고르다·읽다) 갈래 — elect(선출)·collect(모으다)·neglect(소홀)·intelligent(똑똑한)·select(3360)! natural selection(자연 선택, 다윈), a wide selection(폭넓은 선택지), selection process(선발 과정). choice(선택)·range(3254, 구색)·assortment(모음)과 유의어.",
+  "syn": [
+   "choice(선택)",
+   "range(구색)",
+   "assortment(모음)"
+  ],
+  "anti": [
+   "rejection(거부)"
+  ],
+  "idiom": [
+   "natural selection(자연 선택)",
+   "a wide selection(다양한 구색)"
+  ],
+  "colloc": [
+   "selection process(선발 과정)",
+   "team selection(팀 선발)",
+   "make a selection(선택하다)"
+  ],
+  "ex_add": "The store offers a wide selection of cheeses.  (selection=구색)",
+  "ex_orig": "Natural selection has acted not only upon individuals, but, in the large sense, upon groups and aggregates of groups.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3362",
+  "hw": "self",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "자기 자신 -> '자아·자기 자신 / 본모습'.",
+  "senses": [
+   "1) 자아·자기 자신",
+   "2) 본모습·평소의 자기",
+   "3) (복합어) 자기 ~·스스로 ~"
+  ],
+  "etym": "고대 영어 self(자기 자신). 게르만어 공통 어근으로 '나라는 존재 그 자체'가 핵심. 무수한 복합어의 앞부분 self-를 이룸.",
+  "deriv": "self(자기) -> '자아·자기 자신(one's true self, 진정한 자아)'. 한국 학습자 핵심: self- 복합어가 어마어마함 — self-esteem(자존감)·self-control(자제력)·selfish(이기적인)·self-confidence(자신감)·self-aware(자각하는)·self-employed(자영업의)·self-conscious(남의 시선을 의식하는)! my old self(예전의 나), not feel oneself(컨디션이 안 좋다), a shadow of one's former self(예전 모습의 그림자). ego(자아)·identity(2683, 정체성)·persona(인격)와 유의어.",
+  "syn": [
+   "ego(자아)",
+   "identity(정체성)",
+   "persona(인격)"
+  ],
+  "anti": [],
+  "idiom": [
+   "one's true self(진정한 자아)",
+   "not feel oneself(컨디션이 안 좋다)",
+   "a shadow of one's former self(예전 모습의 그림자)"
+  ],
+  "colloc": [
+   "sense of self(자아감)",
+   "true self(진정한 자아)",
+   "best self(최고의 모습)"
+  ],
+  "ex_add": "After the holiday, she felt like her old self again.  (self=자기 자신)",
+  "ex_orig": "have not renounced their aspirations; Russian Liberals in particular believe in self-government and the rule of law as firmly as ever.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3363",
+  "hw": "seminar",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "씨를 뿌리는 모임 -> '세미나·연구 발표회'.",
+  "senses": [
+   "1) 세미나·연구회",
+   "2) (소규모) 토론 수업·강습회"
+  ],
+  "etym": "라틴어 semen(씨앗, 속격 seminis) -> seminarium(못자리·묘판) -> 독일어 Seminar -> 'seminar'. '지식의 씨앗을 뿌리고 기르는 모임'이 핵심. semen(씨앗)은 seminar·seminary(신학교)·disseminate(퍼뜨리다)·semester는 무관(이건 6개월).",
+  "deriv": "semen(씨앗) -> seminarium(묘판) -> 'seminar'. '씨앗을 기르는 모임 -> 세미나(attend a seminar, 세미나에 참석하다)'. 한국 학습자 핵심: semen(씨앗) 갈래 — seminary(신학교)·disseminate(씨를 퍼뜨리듯 퍼뜨리다)·seminal(중대한·씨앗이 되는)! a training seminar(연수 세미나), hold a seminar(세미나를 열다). workshop(워크숍)·conference(회의)·tutorial(개별 지도)과 유의어.",
+  "syn": [
+   "workshop(워크숍)",
+   "conference(회의)",
+   "tutorial(개별 지도)"
+  ],
+  "anti": [],
+  "idiom": [
+   "attend a seminar(세미나에 참석하다)",
+   "hold a seminar(세미나를 열다)"
+  ],
+  "colloc": [
+   "training seminar(연수 세미나)",
+   "online seminar(온라인 세미나)",
+   "graduate seminar(대학원 세미나)"
+  ],
+  "ex_add": "She gave a seminar on climate change.  (seminar=세미나)",
+  "ex_orig": "She published more than 15 research publications, including International Journals, International Conferences, National Conferences, workshops and seminars.",
+  "ex_src": "NEWS-EXCERPT"
+ },
+ {
+  "num": "3364",
+  "hw": "senate",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "원로들의 모임 -> '상원 / (대학) 평의회'.",
+  "senses": [
+   "1) (미국 등의) 상원",
+   "2) (고대 로마의) 원로원",
+   "3) (대학의) 평의회·이사회"
+  ],
+  "etym": "라틴어 senex(노인·연장자) -> senatus(원로들의 회의) -> 'senate'. '경험 많은 연장자들의 의결 기구'가 핵심. senex(노인)는 senate·senator(3365)·senior(3366)·senile(노망난)의 뿌리.",
+  "deriv": "senex(노인) -> senatus(원로 회의) -> 'senate'. '원로들의 모임 -> 상원(the U.S. Senate, 미국 상원)'. 한국 학습자 핵심: senex(노인·연장자) 갈래 — senator(3365)·senior(3366)·senile(노망난)·seniority(연공)! the Senate vs the House(상원 대 하원), Senate seat(상원 의석). 양원제: Senate(상원)+House of Representatives(3296, 하원). assembly(의회)·council(평의회)·legislature(입법부)와 유의어.",
+  "syn": [
+   "assembly(의회)",
+   "council(평의회)",
+   "legislature(입법부)"
+  ],
+  "anti": [],
+  "idiom": [
+   "the U.S. Senate(미국 상원)",
+   "Senate seat(상원 의석)"
+  ],
+  "colloc": [
+   "senate committee(상원 위원회)",
+   "control the senate(상원을 장악하다)",
+   "senate vote(상원 표결)"
+  ],
+  "ex_add": "The bill was passed by the Senate yesterday.  (senate=상원)",
+  "ex_orig": "19--Unanimous manifestation in Senate in favor of peace; National Federation of Engineers offers services of 1,000 engineers for enlistment.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3365",
+  "hw": "senator",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "원로 의원 -> '상원 의원'.",
+  "senses": [
+   "1) 상원 의원",
+   "2) (고대 로마의) 원로원 의원"
+  ],
+  "etym": "라틴어 senex(노인) -> senator(원로원의 구성원) -> 'senator'. '원로 회의의 일원'이 핵심.",
+  "deriv": "senate(3364, 상원) -> 'senator'. '원로 의원 -> 상원 의원(a U.S. senator, 미국 상원 의원)'. 한국 학습자 핵심: senex(노인·연장자) 갈래 — senate(3364)·senior(3366)·senile(노망난)·seniority(연공서열)! senatorial(상원의)이 형용사. a senior senator(중진 상원 의원), elect a senator(상원 의원을 선출하다). lawmaker(입법자)·legislator(입법자)·representative(3296, 대표)와 유의어.",
+  "syn": [
+   "lawmaker(입법자)",
+   "legislator(입법자)",
+   "congressman(의원)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a U.S. senator(미국 상원 의원)",
+   "elect a senator(상원 의원을 선출하다)"
+  ],
+  "colloc": [
+   "senior senator(중진 상원 의원)",
+   "state senator(주 상원 의원)",
+   "senator from Texas(텍사스주 상원 의원)"
+  ],
+  "ex_add": "The senator voted against the new tax.  (senator=상원 의원)",
+  "ex_orig": "Pierpont Morgan, Governor Emmet O'Neal of Alabama, Senator James D.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3366",
+  "hw": "senior",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "더 나이 든 -> '연장의·고위의·선임의 / 졸업반의'.",
+  "senses": [
+   "1) 연장의·손위의",
+   "2) 고위의·상급의·선임의",
+   "3) (미) 최고 학년의·졸업반의; (n.) 고령자·졸업반 학생"
+  ],
+  "etym": "라틴어 senex(노인)의 비교급 senior(더 나이 든). '나이·서열이 위인'이 핵심.",
+  "deriv": "senex(노인) -> 비교급 'senior'. '더 나이 든 -> 연장의·(서열이 위인) 고위의(a senior manager, 고위 관리자)'. 한국 학습자 핵심: senex(노인) 갈래 — senate(3364)·senator(3365)·senile(노망난)·seniority(연공)! 반의어는 junior(라틴어 juvenis=젊은의 비교급). senior to(~보다 상급인), senior citizen(노인), a senior year(졸업 학년). superior(상급의)·elder(손위의)·higher-ranking(고위의)과 유의어. 반대 junior(손아래의)·subordinate(하급의).",
+  "syn": [
+   "superior(상급의)",
+   "elder(손위의)",
+   "higher-ranking(고위의)"
+  ],
+  "anti": [
+   "junior(손아래의)",
+   "subordinate(하급의)"
+  ],
+  "idiom": [
+   "senior to(~보다 상급인)",
+   "senior citizen(노인)"
+  ],
+  "colloc": [
+   "senior manager(고위 관리자)",
+   "senior official(고위 관리)",
+   "senior position(고위직)"
+  ],
+  "ex_add": "She holds a senior position in the government.  (senior=고위의)",
+  "ex_orig": "Every one, from the youngest midshipman, straight from Dartmouth and under fire for the first time, to the senior officers in charge, did their duty nobly.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3367",
+  "hw": "sense",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "느껴 앎 -> '감각·느낌 / 의미 / 분별 / 감지하다'.",
+  "senses": [
+   "1) (오감의) 감각; 느낌·기분",
+   "2) (단어의) 의미·뜻",
+   "3) 분별·판단력; (동사) 감지하다·느끼다"
+  ],
+  "etym": "라틴어 sentire(느끼다·지각하다) -> sensus(느낌·감각) -> 'sense'. '느껴서 앎'이 핵심. sentire(느끼다)는 sense·sensitive(3368)·sentence(3369)·sentiment(감정)·consent(동의)·resent(분개하다)의 뿌리.",
+  "deriv": "sentire(느끼다) -> sensus(감각) -> 'sense'. '느껴 앎 -> 감각·(느껴서 파악하는) 의미·분별(common sense, 상식)·감지하다(sense danger, 위험을 감지하다)'. 한국 학습자 핵심: sentire(느끼다) 대가족 — sensitive(3368)·sentence(3369)·sentiment(감정)·consent(동의)·resent(분개)·nonsense(허튼소리)·sensation(감각)! make sense(말이 되다·이해되다), a sense of humor(유머 감각), in a sense(어떤 의미에서), common sense(상식). feeling(느낌)·meaning(의미)·perception(인식)과 유의어.",
+  "syn": [
+   "feeling(느낌)",
+   "meaning(의미)",
+   "perception(인식)"
+  ],
+  "anti": [
+   "nonsense(허튼소리)"
+  ],
+  "idiom": [
+   "make sense(말이 되다)",
+   "common sense(상식)",
+   "in a sense(어떤 의미에서)"
+  ],
+  "colloc": [
+   "sense of humor(유머 감각)",
+   "sense of direction(방향 감각)",
+   "sense danger(위험을 감지하다)"
+  ],
+  "ex_add": "I had a sense that something was wrong.  (sense=느낌)",
+  "ex_orig": "There is no sense or reason in this view, but the German philosophers, historians, and statesmen are all maintaining it at this moment.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3368",
+  "hw": "sensitive",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "잘 느끼는 -> '민감한·예민한 / 세심한 / 다루기 까다로운'.",
+  "senses": [
+   "1) 민감한·예민한·과민한",
+   "2) 세심한·배려심 있는",
+   "3) (정보·문제가) 다루기 민감한·기밀의"
+  ],
+  "etym": "라틴어 sentire(느끼다) -> sensus -> 중세 라틴어 sensitivus(잘 느끼는) -> 'sensitive'. '자극을 잘 느끼는'이 핵심.",
+  "deriv": "sentire(느끼다) -> 'sensitive'. '잘 느끼는 -> 민감한(sensitive skin, 민감한 피부)·세심한(a sensitive approach, 세심한 접근)·(다루기) 민감한(sensitive information, 민감 정보)'. 한국 학습자 핵심: sentire(느끼다) 갈래 — sense(3367)·sentence(3369)·sentiment(감정)·consent(동의)·resent(분개)! 주의: sensitive(민감한·세심한) vs sensible(분별 있는·합리적인) 혼동 빈번! be sensitive to(~에 민감하다), sensitive issue(민감한 사안). delicate(섬세한)·responsive(반응이 빠른)·touchy(과민한)와 유의어. 반대 insensitive(무신경한)·thick-skinned(둔감한).",
+  "syn": [
+   "delicate(섬세한)",
+   "responsive(반응이 빠른)",
+   "touchy(과민한)"
+  ],
+  "anti": [
+   "insensitive(무신경한)",
+   "thick-skinned(둔감한)"
+  ],
+  "idiom": [
+   "be sensitive to(~에 민감하다)",
+   "sensitive issue(민감한 사안)"
+  ],
+  "colloc": [
+   "sensitive skin(민감한 피부)",
+   "sensitive information(민감 정보)",
+   "highly sensitive(매우 민감한)"
+  ],
+  "ex_add": "This is a sensitive topic, so be careful.  (sensitive=민감한)",
+  "ex_orig": "The aim of culture is the enlightened and humane individual, conversant with the best values of the past and sensitive to the best values of the present.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3369",
+  "hw": "sentence",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "느낀 바를 담은 말 -> '문장 / 판결·형 / 선고하다'.",
+  "senses": [
+   "1) (문법의) 문장",
+   "2) (형사) 판결·형벌",
+   "3) (동사) 형을 선고하다"
+  ],
+  "etym": "라틴어 sentire(느끼다·생각하다) -> sententia(견해·판단·격언) -> 'sentence'. '생각·판단을 담은 한 덩이의 말 -> 문장 / (법관의) 판단 -> 판결'이 핵심.",
+  "deriv": "sentire(느끼다·생각하다) -> sententia(판단) -> 'sentence'. '생각을 담은 말 -> 문장·(법관의 판단) -> 판결·선고하다(sentence to prison, 징역형을 선고하다)'. 한국 학습자 핵심: sentire(느끼다) 갈래 — sense(3367)·sensitive(3368)·sentiment(감정)·consent(동의)! 한 단어에 '문장'과 '형벌'이 함께! a life sentence(종신형), a death sentence(사형 선고), serve a sentence(형을 살다), a prison sentence(징역형). statement(진술)·verdict(평결)·judgment(판결)과 유의어.",
+  "syn": [
+   "statement(진술)",
+   "verdict(평결)",
+   "judgment(판결)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a life sentence(종신형)",
+   "serve a sentence(형을 살다)",
+   "a death sentence(사형 선고)"
+  ],
+  "colloc": [
+   "complete sentence(완전한 문장)",
+   "prison sentence(징역형)",
+   "sentence to death(사형을 선고하다)"
+  ],
+  "ex_add": "He was given a five-year sentence for the crime.  (sentence=형)",
+  "ex_orig": "That is an impressive sentence, with which he concluded our long talk, and with which I begin my record of it.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3370",
+  "hw": "sequence",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "잇따름 -> '순서·차례 / 연속·연쇄'.",
+  "senses": [
+   "1) 순서·차례·배열",
+   "2) 연속·일련·연쇄",
+   "3) (영화의) 한 장면"
+  ],
+  "etym": "라틴어 sequi(따르다) -> sequentia(잇따름) -> 'sequence'. '하나가 다음을 따라 이어짐'이 핵심. sequi(따르다)는 sequence·pursue(3243)·consequence(결과)·sequel(속편)·subsequent(그 다음의)의 뿌리.",
+  "deriv": "sequi(따르다) -> 'sequence'. '잇따름 -> 순서(in sequence, 순서대로)·연속(a sequence of events, 일련의 사건들)'. 한국 학습자 핵심: sequi(따르다) 갈래 — pursue(3243)·pursuit(3244)·consequence(결과)·sequel(속편)·subsequent(그 다음의)·consecutive(연속의)! in sequence(차례로), out of sequence(순서가 뒤바뀐), DNA sequence(DNA 염기 서열). series(연속)·order(순서)·succession(연속)과 유의어.",
+  "syn": [
+   "series(연속)",
+   "order(순서)",
+   "succession(연속)"
+  ],
+  "anti": [],
+  "idiom": [
+   "in sequence(순서대로)",
+   "out of sequence(순서가 뒤바뀐)"
+  ],
+  "colloc": [
+   "sequence of events(일련의 사건)",
+   "DNA sequence(DNA 서열)",
+   "logical sequence(논리적 순서)"
+  ],
+  "ex_add": "The numbers must be entered in the correct sequence.  (sequence=순서)",
+  "ex_orig": "The theme song featured in the Game of opening sequence was arranged by The Simpsons composer and used in the Simpsons opening as well.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "3371",
+  "hw": "session",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "앉아 있는 시간 -> '(활동) 시간·회·기간 / (의회) 회기'.",
+  "senses": [
+   "1) (특정 활동의) 시간·회·세션",
+   "2) (의회·법정의) 회기·개정 기간",
+   "3) (대학의) 학기·학년도"
+  ],
+  "etym": "라틴어 sedere(앉다) -> sessio(앉아 있음·회의) -> 'session'. '함께 앉아 일을 보는 시간'이 핵심. sedere(앉다)는 session·resident(3301)·president(3210)·sediment(침전)·seat(3355, *sed-)의 뿌리.",
+  "deriv": "sedere(앉다) -> sessio(앉아 있음) -> 'session'. '앉아 있는 시간 -> (활동) 시간(a training session, 훈련 시간)·(의회) 회기(in session, 개회 중)'. 한국 학습자 핵심: sedere(앉다) 대가족 — resident(3301)·president(3210)·sediment(침전)·seat(3355)·reside(거주)·subside(가라앉다)! in session(개회/개정 중), a recording session(녹음 시간), a Q&A session(질의응답 시간). meeting(모임)·period(기간)·sitting(개회)과 유의어.",
+  "syn": [
+   "meeting(모임)",
+   "period(기간)",
+   "sitting(개회)"
+  ],
+  "anti": [],
+  "idiom": [
+   "in session(개회 중)",
+   "a Q&A session(질의응답 시간)"
+  ],
+  "colloc": [
+   "training session(훈련 시간)",
+   "recording session(녹음 시간)",
+   "parliamentary session(국회 회기)"
+  ],
+  "ex_add": "The therapy session lasted an hour.  (session=시간)",
+  "ex_orig": "_Following is the full text of the speech delivered by the German Chancellor at the session of the Reichstag in Berlin on Dec.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3372",
+  "hw": "settle",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "자리에 앉히다 -> '정착하다 / 해결하다 / 진정되다 / 정산하다'.",
+  "senses": [
+   "1) 정착하다·자리 잡다",
+   "2) (분쟁을) 해결하다·합의하다",
+   "3) 진정되다·가라앉다; (계산을) 정산하다"
+  ],
+  "etym": "고대 영어 setlan(자리에 앉히다·앉다, setl=자리). 라틴어 sedere(앉다)와 같은 인도유럽어 뿌리(*sed-). '자리에 앉아 안정됨'이 핵심. 친척: seat(3355)·session(3371)·resident(3301).",
+  "deriv": "*sed-(앉다) -> setlan(앉히다) -> 'settle'. '자리에 앉음 -> 정착하다(settle in a new city, 새 도시에 정착하다)·(자리를 잡듯) 해결하다(settle a dispute, 분쟁을 해결하다)·진정되다·정산하다(settle the bill, 계산하다)'. 한국 학습자 핵심: *sed-(앉다) 대가족 — seat(3355)·session(3371)·resident(3301)·sediment(침전, settle의 명사적 결과!)! settle down(정착하다·안정되다), settle for(아쉬운 대로 ~로 만족하다), settle in(적응하다), settle the matter(문제를 매듭짓다). resolve(3305, 해결하다)·colonize(식민지로 삼다)와 유의어.",
+  "syn": [
+   "resolve(해결하다)",
+   "colonize(정착하다)",
+   "calm(진정시키다)"
+  ],
+  "anti": [
+   "unsettle(불안하게 하다)",
+   "stir up(휘젓다)"
+  ],
+  "idiom": [
+   "settle down(정착하다)",
+   "settle for(아쉬운 대로 만족하다)",
+   "settle in(적응하다)"
+  ],
+  "colloc": [
+   "settle a dispute(분쟁을 해결하다)",
+   "settle the bill(계산하다)",
+   "settle an argument(말다툼을 매듭짓다)"
+  ],
+  "ex_add": "They decided to settle in the countryside.  (settle=정착하다)",
+  "ex_orig": "The basis of peace negotiations must necessarily be settled in advance by representatives of all the allied Governments in conclave.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3373",
+  "hw": "settler",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "자리 잡는 사람 -> '정착민·이주민·개척자'.",
+  "senses": [
+   "1) 정착민·이주민",
+   "2) (새 땅의) 개척자"
+  ],
+  "etym": "고대 영어 setlan(앉히다·정착하다) -> settle(3372) + -er(사람). '새 땅에 자리 잡는 사람'이 핵심.",
+  "deriv": "settle(3372, 정착하다) -> 'settler'. '자리 잡는 사람 -> 정착민(early settlers, 초기 정착민)'. 한국 학습자 핵심: *sed-(앉다) 대가족 — settle(3372)·seat(3355)·session(3371)·resident(3301)! settlement(정착지·합의)도 형제 단어. white settlers(백인 정착민), the first settlers(최초 정착민). colonist(식민자)·pioneer(개척자)·immigrant(이민자)와 유의어. 반대 native(원주민)·indigenous people(토착민).",
+  "syn": [
+   "colonist(식민자)",
+   "pioneer(개척자)",
+   "immigrant(이민자)"
+  ],
+  "anti": [
+   "native(원주민)"
+  ],
+  "idiom": [
+   "early settlers(초기 정착민)",
+   "the first settlers(최초 정착민)"
+  ],
+  "colloc": [
+   "European settlers(유럽 정착민)",
+   "new settlers(새 이주민)",
+   "settler community(정착민 공동체)"
+  ],
+  "ex_add": "The first settlers arrived by ship in the 1600s.  (settler=정착민)",
+  "ex_orig": "Bradstreet was sent on a number of diplomatic missions, dealing with settlers, other English colonies, and the Dutch in New Amsterdam.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "3374",
+  "hw": "severe",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "엄격한 -> '심각한·혹독한 / 엄한'.",
+  "senses": [
+   "1) (정도가) 심한·심각한·혹독한",
+   "2) (사람·처벌이) 엄한·가혹한",
+   "3) (양식이) 간결하고 엄숙한"
+  ],
+  "etym": "라틴어 severus(엄격한·근엄한) -> 'severe'. '봐주지 않고 엄격함 -> 정도가 심함'이 핵심. severus는 severe·severity(혹독함)·persevere(인내하다, 끝까지 엄히 버팀)·asseverate(단언하다)의 뿌리.",
+  "deriv": "severus(엄격한) -> 'severe'. '엄격한 -> (정도가) 혹독한(severe weather, 혹독한 날씨)·심각한(severe damage, 심각한 피해)'. 한국 학습자 핵심: severus(엄격한) 갈래 — severity(혹독함)·persevere(인내하다)·perseverance(인내)·severely(3375)! severe pain(극심한 통증), severe winter(혹독한 겨울). serious(심각한)·harsh(가혹한)·extreme(극심한)과 유의어. 반대 mild(가벼운)·lenient(관대한)·gentle(부드러운).",
+  "syn": [
+   "serious(심각한)",
+   "harsh(가혹한)",
+   "extreme(극심한)"
+  ],
+  "anti": [
+   "mild(가벼운)",
+   "lenient(관대한)",
+   "gentle(부드러운)"
+  ],
+  "idiom": [
+   "severe weather(혹독한 날씨)",
+   "severe pain(극심한 통증)"
+  ],
+  "colloc": [
+   "severe damage(심각한 피해)",
+   "severe winter(혹독한 겨울)",
+   "severe shortage(심각한 부족)"
+  ],
+  "ex_add": "The storm caused severe flooding.  (severe=심각한)",
+  "ex_orig": "For bringing his men so close to the enemy many a young company commander has received a severe dressing down on manoeuvres.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3375",
+  "hw": "severely",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "혹독하게 -> '심하게·심각하게 / 엄격하게'.",
+  "senses": [
+   "1) 심하게·심각하게",
+   "2) 엄격하게·가혹하게"
+  ],
+  "etym": "라틴어 severus(엄격한) -> severe(3374) + -ly(부사). '혹독하게'가 핵심.",
+  "deriv": "severe(3374, 심한) -> 'severely'. '혹독하게 -> 심하게(severely injured, 중상을 입은)·엄격하게(severely punished, 엄벌에 처해진)'. 한국 학습자 핵심: severus(엄격한) 갈래 — severe(3374)·severity(혹독함)·persevere(인내하다)! severely affected(심각하게 영향받은), severely limited(심하게 제한된). seriously(심각하게)·harshly(가혹하게)·badly(심하게)와 유의어. 반대 mildly(가볍게)·leniently(관대하게).",
+  "syn": [
+   "seriously(심각하게)",
+   "harshly(가혹하게)",
+   "badly(심하게)"
+  ],
+  "anti": [
+   "mildly(가볍게)",
+   "leniently(관대하게)"
+  ],
+  "idiom": [
+   "severely injured(중상을 입은)",
+   "severely punished(엄벌에 처해진)"
+  ],
+  "colloc": [
+   "severely affected(심각하게 영향받은)",
+   "severely damaged(심하게 손상된)",
+   "severely limited(심하게 제한된)"
+  ],
+  "ex_add": "The economy was severely affected by the crisis.  (severely=심각하게)",
+  "ex_orig": "In the evidence before us there are cases tending to show that aggravated crimes against women were sometimes severely punished.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3376",
+  "hw": "sexy",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "성적 매력이 있는 -> '섹시한·매력적인 / (구어) 흥미로운'.",
+  "senses": [
+   "1) 섹시한·성적 매력이 있는",
+   "2) (구어) 흥미진진한·솔깃한·인기 끄는"
+  ],
+  "etym": "라틴어 sexus(성별, secare=나누다와 관련해 '나뉜 것') -> sex(성) + -y(형용사). '성적 매력이 있는'이 핵심.",
+  "deriv": "sex(성) -> 'sexy'. '성적 매력이 있는 -> 섹시한(a sexy dress, 섹시한 드레스)·(구어) 솔깃한(a sexy idea, 매력적인 아이디어)'. 한국 학습자 핵심: sexus(성별) 갈래 — sex(성)·sexual(성적인)·sexism(3249 racism과 평행한 성차별)! 구어로 '주목을 끄는·매력적인'(=appealing) 뜻 확장 — a sexy topic(흥미로운 주제). attractive(매력적인)·alluring(매혹적인)·appealing(솔깃한)과 유의어. 반대 unattractive(매력 없는).",
+  "syn": [
+   "attractive(매력적인)",
+   "alluring(매혹적인)",
+   "appealing(솔깃한)"
+  ],
+  "anti": [
+   "unattractive(매력 없는)"
+  ],
+  "idiom": [
+   "a sexy idea(매력적인 아이디어)",
+   "look sexy(섹시해 보이다)"
+  ],
+  "colloc": [
+   "sexy dress(섹시한 드레스)",
+   "sexy voice(섹시한 목소리)",
+   "a sexy topic(흥미로운 주제)"
+  ],
+  "ex_add": "Tax reform is not exactly a sexy topic.  (sexy=흥미로운)",
+  "ex_orig": "Robbie of Idolator noted that Brown \" makes things real sexy \" in the video, but was unsure if \" we should be turned on or utterly out \".",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "3377",
+  "hw": "shade",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "빛이 가려진 곳 -> '그늘 / 색조 / 차양·블라인드'.",
+  "senses": [
+   "1) 그늘·응달",
+   "2) (색의) 색조·농담; (의미의) 미묘한 차이",
+   "3) 차양·갓·블라인드(shades=선글라스)"
+  ],
+  "etym": "고대 영어 sceadu(그늘·그림자). shadow(3378)와 같은 뿌리. '빛이 가려진 어두운 부분'이 핵심.",
+  "deriv": "sceadu(그늘) -> 'shade'. '빛이 가려진 곳 -> 그늘(sit in the shade, 그늘에 앉다)·(빛의 정도 ->) 색조(shades of blue, 파랑의 여러 색조)·(빛을 가리는) 차양'. 한국 학습자 핵심: shade(그늘·차양, 셀 수 있음)와 shadow(3378, 물체가 드리운 그림자)의 차이 중요! a shade of meaning(미묘한 의미 차이), shades of gray(회색의 농담·애매함), put in the shade(무색하게 만들다). shadow(그림자)·tint(색조)·hue(색조)와 유의어.",
+  "syn": [
+   "shadow(그림자)",
+   "tint(색조)",
+   "hue(색조)"
+  ],
+  "anti": [
+   "light(빛)",
+   "sunshine(햇빛)"
+  ],
+  "idiom": [
+   "put in the shade(무색하게 만들다)",
+   "shades of gray(애매함)"
+  ],
+  "colloc": [
+   "sit in the shade(그늘에 앉다)",
+   "shade of blue(파란 색조)",
+   "a shade of meaning(미묘한 의미 차이)"
+  ],
+  "ex_add": "We rested in the shade of a large tree.  (shade=그늘)",
+  "ex_orig": "A simple discussion between the leading statesmen of all the three powers will banish every shade of misunderstanding and clear the situation.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3378",
+  "hw": "shadow",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "물체가 드리운 어둠 -> '그림자 / 그늘 / (불길한) 그늘'.",
+  "senses": [
+   "1) (물체가 드리운) 그림자",
+   "2) 그늘·어둠",
+   "3) (불길한·어두운) 그늘·기색; 미행자"
+  ],
+  "etym": "고대 영어 sceadwe(sceadu의 사격형) -> 'shadow'. shade(3377)와 한 뿌리. '물체가 빛을 막아 생긴 어두운 형상'이 핵심.",
+  "deriv": "sceadu(그늘) -> 'shadow'. '드리운 어둠 -> 그림자(cast a shadow, 그림자를 드리우다)·(어두운) 그늘'. 한국 학습자 핵심: shadow(드리운 그림자) vs shade(3377, 그늘진 공간/색조) 구별! cast a shadow over(~에 어두운 그림자를 드리우다), beyond a shadow of a doubt(추호의 의심도 없이), a shadow of one's former self(예전 모습의 그림자), be afraid of one's own shadow(겁이 아주 많다). 동사로 shadow(미행하다). silhouette(실루엣)·shade(그늘)와 유의어.",
+  "syn": [
+   "silhouette(실루엣)",
+   "shade(그늘)",
+   "darkness(어둠)"
+  ],
+  "anti": [
+   "light(빛)"
+  ],
+  "idiom": [
+   "cast a shadow over(~에 그늘을 드리우다)",
+   "beyond a shadow of a doubt(추호의 의심도 없이)"
+  ],
+  "colloc": [
+   "long shadow(긴 그림자)",
+   "in the shadows(그늘 속에서)",
+   "cast a shadow(그림자를 드리우다)"
+  ],
+  "ex_add": "The trees cast long shadows in the evening.  (shadow=그림자)",
+  "ex_orig": "It shall be freely confessed that, from an aesthetic point of view, the Englishman, devoid of high lights and shadows, coated with drab, and super-humanly steady on his feet, is not too attractive.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3379",
+  "hw": "shall",
+  "pos": "modal v.",
+  "cefr": "B2",
+  "core": "마땅히 ~할 것이다 -> '~할 것이다(미래) / ~할까요(제안) / ~해야 한다(의무)'.",
+  "senses": [
+   "1) (I/we와) ~할 것이다(미래)",
+   "2) (의문문) ~할까요?·~하리까?(제안·의향)",
+   "3) (격식·법률) ~해야 한다·~하기로 한다(의무·규정)"
+  ],
+  "etym": "고대 영어 sceal(빚지다·~해야 한다, sculan의 변화형). 본래 '의무·빚짐'을 뜻하다가 미래·제안의 조동사로 발전. '마땅히 ~할 것'이 핵심.",
+  "deriv": "sceal(~해야 한다) -> 'shall'. '의무 -> 미래·제안'. 한국 학습자 핵심: Shall I/we ~?(제안: ~할까요?)가 회화 빈출! Shall we dance?(춤출까요?). 법률·계약문에서 shall=의무('~해야 한다'). 현대 영어에서 평서문 미래의 shall은 will에 자리를 내줌(주로 I/we, 격식체에 잔존). should(3220 부근)는 shall의 과거형에서 갈라짐. will(~할 것이다)과 유의어(미래).",
+  "syn": [
+   "will(~할 것이다)",
+   "must(~해야 한다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "Shall we ~?(~할까요?)",
+   "Shall I ~?(제가 ~할까요?)"
+  ],
+  "colloc": [
+   "shall we dance(춤출까요)",
+   "shall I help(도와드릴까요)",
+   "we shall see(두고 보자)"
+  ],
+  "ex_add": "Shall we go for a walk?  (shall=~할까요)",
+  "ex_orig": "It is now imperative that in the battle with our most hated foe we shall not grow numb, and that we shall at last break his arrogance.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3380",
+  "hw": "shallow",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "깊지 않은 -> '얕은 / 피상적인'.",
+  "senses": [
+   "1) (물·그릇이) 얕은",
+   "2) (호흡이) 얕은",
+   "3) 피상적인·천박한·생각이 얕은"
+  ],
+  "etym": "중세 영어 schalowe(얕은). 고대 영어 sceald(얕은)와 관련. '깊지 않은'이 핵심.",
+  "deriv": "schalowe(얕은) -> 'shallow'. '깊지 않은 -> (물이) 얕은(shallow water, 얕은 물)·(비유) 피상적인(a shallow person, 생각이 얕은 사람)'. 한국 학습자 핵심: deep(깊은)의 명확한 반의어! the shallow end(수영장의 얕은 쪽), shallow breathing(얕은 호흡). 비유 확장: 물의 깊이 -> 생각·감정의 깊이('피상적'). superficial(피상적인)·surface(표면적인)와 유의어. 반대 deep(깊은)·profound(심오한).",
+  "syn": [
+   "superficial(피상적인)",
+   "surface(표면적인)"
+  ],
+  "anti": [
+   "deep(깊은)",
+   "profound(심오한)"
+  ],
+  "idiom": [
+   "the shallow end(얕은 쪽)",
+   "shallow breathing(얕은 호흡)"
+  ],
+  "colloc": [
+   "shallow water(얕은 물)",
+   "shallow dish(얕은 접시)",
+   "shallow understanding(피상적 이해)"
+  ],
+  "ex_add": "The river is shallow enough to walk across.  (shallow=얕은)",
+  "ex_orig": "In 1830 the shallow Polish national Government refused the Jews' petition to be allowed to enter the army.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3381",
+  "hw": "shame",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "부끄러움 -> '수치심·창피 / 애석한 일'.",
+  "senses": [
+   "1) 수치심·부끄러움",
+   "2) 치욕·불명예",
+   "3) 애석한 일·유감스러운 일(a shame)"
+  ],
+  "etym": "고대 영어 sceamu(수치심·부끄러움). 게르만어 공통 어근으로 '얼굴이 화끈거리는 부끄러움'이 핵심.",
+  "deriv": "sceamu(수치심) -> 'shame'. '부끄러움 -> 수치심·(아까운 일에 대한) 애석함(what a shame, 참 안됐다)'. 한국 학습자 핵심: It's a shame (that)~(~라니 안타깝다)이 회화 빈출 — 여기서 shame은 '수치'가 아니라 '애석한 일'! shameful(수치스러운)·shameless(뻔뻔한)·ashamed(부끄러워하는)가 가족. put to shame(무색하게 만들다), Shame on you!(부끄러운 줄 알아라!). disgrace(불명예)·embarrassment(당황)·humiliation(굴욕)과 유의어. 반대 pride(자부심)·honor(명예).",
+  "syn": [
+   "disgrace(불명예)",
+   "embarrassment(당황)",
+   "humiliation(굴욕)"
+  ],
+  "anti": [
+   "pride(자부심)",
+   "honor(명예)"
+  ],
+  "idiom": [
+   "what a shame(참 안됐다)",
+   "put to shame(무색하게 만들다)",
+   "Shame on you!(부끄러운 줄 알아라)"
+  ],
+  "colloc": [
+   "sense of shame(수치심)",
+   "feel shame(부끄러움을 느끼다)",
+   "bring shame on(~에게 수치를 안기다)"
+  ],
+  "ex_add": "It's a shame you can't come to the party.  (shame=애석한 일)",
+  "ex_orig": "But what is taking place today is the worst of all; it will be forever pointed at in the annals of world history as England's indelible shame.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3382",
+  "hw": "shape",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "빚어진 꼴 -> '모양·형태 / 상태 / 형성하다·빚다'.",
+  "senses": [
+   "1) 모양·형태·생김새",
+   "2) (몸·일의) 상태·컨디션",
+   "3) (동사) 형성하다·빚다·만들다"
+  ],
+  "etym": "고대 영어 gesceap(창조된 것·형태, scieppan=만들다·빚다). '빚어 만들어진 꼴'이 핵심.",
+  "deriv": "scieppan(빚다) -> gesceap(형태) -> 'shape'. '빚어진 꼴 -> 모양(a round shape, 둥근 모양)·(빚어진 상태) -> 컨디션(in good shape, 상태가 좋은)·형성하다(shape the future, 미래를 빚다)'. 한국 학습자 핵심: in good/bad shape(상태가 좋은/나쁜), out of shape(몸매가 망가진·운동 부족인), take shape(구체화되다·모양을 갖추다), shape up(나아지다·정신 차리다). form(형태)·mold(빚다)·figure(형상)와 유의어.",
+  "syn": [
+   "form(형태)",
+   "mold(빚다)",
+   "figure(형상)"
+  ],
+  "anti": [],
+  "idiom": [
+   "in good shape(상태가 좋은)",
+   "out of shape(몸매가 망가진)",
+   "take shape(구체화되다)"
+  ],
+  "colloc": [
+   "round shape(둥근 모양)",
+   "shape the future(미래를 형성하다)",
+   "in the shape of(~의 모양으로)"
+  ],
+  "ex_add": "Regular exercise keeps you in good shape.  (shape=상태)",
+  "ex_orig": "because of a shortage of rubber, the Government is arranging a special campaign to collect rubber in all shapes throughout the empire.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3383",
+  "hw": "shaped",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "~한 모양의 -> '~ 모양의·~ 형태의'.",
+  "senses": [
+   "1) (특정한) 모양의·형태의",
+   "2) (복합어) ~자 모양의·~처럼 생긴"
+  ],
+  "etym": "고대 영어 scieppan(빚다) -> shape(3382) + -ed(과거분사 형용사). '~한 모양으로 빚어진'이 핵심.",
+  "deriv": "shape(3382, 모양) -> 'shaped'. '~한 모양의 -> heart-shaped(하트 모양의)'. 한국 학습자 핵심: 보통 복합어 뒷부분으로 쓰여 '~ 모양의' — heart-shaped(하트 모양), star-shaped(별 모양), L-shaped(L자형), egg-shaped(달걀형), well-shaped(맵시 있는), oddly shaped(이상한 모양의)! formed(형성된)·molded(빚어진)와 유의어.",
+  "syn": [
+   "formed(형성된)",
+   "molded(빚어진)"
+  ],
+  "anti": [
+   "shapeless(형태 없는)"
+  ],
+  "idiom": [
+   "heart-shaped(하트 모양의)",
+   "star-shaped(별 모양의)"
+  ],
+  "colloc": [
+   "L-shaped(L자형의)",
+   "oddly shaped(이상한 모양의)",
+   "egg-shaped(달걀 모양의)"
+  ],
+  "ex_add": "She gave him a heart-shaped chocolate.  (shaped=모양의)",
+  "ex_orig": "The deeper, more political, and far grander reason for this comradeship between the two nations had never definitely shaped itself to my consciousness.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3384",
+  "hw": "shelter",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "막아 주는 것 -> '피난처·은신처 / 보호·주거 / 보호하다·피하다'.",
+  "senses": [
+   "1) 피난처·대피소·은신처",
+   "2) (의식주의) 주거·보호",
+   "3) (동사) 보호하다·감싸다; 피신하다"
+  ],
+  "etym": "고대 영어 scieldtruma(방패 부대, scield=방패 + truma=대열)로 추정 -> 'shelter'. '방패처럼 막아 주는 것'이 핵심. shield(방패)와 연관.",
+  "deriv": "scield(방패) -> 'shelter'. '막아 주는 것 -> 피난처(seek shelter, 피난처를 찾다)·(의식주의) 주거·보호하다(shelter from the rain, 비를 피하다)'. 한국 학습자 핵심: food, clothing and shelter(의식주, 인간 기본 필요)! take shelter(대피하다), an animal shelter(동물 보호소), a bomb shelter(방공호). refuge(피난처)·haven(안식처)·protect(보호하다)와 유의어. 반대 expose(노출시키다).",
+  "syn": [
+   "refuge(피난처)",
+   "haven(안식처)",
+   "protect(보호하다)"
+  ],
+  "anti": [
+   "expose(노출시키다)"
+  ],
+  "idiom": [
+   "take shelter(대피하다)",
+   "seek shelter(피난처를 찾다)",
+   "food, clothing and shelter(의식주)"
+  ],
+  "colloc": [
+   "animal shelter(동물 보호소)",
+   "bomb shelter(방공호)",
+   "shelter from the rain(비를 피하다)"
+  ],
+  "ex_add": "They took shelter from the storm under a bridge.  (shelter=피하다)",
+  "ex_orig": "At 8 A.M. on the 19th the Belgians found further resistance impossible in the district, and retired under shelter of the forts of Namur.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3385",
+  "hw": "shift",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "자리를 옮기다 -> '옮기다·바뀌다 / 변화 / 교대 근무'.",
+  "senses": [
+   "1) (위치·방향을) 옮기다·이동하다·바뀌다",
+   "2) (n.) 변화·전환",
+   "3) (n.) 교대 근무(조)"
+  ],
+  "etym": "고대 영어 sciftan(나누다·정리하다·배치하다). '자리를 바꿔 배치함 -> 옮김'이 핵심.",
+  "deriv": "sciftan(배치하다) -> 'shift'. '자리를 옮김 -> 이동하다·(태도·상황의) 변화(a shift in opinion, 여론의 변화)·(일을 교대로 나눠 ->) 교대 근무(the night shift, 야간 근무)'. 한국 학습자 핵심: a paradigm shift(패러다임 전환), shift gears(기어를 바꾸다·방향을 전환하다), the day/night shift(주간/야간 근무조), shift the blame(책임을 떠넘기다). move(옮기다)·change(변화)·switch(전환)와 유의어.",
+  "syn": [
+   "move(옮기다)",
+   "change(변화)",
+   "switch(전환)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a paradigm shift(패러다임 전환)",
+   "shift gears(방향을 전환하다)",
+   "shift the blame(책임을 떠넘기다)"
+  ],
+  "colloc": [
+   "night shift(야간 근무)",
+   "shift in opinion(여론의 변화)",
+   "dramatic shift(급격한 변화)"
+  ],
+  "ex_add": "There has been a major shift in public opinion.  (shift=변화)",
+  "ex_orig": "Dislocation of territory and the shifting of sovereigns as the result of international disagreements are mediaeval practices.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3386",
+  "hw": "ship",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "배 -> '배·선박 / (배·차로) 운송하다·발송하다'.",
+  "senses": [
+   "1) 배·선박",
+   "2) (대형) 우주선·항공기",
+   "3) (동사) 운송하다·발송하다·출하하다"
+  ],
+  "etym": "고대 영어 scip(배). 게르만어 공통 어근. '물 위를 다니는 큰 배'가 핵심. 동사 '운송하다'는 본래 배로 실어 나르던 데서.",
+  "deriv": "scip(배) -> 'ship'. '배 -> (배로) 실어 나르다 -> 운송하다(ship the goods, 물품을 발송하다)'. 한국 학습자 핵심: -ship(자질·상태) 접미사와는 별개! 동사 ship=발송하다(요즘은 택배·항공도 ship). when one's ship comes in(부자가 되면), jump ship(배에서 뛰어내리다·이탈하다), run a tight ship(엄격하게 운영하다), shipping(배송). vessel(선박)·boat(배)·send(보내다)와 유의어.",
+  "syn": [
+   "vessel(선박)",
+   "boat(배)",
+   "send(보내다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "jump ship(이탈하다)",
+   "run a tight ship(엄격하게 운영하다)",
+   "when one's ship comes in(부자가 되면)"
+  ],
+  "colloc": [
+   "cargo ship(화물선)",
+   "ship the goods(물품을 발송하다)",
+   "board a ship(배에 타다)"
+  ],
+  "ex_add": "The company ships products all over the world.  (ship=발송하다)",
+  "ex_orig": "5--British tow German sailing ship into Queenstown, the Captain not having heard of the war; British mine sweeper Mary sunk in North Sea.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3387",
+  "hw": "shock",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "갑작스러운 충돌 -> '충격·쇼크 / 충격을 주다·놀라게 하다'.",
+  "senses": [
+   "1) (정신적) 충격·쇼크",
+   "2) (의학) 쇼크 상태; 감전",
+   "3) (동사) 충격을 주다·깜짝 놀라게 하다"
+  ],
+  "etym": "프랑스어 choc(충돌) <- choquer(부딪치다) -> 'shock'. '갑자기 세게 부딪치는 충격'이 핵심.",
+  "deriv": "choquer(부딪치다) -> 'shock'. '갑작스러운 충돌 -> (정신적) 충격(in shock, 충격에 빠진)·충격을 주다(the news shocked everyone, 그 소식이 모두를 충격에 빠뜨렸다)'. 한국 학습자 핵심: shocked(3388, 충격받은) vs shocking(3389, 충격적인) 구별! culture shock(문화 충격), electric shock(감전), be in shock(충격 상태이다), come as a shock(충격으로 다가오다). jolt(충격)·startle(깜짝 놀라게 하다)·stun(아연하게 하다)과 유의어.",
+  "syn": [
+   "jolt(충격)",
+   "startle(깜짝 놀라게 하다)",
+   "stun(아연하게 하다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "in shock(충격에 빠진)",
+   "come as a shock(충격으로 다가오다)",
+   "culture shock(문화 충격)"
+  ],
+  "colloc": [
+   "electric shock(감전)",
+   "state of shock(충격 상태)",
+   "shock the public(대중에 충격을 주다)"
+  ],
+  "ex_add": "The sudden news came as a great shock.  (shock=충격)",
+  "ex_orig": "Such things happen in a1l wars as isolated instances, and the circumstances may be pleaded in extenuation of acts otherwise shocking.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3388",
+  "hw": "shocked",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "충격받은 -> '충격받은·깜짝 놀란'.",
+  "senses": [
+   "1) 충격받은·깜짝 놀란",
+   "2) 어이없어하는·아연실색한"
+  ],
+  "etym": "프랑스어 choquer(부딪치다) -> shock(3387)의 과거분사형 형용사. '충격을 받은'이 핵심.",
+  "deriv": "shock(3387, 충격) -> 'shocked'. '충격받은 -> 깜짝 놀란(shocked by the news, 소식에 충격받은)'. 한국 학습자 핵심: 감정 형용사 -ed/-ing 구별 — shocked(사람이 충격받은) vs shocking(3389, 충격을 주는)! be shocked to do(~해서 충격받다), shocked at/by(~에 충격받은), deeply shocked(깊이 충격받은). stunned(아연한)·appalled(질겁한)·horrified(겁에 질린)와 유의어. 반대 unmoved(동요하지 않는)·indifferent(무관심한).",
+  "syn": [
+   "stunned(아연한)",
+   "appalled(질겁한)",
+   "horrified(겁에 질린)"
+  ],
+  "anti": [
+   "unmoved(동요하지 않는)",
+   "indifferent(무관심한)"
+  ],
+  "idiom": [
+   "shocked to do(~해서 충격받은)",
+   "deeply shocked(깊이 충격받은)"
+  ],
+  "colloc": [
+   "shocked by the news(소식에 충격받은)",
+   "shocked silence(충격에 빠진 침묵)",
+   "absolutely shocked(완전히 충격받은)"
+  ],
+  "ex_add": "We were shocked to hear about the accident.  (shocked=충격받은)",
+  "ex_orig": "(g) American public opinion, however, has been greatly shocked in other ways by the German conduct of the war.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3389",
+  "hw": "shocking",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "충격을 주는 -> '충격적인·끔찍한 / (구어) 형편없는'.",
+  "senses": [
+   "1) 충격적인·놀라운",
+   "2) 끔찍한·괘씸한",
+   "3) (영구어) 형편없는·아주 나쁜"
+  ],
+  "etym": "프랑스어 choquer(부딪치다) -> shock(3387)의 현재분사형 형용사. '충격을 주는'이 핵심.",
+  "deriv": "shock(3387, 충격) -> 'shocking'. '충격을 주는 -> 충격적인(shocking news, 충격적인 소식)·끔찍한'. 한국 학습자 핵심: shocking(충격을 주는·대상) vs shocked(3388, 충격받은·사람)! shockingly(충격적으로). a shocking discovery(충격적 발견), shocking behavior(괘씸한 행동). appalling(끔찍한)·startling(놀라운)·outrageous(터무니없는)와 유의어. 반대 unsurprising(놀랍지 않은)·ordinary(평범한).",
+  "syn": [
+   "appalling(끔찍한)",
+   "startling(놀라운)",
+   "outrageous(터무니없는)"
+  ],
+  "anti": [
+   "unsurprising(놀랍지 않은)",
+   "ordinary(평범한)"
+  ],
+  "idiom": [
+   "shocking news(충격적인 소식)",
+   "a shocking discovery(충격적 발견)"
+  ],
+  "colloc": [
+   "shocking behavior(괘씸한 행동)",
+   "shocking results(충격적인 결과)",
+   "truly shocking(정말 충격적인)"
+  ],
+  "ex_add": "The report revealed shocking levels of pollution.  (shocking=충격적인)",
+  "ex_orig": "Such things happen in a1l wars as isolated instances, and the circumstances may be pleaded in extenuation of acts otherwise shocking.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3390",
+  "hw": "shooting",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "쏘는 일 -> '총격(사건) / 사격 / (영화) 촬영'.",
+  "senses": [
+   "1) 총격·발포 사건",
+   "2) 사격·총 사냥",
+   "3) (영화·사진의) 촬영"
+  ],
+  "etym": "고대 영어 sceotan(쏘다·내쏘다) -> shoot(쏘다) + -ing. '쏘아 내보내는 일'이 핵심. 촬영 뜻은 카메라로 '한 컷 쏘다(shoot)'에서.",
+  "deriv": "sceotan(쏘다) -> shoot -> 'shooting'. '쏘는 일 -> 총격(a mass shooting, 총기 난사)·사격·(카메라로 찍는) 촬영(on location shooting, 현지 촬영)'. 한국 학습자 핵심: shoot의 명사형이 총격·촬영 둘 다! a shooting star(별똥별), shooting pain(쑤시는 듯한 통증), a film shooting(영화 촬영). a shooting range(사격장). gunfire(총격)·filming(촬영)과 유의어.",
+  "syn": [
+   "gunfire(총격)",
+   "filming(촬영)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a shooting star(별똥별)",
+   "shooting pain(쑤시는 통증)"
+  ],
+  "colloc": [
+   "mass shooting(총기 난사)",
+   "shooting range(사격장)",
+   "film shooting(영화 촬영)"
+  ],
+  "ex_add": "The shooting of the movie took three months.  (shooting=촬영)",
+  "ex_orig": "The shooting of inhabitants, women and children as well as men, went on after the Germans had passed Dinant on their way into France.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3391",
+  "hw": "shore",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "물과 뭍의 경계 -> '해안·물가 / 뭍'.",
+  "senses": [
+   "1) 해안·바닷가·물가",
+   "2) (the shore) 뭍·육지",
+   "3) (shores) 나라·국토(문어적)"
+  ],
+  "etym": "중세 영어 schore <- 중세 네덜란드어 schore(물가). '바다·호수와 뭍이 만나는 경계'가 핵심.",
+  "deriv": "schore(물가) -> 'shore'. '물과 뭍의 경계 -> 해안(walk along the shore, 해안을 따라 걷다)·뭍'. 한국 학습자 핵심: 비슷한 단어 구별 — shore(바다·호수의 물가, 일반)·coast(해안선, 지리적)·beach(모래·자갈 해변)·seaside(해변 휴양지)! on shore(육지에서), off shore(앞바다에서 -> offshore 역외의), come ashore(상륙하다). coast(해안)·beach(해변)·bank(강둑)과 유의어. 반대 sea(바다)·offshore(앞바다).",
+  "syn": [
+   "coast(해안)",
+   "beach(해변)",
+   "bank(강둑)"
+  ],
+  "anti": [
+   "sea(바다)"
+  ],
+  "idiom": [
+   "come ashore(상륙하다)",
+   "on shore(육지에서)"
+  ],
+  "colloc": [
+   "along the shore(해안을 따라)",
+   "rocky shore(바위투성이 해안)",
+   "the opposite shore(맞은편 물가)"
+  ],
+  "ex_add": "We walked along the shore at sunset.  (shore=해안)",
+  "ex_orig": "Only one battleship that I could see was firing from off the western coast of the peninsula, standing well out off shore near Krithia.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3392",
+  "hw": "short-term",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "짧은 기간의 -> '단기의·단기적인'.",
+  "senses": [
+   "1) 단기의·단기적인",
+   "2) (기억이) 단기의"
+  ],
+  "etym": "고대 영어 sceort(짧은) + 라틴어 terminus(끝·기한) -> term(기간). '짧은 기간에 걸친'이 핵심. terminus(끝)는 term·terminal(종착역)·terminate(끝내다)·determine(결정하다)의 뿌리.",
+  "deriv": "short(짧은)+term(기간) -> 'short-term'. '짧은 기간의 -> 단기적인(a short-term solution, 단기적 해법)'. 한국 학습자 핵심: terminus(끝·기한) 갈래 — term(기간)·terminal(종착역)·terminate(끝내다)·determine(결정)·exterminate(몰살하다)! short-term memory(단기 기억), short-term gain(단기 이익). 반의어 long-term(장기적인). temporary(일시적인)·brief(짧은)와 유의어. 반대 long-term(장기적인)·permanent(3164, 영구적인).",
+  "syn": [
+   "temporary(일시적인)",
+   "brief(짧은)"
+  ],
+  "anti": [
+   "long-term(장기적인)",
+   "permanent(영구적인)"
+  ],
+  "idiom": [
+   "short-term memory(단기 기억)",
+   "in the short term(단기적으로)"
+  ],
+  "colloc": [
+   "short-term solution(단기 해법)",
+   "short-term gain(단기 이익)",
+   "short-term goal(단기 목표)"
+  ],
+  "ex_add": "This is only a short-term solution to the problem.  (short-term=단기의)",
+  "ex_orig": "21; London reports that negotiations are under way for a short-term loan of $100,000,000 to England by American interests.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3393",
+  "hw": "shortage",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "모자람 -> '부족·결핍'.",
+  "senses": [
+   "1) 부족·결핍·품귀",
+   "2) 부족량·부족액"
+  ],
+  "etym": "고대 영어 sceort(짧은·모자란) -> short(부족한) + -age(상태). '모자라 짧은 상태'가 핵심.",
+  "deriv": "short(부족한) -> 'shortage'. '모자람 -> 부족(a water shortage, 물 부족)'. 한국 학습자 핵심: -age(상태·집합) 접미사 — shortage·storage(저장)·package(꾸러미)·shrinkage(수축)! be short of(~이 부족하다)에서 온 명사. labor shortage(인력난), food shortage(식량난), housing shortage(주택난). lack(부족)·scarcity(희소)·deficiency(결핍)와 유의어. 반대 surplus(잉여)·abundance(2354, 풍부)·excess(과잉).",
+  "syn": [
+   "lack(부족)",
+   "scarcity(희소)",
+   "deficiency(결핍)"
+  ],
+  "anti": [
+   "surplus(잉여)",
+   "abundance(풍부)",
+   "excess(과잉)"
+  ],
+  "idiom": [
+   "a water shortage(물 부족)",
+   "labor shortage(인력난)"
+  ],
+  "colloc": [
+   "food shortage(식량난)",
+   "housing shortage(주택난)",
+   "acute shortage(심각한 부족)"
+  ],
+  "ex_add": "The drought caused a serious water shortage.  (shortage=부족)",
+  "ex_orig": "because of a shortage of rubber, the Government is arranging a special campaign to collect rubber in all shapes throughout the empire.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3394",
+  "hw": "shortly",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "짧게 -> '곧·머지않아 / 짧게·퉁명스럽게'.",
+  "senses": [
+   "1) 곧·머지않아·이내",
+   "2) 짧게·간략히",
+   "3) 퉁명스럽게·무뚝뚝하게"
+  ],
+  "etym": "고대 영어 sceort(짧은) -> short + -ly. '짧은 시간 뒤에 -> 곧'이 핵심.",
+  "deriv": "short(짧은) -> 'shortly'. '짧게 -> (시간이) 곧·머지않아(shortly after, 직후에)·(말이) 퉁명스럽게'. 한국 학습자 핵심: 시간 부사 '곧'이 가장 빈출(=soon). shortly before/after(직전/직후에), shortly afterward(얼마 후에). soon(곧)·presently(곧)·briefly(짧게)·curtly(퉁명스럽게)와 유의어. 반대 eventually(결국)·at length(장황하게).",
+  "syn": [
+   "soon(곧)",
+   "presently(곧)",
+   "briefly(짧게)"
+  ],
+  "anti": [
+   "eventually(결국)"
+  ],
+  "idiom": [
+   "shortly after(직후에)",
+   "shortly before(직전에)"
+  ],
+  "colloc": [
+   "shortly afterward(얼마 후에)",
+   "arrive shortly(곧 도착하다)",
+   "begin shortly(곧 시작하다)"
+  ],
+  "ex_add": "The train will be arriving shortly.  (shortly=곧)",
+  "ex_orig": "Shortly afterward a shell fell in their own garden; then they ran away and took refuge with friends at the other end of the town.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3395",
+  "hw": "shot",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "쏜 것 -> '발사·총성 / 슛 / 사진 / 시도 / 주사'.",
+  "senses": [
+   "1) 발사·총성·탄환",
+   "2) (스포츠) 슛·샷",
+   "3) 사진 한 장; 시도·기회; (구어) 주사·한 잔"
+  ],
+  "etym": "고대 영어 sceot/scot(쏘기·발사, sceotan=쏘다) -> 'shot'. shoot(쏘다)의 명사·과거분사. '쏘아 내보낸 것'이 핵심.",
+  "deriv": "sceotan(쏘다) -> 'shot'. '쏜 것 -> 총성·(공을) 슛·(카메라로 쏜) 사진·(한 번 던지는) 시도(give it a shot, 한번 해 보다)·(주사) 한 방'. 한국 학습자 핵심: 의미가 정말 다양! give it a shot/have a shot(시도해 보다), a long shot(가망 없는 시도), call the shots(결정권을 쥐다), a shot in the dark(막연한 추측), like a shot(쏜살같이), a flu shot(독감 주사). attempt(시도)·gunfire(총성)·photograph(사진)과 유의어.",
+  "syn": [
+   "attempt(시도)",
+   "gunfire(총성)",
+   "photograph(사진)"
+  ],
+  "anti": [],
+  "idiom": [
+   "give it a shot(시도해 보다)",
+   "call the shots(결정권을 쥐다)",
+   "a long shot(가망 없는 시도)"
+  ],
+  "colloc": [
+   "take a shot(슛하다·시도하다)",
+   "a flu shot(독감 주사)",
+   "a good shot(좋은 사진·명사수)"
+  ],
+  "ex_add": "Why not apply? Give it a shot!  (shot=시도)",
+  "ex_orig": "I did not actually see what happened outside, but heard subsequently that my master was bayoneted and shot, and that his son was shot.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3396",
+  "hw": "sibling",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "한 핏줄의 친척 -> '형제자매'.",
+  "senses": [
+   "1) 형제자매(형·동생·언니·누나·오빠를 통칭)"
+  ],
+  "etym": "고대 영어 sibling(친척, sib=혈연·친족 + -ling 작은 것). 20세기에 '형제자매'로 부활. '같은 핏줄의 가족'이 핵심.",
+  "deriv": "sib(혈연)+-ling -> 'sibling'. '한 핏줄의 친척 -> 형제자매(have three siblings, 형제자매가 셋 있다)'. 한국 학습자 핵심: 영어는 형/동생/언니/오빠/누나를 따로 구분하지 않고 brother/sister, 통칭이 sibling! 한국어처럼 손위·손아래를 한 단어로 가르지 않음 — older/younger brother로 풀어 씀. sibling rivalry(형제간 경쟁), have siblings(형제자매가 있다). brother(형제)·sister(자매)와 관련.",
+  "syn": [
+   "brother(형제)",
+   "sister(자매)"
+  ],
+  "anti": [],
+  "idiom": [
+   "sibling rivalry(형제간 경쟁)",
+   "have siblings(형제자매가 있다)"
+  ],
+  "colloc": [
+   "younger sibling(손아래 형제자매)",
+   "older sibling(손위 형제자매)",
+   "twin siblings(쌍둥이 형제자매)"
+  ],
+  "ex_add": "She has two siblings, a brother and a sister.  (sibling=형제자매)",
+  "ex_orig": "He was assisted in these concerts by his siblings, and by other musicians including Delaborde, Camille Saint -, and Auguste Franchomme.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "3397",
+  "hw": "sidewalk",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "옆으로 난 보행로 -> '보도·인도'.",
+  "senses": [
+   "1) (미) 보도·인도(차도 옆 보행로)"
+  ],
+  "etym": "side(옆·가장자리) + walk(걷는 길). '차도 옆에 난 걷는 길'이 핵심.",
+  "deriv": "side(옆)+walk(걷는 길) -> 'sidewalk'. '옆으로 난 보행로 -> 보도(walk on the sidewalk, 인도로 걷다)'. 한국 학습자 핵심: 미국 sidewalk vs 영국 pavement! (영국에서 pavement=인도, 미국에서 pavement=포장 노면). side 복합어 — sidewalk·sideline(부업·측면)·sidewalk·outside(밖)·beside(옆에). a sidewalk cafe(노천 카페). pavement(인도, 영)·footpath(보도)와 유의어. 반대 road(차도)·roadway(차도).",
+  "syn": [
+   "pavement(인도)",
+   "footpath(보도)"
+  ],
+  "anti": [
+   "road(차도)",
+   "roadway(차도)"
+  ],
+  "idiom": [
+   "on the sidewalk(인도에서)",
+   "a sidewalk cafe(노천 카페)"
+  ],
+  "colloc": [
+   "walk on the sidewalk(인도로 걷다)",
+   "crowded sidewalk(붐비는 인도)",
+   "sidewalk vendor(노점상)"
+  ],
+  "ex_add": "Children were playing on the sidewalk.  (sidewalk=인도)",
+  "ex_orig": "On holidays in these two cities inebriates always filled the police stations and often lay about on the sidewalks and even in the streets.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3398",
+  "hw": "signature",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "표시해 둔 것 -> '서명·사인 / 특징적인'.",
+  "senses": [
+   "1) 서명·사인",
+   "2) (adj.) 특유의·대표적인(signature dish)",
+   "3) (음악) 조표·박자표"
+  ],
+  "etym": "라틴어 signare(표시하다·서명하다, signum=표시) -> signatura(표시된 것) -> 'signature'. '자기 표시를 새겨 둠'이 핵심. signum(표시)는 signature·sign(표시)·signal(신호)·designate(지정)·resign(3302)·significant(3400)의 뿌리.",
+  "deriv": "signare(서명하다) -> 'signature'. '표시해 둔 것 -> 서명(forge a signature, 서명을 위조하다)·(자기만의 표시 ->) 특유의(a signature style, 트레이드마크 같은 스타일)'. 한국 학습자 핵심: signum(표시) 대가족 — sign(표시)·signal(신호)·designate(지정)·resign(3302)·significant(3400)·assign(할당)·design(설계)! a signature dish(대표 요리), put one's signature(서명하다). autograph(사인)·mark(표시)와 유의어.",
+  "syn": [
+   "autograph(사인)",
+   "mark(표시)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a signature dish(대표 요리)",
+   "put one's signature(서명하다)"
+  ],
+  "colloc": [
+   "forge a signature(서명을 위조하다)",
+   "collect signatures(서명을 모으다)",
+   "signature style(특유의 스타일)"
+  ],
+  "ex_add": "Please put your signature at the bottom of the form.  (signature=서명)",
+  "ex_orig": "ALEXANDROV, &c., altogether the signatures of forty-nine artists.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3399",
+  "hw": "significance",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "표시가 가리키는 무게 -> '중요성·의의 / 의미'.",
+  "senses": [
+   "1) 중요성·중대성·의의",
+   "2) (숨은) 의미·뜻"
+  ],
+  "etym": "라틴어 signum(표시) + facere(만들다) -> significare(표시로 나타내다·의미하다) -> significance. '표시로 가리키는 무게·뜻'이 핵심.",
+  "deriv": "signum(표시)+facere(만들다) -> 'significance'. '표시가 가리키는 무게 -> 중요성(historical significance, 역사적 의의)·의미'. 한국 학습자 핵심: signum(표시) 갈래 — sign(표시)·signal(신호)·significant(3400)·signature(3398)·designate(지정)! facere(만들다) 갈래 — fact(2657)·satisfy(3342)·effect(효과). of great significance(매우 중요한), statistical significance(통계적 유의성). importance(중요성)·meaning(의미)·relevance(연관성)와 유의어. 반대 insignificance(하찮음)·triviality(사소함).",
+  "syn": [
+   "importance(중요성)",
+   "meaning(의미)",
+   "relevance(연관성)"
+  ],
+  "anti": [
+   "insignificance(하찮음)",
+   "triviality(사소함)"
+  ],
+  "idiom": [
+   "of great significance(매우 중요한)",
+   "historical significance(역사적 의의)"
+  ],
+  "colloc": [
+   "statistical significance(통계적 유의성)",
+   "cultural significance(문화적 의의)",
+   "real significance(진정한 의미)"
+  ],
+  "ex_add": "The discovery has enormous scientific significance.  (significance=중요성)",
+  "ex_orig": "We may now sum up and endeavor to explain the character and significance of the wrongful acts done by the German Army in Belgium.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3400",
+  "hw": "significant",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "표시가 가리킬 만한 -> '중요한·상당한 / 의미심장한'.",
+  "senses": [
+   "1) 중요한·중대한",
+   "2) (양·정도가) 상당한·현저한",
+   "3) 의미심장한·시사하는 바가 큰"
+  ],
+  "etym": "라틴어 signum(표시) + facere(만들다) -> significans(의미를 나타내는) -> 'significant'. '표시로 가리킬 만큼 뜻이 있는'이 핵심.",
+  "deriv": "signum(표시)+facere(만들다) -> 'significant'. '표시가 가리킬 만한 -> 중요한(a significant change, 중대한 변화)·상당한(a significant amount, 상당한 양)'. 한국 학습자 핵심: signum(표시) 대가족 — sign·signal·signature(3398)·significance(3399)·designate(지정)·resign(3302)! a significant other(중요한 사람·연인), statistically significant(통계적으로 유의한). important(중요한)·considerable(상당한)·notable(주목할 만한)과 유의어. 반대 insignificant(하찮은)·negligible(무시할 만한)·minor(사소한).",
+  "syn": [
+   "important(중요한)",
+   "considerable(상당한)",
+   "notable(주목할 만한)"
+  ],
+  "anti": [
+   "insignificant(하찮은)",
+   "negligible(무시할 만한)",
+   "minor(사소한)"
+  ],
+  "idiom": [
+   "a significant other(연인·배우자)",
+   "statistically significant(통계적으로 유의한)"
+  ],
+  "colloc": [
+   "significant change(중대한 변화)",
+   "significant amount(상당한 양)",
+   "significant impact(상당한 영향)"
+  ],
+  "ex_add": "There has been a significant increase in sales.  (significant=상당한)",
+  "ex_orig": "With all my heart I would beg Unionists in England to reflect conscientiously upon this very significant state of affairs in America:",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3401",
+  "hw": "significantly",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "상당히 -> '상당히·크게 / 의미심장하게'.",
+  "senses": [
+   "1) 상당히·현저히·크게",
+   "2) 의미심장하게·뜻있게",
+   "3) (문장 전체) 주목할 만하게도"
+  ],
+  "etym": "라틴어 signum(표시)+facere(만들다) -> significant(3400) + -ly(부사). '표시할 만큼 크게'가 핵심.",
+  "deriv": "significant(3400, 상당한) -> 'significantly'. '상당히 -> 크게(significantly higher, 상당히 더 높은)·의미심장하게'. 한국 학습자 핵심: signum(표시) 갈래 — sign·significant(3400)·significance(3399)·signature(3398)! 문두에 쓰이면 '주목할 점은'(=notably). significantly different(상당히 다른), significantly more(상당히 더 많이). considerably(상당히)·notably(현저히)·substantially(상당히)와 유의어. 반대 slightly(약간)·marginally(미미하게).",
+  "syn": [
+   "considerably(상당히)",
+   "notably(현저히)",
+   "substantially(상당히)"
+  ],
+  "anti": [
+   "slightly(약간)",
+   "marginally(미미하게)"
+  ],
+  "idiom": [
+   "significantly higher(상당히 더 높은)",
+   "significantly different(상당히 다른)"
+  ],
+  "colloc": [
+   "significantly increase(크게 증가하다)",
+   "significantly reduce(상당히 줄이다)",
+   "significantly more(상당히 더)"
+  ],
+  "ex_add": "Sales rose significantly after the ad campaign.  (significantly=상당히)",
+  "ex_orig": "That the German aviators are at a disadvantage in fighting against the Allies' aeroplanes armed with machine guns was freely admitted by Gen. von Heeringen, who said significantly that that would be attended to in the near future.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3402",
+  "hw": "silence",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "잠잠함 -> '침묵·고요 / 무소식'.",
+  "senses": [
+   "1) 침묵·말 없음",
+   "2) 고요·정적",
+   "3) 무소식·함구; (동사) 침묵시키다"
+  ],
+  "etym": "라틴어 silere(조용하다·잠잠하다) -> silentium(고요) -> 'silence'. '소리·말이 없는 상태'가 핵심. silere(조용하다)는 silence·silent(조용한)·silently(조용히)의 뿌리.",
+  "deriv": "silere(조용하다) -> 'silence'. '잠잠함 -> 침묵(an awkward silence, 어색한 침묵)·고요'. 한국 학습자 핵심: silere(조용하다) 갈래 — silent(조용한)·silently(조용히)! Silence is golden(침묵은 금이다), a moment of silence(묵념), break the silence(침묵을 깨다), the silence is deafening(침묵이 더 크게 와 닿다). quiet(고요)·stillness(정적)·hush(침묵)와 유의어. 반대 noise(소음)·sound(소리)·clamor(아우성).",
+  "syn": [
+   "quiet(고요)",
+   "stillness(정적)",
+   "hush(침묵)"
+  ],
+  "anti": [
+   "noise(소음)",
+   "sound(소리)",
+   "clamor(아우성)"
+  ],
+  "idiom": [
+   "Silence is golden(침묵은 금이다)",
+   "break the silence(침묵을 깨다)",
+   "a moment of silence(묵념)"
+  ],
+  "colloc": [
+   "awkward silence(어색한 침묵)",
+   "stunned silence(아연한 침묵)",
+   "in silence(말없이)"
+  ],
+  "ex_add": "There was a long silence before she answered.  (silence=침묵)",
+  "ex_orig": "The \"battle of Rheims\" looked to me very much like a put-up job, a game of trying to silence one another's batteries and nothing more.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3403",
+  "hw": "silk",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "비단실 -> '비단·실크 / 명주'.",
+  "senses": [
+   "1) 비단·실크",
+   "2) 명주실·견사",
+   "3) (거미·곤충의) 실"
+  ],
+  "etym": "고대 영어 sioloc <- 라틴어 sericum(비단) <- 그리스어 Seres(비단을 만들던 동방 민족, 곧 중국). '동방에서 온 고운 천'이 핵심. 실크로드(Silk Road)의 그 silk.",
+  "deriv": "Seres(비단의 나라) -> sericum(비단) -> 'silk'. '비단실 -> 비단(pure silk, 순수 실크)'. 한국 학습자 핵심: 어원이 '중국(Seres)'! 실크로드(Silk Road)가 여기서 — 비단을 나르던 동서 교역로. silky(비단 같은·매끄러운)·silken(비단의)이 가족. as smooth as silk(비단같이 매끄러운), make a silk purse out of a sow's ear(불가능한 것을 만들려 하다). satin(공단)·fabric(천)과 관련.",
+  "syn": [
+   "satin(공단)"
+  ],
+  "anti": [],
+  "idiom": [
+   "as smooth as silk(비단같이 매끄러운)",
+   "the Silk Road(실크로드)"
+  ],
+  "colloc": [
+   "pure silk(순수 실크)",
+   "silk scarf(실크 스카프)",
+   "silk dress(실크 드레스)"
+  ],
+  "ex_add": "The dress was made of fine silk.  (silk=실크)",
+  "ex_orig": "Similar reductions have occurred in the silk, woolen, linen, and hemp industries.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3404",
+  "hw": "sincere",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "섞임 없이 순수한 -> '진실한·진심 어린'.",
+  "senses": [
+   "1) 진실한·진심 어린",
+   "2) (사람이) 정직한·꾸밈없는"
+  ],
+  "etym": "라틴어 sincerus(순수한·섞이지 않은). (속설은 sine cera=밀랍 없이, 즉 흠을 밀랍으로 메우지 않은 순정품이라 하나 불확실.) '섞임 없이 순수한 -> 거짓 없는'이 핵심. sincerus는 sincere·sincerity(진실성)·sincerely(진심으로)의 뿌리.",
+  "deriv": "sincerus(순수한) -> 'sincere'. '섞임 없는 -> 거짓 없는 -> 진실한(a sincere apology, 진심 어린 사과)'. 한국 학습자 핵심: 편지 맺음말 Yours sincerely / Sincerely yours(올림·드림)로 매우 빈출! sincerity(진실성)·sincerely(진심으로)가 가족. genuine(진짜의)·heartfelt(진심 어린)·honest(정직한)와 유의어. 반대 insincere(불성실한)·false(거짓의)·hypocritical(위선적인).",
+  "syn": [
+   "genuine(진짜의)",
+   "heartfelt(진심 어린)",
+   "honest(정직한)"
+  ],
+  "anti": [
+   "insincere(불성실한)",
+   "false(거짓의)",
+   "hypocritical(위선적인)"
+  ],
+  "idiom": [
+   "a sincere apology(진심 어린 사과)",
+   "Yours sincerely(올림·드림)"
+  ],
+  "colloc": [
+   "sincere thanks(진심 어린 감사)",
+   "sincere effort(진실한 노력)",
+   "deeply sincere(매우 진실한)"
+  ],
+  "ex_add": "Please accept my sincere apologies.  (sincere=진심 어린)",
+  "ex_orig": "All of this was known in Italy, and it was only the sincere desire for peace prevailing among the Italian people which prevented a rupture.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3405",
+  "hw": "skilled",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "솜씨를 갖춘 -> '숙련된·노련한 / 기술을 요하는'.",
+  "senses": [
+   "1) 숙련된·노련한·솜씨 좋은",
+   "2) (일이) 기술을 요하는·전문적인"
+  ],
+  "etym": "고대 노르드어 skil(분별·구별) -> skill(기술·솜씨) + -ed. 본래 '분별력'에서 '익힌 능력'으로 발전. '솜씨를 갖춘'이 핵심.",
+  "deriv": "skill(기술) -> 'skilled'. '솜씨를 갖춘 -> 숙련된(a skilled worker, 숙련공)·기술을 요하는(skilled labor, 숙련 노동)'. 한국 학습자 핵심: skill(기술)·skilled·skillful(솜씨 좋은)·unskilled(미숙련의)! skilled in/at(~에 능숙한), highly skilled(고도로 숙련된). 구별: skilled(능력 보유·기술직)와 skillful(솜씨를 잘 발휘하는). expert(숙련된)·proficient(능숙한)·accomplished(기량 있는)과 유의어. 반대 unskilled(미숙련의)·inexperienced(미숙한).",
+  "syn": [
+   "expert(숙련된)",
+   "proficient(능숙한)",
+   "accomplished(기량 있는)"
+  ],
+  "anti": [
+   "unskilled(미숙련의)",
+   "inexperienced(미숙한)"
+  ],
+  "idiom": [
+   "skilled in/at(~에 능숙한)",
+   "highly skilled(고도로 숙련된)"
+  ],
+  "colloc": [
+   "skilled worker(숙련공)",
+   "skilled labor(숙련 노동)",
+   "highly skilled(고도로 숙련된)"
+  ],
+  "ex_add": "The factory needs more skilled workers.  (skilled=숙련된)",
+  "ex_orig": "the Government has made an arrangement by which skilled workmen now at the front can be recalled to England to work in munition factories as needed;",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3406",
+  "hw": "skull",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "머리뼈 -> '두개골·해골'.",
+  "senses": [
+   "1) 두개골·머리뼈",
+   "2) (구어) 머리·두뇌"
+  ],
+  "etym": "중세 영어 scolle(머리뼈). 스칸디나비아어 계열로 '머리를 감싼 뼈'가 핵심.",
+  "deriv": "scolle(머리뼈) -> 'skull'. '머리뼈 -> 두개골(fracture the skull, 두개골이 골절되다)'. 한국 학습자 핵심: skull and crossbones(해골과 뼈 그림, 독·해적 표시), get it into one's thick skull(둔한 머리에 새겨 넣다), bored out of one's skull(따분해 죽을 지경인). cranium(두개), skeleton(2208 골격)과 관련. brain(뇌)은 그 안의 내용물.",
+  "syn": [
+   "cranium(두개)"
+  ],
+  "anti": [],
+  "idiom": [
+   "skull and crossbones(해골 표시)",
+   "get it into one's skull(머리에 새기다)"
+  ],
+  "colloc": [
+   "fracture the skull(두개골이 골절되다)",
+   "human skull(사람 두개골)",
+   "skull injury(두개골 부상)"
+  ],
+  "ex_add": "The helmet protects the skull from injury.  (skull=두개골)",
+  "ex_orig": "These loopholes are only fifteen or twenty centimeters wide, but if a bullet comes through them it is a skull pierced and certain death.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3407",
+  "hw": "slide",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "미끄러지다 -> '미끄러지다 / 미끄럼틀·슬라이드 / 하락'.",
+  "senses": [
+   "1) 미끄러지다·미끄러뜨리다",
+   "2) (가치가) 서서히 하락하다·빠져들다",
+   "3) (n.) 미끄럼틀; (발표) 슬라이드; 산사태"
+  ],
+  "etym": "고대 영어 slidan(미끄러지다). 게르만어 sl- 계열(미끄러움)로 '매끄럽게 죽 나아감'이 핵심.",
+  "deriv": "slidan(미끄러지다) -> 'slide'. '미끄러짐 -> 미끄러지다(slide on ice, 빙판에서 미끄러지다)·(서서히) 하락하다(prices slide, 가격이 미끄러지듯 내리다)·(n.) 슬라이드'. 한국 학습자 핵심: 불규칙 slide-slid-slid! let something slide(~을 방치하다·내버려 두다), a slippery slope(미끄러운 비탈·악화 일로). 발표 자료 'slide'(PPT 한 장). slip(3409, 미끄러지다)·glide(활공하다)와 유의어.",
+  "syn": [
+   "slip(미끄러지다)",
+   "glide(활공하다)",
+   "skid(미끄러지다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "let something slide(~을 방치하다)",
+   "a slippery slope(악화 일로)"
+  ],
+  "colloc": [
+   "slide on ice(빙판에서 미끄러지다)",
+   "slide down(미끄러져 내려가다)",
+   "present slides(슬라이드를 발표하다)"
+  ],
+  "ex_add": "The car slid on the icy road.  (slide=미끄러지다)",
+  "ex_orig": "In total, 23 people in the path of the slide survived, in addition to the 17 miners who escaped from the tunnels under Turtle Mountain.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "3408",
+  "hw": "slight",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "매끈하니 가벼운 -> '약간의·미미한 / 호리호리한'.",
+  "senses": [
+   "1) 약간의·미미한·경미한",
+   "2) (몸이) 호리호리한·가냘픈",
+   "3) (동사·명사) 무시(하다)·모욕(하다)"
+  ],
+  "etym": "고대 노르드어 slettr(매끈한·평평한) -> 중세 영어 slight(매끈한·가느다란). '매끈하고 가벼워 대수롭지 않은'이 핵심.",
+  "deriv": "slettr(매끈한) -> 'slight'. '매끈하니 가벼운 -> 약간의(a slight delay, 약간의 지연)·호리호리한·(가볍게 여겨) 무시하다'. 한국 학습자 핵심: slightly(3 부근, 약간)가 부사. not in the slightest(전혀 ~아닌), a slight chance(희박한 가능성). small(작은)·minor(사소한)·faint(희미한)과 유의어. 반대 considerable(상당한)·significant(3400, 상당한)·major(주요한).",
+  "syn": [
+   "small(작은)",
+   "minor(사소한)",
+   "faint(희미한)"
+  ],
+  "anti": [
+   "considerable(상당한)",
+   "significant(상당한)",
+   "major(주요한)"
+  ],
+  "idiom": [
+   "not in the slightest(전혀 ~아닌)",
+   "a slight chance(희박한 가능성)"
+  ],
+  "colloc": [
+   "slight delay(약간의 지연)",
+   "slight difference(미미한 차이)",
+   "slight increase(소폭 증가)"
+  ],
+  "ex_add": "There was a slight change in the schedule.  (slight=약간의)",
+  "ex_orig": "Our losses were comparatively slight, and, owing to the targets presented by the enemy, the action resolved itself on our part into pure killing.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3409",
+  "hw": "slip",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "스르르 미끄러지다 -> '미끄러지다 / 슬며시 가다·넣다 / 실수하다'.",
+  "senses": [
+   "1) 미끄러지다·넘어질 뻔하다",
+   "2) 슬며시 가다·살짝 넣다·빠져나가다",
+   "3) (실수로) 흘리다·깜빡하다; (n.) 작은 실수; 쪽지"
+  ],
+  "etym": "중세 저지 독일어 slippen(미끄러지다). 게르만어 sl- 계열로 '매끄럽게 빠져나감'이 핵심. slide(3407)와 친척.",
+  "deriv": "slippen(미끄러지다) -> 'slip'. '스르르 미끄러짐 -> 미끄러지다(slip on the floor, 바닥에서 미끄러지다)·슬며시 빠져나가다(slip away, 슬그머니 사라지다)·(말이) 새다·실수(a slip of the tongue, 말실수)'. 한국 학습자 핵심: 변화 slip-slipped-slipped. slip of the tongue(말실수), slip one's mind(깜빡하다), give someone the slip(따돌리다), let slip(무심코 말하다), a slippery slope(악화 일로). slide(3407, 미끄러지다)·sneak(살금살금 가다)와 유의어.",
+  "syn": [
+   "slide(미끄러지다)",
+   "sneak(살금살금 가다)",
+   "stumble(발을 헛디디다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "slip of the tongue(말실수)",
+   "slip one's mind(깜빡하다)",
+   "give someone the slip(따돌리다)"
+  ],
+  "colloc": [
+   "slip on ice(빙판에서 미끄러지다)",
+   "slip away(슬그머니 사라지다)",
+   "slip into(살짝 들어가다·갈아입다)"
+  ],
+  "ex_add": "Sorry, his name slipped my mind.  (slip one's mind=깜빡하다)",
+  "ex_orig": "I fell into the same boat, and we were slipped down into the water over the side of the liner, which was bulging out, the list being the other way.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3410",
+  "hw": "slogan",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "무리의 함성 -> '구호·표어·슬로건'.",
+  "senses": [
+   "1) (광고·운동의) 구호·표어·슬로건"
+  ],
+  "etym": "스코틀랜드 게일어 sluagh-ghairm(무리의 함성, sluagh=군대 + gairm=외침) -> 'slogan'. 옛 씨족이 전투에서 외치던 함성에서 '내거는 구호'로 발전. '무리를 모으는 외침'이 핵심.",
+  "deriv": "sluagh-ghairm(무리의 함성) -> 'slogan'. '전투 함성 -> (내거는) 구호·표어(a catchy slogan, 귀에 쏙 들어오는 슬로건)'. 한국 학습자 핵심: 어원이 게일어 '전쟁 함성'이라는 점이 독특! a campaign slogan(캠페인 구호), an advertising slogan(광고 문구), chant slogans(구호를 외치다). motto(좌우명)·catchphrase(유행어)·tagline(광고 문구)과 유의어.",
+  "syn": [
+   "motto(좌우명)",
+   "catchphrase(유행어)",
+   "tagline(광고 문구)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a catchy slogan(귀에 쏙 들어오는 슬로건)",
+   "chant slogans(구호를 외치다)"
+  ],
+  "colloc": [
+   "campaign slogan(캠페인 구호)",
+   "advertising slogan(광고 문구)",
+   "political slogan(정치 구호)"
+  ],
+  "ex_add": "The protesters carried signs with bold slogans.  (slogan=구호)",
+  "ex_orig": "Ever angry and unglutted, when the rocking fight is red, Then my slogan stirs all sleepers save the still and dreamless dead!",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3411",
+  "hw": "slope",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "비스듬히 기욺 -> '경사면·비탈 / 경사지다'.",
+  "senses": [
+   "1) 경사면·비탈·언덕",
+   "2) (수학) 기울기·경사도",
+   "3) (동사) 경사지다·기울다"
+  ],
+  "etym": "고대 영어 aslupan(미끄러져 가다)에서 역형성된 slope. slip(3409)·slide(3407)와 같은 sl- 계열. '비스듬히 기울어 미끄러지는 면'이 핵심.",
+  "deriv": "aslupan(미끄러지다) -> 'slope'. '비스듬히 기욺 -> 경사면(a steep slope, 가파른 비탈)·경사지다'. 한국 학습자 핵심: sl- 계열(미끄러움) — slip(3409)·slide(3407)·slope! the ski slopes(스키장 슬로프), a slippery slope(악화 일로·미끄러운 비탈, 비유), a gentle slope(완만한 경사). incline(경사)·gradient(기울기)·hillside(산비탈)와 유의어. 반대 flat(평지)·level(수평).",
+  "syn": [
+   "incline(경사)",
+   "gradient(기울기)",
+   "hillside(산비탈)"
+  ],
+  "anti": [
+   "flat(평지)",
+   "level(수평)"
+  ],
+  "idiom": [
+   "a slippery slope(악화 일로)",
+   "the ski slopes(스키장 슬로프)"
+  ],
+  "colloc": [
+   "steep slope(가파른 비탈)",
+   "gentle slope(완만한 경사)",
+   "mountain slope(산비탈)"
+  ],
+  "ex_add": "The house is built on a steep slope.  (slope=비탈)",
+  "ex_orig": "And at the end of one of these I sit at this moment; away on the rear slope of the hill which is our fortress.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3412",
+  "hw": "so-called",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "이른바 -> '이른바·소위 (흔히 못마땅하게)'.",
+  "senses": [
+   "1) 이른바·소위(명목상 그렇게 불리는)",
+   "2) (못마땅함) 자칭 ~라는·~라고들 하는"
+  ],
+  "etym": "so(그렇게) + called(불리는, call의 과거분사). '그렇게 불리는 -> 명목상 그러한'이 핵심.",
+  "deriv": "so(그렇게)+called(불리는) -> 'so-called'. '그렇게 불리는 -> 이른바(the so-called experts, 이른바 전문가들)'. 한국 학습자 핵심: 흔히 빈정거림·의심을 담음 — '자칭 ~라지만 실은 아닌'! the so-called free market(소위 자유 시장), so-called friends(친구라는 사람들). 따옴표처럼 그 명칭이 부적절함을 암시. supposed(소위)·alleged(~라고 주장되는)·nominal(명목상의)과 유의어.",
+  "syn": [
+   "supposed(소위)",
+   "alleged(~라고 주장되는)",
+   "nominal(명목상의)"
+  ],
+  "anti": [
+   "genuine(진짜의)",
+   "actual(실제의)"
+  ],
+  "idiom": [
+   "the so-called experts(이른바 전문가들)",
+   "so-called friends(친구라는 사람들)"
+  ],
+  "colloc": [
+   "so-called solution(소위 해법이라는 것)",
+   "so-called democracy(이른바 민주주의)",
+   "the so-called elite(소위 엘리트)"
+  ],
+  "ex_add": "These so-called bargains are not cheap at all.  (so-called=이른바)",
+  "ex_orig": "He called that assertion a \"stringent and impracticable\" view of the guarantee and the whole treaty a \"complicated question.\" So Mr.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3413",
+  "hw": "solar",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "해의 -> '태양의·태양열의'.",
+  "senses": [
+   "1) 태양의·태양에 관한",
+   "2) 태양열·태양광을 이용한"
+  ],
+  "etym": "라틴어 sol(해·태양) -> solaris(태양의) -> 'solar'. '해와 관련된'이 핵심. sol(해)은 solar·solstice(지점)·parasol(양산)·solarium(일광욕실)의 뿌리.",
+  "deriv": "sol(해) -> 'solar'. '해의 -> 태양의·태양열의(solar energy, 태양 에너지)'. 한국 학습자 핵심: sol(해) 갈래 — solstice(하지·동지)·parasol(양산, para 막다+sol 해)·solarium(일광욕실)! 주의: solar(태양의)와 sole(유일한, 라틴어 solus 혼자)는 어원이 다름! the solar system(태양계), solar panel(태양광 패널), solar eclipse(일식). 반의어 격으로 lunar(달의). 반대 lunar(달의).",
+  "syn": [],
+  "anti": [
+   "lunar(달의)"
+  ],
+  "idiom": [
+   "the solar system(태양계)",
+   "solar power(태양력)"
+  ],
+  "colloc": [
+   "solar energy(태양 에너지)",
+   "solar panel(태양광 패널)",
+   "solar eclipse(일식)"
+  ],
+  "ex_add": "They installed solar panels on the roof.  (solar=태양광의)",
+  "ex_orig": "The iodine - xenon method of dating gives the time between nucleosynthesis and the condensation of a solid object from the solar nebula.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "3414",
+  "hw": "somehow",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "어떻게든 -> '어떻게든·그럭저럭 / 웬일인지'.",
+  "senses": [
+   "1) 어떻게든·그럭저럭·어쨌든",
+   "2) 웬일인지·어쩐지(이유 모르게)"
+  ],
+  "etym": "some(어떤) + how(어떻게). '어떤 방법으로든지 / 어떤 이유에선지'가 핵심.",
+  "deriv": "some(어떤)+how(어떻게) -> 'somehow'. '어떤 방법으로든 -> 어떻게든(I'll manage somehow, 어떻게든 해낼게)·(어떤 이유에선지) 웬일인지(somehow it felt wrong, 웬일인지 잘못된 느낌이었다)'. 한국 학습자 핵심: some- 복합 부사 묶음 — somehow·somewhat(3416)·sometime(3415)·somewhere(어딘가)·someday(언젠가)! somehow or other(어떻게 해서든). in some way(어떤 식으로)·for some reason(웬일인지)과 유의어.",
+  "syn": [
+   "in some way(어떤 식으로)",
+   "for some reason(웬일인지)"
+  ],
+  "anti": [],
+  "idiom": [
+   "somehow or other(어떻게 해서든)",
+   "manage somehow(어떻게든 해내다)"
+  ],
+  "colloc": [
+   "somehow manage(어떻게든 해내다)",
+   "somehow survive(그럭저럭 살아남다)",
+   "somehow different(웬일인지 다른)"
+  ],
+  "ex_add": "We'll find a way somehow.  (somehow=어떻게든)",
+  "ex_orig": "But there was a little doubt about the date, and then somehow the spy-hunting sport took up general attention.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3415",
+  "hw": "sometime",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "어떤 때에 -> '언젠가·조만간 / (형용사) 한때의'.",
+  "senses": [
+   "1) (미래의) 언젠가·조만간",
+   "2) (과거의) 어느 때엔가",
+   "3) (adj.) 한때의·예전의"
+  ],
+  "etym": "some(어떤) + time(때). '어떤 때(특정하지 않은 시점)에'가 핵심.",
+  "deriv": "some(어떤)+time(때) -> 'sometime'. '어떤 때에 -> 언젠가(sometime next week, 다음 주 중 언젠가)·(adj.) 한때의'. 한국 학습자 핵심: 철자 함정 3종 구별 필수! sometime(언젠가, 부사) vs some time(얼마간의 시간, 두 단어) vs sometimes(때때로, 빈도 부사)! Let's meet sometime(언젠가 만나자), It took some time(시간이 좀 걸렸다), I sometimes jog(가끔 조깅한다). someday(언젠가)·at some point(언젠가)와 유의어.",
+  "syn": [
+   "someday(언젠가)",
+   "at some point(언젠가)"
+  ],
+  "anti": [],
+  "idiom": [
+   "sometime soon(조만간)",
+   "sometime or other(언젠가는)"
+  ],
+  "colloc": [
+   "sometime next week(다음 주 중 언젠가)",
+   "sometime ago(얼마 전에)",
+   "meet sometime(언젠가 만나다)"
+  ],
+  "ex_add": "Let's have dinner together sometime.  (sometime=언젠가)",
+  "ex_orig": "In the evidence before us there are cases tending to show that aggravated crimes against women were sometimes severely punished.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3416",
+  "hw": "somewhat",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "어느 정도 -> '다소·약간·어느 정도'.",
+  "senses": [
+   "1) 다소·약간·어느 정도",
+   "2) 얼마간"
+  ],
+  "etym": "some(어떤·얼마간) + what(것). '얼마간의 정도로'가 핵심.",
+  "deriv": "some(얼마간)+what(것) -> 'somewhat'. '어느 정도 -> 다소(somewhat surprised, 다소 놀란)'. 한국 학습자 핵심: some- 복합 부사 — somewhat·somehow(3414)·sometime(3415)! 정도를 누그러뜨리는 부사(=rather, fairly) — 격식 있는 어감. somewhat different(다소 다른), somewhat better(약간 나은). rather(다소)·fairly(꽤)·slightly(약간)와 유의어. 반대 extremely(극히)·completely(완전히).",
+  "syn": [
+   "rather(다소)",
+   "fairly(꽤)",
+   "slightly(약간)"
+  ],
+  "anti": [
+   "extremely(극히)",
+   "completely(완전히)"
+  ],
+  "idiom": [
+   "somewhat surprised(다소 놀란)",
+   "somewhat different(다소 다른)"
+  ],
+  "colloc": [
+   "somewhat better(약간 나은)",
+   "somewhat reluctant(다소 꺼리는)",
+   "somewhat similar(다소 비슷한)"
+  ],
+  "ex_add": "The results were somewhat disappointing.  (somewhat=다소)",
+  "ex_orig": "Looking somewhat deeper, what right have the Germans to speak of their cultural ideals as superior to those of the Russian people?",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3417",
+  "hw": "sophisticated",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "세파에 닳은 -> '정교한·복잡한 / 세련된·교양 있는'.",
+  "senses": [
+   "1) (기계·체계가) 정교한·고도의·복잡한",
+   "2) (사람이) 세련된·교양 있는·세상 물정에 밝은",
+   "3) (취향이) 고상한·수준 높은"
+  ],
+  "etym": "그리스어 sophia(지혜) -> 라틴어 sophisticare(궤변으로 변질시키다) -> sophisticated(본래 '순수함을 잃은'). 후에 '세상 이치에 닳아 세련된·정교한'으로 긍정화. sophia(지혜)는 sophisticated·philosophy(3179 철학)·sophomore(2학년)·sophist(궤변가)의 뿌리.",
+  "deriv": "sophia(지혜) -> 'sophisticated'. '세파에 닳음 -> (사람) 세련된(a sophisticated lady, 세련된 여성)·(기계) 정교한·복잡한(sophisticated technology, 고도의 기술)'. 한국 학습자 핵심: sophia(지혜) 갈래 — philosophy(3179 철학)·sophomore(2학년, sophos 현명+moros 어리석은)·sophist(궤변가)! 의미 변천 주의: 옛날엔 '순수함을 잃은'(부정), 지금은 '세련된·정교한'(긍정). complex(복잡한)·refined(세련된)·advanced(고도의)와 유의어. 반대 simple(단순한)·naive(순진한)·crude(조잡한).",
+  "syn": [
+   "complex(복잡한)",
+   "refined(세련된)",
+   "advanced(고도의)"
+  ],
+  "anti": [
+   "simple(단순한)",
+   "naive(순진한)",
+   "crude(조잡한)"
+  ],
+  "idiom": [
+   "sophisticated technology(고도의 기술)",
+   "a sophisticated lady(세련된 여성)"
+  ],
+  "colloc": [
+   "sophisticated system(정교한 시스템)",
+   "highly sophisticated(매우 정교한)",
+   "sophisticated taste(고상한 취향)"
+  ],
+  "ex_add": "The factory uses sophisticated machinery.  (sophisticated=정교한)",
+  "ex_orig": "During the Song dynasty, previous works on architecture were brought to more sophisticated levels of description, as in, written by Li in AD.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "3418",
+  "hw": "soul",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "영혼 -> '영혼·넋 / 마음·정수 / 사람'.",
+  "senses": [
+   "1) 영혼·넋",
+   "2) 마음·정신; 핵심·정수",
+   "3) (a soul) 사람(부정문); (음악) 소울"
+  ],
+  "etym": "고대 영어 sawol(영혼·생명). 게르만어 공통 어근으로 '육체에 깃든 정신·생명'이 핵심.",
+  "deriv": "sawol(영혼) -> 'soul'. '영혼 -> 넋·(어떤 것의) 정수·(부정문) 사람(not a soul, 아무도 없는)'. 한국 학습자 핵심: body and soul(몸과 마음·온 힘을 다해), heart and soul(전심전력으로), not a soul(단 한 사람도), the life and soul of the party(분위기 메이커), soul-searching(자기 성찰), kindred spirit과 비슷한 a kindred soul(마음이 통하는 사람). spirit(정신)·heart(마음)·essence(정수)와 유의어. 반대 body(육체).",
+  "syn": [
+   "spirit(정신)",
+   "heart(마음)",
+   "essence(정수)"
+  ],
+  "anti": [
+   "body(육체)"
+  ],
+  "idiom": [
+   "heart and soul(전심전력으로)",
+   "not a soul(아무도 없는)",
+   "the life and soul of the party(분위기 메이커)"
+  ],
+  "colloc": [
+   "body and soul(몸과 마음)",
+   "soul mate(영혼의 동반자)",
+   "soul music(소울 음악)"
+  ],
+  "ex_add": "There wasn't a soul in sight on the empty street.  (soul=사람)",
+  "ex_orig": "Nor will any Belgian, I trust, doubt of what I suffer in my soul, as a citizen and as a Bishop, in sympathy with all this sorrow.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3419",
+  "hw": "specialist",
+  "pos": "n., adj.",
+  "cefr": "B2",
+  "core": "특정 종류를 다루는 사람 -> '전문가·전문의'.",
+  "senses": [
+   "1) 전문가",
+   "2) (의학) 전문의",
+   "3) (adj.) 전문의·전문적인"
+  ],
+  "etym": "라틴어 species(종류·종) -> special(특정한) + -ist(사람). '특정 분야를 깊이 다루는 사람'이 핵심. species(종류)는 specialist·special(특별한)·species(3420)·especially(특히)·specific(2222 부근)의 뿌리.",
+  "deriv": "species(종류) -> special(특정한) -> 'specialist'. '특정 종류를 다루는 사람 -> 전문가(a heart specialist, 심장 전문의)'. 한국 학습자 핵심: species(종류·보다) 대가족 — special(특별한)·species(3420)·especially(특히)·specific(구체적인)·specialize(전문화하다)·specialty(전문 분야)! 구별: specialist(특정 분야 전문가) vs generalist(다방면을 두루 아는 사람). expert(전문가)·authority(권위자)·professional(전문가)과 유의어. 반대 generalist(제너럴리스트)·amateur(아마추어).",
+  "syn": [
+   "expert(전문가)",
+   "authority(권위자)",
+   "professional(전문가)"
+  ],
+  "anti": [
+   "generalist(제너럴리스트)",
+   "amateur(아마추어)"
+  ],
+  "idiom": [
+   "a heart specialist(심장 전문의)",
+   "see a specialist(전문의를 만나다)"
+  ],
+  "colloc": [
+   "medical specialist(전문의)",
+   "IT specialist(IT 전문가)",
+   "leading specialist(선도적 전문가)"
+  ],
+  "ex_add": "Her doctor referred her to a specialist.  (specialist=전문의)",
+  "ex_orig": "Although strenuous and requiring physical fitness, none of the conventional routes require specialist skills or technical rock climbing.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "3420",
+  "hw": "species",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "겉모습으로 나뉜 종류 -> '(생물의) 종·종류'.",
+  "senses": [
+   "1) (생물 분류의) 종",
+   "2) 종류·부류"
+  ],
+  "etym": "라틴어 specere(보다) -> species(겉보기·외양 -> 같아 보이는 무리 -> 종류). '겉모습이 같아 한 갈래로 묶이는 무리'가 핵심. specere(보다)는 species·specialist(3419)·spectator(3423)·inspect(점검하다)·respect(존경)의 뿌리.",
+  "deriv": "specere(보다) -> species(겉보기 -> 종류) -> 'species'. '같아 보이는 무리 -> (생물의) 종(an endangered species, 멸종 위기종)'. 한국 학습자 핵심: specere(보다) 대가족 — specialist(3419)·spectator(3423)·inspect(점검)·respect(존경)·suspect(의심)·perspective(3175)! 단복수 동형: a species / two species (단수도 species!). endangered species(멸종 위기종), the human species(인류). type(유형)·kind(종류)·variety(품종)와 유의어.",
+  "syn": [
+   "type(유형)",
+   "kind(종류)",
+   "variety(품종)"
+  ],
+  "anti": [],
+  "idiom": [
+   "an endangered species(멸종 위기종)",
+   "the human species(인류)"
+  ],
+  "colloc": [
+   "endangered species(멸종 위기종)",
+   "native species(토착종)",
+   "new species(신종)"
+  ],
+  "ex_add": "Pandas are an endangered species.  (species=종)",
+  "ex_orig": "It was the mailed Prussian eagle against the bluff American bird of the same species, and the unequal contest was soon ended when Major Nikolai, Chief of Division III. of the Great General Staff, stood up very straight and dignified and said: \"I am a German o...",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3421",
+  "hw": "specify",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "종류를 콕 집어 말하다 -> '명시하다·구체적으로 밝히다'.",
+  "senses": [
+   "1) 명시하다·분명히 말하다",
+   "2) 구체적으로 정하다·일일이 지정하다"
+  ],
+  "etym": "라틴어 species(종류) + facere(만들다) -> specificare(종류를 정하다) -> 'specify'. '어느 종류인지 콕 집어 밝힘'이 핵심. species(종류)는 specify·specific(구체적인)·special(특별한)·specimen(견본)의 뿌리.",
+  "deriv": "species(종류)+facere(만들다) -> 'specify'. '종류를 콕 집어 말함 -> 명시하다(specify the details, 세부 사항을 명시하다)'. 한국 학습자 핵심: species(보다·종류) 갈래 — specific(구체적인)·special(특별한)·specimen(견본)·specification(사양)·especially(특히)! unless otherwise specified(달리 명시되지 않는 한), specify in detail(상세히 명시하다). state(명시하다)·stipulate(규정하다)·detail(상술하다)과 유의어. 반대 imply(암시하다)·generalize(일반화하다).",
+  "syn": [
+   "state(명시하다)",
+   "stipulate(규정하다)",
+   "detail(상술하다)"
+  ],
+  "anti": [
+   "imply(암시하다)",
+   "generalize(일반화하다)"
+  ],
+  "idiom": [
+   "unless otherwise specified(달리 명시되지 않는 한)",
+   "specify in detail(상세히 명시하다)"
+  ],
+  "colloc": [
+   "specify the details(세부 사항을 명시하다)",
+   "clearly specify(분명히 명시하다)",
+   "specify requirements(요구 사항을 명시하다)"
+  ],
+  "ex_add": "Please specify the size and color you want.  (specify=명시하다)",
+  "ex_orig": "The Annals of the Four Masters specifies that Ímar was driven from the kingship by Echmarcach, who was then elected king by the Dubliners.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "3422",
+  "hw": "spectacular",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "볼 만한 -> '장관인·눈부신·극적인'.",
+  "senses": [
+   "1) 장관인·볼 만한·눈부신",
+   "2) 극적인·놀라운",
+   "3) (n.) 화려한 쇼·대규모 공연"
+  ],
+  "etym": "라틴어 specere(보다) -> spectaculum(볼거리·구경거리) -> spectacular. '눈을 사로잡는 볼거리의'가 핵심. specere(보다)는 spectacular·spectator(3423)·spectacle(장관)·inspect(점검)·respect(존경)의 뿌리.",
+  "deriv": "specere(보다) -> spectaculum(볼거리) -> 'spectacular'. '볼 만한 -> 장관인(a spectacular view, 장관인 경치)·극적인(a spectacular success, 눈부신 성공)'. 한국 학습자 핵심: specere(보다) 대가족 — spectator(3423)·spectacle(장관)·spectacles(안경)·inspect(점검)·respect(존경)·perspective(3175)·prospect(3222)! a spectacular failure(처참한 실패, 반어적). impressive(인상적인)·stunning(굉장한)·breathtaking(숨막히는)과 유의어. 반대 ordinary(평범한)·unremarkable(평범한).",
+  "syn": [
+   "impressive(인상적인)",
+   "stunning(굉장한)",
+   "breathtaking(숨막히는)"
+  ],
+  "anti": [
+   "ordinary(평범한)",
+   "unremarkable(평범한)"
+  ],
+  "idiom": [
+   "a spectacular view(장관인 경치)",
+   "a spectacular failure(처참한 실패)"
+  ],
+  "colloc": [
+   "spectacular success(눈부신 성공)",
+   "spectacular scenery(장관인 풍경)",
+   "truly spectacular(정말 장관인)"
+  ],
+  "ex_add": "We enjoyed a spectacular view from the mountaintop.  (spectacular=장관인)",
+  "ex_orig": "The most spectacular of Bath's terraces is the Royal Crescent, built between 1767 and 1774 and designed by the younger John Wood.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "3423",
+  "hw": "spectator",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "보는 사람 -> '관중·구경꾼'.",
+  "senses": [
+   "1) (경기의) 관중·관객",
+   "2) 구경꾼·방관자"
+  ],
+  "etym": "라틴어 specere(보다) -> spectare(지켜보다) -> spectator(보는 사람). '구경하는 사람'이 핵심.",
+  "deriv": "specere(보다) -> spectator(보는 사람). '보는 사람 -> 관중(cheering spectators, 환호하는 관중)'. 한국 학습자 핵심: specere(보다) 대가족 — spectacular(3422)·spectacle(장관)·inspect(점검)·respect(존경)·suspect(의심)·prospect(3222)·perspective(3175)! 구별: spectator(스포츠 관중)·audience(공연·강연 청중)·viewer(TV 시청자)·onlooker(구경꾼). a spectator sport(관람 스포츠). audience(관객)·onlooker(구경꾼)·observer(관찰자)와 유의어. 반대 participant(3149, 참가자)·player(선수).",
+  "syn": [
+   "audience(관객)",
+   "onlooker(구경꾼)",
+   "observer(관찰자)"
+  ],
+  "anti": [
+   "participant(참가자)",
+   "player(선수)"
+  ],
+  "idiom": [
+   "a spectator sport(관람 스포츠)",
+   "cheering spectators(환호하는 관중)"
+  ],
+  "colloc": [
+   "thousands of spectators(수천 명의 관중)",
+   "spectator stand(관중석)",
+   "excited spectators(흥분한 관중)"
+  ],
+  "ex_add": "Thousands of spectators watched the final match.  (spectator=관중)",
+  "ex_orig": "The first time I followed, as an attentive spectator, the proceedings of a Provincial Assembly, I was fairly astonished.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3424",
+  "hw": "speculate",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "눈여겨 살펴 헤아리다 -> '추측하다·짐작하다 / 투기하다'.",
+  "senses": [
+   "1) 추측하다·짐작하다·사색하다",
+   "2) (위험을 무릅쓰고) 투기하다"
+  ],
+  "etym": "라틴어 specere(보다) -> specula(망루) -> speculari(망루에서 살피다·헤아리다) -> 'speculate'. '멀리 내다보며 헤아림 -> 근거 없이 추측함 / 시세를 내다보고 투기함'이 핵심.",
+  "deriv": "specere(보다) -> speculari(살피다) -> 'speculate'. '살펴 헤아림 -> 추측하다(speculate about the cause, 원인을 추측하다)·투기하다(speculate in stocks, 주식에 투기하다)'. 한국 학습자 핵심: specere(보다) 대가족 — spectator(3423)·spectacular(3422)·inspect(점검)·respect(존경)·perspective(3175)·speculation(3425)! speculate about/on(~에 대해 추측하다). guess(추측하다)·conjecture(짐작하다)·gamble(투기하다)와 유의어. 반대 know(확실히 알다)·confirm(확인하다).",
+  "syn": [
+   "guess(추측하다)",
+   "conjecture(짐작하다)",
+   "gamble(투기하다)"
+  ],
+  "anti": [
+   "know(확실히 알다)",
+   "confirm(확인하다)"
+  ],
+  "idiom": [
+   "speculate about(~에 대해 추측하다)",
+   "speculate on(~을 추측하다)"
+  ],
+  "colloc": [
+   "speculate about the cause(원인을 추측하다)",
+   "widely speculate(널리 추측하다)",
+   "speculate in stocks(주식에 투기하다)"
+  ],
+  "ex_add": "Reporters speculated about the reasons for her resignation.  (speculate=추측하다)",
+  "ex_orig": "nor any hint as to the day when her decision was communicated to England and the other powers, it would be futile to speculate on this subject.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3425",
+  "hw": "speculation",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "내다보며 헤아림 -> '추측·짐작 / 투기'.",
+  "senses": [
+   "1) 추측·짐작·억측",
+   "2) (금융) 투기"
+  ],
+  "etym": "라틴어 speculari(살피다·헤아리다) -> speculate(3424)의 명사형. '내다보며 헤아림'이 핵심.",
+  "deriv": "speculate(3424, 추측하다) -> 'speculation'. '헤아림 -> 추측(pure speculation, 순전한 억측)·투기(property speculation, 부동산 투기)'. 한국 학습자 핵심: specere(보다) 대가족 — spectator(3423)·spectacular(3422)·inspect(점검)·perspective(3175)·speculate(3424)! be a matter of speculation(추측의 영역이다), fuel speculation(억측을 부추기다). guesswork(어림짐작)·conjecture(짐작)·gambling(투기)과 유의어. 반대 fact(2657, 사실)·certainty(확실성).",
+  "syn": [
+   "guesswork(어림짐작)",
+   "conjecture(짐작)",
+   "gambling(투기)"
+  ],
+  "anti": [
+   "fact(사실)",
+   "certainty(확실성)"
+  ],
+  "idiom": [
+   "pure speculation(순전한 억측)",
+   "fuel speculation(억측을 부추기다)"
+  ],
+  "colloc": [
+   "wild speculation(터무니없는 추측)",
+   "market speculation(시장 투기)",
+   "subject of speculation(추측의 대상)"
+  ],
+  "ex_add": "There is much speculation about who will win.  (speculation=추측)",
+  "ex_orig": "Speculation on what the future may bring forth may be left to those with an aptitude for prophecy.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3426",
+  "hw": "speed",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "빠름 -> '속도·속력 / 빨리 가다·재촉하다'.",
+  "senses": [
+   "1) 속도·속력",
+   "2) 빠름·신속",
+   "3) (동사) 빨리 가다·과속하다; (speed up) 속도를 높이다"
+  ],
+  "etym": "고대 영어 sped(성공·번영·빠름, spowan=번성하다). 본래 '잘 됨·번영'에서 '빠름'으로 의미 이동. '일이 잘 풀려 빠르게 나아감'이 핵심.",
+  "deriv": "sped(번영·빠름) -> 'speed'. '빠름 -> 속도(at high speed, 고속으로)·빨리 가다·과속하다'. 한국 학습자 핵심: 불규칙 speed-sped-sped(과속·질주)지만 speed up(속도를 높이다)은 규칙(speeded). speed up/down(속도를 높이다/줄이다), at full speed(전속력으로), pick up speed(속도를 내다), more haste, less speed(급할수록 돌아가라). velocity(속도)·pace(속도)·rate(3259, 속도)와 유의어. 반대 slowness(느림).",
+  "syn": [
+   "velocity(속도)",
+   "pace(속도)",
+   "rate(속도)"
+  ],
+  "anti": [
+   "slowness(느림)"
+  ],
+  "idiom": [
+   "at full speed(전속력으로)",
+   "pick up speed(속도를 내다)",
+   "speed up(속도를 높이다)"
+  ],
+  "colloc": [
+   "high speed(고속)",
+   "average speed(평균 속도)",
+   "speed limit(제한 속도)"
+  ],
+  "ex_add": "The car was traveling at high speed.  (speed=속도)",
+  "ex_orig": "Descending to a height of only 100 feet in order to increase his speed, he continued to fly and was again wounded, this time mortally.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3427",
+  "hw": "spice",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "특별한 종류의 향료 -> '향신료·양념 / 묘미·자극'.",
+  "senses": [
+   "1) 향신료·양념",
+   "2) 묘미·흥미·자극; (동사) 양념하다·흥미를 더하다"
+  ],
+  "etym": "라틴어 species(종류·물품) -> 고대 프랑스어 espice(향신료) -> 'spice'. 중세에 귀한 '물품(species)'이 곧 향신료였던 데서. species(3420)와 한 뿌리! '특별한 종류의 향료'가 핵심.",
+  "deriv": "species(종류·물품) -> 'spice'. '귀한 물품 -> 향신료(add spices, 향신료를 넣다)·(맛을 돋우듯) 묘미(add spice to life, 삶에 묘미를 더하다)'. 한국 학습자 핵심: species(3420)·specialist(3419)·special(특별한)과 한 뿌리(특별한 물품->향신료)! spicy(매운·양념이 강한)가 형용사. Variety is the spice of life(다양함이 인생의 묘미다), spice up(흥미를 더하다·맛을 더하다). seasoning(양념)·flavoring(조미료)과 유의어.",
+  "syn": [
+   "seasoning(양념)",
+   "flavoring(조미료)"
+  ],
+  "anti": [],
+  "idiom": [
+   "Variety is the spice of life(다양함이 인생의 묘미)",
+   "spice up(흥미를 더하다)"
+  ],
+  "colloc": [
+   "add spices(향신료를 넣다)",
+   "exotic spices(이국적 향신료)",
+   "spice rack(향신료 선반)"
+  ],
+  "ex_add": "She added a few spices to the curry.  (spice=향신료)",
+  "ex_orig": "Fringe's second episode represents all that is holy about genre programming without any of Fringe's eleven - herbs and spices.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "3428",
+  "hw": "spill",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "쏟다 -> '엎지르다·흘리다·쏟아져 나오다'.",
+  "senses": [
+   "1) (액체를) 엎지르다·흘리다",
+   "2) 쏟아져 나오다·넘쳐 흐르다",
+   "3) (n.) 엎지름·유출"
+  ],
+  "etym": "고대 영어 spillan(망치다·죽이다 -> 흘리다). 본래 '피를 흘리게 하다'에서 '액체를 흘리다'로 발전. '담긴 것이 밖으로 흘러 나옴'이 핵심.",
+  "deriv": "spillan(흘리다) -> 'spill'. '쏟다 -> 엎지르다(spill the milk, 우유를 엎지르다)·쏟아져 나오다(crowds spilled into the street, 군중이 거리로 쏟아져 나왔다)'. 한국 학습자 핵심: 변화 spill-spilled/spilt-spilled/spilt. spill the beans(비밀을 누설하다), cry over spilled milk(엎지른 물 두고 후회하다·소용없는 후회), an oil spill(기름 유출), spill over(넘쳐 흐르다·번지다). pour(쏟다)·overflow(넘치다)·leak(새다)와 유의어.",
+  "syn": [
+   "pour(쏟다)",
+   "overflow(넘치다)",
+   "leak(새다)"
+  ],
+  "anti": [
+   "contain(담다)"
+  ],
+  "idiom": [
+   "spill the beans(비밀을 누설하다)",
+   "cry over spilled milk(소용없는 후회를 하다)",
+   "spill over(넘쳐 흐르다)"
+  ],
+  "colloc": [
+   "spill the milk(우유를 엎지르다)",
+   "oil spill(기름 유출)",
+   "spill coffee(커피를 쏟다)"
+  ],
+  "ex_add": "Be careful not to spill your drink.  (spill=엎지르다)",
+  "ex_orig": "The culmination of the European situation in the present war is very dreadful, but no good ever came out of crying over spilled milk.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3429",
+  "hw": "spiritual",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "숨·정신의 -> '정신적인·영적인 / 종교적인'.",
+  "senses": [
+   "1) 정신적인·영혼의(물질적이지 않은)",
+   "2) 영적인·종교적인",
+   "3) (n.) (흑인) 영가"
+  ],
+  "etym": "라틴어 spirare(숨 쉬다) -> spiritus(숨·생기·정신) -> spiritualis -> 'spiritual'. '몸이 아닌 숨결·정신에 관한'이 핵심. spirare(숨 쉬다)는 spiritual·spirit(정신)·inspire(영감을 주다)·respire(호흡하다)·conspire(공모하다)·aspire(열망하다)의 뿌리.",
+  "deriv": "spirare(숨 쉬다) -> spiritus(정신) -> 'spiritual'. '숨·정신의 -> 정신적인(spiritual needs, 정신적 욕구)·영적인(a spiritual leader, 영적 지도자)'. 한국 학습자 핵심: spirare(숨 쉬다) 대가족 — spirit(정신)·inspire(영감)·respire(호흡)·conspire(공모)·aspire(열망)·perspire(땀 흘리다)·expire(만료되다, 숨을 다하다)! spiritual growth(정신적 성장). religious(종교적인)·sacred(신성한)·mental(정신의)과 유의어. 반대 material(물질적인)·physical(육체적인)·worldly(세속적인).",
+  "syn": [
+   "religious(종교적인)",
+   "sacred(신성한)",
+   "mental(정신의)"
+  ],
+  "anti": [
+   "material(물질적인)",
+   "physical(육체적인)",
+   "worldly(세속적인)"
+  ],
+  "idiom": [
+   "a spiritual leader(영적 지도자)",
+   "spiritual growth(정신적 성장)"
+  ],
+  "colloc": [
+   "spiritual needs(정신적 욕구)",
+   "spiritual experience(영적 경험)",
+   "spiritual well-being(정신적 안녕)"
+  ],
+  "ex_add": "Meditation can bring spiritual peace.  (spiritual=정신적인)",
+  "ex_orig": "But it is necessary that we define power in terms of spiritual value; and then, surely, it appears that Power and Force can never be the same.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3430",
+  "hw": "spite",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "깔봄에서 나온 악의 -> '악의·심술 / (in spite of) ~에도 불구하고'.",
+  "senses": [
+   "1) 악의·심술·앙심",
+   "2) (in spite of) ~에도 불구하고",
+   "3) (동사) 골탕 먹이다·심술부리다"
+  ],
+  "etym": "라틴어 despectus(경멸, despicere=내려다보다) -> 고대 프랑스어 despit -> 앞소리가 떨어져 'spite'. '깔보는 데서 나온 앙심'이 핵심. despicere(내려다보다)는 spite·despise(경멸하다)·despite(~에도 불구하고)와 한 뿌리(specere=보다).",
+  "deriv": "despectus(경멸) -> 'spite'. '깔봄에서 나온 악의 -> 앙심(out of spite, 앙심으로)·(in spite of) ~에도 불구하고'. 한국 학습자 핵심: specere(보다) 대가족과 연결 — despise(경멸하다)·despite(불구하고)·spite·spectator(3423)! in spite of(~에도 불구하고, =despite)가 압도적 빈출! out of spite(앙심에서), spiteful(악의적인). malice(악의)·resentment(원한)·ill will(악감정)과 유의어. 반대 goodwill(선의)·kindness(친절).",
+  "syn": [
+   "malice(악의)",
+   "resentment(원한)",
+   "ill will(악감정)"
+  ],
+  "anti": [
+   "goodwill(선의)",
+   "kindness(친절)"
+  ],
+  "idiom": [
+   "in spite of(~에도 불구하고)",
+   "out of spite(앙심에서)"
+  ],
+  "colloc": [
+   "pure spite(순전한 악의)",
+   "do something out of spite(앙심으로 ~하다)",
+   "spite and malice(앙심과 악의)"
+  ],
+  "ex_add": "In spite of the rain, the game continued.  (in spite of=~에도 불구하고)",
+  "ex_orig": "The chief of this little tribe was, as my friend asserts, a superior man, and, in spite of his undress, a good deal of a gentleman.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3431",
+  "hw": "split",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "쪼개다 -> '쪼개다·분열되다·나누다 / 분열·갈라짐'.",
+  "senses": [
+   "1) 쪼개다·찢다·갈라지다",
+   "2) (의견이) 분열되다; (몫을) 나누다·분담하다",
+   "3) (n.) 분열·불화; 갈라진 틈"
+  ],
+  "etym": "중세 네덜란드어 splitten(쪼개다). 게르만어 spl- 계열(갈라짐)로 '세로로 빠개짐'이 핵심.",
+  "deriv": "splitten(쪼개다) -> 'split'. '쪼갬 -> 쪼개다(split the wood, 장작을 패다)·(의견이) 갈리다·(비용을) 나누다(split the bill, 비용을 나누다)'. 한국 학습자 핵심: 변화 split-split-split(불변!). split up(헤어지다·해산하다), split the difference(절충하다), split hairs(사소한 것을 따지다), a split second(눈 깜짝할 사이). divide(나누다)·separate(분리하다)·crack(갈라지다)과 유의어. 반대 join(합치다)·unite(통합하다)·merge(합병하다).",
+  "syn": [
+   "divide(나누다)",
+   "separate(분리하다)",
+   "crack(갈라지다)"
+  ],
+  "anti": [
+   "join(합치다)",
+   "unite(통합하다)",
+   "merge(합병하다)"
+  ],
+  "idiom": [
+   "split up(헤어지다)",
+   "split the difference(절충하다)",
+   "a split second(눈 깜짝할 사이)"
+  ],
+  "colloc": [
+   "split the bill(비용을 나누다)",
+   "split into groups(여러 조로 나뉘다)",
+   "split apart(쪼개지다)"
+  ],
+  "ex_add": "Let's split the cost of the meal.  (split=나누다)",
+  "ex_orig": "Just now men are feeding the blossoms of the tree of life to their war horses and splitting the boughs of that tree into shafts for their spears.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3432",
+  "hw": "spoil",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "약탈해 망쳐 놓다 -> '망치다·상하다 / (응석으로) 버릇없게 만들다'.",
+  "senses": [
+   "1) (질·즐거움을) 망치다·잡치다",
+   "2) (음식이) 상하다·썩다",
+   "3) (아이를) 응석받이로 키우다·버릇없게 만들다"
+  ],
+  "etym": "라틴어 spoliare(가죽을 벗기다·약탈하다, spolium=벗긴 가죽·전리품) -> 고대 프랑스어 espoillier -> 'spoil'. '벗겨 약탈해 망쳐 놓음'이 핵심. spolium(전리품)은 spoil·spoils(전리품)·despoil(약탈하다)의 뿌리.",
+  "deriv": "spoliare(약탈하다) -> 'spoil'. '약탈해 망침 -> 망치다(spoil the surprise, 깜짝 이벤트를 망치다)·(음식이) 상하다·(아이를) 버릇없게 키우다(a spoiled child, 버릇없는 아이)'. 한국 학습자 핵심: 변화 spoil-spoiled/spoilt-spoiled/spoilt. spoiler(스포일러, 결말 누설), be spoiled for choice(고를 게 너무 많다), Too many cooks spoil the broth(사공이 많으면 배가 산으로). ruin(3335, 망치다)·damage(손상하다)·pamper(애지중지하다)와 유의어. 반대 improve(개선하다)·preserve(3209, 보존하다).",
+  "syn": [
+   "ruin(망치다)",
+   "damage(손상하다)",
+   "pamper(애지중지하다)"
+  ],
+  "anti": [
+   "improve(개선하다)",
+   "preserve(보존하다)"
+  ],
+  "idiom": [
+   "spoil the surprise(깜짝 이벤트를 망치다)",
+   "be spoiled for choice(고를 게 너무 많다)"
+  ],
+  "colloc": [
+   "spoil a child(아이를 버릇없게 키우다)",
+   "spoil the fun(흥을 깨다)",
+   "food spoils(음식이 상하다)"
+  ],
+  "ex_add": "Don't let the bad weather spoil your trip.  (spoil=망치다)",
+  "ex_orig": "86) he deprecates Russia's partial mobilization, which he fears has spoiled the chances of Germany's exerting any pressure on Austria.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3433",
+  "hw": "spokesman",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "대신 말하는 남자 -> '대변인(남성)'.",
+  "senses": [
+   "1) (남성) 대변인·대표 발언자"
+  ],
+  "etym": "spoke(speak의 과거) + -s- + man(남자). '집단을 대신해 말하는 남자'가 핵심. speak(말하다)는 spokesman·spokesperson(3434)·spokeswoman(3435)·speech(연설)의 뿌리.",
+  "deriv": "speak(말하다) -> spoke -> 'spokesman'. '대신 말하는 남자 -> (남성) 대변인(a company spokesman, 회사 대변인)'. 한국 학습자 핵심: 성 구분 3종 세트 — spokesman(남)·spokeswoman(3435, 여)·spokesperson(3434, 중립)! 요즘은 성중립 spokesperson을 선호. a government spokesman(정부 대변인). representative(3296, 대표)·delegate(대표)와 유의어.",
+  "syn": [
+   "representative(대표)",
+   "spokesperson(대변인)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a government spokesman(정부 대변인)",
+   "a company spokesman(회사 대변인)"
+  ],
+  "colloc": [
+   "official spokesman(공식 대변인)",
+   "act as spokesman(대변인 역할을 하다)",
+   "police spokesman(경찰 대변인)"
+  ],
+  "ex_add": "A company spokesman denied the rumors.  (spokesman=대변인)",
+  "ex_orig": "_The London Daily Mail of May 16 quotes from Der Tag the following article by Herr von Rath, who is described as a favorite spokesman in the Wilhelmstrasse:_",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3434",
+  "hw": "spokesperson",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "대신 말하는 사람 -> '대변인(성 중립)'.",
+  "senses": [
+   "1) 대변인·대표 발언자(성별 무관)"
+  ],
+  "etym": "spoke(speak의 과거) + -s- + person(사람). 성 중립 표현으로 spokesman/spokeswoman을 대체. '집단을 대신해 말하는 사람'이 핵심.",
+  "deriv": "speak(말하다) -> 'spokesperson'. '대신 말하는 사람 -> 대변인(an official spokesperson, 공식 대변인)'. 한국 학습자 핵심: -person은 성 중립 접미사 — spokesperson·chairperson(의장)·salesperson(판매원)! 성 구분이 필요 없을 때 spokesman/spokeswoman 대신 권장. a White House spokesperson(백악관 대변인). representative(3296)·mouthpiece(대변자)와 유의어.",
+  "syn": [
+   "representative(대표)",
+   "mouthpiece(대변자)"
+  ],
+  "anti": [],
+  "idiom": [
+   "official spokesperson(공식 대변인)",
+   "act as spokesperson(대변인 역할을 하다)"
+  ],
+  "colloc": [
+   "company spokesperson(회사 대변인)",
+   "government spokesperson(정부 대변인)",
+   "appoint a spokesperson(대변인을 임명하다)"
+  ],
+  "ex_add": "The spokesperson read a short statement to the press.  (spokesperson=대변인)",
+  "ex_orig": "On 3 March 2015, a NASA spokesperson said the spots are consistent with highly reflective materials containing ice or salts, but that is unlikely.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "3435",
+  "hw": "spokeswoman",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "대신 말하는 여자 -> '대변인(여성)'.",
+  "senses": [
+   "1) (여성) 대변인·대표 발언자"
+  ],
+  "etym": "spoke(speak의 과거) + -s- + woman(여자). '집단을 대신해 말하는 여자'가 핵심.",
+  "deriv": "speak(말하다) -> 'spokeswoman'. '대신 말하는 여자 -> (여성) 대변인(a spokeswoman for the company, 회사의 여성 대변인)'. 한국 학습자 핵심: 성 구분 3종 — spokesman(3433, 남)·spokeswoman(여)·spokesperson(3434, 중립)! 성중립 흐름상 점차 spokesperson으로 통합되는 추세. a White House spokeswoman(백악관 여성 대변인). representative(3296)·spokesperson(대변인)과 유의어.",
+  "syn": [
+   "representative(대표)",
+   "spokesperson(대변인)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a company spokeswoman(회사 여성 대변인)",
+   "act as spokeswoman(대변인 역할을 하다)"
+  ],
+  "colloc": [
+   "official spokeswoman(공식 여성 대변인)",
+   "police spokeswoman(경찰 여성 대변인)",
+   "government spokeswoman(정부 여성 대변인)"
+  ],
+  "ex_add": "A spokeswoman confirmed the news this morning.  (spokeswoman=대변인)",
+  "ex_orig": "Church spokeswoman Shank told Sun Media that she thought the Anonymous members were a \" pathetic \" group of \" computer \".",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "3436",
+  "hw": "sponsor",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "약속하며 보증하는 이 -> '후원자·광고주 / 후원하다·주최하다'.",
+  "senses": [
+   "1) 후원자·광고주·스폰서; 대부·대모",
+   "2) (법안의) 발의자",
+   "3) (동사) 후원하다·협찬하다·주최하다"
+  ],
+  "etym": "라틴어 spondere(엄숙히 약속하다·보증하다) -> sponsor(보증인). '약속하며 책임지고 뒤를 봐주는 사람'이 핵심. spondere(약속하다)는 sponsor·respond(2222 부근 응답)·responsible(책임 있는)·spouse(배우자)의 뿌리.",
+  "deriv": "spondere(약속하다) -> 'sponsor'. '보증하는 이 -> 후원자(a corporate sponsor, 기업 후원자)·후원하다(sponsor an event, 행사를 후원하다)'. 한국 학습자 핵심: spondere(약속하다) 갈래 — respond(응답하다)·response(응답)·responsible(책임 있는)·correspond(일치하다)·spouse(배우자, 혼인 서약!)! sponsorship(3437)이 명사. backer(후원자)·patron(후원자)·fund(자금을 대다)와 유의어.",
+  "syn": [
+   "backer(후원자)",
+   "patron(후원자)",
+   "fund(자금을 대다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a corporate sponsor(기업 후원자)",
+   "sponsor an event(행사를 후원하다)"
+  ],
+  "colloc": [
+   "official sponsor(공식 후원사)",
+   "main sponsor(주 후원사)",
+   "sponsor a team(팀을 후원하다)"
+  ],
+  "ex_add": "A local company agreed to sponsor the festival.  (sponsor=후원하다)",
+  "ex_orig": "Instead, DuMont sold commercials to many different advertisers, freeing producers of its shows from the veto power held by sole sponsors.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "3437",
+  "hw": "sponsorship",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "후원자 노릇 -> '후원·협찬·스폰서십'.",
+  "senses": [
+   "1) 후원·협찬·재정 지원",
+   "2) 후원자의 지위·자격"
+  ],
+  "etym": "라틴어 spondere(약속하다) -> sponsor(3436) + -ship(상태·자격). '후원자 노릇·후원 관계'가 핵심.",
+  "deriv": "sponsor(3436, 후원자) -> 'sponsorship'. '후원자 노릇 -> 후원·협찬(secure sponsorship, 후원을 확보하다)'. 한국 학습자 핵심: spondere(약속하다) 갈래 — sponsor(3436)·respond(응답)·responsible(책임)·spouse(배우자)! -ship(상태·자격) — sponsorship·scholarship(3350)·membership(회원 자격)·partnership(동반자 관계). corporate sponsorship(기업 후원), a sponsorship deal(후원 계약). backing(후원)·patronage(후원)·funding(자금 지원)과 유의어.",
+  "syn": [
+   "backing(후원)",
+   "patronage(후원)",
+   "funding(자금 지원)"
+  ],
+  "anti": [],
+  "idiom": [
+   "secure sponsorship(후원을 확보하다)",
+   "a sponsorship deal(후원 계약)"
+  ],
+  "colloc": [
+   "corporate sponsorship(기업 후원)",
+   "sponsorship deal(후원 계약)",
+   "lose sponsorship(후원을 잃다)"
+  ],
+  "ex_add": "The team relies on corporate sponsorship.  (sponsorship=후원)",
+  "ex_orig": "It converted to an Academy and reopened on 1 August 2011; it is governed by Carre's Grammar School Academy Trust and converted without sponsorship.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "3438",
+  "hw": "spot",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "작은 점 -> '점·얼룩 / 장소·자리 / 발견하다'.",
+  "senses": [
+   "1) (작은) 점·얼룩·반점",
+   "2) 장소·자리·지점",
+   "3) (동사) 발견하다·알아채다·찾아내다"
+  ],
+  "etym": "중세 영어 spot(작은 표시·얼룩). 중세 네덜란드어 spotte와 관련. '작게 찍힌 점 -> 한 지점'이 핵심.",
+  "deriv": "spot(작은 점) -> '점·얼룩·(한 점 같은) 장소(a nice spot, 좋은 자리)·(점을 콕 짚듯) 발견하다(spot a mistake, 실수를 찾아내다)'. 한국 학습자 핵심: on the spot(즉석에서·현장에서), hit the spot(딱 좋다·제격이다), have a soft spot for(~을 각별히 좋아하다), in a tight spot(곤경에 처한), a blind spot(맹점·사각지대). 동사 spot=발견하다(빈출!). stain(얼룩)·location(장소)·detect(발견하다)와 유의어.",
+  "syn": [
+   "stain(얼룩)",
+   "location(장소)",
+   "detect(발견하다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "on the spot(즉석에서)",
+   "hit the spot(딱 좋다)",
+   "a soft spot for(~을 각별히 좋아함)"
+  ],
+  "colloc": [
+   "spot a mistake(실수를 찾아내다)",
+   "a perfect spot(완벽한 장소)",
+   "tourist spot(관광 명소)"
+  ],
+  "ex_add": "She spotted a familiar face in the crowd.  (spot=발견하다)",
+  "ex_orig": "In one spot I met a Red Cross motor ambulance laden with wounded, and going in the midst of the gravest danger, in the direction of Furnes.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3439",
+  "hw": "spread",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "쫙 펼치다 -> '퍼지다·펼치다·바르다 / 확산·잼류'.",
+  "senses": [
+   "1) (소문·질병이) 퍼지다·확산되다",
+   "2) 펼치다·펴 바르다·벌리다",
+   "3) (n.) 확산·전파; (빵에 바르는) 잼류; 양면 기사"
+  ],
+  "etym": "고대 영어 sprædan(펼치다·펴다). 게르만어 spr- 계열로 '넓게 펴 나감'이 핵심.",
+  "deriv": "sprædan(펼치다) -> 'spread'. '쫙 펼침 -> (소문·병이) 퍼지다(the virus spread, 바이러스가 퍼졌다)·펴 바르다(spread butter, 버터를 바르다)·(n.) 확산'. 한국 학습자 핵심: 변화 spread-spread-spread(불변!). spread out(넓게 펼치다·흩어지다), spread the word(말을 퍼뜨리다·알리다), spread like wildfire(들불처럼 번지다). circulate(유포되다)·distribute(분배하다)·expand(확장하다)와 유의어. 반대 contain(억제하다)·gather(모으다).",
+  "syn": [
+   "circulate(유포되다)",
+   "distribute(분배하다)",
+   "expand(확장하다)"
+  ],
+  "anti": [
+   "contain(억제하다)",
+   "gather(모으다)"
+  ],
+  "idiom": [
+   "spread the word(말을 퍼뜨리다)",
+   "spread like wildfire(들불처럼 번지다)",
+   "spread out(넓게 펼치다)"
+  ],
+  "colloc": [
+   "spread rapidly(빠르게 퍼지다)",
+   "spread disease(질병을 퍼뜨리다)",
+   "spread butter(버터를 바르다)"
+  ],
+  "ex_add": "The fire spread quickly through the building.  (spread=퍼지다)",
+  "ex_orig": "19 to the end of the month, outrages spread in the directions of Charleroi and Malines and reach their period of greatest intensity.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3440",
+  "hw": "stable",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "굳게 서 있는 -> '안정된·견고한 / (마음이) 차분한'.",
+  "senses": [
+   "1) 안정된·견고한·흔들리지 않는",
+   "2) (정신·정서가) 안정적인·차분한",
+   "3) (n.) 마구간(별개 어원이 아닌 같은 뿌리: 말을 '세워 두는' 곳)"
+  ],
+  "etym": "라틴어 stare(서다) -> stabilis(굳게 서 있는·안정된) -> 'stable'. '굳게 서서 흔들리지 않는'이 핵심. stare(서다)는 stable·stability(안정)·establish(세우다)·station(역)·status(2222 부근 지위)·statue(조각상)의 뿌리.",
+  "deriv": "stare(서다) -> stabilis(굳게 선) -> 'stable'. '굳게 서 있는 -> 안정된(a stable economy, 안정된 경제)·(마음이) 차분한'. 한국 학습자 핵심: stare(서다) 초대형 가족 — stability(안정)·establish(설립하다)·station(역)·status(지위)·statue(조각상)·stage(3441)·state(상태)·constant(끊임없는)·instant(즉각의)! stable condition(안정된 상태), emotionally stable(정서적으로 안정된). steady(꾸준한)·firm(견고한)·secure(3357, 안정된)와 유의어. 반대 unstable(불안정한)·shaky(흔들리는)·volatile(변덕스러운).",
+  "syn": [
+   "steady(꾸준한)",
+   "firm(견고한)",
+   "secure(안정된)"
+  ],
+  "anti": [
+   "unstable(불안정한)",
+   "shaky(흔들리는)",
+   "volatile(변덕스러운)"
+  ],
+  "idiom": [
+   "a stable economy(안정된 경제)",
+   "stable condition(안정된 상태)"
+  ],
+  "colloc": [
+   "stable relationship(안정된 관계)",
+   "financially stable(재정적으로 안정된)",
+   "emotionally stable(정서적으로 안정된)"
+  ],
+  "ex_add": "The patient is now in a stable condition.  (stable=안정된)",
+  "ex_orig": "A little later we withdrew to Monsieur A.'s stables, where about thirty people who had got there by climbing the walls were to be found.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3441",
+  "hw": "stage",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "서 있는 발판 -> '무대 / 단계·시기 / 개최하다·상연하다'.",
+  "senses": [
+   "1) 무대·연단; (the stage) 연극계",
+   "2) 단계·시기·국면",
+   "3) (동사) (행사를) 개최하다·(연극을) 상연하다·(시위를) 벌이다"
+  ],
+  "etym": "라틴어 stare(서다) -> 통속 라틴어 staticum(서 있는 자리·발판) -> 고대 프랑스어 estage -> 'stage'. '서 있는 발판 -> 무대 / (일이 거치는) 한 발판 -> 단계'가 핵심.",
+  "deriv": "stare(서다) -> staticum(발판) -> 'stage'. '서 있는 발판 -> 무대(on stage, 무대 위에서)·(거쳐 가는) 단계(at this stage, 이 단계에서)·개최하다(stage a protest, 시위를 벌이다)'. 한국 학습자 핵심: stare(서다) 대가족 — stable(3440)·station(역)·status(지위)·establish(설립)·statue(조각상)·state(상태)·estate(부동산)! set the stage for(~의 발판을 마련하다), stage by stage(단계적으로), at an early stage(초기 단계에). phase(국면)·platform(연단)·step(단계)과 유의어.",
+  "syn": [
+   "phase(국면)",
+   "platform(연단)",
+   "step(단계)"
+  ],
+  "anti": [],
+  "idiom": [
+   "set the stage for(~의 발판을 마련하다)",
+   "stage by stage(단계적으로)",
+   "on stage(무대 위에서)"
+  ],
+  "colloc": [
+   "early stage(초기 단계)",
+   "final stage(최종 단계)",
+   "stage a protest(시위를 벌이다)"
+  ],
+  "ex_add": "The project is still in its early stages.  (stage=단계)",
+  "ex_orig": "The experienced lawyers who took the depositions tell us that they passed from the same stage of doubt into the same stage of conviction.",
+  "ex_src": "NEWS-NYT-1915"
  }
 ]
