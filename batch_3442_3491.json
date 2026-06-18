@@ -1,0 +1,1592 @@
+[
+ {
+  "num": "3442",
+  "hw": "stall",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "세워 두는 자리 -> '가판대·칸 / (차·엔진이) 멎다·시간을 끌다'.",
+  "senses": [
+   "1) 가판대·노점·매대",
+   "2) 마구간 칸; (the stalls) (영) 1층 앞좌석",
+   "3) (동사) (엔진이) 멎다·시동이 꺼지다; 시간을 끌다·꾸물거리다"
+  ],
+  "etym": "고대 영어 steall(서 있는 자리·축사). stare(서다)와 같은 게르만어 계열로 '세워 두는 자리'가 핵심. stand(3444)·stable(3440)과 친척.",
+  "deriv": "steall(서 있는 자리) -> 'stall'. '세워 두는 자리 -> 가판대·마구간 칸·(차가 멈춰 서다 ->) 엔진이 멎다·(앞으로 못 나가고) 시간을 끌다(stall for time, 시간을 벌다)'. 한국 학습자 핵심: stare(서다) 가족 — stand(3444)·stable(3440)·stage(3441)·status(3447)·install(설치하다, 자리에 세워 넣다)! a market stall(시장 좌판), a food stall(먹거리 노점), the engine stalled(엔진이 멈췄다). booth(매대)·delay(지연시키다)와 유의어.",
+  "syn": [
+   "booth(매대)",
+   "stand(가판대)",
+   "delay(지연시키다)"
+  ],
+  "anti": [
+   "proceed(나아가다)"
+  ],
+  "idiom": [
+   "stall for time(시간을 벌다)",
+   "a market stall(시장 좌판)"
+  ],
+  "colloc": [
+   "food stall(먹거리 노점)",
+   "the engine stalled(엔진이 멎었다)",
+   "market stall(시장 좌판)"
+  ],
+  "ex_add": "She runs a flower stall at the market.  (stall=노점)"
+ },
+ {
+  "num": "3443",
+  "hw": "stance",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "서 있는 자세 -> '입장·태도 / (몸의) 자세'.",
+  "senses": [
+   "1) (어떤 문제에 대한) 입장·태도",
+   "2) (스포츠) 서 있는 자세·스탠스"
+  ],
+  "etym": "라틴어 stare(서다) -> 통속 라틴어 stantia(서 있음) -> 이탈리아어 stanza -> 'stance'. '서 있는 자세 -> (입장을 정해) 서는 태도'가 핵심. stare(서다)는 stance·stable(3440)·status(3447)·stage(3441)·constant(끊임없는)의 뿌리.",
+  "deriv": "stare(서다) -> stantia(서 있음) -> 'stance'. '서 있는 자세 -> (문제에 대한) 입장(a tough stance, 강경한 입장)'. 한국 학습자 핵심: stare(서다) 대가족 — stable(3440)·status(3447)·stage(3441)·stand(3444)·constant·instant·circumstance(상황)·substance(물질)! take a stance(입장을 취하다), a firm stance(확고한 입장). position(입장)·attitude(태도)·posture(자세)와 유의어.",
+  "syn": [
+   "position(입장)",
+   "attitude(태도)",
+   "posture(자세)"
+  ],
+  "anti": [],
+  "idiom": [
+   "take a stance(입장을 취하다)",
+   "a tough stance(강경한 입장)"
+  ],
+  "colloc": [
+   "firm stance(확고한 입장)",
+   "political stance(정치적 입장)",
+   "change one's stance(입장을 바꾸다)"
+  ],
+  "ex_add": "The government took a firm stance against corruption.  (stance=입장)"
+ },
+ {
+  "num": "3444",
+  "hw": "stand",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "서다 -> '서다·서 있다 / 견디다·참다 / 가판대·관람석'.",
+  "senses": [
+   "1) 서다·서 있다·세우다",
+   "2) 견디다·참다·버티다",
+   "3) (입장에) 있다; (n.) 가판대·관람석·태도"
+  ],
+  "etym": "고대 영어 standan(서다). 라틴어 stare(서다)와 같은 인도유럽어 뿌리(*sta-). '발을 딛고 서 있음'이 핵심. 친척: stable(3440)·status(3447)·stage(3441)·stance(3443).",
+  "deriv": "*sta-(서다) -> standan -> 'stand'. '서다 -> (버티고) 견디다(can't stand, 참을 수 없다)·(입장에) 서다·(물건을 세운) 가판대'. 한국 학습자 핵심: 불규칙 stand-stood-stood! stand for(상징하다·약자이다), stand out(두드러지다), stand up for(옹호하다), stand by(대기하다·지지하다), can't stand(견딜 수 없다), stand a chance(가능성이 있다). bear(견디다)·tolerate(참다)·endure(견디다)와 유의어. 반대 sit(앉다)·lie(눕다).",
+  "syn": [
+   "bear(견디다)",
+   "tolerate(참다)",
+   "endure(견디다)"
+  ],
+  "anti": [
+   "sit(앉다)",
+   "lie(눕다)"
+  ],
+  "idiom": [
+   "stand for(상징하다)",
+   "stand out(두드러지다)",
+   "can't stand(견딜 수 없다)"
+  ],
+  "colloc": [
+   "stand up(일어서다)",
+   "stand still(가만히 서 있다)",
+   "stand a chance(가능성이 있다)"
+  ],
+  "ex_add": "I can't stand the noise from the construction site.  (stand=참다)"
+ },
+ {
+  "num": "3445",
+  "hw": "stare",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "눈을 고정해 보다 -> '빤히 쳐다보다·응시하다'.",
+  "senses": [
+   "1) (빤히) 쳐다보다·응시하다·노려보다",
+   "2) (n.) 응시·빤히 봄"
+  ],
+  "etym": "고대 영어 starian(눈을 크게 뜨고 보다). 게르만어 star-(뻣뻣한·고정된)와 관련 — '눈을 고정해 뚫어지게 봄'이 핵심. 라틴어 동음이의 stare(서다)와는 무관!",
+  "deriv": "starian(응시하다) -> 'stare'. '눈을 고정해 봄 -> 빤히 쳐다보다(stare at, ~을 응시하다)'. 한국 학습자 핵심: 비슷한 '보다' 동사 구별 — stare(빤히 오래 봄)·gaze(황홀하게 바라봄)·glare(쏘아봄)·glance(흘끗 봄)·peer(눈을 가늘게 뜨고 봄)! stare into space(허공을 응시하다), stare someone down(노려보아 기를 죽이다), be staring you in the face(빤히 보이다·명백하다). gaze(바라보다)·gawk(멍하니 보다)와 유의어. 반대 glance(흘끗 보다).",
+  "syn": [
+   "gaze(바라보다)",
+   "gawk(멍하니 보다)",
+   "glare(쏘아보다)"
+  ],
+  "anti": [
+   "glance(흘끗 보다)"
+  ],
+  "idiom": [
+   "stare into space(허공을 응시하다)",
+   "stare someone down(노려보아 기죽이다)"
+  ],
+  "colloc": [
+   "stare at(~을 응시하다)",
+   "stare blankly(멍하니 쳐다보다)",
+   "stare in disbelief(믿기지 않아 쳐다보다)"
+  ],
+  "ex_add": "He stared at the painting for a long time.  (stare=응시하다)"
+ },
+ {
+  "num": "3446",
+  "hw": "starve",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "(굶어) 죽어 가다 -> '굶주리다·굶기다 / 갈망하다'.",
+  "senses": [
+   "1) 굶주리다·아사하다",
+   "2) 굶기다·아사시키다",
+   "3) (starve for/of) ~을 갈망하다·~이 결핍되다"
+  ],
+  "etym": "고대 영어 steorfan(죽다). 본래 그냥 '죽다'였는데 '굶어 죽다 -> 굶주리다'로 의미가 좁혀짐. '굶어 죽어 감'이 핵심.",
+  "deriv": "steorfan(죽다) -> 'starve'. '죽어 감 -> 굶주리다(starve to death, 굶어 죽다)·(애정·관심을) 갈망하다(starved of affection, 애정에 굶주린)'. 한국 학습자 핵심: 옛 영어 '죽다'가 '굶주리다'로 좁혀진 의미 변화가 흥미로움! starving(몹시 배고픈, 구어 과장), I'm starving!(배고파 죽겠어!), starve for attention(관심에 굶주리다). famish(굶주리게 하다)와 유의어. 반대 feed(먹이다)·nourish(영양을 주다).",
+  "syn": [
+   "famish(굶주리게 하다)",
+   "go hungry(굶다)"
+  ],
+  "anti": [
+   "feed(먹이다)",
+   "nourish(영양을 주다)"
+  ],
+  "idiom": [
+   "starve to death(굶어 죽다)",
+   "I'm starving!(배고파 죽겠어!)"
+  ],
+  "colloc": [
+   "starve for attention(관심에 굶주리다)",
+   "starved of affection(애정에 굶주린)",
+   "starving children(굶주리는 아이들)"
+  ],
+  "ex_add": "Thousands of people starved during the famine.  (starve=굶주리다)"
+ },
+ {
+  "num": "3447",
+  "hw": "status",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "서 있는 위치 -> '지위·신분 / 상태·현황'.",
+  "senses": [
+   "1) 지위·신분·위상",
+   "2) (높은) 사회적 지위·명망",
+   "3) 상태·현황"
+  ],
+  "etym": "라틴어 stare(서다) -> status(서 있음·상태·지위) -> 'status'. '사회 속에서 서 있는 위치'가 핵심. stare(서다)는 status·stable(3440)·stage(3441)·stance(3443)·statue(조각상)·station(역)의 뿌리.",
+  "deriv": "stare(서다) -> status(서 있는 위치) -> 'status'. '서 있는 위치 -> 지위(social status, 사회적 지위)·상태(marital status, 혼인 여부)'. 한국 학습자 핵심: stare(서다) 대가족 — stable(3440)·stage(3441)·stance(3443)·statue(조각상)·station(역)·statute(법규)·establish(설립)! the status quo(현 상태·현상 유지), high status(높은 지위), status symbol(부의 상징). standing(지위)·rank(3255, 계급)·position(지위)과 유의어.",
+  "syn": [
+   "standing(지위)",
+   "rank(계급)",
+   "position(지위)"
+  ],
+  "anti": [],
+  "idiom": [
+   "the status quo(현 상태)",
+   "status symbol(부의 상징)"
+  ],
+  "colloc": [
+   "social status(사회적 지위)",
+   "marital status(혼인 여부)",
+   "legal status(법적 지위)"
+  ],
+  "ex_add": "Owning a sports car was a symbol of status.  (status=지위)"
+ },
+ {
+  "num": "3448",
+  "hw": "steadily",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "흔들림 없이 -> '꾸준히·착실히 / 안정되게'.",
+  "senses": [
+   "1) 꾸준히·착실히·끊임없이",
+   "2) 안정되게·흔들림 없이"
+  ],
+  "etym": "고대 영어 stede(자리·위치, stand와 한 뿌리) -> steady(3449) + -ly. '한자리에 굳건히 -> 흔들림 없이'가 핵심.",
+  "deriv": "stede(자리) -> steady(3449, 꾸준한) -> 'steadily'. '흔들림 없이 -> 꾸준히(grow steadily, 꾸준히 성장하다)'. 한국 학습자 핵심: stede(자리) 갈래 — steady(3449)·instead(대신에)·homestead(농가)·steadfast(확고한)! steadily increase(꾸준히 증가하다), rise steadily(꾸준히 오르다). consistently(일관되게)·gradually(점진적으로)·constantly(끊임없이)와 유의어. 반대 erratically(불규칙하게)·suddenly(갑자기).",
+  "syn": [
+   "consistently(일관되게)",
+   "gradually(점진적으로)",
+   "constantly(끊임없이)"
+  ],
+  "anti": [
+   "erratically(불규칙하게)",
+   "suddenly(갑자기)"
+  ],
+  "idiom": [
+   "grow steadily(꾸준히 성장하다)",
+   "rise steadily(꾸준히 오르다)"
+  ],
+  "colloc": [
+   "steadily increase(꾸준히 증가하다)",
+   "steadily improve(꾸준히 나아지다)",
+   "steadily decline(꾸준히 감소하다)"
+  ],
+  "ex_add": "The company's profits have risen steadily.  (steadily=꾸준히)"
+ },
+ {
+  "num": "3449",
+  "hw": "steady",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "한자리에 굳건한 -> '꾸준한·안정된 / 흔들리지 않는'.",
+  "senses": [
+   "1) 꾸준한·한결같은·일정한",
+   "2) 안정된·흔들리지 않는·견고한",
+   "3) (사람이) 착실한·믿음직한"
+  ],
+  "etym": "고대 영어 stede(자리·위치) + -y -> 'steady'. '한자리에 굳건히 박힌 -> 흔들리지 않는'이 핵심. stede(자리)는 steady·instead(대신에)·stead(대신)의 뿌리.",
+  "deriv": "stede(자리) -> 'steady'. '한자리에 굳건한 -> 꾸준한(steady progress, 꾸준한 진전)·흔들리지 않는(a steady hand, 떨리지 않는 손)'. 한국 학습자 핵심: stede(자리) 갈래 — steadily(3448)·instead(대신에)·steadfast(확고한)·homestead(농가)! a steady job(안정된 직장), a steady boyfriend(정식 남자친구), steady as a rock(아주 안정된), hold steady(안정세를 유지하다). stable(3440, 안정된)·constant(끊임없는)·firm(견고한)과 유의어. 반대 unsteady(불안정한)·shaky(흔들리는).",
+  "syn": [
+   "stable(안정된)",
+   "constant(끊임없는)",
+   "firm(견고한)"
+  ],
+  "anti": [
+   "unsteady(불안정한)",
+   "shaky(흔들리는)"
+  ],
+  "idiom": [
+   "a steady job(안정된 직장)",
+   "steady as a rock(아주 안정된)",
+   "hold steady(안정세를 유지하다)"
+  ],
+  "colloc": [
+   "steady progress(꾸준한 진전)",
+   "steady income(안정된 수입)",
+   "steady growth(꾸준한 성장)"
+  ],
+  "ex_add": "She has a steady job at a bank.  (steady=안정된)"
+ },
+ {
+  "num": "3450",
+  "hw": "steam",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "수증기 -> '증기·김 / 힘·기세 / 찌다'.",
+  "senses": [
+   "1) 증기·수증기·김",
+   "2) (구어) 힘·기운·기세",
+   "3) (동사) 김을 내다·찌다; 증기로 움직이다"
+  ],
+  "etym": "고대 영어 steam(증기·김·냄새). 게르만어 공통 어근. '물이 끓어 오르는 김'이 핵심.",
+  "deriv": "steam(김) -> '증기·(증기 기관의 힘 ->) 기세·찌다(steamed rice, 찐 밥)'. 한국 학습자 핵심: let off steam(울분을 풀다·스트레스를 풀다), run out of steam(힘이 빠지다·동력을 잃다), full steam ahead(전속력으로·전력을 다해), pick up steam(탄력을 받다), blow off steam(화풀이하다). 산업혁명의 steam engine(증기 기관). vapor(증기)·mist(안개)와 유의어.",
+  "syn": [
+   "vapor(증기)",
+   "mist(수증기)"
+  ],
+  "anti": [],
+  "idiom": [
+   "let off steam(울분을 풀다)",
+   "run out of steam(힘이 빠지다)",
+   "full steam ahead(전속력으로)"
+  ],
+  "colloc": [
+   "steam engine(증기 기관)",
+   "steam rises(김이 오르다)",
+   "steamed vegetables(찐 채소)"
+  ],
+  "ex_add": "Steam rose from the hot soup.  (steam=김)"
+ },
+ {
+  "num": "3451",
+  "hw": "steel",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "단단한 쇠 -> '강철 / (마음을) 굳히다'.",
+  "senses": [
+   "1) 강철",
+   "2) (비유) 굳셈·강인함",
+   "3) (동사) (마음을) 단단히 먹다·다잡다"
+  ],
+  "etym": "고대 영어 style/stele(강철). 게르만어 stah-(단단한)와 관련 — '단단하게 벼린 쇠'가 핵심.",
+  "deriv": "style(강철) -> 'steel'. '단단한 쇠 -> 강철·(비유) 강인함·(마음을) 굳히다(steel oneself, 마음을 다잡다)'. 한국 학습자 핵심: iron(철, 원소)과 steel(강철, 철+탄소 합금) 구별! nerves of steel(강심장), a will of steel(강철 같은 의지), steel oneself for(~에 대비해 마음을 다잡다), stainless steel(스테인리스강). 동음이의 steal(훔치다)과 발음 같음 주의! iron(철)·alloy(합금)과 관련.",
+  "syn": [
+   "iron(철)",
+   "alloy(합금)"
+  ],
+  "anti": [],
+  "idiom": [
+   "nerves of steel(강심장)",
+   "steel oneself(마음을 다잡다)",
+   "a will of steel(강철 같은 의지)"
+  ],
+  "colloc": [
+   "stainless steel(스테인리스강)",
+   "steel industry(철강 산업)",
+   "steel beam(강철 들보)"
+  ],
+  "ex_add": "The bridge is made of steel and concrete.  (steel=강철)"
+ },
+ {
+  "num": "3452",
+  "hw": "steep",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "가파르게 솟은 -> '가파른·급격한 / (값이) 터무니없는'.",
+  "senses": [
+   "1) 가파른·비탈진",
+   "2) (변화가) 급격한·급한",
+   "3) (구어) (값이) 터무니없이 비싼"
+  ],
+  "etym": "고대 영어 steap(높이 솟은·가파른). 게르만어 계열로 '곧추 솟아오른'이 핵심.",
+  "deriv": "steap(가파른) -> 'steep'. '가파르게 솟음 -> (비탈이) 가파른(a steep hill, 가파른 언덕)·(변화가) 급격한(a steep rise, 급등)·(값이) 터무니없는'. 한국 학습자 핵심: a steep learning curve(가파른 학습 곡선·배우기 어려움), a steep price(터무니없는 가격), a steep climb(가파른 오르막). slope(3411, 경사)와 함께 쓰임. abrupt(급격한)·sharp(가파른)·precipitous(가파른)와 유의어. 반대 gentle(완만한)·gradual(점진적인)·flat(평평한).",
+  "syn": [
+   "abrupt(급격한)",
+   "sharp(가파른)",
+   "precipitous(가파른)"
+  ],
+  "anti": [
+   "gentle(완만한)",
+   "gradual(점진적인)",
+   "flat(평평한)"
+  ],
+  "idiom": [
+   "a steep learning curve(배우기 어려움)",
+   "a steep price(터무니없는 가격)"
+  ],
+  "colloc": [
+   "steep hill(가파른 언덕)",
+   "steep rise(급등)",
+   "steep decline(급락)"
+  ],
+  "ex_add": "We climbed a steep path to the top.  (steep=가파른)"
+ },
+ {
+  "num": "3453",
+  "hw": "step",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "한 걸음 -> '걸음·발걸음 / 단계·조치 / 계단 / 발을 내딛다'.",
+  "senses": [
+   "1) 걸음·발걸음·발소리",
+   "2) (절차의) 단계·조치",
+   "3) 계단·디딤판; (동사) 발을 내딛다·움직이다"
+  ],
+  "etym": "고대 영어 steppan(발을 내딛다), stæpe(걸음). 게르만어 계열로 '발을 들어 내딛음'이 핵심.",
+  "deriv": "stæpe(걸음) -> 'step'. '한 걸음 -> 발걸음·(일을 진행하는) 단계(step by step, 단계적으로)·조치(take steps, 조치를 취하다)·계단'. 한국 학습자 핵심: step by step(차근차근), take steps(조치를 취하다), step up(강화하다·나서다), step down(사임하다), step in(개입하다), watch your step(발밑 조심), in step with(~과 보조를 맞춰), a step in the right direction(올바른 방향으로의 한 걸음). pace(걸음)·measure(조치)·stage(3441, 단계)와 유의어.",
+  "syn": [
+   "pace(걸음)",
+   "measure(조치)",
+   "stage(단계)"
+  ],
+  "anti": [],
+  "idiom": [
+   "step by step(단계적으로)",
+   "take steps(조치를 취하다)",
+   "step up(강화하다)"
+  ],
+  "colloc": [
+   "first step(첫걸음)",
+   "next step(다음 단계)",
+   "important step(중요한 조치)"
+  ],
+  "ex_add": "Learning a language is a step-by-step process.  (step=단계)"
+ },
+ {
+  "num": "3454",
+  "hw": "sticky",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "들러붙는 -> '끈적한·들러붙는 / 까다로운 / 무더운'.",
+  "senses": [
+   "1) 끈적끈적한·들러붙는·점착성의",
+   "2) (상황이) 까다로운·곤란한",
+   "3) (날씨가) 후텁지근한·무더운"
+  ],
+  "etym": "고대 영어 stician(찌르다·달라붙다) -> stick(달라붙다) + -y. '달라붙는 성질의'가 핵심. stick(붙다)은 sticky·stick(막대기·달라붙다)·stuck(달라붙은)의 뿌리.",
+  "deriv": "stick(달라붙다) -> 'sticky'. '들러붙는 -> 끈적한(sticky fingers, 끈적한 손가락)·(빠져나오기 힘든) 까다로운(a sticky situation, 곤란한 상황)·(공기가 달라붙듯) 무더운'. 한국 학습자 핵심: stick(붙다·찌르다·막대기)·sticky·sticker(스티커)·stuck(꼼짝 못 하는)! a sticky note(포스트잇), a sticky situation(난처한 상황), come to a sticky end(비참한 최후를 맞다). adhesive(접착성의)·gluey(끈끈한)·humid(습한)과 유의어. 반대 dry(마른)·smooth(매끄러운).",
+  "syn": [
+   "adhesive(접착성의)",
+   "gluey(끈끈한)",
+   "humid(습한)"
+  ],
+  "anti": [
+   "dry(마른)",
+   "smooth(매끄러운)"
+  ],
+  "idiom": [
+   "a sticky situation(곤란한 상황)",
+   "a sticky note(포스트잇)"
+  ],
+  "colloc": [
+   "sticky fingers(끈적한 손가락)",
+   "sticky tape(접착테이프)",
+   "sticky weather(무더운 날씨)"
+  ],
+  "ex_add": "The candy made my hands all sticky.  (sticky=끈적한)"
+ },
+ {
+  "num": "3455",
+  "hw": "stiff",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "뻣뻣한 -> '뻣뻣한·딱딱한 / (몸이) 결리는 / 빡빡한·힘든'.",
+  "senses": [
+   "1) 뻣뻣한·잘 휘지 않는·딱딱한",
+   "2) (근육·관절이) 뻐근한·결리는",
+   "3) (경쟁·형벌이) 빡빡한·심한; 격식 차린·서먹한"
+  ],
+  "etym": "고대 영어 stif(뻣뻣한·단단한). 라틴어 stipare(빽빽이 채우다)와 인도유럽어 뿌리를 공유 — '빽빽해 잘 안 휘는'이 핵심.",
+  "deriv": "stif(뻣뻣한) -> 'stiff'. '뻣뻣한 -> 딱딱한(a stiff collar, 빳빳한 깃)·(몸이) 결리는(a stiff neck, 뻐근한 목)·(휘지 않듯) 빡빡한(stiff competition, 치열한 경쟁)·(태도가) 서먹한'. 한국 학습자 핵심: stiffen(뻣뻣해지다·굳히다)이 동사. stiff competition(치열한 경쟁), a stiff drink(독한 술 한 잔), bore someone stiff(몹시 지루하게 하다), scared stiff(몸이 굳을 만큼 겁먹은). rigid(뻣뻣한)·firm(단단한)·tough(3534, 힘든)와 유의어. 반대 flexible(유연한)·soft(부드러운)·limp(축 늘어진).",
+  "syn": [
+   "rigid(뻣뻣한)",
+   "firm(단단한)",
+   "tough(힘든)"
+  ],
+  "anti": [
+   "flexible(유연한)",
+   "soft(부드러운)",
+   "limp(축 늘어진)"
+  ],
+  "idiom": [
+   "stiff competition(치열한 경쟁)",
+   "scared stiff(몹시 겁먹은)",
+   "a stiff drink(독한 술 한 잔)"
+  ],
+  "colloc": [
+   "stiff neck(뻐근한 목)",
+   "stiff muscles(뻐근한 근육)",
+   "stiff penalty(엄한 처벌)"
+  ],
+  "ex_add": "I woke up with a stiff neck this morning.  (stiff=뻐근한)"
+ },
+ {
+  "num": "3456",
+  "hw": "stimulate",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "찔러 자극하다 -> '자극하다·활성화하다 / 흥미를 돋우다'.",
+  "senses": [
+   "1) (활동·성장을) 자극하다·촉진하다·활성화하다",
+   "2) (관심·흥미를) 불러일으키다·북돋우다",
+   "3) (신체·신경을) 자극하다"
+  ],
+  "etym": "라틴어 stimulus(소를 찌르는 막대기·뾰족한 채찍) -> stimulare(찔러 몰다) -> 'stimulate'. '뾰족한 것으로 찔러 움직이게 함'이 핵심. stimulus(찌르는 막대)는 stimulate·stimulus(자극)·stimulant(흥분제)의 뿌리.",
+  "deriv": "stimulus(찌르는 막대) -> 'stimulate'. '찔러 자극함 -> (활동을) 촉진하다(stimulate the economy, 경제를 활성화하다)·(흥미를) 돋우다(stimulate interest, 흥미를 불러일으키다)'. 한국 학습자 핵심: stimulus(자극, 복수 stimuli)·stimulant(흥분제)·stimulating(자극적인·흥미로운)이 가족. stimulate growth(성장을 촉진하다), stimulate demand(수요를 자극하다). encourage(촉진하다)·provoke(불러일으키다)·spur(박차를 가하다)와 유의어. 반대 discourage(억제하다)·suppress(억누르다)·inhibit(억제하다).",
+  "syn": [
+   "encourage(촉진하다)",
+   "provoke(불러일으키다)",
+   "spur(박차를 가하다)"
+  ],
+  "anti": [
+   "discourage(억제하다)",
+   "suppress(억누르다)",
+   "inhibit(억제하다)"
+  ],
+  "idiom": [
+   "stimulate growth(성장을 촉진하다)",
+   "stimulate the economy(경제를 활성화하다)"
+  ],
+  "colloc": [
+   "stimulate interest(흥미를 불러일으키다)",
+   "stimulate demand(수요를 자극하다)",
+   "stimulate the brain(뇌를 자극하다)"
+  ],
+  "ex_add": "The government cut taxes to stimulate the economy.  (stimulate=활성화하다)"
+ },
+ {
+  "num": "3457",
+  "hw": "stock",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "쌓아 둔 밑동 -> '재고·비축 / 주식 / 육수'.",
+  "senses": [
+   "1) 재고(품)·비축·저장품",
+   "2) 주식·증권",
+   "3) (요리) 육수; 혈통·가축"
+  ],
+  "etym": "고대 영어 stocc(나무 밑동·그루터기). '밑동·기둥처럼 쌓아 둔 밑천 -> 재고·자본'으로 발전. '기본 밑천으로 쌓아 둔 것'이 핵심.",
+  "deriv": "stocc(나무 밑동) -> 'stock'. '쌓아 둔 밑천 -> 재고(in stock, 재고가 있는)·(회사의 밑천 ->) 주식(buy stocks, 주식을 사다)·(우려낸 밑국물 ->) 육수'. 한국 학습자 핵심: in stock(재고가 있는) vs out of stock(품절된), take stock(재고를 조사하다·곰곰이 따져 보다), the stock market(주식 시장), stock up on(~을 사재기하다·비축하다), lock, stock and barrel(몽땅·통째로). 미국 stock = 영국 share(주식). supply(공급)·inventory(재고)·shares(주식)와 유의어.",
+  "syn": [
+   "supply(공급)",
+   "inventory(재고)",
+   "shares(주식)"
+  ],
+  "anti": [],
+  "idiom": [
+   "in stock(재고가 있는)",
+   "take stock(곰곰이 따져 보다)",
+   "stock up on(~을 비축하다)"
+  ],
+  "colloc": [
+   "out of stock(품절된)",
+   "stock market(주식 시장)",
+   "stock price(주가)"
+  ],
+  "ex_add": "Sorry, that item is out of stock.  (stock=재고)"
+ },
+ {
+  "num": "3458",
+  "hw": "stream",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "흐름 -> '개울·시내 / 흐름·줄기 / 스트리밍하다'.",
+  "senses": [
+   "1) 개울·시내·하천",
+   "2) (액체·사람·정보의) 흐름·줄기·연속",
+   "3) (동사) 줄줄 흐르다; (데이터를) 스트리밍하다"
+  ],
+  "etym": "고대 영어 stream(흐르는 물). 게르람어 strau-(흐르다)로 '죽 흘러가는 물줄기'가 핵심. 그리스어 rhein(흐르다, rhythm 3318의 뿌리)과 인도유럽어 친척.",
+  "deriv": "stream(흐르는 물) -> '개울·(연이은) 흐름(a stream of cars, 끊임없는 차량 행렬)·(영상을 흘려보내는) 스트리밍'. 한국 학습자 핵심: a steady stream of(끊임없는 ~의 행렬), against the stream(시류를 거슬러), come on stream(가동을 시작하다), the mainstream(주류). 요즘 stream=온라인 재생(스트리밍). brook(시내)·flow(흐름)·current(흐름)과 유의어.",
+  "syn": [
+   "brook(시내)",
+   "flow(흐름)",
+   "current(흐름)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a steady stream of(끊임없는 ~의 행렬)",
+   "against the stream(시류를 거슬러)",
+   "the mainstream(주류)"
+  ],
+  "colloc": [
+   "a stream of people(사람들의 행렬)",
+   "mountain stream(산골 개울)",
+   "stream of consciousness(의식의 흐름)"
+  ],
+  "ex_add": "A small stream ran through the village.  (stream=개울)"
+ },
+ {
+  "num": "3459",
+  "hw": "strengthen",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "힘을 더하다 -> '강화하다·튼튼하게 하다 / 강해지다'.",
+  "senses": [
+   "1) 강화하다·튼튼하게 하다·보강하다",
+   "2) 강해지다·튼튼해지다",
+   "3) (관계·입지를) 공고히 하다"
+  ],
+  "etym": "고대 영어 strang(강한) -> strength(힘) + -en(동사화). '힘을 더해 강하게 만듦'이 핵심. strang(강한)은 strengthen·strength(힘)·strong(강한)의 뿌리.",
+  "deriv": "strong(강한) -> strength(힘) -> 'strengthen'. '힘을 더함 -> 강화하다(strengthen ties, 유대를 강화하다)'. 한국 학습자 핵심: -en(동사화) 접미사 — strengthen·weaken(약화시키다)·widen(넓히다)·shorten(줄이다)·deepen(깊게 하다)! strengthen the economy(경제를 강화하다), strengthen muscles(근육을 강화하다). reinforce(3285, 보강하다)·bolster(북돋우다)·fortify(강화하다)와 유의어. 반대 weaken(약화시키다)·undermine(2588, 약화시키다).",
+  "syn": [
+   "reinforce(보강하다)",
+   "bolster(북돋우다)",
+   "fortify(강화하다)"
+  ],
+  "anti": [
+   "weaken(약화시키다)",
+   "undermine(약화시키다)"
+  ],
+  "idiom": [
+   "strengthen ties(유대를 강화하다)",
+   "strengthen the economy(경제를 강화하다)"
+  ],
+  "colloc": [
+   "strengthen muscles(근육을 강화하다)",
+   "strengthen relations(관계를 강화하다)",
+   "strengthen security(보안을 강화하다)"
+  ],
+  "ex_add": "Exercise helps strengthen your bones.  (strengthen=강화하다)"
+ },
+ {
+  "num": "3460",
+  "hw": "stretch",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "팽팽히 늘이다 -> '늘이다·뻗다 / 쭉 펴다 / 뻗은 구간·기간'.",
+  "senses": [
+   "1) 늘이다·늘어나다·잡아당기다",
+   "2) (몸을) 쭉 펴다·기지개를 켜다; (손을) 뻗다",
+   "3) (n.) (길게) 뻗은 구간·기간"
+  ],
+  "etym": "고대 영어 streccan(쭉 뻗다·늘이다). 게르만어 strak-(팽팽한)와 관련 — '팽팽히 잡아 늘임'이 핵심.",
+  "deriv": "streccan(늘이다) -> 'stretch'. '팽팽히 늘임 -> 늘이다(stretch a rubber band, 고무줄을 늘이다)·(몸을) 쭉 펴다·(n.) 뻗은 구간(a long stretch of road, 긴 도로 구간)'. 한국 학습자 핵심: stretch out(쭉 뻗다·드러눕다), stretch the truth(진실을 부풀리다·과장하다), at full stretch(전력을 다해), a stretch of the imagination(상상력의 비약). extend(뻗다)·expand(확장하다)·lengthen(길게 하다)과 유의어. 반대 contract(수축하다)·shrink(줄어들다).",
+  "syn": [
+   "extend(뻗다)",
+   "expand(확장하다)",
+   "lengthen(길게 하다)"
+  ],
+  "anti": [
+   "contract(수축하다)",
+   "shrink(줄어들다)"
+  ],
+  "idiom": [
+   "stretch out(쭉 뻗다)",
+   "stretch the truth(과장하다)",
+   "at full stretch(전력을 다해)"
+  ],
+  "colloc": [
+   "stretch your legs(다리를 쭉 펴다)",
+   "a stretch of road(도로 구간)",
+   "stretch the budget(예산을 빠듯하게 쓰다)"
+  ],
+  "ex_add": "She stretched her arms above her head.  (stretch=쭉 펴다)"
+ },
+ {
+  "num": "3461",
+  "hw": "strict",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "바짝 죈 -> '엄격한·엄한 / (의미가) 엄밀한'.",
+  "senses": [
+   "1) (규율이) 엄격한·엄한",
+   "2) (규칙이) 철저한·반드시 지켜야 하는",
+   "3) (의미가) 엄밀한·정확한"
+  ],
+  "etym": "라틴어 stringere(바짝 죄다·당기다) -> 과거분사 strictus(바짝 죈) -> 'strict'. '바짝 죄어 느슨함이 없는'이 핵심. stringere(죄다)는 strict·strictly(3462)·restrict(3308)·restriction(3309)·stringent(엄격한)·strain(긴장)의 뿌리.",
+  "deriv": "stringere(죄다) -> strictus(바짝 죈) -> 'strict'. '바짝 죈 -> 엄격한(strict rules, 엄격한 규칙)·엄밀한(in the strict sense, 엄밀한 의미에서)'. 한국 학습자 핵심: stringere(죄다) 대가족 — restrict(3308)·restriction(3309)·strictly(3462)·stringent(엄격한)·strain(긴장)·constrain(제약)·distress(고통)! a strict diet(엄격한 식단), strict parents(엄한 부모). stern(엄한)·rigorous(엄밀한)·firm(단호한)과 유의어. 반대 lenient(관대한)·lax(느슨한)·permissive(허용적인).",
+  "syn": [
+   "stern(엄한)",
+   "rigorous(엄밀한)",
+   "firm(단호한)"
+  ],
+  "anti": [
+   "lenient(관대한)",
+   "lax(느슨한)",
+   "permissive(허용적인)"
+  ],
+  "idiom": [
+   "strict rules(엄격한 규칙)",
+   "in the strict sense(엄밀한 의미에서)"
+  ],
+  "colloc": [
+   "strict discipline(엄격한 규율)",
+   "strict diet(엄격한 식단)",
+   "strict parents(엄한 부모)"
+  ],
+  "ex_add": "The school has strict rules about uniforms.  (strict=엄격한)"
+ },
+ {
+  "num": "3462",
+  "hw": "strictly",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "바짝 죄어 -> '엄격히 / 엄밀히 (말하면)'.",
+  "senses": [
+   "1) 엄격히·엄중히",
+   "2) 오로지·전적으로(strictly for ~)",
+   "3) (strictly speaking) 엄밀히 말하면"
+  ],
+  "etym": "라틴어 stringere(죄다) -> strict(3461) + -ly. '바짝 죄어 -> 엄격히'가 핵심.",
+  "deriv": "strict(3461, 엄격한) -> 'strictly'. '바짝 죄어 -> 엄격히(strictly prohibited, 엄격히 금지된)·엄밀히(strictly speaking, 엄밀히 말하면)'. 한국 학습자 핵심: stringere(죄다) 대가족 — strict(3461)·restrict(3308)·stringent(엄격한)·strain(긴장)·constrain(제약)! strictly speaking(엄밀히 말하면), strictly confidential(극비의), strictly forbidden(엄금된). rigorously(엄격히)·absolutely(절대적으로)·purely(3242, 순전히)와 유의어. 반대 loosely(느슨하게)·leniently(관대하게).",
+  "syn": [
+   "rigorously(엄격히)",
+   "absolutely(절대적으로)",
+   "purely(순전히)"
+  ],
+  "anti": [
+   "loosely(느슨하게)",
+   "leniently(관대하게)"
+  ],
+  "idiom": [
+   "strictly speaking(엄밀히 말하면)",
+   "strictly confidential(극비의)"
+  ],
+  "colloc": [
+   "strictly prohibited(엄격히 금지된)",
+   "strictly forbidden(엄금된)",
+   "strictly enforce(엄격히 시행하다)"
+  ],
+  "ex_add": "Smoking is strictly prohibited in this area.  (strictly=엄격히)"
+ },
+ {
+  "num": "3463",
+  "hw": "strike",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "세게 치다 -> '치다·부딪치다 / (생각이) 떠오르다 / 파업(하다)'.",
+  "senses": [
+   "1) 치다·때리다·부딪치다·공격하다",
+   "2) (생각·인상이) 문득 떠오르다·~한 인상을 주다",
+   "3) (n.) 파업; (동사) 파업하다; (성냥을) 긋다"
+  ],
+  "etym": "고대 영어 strican(쓰다듬다·문지르다 -> 치다). 게르만어 strik-(긋다·문지르다)로 '죽 그어 치다'가 핵심. stroke(3465)와 한 뿌리.",
+  "deriv": "strican(긋다·치다) -> 'strike'. '세게 침 -> 때리다·(번개가) 치다·(생각이) 문득 떠오르다(it struck me that, 문득 ~한 생각이 들었다)·(일손을 놓고) 파업하다'. 한국 학습자 핵심: 불규칙 strike-struck-struck! go on strike(파업하다), strike a balance(균형을 맞추다), strike a deal(거래를 성사시키다), strike gold(횡재하다), strike while the iron is hot(쇠뿔도 단김에 빼라), be struck by(~에 깊은 인상을 받다). hit(치다)·attack(공격하다)과 유의어.",
+  "syn": [
+   "hit(치다)",
+   "attack(공격하다)",
+   "occur to(생각이 떠오르다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "go on strike(파업하다)",
+   "strike a balance(균형을 맞추다)",
+   "strike a deal(거래를 성사시키다)"
+  ],
+  "colloc": [
+   "strike a match(성냥을 긋다)",
+   "lightning strikes(번개가 치다)",
+   "workers strike(노동자가 파업하다)"
+  ],
+  "ex_add": "It suddenly struck me that I had forgotten my keys.  (strike=떠오르다)"
+ },
+ {
+  "num": "3464",
+  "hw": "striking",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "탁 치고 들어오는 -> '눈에 띄는·인상적인 / 두드러진'.",
+  "senses": [
+   "1) 눈에 띄는·인상적인·두드러진",
+   "2) (외모가) 빼어난·매력적인"
+  ],
+  "etym": "고대 영어 strican(치다) -> strike(3463)의 현재분사형 형용사. '탁 치고 들어와 눈길을 끄는'이 핵심.",
+  "deriv": "strike(3463, 치다) -> 'striking'. '탁 치고 들어오는 -> 눈에 띄는(a striking resemblance, 놀라운 닮음)·인상적인'. 한국 학습자 핵심: '쳐서 인상을 남기는' -> '두드러진'. strikingly(현저하게)가 부사. a striking difference(두드러진 차이), striking features(빼어난 이목구비). impressive(인상적인)·remarkable(3293, 주목할 만한)·noticeable(눈에 띄는)과 유의어. 반대 ordinary(평범한)·unremarkable(평범한)·dull(따분한).",
+  "syn": [
+   "impressive(인상적인)",
+   "remarkable(주목할 만한)",
+   "noticeable(눈에 띄는)"
+  ],
+  "anti": [
+   "ordinary(평범한)",
+   "unremarkable(평범한)",
+   "dull(따분한)"
+  ],
+  "idiom": [
+   "a striking resemblance(놀라운 닮음)",
+   "a striking difference(두드러진 차이)"
+  ],
+  "colloc": [
+   "striking features(빼어난 이목구비)",
+   "striking contrast(뚜렷한 대조)",
+   "striking similarity(놀라운 유사성)"
+  ],
+  "ex_add": "There is a striking similarity between the two paintings.  (striking=두드러진)"
+ },
+ {
+  "num": "3465",
+  "hw": "stroke",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "한 번의 친 동작 -> '타격·한 획·한 번의 동작 / 뇌졸중 / 쓰다듬다'.",
+  "senses": [
+   "1) (한 번의) 타격·치기; (붓·노의) 한 획·한 번 젓기; (수영) 영법",
+   "2) (의학) 뇌졸중·발작",
+   "3) (동사) 쓰다듬다·어루만지다"
+  ],
+  "etym": "고대 영어 strican(문지르다·치다) -> 'stroke'. strike(3463)와 한 뿌리 — '한 번 죽 긋거나 치는 동작'이 핵심.",
+  "deriv": "strican(치다·문지르다) -> 'stroke'. '한 번의 동작 -> 타격·(붓의) 한 획·(갑자기 뇌혈관이 막히는) 뇌졸중·(부드럽게 문지르는) 쓰다듬다'. 한국 학습자 핵심: strike(3463)와 형제! have a stroke(뇌졸중에 걸리다), a stroke of luck(뜻밖의 행운), a stroke of genius(천재적 발상), at a stroke(단번에), not do a stroke of work(전혀 일을 안 하다). blow(타격)·caress(쓰다듬다)와 유의어.",
+  "syn": [
+   "blow(타격)",
+   "caress(쓰다듬다)",
+   "line(획)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a stroke of luck(뜻밖의 행운)",
+   "a stroke of genius(천재적 발상)",
+   "at a stroke(단번에)"
+  ],
+  "colloc": [
+   "have a stroke(뇌졸중에 걸리다)",
+   "brush stroke(붓놀림)",
+   "stroke a cat(고양이를 쓰다듬다)"
+  ],
+  "ex_add": "Her grandfather suffered a stroke last year.  (stroke=뇌졸중)"
+ },
+ {
+  "num": "3466",
+  "hw": "structure",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "쌓아 올려진 짜임 -> '구조·짜임새 / 건축물 / 구조화하다'.",
+  "senses": [
+   "1) 구조·짜임새·체계",
+   "2) 구조물·건축물",
+   "3) (동사) 구조화하다·체계적으로 짜다"
+  ],
+  "etym": "라틴어 struere(쌓아 올리다·짓다) -> structura(짜 올린 것) -> 'structure'. '차곡차곡 쌓아 올린 짜임'이 핵심. struere(쌓다)는 structure·construct(건설하다)·instruct(가르치다)·destroy(파괴하다)·construe(해석하다)의 뿌리.",
+  "deriv": "struere(쌓다) -> structura(짜임) -> 'structure'. '쌓아 올린 짜임 -> 구조(the structure of a cell, 세포의 구조)·건축물·구조화하다'. 한국 학습자 핵심: struere(쌓다·짓다) 대가족 — construct(건설)·instruct(가르치다)·destroy(파괴)·construe(해석)·infrastructure(기반 시설)·obstruct(가로막다)! social structure(사회 구조), structure a plan(계획을 체계적으로 짜다). framework(틀)·system(체계)·construction(구조물)과 유의어.",
+  "syn": [
+   "framework(틀)",
+   "system(체계)",
+   "construction(구조물)"
+  ],
+  "anti": [
+   "chaos(무질서)"
+  ],
+  "idiom": [
+   "social structure(사회 구조)",
+   "the structure of(~의 구조)"
+  ],
+  "colloc": [
+   "organizational structure(조직 구조)",
+   "molecular structure(분자 구조)",
+   "structure a plan(계획을 체계적으로 짜다)"
+  ],
+  "ex_add": "The essay has a clear structure with three parts.  (structure=구조)"
+ },
+ {
+  "num": "3467",
+  "hw": "struggle",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "버둥거리며 애쓰다 -> '발버둥치다·고투하다 / 투쟁·분투'.",
+  "senses": [
+   "1) (힘겹게) 애쓰다·고투하다·발버둥치다",
+   "2) (몸싸움하며) 몸부림치다·맞붙어 싸우다",
+   "3) (n.) 투쟁·분투·노력"
+  ],
+  "etym": "중세 영어 struglen(맹렬히 애쓰다). 어원 불확실하나 스칸디나비아어 계열로 '버둥거리며 힘껏 애씀'이 핵심.",
+  "deriv": "struglen(애쓰다) -> 'struggle'. '버둥거리며 애씀 -> 고투하다(struggle to survive, 살아남으려 발버둥치다)·(n.) 투쟁(a power struggle, 권력 투쟁)'. 한국 학습자 핵심: struggle to do(~하려 안간힘을 쓰다), struggle with(~과 씨름하다), a struggle for survival(생존 투쟁), an uphill struggle(힘겨운 싸움). strive(분투하다)·fight(싸우다)·grapple(맞붙다)과 유의어. 반대 thrive(번영하다)·breeze through(수월하게 해내다).",
+  "syn": [
+   "strive(분투하다)",
+   "fight(싸우다)",
+   "grapple(맞붙다)"
+  ],
+  "anti": [
+   "thrive(번영하다)"
+  ],
+  "idiom": [
+   "an uphill struggle(힘겨운 싸움)",
+   "a power struggle(권력 투쟁)",
+   "struggle with(~과 씨름하다)"
+  ],
+  "colloc": [
+   "struggle to survive(살아남으려 발버둥치다)",
+   "struggle for survival(생존 투쟁)",
+   "constant struggle(끊임없는 분투)"
+  ],
+  "ex_add": "Many families struggle to pay their bills.  (struggle=고투하다)"
+ },
+ {
+  "num": "3468",
+  "hw": "stuff",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "채워 넣는 재료 -> '물건·것 / 채워 넣다·쑤셔 넣다'.",
+  "senses": [
+   "1) (구어) 물건·것·잡동사니",
+   "2) (어떤 것의) 재료·본질",
+   "3) (동사) 채워 넣다·쑤셔 넣다; (음식을) 속을 채우다"
+  ],
+  "etym": "고대 프랑스어 estoffe(천·재료) <- 라틴어 stuppa(삼 부스러기, 틈을 메우던 것). '틈을 채워 넣는 재료'가 핵심.",
+  "deriv": "estoffe(재료) -> 'stuff'. '채워 넣는 재료 -> (포괄적으로) 물건·것·(틈에) 쑤셔 넣다(stuff clothes into a bag, 옷을 가방에 쑤셔 넣다)'. 한국 학습자 핵심: 회화에서 thing(s) 대신 막연히 '것·물건'을 가리킴 — and stuff(같은 것들), stuff like that(그런 것들). know one's stuff(자기 분야를 잘 알다), strut one's stuff(솜씨를 뽐내다), stuffed(배부른·꽉 찬). things(물건)·material(재료)·cram(쑤셔 넣다)과 유의어.",
+  "syn": [
+   "things(물건)",
+   "material(재료)",
+   "cram(쑤셔 넣다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "know one's stuff(자기 분야를 잘 알다)",
+   "and stuff(같은 것들)",
+   "stuff like that(그런 것들)"
+  ],
+  "colloc": [
+   "all my stuff(내 모든 물건)",
+   "stuff a bag(가방을 채워 넣다)",
+   "the right stuff(필요한 자질)"
+  ],
+  "ex_add": "Can you help me move all this stuff?  (stuff=물건)"
+ },
+ {
+  "num": "3469",
+  "hw": "stunning",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "얼이 빠질 만큼 -> '굉장히 멋진·아주 아름다운 / 깜짝 놀랄'.",
+  "senses": [
+   "1) 굉장히 멋진·매우 아름다운",
+   "2) 깜짝 놀랄·아연하게 하는·충격적인"
+  ],
+  "etym": "고대 프랑스어 estoner(어리둥절하게 하다) <- 라틴어 ex(밖) + tonare(천둥치다) -> stun(기절시키다)의 현재분사. '천둥에 맞은 듯 얼이 빠지게 하는'이 핵심. tonare(천둥치다)는 stun·astonish(놀라게 하다)·detonate(폭발시키다)·thunder와 친척.",
+  "deriv": "ex+tonare(천둥치다) -> stun(얼떨떨하게 하다) -> 'stunning'. '얼이 빠질 만큼 -> 굉장히 멋진(a stunning view, 굉장한 경치)·깜짝 놀랄'. 한국 학습자 핵심: tonare(천둥) 갈래 — stun·astonish(놀라게 하다)·astound(경악시키다)·detonate(폭발시키다)! a stunning dress(아주 멋진 드레스), a stunning victory(놀라운 승리). gorgeous(아주 멋진)·breathtaking(숨막히는)·spectacular(3422, 장관인)와 유의어. 반대 ordinary(평범한)·plain(수수한).",
+  "syn": [
+   "gorgeous(아주 멋진)",
+   "breathtaking(숨막히는)",
+   "spectacular(장관인)"
+  ],
+  "anti": [
+   "ordinary(평범한)",
+   "plain(수수한)"
+  ],
+  "idiom": [
+   "a stunning view(굉장한 경치)",
+   "a stunning victory(놀라운 승리)"
+  ],
+  "colloc": [
+   "stunning beauty(빼어난 미모)",
+   "stunning success(놀라운 성공)",
+   "absolutely stunning(정말 멋진)"
+  ],
+  "ex_add": "The view from the summit was absolutely stunning.  (stunning=굉장히 멋진)"
+ },
+ {
+  "num": "3470",
+  "hw": "subject",
+  "pos": "n., adj.",
+  "cefr": "B2",
+  "core": "아래에 던져진 것 -> '주제·과목 / 대상·피험자 / 종속된·~하기 쉬운'.",
+  "senses": [
+   "1) 주제·화제; (학교) 과목",
+   "2) (실험·연구의) 대상·피험자; (문법) 주어; 국민·신하",
+   "3) (adj.) (subject to) ~의 영향을 받는·~하기 쉬운·~을 조건으로 하는"
+  ],
+  "etym": "라틴어 sub(아래) + jacere(던지다) -> subjectus(아래에 놓인·종속된) -> 'subject'. '논의의 밑에 놓인 것 -> 주제 / 지배 아래 놓인 -> 종속된'이 핵심. jacere(던지다)는 subject·project(3214)·inject(주입하다)·reject(거부하다)·object(물건)의 뿌리.",
+  "deriv": "sub(아래)+jacere(던지다) -> 'subject'. '아래에 놓인 것 -> (다뤄지는) 주제·(다스림 아래의) 신하·(adj.) ~의 영향을 받는(subject to change, 변경될 수 있는)'. 한국 학습자 핵심: jacere(던지다) 대가족 — project(3214)·inject(주입)·reject(거부)·object(물건·반대하다)·eject(쫓아내다)·adjective(형용사)·conjecture(추측)! subject to(~의 대상인·~을 조건으로 하는), change the subject(화제를 바꾸다), on the subject of(~에 관하여). topic(주제)·theme(테마)·matter(문제)와 유의어.",
+  "syn": [
+   "topic(주제)",
+   "theme(테마)",
+   "matter(문제)"
+  ],
+  "anti": [],
+  "idiom": [
+   "subject to(~의 영향을 받는)",
+   "change the subject(화제를 바꾸다)",
+   "on the subject of(~에 관하여)"
+  ],
+  "colloc": [
+   "favorite subject(가장 좋아하는 과목)",
+   "subject matter(주제·소재)",
+   "test subject(실험 대상)"
+  ],
+  "ex_add": "Let's change the subject to something more cheerful.  (subject=화제)"
+ },
+ {
+  "num": "3471",
+  "hw": "submit",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "아래로 보내다 -> '제출하다 / 복종하다·굴복하다'.",
+  "senses": [
+   "1) 제출하다·내다",
+   "2) 복종하다·굴복하다·따르다",
+   "3) (격식) ~라고 진술하다·주장하다"
+  ],
+  "etym": "라틴어 sub(아래) + mittere(보내다) -> submittere(아래로 보내다·낮추다) -> 'submit'. '아래로 내려보냄 -> 내놓음 / 자기를 낮춰 복종함'이 핵심. mittere(보내다)는 submit·permit(3166)·transmit(전송하다)·commit(저지르다)·mission(임무)의 뿌리.",
+  "deriv": "sub(아래)+mittere(보내다) -> 'submit'. '아래로 보냄 -> (서류를) 제출하다(submit an application, 신청서를 제출하다)·(자기를 낮춰) 복종하다(submit to authority, 권위에 복종하다)'. 한국 학습자 핵심: mittere(보내다) 대가족 — permit(3166)·transmit(전송)·commit(저지르다)·mission(임무)·emit(방출)·omit(생략)·promising(3211)·submission(제출·복종)! submit to(~에 굴복하다). hand in(제출하다)·surrender(굴복하다)·yield(굴복하다)와 유의어. 반대 resist(3303, 저항하다)·withhold(보류하다).",
+  "syn": [
+   "hand in(제출하다)",
+   "surrender(굴복하다)",
+   "yield(굴복하다)"
+  ],
+  "anti": [
+   "resist(저항하다)",
+   "withhold(보류하다)"
+  ],
+  "idiom": [
+   "submit an application(신청서를 제출하다)",
+   "submit to(~에 굴복하다)"
+  ],
+  "colloc": [
+   "submit a report(보고서를 제출하다)",
+   "submit a proposal(제안서를 제출하다)",
+   "submit on time(제때 제출하다)"
+  ],
+  "ex_add": "Please submit your assignment by Friday.  (submit=제출하다)"
+ },
+ {
+  "num": "3472",
+  "hw": "subsequent",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "바로 뒤따르는 -> '그 다음의·이후의·뒤이은'.",
+  "senses": [
+   "1) 그 다음의·이후의",
+   "2) 뒤이어 일어나는·후속의"
+  ],
+  "etym": "라틴어 sub(바로 밑·바로 뒤) + sequi(따르다) -> subsequi(바로 뒤따르다) -> 'subsequent'. '바로 뒤따라오는'이 핵심. sequi(따르다)는 subsequent·sequence(3370)·pursue(3243)·consequence(결과)·sequel(속편)의 뿌리.",
+  "deriv": "sub(뒤)+sequi(따르다) -> 'subsequent'. '바로 뒤따르는 -> 그 다음의(subsequent events, 이후의 사건들)'. 한국 학습자 핵심: sequi(따르다) 대가족 — sequence(3370)·pursue(3243)·consequence(결과)·sequel(속편)·consecutive(연속의)·subsequently(3473)! subsequent to(~ 후에). 반의어 previous(이전의)·preceding(앞선). following(다음의)·later(나중의)·succeeding(잇따른)과 유의어. 반대 previous(이전의)·preceding(앞선)·prior(3187, 사전의).",
+  "syn": [
+   "following(다음의)",
+   "later(나중의)",
+   "succeeding(잇따른)"
+  ],
+  "anti": [
+   "previous(이전의)",
+   "preceding(앞선)",
+   "prior(사전의)"
+  ],
+  "idiom": [
+   "subsequent to(~ 후에)",
+   "subsequent events(이후의 사건들)"
+  ],
+  "colloc": [
+   "subsequent years(이후 몇 년)",
+   "subsequent developments(후속 진전)",
+   "subsequent generations(후세대)"
+  ],
+  "ex_add": "The decision had a major impact on subsequent events.  (subsequent=이후의)"
+ },
+ {
+  "num": "3473",
+  "hw": "subsequently",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "바로 뒤이어 -> '그 후에·나중에·이어서'.",
+  "senses": [
+   "1) 그 후에·나중에",
+   "2) 이어서·뒤이어"
+  ],
+  "etym": "라틴어 sub(뒤) + sequi(따르다) -> subsequent(3472) + -ly. '바로 뒤이어'가 핵심.",
+  "deriv": "subsequent(3472, 그 다음의) -> 'subsequently'. '바로 뒤이어 -> 그 후에(he subsequently resigned, 그는 이후 사임했다)'. 한국 학습자 핵심: sequi(따르다) 대가족 — sequence(3370)·pursue(3243)·consequence(결과)·subsequent(3472)·consecutive(연속의)! 격식 있는 글에서 '그 후에'(=later, afterwards). subsequently discovered(이후 발견된). afterwards(나중에)·later(나중에)·thereafter(그 후)와 유의어. 반대 previously(이전에)·beforehand(미리).",
+  "syn": [
+   "afterwards(나중에)",
+   "later(나중에)",
+   "thereafter(그 후)"
+  ],
+  "anti": [
+   "previously(이전에)",
+   "beforehand(미리)"
+  ],
+  "idiom": [
+   "subsequently discovered(이후 발견된)",
+   "subsequently revealed(이후 밝혀진)"
+  ],
+  "colloc": [
+   "subsequently resigned(이후 사임했다)",
+   "subsequently arrested(이후 체포되었다)",
+   "subsequently changed(이후 바뀌었다)"
+  ],
+  "ex_add": "He was arrested and subsequently released.  (subsequently=그 후에)"
+ },
+ {
+  "num": "3474",
+  "hw": "suburb",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "도시 바로 아래(언저리) -> '교외·근교'.",
+  "senses": [
+   "1) 교외·근교·외곽 주택지",
+   "2) (the suburbs) 교외 지역"
+  ],
+  "etym": "라틴어 sub(아래·가까이) + urbs(도시) -> suburbium(도시 변두리) -> 'suburb'. '도시 바로 아래 언저리'가 핵심. urbs(도시)는 suburb·urban(도시의)·urbane(세련된)의 뿌리.",
+  "deriv": "sub(가까이)+urbs(도시) -> 'suburb'. '도시 언저리 -> 교외(live in the suburbs, 교외에 살다)'. 한국 학습자 핵심: urbs(도시) 갈래 — urban(도시의)·urbane(세련된)·suburban(교외의)·suburbia(교외 지역)! a leafy suburb(녹음 우거진 교외), commute from the suburbs(교외에서 통근하다). outskirts(변두리)와 유의어. 반대 city center(도심)·downtown(시내 중심가).",
+  "syn": [
+   "outskirts(변두리)",
+   "outlying area(외곽 지역)"
+  ],
+  "anti": [
+   "city center(도심)",
+   "downtown(시내 중심가)"
+  ],
+  "idiom": [
+   "live in the suburbs(교외에 살다)",
+   "a leafy suburb(녹음 우거진 교외)"
+  ],
+  "colloc": [
+   "quiet suburb(조용한 교외)",
+   "wealthy suburb(부유한 교외)",
+   "commute from the suburbs(교외에서 통근하다)"
+  ],
+  "ex_add": "They moved to a quiet suburb outside the city.  (suburb=교외)"
+ },
+ {
+  "num": "3475",
+  "hw": "suffering",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "아래에서 짊어짐 -> '고통·고난·괴로움'.",
+  "senses": [
+   "1) (육체적·정신적) 고통·괴로움",
+   "2) 고난·수난"
+  ],
+  "etym": "라틴어 sub(아래) + ferre(나르다·견디다) -> sufferre(밑에서 짊어지다·견디다) -> suffer(겪다) + -ing. '밑에서 짐을 짊어지듯 견딤'이 핵심. ferre(나르다)는 suffer·refer(언급하다)·transfer(3541)·prefer(선호하다)·offer(제공하다)의 뿌리.",
+  "deriv": "sub(아래)+ferre(나르다) -> suffer(겪다) -> 'suffering'. '아래에서 짊어짐 -> 고통(human suffering, 인간의 고통)'. 한국 학습자 핵심: ferre(나르다) 대가족 — refer(언급)·transfer(3541)·prefer(선호)·offer(제공)·conference(회의)·referee(3276)·suffer(겪다)! ease suffering(고통을 덜다), untold suffering(이루 말할 수 없는 고통). pain(고통)·agony(극심한 고통)·misery(비참)와 유의어. 반대 comfort(안락)·pleasure(즐거움)·relief(3288, 안도).",
+  "syn": [
+   "pain(고통)",
+   "agony(극심한 고통)",
+   "misery(비참)"
+  ],
+  "anti": [
+   "comfort(안락)",
+   "pleasure(즐거움)",
+   "relief(안도)"
+  ],
+  "idiom": [
+   "human suffering(인간의 고통)",
+   "ease suffering(고통을 덜다)"
+  ],
+  "colloc": [
+   "untold suffering(이루 말할 수 없는 고통)",
+   "cause suffering(고통을 일으키다)",
+   "end suffering(고통을 끝내다)"
+  ],
+  "ex_add": "The war caused great suffering to ordinary people.  (suffering=고통)"
+ },
+ {
+  "num": "3476",
+  "hw": "sufficient",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "밑에서 충분히 받쳐 주는 -> '충분한·족한'.",
+  "senses": [
+   "1) 충분한·족한·넉넉한"
+  ],
+  "etym": "라틴어 sub(아래) + facere(만들다) -> sufficere(밑에서 받쳐 주다·충분하다) -> sufficient. '밑에서 받쳐 줄 만큼 충분한'이 핵심. facere(만들다)는 sufficient·satisfy(3342)·effect(효과)·fact(2657)·factory(공장)의 뿌리.",
+  "deriv": "sub(아래)+facere(만들다) -> sufficere(충분하다) -> 'sufficient'. '밑에서 받쳐 주는 -> 충분한(sufficient evidence, 충분한 증거)'. 한국 학습자 핵심: facere(만들다) 대가족 — satisfy(3342)·effect(효과)·fact(2657)·factory(공장)·sufficiently(3477)·suffice(충분하다)·efficient(효율적인)·deficient(부족한)! self-sufficient(자급자족하는), sufficient for(~에 충분한). enough(충분한)·adequate(적절한)·ample(충분한)과 유의어. 반대 insufficient(불충분한)·inadequate(불충분한)·deficient(부족한).",
+  "syn": [
+   "enough(충분한)",
+   "adequate(적절한)",
+   "ample(충분한)"
+  ],
+  "anti": [
+   "insufficient(불충분한)",
+   "inadequate(불충분한)",
+   "deficient(부족한)"
+  ],
+  "idiom": [
+   "sufficient for(~에 충분한)",
+   "self-sufficient(자급자족하는)"
+  ],
+  "colloc": [
+   "sufficient evidence(충분한 증거)",
+   "sufficient funds(충분한 자금)",
+   "sufficient time(충분한 시간)"
+  ],
+  "ex_add": "We don't have sufficient evidence to convict him.  (sufficient=충분한)"
+ },
+ {
+  "num": "3477",
+  "hw": "sufficiently",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "충분히 -> '충분히·족히'.",
+  "senses": [
+   "1) 충분히·족히·넉넉하게"
+  ],
+  "etym": "라틴어 sufficere(충분하다) -> sufficient(3476) + -ly. '충분할 만큼'이 핵심.",
+  "deriv": "sufficient(3476, 충분한) -> 'sufficiently'. '충분히 -> 족히(sufficiently large, 충분히 큰)'. 한국 학습자 핵심: facere(만들다) 대가족 — satisfy(3342)·effect(효과)·sufficient(3476)·suffice(충분하다)·efficient(효율적인)! sufficiently to do(~할 만큼 충분히), not sufficiently(충분히 ~하지 않은). adequately(적절히)·enough(충분히)·amply(충분히)와 유의어. 반대 insufficiently(불충분하게).",
+  "syn": [
+   "adequately(적절히)",
+   "enough(충분히)",
+   "amply(충분히)"
+  ],
+  "anti": [
+   "insufficiently(불충분하게)"
+  ],
+  "idiom": [
+   "sufficiently large(충분히 큰)",
+   "sufficiently to do(~할 만큼 충분히)"
+  ],
+  "colloc": [
+   "sufficiently strong(충분히 강한)",
+   "sufficiently prepared(충분히 준비된)",
+   "not sufficiently(충분히 ~하지 않은)"
+  ],
+  "ex_add": "The bridge is sufficiently strong to hold heavy trucks.  (sufficiently=충분히)"
+ },
+ {
+  "num": "3478",
+  "hw": "sum",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "맨 위의 총계 -> '합계·총액 / 금액 / 요약하다·합산하다'.",
+  "senses": [
+   "1) 합계·총계·총액",
+   "2) (특정) 금액·액수",
+   "3) (동사) (sum up) 요약하다; 합산하다"
+  ],
+  "etym": "라틴어 summa(맨 위·합계, summus=가장 높은) -> 'sum'. 로마인은 숫자를 위에서 아래로 더해 맨 위에 총계를 적었던 데서 '맨 위 = 총합'. summus(가장 높은)는 sum·summit(정상)·summary(요약)·summon(소환하다)의 뿌리.",
+  "deriv": "summa(맨 위·합계) -> 'sum'. '맨 위의 총계 -> 합계(the sum of, ~의 합)·금액(a large sum, 큰 금액)·요약하다(sum up, 요약하다)'. 한국 학습자 핵심: summus(가장 높은) 갈래 — summit(정상·정상 회담)·summary(요약)·summon(소환하다)! sum up(요약하다·합산하다), in sum(요컨대), a tidy sum(상당한 금액), the sum total(총합). total(총계)·amount(금액)·summarize(요약하다)와 유의어.",
+  "syn": [
+   "total(총계)",
+   "amount(금액)",
+   "summarize(요약하다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "sum up(요약하다)",
+   "in sum(요컨대)",
+   "a tidy sum(상당한 금액)"
+  ],
+  "colloc": [
+   "large sum(큰 금액)",
+   "the sum of(~의 합)",
+   "lump sum(일시불)"
+  ],
+  "ex_add": "He spent a large sum of money on the car.  (sum=금액)"
+ },
+ {
+  "num": "3479",
+  "hw": "super",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "위에 있는 -> '대단한·최고의 / (구어) 굉장히'.",
+  "senses": [
+   "1) (구어) 대단한·아주 좋은·최고의",
+   "2) (부사) 굉장히·아주",
+   "3) (접두사) 초~·~ 이상의(super-)"
+  ],
+  "etym": "라틴어 super(위에·~을 넘어) -> 'super'. '보통을 넘어 위에 있는'이 핵심. super는 superior(상급의)·supreme(최고의)·superb(최고의)·supermarket·surface(표면, super+face)의 뿌리.",
+  "deriv": "super(위에) -> 'super'. '위에 있는 -> 대단한(a super idea, 굉장한 생각)·(구어) 굉장히(super easy, 엄청 쉬운)'. 한국 학습자 핵심: super-(초~) 접두사 대가족 — superior(상급의)·supreme(최고의)·superb(최고의)·supermarket(슈퍼마켓)·supervise(감독하다)·superpower(초강대국)·surface(표면)·survive(3485 survival)! 라틴어 super는 그리스어 hyper(과도한)와 같은 뿌리. great(대단한)·excellent(훌륭한)·terrific(아주 좋은)과 유의어.",
+  "syn": [
+   "great(대단한)",
+   "excellent(훌륭한)",
+   "terrific(아주 좋은)"
+  ],
+  "anti": [
+   "terrible(형편없는)"
+  ],
+  "idiom": [
+   "a super idea(굉장한 생각)",
+   "super easy(엄청 쉬운)"
+  ],
+  "colloc": [
+   "super excited(굉장히 신난)",
+   "super fast(엄청 빠른)",
+   "look super(아주 멋져 보이다)"
+  ],
+  "ex_add": "That's a super idea! Let's do it.  (super=대단한)"
+ },
+ {
+  "num": "3480",
+  "hw": "surgeon",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "손으로 일하는 의사 -> '외과 의사'.",
+  "senses": [
+   "1) 외과 의사",
+   "2) 군의관·선의(船醫)"
+  ],
+  "etym": "그리스어 cheir(손) + ergon(일) -> kheirourgos(손으로 하는 일·시술자) -> 라틴어 chirurgia -> 고대 프랑스어 surgien -> 'surgeon'. '손으로 직접 시술하는 의사'가 핵심. ergon(일)은 surgeon·energy(에너지)·ergonomics(인체 공학)의 뿌리.",
+  "deriv": "cheir(손)+ergon(일) -> 'surgeon'. '손으로 일하는 의사 -> 외과 의사(a heart surgeon, 심장 외과 의사)'. 한국 학습자 핵심: ergon(일) 갈래 — energy(에너지, en+ergon 안의 일)·ergonomics(인체 공학)·synergy(시너지)! surgery(3481)가 명사. a plastic surgeon(성형외과 의사), a brain surgeon(뇌 전문의·아주 똑똑한 사람). 구별: surgeon(외과 의사·수술)·physician(내과 의사·약물 치료). doctor(의사)·physician(내과의)과 관련.",
+  "syn": [
+   "doctor(의사)",
+   "physician(내과의)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a heart surgeon(심장 외과 의사)",
+   "a brain surgeon(뇌 전문의)"
+  ],
+  "colloc": [
+   "plastic surgeon(성형외과 의사)",
+   "skilled surgeon(숙련된 외과의)",
+   "consult a surgeon(외과의와 상담하다)"
+  ],
+  "ex_add": "The surgeon performed a complex operation.  (surgeon=외과 의사)"
+ },
+ {
+  "num": "3481",
+  "hw": "surgery",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "손으로 하는 시술 -> '수술 / 외과 / (영) 진료소'.",
+  "senses": [
+   "1) 수술",
+   "2) 외과(의학 분야)",
+   "3) (영) 진료소·진료 시간"
+  ],
+  "etym": "그리스어 cheir(손) + ergon(일) -> chirurgia(손 시술) -> 'surgery'. '손으로 직접 하는 시술'이 핵심.",
+  "deriv": "cheir(손)+ergon(일) -> 'surgery'. '손 시술 -> 수술(undergo surgery, 수술을 받다)·외과·(영) 진료소'. 한국 학습자 핵심: surgeon(3480)·surgery·surgical(외과의)이 가족. ergon(일) 갈래 — energy·ergonomics·surgeon(3480)! have/undergo surgery(수술을 받다), major surgery(대수술), keyhole surgery(최소 침습 수술). 미국 surgery(수술) vs 영국 surgery(동네 의원). operation(수술)과 유의어.",
+  "syn": [
+   "operation(수술)",
+   "procedure(시술)"
+  ],
+  "anti": [],
+  "idiom": [
+   "undergo surgery(수술을 받다)",
+   "major surgery(대수술)"
+  ],
+  "colloc": [
+   "have surgery(수술을 받다)",
+   "heart surgery(심장 수술)",
+   "plastic surgery(성형수술)"
+  ],
+  "ex_add": "She needs surgery to repair her knee.  (surgery=수술)"
+ },
+ {
+  "num": "3482",
+  "hw": "surround",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "물결처럼 빙 두르다 -> '둘러싸다·에워싸다'.",
+  "senses": [
+   "1) 둘러싸다·에워싸다·포위하다",
+   "2) (어떤 상황이) ~을 둘러싸고 있다"
+  ],
+  "etym": "라틴어 super(위로·넘쳐) + unda(물결) -> superundare(넘쳐 흐르다) -> 고대 프랑스어 suronder -> 'surround'. 본래 '물이 넘쳐 빙 두름'에서 '둘러쌈'으로. unda(물결)는 surround·abundant(2354)·undulate(물결치다)의 뿌리.",
+  "deriv": "super(넘쳐)+unda(물결) -> 'surround'. '물결처럼 빙 두름 -> 둘러싸다(surrounded by trees, 나무로 둘러싸인)'. 한국 학습자 핵심: unda(물결) 갈래 — abundant(2354, 넘치는)·abundance(2354)·undulate(물결치다)·redundant(불필요한)! be surrounded by(~에 둘러싸이다), surround sound(입체 음향), surrounding(3483, 주위의). encircle(에워싸다)·enclose(둘러싸다)·encompass(아우르다)와 유의어.",
+  "syn": [
+   "encircle(에워싸다)",
+   "enclose(둘러싸다)",
+   "encompass(아우르다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "be surrounded by(~에 둘러싸이다)",
+   "surround sound(입체 음향)"
+  ],
+  "colloc": [
+   "surrounded by trees(나무로 둘러싸인)",
+   "surround the building(건물을 에워싸다)",
+   "controversy surrounds(논란이 ~을 둘러싸다)"
+  ],
+  "ex_add": "The house is surrounded by a tall fence.  (surround=둘러싸다)"
+ },
+ {
+  "num": "3483",
+  "hw": "surrounding",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "빙 두르고 있는 -> '주위의·인근의 / (명사) 환경(surroundings)'.",
+  "senses": [
+   "1) 주위의·인근의·둘러싼",
+   "2) (surroundings) 환경·주변 상황"
+  ],
+  "etym": "라틴어 super + unda(물결) -> surround(3482)의 현재분사형 형용사. '빙 두르고 있는'이 핵심.",
+  "deriv": "surround(3482, 둘러싸다) -> 'surrounding'. '빙 두르고 있는 -> 주위의(the surrounding area, 인근 지역)·(surroundings) 환경'. 한국 학습자 핵심: unda(물결) 갈래 — surround(3482)·abundant(2354)·undulate(물결치다)! the surrounding countryside(주변 시골), in beautiful surroundings(아름다운 환경 속에서). 주의: surroundings는 항상 복수형으로 '환경'. neighboring(인근의)·adjacent(인접한)·environment(환경)과 유의어.",
+  "syn": [
+   "neighboring(인근의)",
+   "adjacent(인접한)",
+   "nearby(가까운)"
+  ],
+  "anti": [
+   "distant(먼)"
+  ],
+  "idiom": [
+   "the surrounding area(인근 지역)",
+   "in beautiful surroundings(아름다운 환경 속에서)"
+  ],
+  "colloc": [
+   "surrounding countryside(주변 시골)",
+   "surrounding villages(인근 마을들)",
+   "natural surroundings(자연환경)"
+  ],
+  "ex_add": "People came from the surrounding villages to the market.  (surrounding=인근의)"
+ },
+ {
+  "num": "3484",
+  "hw": "survey",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "위에서 내려다봄 -> '(설문) 조사 / 측량 / 둘러보다·조사하다'.",
+  "senses": [
+   "1) (설문) 조사·여론 조사",
+   "2) 측량; (전체적인) 개관·검토",
+   "3) (동사) 살펴보다·둘러보다; 조사·측량하다"
+  ],
+  "etym": "라틴어 super(위에서) + videre(보다) -> 고대 프랑스어 surveeir(위에서 내려다보다·감독하다) -> 'survey'. '위에서 전체를 내려다봄'이 핵심. videre(보다)는 survey·vision(시야)·supervise(감독)·evident(명백한)·revision(3315)의 뿌리.",
+  "deriv": "super(위)+videre(보다) -> 'survey'. '위에서 내려다봄 -> (전체를 살피는) 조사(conduct a survey, 설문 조사를 하다)·측량·둘러보다'. 한국 학습자 핵심: videre(보다) 대가족 — vision(시야)·supervise(감독)·evident(명백)·revision(3315)·provide(제공)·visible(보이는)·view(전망)! conduct/carry out a survey(조사를 실시하다), a survey of(~에 대한 조사). poll(여론 조사)·questionnaire(3246, 설문지)·examine(조사하다)과 유의어.",
+  "syn": [
+   "poll(여론 조사)",
+   "examine(조사하다)",
+   "review(검토하다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "conduct a survey(설문 조사를 하다)",
+   "a survey of(~에 대한 조사)"
+  ],
+  "colloc": [
+   "carry out a survey(조사를 실시하다)",
+   "online survey(온라인 설문)",
+   "survey results(조사 결과)"
+  ],
+  "ex_add": "A recent survey showed that most people support the plan.  (survey=조사)"
+ },
+ {
+  "num": "3485",
+  "hw": "survival",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "넘어서까지 살아남음 -> '생존·살아남음 / 잔존물'.",
+  "senses": [
+   "1) 생존·살아남음",
+   "2) (위기·기간을) 견뎌 냄·존속",
+   "3) (옛것의) 잔존·유물"
+  ],
+  "etym": "라틴어 super(넘어) + vivere(살다) -> survive(살아남다) + -al. '남들·시련을 넘어서까지 삶'이 핵심. vivere(살다)는 survival·survive·revive(되살리다)·vivid(생생한)·victuals(식량)의 뿌리.",
+  "deriv": "super(넘어)+vivere(살다) -> survive -> 'survival'. '넘어서까지 살아남음 -> 생존(the survival of the fittest, 적자생존)'. 한국 학습자 핵심: vivere(살다) 갈래 — survive·revive(되살리다)·vivid(생생한)·vital(필수적인)·survivor(3486)! the survival of the fittest(적자생존, 다윈), a survival kit(생존 키트), a matter of survival(생존이 걸린 문제), survival skills(생존 기술). endurance(인내)·continuation(존속)과 유의어. 반대 death(죽음)·extinction(멸종).",
+  "syn": [
+   "endurance(인내)",
+   "continuation(존속)",
+   "persistence(지속)"
+  ],
+  "anti": [
+   "death(죽음)",
+   "extinction(멸종)"
+  ],
+  "idiom": [
+   "the survival of the fittest(적자생존)",
+   "a matter of survival(생존이 걸린 문제)"
+  ],
+  "colloc": [
+   "survival rate(생존율)",
+   "survival skills(생존 기술)",
+   "chance of survival(생존 가능성)"
+  ],
+  "ex_add": "Food and water are essential for survival.  (survival=생존)"
+ },
+ {
+  "num": "3486",
+  "hw": "survivor",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "넘어서까지 살아남은 사람 -> '생존자 / 역경을 이겨 낸 사람'.",
+  "senses": [
+   "1) 생존자·살아남은 사람",
+   "2) (역경을) 꿋꿋이 이겨 내는 사람",
+   "3) (법) 유족·잔존자"
+  ],
+  "etym": "라틴어 super(넘어) + vivere(살다) -> survive + -or(사람). '시련을 넘어 살아남은 사람'이 핵심.",
+  "deriv": "survive(살아남다) -> 'survivor'. '살아남은 사람 -> 생존자(the only survivor, 유일한 생존자)'. 한국 학습자 핵심: vivere(살다) 갈래 — survive·survival(3485)·revive(되살리다)·vivid(생생한)·vital(필수적인)! a sole survivor(유일한 생존자), a born survivor(타고난 생존가·역경을 잘 이겨 내는 사람). 비유로 '역경을 잘 견디는 사람'. casualty(사상자)와 대조. 반대 victim(2585 부근 희생자)·casualty(사상자).",
+  "syn": [
+   "endurer(견뎌 내는 사람)"
+  ],
+  "anti": [
+   "victim(희생자)",
+   "casualty(사상자)"
+  ],
+  "idiom": [
+   "the only survivor(유일한 생존자)",
+   "a born survivor(타고난 생존가)"
+  ],
+  "colloc": [
+   "sole survivor(유일한 생존자)",
+   "cancer survivor(암 생존자)",
+   "rescue survivors(생존자를 구조하다)"
+  ],
+  "ex_add": "She was the only survivor of the plane crash.  (survivor=생존자)"
+ },
+ {
+  "num": "3487",
+  "hw": "suspect",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "아래에서 올려다보며 미심쩍어함 -> '의심하다·짐작하다 / 용의자'.",
+  "senses": [
+   "1) (나쁜 일을) 의심하다·수상히 여기다",
+   "2) (~이 사실일 거라고) 짐작하다·생각하다",
+   "3) (n.) 용의자; (adj.) 의심스러운"
+  ],
+  "etym": "라틴어 sub(아래) + specere(보다) -> suspicere(밑에서 올려다보다·미심쩍어하다) -> 'suspect'. '몰래 밑에서 올려다보며 수상히 여김'이 핵심. specere(보다)는 suspect·spectator(3423)·inspect(점검)·respect(존경)·perspective(3175)의 뿌리.",
+  "deriv": "sub(아래)+specere(보다) -> 'suspect'. '밑에서 올려다보며 미심쩍어함 -> 의심하다(suspect foul play, 부정을 의심하다)·짐작하다(I suspect he's lying, 거짓말 같다)·용의자'. 한국 학습자 핵심: specere(보다) 대가족 — spectator(3423)·inspect(점검)·respect(존경)·perspective(3175)·suspicion(의심)·suspicious(의심스러운)·prospect(3222)! a prime suspect(유력 용의자), suspect that절(~라고 짐작하다). doubt(의심하다)·distrust(불신하다)와 유의어. 반대 trust(신뢰하다)·believe(믿다).",
+  "syn": [
+   "doubt(의심하다)",
+   "distrust(불신하다)",
+   "presume(추정하다)"
+  ],
+  "anti": [
+   "trust(신뢰하다)",
+   "believe(믿다)"
+  ],
+  "idiom": [
+   "a prime suspect(유력 용의자)",
+   "suspect foul play(부정을 의심하다)"
+  ],
+  "colloc": [
+   "main suspect(주요 용의자)",
+   "suspect that(~라고 짐작하다)",
+   "strongly suspect(강하게 의심하다)"
+  ],
+  "ex_add": "Police suspect that the fire was started deliberately.  (suspect=의심하다)"
+ },
+ {
+  "num": "3488",
+  "hw": "suspend",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "아래로 매달다 -> '매달다·중단하다 / 정직·정학시키다'.",
+  "senses": [
+   "1) (공중에) 매달다·걸다",
+   "2) (일시) 중단하다·보류하다·정지시키다",
+   "3) (직무·학업에서) 정직·정학시키다"
+  ],
+  "etym": "라틴어 sub(아래) + pendere(매달다·달려 있다) -> suspendere(매달다) -> 'suspend'. '아래로 매닮 -> 공중에 떠 멈춘 상태'가 핵심. pendere(매달다)는 suspend·depend(의존하다)·pending(미결의)·pendant(펜던트)·suspense(긴장)의 뿌리.",
+  "deriv": "sub(아래)+pendere(매달다) -> 'suspend'. '아래로 매닮 -> 매달다·(허공에 멈춘 듯) 중단하다(suspend a service, 서비스를 중단하다)·(직무에서 떼어 매달아 두듯) 정직시키다'. 한국 학습자 핵심: pendere(매달다) 대가족 — depend(의존)·pending(미결)·pendant(펜던트)·suspense(긴장감)·suspension(정지·서스펜션)·independent(2680)·appendix(부록)! suspend payment(지불을 정지하다), be suspended from school(정학당하다). hang(매달다)·postpone(연기하다)·halt(중단하다)와 유의어. 반대 resume(재개하다)·continue(계속하다).",
+  "syn": [
+   "hang(매달다)",
+   "postpone(연기하다)",
+   "halt(중단하다)"
+  ],
+  "anti": [
+   "resume(재개하다)",
+   "continue(계속하다)"
+  ],
+  "idiom": [
+   "suspend payment(지불을 정지하다)",
+   "suspended from school(정학당한)"
+  ],
+  "colloc": [
+   "suspend a service(서비스를 중단하다)",
+   "suspend operations(운영을 중단하다)",
+   "temporarily suspend(일시 중단하다)"
+  ],
+  "ex_add": "The match was suspended because of heavy rain.  (suspend=중단하다)"
+ },
+ {
+  "num": "3489",
+  "hw": "sustainable",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "밑에서 받쳐 지탱할 수 있는 -> '지속 가능한 / 견딜 만한'.",
+  "senses": [
+   "1) (환경) 지속 가능한·환경친화적인",
+   "2) (장기적으로) 유지 가능한·지탱할 수 있는"
+  ],
+  "etym": "라틴어 sub(아래) + tenere(잡다·붙들다) -> sustinere(밑에서 받치다·지탱하다) -> sustain(지탱하다) + -able. '밑에서 받쳐 계속 지탱할 수 있는'이 핵심. tenere(잡다)는 sustain·retain(3311)·contain(담다)·maintain(유지하다)·obtain(얻다)의 뿌리.",
+  "deriv": "sub(아래)+tenere(잡다) -> sustain(지탱하다) -> 'sustainable'. '밑에서 받쳐 지탱할 수 있는 -> 지속 가능한(sustainable development, 지속 가능한 발전)'. 한국 학습자 핵심: tenere(잡다) 대가족 — retain(3311)·contain(담다)·maintain(유지)·obtain(얻다)·detain(억류)·sustainability(지속 가능성)·sustain(지탱)! sustainable energy(지속 가능한 에너지), environmentally sustainable(환경적으로 지속 가능한). viable(실행 가능한)·renewable(재생 가능한)·lasting(지속되는)과 유의어. 반대 unsustainable(지속 불가능한).",
+  "syn": [
+   "viable(실행 가능한)",
+   "renewable(재생 가능한)",
+   "lasting(지속되는)"
+  ],
+  "anti": [
+   "unsustainable(지속 불가능한)"
+  ],
+  "idiom": [
+   "sustainable development(지속 가능한 발전)",
+   "environmentally sustainable(환경적으로 지속 가능한)"
+  ],
+  "colloc": [
+   "sustainable energy(지속 가능한 에너지)",
+   "sustainable growth(지속 가능한 성장)",
+   "sustainable agriculture(지속 가능한 농업)"
+  ],
+  "ex_add": "We need a sustainable way to manage our resources.  (sustainable=지속 가능한)"
+ },
+ {
+  "num": "3490",
+  "hw": "swallow",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "삼키다 -> '삼키다 / 곧이듣다·억누르다 / (제비)'.",
+  "senses": [
+   "1) (음식을) 삼키다·들이켜다",
+   "2) (말을) 곧이듣다·(감정을) 억누르다·참다",
+   "3) (n.) 제비(새); 한 입에 삼킨 양"
+  ],
+  "etym": "고대 영어 swelgan(삼키다). 게르만어 계열로 '목구멍으로 넘김'이 핵심. (새 '제비'는 고대 영어 swealwe로 별개 어원이나 철자가 같아짐.)",
+  "deriv": "swelgan(삼키다) -> 'swallow'. '삼킴 -> (음식을) 삼키다·(거짓말을) 곧이듣다(swallow a lie, 거짓말을 곧이듣다)·(감정을) 억누르다(swallow one's pride, 자존심을 굽히다)'. 한국 학습자 핵심: swallow one's pride(자존심을 굽히다), a bitter pill to swallow(받아들이기 힘든 일), One swallow doesn't make a summer(제비 한 마리가 왔다고 여름이 온 건 아니다·속단 금물), hard to swallow(믿기 어려운). gulp(꿀꺽 삼키다)·devour(게걸스럽게 먹다)와 유의어. 반대 spit out(뱉다).",
+  "syn": [
+   "gulp(꿀꺽 삼키다)",
+   "devour(게걸스럽게 먹다)",
+   "ingest(섭취하다)"
+  ],
+  "anti": [
+   "spit out(뱉다)"
+  ],
+  "idiom": [
+   "swallow one's pride(자존심을 굽히다)",
+   "a bitter pill to swallow(받아들이기 힘든 일)",
+   "hard to swallow(믿기 어려운)"
+  ],
+  "colloc": [
+   "swallow food(음식을 삼키다)",
+   "swallow hard(침을 꿀꺽 삼키다)",
+   "swallow a lie(거짓말을 곧이듣다)"
+  ],
+  "ex_add": "It hurts to swallow when I have a sore throat.  (swallow=삼키다)"
+ },
+ {
+  "num": "3491",
+  "hw": "swear",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "엄숙히 말하다 -> '맹세하다·선서하다 / 욕하다'.",
+  "senses": [
+   "1) 맹세하다·다짐하다·장담하다",
+   "2) 선서하다·서약하다",
+   "3) 욕을 하다·악담하다"
+  ],
+  "etym": "고대 영어 swerian(맹세하다·엄숙히 말하다). 게르만어 swar-(말하다)로 '엄숙하게 단언함'이 핵심. answer(대답, and+swerian)와 한 뿌리.",
+  "deriv": "swerian(맹세하다) -> 'swear'. '엄숙히 말함 -> 맹세하다(swear an oath, 선서하다)·(거친 말을 내뱉다 ->) 욕하다(swear words, 욕설)'. 한국 학습자 핵심: 불규칙 swear-swore-sworn! swear by(~을 굳게 믿다·맹신하다), swear in(취임 선서를 시키다), swear off(~을 끊겠다고 맹세하다), a swear word(욕설), I swear(정말이야·맹세해). vow(맹세하다)·pledge(서약하다)·curse(욕하다)와 유의어.",
+  "syn": [
+   "vow(맹세하다)",
+   "pledge(서약하다)",
+   "curse(욕하다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "swear by(~을 굳게 믿다)",
+   "swear in(취임 선서를 시키다)",
+   "a swear word(욕설)"
+  ],
+  "colloc": [
+   "swear an oath(선서하다)",
+   "swear loyalty(충성을 맹세하다)",
+   "swear in public(공공장소에서 욕하다)"
+  ],
+  "ex_add": "I swear I locked the door before I left.  (swear=맹세하다)"
+ }
+]

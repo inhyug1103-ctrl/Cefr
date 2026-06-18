@@ -1,0 +1,1542 @@
+[
+ {
+  "num": "3492",
+  "hw": "sweep",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "쓸어 내다 -> '쓸다·휩쓸다 / 휩쓸고 지나가다 / 압승하다'.",
+  "senses": [
+   "1) (비로) 쓸다·청소하다",
+   "2) (바람·물결이) 휩쓸다·휩쓸고 가다",
+   "3) (선거·경기에서) 휩쓸다·압승하다"
+  ],
+  "etym": "고대 영어 swapan(휩쓸다·쓸다). 게르만어 계열로 '한 번에 죽 쓸어 냄'이 핵심.",
+  "deriv": "swapan(쓸다) -> 'sweep'. '쓸어 냄 -> (바닥을) 쓸다·(폭풍이) 휩쓸다(a storm swept the coast, 폭풍이 해안을 휩쓸었다)·(선거를) 휩쓸다'. 한국 학습자 핵심: 불규칙 sweep-swept-swept! sweep under the rug/carpet(은폐하다·덮어 두다), sweep someone off their feet(첫눈에 반하게 하다), make a clean sweep(싹쓸이하다), be swept away(휩쓸려 가다·매료되다). brush(쓸다)·clear(치우다)와 유의어.",
+  "syn": [
+   "brush(쓸다)",
+   "clear(치우다)",
+   "whisk(휙 쓸다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "sweep under the rug(은폐하다)",
+   "sweep someone off their feet(첫눈에 반하게 하다)",
+   "make a clean sweep(싹쓸이하다)"
+  ],
+  "colloc": [
+   "sweep the floor(바닥을 쓸다)",
+   "sweep across(휩쓸고 지나가다)",
+   "sweep to victory(압승하다)"
+  ],
+  "ex_add": "She swept the leaves off the path.  (sweep=쓸다)"
+ },
+ {
+  "num": "3493",
+  "hw": "switch",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "휙 바꾸다 -> '바꾸다·전환하다 / 스위치·전환'.",
+  "senses": [
+   "1) 바꾸다·전환하다·교체하다",
+   "2) (스위치를) 켜다/끄다(switch on/off)",
+   "3) (n.) 스위치; 전환·변경"
+  ],
+  "etym": "중세 영어 swich(가느다란 나뭇가지·회초리) <- 저지 독일어 swukse. 회초리를 '휙' 휘두르는 데서 '휙 바꿈'으로 발전 추정. '휙 전환함'이 핵심.",
+  "deriv": "swich(회초리) -> 'switch'. '휙 바꿈 -> 바꾸다(switch jobs, 직업을 바꾸다)·(스위치로) 켜다/끄다·(n.) 스위치'. 한국 학습자 핵심: switch on/off(켜다/끄다), switch over(전환하다·채널을 돌리다), switch to(~로 바꾸다), a bait and switch(미끼 상술), asleep at the switch(직무 태만으로). change(바꾸다)·swap(맞바꾸다)·shift(3385, 전환)와 유의어.",
+  "syn": [
+   "change(바꾸다)",
+   "swap(맞바꾸다)",
+   "shift(전환)"
+  ],
+  "anti": [],
+  "idiom": [
+   "switch on/off(켜다/끄다)",
+   "switch over(전환하다)",
+   "a bait and switch(미끼 상술)"
+  ],
+  "colloc": [
+   "switch jobs(직업을 바꾸다)",
+   "switch sides(편을 바꾸다)",
+   "light switch(전등 스위치)"
+  ],
+  "ex_add": "Could you switch off the lights before you leave?  (switch off=끄다)"
+ },
+ {
+  "num": "3494",
+  "hw": "sympathetic",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "함께 느끼는 -> '동정적인·공감하는 / 호의적인'.",
+  "senses": [
+   "1) 동정적인·측은히 여기는",
+   "2) 공감하는·이해심 있는",
+   "3) 호의적인·우호적인(sympathetic to ~)"
+  ],
+  "etym": "그리스어 syn(함께) + pathos(감정·고통) -> sympathetikos -> 'sympathetic'. '남의 감정을 함께 느끼는'이 핵심. pathos(감정·고통)는 sympathy(3495)·empathy(공감)·pathetic(애처로운)·apathy(무관심)·passion(열정)의 뿌리.",
+  "deriv": "syn(함께)+pathos(감정) -> 'sympathetic'. '함께 느끼는 -> 동정적인(a sympathetic listener, 공감해 주는 청자)·호의적인(sympathetic to the cause, 그 대의에 호의적인)'. 한국 학습자 핵심: pathos(감정·고통) 대가족 — sympathy(3495)·empathy(공감)·pathetic(애처로운)·apathy(무관심)·pathology(병리학)! syn(함께) 갈래 — synonym(동의어)·sync(동기화)·symphony(교향곡)·system. compassionate(연민 어린)·understanding(이해심 있는)과 유의어. 반대 unsympathetic(냉담한)·indifferent(무관심한).",
+  "syn": [
+   "compassionate(연민 어린)",
+   "understanding(이해심 있는)",
+   "supportive(지지하는)"
+  ],
+  "anti": [
+   "unsympathetic(냉담한)",
+   "indifferent(무관심한)",
+   "callous(냉담한)"
+  ],
+  "idiom": [
+   "a sympathetic listener(공감해 주는 청자)",
+   "sympathetic to(~에 호의적인)"
+  ],
+  "colloc": [
+   "sympathetic ear(귀 기울여 들어 줌)",
+   "deeply sympathetic(깊이 동정하는)",
+   "sympathetic response(공감 어린 반응)"
+  ],
+  "ex_add": "She gave me a sympathetic smile.  (sympathetic=동정적인)"
+ },
+ {
+  "num": "3495",
+  "hw": "sympathy",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "함께 느끼는 마음 -> '동정·연민 / 공감·지지'.",
+  "senses": [
+   "1) 동정·연민·측은히 여김",
+   "2) 공감·이해; (sympathies) 조의",
+   "3) (사상·주장에 대한) 지지·찬동"
+  ],
+  "etym": "그리스어 syn(함께) + pathos(감정) -> sympatheia(함께 느낌) -> 'sympathy'. '남의 감정을 함께 느낌'이 핵심.",
+  "deriv": "syn(함께)+pathos(감정) -> 'sympathy'. '함께 느끼는 마음 -> 동정(express sympathy, 위로를 표하다)·공감·지지(in sympathy with, ~에 공감하여)'. 한국 학습자 핵심: pathos(감정) 대가족 — sympathetic(3494)·empathy(공감)·pathetic(애처로운)·apathy(무관심)! 구별: sympathy(동정·측은히 여김, 위에서 내려다보는 느낌) vs empathy(공감·역지사지로 함께 느낌)! my deepest sympathies(깊은 애도), have sympathy for(~을 동정하다). compassion(연민)·pity(동정)·condolence(조의)와 유의어. 반대 indifference(무관심)·cruelty(잔인함).",
+  "syn": [
+   "compassion(연민)",
+   "pity(동정)",
+   "condolence(조의)"
+  ],
+  "anti": [
+   "indifference(무관심)",
+   "cruelty(잔인함)"
+  ],
+  "idiom": [
+   "express sympathy(위로를 표하다)",
+   "in sympathy with(~에 공감하여)",
+   "my deepest sympathies(깊은 애도)"
+  ],
+  "colloc": [
+   "have sympathy for(~을 동정하다)",
+   "show sympathy(동정을 보이다)",
+   "public sympathy(대중의 공감)"
+  ],
+  "ex_add": "I have a lot of sympathy for working parents.  (sympathy=동정)"
+ },
+ {
+  "num": "3496",
+  "hw": "tag",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "매달린 꼬리표 -> '꼬리표·태그 / 꼬리표를 붙이다·태그하다'.",
+  "senses": [
+   "1) 꼬리표·이름표·가격표",
+   "2) (SNS) 태그; (놀이) 술래잡기",
+   "3) (동사) 꼬리표를 붙이다·태그하다·따라다니다"
+  ],
+  "etym": "중세 영어 tagge(매달린 작은 조각). 스칸디나비아어 계열로 '대롱대롱 매달린 표'가 핵심.",
+  "deriv": "tagge(매달린 조각) -> 'tag'. '매달린 꼬리표 -> 가격표(a price tag, 가격표)·(SNS) 태그·(동사) 꼬리표를 붙이다(tag a photo, 사진에 태그하다)'. 한국 학습자 핵심: a price tag(정가·가격표), a name tag(명찰), tag along(졸졸 따라다니다), a question tag(부가 의문문, 문법), a dog tag(군번줄). label(라벨)·sticker(스티커)·mark(표시하다)와 유의어.",
+  "syn": [
+   "label(라벨)",
+   "sticker(스티커)",
+   "mark(표시하다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a price tag(가격표)",
+   "tag along(졸졸 따라다니다)",
+   "a question tag(부가 의문문)"
+  ],
+  "colloc": [
+   "name tag(명찰)",
+   "price tag(가격표)",
+   "tag a photo(사진에 태그하다)"
+  ],
+  "ex_add": "The price tag says it costs fifty dollars.  (tag=가격표)"
+ },
+ {
+  "num": "3497",
+  "hw": "tale",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "들려주는 이야기 -> '이야기·설화 / 꾸며 낸 말'.",
+  "senses": [
+   "1) 이야기·설화·전설",
+   "2) (모험·경험의) 이야기담",
+   "3) 꾸며 낸 이야기·험담·거짓말"
+  ],
+  "etym": "고대 영어 talu(이야기·말함). tell(말하다)과 한 뿌리(게르만어 tal-=말하다·헤아리다). '입으로 들려주는 이야기'가 핵심.",
+  "deriv": "talu(이야기) -> 'tale'. '들려주는 이야기 -> 설화(a fairy tale, 동화)·(꾸며 낸) 이야기'. 한국 학습자 핵심: tell(말하다)·tale·talk(이야기하다)이 한 뿌리! a fairy tale(동화), an old wives' tale(미신·근거 없는 옛말), tell tales(고자질하다·거짓말하다), a tall tale(허풍), a cautionary tale(교훈적 일화). story(이야기)·legend(전설)·narrative(이야기)와 유의어.",
+  "syn": [
+   "story(이야기)",
+   "legend(전설)",
+   "narrative(이야기)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a fairy tale(동화)",
+   "an old wives' tale(미신)",
+   "tell tales(고자질하다)"
+  ],
+  "colloc": [
+   "folk tale(민담)",
+   "a tall tale(허풍)",
+   "tales of adventure(모험담)"
+  ],
+  "ex_add": "Grandmother told us a tale about a brave knight.  (tale=이야기)"
+ },
+ {
+  "num": "3498",
+  "hw": "tank",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "물을 담는 큰 통 -> '탱크·물통 / 전차'.",
+  "senses": [
+   "1) (물·기름·가스의) 탱크·통",
+   "2) 수조·어항",
+   "3) (군용) 전차·탱크"
+  ],
+  "etym": "포르투갈어 tanque(저수지) <- 인도 구자라트어 tankh(저수지)에서 영향. 영국 동인도회사가 인도의 물 저장통을 부르던 데서. '물을 담는 큰 통'이 핵심. 군용 '전차'는 1차 대전 때 기밀 위장 암호명 'tank'에서.",
+  "deriv": "tankh(저수지) -> 'tank'. '큰 물통 -> 탱크·(군용) 전차'. 한국 학습자 핵심: 군용 전차 tank는 1차 대전 비밀 개발 때 '물탱크'로 위장한 암호명이 굳어진 것! a fish tank(어항), a fuel/gas tank(연료 탱크), a think tank(싱크탱크·연구소), a tank top(민소매 셔츠). 동사 tank=폭락하다·완패하다(구어). container(용기)·reservoir(저수조)와 유의어.",
+  "syn": [
+   "container(용기)",
+   "reservoir(저수조)",
+   "cistern(물탱크)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a think tank(싱크탱크)",
+   "a fish tank(어항)"
+  ],
+  "colloc": [
+   "fuel tank(연료 탱크)",
+   "water tank(물탱크)",
+   "tank top(민소매 셔츠)"
+  ],
+  "ex_add": "The car's fuel tank was almost empty.  (tank=탱크)"
+ },
+ {
+  "num": "3499",
+  "hw": "tap",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "톡톡 두드리다 -> '톡톡 두드리다 / 수도꼭지 / 끌어 쓰다·도청하다'.",
+  "senses": [
+   "1) 가볍게 톡톡 두드리다·치다",
+   "2) (영) 수도꼭지·마개",
+   "3) (자원을) 끌어 쓰다·활용하다; 도청하다"
+  ],
+  "etym": "두 어원이 합류: (1) 고대 프랑스어 taper(가볍게 치다, 의성어) -> '톡톡 침'; (2) 고대 영어 tæppa(통의 마개) -> '수도꼭지'. '가볍게 두드림 / 액체를 뽑는 마개'가 핵심.",
+  "deriv": "taper(톡톡 치다) / tæppa(마개) -> 'tap'. '톡톡 두드리다·(마개를 열어) 액체를 뽑다 -> (자원을) 끌어 쓰다(tap into resources, 자원을 활용하다)·도청하다(tap a phone, 전화를 도청하다)'. 한국 학습자 핵심: tap water(수돗물), tap into(~을 활용하다·끌어내다), on tap(언제든 쓸 수 있는·생맥주로 파는), tap dancing(탭댄스). 영국 tap = 미국 faucet(수도꼭지). pat(토닥이다)·faucet(수도꼭지)과 유의어.",
+  "syn": [
+   "pat(토닥이다)",
+   "faucet(수도꼭지)",
+   "knock(두드리다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "tap into(~을 활용하다)",
+   "on tap(언제든 쓸 수 있는)",
+   "tap water(수돗물)"
+  ],
+  "colloc": [
+   "tap on the shoulder(어깨를 톡톡 치다)",
+   "turn on the tap(수도꼭지를 틀다)",
+   "tap a phone(전화를 도청하다)"
+  ],
+  "ex_add": "She tapped me gently on the shoulder.  (tap=톡톡 두드리다)"
+ },
+ {
+  "num": "3500",
+  "hw": "target",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "겨누는 작은 방패 -> '목표·표적 / 겨냥하다·겨누다'.",
+  "senses": [
+   "1) 목표·목표치",
+   "2) 표적·과녁·대상",
+   "3) (동사) 겨냥하다·표적으로 삼다"
+  ],
+  "etym": "고대 프랑스어 targette(작은 방패), targe(방패)의 축소형. 활쏘기에서 방패를 과녁으로 쓰던 데서 '표적'으로. '겨누는 작은 방패(과녁)'가 핵심.",
+  "deriv": "targe(방패) -> 'target'. '과녁 -> 목표(meet the target, 목표를 달성하다)·표적·겨냥하다(target customers, 고객을 겨냥하다)'. 한국 학습자 핵심: on target(목표에 정확한·예정대로), hit the target(목표를 달성하다·과녁을 맞히다), a target audience(목표 고객층), a soft/easy target(쉬운 표적), a moving target(움직이는 표적). goal(목표)·aim(목표)·objective(목표)와 유의어.",
+  "syn": [
+   "goal(목표)",
+   "aim(목표)",
+   "objective(목표)"
+  ],
+  "anti": [],
+  "idiom": [
+   "on target(목표에 정확한)",
+   "hit the target(목표를 달성하다)",
+   "an easy target(쉬운 표적)"
+  ],
+  "colloc": [
+   "meet the target(목표를 달성하다)",
+   "target audience(목표 고객층)",
+   "set a target(목표를 세우다)"
+  ],
+  "ex_add": "The company met its sales target for the year.  (target=목표)"
+ },
+ {
+  "num": "3501",
+  "hw": "tear",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "찢다 / 눈물 -> '찢다·뜯다·헤집다 / 눈물'.",
+  "senses": [
+   "1) [tɛər] (동사) 찢다·뜯다·잡아채다; (n.) 찢어진 곳",
+   "2) [tɛər] (마음을) 갈가리 찢어 놓다; (tear along) 질주하다",
+   "3) [tɪər] (n.) 눈물"
+  ],
+  "etym": "(1) 찢다: 고대 영어 teran(찢다, 게르만어 der-=찢다). (2) 눈물: 고대 영어 tēar(눈물). 철자가 같지만 발음·뜻이 다른 별개 단어. '찢음 / 눈물'이 핵심.",
+  "deriv": "teran(찢다) / tēar(눈물) -> 'tear'. '찢다[테어]·눈물[티어]'. 한국 학습자 핵심: 동철이의어·이발음! tear[테어]=찢다(불규칙 tear-tore-torn), tear[티어]=눈물! tear up(갈가리 찢다·왈칵 눈물이 나다), tear apart(갈가리 찢다), in tears(울며), burst into tears(울음을 터뜨리다), wear and tear(마모·소모), crocodile tears(거짓 눈물). rip(찢다)·shred(갈가리 찢다)와 유의어(찢다 뜻).",
+  "syn": [
+   "rip(찢다)",
+   "shred(갈가리 찢다)",
+   "rend(잡아 찢다)"
+  ],
+  "anti": [
+   "mend(꿰매다)",
+   "repair(수선하다)"
+  ],
+  "idiom": [
+   "tear up(갈가리 찢다)",
+   "burst into tears(울음을 터뜨리다)",
+   "wear and tear(마모)"
+  ],
+  "colloc": [
+   "tear a paper(종이를 찢다)",
+   "tears of joy(기쁨의 눈물)",
+   "in tears(울며)"
+  ],
+  "ex_add": "Be careful not to tear the page.  (tear=찢다)"
+ },
+ {
+  "num": "3502",
+  "hw": "technological",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "기술의 학문에 관한 -> '기술의·기술적인·과학 기술의'.",
+  "senses": [
+   "1) 기술의·기술적인",
+   "2) 과학 기술과 관련된"
+  ],
+  "etym": "그리스어 techne(기술·기예) + logos(학문·말) -> technology(기술) + -ical. '기술에 관한 학문의'가 핵심. techne(기술)는 technology·technique(기법)·technical(기술의)·technician(기술자)의 뿌리; logos(학문)는 -logy로 수많은 학문명을 이룸.",
+  "deriv": "techne(기술)+logos(학문) -> technology -> 'technological'. '기술의 -> 과학 기술의(technological advances, 기술 발전)'. 한국 학습자 핵심: techne(기술) 갈래 — technique(기법)·technical(기술의)·technician(기술자)·technology(기술)! logos(학문) 갈래 — biology(생물학)·psychology(3184)·geology(지질학) 등 -logy! technological progress/innovation(기술 진보/혁신). scientific(과학적인)·high-tech(첨단의)와 유의어.",
+  "syn": [
+   "scientific(과학적인)",
+   "high-tech(첨단의)",
+   "technical(기술의)"
+  ],
+  "anti": [],
+  "idiom": [
+   "technological advances(기술 발전)",
+   "technological innovation(기술 혁신)"
+  ],
+  "colloc": [
+   "technological progress(기술 진보)",
+   "technological change(기술 변화)",
+   "technological development(기술 개발)"
+  ],
+  "ex_add": "Technological advances have transformed our lives.  (technological=기술의)"
+ },
+ {
+  "num": "3503",
+  "hw": "teen",
+  "pos": "n., adj.",
+  "cefr": "B2",
+  "core": "열몇 살의 -> '십 대(의)'.",
+  "senses": [
+   "1) 십 대 (청소년)",
+   "2) (adj.) 십 대의·청소년의"
+  ],
+  "etym": "고대 영어 -tene(13~19에 붙는 -teen, ten=10에서). teenager(13~19세)의 줄임말. '13~19세의 사람'이 핵심.",
+  "deriv": "-teen(열몇) -> 'teen'. '열몇 살의 -> 십 대(a teen idol, 십 대 우상)'. 한국 학습자 핵심: 숫자 thirteen~nineteen에만 붙는 -teen이 어원 — 그래서 teen은 정확히 13~19세! teenager(십 대)의 축약. teen years(십 대 시절), a teen movie(청소년 영화). 비슷한 단어: adolescent(청소년)·youth(젊은이)·teenager(십 대). adolescent(청소년)·youngster(젊은이)와 유의어. 반대 adult(성인)·grown-up(어른).",
+  "syn": [
+   "adolescent(청소년)",
+   "teenager(십 대)",
+   "youngster(젊은이)"
+  ],
+  "anti": [
+   "adult(성인)",
+   "grown-up(어른)"
+  ],
+  "idiom": [
+   "a teen idol(십 대 우상)",
+   "teen years(십 대 시절)"
+  ],
+  "colloc": [
+   "teen culture(청소년 문화)",
+   "teen movie(청소년 영화)",
+   "troubled teen(문제 청소년)"
+  ],
+  "ex_add": "The movie is very popular with teens.  (teen=십 대)"
+ },
+ {
+  "num": "3504",
+  "hw": "temple",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "신께 바친 구역 / 관자놀이 -> '사원·신전 / 관자놀이'.",
+  "senses": [
+   "1) 사원·신전·절",
+   "2) 관자놀이(눈과 귀 사이)"
+  ],
+  "etym": "(1) 사원: 라틴어 templum(신께 바쳐 구획한 신성한 구역). (2) 관자놀이: 라틴어 tempora(관자놀이) <- tempus(시간·적절한 곳). 두 뜻이 철자만 같아짐. '신성한 구역 / 머리 옆 부위'가 핵심.",
+  "deriv": "templum(신전) / tempora(관자놀이) -> 'temple'. '사원·관자놀이'. 한국 학습자 핵심: 동철이의어 — 사원(templum)과 관자놀이(tempora)는 어원이 다름! a Buddhist temple(불교 사원·절), an ancient temple(고대 신전), rub one's temples(관자놀이를 문지르다). temple은 tempus(시간, temporary 3506)와도 연결됨(관자놀이 쪽이 흰머리가 먼저 세는 '시간'의 표시라는 설). shrine(신전)·sanctuary(성소)와 유의어(사원 뜻).",
+  "syn": [
+   "shrine(신전)",
+   "sanctuary(성소)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a Buddhist temple(불교 사원)",
+   "rub one's temples(관자놀이를 문지르다)"
+  ],
+  "colloc": [
+   "ancient temple(고대 신전)",
+   "visit a temple(절을 방문하다)",
+   "temple grounds(사원 경내)"
+  ],
+  "ex_add": "We visited an ancient temple during our trip.  (temple=사원)"
+ },
+ {
+  "num": "3505",
+  "hw": "temporarily",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "한때만 -> '일시적으로·임시로'.",
+  "senses": [
+   "1) 일시적으로·잠시·임시로"
+  ],
+  "etym": "라틴어 tempus(시간, 속격 temporis) -> temporary(3506) + -ly. '한동안·잠시만'이 핵심. tempus(시간)는 temporary·temporal(시간의)·contemporary(동시대의)·tempo(빠르기)의 뿌리.",
+  "deriv": "tempus(시간) -> temporary(3506) -> 'temporarily'. '한때만 -> 일시적으로(temporarily closed, 일시 폐쇄된)'. 한국 학습자 핵심: tempus(시간) 갈래 — temporary(3506)·temporal(시간의)·contemporary(동시대의)·tempo(빠르기)·extemporaneous(즉흥의)! temporarily unavailable(일시적으로 이용 불가한), temporarily suspended(일시 중단된). briefly(잠시)·momentarily(잠깐)와 유의어. 반대 permanently(영구히)·forever(영원히).",
+  "syn": [
+   "briefly(잠시)",
+   "momentarily(잠깐)",
+   "provisionally(임시로)"
+  ],
+  "anti": [
+   "permanently(영구히)",
+   "forever(영원히)"
+  ],
+  "idiom": [
+   "temporarily closed(일시 폐쇄된)",
+   "temporarily unavailable(일시 이용 불가한)"
+  ],
+  "colloc": [
+   "temporarily suspended(일시 중단된)",
+   "temporarily unavailable(일시 이용 불가)",
+   "temporarily live(임시로 살다)"
+  ],
+  "ex_add": "The road is temporarily closed for repairs.  (temporarily=일시적으로)"
+ },
+ {
+  "num": "3506",
+  "hw": "temporary",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "한때의 -> '일시적인·임시의'.",
+  "senses": [
+   "1) 일시적인·잠깐의",
+   "2) 임시의·한시적인"
+  ],
+  "etym": "라틴어 tempus(시간) -> temporarius(한때의) -> 'temporary'. '시간이 한정된·잠시뿐인'이 핵심.",
+  "deriv": "tempus(시간) -> temporarius(한때의) -> 'temporary'. '한때의 -> 일시적인(a temporary job, 임시직)'. 한국 학습자 핵심: tempus(시간) 대가족 — temporarily(3505)·temporal(시간의)·contemporary(동시대의·현대의)·tempo(빠르기)! a temporary measure(임시방편), a temporary solution(임시 해법), temporary accommodation(임시 거처). provisional(임시의)·short-term(3392, 단기의)·passing(일시적인)과 유의어. 반대 permanent(3164, 영구적인)·lasting(지속되는).",
+  "syn": [
+   "provisional(임시의)",
+   "short-term(단기의)",
+   "passing(일시적인)"
+  ],
+  "anti": [
+   "permanent(영구적인)",
+   "lasting(지속되는)"
+  ],
+  "idiom": [
+   "a temporary measure(임시방편)",
+   "a temporary solution(임시 해법)"
+  ],
+  "colloc": [
+   "temporary job(임시직)",
+   "temporary accommodation(임시 거처)",
+   "temporary fix(임시 수리)"
+  ],
+  "ex_add": "She found a temporary job for the summer.  (temporary=임시의)"
+ },
+ {
+  "num": "3507",
+  "hw": "tendency",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "어느 쪽으로 뻗는 성향 -> '경향·성향·추세'.",
+  "senses": [
+   "1) 경향·성향·기질",
+   "2) (변화의) 추세·풍조"
+  ],
+  "etym": "라틴어 tendere(뻗다·향하다) -> tendentia(향함) -> 'tendency'. '마음이 어느 쪽으로 뻗어 향함'이 핵심. tendere(뻗다)는 tendency·tension(3508)·extend(뻗다)·intend(의도하다)·attend(참석하다)·pretend(~인 체하다)의 뿌리.",
+  "deriv": "tendere(뻗다) -> 'tendency'. '어느 쪽으로 뻗는 성향 -> 경향(a tendency to do, ~하는 경향)'. 한국 학습자 핵심: tendere(뻗다) 대가족 — tension(3508)·extend(뻗다)·intend(의도)·attend(참석)·pretend(~체하다)·contend(다투다)·tense(긴장된)! have a tendency to(~하는 경향이 있다), a growing tendency(증가하는 추세). inclination(성향)·trend(추세)·propensity(성향)와 유의어.",
+  "syn": [
+   "inclination(성향)",
+   "trend(추세)",
+   "propensity(성향)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a tendency to do(~하는 경향)",
+   "have a tendency to(~하는 경향이 있다)"
+  ],
+  "colloc": [
+   "natural tendency(자연스러운 경향)",
+   "growing tendency(증가하는 추세)",
+   "general tendency(일반적 경향)"
+  ],
+  "ex_add": "He has a tendency to talk too much.  (tendency=경향)"
+ },
+ {
+  "num": "3508",
+  "hw": "tension",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "팽팽히 당겨짐 -> '긴장·갈등 / 팽팽함·장력'.",
+  "senses": [
+   "1) (정신적) 긴장·불안",
+   "2) (관계의) 긴장·갈등·알력",
+   "3) (물리) 팽팽함·장력·전압"
+  ],
+  "etym": "라틴어 tendere(뻗다·당기다) -> tensio(팽팽히 당김) -> 'tension'. '팽팽하게 당겨져 긴장된 상태'가 핵심.",
+  "deriv": "tendere(당기다) -> tensio(당김) -> 'tension'. '팽팽히 당겨짐 -> (마음의) 긴장(ease tension, 긴장을 풀다)·(관계의) 갈등(racial tension, 인종 간 갈등)·(줄의) 장력'. 한국 학습자 핵심: tendere(뻗다·당기다) 대가족 — tendency(3507)·extend(뻗다)·intend(의도)·attend(참석)·tense(긴장된)·intense(강렬한)·pretend(~체하다)! ease/relieve tension(긴장을 완화하다), mounting tension(고조되는 긴장). stress(스트레스)·strain(긴장)·anxiety(2444, 불안)와 유의어. 반대 relaxation(이완)·calm(평온).",
+  "syn": [
+   "stress(스트레스)",
+   "strain(긴장)",
+   "anxiety(불안)"
+  ],
+  "anti": [
+   "relaxation(이완)",
+   "calm(평온)"
+  ],
+  "idiom": [
+   "ease tension(긴장을 풀다)",
+   "mounting tension(고조되는 긴장)"
+  ],
+  "colloc": [
+   "racial tension(인종 간 갈등)",
+   "political tension(정치적 긴장)",
+   "relieve tension(긴장을 완화하다)"
+  ],
+  "ex_add": "There was a lot of tension between the two countries.  (tension=긴장)"
+ },
+ {
+  "num": "3509",
+  "hw": "term",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "경계 지어진 것 -> '용어 / 기간·학기 / (terms) 조건 / 일컫다'.",
+  "senses": [
+   "1) 용어·말·표현",
+   "2) 기간·임기; (영) 학기",
+   "3) (terms) 조건·약정; (동사) ~라고 일컫다"
+  ],
+  "etym": "라틴어 terminus(경계·끝·한계) -> 'term'. '경계로 한정된 것 -> 일정 기간 / 뜻이 한정된 말(용어)'이 핵심. terminus(경계)는 term·terminal(종착역)·terminate(끝내다)·determine(결정하다)·exterminate(몰살하다)의 뿌리.",
+  "deriv": "terminus(경계·끝) -> 'term'. '경계 지어진 것 -> (한정된) 기간·임기·학기·(뜻이 한정된) 용어(a technical term, 전문 용어)·(terms) 조건'. 한국 학습자 핵심: terminus(끝·경계) 대가족 — terminal(종착역)·terminate(끝내다)·determine(결정)·exterminate(몰살)·terms(3510)! in terms of(~의 관점에서·~ 측면에서), in the long term(장기적으로), come to terms with(~을 받아들이다). word(말)·period(기간)·expression(표현)과 유의어.",
+  "syn": [
+   "word(말)",
+   "period(기간)",
+   "expression(표현)"
+  ],
+  "anti": [],
+  "idiom": [
+   "in terms of(~의 관점에서)",
+   "in the long term(장기적으로)",
+   "come to terms with(~을 받아들이다)"
+  ],
+  "colloc": [
+   "technical term(전문 용어)",
+   "school term(학기)",
+   "term of office(임기)"
+  ],
+  "ex_add": "I don't understand this technical term.  (term=용어)"
+ },
+ {
+  "num": "3510",
+  "hw": "terms",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "한정된 조항들 -> '조건·조항 / (사람) 사이·관계'.",
+  "senses": [
+   "1) (계약의) 조건·조항·약정",
+   "2) (어떤 관점의) 표현·말; (~ terms) ~ 면에서",
+   "3) (사람과의) 사이·관계(on good terms)"
+  ],
+  "etym": "라틴어 terminus(경계·한계) -> term(3509)의 복수형. '경계로 한정된 약속 조항들'이 핵심.",
+  "deriv": "term(3509) -> 'terms'. '한정된 조항들 -> 조건(terms and conditions, 약관)·(사람) 사이(on good terms, 사이가 좋은)'. 한국 학습자 핵심: terminus(경계) 갈래 — term(3509)·terminal(종착역)·terminate(끝내다)·determine(결정)! terms and conditions(이용 약관), in terms of(~ 측면에서), on good/bad terms with(~와 사이가 좋은/나쁜), come to terms with(받아들이다·타협하다). conditions(조건)·relationship(관계)과 유의어.",
+  "syn": [
+   "conditions(조건)",
+   "relationship(관계)",
+   "agreement(합의)"
+  ],
+  "anti": [],
+  "idiom": [
+   "terms and conditions(이용 약관)",
+   "on good terms(사이가 좋은)",
+   "come to terms with(받아들이다)"
+  ],
+  "colloc": [
+   "in terms of(~ 측면에서)",
+   "favorable terms(유리한 조건)",
+   "on equal terms(대등한 입장에서)"
+  ],
+  "ex_add": "Please read the terms and conditions carefully.  (terms=조건)"
+ },
+ {
+  "num": "3511",
+  "hw": "terribly",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "겁날 만큼 -> '몹시·대단히 / 형편없이'.",
+  "senses": [
+   "1) (강조) 몹시·대단히·아주",
+   "2) 형편없이·끔찍하게"
+  ],
+  "etym": "라틴어 terrere(겁주다) -> terrible(끔찍한) + -ly. '겁날 만큼 -> (강조) 몹시'가 핵심. terrere(겁주다)는 terribly·terror(3514)·terrify(3512)·terrorism(3515)·deter(단념시키다)의 뿌리.",
+  "deriv": "terrere(겁주다) -> terrible -> 'terribly'. '겁날 만큼 -> 몹시(terribly sorry, 정말 미안한)·형편없이'. 한국 학습자 핵심: terrere(겁주다) 대가족 — terror(3514)·terrify(3512)·terrorism(3515)·terrorist(3516)·deter(단념시키다)·terrific(아주 좋은, 의미가 긍정으로 뒤집힘!)! 회화에서 terribly=강조 '몹시'(=very) — terribly busy(몹시 바쁜), terribly sorry(정말 미안한). extremely(극히)·awfully(몹시)·very(아주)와 유의어.",
+  "syn": [
+   "extremely(극히)",
+   "awfully(몹시)",
+   "very(아주)"
+  ],
+  "anti": [
+   "slightly(약간)"
+  ],
+  "idiom": [
+   "terribly sorry(정말 미안한)",
+   "terribly busy(몹시 바쁜)"
+  ],
+  "colloc": [
+   "terribly important(대단히 중요한)",
+   "terribly difficult(몹시 어려운)",
+   "miss terribly(몹시 그리워하다)"
+  ],
+  "ex_add": "I'm terribly sorry for the delay.  (terribly=몹시)"
+ },
+ {
+  "num": "3512",
+  "hw": "terrify",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "겁에 질리게 하다 -> '겁먹게 하다·공포에 떨게 하다'.",
+  "senses": [
+   "1) 겁먹게 하다·공포에 질리게 하다·무섭게 하다"
+  ],
+  "etym": "라틴어 terrere(겁주다) + facere(만들다) -> terrificare(겁에 질리게 하다) -> 'terrify'. '극도로 겁에 질리게 만듦'이 핵심.",
+  "deriv": "terrere(겁주다)+facere(만들다) -> 'terrify'. '겁에 질리게 함 -> 공포에 떨게 하다(terrify the children, 아이들을 겁에 질리게 하다)'. 한국 학습자 핵심: terrere(겁주다) 대가족 — terror(3514)·terribly(3511)·terrorism(3515)·terrorist(3516)·deter(단념시키다)! terrified(겁에 질린)·terrifying(겁나게 하는) 구별. be terrified of(~을 몹시 두려워하다). scare(3346, 겁주다)·frighten(겁먹게 하다)·horrify(겁에 질리게 하다)와 유의어. 반대 reassure(안심시키다)·comfort(위로하다).",
+  "syn": [
+   "scare(겁주다)",
+   "frighten(겁먹게 하다)",
+   "horrify(겁에 질리게 하다)"
+  ],
+  "anti": [
+   "reassure(안심시키다)",
+   "comfort(위로하다)"
+  ],
+  "idiom": [
+   "be terrified of(~을 몹시 두려워하다)",
+   "terrify the children(아이들을 겁먹게 하다)"
+  ],
+  "colloc": [
+   "absolutely terrify(완전히 겁먹게 하다)",
+   "terrify someone(~을 겁에 질리게 하다)",
+   "terrified scream(겁에 질린 비명)"
+  ],
+  "ex_add": "The thought of speaking in public terrifies me.  (terrify=겁먹게 하다)"
+ },
+ {
+  "num": "3513",
+  "hw": "territory",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "땅의 영역 -> '영토·지역 / (활동) 영역·세력권'.",
+  "senses": [
+   "1) 영토·영역·지역",
+   "2) (동물의) 세력권; (담당) 구역",
+   "3) (지식·활동의) 영역·분야"
+  ],
+  "etym": "라틴어 terra(땅·흙) -> territorium(도시에 딸린 영역) -> 'territory'. '한 세력이 차지한 땅'이 핵심. terra(땅)는 territory·terrain(지형)·terrace(테라스)·terrestrial(지구의)·Mediterranean(지중해의)의 뿌리.",
+  "deriv": "terra(땅) -> territorium(영역) -> 'territory'. '땅의 영역 -> 영토(occupied territory, 점령지)·(활동) 영역'. 한국 학습자 핵심: terra(땅) 갈래 — terrain(지형)·terrace(테라스)·terrestrial(지구의·육상의)·Mediterranean(지중해, 땅 가운데)·subterranean(지하의)·extraterrestrial(외계의, E.T.)! uncharted territory(미지의 영역), come with the territory(그 일에 으레 따르는 것이다), enemy territory(적지). region(지역)·domain(영역)·turf(세력권)와 유의어.",
+  "syn": [
+   "region(지역)",
+   "domain(영역)",
+   "turf(세력권)"
+  ],
+  "anti": [],
+  "idiom": [
+   "uncharted territory(미지의 영역)",
+   "come with the territory(으레 따르는 것이다)"
+  ],
+  "colloc": [
+   "occupied territory(점령지)",
+   "enemy territory(적지)",
+   "vast territory(광대한 영토)"
+  ],
+  "ex_add": "The tribe defended its territory fiercely.  (territory=영역)"
+ },
+ {
+  "num": "3514",
+  "hw": "terror",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "극심한 공포 -> '공포·두려움 / 테러·공포 정치'.",
+  "senses": [
+   "1) (극심한) 공포·두려움",
+   "2) 테러·공포 행위",
+   "3) (구어) 골칫거리·말썽쟁이"
+  ],
+  "etym": "라틴어 terrere(겁주다) -> terror(공포) -> 'terror'. '몸이 떨릴 만큼 극심한 두려움'이 핵심.",
+  "deriv": "terrere(겁주다) -> 'terror'. '극심한 공포 -> 두려움(in terror, 공포에 질려)·테러(the war on terror, 테러와의 전쟁)'. 한국 학습자 핵심: terrere(겁주다) 대가족 — terrify(3512)·terribly(3511)·terrorism(3515)·terrorist(3516)·deter(단념시키다)·terrific(아주 좋은)! a reign of terror(공포 정치), strike terror into(~을 공포에 떨게 하다), scream in terror(공포에 비명을 지르다). fear(두려움)·dread(공포)·horror(공포)와 유의어. 반대 comfort(안심)·security(안전).",
+  "syn": [
+   "fear(두려움)",
+   "dread(공포)",
+   "horror(공포)"
+  ],
+  "anti": [
+   "comfort(안심)",
+   "security(안전)"
+  ],
+  "idiom": [
+   "a reign of terror(공포 정치)",
+   "in terror(공포에 질려)",
+   "the war on terror(테러와의 전쟁)"
+  ],
+  "colloc": [
+   "live in terror(공포 속에 살다)",
+   "sheer terror(극도의 공포)",
+   "terror attack(테러 공격)"
+  ],
+  "ex_add": "The children screamed in terror at the loud noise.  (terror=공포)"
+ },
+ {
+  "num": "3515",
+  "hw": "terrorism",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "공포를 무기로 삼는 주의 -> '테러(리즘)·테러 행위'.",
+  "senses": [
+   "1) 테러리즘·테러 행위",
+   "2) (정치적) 폭력 위협으로 공포를 조성하는 행위"
+  ],
+  "etym": "라틴어 terrere(겁주다) -> terror(3514) + -ism(주의·행위). 프랑스 혁명기 '공포 정치(la Terreur)'에서 비롯. '공포를 무기로 목적을 이루려는 주의'가 핵심.",
+  "deriv": "terror(3514, 공포) -> 'terrorism'. '공포를 무기로 삼음 -> 테러리즘(combat terrorism, 테러에 맞서다)'. 한국 학습자 핵심: terrere(겁주다) 대가족 — terror(3514)·terrify(3512)·terrorist(3516)·terribly(3511)! -ism(주의·행위) — terrorism·racism(3249)·tourism(관광업). an act of terrorism(테러 행위), international terrorism(국제 테러), the fight against terrorism(테러와의 싸움). violence(폭력)와 관련.",
+  "syn": [
+   "violence(폭력)",
+   "extremism(극단주의)"
+  ],
+  "anti": [],
+  "idiom": [
+   "an act of terrorism(테러 행위)",
+   "combat terrorism(테러에 맞서다)"
+  ],
+  "colloc": [
+   "international terrorism(국제 테러)",
+   "fight terrorism(테러와 싸우다)",
+   "global terrorism(글로벌 테러)"
+  ],
+  "ex_add": "The new law aims to prevent terrorism.  (terrorism=테러)"
+ },
+ {
+  "num": "3516",
+  "hw": "terrorist",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "공포로 위협하는 사람 -> '테러리스트·테러범'.",
+  "senses": [
+   "1) 테러리스트·테러범",
+   "2) (adj.) 테러의·테러범의"
+  ],
+  "etym": "라틴어 terrere(겁주다) -> terror(3514) + -ist(사람). '공포를 무기로 폭력을 저지르는 사람'이 핵심.",
+  "deriv": "terror(3514, 공포) -> 'terrorist'. '공포로 위협하는 사람 -> 테러범(a suspected terrorist, 테러 용의자)'. 한국 학습자 핵심: terrere(겁주다) 대가족 — terror(3514)·terrorism(3515)·terrify(3512)·terribly(3511)! -ist(사람) — terrorist·racist(3250)·artist(예술가)·scientist(과학자). a terrorist attack(테러 공격), a terrorist group(테러 단체). extremist(극단주의자)·militant(투사)과 유의어.",
+  "syn": [
+   "extremist(극단주의자)",
+   "militant(투사)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a terrorist attack(테러 공격)",
+   "a suspected terrorist(테러 용의자)"
+  ],
+  "colloc": [
+   "terrorist group(테러 단체)",
+   "terrorist attack(테러 공격)",
+   "alleged terrorist(테러 혐의자)"
+  ],
+  "ex_add": "The terrorist was arrested before the attack.  (terrorist=테러범)"
+ },
+ {
+  "num": "3517",
+  "hw": "testing",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "시험해 봄 -> '시험·검사 / (형용사) 힘든'.",
+  "senses": [
+   "1) 시험·검사·실험",
+   "2) (adj.) 힘든·시련을 주는"
+  ],
+  "etym": "라틴어 testum(질그릇·도가니, 금속을 시험하던 그릇) -> test(시험) + -ing. 도가니로 금속의 순도를 '시험'한 데서. '시험해 봄'이 핵심.",
+  "deriv": "testum(도가니) -> test -> 'testing'. '시험해 봄 -> 검사(drug testing, 약물 검사)·(adj.) 힘든(a testing time, 힘든 시기)'. 한국 학습자 핵심: 어원이 '도가니'(금속의 순도를 가르는 그릇)! test(시험)·testing·tester(검사기)가 가족. product testing(제품 시험), animal testing(동물 실험), software testing(소프트웨어 테스트). examination(검사)·trial(시험)·assessment(평가)와 유의어.",
+  "syn": [
+   "examination(검사)",
+   "trial(시험)",
+   "assessment(평가)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a testing time(힘든 시기)",
+   "drug testing(약물 검사)"
+  ],
+  "colloc": [
+   "product testing(제품 시험)",
+   "animal testing(동물 실험)",
+   "rigorous testing(엄격한 검사)"
+  ],
+  "ex_add": "The new drug is still undergoing testing.  (testing=시험)"
+ },
+ {
+  "num": "3518",
+  "hw": "textbook",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "짜인 글의 책 -> '교과서 / (형용사) 전형적인'.",
+  "senses": [
+   "1) 교과서·교본",
+   "2) (adj.) 전형적인·교과서적인·모범적인"
+  ],
+  "etym": "라틴어 texere(짜다·엮다) -> textus(짜인 것·본문) -> text(글) + book(책). '글로 짜인 책'이 핵심. texere(짜다)는 textbook·text(글)·textile(직물)·texture(질감)·context(2519, 맥락)의 뿌리.",
+  "deriv": "texere(짜다) -> text -> 'textbook'. '짜인 글의 책 -> 교과서(a history textbook, 역사 교과서)·(adj.) 전형적인(a textbook example, 교과서적인 예)'. 한국 학습자 핵심: texere(짜다) 갈래 — text(글)·textile(직물)·texture(질감)·context(2519, 맥락)·pretext(구실)! a textbook case(전형적인 사례), set textbook(지정 교재). manual(교본)·coursebook(교재)과 유의어.",
+  "syn": [
+   "manual(교본)",
+   "coursebook(교재)",
+   "workbook(학습서)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a textbook example(교과서적인 예)",
+   "a textbook case(전형적인 사례)"
+  ],
+  "colloc": [
+   "history textbook(역사 교과서)",
+   "school textbook(학교 교과서)",
+   "open the textbook(교과서를 펴다)"
+  ],
+  "ex_add": "Please open your textbook to page 50.  (textbook=교과서)"
+ },
+ {
+  "num": "3519",
+  "hw": "theft",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "몰래 훔침 -> '절도·도둑질'.",
+  "senses": [
+   "1) 절도·도둑질",
+   "2) 절도죄"
+  ],
+  "etym": "고대 영어 theofth(도둑질, theof=도둑). thief(도둑)와 한 뿌리 — '남의 것을 몰래 가져감'이 핵심.",
+  "deriv": "theof(도둑) -> 'theft'. '몰래 훔침 -> 절도(car theft, 차량 절도)'. 한국 학습자 핵심: thief(도둑)·theft(절도)·thieve(훔치다)가 가족! 범죄 구별 — theft(절도, 몰래 훔침)·robbery(3325, 강도, 폭력·위협)·burglary(빈집털이, 침입). identity theft(신원 도용), petty theft(좀도둑질). stealing(절도)·larceny(절도죄)·robbery(강도)와 유의어.",
+  "syn": [
+   "stealing(절도)",
+   "larceny(절도죄)",
+   "robbery(강도)"
+  ],
+  "anti": [],
+  "idiom": [
+   "identity theft(신원 도용)",
+   "petty theft(좀도둑질)"
+  ],
+  "colloc": [
+   "car theft(차량 절도)",
+   "commit theft(절도를 저지르다)",
+   "report a theft(절도를 신고하다)"
+  ],
+  "ex_add": "He was charged with the theft of a bicycle.  (theft=절도)"
+ },
+ {
+  "num": "3520",
+  "hw": "therapist",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "돌봐 치료하는 사람 -> '치료사·요법사'.",
+  "senses": [
+   "1) (물리·심리) 치료사·요법사",
+   "2) 정신과 상담가"
+  ],
+  "etym": "그리스어 therapeia(돌봄·치료, therapeuein=돌보다) -> therapy(3521) + -ist(사람). '돌보며 치료하는 사람'이 핵심.",
+  "deriv": "therapy(3521, 치료) -> 'therapist'. '치료하는 사람 -> 치료사(see a therapist, 치료사를 만나다)'. 한국 학습자 핵심: therapeia(돌봄·치료) 갈래 — therapy(3521)·therapeutic(치료의)·chemotherapy(화학 요법)·physiotherapy(물리 치료)! a physical therapist(물리 치료사), a speech therapist(언어 치료사). 발음 주의: th[θ]. counselor(상담사)·healer(치료자)와 유의어.",
+  "syn": [
+   "counselor(상담사)",
+   "healer(치료자)"
+  ],
+  "anti": [],
+  "idiom": [
+   "see a therapist(치료사를 만나다)",
+   "a physical therapist(물리 치료사)"
+  ],
+  "colloc": [
+   "speech therapist(언어 치료사)",
+   "physical therapist(물리 치료사)",
+   "qualified therapist(자격을 갖춘 치료사)"
+  ],
+  "ex_add": "She decided to see a therapist about her anxiety.  (therapist=치료사)"
+ },
+ {
+  "num": "3521",
+  "hw": "therapy",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "돌봐 낫게 함 -> '치료·요법'.",
+  "senses": [
+   "1) (약물 없는) 치료·요법",
+   "2) 심리 치료·상담",
+   "3) (기분 전환의) 치유적 활동"
+  ],
+  "etym": "그리스어 therapeia(돌봄·치료) -> 'therapy'. '돌보며 낫게 함'이 핵심.",
+  "deriv": "therapeia(돌봄) -> 'therapy'. '돌봐 낫게 함 -> 치료·요법(physical therapy, 물리 치료)'. 한국 학습자 핵심: therapeia(돌봄) 갈래 — therapist(3520)·therapeutic(치료의)·chemotherapy(화학 요법)·physiotherapy(물리 치료)·aromatherapy(향기 요법)! be in therapy(심리 치료를 받는 중인), retail therapy(쇼핑으로 기분 전환), gene therapy(유전자 치료). treatment(치료)·healing(치유)·remedy(치료법)와 유의어.",
+  "syn": [
+   "treatment(치료)",
+   "healing(치유)",
+   "remedy(치료법)"
+  ],
+  "anti": [],
+  "idiom": [
+   "be in therapy(심리 치료를 받는 중)",
+   "retail therapy(쇼핑으로 기분 전환)"
+  ],
+  "colloc": [
+   "physical therapy(물리 치료)",
+   "speech therapy(언어 치료)",
+   "undergo therapy(치료를 받다)"
+  ],
+  "ex_add": "Physical therapy helped him walk again.  (therapy=치료)"
+ },
+ {
+  "num": "3522",
+  "hw": "thesis",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "내세워 놓은 주장 -> '논제·명제 / 학위 논문'.",
+  "senses": [
+   "1) (논증의) 논제·명제·주장",
+   "2) (학위) 논문",
+   "3) (글의) 중심 논지"
+  ],
+  "etym": "그리스어 tithenai(놓다·두다) -> thesis(놓음·내세운 명제) -> 'thesis'. '내세워 놓은 주장'이 핵심. tithenai(놓다)는 thesis·theme(주제)·hypothesis(가설)·synthesis(종합)·antithesis(대조)의 뿌리.",
+  "deriv": "tithenai(놓다) -> thesis(내세운 명제) -> 'thesis'. '내세워 놓은 주장 -> 논제·학위 논문(write a thesis, 논문을 쓰다)'. 한국 학습자 핵심: tithenai(놓다) 갈래 — theme(주제)·hypothesis(가설)·synthesis(종합)·antithesis(대조)·thesaurus(유의어 사전)! 복수형 theses[θíːsiːz]. a thesis statement(중심 주장 문장), a master's/doctoral thesis(석사/박사 논문). dissertation(학위 논문)·argument(논증)·proposition(명제)과 유의어.",
+  "syn": [
+   "dissertation(학위 논문)",
+   "argument(논증)",
+   "proposition(명제)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a thesis statement(중심 주장 문장)",
+   "write a thesis(논문을 쓰다)"
+  ],
+  "colloc": [
+   "master's thesis(석사 논문)",
+   "defend a thesis(논문을 변론하다)",
+   "submit a thesis(논문을 제출하다)"
+  ],
+  "ex_add": "She is writing her thesis on climate change.  (thesis=논문)"
+ },
+ {
+  "num": "3523",
+  "hw": "thorough",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "처음부터 끝까지 꿰뚫는 -> '철저한·빈틈없는'.",
+  "senses": [
+   "1) 철저한·빈틈없는·면밀한",
+   "2) (사람이) 꼼꼼한·주도면밀한",
+   "3) 완전한·순전한"
+  ],
+  "etym": "고대 영어 thuruh(through, 처음부터 끝까지 통과하는). through(통과하여)와 한 뿌리 — '끝까지 꿰뚫는'이 핵심.",
+  "deriv": "thuruh(통과하는) -> 'thorough'. '처음부터 끝까지 꿰뚫는 -> 철저한(a thorough investigation, 철저한 조사)'. 한국 학습자 핵심: through(통과하여)와 한 뿌리지만 발음·뜻 다름 — thorough[θʌ́rə], through[θruː]! 철자도 헷갈림(thorough/through/though/thought). thoroughly(3524)가 부사. a thorough check(철저한 점검). meticulous(꼼꼼한)·comprehensive(포괄적인)·exhaustive(철저한)와 유의어. 반대 superficial(피상적인)·careless(부주의한)·cursory(대충의).",
+  "syn": [
+   "meticulous(꼼꼼한)",
+   "comprehensive(포괄적인)",
+   "exhaustive(철저한)"
+  ],
+  "anti": [
+   "superficial(피상적인)",
+   "careless(부주의한)",
+   "cursory(대충의)"
+  ],
+  "idiom": [
+   "a thorough investigation(철저한 조사)",
+   "a thorough check(철저한 점검)"
+  ],
+  "colloc": [
+   "thorough examination(철저한 검사)",
+   "thorough understanding(완전한 이해)",
+   "thorough review(면밀한 검토)"
+  ],
+  "ex_add": "The police carried out a thorough investigation.  (thorough=철저한)"
+ },
+ {
+  "num": "3524",
+  "hw": "thoroughly",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "끝까지 꿰뚫게 -> '철저히·완전히·대단히'.",
+  "senses": [
+   "1) 철저히·빈틈없이·꼼꼼히",
+   "2) 완전히·아주·대단히"
+  ],
+  "etym": "고대 영어 thuruh(through) -> thorough(3523) + -ly. '처음부터 끝까지 꿰뚫게'가 핵심.",
+  "deriv": "thorough(3523, 철저한) -> 'thoroughly'. '끝까지 꿰뚫게 -> 철저히(thoroughly clean, 철저히 청소하다)·완전히(thoroughly enjoy, 아주 즐기다)'. 한국 학습자 핵심: through(통과하여)와 한 뿌리. 두 용법 모두 빈출 — '철저히'(꼼꼼하게)와 강조 '완전히/아주'(=completely). thoroughly checked(철저히 점검된), thoroughly enjoy(아주 즐기다). completely(완전히)·fully(충분히)·carefully(꼼꼼히)와 유의어. 반대 superficially(피상적으로)·partially(부분적으로).",
+  "syn": [
+   "completely(완전히)",
+   "fully(충분히)",
+   "carefully(꼼꼼히)"
+  ],
+  "anti": [
+   "superficially(피상적으로)",
+   "partially(부분적으로)"
+  ],
+  "idiom": [
+   "thoroughly enjoy(아주 즐기다)",
+   "thoroughly clean(철저히 청소하다)"
+  ],
+  "colloc": [
+   "thoroughly checked(철저히 점검된)",
+   "thoroughly researched(철저히 조사된)",
+   "thoroughly washed(깨끗이 씻은)"
+  ],
+  "ex_add": "Please read the instructions thoroughly.  (thoroughly=철저히)"
+ },
+ {
+  "num": "3525",
+  "hw": "threat",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "들이미는 위협 -> '위협·협박 / 위험 요소'.",
+  "senses": [
+   "1) 협박·위협(말)",
+   "2) (해를 끼칠) 위험·우려",
+   "3) 위협이 되는 존재·요소"
+  ],
+  "etym": "고대 영어 threat(밀어붙임·압박, threotan=괴롭히다). '밀어붙여 겁주는 압박'이 핵심. threaten(3526)이 동사.",
+  "deriv": "threat(압박) -> '위협 -> 협박(make a threat, 협박하다)·위험 요소(a threat to security, 안보 위협)'. 한국 학습자 핵심: threat(명사)·threaten(3526, 동사) 구별! a threat to(~에 대한 위협), pose a threat(위협이 되다), under threat(위협받는), an empty threat(공갈·빈 협박), a death threat(살해 협박). danger(위험)·menace(위협)·intimidation(협박)과 유의어.",
+  "syn": [
+   "danger(위험)",
+   "menace(위협)",
+   "intimidation(협박)"
+  ],
+  "anti": [
+   "safety(안전)",
+   "protection(보호)"
+  ],
+  "idiom": [
+   "pose a threat(위협이 되다)",
+   "under threat(위협받는)",
+   "an empty threat(빈 협박)"
+  ],
+  "colloc": [
+   "make a threat(협박하다)",
+   "serious threat(심각한 위협)",
+   "a threat to security(안보 위협)"
+  ],
+  "ex_add": "Climate change is a serious threat to our planet.  (threat=위협)"
+ },
+ {
+  "num": "3526",
+  "hw": "threaten",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "위협을 가하다 -> '협박하다·위협하다 / ~할 우려가 있다'.",
+  "senses": [
+   "1) 협박하다·위협하다",
+   "2) (위험으로) 위협하다·위태롭게 하다",
+   "3) (나쁜 일이) ~할 듯하다·우려가 있다"
+  ],
+  "etym": "고대 영어 threatnian(압박하다·위협하다) -> threat(3525) + -en(동사화). '위협을 가함'이 핵심.",
+  "deriv": "threat(3525, 위협) -> 'threaten'. '위협을 가함 -> 협박하다(threaten to leave, 떠나겠다고 위협하다)·(위험이) 닥치다(a threatening storm, 닥쳐오는 폭풍)'. 한국 학습자 핵심: -en(동사화) — threaten·strengthen(3459)·widen(넓히다)·shorten(줄이다)! threaten to do(~하겠다고 위협하다·~할 듯하다), threatening(위협적인). intimidate(협박하다)·menace(위협하다)·endanger(위태롭게 하다)와 유의어. 반대 protect(보호하다)·reassure(안심시키다).",
+  "syn": [
+   "intimidate(협박하다)",
+   "menace(위협하다)",
+   "endanger(위태롭게 하다)"
+  ],
+  "anti": [
+   "protect(보호하다)",
+   "reassure(안심시키다)"
+  ],
+  "idiom": [
+   "threaten to do(~하겠다고 위협하다)",
+   "a threatening storm(닥쳐오는 폭풍)"
+  ],
+  "colloc": [
+   "threaten violence(폭력으로 위협하다)",
+   "feel threatened(위협을 느끼다)",
+   "threaten to resign(사임하겠다고 위협하다)"
+  ],
+  "ex_add": "He threatened to call the police.  (threaten=위협하다)"
+ },
+ {
+  "num": "3527",
+  "hw": "thumb",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "두툼한 손가락 -> '엄지손가락 / 엄지로 넘기다'.",
+  "senses": [
+   "1) 엄지손가락",
+   "2) (동사) 엄지로 넘기다·(책을) 뒤적이다; 엄지를 들어 차를 얻어 타다(thumb a lift)"
+  ],
+  "etym": "고대 영어 thuma(엄지). 인도유럽어 tum-(붓다·부풀다)에서 — '가장 두툼하게 부푼 손가락'이 핵심. tumor(종양)·thigh(넓적다리)와 먼 친척.",
+  "deriv": "thuma(엄지) -> 'thumb'. '두툼한 손가락 -> 엄지손가락'. 한국 학습자 핵심: 묵음 b 주의 — thumb[θʌm], b를 발음하지 않음(climb·comb·lamb처럼)! a rule of thumb(경험 법칙·어림법), thumbs up/down(찬성/반대), under one's thumb(~에게 쥐여 사는), stick out like a sore thumb(눈에 확 띄다·이질적이다), green thumb(원예 솜씨). finger(손가락)와 관련.",
+  "syn": [],
+  "anti": [],
+  "idiom": [
+   "a rule of thumb(경험 법칙)",
+   "thumbs up(찬성)",
+   "stick out like a sore thumb(눈에 확 띄다)"
+  ],
+  "colloc": [
+   "thumbs up(엄지 척)",
+   "suck one's thumb(엄지를 빨다)",
+   "under one's thumb(~에게 쥐여 사는)"
+  ],
+  "ex_add": "She gave the performance a thumbs up.  (thumb=엄지)"
+ },
+ {
+  "num": "3528",
+  "hw": "thus",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "이렇게 -> '따라서·그러므로 / 이렇게·이런 식으로'.",
+  "senses": [
+   "1) (격식) 따라서·그러므로·그 결과",
+   "2) 이렇게·이런 식으로",
+   "3) (thus far) 지금까지"
+  ],
+  "etym": "고대 영어 thus(이렇게·이런 식으로). '이러한 방식으로 -> (그러하므로) 따라서'가 핵심.",
+  "deriv": "thus(이렇게) -> '이런 식으로·따라서(thus, we conclude that, 따라서 ~라고 결론짓는다)'. 한국 학습자 핵심: 격식 있는 글말 — 결론·결과를 이끎(=therefore, hence, consequently). thus far(지금까지), thus saying(이렇게 말하며). 회화보다 논설문·학술문에서 빈출. therefore(그러므로)·hence(그래서)·consequently(결과적으로)와 유의어.",
+  "syn": [
+   "therefore(그러므로)",
+   "hence(그래서)",
+   "consequently(결과적으로)"
+  ],
+  "anti": [],
+  "idiom": [
+   "thus far(지금까지)",
+   "thus, we conclude(따라서 결론짓다)"
+  ],
+  "colloc": [
+   "thus far(지금까지)",
+   "and thus(그리하여)",
+   "thus avoiding(그리하여 ~을 피하면서)"
+  ],
+  "ex_add": "He failed to study, and thus he failed the exam.  (thus=따라서)"
+ },
+ {
+  "num": "3529",
+  "hw": "time",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "흘러가는 때 -> '시간·때 / 횟수·번 / 시기를 맞추다'.",
+  "senses": [
+   "1) 시간·때·시각",
+   "2) 횟수·번; 시기·시대",
+   "3) (동사) 시간을 재다; 시기를 맞추다"
+  ],
+  "etym": "고대 영어 tima(때·시기). 게르만어 ti-(나누다)에서 — '나뉘어 흘러가는 때'가 핵심. tide(조수, 옛 뜻 '때')와 한 뿌리.",
+  "deriv": "tima(때) -> 'time'. '흘러가는 때 -> 시간·횟수(three times, 세 번)·시기·(동사) 시간을 재다·시기를 맞추다(timing 3530)'. 한국 학습자 핵심: 무수한 숙어! in time(시간 맞춰·결국), on time(정각에), in no time(순식간에), for the time being(당분간), take your time(천천히 해), kill time(시간을 때우다), it's about time(이제 ~할 때다), ahead of one's time(시대를 앞선). period(기간)·moment(순간)·era(시대)와 유의어.",
+  "syn": [
+   "period(기간)",
+   "moment(순간)",
+   "era(시대)"
+  ],
+  "anti": [],
+  "idiom": [
+   "in time(시간 맞춰)",
+   "on time(정각에)",
+   "take your time(천천히 하다)"
+  ],
+  "colloc": [
+   "spend time(시간을 보내다)",
+   "waste time(시간을 낭비하다)",
+   "free time(여가 시간)"
+  ],
+  "ex_add": "Take your time; there's no rush.  (time=시간)"
+ },
+ {
+  "num": "3530",
+  "hw": "timing",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "때를 맞춤 -> '타이밍·시기 선택'.",
+  "senses": [
+   "1) 타이밍·시기 선택·시점",
+   "2) (동작·이벤트의) 시간 조절"
+  ],
+  "etym": "고대 영어 tima(때) -> time(3529) + -ing. '때를 알맞게 맞춤'이 핵심.",
+  "deriv": "time(3529, 시간) -> 'timing'. '때를 맞춤 -> 타이밍(perfect timing, 완벽한 타이밍)'. 한국 학습자 핵심: time(3529)·timing·timely(시기적절한)·timeless(시대를 초월한)! good/bad timing(좋은/나쁜 타이밍), the timing of(~의 시점), impeccable timing(완벽한 타이밍). Timing is everything(타이밍이 전부다). 적절한 '때 맞춤'을 가리킴. coordination(조율)과 유의어.",
+  "syn": [
+   "coordination(조율)",
+   "scheduling(시기 조정)"
+  ],
+  "anti": [],
+  "idiom": [
+   "perfect timing(완벽한 타이밍)",
+   "Timing is everything(타이밍이 전부다)"
+  ],
+  "colloc": [
+   "good timing(좋은 타이밍)",
+   "bad timing(나쁜 타이밍)",
+   "the timing of(~의 시점)"
+  ],
+  "ex_add": "The timing of the announcement was perfect.  (timing=타이밍)"
+ },
+ {
+  "num": "3531",
+  "hw": "tissue",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "짜여진 것 -> '(생물) 조직 / 화장지·티슈'.",
+  "senses": [
+   "1) (생물의) 조직",
+   "2) 화장지·티슈·얇은 종이",
+   "3) (a tissue of lies) 거짓말 투성이"
+  ],
+  "etym": "라틴어 texere(짜다) -> 고대 프랑스어 tissu(짜인 천) -> 'tissue'. '실로 짜인 것 -> (세포가 짜인) 조직 / 얇게 짠 종이'가 핵심. texere(짜다)는 tissue·text(글)·textile(직물)·texture(질감)·textbook(3518)의 뿌리.",
+  "deriv": "texere(짜다) -> tissu(짜인 천) -> 'tissue'. '짜여진 것 -> (세포 조직) 조직(muscle tissue, 근육 조직)·(얇게 짠) 화장지'. 한국 학습자 핵심: texere(짜다) 갈래 — text(글)·textile(직물)·texture(질감)·textbook(3518)·context(2519, 맥락)! a box of tissues(티슈 한 갑), tissue paper(얇은 포장지), a tissue of lies(거짓말 투성이). 생물 '조직' 뜻이 시험 빈출. fabric(직물)과 관련.",
+  "syn": [
+   "fabric(직물)",
+   "paper(종이)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a box of tissues(티슈 한 갑)",
+   "a tissue of lies(거짓말 투성이)"
+  ],
+  "colloc": [
+   "muscle tissue(근육 조직)",
+   "brain tissue(뇌 조직)",
+   "facial tissue(미용 티슈)"
+  ],
+  "ex_add": "The scar tissue had not fully healed.  (tissue=조직)"
+ },
+ {
+  "num": "3532",
+  "hw": "title",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "이름표·칭호 -> '제목 / 직함·칭호 / 선수권 / 제목을 붙이다'.",
+  "senses": [
+   "1) (책·영화의) 제목·표제",
+   "2) 직함·칭호; (법) 소유권",
+   "3) (스포츠) 선수권·타이틀; (동사) 제목을 붙이다"
+  ],
+  "etym": "라틴어 titulus(표제·명패·칭호) -> 'title'. '붙이는 이름표·칭호'가 핵심. titulus는 title·entitle(자격을 주다)·subtitle(부제·자막)의 뿌리.",
+  "deriv": "titulus(표제·칭호) -> 'title'. '이름표 -> 제목(the title of a book, 책 제목)·직함·선수권(win the title, 우승하다)'. 한국 학습자 핵심: titulus 갈래 — entitle(자격·제목을 주다)·subtitle(부제·자막)·titled(작위가 있는)! a job title(직책명), the title role(주역·표제역), defend the title(타이틀을 방어하다), be entitled to(~할 자격이 있다). heading(표제)·name(명칭)·designation(칭호)과 유의어.",
+  "syn": [
+   "heading(표제)",
+   "name(명칭)",
+   "designation(칭호)"
+  ],
+  "anti": [],
+  "idiom": [
+   "the title role(주역)",
+   "defend the title(타이틀을 방어하다)",
+   "a job title(직책명)"
+  ],
+  "colloc": [
+   "book title(책 제목)",
+   "win the title(우승하다)",
+   "official title(공식 직함)"
+  ],
+  "ex_add": "I can't remember the title of that movie.  (title=제목)"
+ },
+ {
+  "num": "3533",
+  "hw": "tone",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "팽팽히 울리는 소리 -> '어조·말투 / 음색·음조 / 분위기·색조'.",
+  "senses": [
+   "1) (목소리의) 어조·말투",
+   "2) 음색·음조·신호음",
+   "3) 분위기·기조; (색의) 색조·명암"
+  ],
+  "etym": "그리스어 tonos(팽팽히 당김·음의 높이, teinein=당기다) -> 라틴어 tonus -> 'tone'. 현을 팽팽히 당겨 내는 소리에서. '팽팽히 울리는 소리·음조'가 핵심. teinein(당기다)은 라틴어 tendere(3507 tendency)와 같은 인도유럽어 뿌리.",
+  "deriv": "tonos(음의 높이) -> 'tone'. '울리는 소리 -> 어조(an angry tone, 화난 말투)·음색·(전체) 분위기(set the tone, 분위기를 잡다)·색조'. 한국 학습자 핵심: teinein(당기다)/tendere(뻗다) 친척 — tone·tense(긴장)·tension(3508)·monotone(단조로움)·intonation(억양)! tone of voice(말투), set the tone(분위기를 정하다), tone down(누그러뜨리다), tone up(탄탄하게 하다). pitch(음높이)·mood(분위기)·shade(3377, 색조)와 유의어.",
+  "syn": [
+   "pitch(음높이)",
+   "mood(분위기)",
+   "shade(색조)"
+  ],
+  "anti": [],
+  "idiom": [
+   "set the tone(분위기를 정하다)",
+   "tone of voice(말투)",
+   "tone down(누그러뜨리다)"
+  ],
+  "colloc": [
+   "angry tone(화난 말투)",
+   "tone of voice(어조)",
+   "skin tone(피부 톤)"
+  ],
+  "ex_add": "I didn't like the tone of her email.  (tone=어조)"
+ },
+ {
+  "num": "3534",
+  "hw": "tough",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "질긴 -> '질긴·튼튼한 / 힘든·고된 / 강인한·강경한'.",
+  "senses": [
+   "1) (재질이) 질긴·튼튼한",
+   "2) (일·상황이) 힘든·고된·어려운",
+   "3) (사람이) 강인한·억센; 강경한·엄한"
+  ],
+  "etym": "고대 영어 toh(질긴·끈질긴). 게르만어 계열로 '잘 끊어지지 않는 질김'이 핵심.",
+  "deriv": "toh(질긴) -> 'tough'. '질긴 -> (고기가) 질긴·(상황이) 힘든(a tough decision, 힘든 결정)·(사람이) 강인한(a tough guy, 터프가이)'. 한국 학습자 핵심: 발음 주의 — tough[tʌf](-gh를 [f]로! enough·rough처럼)! tough it out(꿋꿋이 견디다), get tough(엄하게 나오다), tough luck(안됐군·운이 없네), a tough call(어려운 결정), as tough as nails(아주 강인한). hard(힘든)·difficult(어려운)·durable(질긴)와 유의어. 반대 easy(쉬운)·soft(부드러운)·tender(연한)·weak(약한).",
+  "syn": [
+   "hard(힘든)",
+   "difficult(어려운)",
+   "durable(질긴)"
+  ],
+  "anti": [
+   "easy(쉬운)",
+   "soft(부드러운)",
+   "tender(연한)"
+  ],
+  "idiom": [
+   "tough it out(꿋꿋이 견디다)",
+   "get tough(엄하게 나오다)",
+   "a tough call(어려운 결정)"
+  ],
+  "colloc": [
+   "tough decision(힘든 결정)",
+   "tough time(힘든 시기)",
+   "tough competition(치열한 경쟁)"
+  ],
+  "ex_add": "Losing the job was a tough time for her.  (tough=힘든)"
+ },
+ {
+  "num": "3535",
+  "hw": "tournament",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "맞붙어 도는 시합 -> '토너먼트·선수권 대회'.",
+  "senses": [
+   "1) 토너먼트·승자 진출전",
+   "2) (중세) 마상 창 시합",
+   "3) (전반적) 선수권 대회"
+  ],
+  "etym": "고대 프랑스어 tornoiement(마상 시합) <- tornoier(빙빙 돌며 겨루다, tourner=돌다 <- 라틴어 tornare 선반으로 돌리다). '말을 빙빙 돌리며 맞붙던 시합'이 핵심. tornare(돌리다)는 tournament·turn(돌다)·tour(여행)·detour(우회)의 뿌리.",
+  "deriv": "tornare(돌리다) -> tornoiement(마상 시합) -> 'tournament'. '맞붙어 도는 시합 -> 토너먼트(win a tournament, 토너먼트에서 우승하다)'. 한국 학습자 핵심: tornare(돌리다) 갈래 — turn(돌다)·tour(여행)·detour(우회)·return(돌아오다)·tornado(토네이도)! a knockout tournament(녹다운 토너먼트), a tennis tournament(테니스 대회), reach the final of a tournament(결승에 진출하다). competition(대회)·championship(선수권)·contest(경연)과 유의어.",
+  "syn": [
+   "competition(대회)",
+   "championship(선수권)",
+   "contest(경연)"
+  ],
+  "anti": [],
+  "idiom": [
+   "win a tournament(토너먼트에서 우승하다)",
+   "a knockout tournament(녹다운 토너먼트)"
+  ],
+  "colloc": [
+   "tennis tournament(테니스 대회)",
+   "golf tournament(골프 대회)",
+   "enter a tournament(대회에 출전하다)"
+  ],
+  "ex_add": "She won the tennis tournament last year.  (tournament=토너먼트)"
+ },
+ {
+  "num": "3536",
+  "hw": "track",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "지나간 자국 -> '자국·길·선로 / 추적하다·뒤쫓다'.",
+  "senses": [
+   "1) (지나간) 자국·흔적; 길·오솔길",
+   "2) 경주로·트랙; 선로; (음반의) 곡·트랙",
+   "3) (동사) 추적하다·뒤쫓다·기록하다"
+  ],
+  "etym": "고대 프랑스어 trac(말발굽 자국·자취) -> 'track'. '지나가며 남긴 자국'이 핵심. trace(흔적)·track·trail(자국)이 한 계열.",
+  "deriv": "trac(자국) -> 'track'. '지나간 자국 -> 흔적·길·선로·(자국을 따라) 추적하다(track a parcel, 소포를 추적하다)'. 한국 학습자 핵심: keep track of(~을 계속 파악하다), lose track of(~을 놓치다·잊다), on the right track(제대로 가고 있는), off track(빗나간), track record(실적·전적), the track and field(육상 경기), a one-track mind(한 가지 생각뿐인). trace(추적하다)·trail(자국)·path(길)과 유의어.",
+  "syn": [
+   "trace(추적하다)",
+   "trail(자국)",
+   "path(길)"
+  ],
+  "anti": [],
+  "idiom": [
+   "keep track of(~을 계속 파악하다)",
+   "on the right track(제대로 가고 있는)",
+   "track record(실적)"
+  ],
+  "colloc": [
+   "track a parcel(소포를 추적하다)",
+   "race track(경주로)",
+   "off track(빗나간)"
+  ],
+  "ex_add": "The app lets you track your daily steps.  (track=추적하다)"
+ },
+ {
+  "num": "3537",
+  "hw": "trading",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "오가며 거래함 -> '거래·무역·매매'.",
+  "senses": [
+   "1) 거래·매매",
+   "2) 무역·통상",
+   "3) (주식의) 매매·거래"
+  ],
+  "etym": "중세 저지 독일어 trade(발자취·길·다니는 길) -> trade(거래, 상인이 오가는 길) + -ing. '상품을 들고 오가며 사고팖'이 핵심.",
+  "deriv": "trade(길·거래) -> 'trading'. '오가며 거래함 -> 무역·매매(stock trading, 주식 거래)'. 한국 학습자 핵심: trade(거래·무역)·trading·trader(상인·트레이더)·tradition은 무관! online trading(온라인 거래), insider trading(내부자 거래), a trading partner(교역 상대국), fair trade(공정 무역). commerce(상업)·dealing(거래)·exchange(교환)과 유의어.",
+  "syn": [
+   "commerce(상업)",
+   "dealing(거래)",
+   "exchange(교환)"
+  ],
+  "anti": [],
+  "idiom": [
+   "insider trading(내부자 거래)",
+   "fair trade(공정 무역)"
+  ],
+  "colloc": [
+   "stock trading(주식 거래)",
+   "online trading(온라인 거래)",
+   "trading partner(교역 상대국)"
+  ],
+  "ex_add": "Stock trading was heavy this morning.  (trading=거래)"
+ },
+ {
+  "num": "3538",
+  "hw": "tragedy",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "비극 -> '비극·참사 / (연극) 비극'.",
+  "senses": [
+   "1) 비극적 사건·참사·재난",
+   "2) (문학·연극의) 비극"
+  ],
+  "etym": "그리스어 tragoidia(비극, tragos 염소 + oide 노래 = '염소의 노래') -> 라틴어 tragoedia -> 'tragedy'. 어원은 불명확하나 고대 제의에서 염소를 제물로 바치며 부른 노래라는 설. '비극'이 핵심.",
+  "deriv": "tragoidia(비극) -> 'tragedy'. '비극 -> 참사(a terrible tragedy, 끔찍한 참사)·(연극) 비극'. 한국 학습자 핵심: 어원이 '염소(tragos)의 노래'! tragic(3539)이 형용사. comedy(희극)와 대조 — tragedy(비극) vs comedy(희극). a human tragedy(인간적 비극), end in tragedy(비극으로 끝나다), a Greek tragedy(그리스 비극). catastrophe(대참사)·disaster(재난)·calamity(재앙)와 유의어. 반대 comedy(희극)·triumph(승리).",
+  "syn": [
+   "catastrophe(대참사)",
+   "disaster(재난)",
+   "calamity(재앙)"
+  ],
+  "anti": [
+   "comedy(희극)",
+   "triumph(승리)"
+  ],
+  "idiom": [
+   "a human tragedy(인간적 비극)",
+   "end in tragedy(비극으로 끝나다)"
+  ],
+  "colloc": [
+   "terrible tragedy(끔찍한 참사)",
+   "personal tragedy(개인적 비극)",
+   "Greek tragedy(그리스 비극)"
+  ],
+  "ex_add": "The accident was a terrible tragedy for the whole town.  (tragedy=참사)"
+ },
+ {
+  "num": "3539",
+  "hw": "tragic",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "비극의 -> '비극적인·비참한'.",
+  "senses": [
+   "1) (사건이) 비극적인·비참한·통탄할",
+   "2) (연극) 비극의"
+  ],
+  "etym": "그리스어 tragikos(비극의) -> 라틴어 tragicus -> 'tragic'. tragedy(3538)의 형용사. '비극에 속하는·비참한'이 핵심.",
+  "deriv": "tragedy(3538, 비극) -> 'tragic'. '비극의 -> 비참한(a tragic accident, 비극적인 사고)'. 한국 학습자 핵심: tragoidia(염소의 노래) 갈래 — tragedy(3538)·tragically(비극적으로)! a tragic hero(비극의 주인공), a tragic loss(비통한 상실), a tragic death(비극적인 죽음). comic(희극의)과 대조. disastrous(처참한)·catastrophic(대재앙의)·heartbreaking(가슴 아픈)과 유의어. 반대 comic(희극의)·happy(행복한)·fortunate(다행스러운).",
+  "syn": [
+   "disastrous(처참한)",
+   "catastrophic(대재앙의)",
+   "heartbreaking(가슴 아픈)"
+  ],
+  "anti": [
+   "comic(희극의)",
+   "happy(행복한)",
+   "fortunate(다행스러운)"
+  ],
+  "idiom": [
+   "a tragic hero(비극의 주인공)",
+   "a tragic loss(비통한 상실)"
+  ],
+  "colloc": [
+   "tragic accident(비극적인 사고)",
+   "tragic death(비극적인 죽음)",
+   "tragic event(비극적 사건)"
+  ],
+  "ex_add": "Her sudden death was a tragic event.  (tragic=비극적인)"
+ },
+ {
+  "num": "3540",
+  "hw": "trait",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "그어진 한 줄(특징) -> '특성·특징·기질'.",
+  "senses": [
+   "1) (성격의) 특성·기질",
+   "2) (사물의) 특징·특색"
+  ],
+  "etym": "라틴어 trahere(끌다·당기다) -> tractus(끌어 그은 선) -> 프랑스어 trait(선·이목구비·특징) -> 'trait'. '그어진 한 줄 -> 두드러진 한 가지 특징'이 핵심. trahere(끌다)는 trait·attract(끌어당기다)·extract(추출하다)·tractor(트랙터)·contract(계약)의 뿌리.",
+  "deriv": "trahere(끌다) -> tractus(그은 선) -> 'trait'. '그어진 한 줄(특징) -> 특성(a personality trait, 성격 특성)'. 한국 학습자 핵심: trahere(끌다) 대가족 — attract(끌어당기다)·extract(추출)·tractor(트랙터)·contract(계약)·distract(주의를 흩뜨리다)·subtract(빼다)·abstract(추상적인)·trace(흔적)! a character trait(성격 특성), a common trait(공통된 특징), an inherited trait(유전적 특성). characteristic(특징)·feature(특색)·quality(특성)와 유의어.",
+  "syn": [
+   "characteristic(특징)",
+   "feature(특색)",
+   "quality(특성)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a personality trait(성격 특성)",
+   "a character trait(성격적 특징)"
+  ],
+  "colloc": [
+   "common trait(공통된 특징)",
+   "inherited trait(유전적 특성)",
+   "distinctive trait(독특한 특성)"
+  ],
+  "ex_add": "Patience is one of her best traits.  (trait=특성)"
+ },
+ {
+  "num": "3541",
+  "hw": "transfer",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "건너편으로 나르다 -> '옮기다·이동하다·전근 / 이체하다 / 환승'.",
+  "senses": [
+   "1) 옮기다·이동시키다·전근/전학시키다",
+   "2) (돈을) 이체하다; (권리를) 양도하다",
+   "3) (n.) 이동·이전; 환승; (스포츠) 이적"
+  ],
+  "etym": "라틴어 trans(가로질러·건너) + ferre(나르다) -> transferre(건너로 나르다) -> 'transfer'. '한쪽에서 건너편으로 옮겨 나름'이 핵심. ferre(나르다)는 transfer·refer(언급하다)·prefer(선호하다)·offer(제공하다)·suffer(겪다)·referee(3276)의 뿌리.",
+  "deriv": "trans(건너)+ferre(나르다) -> 'transfer'. '건너편으로 나름 -> 옮기다(transfer to another office, 다른 사무실로 옮기다)·(돈을) 이체하다(transfer money, 송금하다)·환승'. 한국 학습자 핵심: ferre(나르다) 대가족 — refer(언급)·prefer(선호)·offer(제공)·suffer(겪다)·conference(회의)·referee(3276)·suffering(3475)! trans(건너) — transport(수송)·translate(번역)·transmit(전송)·transform(변형). bank transfer(계좌 이체), transfer of power(권력 이양). move(옮기다)·shift(3385, 옮기다)·convey(나르다)와 유의어.",
+  "syn": [
+   "move(옮기다)",
+   "shift(옮기다)",
+   "convey(나르다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "bank transfer(계좌 이체)",
+   "transfer of power(권력 이양)"
+  ],
+  "colloc": [
+   "transfer money(송금하다)",
+   "transfer to another school(전학하다)",
+   "transfer data(데이터를 전송하다)"
+  ],
+  "ex_add": "I need to transfer some money to my savings account.  (transfer=이체하다)"
+ }
+]
