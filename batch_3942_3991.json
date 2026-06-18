@@ -1,0 +1,1571 @@
+[
+ {
+  "num": "3942",
+  "hw": "counselor",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "함께 의논해 조언하는 사람 -> '상담사·카운슬러 / 고문 / (미) 변호사'.",
+  "senses": [
+   "1) (심리·진로) 상담사·카운슬러",
+   "2) 고문·자문관",
+   "3) (미) 변호사; 캠프 지도원"
+  ],
+  "etym": "라틴어 com(함께) + consulere(의논하다) -> counsel(조언) + -or(사람). '함께 의논해 조언하는 사람'이 핵심. consulere(의논하다)는 counselor·counsel·counseling(3941)·consult(상담하다)·consultation(3908)의 뿌리.",
+  "deriv": "counsel(조언) -> 'counselor'. '함께 의논해 조언하는 사람 -> 상담사(a school counselor, 학교 상담사)'. 한국 학습자 핵심: 철자·뜻 혼동 3종! counselor(상담사, counsel 조언) vs councilor(3940, 의원, council 의회) — 발음 같음! consulere(의논하다) 갈래 — counsel·counseling(3941)·consult·consultation(3908)·consul(영사)! a guidance counselor(진학 상담사), a camp counselor(캠프 지도원), a marriage counselor(부부 상담사). adviser(고문)·therapist(3520, 치료사)·mentor(멘토)와 유의어.",
+  "syn": [
+   "adviser(고문)",
+   "therapist(치료사)",
+   "mentor(멘토)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a school counselor(학교 상담사)",
+   "a guidance counselor(진학 상담사)"
+  ],
+  "colloc": [
+   "school counselor(학교 상담사)",
+   "guidance counselor(진학 상담사)",
+   "marriage counselor(부부 상담사)"
+  ],
+  "ex_add": "The school counselor helped her choose a career.  (counselor=상담사)"
+ },
+ {
+  "num": "3943",
+  "hw": "counter",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "맞은편에서 받아치다 -> '반박하다·대응하다·맞서다 / (n.) 계산대'.",
+  "senses": [
+   "1) (주장에) 반박하다·되받아치다",
+   "2) (위협에) 대응하다·맞서다·저지하다",
+   "3) (n.) 계산대·판매대"
+  ],
+  "etym": "라틴어 contra(반대로·맞은편) -> 고대 프랑스어 contre -> 'counter'. '맞은편에서 되받아침'이 핵심. contra(반대)는 counter·contrary(3918)·contrast(대조)·contradict(반박)·encounter(맞닥뜨리다)의 뿌리.",
+  "deriv": "contra(맞은편) -> 'counter'. '맞은편에서 받아침 -> 반박하다(counter an argument, 주장에 반박하다)·대응하다(counter a threat, 위협에 대응하다)'. 한국 학습자 핵심: contra(반대) 대가족 — contrary(3918)·contrast(대조)·contradict(반박, 3917)·encounter(맞닥뜨리다)·counterpart(3944)·counterattack(반격)! counter- 접두사로 '반대·대응' — counterargument(반론)·counterproductive(역효과의)! counter with(~으로 반박하다), run counter to(~에 어긋나다). oppose(반대하다)·rebut(반박하다)·respond(대응하다)과 유의어.",
+  "syn": [
+   "oppose(반대하다)",
+   "rebut(반박하다)",
+   "respond(대응하다)"
+  ],
+  "anti": [
+   "support(지지하다)",
+   "agree(동의하다)"
+  ],
+  "idiom": [
+   "run counter to(~에 어긋나다)",
+   "counter an argument(주장에 반박하다)"
+  ],
+  "colloc": [
+   "counter a threat(위협에 대응하다)",
+   "counter an argument(주장에 반박하다)",
+   "counter the claim(주장을 반박하다)"
+  ],
+  "ex_add": "He countered the criticism with strong evidence.  (counter=반박하다)"
+ },
+ {
+  "num": "3944",
+  "hw": "counterpart",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "짝을 이루는 상대편 -> '상대방·대응물 / (지위가 같은) 상대역'.",
+  "senses": [
+   "1) (다른 쪽의) 상대방·대응자(지위·역할이 같은)",
+   "2) 대응물·짝을 이루는 것"
+  ],
+  "etym": "counter(맞은편) + part(부분·짝). 본래 계약서의 '맞쪽 사본(부절)'에서 '짝을 이루는 상대'로. '짝을 이루는 맞은편'이 핵심.",
+  "deriv": "counter(맞은편)+part(짝) -> 'counterpart'. '짝을 이루는 상대편 -> 상대방(meet one's counterpart, 상대역을 만나다)'. 한국 학습자 핵심: contra(반대) 갈래 — counter(3943)·contrary(3918)·encounter(맞닥뜨리다)·counterpart! a foreign counterpart(외국의 상대역), one's American counterpart(미국 측 상대방), the female counterpart(여성형 상대물). 외교·비즈니스에서 '지위가 같은 상대'를 가리킴. equivalent(상응물)·equal(대등한 상대)과 유의어.",
+  "syn": [
+   "equivalent(상응물)",
+   "equal(대등한 상대)",
+   "opposite number(상대역)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a foreign counterpart(외국 측 상대역)",
+   "meet one's counterpart(상대역을 만나다)"
+  ],
+  "colloc": [
+   "foreign counterpart(외국 측 상대역)",
+   "American counterpart(미국 측 상대방)",
+   "male counterpart(남성형 상대물)"
+  ],
+  "ex_add": "The minister met his French counterpart in Paris.  (counterpart=상대방)"
+ },
+ {
+  "num": "3945",
+  "hw": "countless",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "셀 수 없는 -> '무수한·셀 수 없이 많은'.",
+  "senses": [
+   "1) 무수한·셀 수 없이 많은"
+  ],
+  "etym": "count(세다, 라틴어 computare 셈하다) + -less(없는). '셀 수 없을 만큼 많은'이 핵심.",
+  "deriv": "count(세다)+-less(없는) -> 'countless'. '셀 수 없는 -> 무수한(countless times, 수없이)'. 한국 학습자 핵심: -less(없는) 접미사 — countless·endless(끝없는)·priceless(값을 매길 수 없는)·timeless(영원한)·worthless(3582)! count는 라틴어 computare(셈하다, 3878 compute)에서. countless times(수없이 여러 번), countless hours(무수한 시간), countless examples(무수한 예). innumerable(무수한)·numerous(많은)·myriad(무수한)와 유의어. 반대 few(거의 없는)·limited(제한된).",
+  "syn": [
+   "innumerable(무수한)",
+   "numerous(많은)",
+   "myriad(무수한)"
+  ],
+  "anti": [
+   "few(거의 없는)",
+   "limited(제한된)"
+  ],
+  "idiom": [
+   "countless times(수없이)",
+   "countless hours(무수한 시간)"
+  ],
+  "colloc": [
+   "countless times(수없이)",
+   "countless examples(무수한 예)",
+   "countless people(수많은 사람들)"
+  ],
+  "ex_add": "She has helped countless students over the years.  (countless=무수한)"
+ },
+ {
+  "num": "3946",
+  "hw": "coup",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "한 방의 일격 -> '쿠데타 / 대성공·큰 수확'.",
+  "senses": [
+   "1) 쿠데타(=coup d'état)",
+   "2) 대성공·큰 수확·멋진 한 수"
+  ],
+  "etym": "라틴어 colpus(일격·타격, 그리스어 kolaphos 주먹질) -> 프랑스어 coup(일격) -> 'coup'. '한 방의 결정적 타격'이 핵심.",
+  "deriv": "colpus(일격) -> coup. '한 방의 일격 -> (정권을 뒤엎는) 쿠데타(stage a coup, 쿠데타를 일으키다)·대성공(a major coup, 큰 수확)'. 한국 학습자 핵심: 발음 주의 — coup[kuː](쿠), 끝의 p는 묵음(프랑스어)! a coup d'état(쿠데타), a military coup(군사 쿠데타), stage/launch a coup(쿠데타를 일으키다), a coup for(~에게 큰 성과). takeover(탈취)·overthrow(전복)·achievement(성과)와 유의어.",
+  "syn": [
+   "takeover(탈취)",
+   "overthrow(전복)",
+   "achievement(성과)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a coup d'état(쿠데타)",
+   "stage a coup(쿠데타를 일으키다)"
+  ],
+  "colloc": [
+   "military coup(군사 쿠데타)",
+   "attempted coup(쿠데타 시도)",
+   "a major coup(큰 수확)"
+  ],
+  "ex_add": "The general seized power in a military coup.  (coup=쿠데타)"
+ },
+ {
+  "num": "3947",
+  "hw": "courtesy",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "궁정에 어울리는 예의 -> '예의·정중함 / 호의 / 무료 제공'.",
+  "senses": [
+   "1) 예의·예의 바름·정중함",
+   "2) 호의·친절",
+   "3) (courtesy of) ~의 호의로·~ 덕분에·무료 제공의"
+  ],
+  "etym": "라틴어 cohors(궁정·뜰) -> 고대 프랑스어 court(궁정) -> courteis(궁정 예법에 맞는) -> 'courtesy'. 궁정에서 갖추던 예법에서 '예의'로. court(궁정)는 courtesy·courteous(정중한)·court(법정·궁정)·courtier(신하)의 뿌리.",
+  "deriv": "court(궁정) -> courteis -> 'courtesy'. '궁정에 어울리는 예의 -> 예의(common courtesy, 기본 예의)·(courtesy of) ~의 호의로'. 한국 학습자 핵심: court(궁정·법정) 갈래 — courteous(정중한)·courtier(신하)·courtesy! common courtesy(기본 예절), out of courtesy(예의상), a courtesy call(예방·인사차 방문), courtesy of(~의 호의로·~ 덕분에), a courtesy bus(무료 셔틀버스). politeness(공손함)·civility(정중함)·manners(예의)와 유의어. 반대 rudeness(무례)·discourtesy(무례).",
+  "syn": [
+   "politeness(공손함)",
+   "civility(정중함)",
+   "manners(예의)"
+  ],
+  "anti": [
+   "rudeness(무례)",
+   "discourtesy(무례)"
+  ],
+  "idiom": [
+   "common courtesy(기본 예의)",
+   "courtesy of(~의 호의로)",
+   "out of courtesy(예의상)"
+  ],
+  "colloc": [
+   "common courtesy(기본 예의)",
+   "courtesy call(예방)",
+   "show courtesy(예의를 보이다)"
+  ],
+  "ex_add": "It's common courtesy to say thank you.  (courtesy=예의)"
+ },
+ {
+  "num": "3948",
+  "hw": "craft",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "솜씨로 빚어 만들다 -> '공들여 만들다 / (n.) 공예·기술·배'.",
+  "senses": [
+   "1) (정교하게) 공들여 만들다·빚어내다",
+   "2) (n.) 공예·수공예; 기술·솜씨",
+   "3) (n.) 배·항공기·우주선"
+  ],
+  "etym": "고대 영어 cræft(힘·기술·솜씨). 게르만어 계열로 '손으로 부리는 기술'이 핵심. aircraft(항공기)·spacecraft(우주선)의 craft.",
+  "deriv": "cræft(기술) -> 'craft'. '솜씨로 빚어 만듦 -> 공들여 만들다(a carefully crafted speech, 공들여 작성한 연설)·(n.) 공예·배'. 한국 학습자 핵심: craft 복합어 — aircraft(항공기)·spacecraft(우주선)·witchcraft(마법)·handicraft(수공예)! craftsman(장인), arts and crafts(미술과 공예), craft beer(수제 맥주), the craft of writing(글쓰기 기술). 동사로 '정교하게 만들다'가 빈출. create(만들다)·fashion(빚다)·skill(기술)과 유의어.",
+  "syn": [
+   "create(만들다)",
+   "fashion(빚다)",
+   "skill(기술)"
+  ],
+  "anti": [],
+  "idiom": [
+   "arts and crafts(미술과 공예)",
+   "craft beer(수제 맥주)"
+  ],
+  "colloc": [
+   "carefully crafted(공들여 만든)",
+   "craft a speech(연설을 공들여 작성하다)",
+   "the craft of writing(글쓰기 기술)"
+  ],
+  "ex_add": "She crafted a beautiful wooden table by hand.  (craft=공들여 만들다)"
+ },
+ {
+  "num": "3949",
+  "hw": "crawl",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "기어가다 -> '기다·기어가다 / 느릿느릿 가다 / 우글거리다'.",
+  "senses": [
+   "1) 기다·기어가다",
+   "2) (차·시간이) 느릿느릿 가다",
+   "3) (벌레가) 우글거리다; (수영) 크롤"
+  ],
+  "etym": "고대 노르드어 krafla(손톱으로 긁으며 기다). 게르만어 계열로 '땅에 붙어 기어감'이 핵심.",
+  "deriv": "krafla(기다) -> 'crawl'. '기어감 -> 기다(crawl on the floor, 바닥을 기다)·느릿느릿 가다(traffic crawls, 차가 가다 서다 한다)'. 한국 학습자 핵심: crawl·creep(3953)·crouch(웅크리다) 모두 cr- 계열(낮게 움직임)! the rush-hour crawl(혼잡 시간의 거북이 운행), make one's skin crawl(소름 끼치게 하다), crawl with(~으로 우글거리다), a baby crawls(아기가 기다). creep(3953, 기다)·slither(미끄러져 가다)와 유의어. 반대 race(질주하다)·dash(돌진하다).",
+  "syn": [
+   "creep(기다)",
+   "slither(미끄러져 가다)"
+  ],
+  "anti": [
+   "race(질주하다)",
+   "dash(돌진하다)"
+  ],
+  "idiom": [
+   "make one's skin crawl(소름 끼치게 하다)",
+   "crawl with(~으로 우글거리다)"
+  ],
+  "colloc": [
+   "crawl on the floor(바닥을 기다)",
+   "traffic crawls(차가 가다 서다 하다)",
+   "crawl slowly(느릿느릿 기다)"
+  ],
+  "ex_add": "The baby learned to crawl at six months.  (crawl=기다)"
+ },
+ {
+  "num": "3950",
+  "hw": "creator",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "만들어 낸 사람 -> '창조자·창작자 / (the Creator) 조물주'.",
+  "senses": [
+   "1) 창조자·창작자·고안자",
+   "2) (the Creator) 조물주·하느님"
+  ],
+  "etym": "라틴어 creare(만들어 내다·낳다) -> creator -> 'creator'. '무에서 만들어 낸 사람'이 핵심. creare(만들다)는 creator·create(창조하다)·creature(생물)·creation(창조)·recreate(재창조하다)의 뿌리.",
+  "deriv": "creare(만들다) -> 'creator'. '만들어 낸 사람 -> 창작자(the creator of, ~의 창작자)'. 한국 학습자 핵심: creare(만들다·낳다) 갈래 — create(창조하다)·creature(생물·피조물)·creation(창조)·creative(창의적인)·recreation(레크리에이션)·procreate(번식하다)! the creator of the series(그 시리즈의 창작자), a content creator(콘텐츠 창작자), the Creator(조물주, 대문자). maker(제작자)·inventor(발명가)·author(저자)와 유의어. 반대 destroyer(파괴자).",
+  "syn": [
+   "maker(제작자)",
+   "inventor(발명가)",
+   "author(저자)"
+  ],
+  "anti": [
+   "destroyer(파괴자)"
+  ],
+  "idiom": [
+   "the creator of(~의 창작자)",
+   "a content creator(콘텐츠 창작자)"
+  ],
+  "colloc": [
+   "content creator(콘텐츠 창작자)",
+   "the creator of(~의 창작자)",
+   "original creator(원작자)"
+  ],
+  "ex_add": "She is the creator of a popular cartoon series.  (creator=창작자)"
+ },
+ {
+  "num": "3951",
+  "hw": "credibility",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "믿을 만함 -> '신뢰성·신빙성'.",
+  "senses": [
+   "1) 신뢰성·신빙성·진실성",
+   "2) (사람·말의) 믿을 만함·공신력"
+  ],
+  "etym": "라틴어 credere(믿다) -> credibilis(믿을 만한) -> credible(3952) + -ity. '믿을 만함'이 핵심. credere(믿다)는 credibility·credit(신용)·incredible(믿기 힘든)·credentials(자격)·creed(신조)의 뿌리.",
+  "deriv": "credere(믿다) -> credible -> 'credibility'. '믿을 만함 -> 신뢰성(lose credibility, 신뢰를 잃다)'. 한국 학습자 핵심: credere(믿다) 대가족 — credit(신용·학점)·incredible(믿기 힘든)·credentials(자격 증명)·creed(신조)·credible(3952)·credulous(잘 믿는)·accredit(인정하다)! gain credibility(신뢰를 얻다), lose credibility(신뢰를 잃다), lack credibility(신빙성이 없다), scientific credibility(과학적 공신력). reliability(신뢰성)·trustworthiness(신뢰성)·plausibility(타당성)와 유의어.",
+  "syn": [
+   "reliability(신뢰성)",
+   "trustworthiness(신뢰성)",
+   "plausibility(타당성)"
+  ],
+  "anti": [
+   "implausibility(믿기 어려움)"
+  ],
+  "idiom": [
+   "lose credibility(신뢰를 잃다)",
+   "gain credibility(신뢰를 얻다)"
+  ],
+  "colloc": [
+   "lose credibility(신뢰를 잃다)",
+   "lack credibility(신빙성이 없다)",
+   "scientific credibility(과학적 공신력)"
+  ],
+  "ex_add": "The scandal damaged his credibility.  (credibility=신뢰성)"
+ },
+ {
+  "num": "3952",
+  "hw": "credible",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "믿을 만한 -> '믿을 수 있는·신뢰할 만한 / 그럴듯한'.",
+  "senses": [
+   "1) 믿을 수 있는·신빙성 있는",
+   "2) (위협·대안이) 그럴듯한·실현성 있는"
+  ],
+  "etym": "라틴어 credere(믿다) -> credibilis(믿을 만한) -> 'credible'. '믿을 만한'이 핵심.",
+  "deriv": "credere(믿다) -> 'credible'. '믿을 만한 -> 신뢰할 만한(a credible witness, 믿을 만한 증인)'. 한국 학습자 핵심: credere(믿다) 대가족 — credit(신용)·incredible(믿기 힘든)·credentials(자격)·creed(신조)·credibility(3951)·credulous(잘 속는)! 철자·뜻 구별: credible(믿을 만한) vs credulous(잘 속는) vs creditable(칭찬할 만한)! a credible threat(현실성 있는 위협), a credible alternative(실현 가능한 대안), highly credible(매우 믿을 만한). believable(믿을 수 있는)·plausible(그럴듯한)·convincing(설득력 있는)과 유의어. 반대 incredible(믿기 힘든)·implausible(믿기 어려운).",
+  "syn": [
+   "believable(믿을 수 있는)",
+   "plausible(그럴듯한)",
+   "convincing(설득력 있는)"
+  ],
+  "anti": [
+   "incredible(믿기 힘든)",
+   "implausible(믿기 어려운)"
+  ],
+  "idiom": [
+   "a credible witness(믿을 만한 증인)",
+   "a credible threat(현실성 있는 위협)"
+  ],
+  "colloc": [
+   "credible evidence(믿을 만한 증거)",
+   "credible alternative(실현 가능한 대안)",
+   "highly credible(매우 믿을 만한)"
+  ],
+  "ex_add": "There is no credible evidence to support the claim.  (credible=믿을 만한)"
+ },
+ {
+  "num": "3953",
+  "hw": "creep",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "살금살금 기다 -> '살금살금 가다·기다 / 슬며시 다가오다'.",
+  "senses": [
+   "1) 살금살금 가다·기어가다",
+   "2) (서서히) 슬며시 다가오다·번지다",
+   "3) (n.) 섬뜩한 사람·진절머리 나는 자"
+  ],
+  "etym": "고대 영어 creopan(기다·살금살금 움직이다). 게르만어 cr- 계열로 '낮게 살그머니 움직임'이 핵심.",
+  "deriv": "creopan(기다) -> 'creep'. '살금살금 기다 -> 기어가다(creep up on, 살금살금 다가가다)·슬며시 번지다(doubts crept in, 의심이 슬며시 들었다)'. 한국 학습자 핵심: 불규칙 creep-crept-crept! crawl(3949)·creep·crouch(웅크리다)는 cr- 계열(낮은 움직임). creep up on(몰래 다가가다·서서히 다가오다), make one's flesh creep(소름 끼치게 하다), creeping(서서히 퍼지는). crawl(3949, 기다)·sneak(살금살금 가다)·tiptoe(발끝으로 걷다)와 유의어.",
+  "syn": [
+   "crawl(기다)",
+   "sneak(살금살금 가다)",
+   "tiptoe(발끝으로 걷다)"
+  ],
+  "anti": [
+   "stride(성큼성큼 걷다)"
+  ],
+  "idiom": [
+   "creep up on(몰래 다가가다)",
+   "make one's flesh creep(소름 끼치게 하다)"
+  ],
+  "colloc": [
+   "creep up on(살금살금 다가가다)",
+   "creep slowly(살금살금 기다)",
+   "doubts creep in(의심이 슬며시 들다)"
+  ],
+  "ex_add": "He crept quietly into the room.  (creep=살금살금 가다)"
+ },
+ {
+  "num": "3954",
+  "hw": "critique",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "가려 판단함 -> '비평·평론 / 비평하다'.",
+  "senses": [
+   "1) (학술·예술) 비평·평론·비판적 분석",
+   "2) (동사) 비평하다·평하다"
+  ],
+  "etym": "그리스어 krites(판단하는 자, krinein 가려내다·판단하다) -> kritike(비평술) -> 프랑스어 critique -> 'critique'. '가려내어 판단함'이 핵심. krinein(가려내다)은 critique·critic(비평가)·criticize(비판하다)·criterion(기준)·crisis(위기)의 뿌리.",
+  "deriv": "krinein(가려내다) -> kritike -> 'critique'. '가려 판단함 -> 비평(a critique of, ~에 대한 비평)'. 한국 학습자 핵심: krinein(가려내다·판단하다) 대가족 — critic(비평가)·criticize(비판하다)·criterion(기준)·crisis(위기, 갈림 순간)·critical(비판적인·결정적인)·hypocrite(위선자)! 발음 — critique[krɪtíːk]. 구별: critique(체계적·학술적 비평)·criticism(비판, 더 일반적). a literary critique(문학 비평), offer a critique(비평을 내놓다). review(평론)·analysis(분석)·assessment(평가)와 유의어.",
+  "syn": [
+   "review(평론)",
+   "analysis(분석)",
+   "assessment(평가)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a critique of(~에 대한 비평)",
+   "offer a critique(비평을 내놓다)"
+  ],
+  "colloc": [
+   "literary critique(문학 비평)",
+   "a critique of(~에 대한 비평)",
+   "detailed critique(상세한 비평)"
+  ],
+  "ex_add": "The professor offered a critique of the essay.  (critique=비평)"
+ },
+ {
+  "num": "3955",
+  "hw": "crown",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "둥근 화관 -> '왕관·왕위 / 꼭대기·정점 / (이를) 씌우다'.",
+  "senses": [
+   "1) 왕관; (the Crown) 왕권·국왕",
+   "2) (머리·산의) 정수리·꼭대기",
+   "3) (치과) 치관·크라운; (동사) 왕위에 앉히다·정점을 이루다"
+  ],
+  "etym": "그리스어 korone(굽은 것·화관) -> 라틴어 corona(화관·왕관) -> 고대 프랑스어 corone -> 'crown'. '머리에 두르는 둥근 화관'이 핵심. corona(화관)는 crown·corona(코로나·광환)·coronation(대관식)·coronary(관상의)의 뿌리.",
+  "deriv": "corona(화관) -> 'crown'. '둥근 화관 -> 왕관(wear the crown, 왕위에 오르다)·정점·(이를) 씌우다'. 한국 학습자 핵심: corona(화관·둥근 것) 갈래 — corona(태양의 광환·코로나)·coronation(대관식)·coronary(관상 동맥의)! the Crown(국왕·왕권), the crowning achievement(최고의 업적), the jewel in the crown(가장 값진 것). 동사 crown=왕위에 앉히다·정점을 이루다. tiara(보관)·diadem(왕관)과 유의어.",
+  "syn": [
+   "tiara(보관)",
+   "diadem(왕관)",
+   "coronet(작은 관)"
+  ],
+  "anti": [],
+  "idiom": [
+   "the crowning achievement(최고의 업적)",
+   "the jewel in the crown(가장 값진 것)"
+  ],
+  "colloc": [
+   "wear the crown(왕위에 오르다)",
+   "the Crown(왕권)",
+   "crowning glory(최고의 영예)"
+  ],
+  "ex_add": "The prince will inherit the crown.  (crown=왕위)"
+ },
+ {
+  "num": "3956",
+  "hw": "crude",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "날것의 -> '가공 안 된·천연의 / 조잡한 / 상스러운'.",
+  "senses": [
+   "1) 가공되지 않은·천연 그대로의(crude oil)",
+   "2) (만듦새가) 조잡한·대충의·투박한",
+   "3) (말·행동이) 상스러운·노골적인"
+  ],
+  "etym": "라틴어 crudus(날것의·익지 않은·거친) -> 'crude'. raw(3261, 날것의)와 인도유럽어 친척 — '익히거나 다듬지 않은'이 핵심. crudus(날것의)는 crude·cruel(잔인한)·crudity(조잡함)의 뿌리.",
+  "deriv": "crudus(날것의) -> 'crude'. '날것의 -> 가공 안 된(crude oil, 원유)·조잡한(a crude tool, 조잡한 도구)·상스러운'. 한국 학습자 핵심: crudus(날것의·거친) 갈래 — cruel(잔인한, 날것처럼 거친)·crudity(조잡함)! raw(3261, 날것의)와 인도유럽어 친척. crude oil(원유), a crude estimate(대략적 추정), crude humor(저속한 유머), in crude terms(투박하게 말하면). rough(거친)·primitive(원시적인)·vulgar(저속한)와 유의어. 반대 refined(정제된·세련된)·sophisticated(3417, 정교한)·polished(세련된).",
+  "syn": [
+   "rough(거친)",
+   "primitive(원시적인)",
+   "vulgar(저속한)"
+  ],
+  "anti": [
+   "refined(정제된)",
+   "sophisticated(정교한)",
+   "polished(세련된)"
+  ],
+  "idiom": [
+   "crude oil(원유)",
+   "a crude estimate(대략적 추정)"
+  ],
+  "colloc": [
+   "crude oil(원유)",
+   "crude tool(조잡한 도구)",
+   "crude humor(저속한 유머)"
+  ],
+  "ex_add": "The price of crude oil has risen sharply.  (crude=가공 안 된)"
+ },
+ {
+  "num": "3957",
+  "hw": "crush",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "으스러뜨리다 -> '으깨다·짓밟다 / 진압하다 / (감정을) 짓밟다'.",
+  "senses": [
+   "1) 으깨다·으스러뜨리다·짓누르다",
+   "2) (반란·저항을) 진압하다·분쇄하다",
+   "3) (희망·자신감을) 짓밟다; (n.) 홀딱 반함(have a crush on)"
+  ],
+  "etym": "고대 프랑스어 croissir(부서지다·이를 갈다). 게르만어 의성어 계열로 '눌러 으스러뜨림'이 핵심.",
+  "deriv": "croissir(부서지다) -> 'crush'. '으스러뜨림 -> 으깨다(crush garlic, 마늘을 으깨다)·진압하다(crush a rebellion, 반란을 진압하다)·(감정을) 짓밟다'. 한국 학습자 핵심: have a crush on(~에게 홀딱 반하다)이 구어 빈출! be crushed(짓밟히다·낙담하다), crush someone's hopes(희망을 짓밟다), a crushing defeat(참패). squash(으깨다)·crumble(부수다)·suppress(진압하다)와 유의어. 반대 (감정) encourage(북돋우다).",
+  "syn": [
+   "squash(으깨다)",
+   "crumble(부수다)",
+   "suppress(진압하다)"
+  ],
+  "anti": [
+   "encourage(북돋우다)"
+  ],
+  "idiom": [
+   "have a crush on(~에게 홀딱 반하다)",
+   "a crushing defeat(참패)",
+   "crush someone's hopes(희망을 짓밟다)"
+  ],
+  "colloc": [
+   "crush garlic(마늘을 으깨다)",
+   "crush a rebellion(반란을 진압하다)",
+   "be crushed(짓밟히다)"
+  ],
+  "ex_add": "The army crushed the rebellion within days.  (crush=진압하다)"
+ },
+ {
+  "num": "3958",
+  "hw": "crystal",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "맑게 언 것 -> '수정·결정 / 크리스털 유리 / (형용사) 맑은'.",
+  "senses": [
+   "1) (광물) 수정·결정",
+   "2) 크리스털 유리·고급 유리 제품",
+   "3) (형용사) 수정처럼 맑은(crystal clear)"
+  ],
+  "etym": "그리스어 krystallos(얼음·수정, kryos 얼음 같은 추위) -> 라틴어 crystallum -> 'crystal'. 옛 사람들이 수정을 '영원히 언 얼음'으로 본 데서. '맑게 언 것'이 핵심. kryos(추위)는 crystal·cryogenic(극저온의)의 뿌리.",
+  "deriv": "krystallos(얼음·수정) -> 'crystal'. '맑게 언 것 -> 수정·결정(ice crystals, 얼음 결정)·맑은(crystal clear, 수정처럼 맑은)'. 한국 학습자 핵심: kryos(추위·얼음) 갈래 — cryogenic(극저온의)·cryptocurrency는 무관! crystal clear(수정처럼 맑은·아주 분명한), a crystal ball(수정 구슬·점치는 도구), salt crystals(소금 결정), crystallize(결정화하다·구체화되다). gem(보석)·quartz(석영)와 관련.",
+  "syn": [
+   "gem(보석)",
+   "quartz(석영)"
+  ],
+  "anti": [],
+  "idiom": [
+   "crystal clear(아주 분명한)",
+   "a crystal ball(수정 구슬)"
+  ],
+  "colloc": [
+   "ice crystals(얼음 결정)",
+   "crystal clear(수정처럼 맑은)",
+   "salt crystals(소금 결정)"
+  ],
+  "ex_add": "The water was crystal clear.  (crystal=수정처럼 맑은)"
+ },
+ {
+  "num": "3959",
+  "hw": "cult",
+  "pos": "n., adj.",
+  "cefr": "C1",
+  "core": "받들어 모심 -> '사이비 종교·광신 집단 / 숭배 / 열광적 인기의'.",
+  "senses": [
+   "1) 사이비 종교·광신 집단",
+   "2) (특정 대상의) 숭배·열광",
+   "3) (형용사) 소수 마니아층의·열광적 인기의(cult film)"
+  ],
+  "etym": "라틴어 colere(경작하다·돌보다·받들다) -> cultus(받듦·숭배) -> 'cult'. 신을 '받들어 모심'에서. colere(돌보다·받들다)는 cult·cultivate(3960)·culture(문화)·colony(식민지)·agriculture(3685)의 뿌리.",
+  "deriv": "colere(받들다) -> cultus(숭배) -> 'cult'. '받들어 모심 -> 광신 집단(join a cult, 사이비 종교에 빠지다)·(형용사) 열광적 인기의(a cult classic, 컬트 명작)'. 한국 학습자 핵심: colere(경작·돌보다·받들다) 대가족 — cultivate(3960)·culture(문화)·colony(식민지)·agriculture(3685)·cultural(문화의)! a cult following(열성 팬층), a cult film/classic(컬트 영화·소수 마니아의 명작), a personality cult(개인 숭배). sect(종파)·following(추종자들)과 유의어.",
+  "syn": [
+   "sect(종파)",
+   "following(추종자들)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a cult following(열성 팬층)",
+   "a cult classic(컬트 명작)",
+   "a personality cult(개인 숭배)"
+  ],
+  "colloc": [
+   "join a cult(사이비 종교에 빠지다)",
+   "cult following(열성 팬층)",
+   "cult film(컬트 영화)"
+  ],
+  "ex_add": "The movie developed a cult following over the years.  (cult=열광적 인기)"
+ },
+ {
+  "num": "3960",
+  "hw": "cultivate",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "갈아 길러 내다 -> '경작하다·재배하다 / (관계·재능을) 기르다·함양하다'.",
+  "senses": [
+   "1) (땅을) 경작하다; (작물을) 재배하다·기르다",
+   "2) (재능·습관을) 기르다·함양하다·계발하다",
+   "3) (관계·인맥을) 쌓다·다지다"
+  ],
+  "etym": "라틴어 colere(경작하다·돌보다) -> cultivare(갈아 기르다) -> 'cultivate'. '땅을 갈아 길러 냄'이 핵심.",
+  "deriv": "colere(경작하다) -> cultivare -> 'cultivate'. '갈아 길러 냄 -> 재배하다(cultivate crops, 작물을 재배하다)·(재능을) 함양하다(cultivate a skill, 기술을 기르다)'. 한국 학습자 핵심: colere(경작·돌보다·받들다) 대가족 — culture(문화)·colony(식민지)·agriculture(3685)·cult(3959)·cultural(문화의)·cultivation(경작)! cultivate relationships(관계를 다지다), cultivate a habit(습관을 기르다), cultivate land(땅을 일구다). grow(기르다)·foster(육성하다)·develop(계발하다)와 유의어. 반대 neglect(방치하다).",
+  "syn": [
+   "grow(기르다)",
+   "foster(육성하다)",
+   "develop(계발하다)"
+  ],
+  "anti": [
+   "neglect(방치하다)"
+  ],
+  "idiom": [
+   "cultivate relationships(관계를 다지다)",
+   "cultivate a habit(습관을 기르다)"
+  ],
+  "colloc": [
+   "cultivate crops(작물을 재배하다)",
+   "cultivate a skill(기술을 기르다)",
+   "cultivate land(땅을 일구다)"
+  ],
+  "ex_add": "It takes effort to cultivate good habits.  (cultivate=기르다)"
+ },
+ {
+  "num": "3961",
+  "hw": "curiosity",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "마음 쓰여 알고 싶음 -> '호기심 / 진기한 것·골동품'.",
+  "senses": [
+   "1) 호기심·궁금증",
+   "2) 진기한 것·신기한 물건·골동품"
+  ],
+  "etym": "라틴어 cura(돌봄·관심·걱정) -> curiosus(마음 쓰는·알고 싶어 하는) -> curious(2533, 궁금한) + -ity. '마음이 쓰여 알고 싶음'이 핵심. cura(돌봄)는 curiosity·curious(2533)·cure(치료)·secure(3357)·accurate(정확한)·curator(큐레이터)의 뿌리.",
+  "deriv": "cura(돌봄·관심) -> curious -> 'curiosity'. '마음 쓰여 알고 싶음 -> 호기심(out of curiosity, 호기심에서)'. 한국 학습자 핵심: cura(돌봄·관심) 대가족 — curious(2533)·cure(치료)·secure(3357)·accurate(정확)·curator(큐레이터)·procure(조달하다)! out of curiosity(호기심에서), arouse curiosity(호기심을 불러일으키다), idle curiosity(부질없는 호기심), Curiosity killed the cat(지나친 호기심은 화를 부른다). interest(관심)·inquisitiveness(탐구심)와 유의어. 반대 indifference(무관심)·apathy(무관심).",
+  "syn": [
+   "interest(관심)",
+   "inquisitiveness(탐구심)"
+  ],
+  "anti": [
+   "indifference(무관심)",
+   "apathy(무관심)"
+  ],
+  "idiom": [
+   "out of curiosity(호기심에서)",
+   "Curiosity killed the cat(지나친 호기심은 화를 부른다)"
+  ],
+  "colloc": [
+   "arouse curiosity(호기심을 불러일으키다)",
+   "out of curiosity(호기심에서)",
+   "intellectual curiosity(지적 호기심)"
+  ],
+  "ex_add": "Out of curiosity, she opened the box.  (curiosity=호기심)"
+ },
+ {
+  "num": "3962",
+  "hw": "custody",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "지켜 보관함 -> '양육권 / 보관·관리 / 구금'.",
+  "senses": [
+   "1) (자녀의) 양육권·보호권",
+   "2) 보관·관리·후견",
+   "3) (경찰의) 구금·구류"
+  ],
+  "etym": "라틴어 custos(지키는 사람·파수꾼, 속격 custodis) -> custodia(보관·감시) -> 'custody'. '지켜 보관함'이 핵심. custos(파수꾼)는 custody·custodian(관리인)·custodial(보관의)의 뿌리.",
+  "deriv": "custos(지키는 사람) -> custodia -> 'custody'. '지켜 보관함 -> 양육권(child custody, 자녀 양육권)·구금(in custody, 구금 중인)'. 한국 학습자 핵심: custos(파수꾼) 갈래 — custodian(관리인·수위)·custodial(보관의·구금의)! take into custody(구금하다·체포하다), be in custody(구류 중이다), joint custody(공동 양육권), the custody of(~의 보호 하에). guardianship(보호)·detention(구금)과 유의어.",
+  "syn": [
+   "guardianship(보호)",
+   "detention(구금)",
+   "care(보호)"
+  ],
+  "anti": [
+   "release(석방)",
+   "freedom(자유)"
+  ],
+  "idiom": [
+   "take into custody(구금하다)",
+   "in custody(구금 중인)",
+   "child custody(자녀 양육권)"
+  ],
+  "colloc": [
+   "child custody(자녀 양육권)",
+   "police custody(경찰 구금)",
+   "joint custody(공동 양육권)"
+  ],
+  "ex_add": "The suspect is being held in custody.  (custody=구금)"
+ },
+ {
+  "num": "3963",
+  "hw": "cutting",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "잘라 낸 것 -> '오려 낸 기사 / 꺾꽂이 순 / (형용사) 신랄한·최첨단의'.",
+  "senses": [
+   "1) (신문에서) 오려 낸 기사(영)",
+   "2) (식물의) 꺾꽂이 순·삽수",
+   "3) (형용사) 신랄한; (cutting-edge) 최첨단의"
+  ],
+  "etym": "cut(자르다, 중세 영어 cutten) + -ing. '잘라 낸 것'이 핵심.",
+  "deriv": "cut(자르다) -> 'cutting'. '잘라 낸 것 -> (신문) 스크랩(a newspaper cutting, 신문 스크랩)·꺾꽂이 순·(형용사) 신랄한(a cutting remark, 신랄한 말)'. 한국 학습자 핵심: cutting-edge(최첨단의)가 매우 빈출! a cutting remark(가시 돋친 말), the cutting edge of(~의 최첨단), take a cutting(꺾꽂이 순을 자르다). 영국 cutting = 미국 clipping(신문 스크랩). clipping(오려 낸 것)·trimming(다듬은 부스러기)과 유의어.",
+  "syn": [
+   "clipping(오려 낸 것)",
+   "trimming(부스러기)"
+  ],
+  "anti": [],
+  "idiom": [
+   "cutting-edge(최첨단의)",
+   "a cutting remark(신랄한 말)"
+  ],
+  "colloc": [
+   "newspaper cutting(신문 스크랩)",
+   "cutting-edge technology(최첨단 기술)",
+   "cutting remark(신랄한 말)"
+  ],
+  "ex_add": "The lab uses cutting-edge technology.  (cutting-edge=최첨단의)"
+ },
+ {
+  "num": "3964",
+  "hw": "cynical",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "개처럼 삐딱한 -> '냉소적인·비꼬는 / 이기적 동기를 의심하는'.",
+  "senses": [
+   "1) 냉소적인·비꼬는·세상을 삐딱하게 보는",
+   "2) (사람의 선의를) 의심하는·믿지 않는",
+   "3) (이익을 위해) 비양심적인"
+  ],
+  "etym": "그리스어 kynikos(개 같은, kyon 개) -> 키니코스학파(견유학파, 세속을 경멸한 철학자들)에서 -> 라틴어 cynicus -> 'cynical'. 세상을 '개처럼 삐딱하게 보는'이 핵심. kyon(개)은 cynical·cynic(냉소가)·cynicism(냉소주의)의 뿌리.",
+  "deriv": "kyon(개) -> kynikos -> 'cynical'. '개처럼 삐딱한 -> 냉소적인(a cynical attitude, 냉소적 태도)'. 한국 학습자 핵심: 어원이 '개(kyon)' — 견유학파(Cynics)가 개처럼 자유분방·세속 경멸했던 데서! cynic(냉소가)·cynicism(냉소주의)이 가족. become cynical(냉소적으로 변하다), a cynical view(냉소적 견해), cynical about(~에 대해 회의적인). skeptical(회의적인)·pessimistic(비관적인)·distrustful(불신하는)과 유의어. 반대 optimistic(낙관적인)·idealistic(이상주의적인)·trusting(잘 믿는).",
+  "syn": [
+   "skeptical(회의적인)",
+   "pessimistic(비관적인)",
+   "distrustful(불신하는)"
+  ],
+  "anti": [
+   "optimistic(낙관적인)",
+   "idealistic(이상주의적인)",
+   "trusting(잘 믿는)"
+  ],
+  "idiom": [
+   "a cynical attitude(냉소적 태도)",
+   "cynical about(~에 대해 회의적인)"
+  ],
+  "colloc": [
+   "cynical view(냉소적 견해)",
+   "become cynical(냉소적이 되다)",
+   "deeply cynical(매우 냉소적인)"
+  ],
+  "ex_add": "He has a cynical view of politicians.  (cynical=냉소적인)"
+ },
+ {
+  "num": "3965",
+  "hw": "dam",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "물을 막는 둑 -> '댐 / 둑으로 막다'.",
+  "senses": [
+   "1) 댐·둑·제방",
+   "2) (동사) 둑으로 막다; (감정을) 억누르다(dam up)"
+  ],
+  "etym": "중세 네덜란드어 dam(둑). 게르만어 계열로 '물길을 가로막는 둑'이 핵심. (지명 Amsterdam, Rotterdam의 -dam.)",
+  "deriv": "dam(둑) -> '물을 막는 둑 -> 댐(build a dam, 댐을 건설하다)·둑으로 막다'. 한국 학습자 핵심: 지명 Amsterdam(암스텔강의 댐), Rotterdam에 들어 있는 그 dam! 동음이의 damn(저주하다)과 발음 같음[dæm] 주의. build a dam(댐을 짓다), a hydroelectric dam(수력 발전 댐), dam up(둑으로 막다·억누르다), burst the dam(둑이 터지다). barrier(장벽)·barrage(둑)·embankment(제방)과 유의어.",
+  "syn": [
+   "barrier(장벽)",
+   "barrage(둑)",
+   "embankment(제방)"
+  ],
+  "anti": [],
+  "idiom": [
+   "build a dam(댐을 짓다)",
+   "dam up(둑으로 막다)"
+  ],
+  "colloc": [
+   "build a dam(댐을 건설하다)",
+   "hydroelectric dam(수력 발전 댐)",
+   "the dam burst(댐이 터지다)"
+  ],
+  "ex_add": "The dam provides water and electricity to the region.  (dam=댐)"
+ },
+ {
+  "num": "3966",
+  "hw": "damaging",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "해를 끼치는 -> '해로운·손상을 입히는·불리한'.",
+  "senses": [
+   "1) (물리적으로) 해로운·손상을 입히는",
+   "2) (평판·이익에) 불리한·악영향을 주는"
+  ],
+  "etym": "라틴어 damnum(손해·손실) -> 고대 프랑스어 damage -> damage(손상) + -ing. '해를 끼치는'이 핵심. damnum(손해)은 damaging·damage(손해)·condemn(3884)·indemnity(배상)의 뿌리.",
+  "deriv": "damnum(손해) -> damage -> 'damaging'. '해를 끼치는 -> 해로운(a damaging effect, 해로운 영향)·불리한(damaging evidence, 불리한 증거)'. 한국 학습자 핵심: damnum(손해) 갈래 — damage(손해)·condemn(3884, 비난하다)·indemnity(배상)·damnable(가증스러운)! environmentally damaging(환경에 해로운), politically damaging(정치적으로 불리한), a damaging blow(타격). harmful(해로운)·detrimental(해로운)·destructive(파괴적인)과 유의어. 반대 beneficial(이로운)·harmless(무해한).",
+  "syn": [
+   "harmful(해로운)",
+   "detrimental(해로운)",
+   "destructive(파괴적인)"
+  ],
+  "anti": [
+   "beneficial(이로운)",
+   "harmless(무해한)"
+  ],
+  "idiom": [
+   "a damaging effect(해로운 영향)",
+   "damaging evidence(불리한 증거)"
+  ],
+  "colloc": [
+   "damaging effect(해로운 영향)",
+   "environmentally damaging(환경에 해로운)",
+   "potentially damaging(잠재적으로 해로운)"
+  ],
+  "ex_add": "The report was highly damaging to his reputation.  (damaging=불리한)"
+ },
+ {
+  "num": "3967",
+  "hw": "dawn",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "날이 밝아 옴 -> '새벽·동틀 녘 / 시초·여명 / (동사) 밝아 오다·깨닫게 되다'.",
+  "senses": [
+   "1) 새벽·동틀 녘",
+   "2) (시대의) 시초·여명·태동",
+   "3) (동사) 날이 밝다; (생각이) 떠오르다·깨닫게 되다(dawn on)"
+  ],
+  "etym": "고대 영어 dagung(날 밝음, dæg 날·낮) -> 'dawn'. day(낮)와 한 뿌리 — '날이 밝아 옴'이 핵심.",
+  "deriv": "dæg(날) -> dagung -> 'dawn'. '날이 밝아 옴 -> 새벽(at dawn, 새벽에)·(시대의) 여명(the dawn of, ~의 시초)·(생각이) 떠오르다(it dawned on me, 문득 깨달았다)'. 한국 학습자 핵심: day(낮)와 한 뿌리! from dawn to dusk(새벽부터 해 질 녘까지), the dawn of a new era(새 시대의 여명), it dawned on me that(문득 ~을 깨달았다), the crack of dawn(이른 새벽). daybreak(새벽)·sunrise(일출)·beginning(시초)과 유의어. 반대 dusk(해 질 녘)·sunset(일몰).",
+  "syn": [
+   "daybreak(새벽)",
+   "sunrise(일출)",
+   "beginning(시초)"
+  ],
+  "anti": [
+   "dusk(해 질 녘)",
+   "sunset(일몰)"
+  ],
+  "idiom": [
+   "the dawn of(~의 시초)",
+   "dawn on(문득 깨닫다)",
+   "the crack of dawn(이른 새벽)"
+  ],
+  "colloc": [
+   "at dawn(새벽에)",
+   "the dawn of a new era(새 시대의 여명)",
+   "from dawn to dusk(새벽부터 해 질 녘까지)"
+  ],
+  "ex_add": "We set off at dawn to beat the traffic.  (dawn=새벽)"
+ },
+ {
+  "num": "3968",
+  "hw": "debris",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "부서져 흩어진 것 -> '잔해·파편·쓰레기'.",
+  "senses": [
+   "1) (파괴된 뒤의) 잔해·파편",
+   "2) 쓰레기·부스러기"
+  ],
+  "etym": "프랑스어 débris(부스러기), dé(분리) + briser(부수다) -> 'debris'. '부서져 흩어진 것'이 핵심.",
+  "deriv": "briser(부수다) -> débris -> 'debris'. '부서져 흩어진 것 -> 잔해(clear the debris, 잔해를 치우다)'. 한국 학습자 핵심: 발음 주의 — debris[dəbríː] 또는 [déɪbriː], 끝의 s 묵음(프랑스어)! 불가산 명사(단수 취급). space debris(우주 쓰레기), scatter debris(파편을 흩뿌리다), under the debris(잔해 밑에). wreckage(잔해)·rubble(돌무더기)·remains(잔해)과 유의어.",
+  "syn": [
+   "wreckage(잔해)",
+   "rubble(돌무더기)",
+   "remains(잔해)"
+  ],
+  "anti": [],
+  "idiom": [
+   "clear the debris(잔해를 치우다)",
+   "space debris(우주 쓰레기)"
+  ],
+  "colloc": [
+   "scattered debris(흩어진 파편)",
+   "clear the debris(잔해를 치우다)",
+   "under the debris(잔해 밑에)"
+  ],
+  "ex_add": "Rescuers searched through the debris for survivors.  (debris=잔해)"
+ },
+ {
+  "num": "3969",
+  "hw": "debut",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "첫발을 내디딤 -> '데뷔·첫 출연·첫선'.",
+  "senses": [
+   "1) (배우·가수의) 데뷔·첫 출연",
+   "2) (제품·작품의) 첫선·첫 공개",
+   "3) (동사) 데뷔하다·첫선을 보이다"
+  ],
+  "etym": "프랑스어 débuter(시작하다·첫발을 내딛다, but 목표·과녁) -> début -> 'debut'. 당구·놀이에서 '첫 타를 침'에서 '첫 등장'으로. '첫발을 내디딤'이 핵심.",
+  "deriv": "débuter(첫발을 내딛다) -> 'debut'. '첫발을 내디딤 -> 데뷔(make one's debut, 데뷔하다)'. 한국 학습자 핵심: 발음 주의 — debut[deɪbjúː] 또는 [déɪbjuː], 끝의 t 묵음(프랑스어)! make one's debut(데뷔하다), a debut album(데뷔 앨범), a debut novel(첫 소설), a film debut(영화 데뷔). first appearance(첫 등장)·launch(출시)와 유의어.",
+  "syn": [
+   "first appearance(첫 등장)",
+   "launch(출시)",
+   "premiere(첫 공연)"
+  ],
+  "anti": [
+   "farewell(고별)"
+  ],
+  "idiom": [
+   "make one's debut(데뷔하다)",
+   "a debut album(데뷔 앨범)"
+  ],
+  "colloc": [
+   "make a debut(데뷔하다)",
+   "debut album(데뷔 앨범)",
+   "debut novel(첫 소설)"
+  ],
+  "ex_add": "The young singer made her debut last year.  (debut=데뷔)"
+ },
+ {
+  "num": "3970",
+  "hw": "decision-making",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "잘라 정함 -> '의사 결정'.",
+  "senses": [
+   "1) 의사 결정·결정 과정"
+  ],
+  "etym": "라틴어 de(분리) + caedere(자르다) -> decide(잘라 정하다) -> decision(결정) + making(만듦). '여럿 중 잘라 내어 정함'이 핵심. caedere(자르다)는 decision·decide·precise(3193)·concise(간결한)·scissors(가위)·homicide(살인)의 뿌리.",
+  "deriv": "de(분리)+caedere(자르다) -> decide -> decision -> 'decision-making'. '잘라 정함 -> 의사 결정(decision-making process, 의사 결정 과정)'. 한국 학습자 핵심: caedere(자르다·죽이다) 대가족 — decide·decision·precise(3193)·concise(간결한)·scissors(가위)·homicide(살인)·suicide(자살)·pesticide(살충제)! '결정하다'='여러 가능성을 잘라 내어 하나만 남김'! decision-making process(의사 결정 과정), shared decision-making(공동 의사 결정), decision-making power(결정권). choice(선택)·judgment(판단)과 유의어.",
+  "syn": [
+   "choice(선택)",
+   "judgment(판단)"
+  ],
+  "anti": [],
+  "idiom": [
+   "decision-making process(의사 결정 과정)",
+   "decision-making power(결정권)"
+  ],
+  "colloc": [
+   "decision-making process(의사 결정 과정)",
+   "shared decision-making(공동 의사 결정)",
+   "improve decision-making(의사 결정을 개선하다)"
+  ],
+  "ex_add": "Good data improves decision-making.  (decision-making=의사 결정)"
+ },
+ {
+  "num": "3971",
+  "hw": "decisive",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "딱 잘라 정하는 -> '결정적인 / 단호한·과단성 있는'.",
+  "senses": [
+   "1) 결정적인·확연한·승부를 가르는",
+   "2) (사람·태도가) 단호한·과단성 있는"
+  ],
+  "etym": "라틴어 de + caedere(자르다) -> decide(결정하다)의 형용사형. '딱 잘라 정하는'이 핵심.",
+  "deriv": "decide(결정하다) -> 'decisive'. '딱 잘라 정하는 -> 결정적인(a decisive victory, 결정적 승리)·단호한(a decisive leader, 과단성 있는 지도자)'. 한국 학습자 핵심: caedere(자르다) 대가족 — decide·decision·decision-making(3970)·precise(3193)·concise(간결한)·scissors(가위)·homicide(살인)! a decisive moment(결정적 순간), a decisive factor(결정적 요인), act decisively(단호히 행동하다). conclusive(결정적인)·crucial(결정적인)·resolute(단호한)과 유의어. 반대 indecisive(우유부단한)·hesitant(주저하는).",
+  "syn": [
+   "conclusive(결정적인)",
+   "crucial(결정적인)",
+   "resolute(단호한)"
+  ],
+  "anti": [
+   "indecisive(우유부단한)",
+   "hesitant(주저하는)"
+  ],
+  "idiom": [
+   "a decisive victory(결정적 승리)",
+   "a decisive moment(결정적 순간)"
+  ],
+  "colloc": [
+   "decisive factor(결정적 요인)",
+   "decisive action(단호한 조치)",
+   "act decisively(단호히 행동하다)"
+  ],
+  "ex_add": "Her quick thinking was decisive in the crisis.  (decisive=결정적인)"
+ },
+ {
+  "num": "3972",
+  "hw": "declaration",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "분명히 밝힘 -> '선언·선포 / 신고'.",
+  "senses": [
+   "1) (공식적) 선언·선포·성명",
+   "2) (세관·세금) 신고(서)"
+  ],
+  "etym": "라틴어 de(완전히) + clarare(분명히 하다, clarus 맑은) -> declarare(분명히 밝히다) -> declare + -ation. '완전히 분명하게 밝힘'이 핵심. clarus(맑은)는 declaration·declare·clarity(3835)·clear(맑은)·clarify(명확히 하다)의 뿌리.",
+  "deriv": "de(완전히)+clarus(맑은) -> declare -> 'declaration'. '분명히 밝힘 -> 선언(a declaration of independence, 독립 선언)'. 한국 학습자 핵심: clarus(맑은·밝은) 대가족 — declare·clarity(3835)·clear(맑은)·clarify(명확히)·clarion(나팔)·clarinet(클라리넷)! the Declaration of Independence(미국 독립선언서), a declaration of war(선전 포고), a customs declaration(세관 신고서), make a declaration(선언하다). announcement(발표)·proclamation(선포)·statement(성명)과 유의어.",
+  "syn": [
+   "announcement(발표)",
+   "proclamation(선포)",
+   "statement(성명)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a declaration of independence(독립 선언)",
+   "a declaration of war(선전 포고)"
+  ],
+  "colloc": [
+   "a declaration of war(선전 포고)",
+   "customs declaration(세관 신고)",
+   "make a declaration(선언하다)"
+  ],
+  "ex_add": "The leaders signed a joint declaration.  (declaration=선언)"
+ },
+ {
+  "num": "3973",
+  "hw": "dedicated",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "온전히 바쳐진 -> '헌신적인·전념하는 / 전용의'.",
+  "senses": [
+   "1) (사람이) 헌신적인·전념하는·열심인",
+   "2) (장비·시설이) 전용의·특정 목적의"
+  ],
+  "etym": "라틴어 de(완전히) + dicare(선언하다·바치다, dicere 말하다와 동계) -> dedicare(바치다) -> dedicate의 과거분사. '온전히 바쳐진'이 핵심. dicare(바치다·선언하다)는 dedicated·dedication(3974)·dictate(받아쓰게 하다)·indicate(가리키다)·predict(예측)의 뿌리.",
+  "deriv": "de(완전히)+dicare(바치다) -> dedicate -> 'dedicated'. '온전히 바쳐진 -> 헌신적인(a dedicated teacher, 헌신적인 교사)·전용의(a dedicated server, 전용 서버)'. 한국 학습자 핵심: dicare/dicere(말하다·바치다) 대가족 — dedication(3974)·dictate(받아쓰게 하다)·indicate(가리키다)·predict(예측)·contradiction(3917)·dictionary(사전)·dictator(독재자)! dedicated to(~에 헌신하는·전념하는), a dedicated line(전용 회선). committed(헌신적인)·devoted(헌신적인)·exclusive(전용의)와 유의어. 반대 indifferent(무관심한)·half-hearted(성의 없는).",
+  "syn": [
+   "committed(헌신적인)",
+   "devoted(헌신적인)",
+   "exclusive(전용의)"
+  ],
+  "anti": [
+   "indifferent(무관심한)",
+   "half-hearted(성의 없는)"
+  ],
+  "idiom": [
+   "dedicated to(~에 헌신하는)",
+   "a dedicated server(전용 서버)"
+  ],
+  "colloc": [
+   "dedicated teacher(헌신적인 교사)",
+   "dedicated to(~에 전념하는)",
+   "highly dedicated(매우 헌신적인)"
+  ],
+  "ex_add": "She is a dedicated volunteer at the shelter.  (dedicated=헌신적인)"
+ },
+ {
+  "num": "3974",
+  "hw": "dedication",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "온전히 바침 -> '헌신·전념 / 헌정사'.",
+  "senses": [
+   "1) 헌신·전념·몰두",
+   "2) (책의) 헌정사·헌정",
+   "3) (건물·기념물의) 봉헌(식)"
+  ],
+  "etym": "라틴어 de + dicare(바치다) -> dedicate(3973)의 명사형. '온전히 바침'이 핵심.",
+  "deriv": "dedicate(3973, 바치다) -> 'dedication'. '온전히 바침 -> 헌신(with dedication, 헌신적으로)·헌정사'. 한국 학습자 핵심: dicare/dicere(말하다·바치다) 대가족 — dedicated(3973)·dictate(받아쓰게 하다)·indicate(가리키다)·predict(예측)·contradiction(3917)·dictionary(사전)! dedication to(~에 대한 헌신), hard work and dedication(노력과 헌신), a book dedication(책의 헌정사). commitment(헌신)·devotion(3 부근, 헌신)·loyalty(충성)와 유의어. 반대 indifference(무관심)·apathy(무관심).",
+  "syn": [
+   "commitment(헌신)",
+   "devotion(헌신)",
+   "loyalty(충성)"
+  ],
+  "anti": [
+   "indifference(무관심)",
+   "apathy(무관심)"
+  ],
+  "idiom": [
+   "with dedication(헌신적으로)",
+   "hard work and dedication(노력과 헌신)"
+  ],
+  "colloc": [
+   "dedication to(~에 대한 헌신)",
+   "complete dedication(완전한 헌신)",
+   "years of dedication(수년간의 헌신)"
+  ],
+  "ex_add": "Her success is the result of hard work and dedication.  (dedication=헌신)"
+ },
+ {
+  "num": "3975",
+  "hw": "deed",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "행한 것 -> '행위·소행 / (법) 증서'.",
+  "senses": [
+   "1) 행위·행동·소행(특히 의미 있는)",
+   "2) (법) 증서·날인 증서(부동산 권리증)"
+  ],
+  "etym": "고대 영어 dæd(행한 것, don 하다). do(하다)와 한 뿌리 — '실제로 행한 것'이 핵심.",
+  "deriv": "don(하다) -> dæd -> 'deed'. '행한 것 -> 행위(a good deed, 선행)·(법) 증서(the deed to a house, 집의 권리증)'. 한국 학습자 핵심: do(하다)·deed가 한 뿌리(독일어 Tat 행위와 친척)! a good deed(선행), do a good deed(선행을 하다), No good deed goes unpunished(선행은 벌받기 마련, 반어), in word and deed(말과 행동에서), the deed is done(이미 엎질러진 물이다). act(행위)·action(행동)·feat(위업)와 유의어. 반대 word(말, '말 vs 행동'에서).",
+  "syn": [
+   "act(행위)",
+   "action(행동)",
+   "feat(위업)"
+  ],
+  "anti": [
+   "word(말)"
+  ],
+  "idiom": [
+   "a good deed(선행)",
+   "in word and deed(말과 행동에서)",
+   "the deed is done(이미 엎질러진 물)"
+  ],
+  "colloc": [
+   "good deed(선행)",
+   "heroic deed(영웅적 행위)",
+   "the deed to a house(집의 권리증)"
+  ],
+  "ex_add": "She did a good deed by helping the old man.  (deed=행위)"
+ },
+ {
+  "num": "3976",
+  "hw": "deem",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "판단하여 여기다 -> '~로 여기다·간주하다·생각하다'.",
+  "senses": [
+   "1) (격식) ~로 여기다·간주하다·생각하다·판단하다"
+  ],
+  "etym": "고대 영어 deman(판단하다·선고하다, dom 판단). doom(파멸·운명)과 한 뿌리 — '판단하여 여김'이 핵심. dom(판단)은 deem·doom(운명)·-dom(영역, kingdom 왕국)의 뿌리.",
+  "deriv": "dom(판단) -> deman -> 'deem'. '판단하여 여김 -> ~로 간주하다(deem it necessary, 필요하다고 여기다)'. 한국 학습자 핵심: doom(파멸·운명)·-dom(영역, freedom 자유·kingdom 왕국·wisdom 3628)과 한 뿌리! deem A B(A를 B로 여기다), be deemed to be(~로 간주되다), if deemed necessary(필요하다고 판단되면), deem it appropriate(적절하다고 여기다). consider(여기다)·judge(판단하다)·regard(3278, 여기다)와 유의어.",
+  "syn": [
+   "consider(여기다)",
+   "judge(판단하다)",
+   "regard(여기다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "deem it necessary(필요하다고 여기다)",
+   "if deemed necessary(필요하다고 판단되면)"
+  ],
+  "colloc": [
+   "deem necessary(필요하다고 여기다)",
+   "be deemed to be(~로 간주되다)",
+   "deem appropriate(적절하다고 여기다)"
+  ],
+  "ex_add": "The project was deemed a success.  (deem=간주하다)"
+ },
+ {
+  "num": "3977",
+  "hw": "default",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "해야 할 것을 안 함 -> '채무 불이행·태만 / 기본 설정 / 불이행하다'.",
+  "senses": [
+   "1) (채무·의무의) 불이행·태만·미납",
+   "2) (컴퓨터) 기본값·초기 설정",
+   "3) (by default) 무엇이 없어서 자동으로; 부전승으로"
+  ],
+  "etym": "라틴어 de(완전히·실패) + fallere(속이다·실패하다) -> 고대 프랑스어 defaute(부족·결함) -> 'default'. fail(실패하다)·fault(잘못)와 한 뿌리 — '해야 할 것을 안 함'이 핵심. fallere(속이다·실패하다)는 default·fail(실패)·fault(잘못)·false(거짓의)·fallacy(오류)의 뿌리.",
+  "deriv": "de+fallere(실패하다) -> 'default'. '해야 할 것을 안 함 -> 불이행(default on a loan, 대출을 갚지 못하다)·기본 설정(the default setting, 기본 설정)'. 한국 학습자 핵심: fallere(속이다·실패하다) 대가족 — fail(실패)·fault(잘못)·false(거짓의)·fallacy(오류)·infallible(절대 틀리지 않는)·fallible(틀리기 쉬운)! default on(~을 불이행하다), by default(달리 방법이 없어·자동으로·부전승으로), the default option(기본 선택). nonpayment(미납)·failure(불이행)와 유의어.",
+  "syn": [
+   "nonpayment(미납)",
+   "failure(불이행)",
+   "preset(기본 설정)"
+  ],
+  "anti": [
+   "payment(납부)"
+  ],
+  "idiom": [
+   "default on(~을 불이행하다)",
+   "by default(자동으로·부전승으로)"
+  ],
+  "colloc": [
+   "default on a loan(대출을 갚지 못하다)",
+   "default setting(기본 설정)",
+   "default option(기본 선택)"
+  ],
+  "ex_add": "The company defaulted on its debt payments.  (default=불이행하다)"
+ },
+ {
+  "num": "3978",
+  "hw": "defect",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "제대로 안 만들어짐 -> '결함·하자 / (동사) 망명하다'.",
+  "senses": [
+   "1) 결함·결점·하자",
+   "2) (동사) (조국·정당을) 버리고 망명하다·이탈하다"
+  ],
+  "etym": "라틴어 de(없이·실패) + facere(만들다·하다) -> defectus(부족·결함) -> 'defect'. '제대로 만들어지지 않음·모자람'이 핵심. facere(만들다)는 defect·affect·effect·perfect(완벽한)·fact(2657)·factory(공장)의 뿌리.",
+  "deriv": "de(실패)+facere(만들다) -> 'defect'. '제대로 안 만들어짐 -> 결함(a manufacturing defect, 제조 결함)·(동사) 망명하다(defect to, ~로 망명하다)'. 한국 학습자 핵심: facere(만들다·하다) 대가족 — affect(영향)·effect(효과)·perfect(완벽한)·fact(2657)·factory(공장)·deficient(부족한, 3980)·defective(결함 있는)! 발음 — 명사 defect[díːfekt], 동사 defect[dɪfékt]! a birth defect(선천적 결함), a fatal defect(치명적 결함). flaw(결함)·fault(결점)·imperfection(불완전)과 유의어. 반대 perfection(완벽).",
+  "syn": [
+   "flaw(결함)",
+   "fault(결점)",
+   "imperfection(불완전)"
+  ],
+  "anti": [
+   "perfection(완벽)"
+  ],
+  "idiom": [
+   "a birth defect(선천적 결함)",
+   "defect to(~로 망명하다)"
+  ],
+  "colloc": [
+   "manufacturing defect(제조 결함)",
+   "birth defect(선천적 결함)",
+   "fatal defect(치명적 결함)"
+  ],
+  "ex_add": "The car was recalled due to a safety defect.  (defect=결함)"
+ },
+ {
+  "num": "3979",
+  "hw": "defensive",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "막아 내는 -> '방어적인·수비의 / (태도가) 방어적인·예민한'.",
+  "senses": [
+   "1) 방어의·수비의·방어용의",
+   "2) (비판에) 방어적인·예민하게 반응하는"
+  ],
+  "etym": "라틴어 de(떨어져·막아) + fendere(치다) -> defendere(쳐서 막다) -> defend(방어하다) + -ive. '쳐서 막아 내는'이 핵심. fendere(치다)는 defensive·defend·offend(공격하다·기분 상하게 하다)·fence(울타리)·offense(공격)의 뿌리.",
+  "deriv": "de(막아)+fendere(치다) -> defend -> 'defensive'. '막아 내는 -> 방어적인(a defensive strategy, 방어 전략)·(태도가) 예민한(get defensive, 방어적이 되다)'. 한국 학습자 핵심: fendere(치다) 갈래 — defend(방어하다)·offend(기분 상하게 하다)·fence(울타리)·offense(공격·위반)·defense(방어)! on the defensive(수세에 몰린), get defensive(발끈하다·방어적이 되다), a defensive position(방어 위치). protective(보호하는)·guarded(조심스러운)와 유의어. 반대 offensive(공격적인)·aggressive(공격적인).",
+  "syn": [
+   "protective(보호하는)",
+   "guarded(조심스러운)"
+  ],
+  "anti": [
+   "offensive(공격적인)",
+   "aggressive(공격적인)"
+  ],
+  "idiom": [
+   "on the defensive(수세에 몰린)",
+   "get defensive(발끈하다)"
+  ],
+  "colloc": [
+   "defensive strategy(방어 전략)",
+   "defensive position(방어 위치)",
+   "become defensive(방어적이 되다)"
+  ],
+  "ex_add": "He became defensive when I questioned his work.  (defensive=방어적인)"
+ },
+ {
+  "num": "3980",
+  "hw": "deficiency",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "제대로 안 됨 -> '결핍·부족 / 결함'.",
+  "senses": [
+   "1) (영양·물질의) 결핍·부족",
+   "2) 결함·결점·미비점"
+  ],
+  "etym": "라틴어 de(없이) + facere(만들다·하다) -> deficere(부족하다·다하다) -> deficient(부족한) + -cy. '제대로 만들어지지 않아 모자람'이 핵심. facere(만들다)는 deficiency·deficit(3981)·defect(3978)·sufficient(3476)·efficient(효율적인)의 뿌리.",
+  "deriv": "de(없이)+facere(만들다) -> deficient -> 'deficiency'. '제대로 안 됨 -> 결핍(vitamin deficiency, 비타민 결핍)'. 한국 학습자 핵심: facere(만들다·하다) 대가족 — deficit(3981)·defect(3978)·sufficient(3476)·efficient(효율적)·affect·effect·perfect! a vitamin deficiency(비타민 결핍), an iron deficiency(철분 부족), a deficiency in(~의 부족). lack(부족)·shortage(3393, 부족)·shortfall(부족분)과 유의어. 반대 sufficiency(충분)·abundance(2354, 풍부)·surplus(잉여).",
+  "syn": [
+   "lack(부족)",
+   "shortage(부족)",
+   "shortfall(부족분)"
+  ],
+  "anti": [
+   "sufficiency(충분)",
+   "abundance(풍부)",
+   "surplus(잉여)"
+  ],
+  "idiom": [
+   "a vitamin deficiency(비타민 결핍)",
+   "a deficiency in(~의 부족)"
+  ],
+  "colloc": [
+   "vitamin deficiency(비타민 결핍)",
+   "iron deficiency(철분 부족)",
+   "nutritional deficiency(영양 결핍)"
+  ],
+  "ex_add": "A vitamin D deficiency can weaken your bones.  (deficiency=결핍)"
+ },
+ {
+  "num": "3981",
+  "hw": "deficit",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "모자라 비는 액수 -> '적자·부족액 / 결손'.",
+  "senses": [
+   "1) (수입보다 지출이 많은) 적자·부족액",
+   "2) (경기·경쟁의) 뒤진 점수 차",
+   "3) 결손·부족"
+  ],
+  "etym": "라틴어 deficere(부족하다) -> deficit(그것이 부족하다, 3인칭 단수) -> 'deficit'. 회계 장부에서 '모자란다'고 적던 데서. '모자라 비는 액수'가 핵심.",
+  "deriv": "deficere(부족하다) -> 'deficit'. '모자라 비는 액수 -> 적자(a budget deficit, 예산 적자)'. 한국 학습자 핵심: facere(만들다·하다) 대가족 — deficiency(3980)·defect(3978)·sufficient(3476)·efficient(효율적)·affect·effect! 경제 핵심어 — a trade deficit(무역 적자), a budget deficit(재정 적자), run a deficit(적자를 내다), reduce the deficit(적자를 줄이다). 반의어 surplus(흑자·잉여). shortfall(부족분)·shortage(3393)와 유의어. 반대 surplus(흑자)·profit(이익).",
+  "syn": [
+   "shortfall(부족분)",
+   "shortage(부족)",
+   "loss(손실)"
+  ],
+  "anti": [
+   "surplus(흑자)",
+   "profit(이익)"
+  ],
+  "idiom": [
+   "a budget deficit(재정 적자)",
+   "run a deficit(적자를 내다)"
+  ],
+  "colloc": [
+   "trade deficit(무역 적자)",
+   "budget deficit(재정 적자)",
+   "reduce the deficit(적자를 줄이다)"
+  ],
+  "ex_add": "The government is trying to cut the budget deficit.  (deficit=적자)"
+ },
+ {
+  "num": "3982",
+  "hw": "defy",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "믿음을 저버리고 맞서다 -> '반항하다·거역하다 / (이해·묘사를) 불허하다'.",
+  "senses": [
+   "1) (권위·명령에) 반항하다·거역하다·도전하다",
+   "2) (설명·믿음을) 불허하다·거부하다(defy description)"
+  ],
+  "etym": "라틴어 dis(반대로) + fidere(믿다·신뢰하다, fides 신뢰) -> 고대 프랑스어 desfier(신의를 저버리다·도전하다) -> 'defy'. '믿음을 저버리고 맞섬'이 핵심. fidere(믿다)는 defy·confide(털어놓다)·fidelity(충실)·faith(믿음)·confident(자신 있는)의 뿌리.",
+  "deriv": "dis(반대로)+fidere(믿다) -> 'defy'. '믿음을 저버리고 맞섬 -> 반항하다(defy authority, 권위에 거역하다)·(이해를) 불허하다(defy explanation, 설명할 수 없다)'. 한국 학습자 핵심: fidere(믿다·신뢰) 대가족 — confide(털어놓다)·fidelity(충실·정확도)·faith(믿음)·confident(자신 있는)·confidence(신뢰)·infidel(이교도)·defiance(반항)·defiant(반항적인)! defy belief(믿기 어렵다), defy gravity(중력을 거스르다), defy logic(논리에 어긋나다). disobey(불복종하다)·resist(3303, 저항하다)·challenge(도전하다)와 유의어. 반대 obey(복종하다)·comply(3875, 준수하다).",
+  "syn": [
+   "disobey(불복종하다)",
+   "resist(저항하다)",
+   "challenge(도전하다)"
+  ],
+  "anti": [
+   "obey(복종하다)",
+   "comply(준수하다)"
+  ],
+  "idiom": [
+   "defy description(말로 표현할 수 없다)",
+   "defy belief(믿기 어렵다)",
+   "defy gravity(중력을 거스르다)"
+  ],
+  "colloc": [
+   "defy authority(권위에 거역하다)",
+   "defy logic(논리에 어긋나다)",
+   "openly defy(공공연히 거역하다)"
+  ],
+  "ex_add": "The soldiers defied their commander's orders.  (defy=거역하다)"
+ },
+ {
+  "num": "3983",
+  "hw": "delegate",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "보내어 맡긴 사람 -> '대표·사절 / (권한을) 위임하다'.",
+  "senses": [
+   "1) 대표·대의원·사절",
+   "2) (동사) (권한·업무를) 위임하다·맡기다"
+  ],
+  "etym": "라틴어 de(떨어져·아래로) + legare(보내다·위임하다) -> delegare(보내어 맡기다) -> 'delegate'. '대신 보내어 맡긴 사람'이 핵심. legare(보내다)는 delegate·legate(사절)·allege(3693)·legacy(유산)·colleague(동료)의 뿌리.",
+  "deriv": "de(떨어져)+legare(보내다) -> 'delegate'. '보내어 맡긴 사람 -> 대표(a delegate to the conference, 회의 대표)·(권한을) 위임하다(delegate tasks, 일을 위임하다)'. 한국 학습자 핵심: legare(보내다·위임) 갈래 — legate(사절)·allege(3693)·allegation(3692)·legacy(유산)·colleague(동료)·relegate(좌천시키다)·delegation(3984)! 발음 — 명사 delegate[délɪɡət], 동사 delegate[délɪɡeɪt]! delegate authority(권한을 위임하다), delegate responsibility(책임을 맡기다). representative(3296, 대표)·envoy(사절)·entrust(맡기다)와 유의어.",
+  "syn": [
+   "representative(대표)",
+   "envoy(사절)",
+   "entrust(맡기다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "delegate authority(권한을 위임하다)",
+   "a delegate to(~의 대표)"
+  ],
+  "colloc": [
+   "delegate tasks(일을 위임하다)",
+   "delegate authority(권한을 위임하다)",
+   "elected delegate(선출된 대표)"
+  ],
+  "ex_add": "A good leader knows how to delegate tasks.  (delegate=위임하다)"
+ },
+ {
+  "num": "3984",
+  "hw": "delegation",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "보내어 맡김 -> '대표단·사절단 / (권한) 위임'.",
+  "senses": [
+   "1) 대표단·사절단·파견단",
+   "2) (권한의) 위임"
+  ],
+  "etym": "라틴어 de + legare(보내다) -> delegate(3983)의 명사형. '보내어 맡김'이 핵심.",
+  "deriv": "delegate(3983, 대표·위임하다) -> 'delegation'. '보내어 맡김 -> 대표단(a trade delegation, 무역 대표단)·위임'. 한국 학습자 핵심: legare(보내다·위임) 갈래 — delegate(3983)·legate(사절)·allege(3693)·legacy(유산)·colleague(동료)! lead a delegation(대표단을 이끌다), a high-level delegation(고위급 대표단), the delegation of power(권한 위임). deputation(대표단)·mission(사절단)·assignment(위임)과 유의어.",
+  "syn": [
+   "deputation(대표단)",
+   "mission(사절단)",
+   "assignment(위임)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a trade delegation(무역 대표단)",
+   "lead a delegation(대표단을 이끌다)"
+  ],
+  "colloc": [
+   "trade delegation(무역 대표단)",
+   "high-level delegation(고위급 대표단)",
+   "delegation of power(권한 위임)"
+  ],
+  "ex_add": "A delegation from Japan visited the factory.  (delegation=대표단)"
+ },
+ {
+  "num": "3985",
+  "hw": "delicate",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "여리고 섬세한 -> '섬세한·연약한 / (다루기) 민감한·미묘한'.",
+  "senses": [
+   "1) 섬세한·정교한·연약한·깨지기 쉬운",
+   "2) (몸이) 허약한·민감한",
+   "3) (문제·상황이) 다루기 민감한·미묘한"
+  ],
+  "etym": "라틴어 delicatus(달콤한·우아한·여린, delicere 매혹하다) -> 'delicate'. '여리고 곱고 섬세함'이 핵심. delicere(매혹하다)는 delicate·delicious(맛있는)·delight(기쁨)와 관련.",
+  "deriv": "delicatus(여린·우아한) -> 'delicate'. '여리고 섬세한 -> 섬세한(delicate skin, 섬세한 피부)·(문제가) 민감한(a delicate matter, 미묘한 사안)'. 한국 학습자 핵심: delicere(매혹하다·즐겁게 하다) 갈래 — delicious(맛있는)·delight(기쁨)·delicacy(별미·섬세함)! a delicate balance(미묘한 균형), a delicate situation(민감한 상황), handle with delicacy(신중히 다루다), delicate negotiations(미묘한 협상). fragile(부서지기 쉬운)·sensitive(3368, 민감한)·subtle(미묘한)과 유의어. 반대 robust(튼튼한)·sturdy(견고한)·coarse(거친).",
+  "syn": [
+   "fragile(부서지기 쉬운)",
+   "sensitive(민감한)",
+   "subtle(미묘한)"
+  ],
+  "anti": [
+   "robust(튼튼한)",
+   "sturdy(견고한)",
+   "coarse(거친)"
+  ],
+  "idiom": [
+   "a delicate balance(미묘한 균형)",
+   "a delicate matter(미묘한 사안)"
+  ],
+  "colloc": [
+   "delicate balance(미묘한 균형)",
+   "delicate situation(민감한 상황)",
+   "delicate skin(섬세한 피부)"
+  ],
+  "ex_add": "This is a delicate matter that requires care.  (delicate=민감한)"
+ },
+ {
+  "num": "3986",
+  "hw": "demon",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "정령 -> '악마·악령 / (내면의) 마귀 / (구어) 귀신같은 사람'.",
+  "senses": [
+   "1) 악마·악령",
+   "2) (마음속) 마귀·괴로움의 근원(inner demons)",
+   "3) (구어) ~의 귀재·~광"
+  ],
+  "etym": "그리스어 daimon(신령·정령·수호신) -> 라틴어 daemon(악령) -> 'demon'. 본래 중립적 '정령'이었으나 기독교에서 '악령'으로. '정령 -> 악령'이 핵심. daimon(정령)은 demon·demonic(악마의)·pandemonium(대혼란, 악마들의 소굴)의 뿌리.",
+  "deriv": "daimon(정령) -> 'demon'. '정령 -> 악마(fight one's demons, 내면의 악마와 싸우다)'. 한국 학습자 핵심: daimon(정령) 갈래 — demonic(악마의)·pandemonium(대혼란, pan 모든+daimon 악마)! 어원의 반전: 본래 '수호신'이었다가 '악령'으로 의미가 나빠짐. inner demons(내면의 고뇌), a speed demon(과속광), fight one's demons(자신과 싸우다). devil(3708 부근 angel의 반대)·evil spirit(악령)·fiend(악마)와 유의어. 반대 angel(3708, 천사).",
+  "syn": [
+   "devil(악마)",
+   "evil spirit(악령)",
+   "fiend(악마)"
+  ],
+  "anti": [
+   "angel(천사)"
+  ],
+  "idiom": [
+   "fight one's demons(내면의 악마와 싸우다)",
+   "inner demons(내면의 고뇌)",
+   "a speed demon(과속광)"
+  ],
+  "colloc": [
+   "inner demons(내면의 고뇌)",
+   "exorcise demons(악령을 쫓다)",
+   "fight one's demons(자신과 싸우다)"
+  ],
+  "ex_add": "He struggled with his inner demons for years.  (demon=내면의 악마)"
+ },
+ {
+  "num": "3987",
+  "hw": "denial",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "아니라고 함 -> '부인·부정 / 거부 / (심리) 부정'.",
+  "senses": [
+   "1) 부인·부정",
+   "2) (요구·권리의) 거부·거절",
+   "3) (심리) 현실 부정·도피"
+  ],
+  "etym": "라틴어 de(완전히) + negare(아니라고 하다, ne 아닌) -> deny(부인하다) + -al. '아니라고 완전히 부정함'이 핵심. negare(부정하다)는 denial·deny·negative(부정의)·negate(무효화하다)·renegade(배반자)의 뿌리.",
+  "deriv": "de(완전히)+negare(아니라고 하다) -> deny -> 'denial'. '아니라고 함 -> 부인(a flat denial, 단호한 부인)·거부·(심리) 부정'. 한국 학습자 핵심: negare(부정하다·아니라고 하다) 갈래 — deny·negative(부정의)·negate(무효화)·renegade(배반자)·abnegate(포기하다)! be in denial(현실을 부정하고 있다, 심리), a flat denial(단호한 부인), issue a denial(부인 성명을 내다), denial of service(서비스 거부). refusal(거절)·rejection(거부)·disavowal(부인)과 유의어. 반대 admission(3676, 시인)·confession(3886, 자백)·acknowledgment(인정).",
+  "syn": [
+   "refusal(거절)",
+   "rejection(거부)",
+   "disavowal(부인)"
+  ],
+  "anti": [
+   "admission(시인)",
+   "confession(자백)",
+   "acknowledgment(인정)"
+  ],
+  "idiom": [
+   "be in denial(현실을 부정하다)",
+   "a flat denial(단호한 부인)"
+  ],
+  "colloc": [
+   "flat denial(단호한 부인)",
+   "in denial(현실을 부정하는)",
+   "issue a denial(부인 성명을 내다)"
+  ],
+  "ex_add": "He issued a firm denial of the accusations.  (denial=부인)"
+ },
+ {
+  "num": "3988",
+  "hw": "denounce",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "공공연히 알려 규탄하다 -> '맹비난하다·규탄하다 / 고발하다'.",
+  "senses": [
+   "1) (공개적으로) 맹비난하다·규탄하다",
+   "2) 고발하다·밀고하다"
+  ],
+  "etym": "라틴어 de(완전히·아래로) + nuntiare(알리다·통고하다, nuntius 전령) -> denuntiare(공공연히 알리다·고발하다) -> 'denounce'. '공개적으로 알려 규탄함'이 핵심. nuntiare(알리다)는 denounce·announce(알리다)·pronounce(발음하다)·renounce(포기하다)의 뿌리.",
+  "deriv": "de(완전히)+nuntiare(알리다) -> 'denounce'. '공공연히 알려 규탄함 -> 맹비난하다(denounce violence, 폭력을 규탄하다)'. 한국 학습자 핵심: nuntiare(알리다·통고하다) 갈래 — announce(알리다)·pronounce(발음·선언하다)·renounce(포기하다)·enunciate(또렷이 말하다)·denunciation(규탄)! denounce as(~라고 비난하다), publicly denounce(공개적으로 규탄하다), denounce someone to(~을 ~에 고발하다). condemn(3884, 규탄하다)·criticize(비판하다)·censure(견책하다)와 유의어. 반대 praise(칭찬하다)·endorse(지지하다).",
+  "syn": [
+   "condemn(규탄하다)",
+   "criticize(비판하다)",
+   "censure(견책하다)"
+  ],
+  "anti": [
+   "praise(칭찬하다)",
+   "endorse(지지하다)"
+  ],
+  "idiom": [
+   "denounce as(~라고 비난하다)",
+   "publicly denounce(공개적으로 규탄하다)"
+  ],
+  "colloc": [
+   "denounce violence(폭력을 규탄하다)",
+   "publicly denounce(공개적으로 규탄하다)",
+   "strongly denounce(강력히 비난하다)"
+  ],
+  "ex_add": "The leader denounced the attack as an act of terror.  (denounce=규탄하다)"
+ },
+ {
+  "num": "3989",
+  "hw": "dense",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "빽빽한 -> '밀집한·빽빽한 / (안개가) 짙은 / (구어) 둔한'.",
+  "senses": [
+   "1) (인구·나무가) 밀집한·빽빽한",
+   "2) (안개·연기가) 짙은·자욱한",
+   "3) (글이) 난해한; (구어) 우둔한"
+  ],
+  "etym": "라틴어 densus(빽빽한·짙은) -> 'dense'. '촘촘하게 들어찬'이 핵심. densus(빽빽한)는 dense·density(3990)·condense(응축하다)의 뿌리.",
+  "deriv": "densus(빽빽한) -> 'dense'. '빽빽한 -> 밀집한(a dense forest, 울창한 숲)·(안개가) 짙은(dense fog, 짙은 안개)'. 한국 학습자 핵심: densus(빽빽한) 갈래 — density(3990)·condense(응축하다·요약하다)·condensation(응결)! a dense population(밀집된 인구), dense fog(짙은 안개), a dense forest(울창한 숲), densely populated(인구가 밀집한). thick(빽빽한)·compact(빽빽한)·crowded(붐비는)와 유의어. 반대 sparse(드문드문한)·thin(성긴).",
+  "syn": [
+   "thick(빽빽한)",
+   "compact(빽빽한)",
+   "crowded(붐비는)"
+  ],
+  "anti": [
+   "sparse(드문드문한)",
+   "thin(성긴)"
+  ],
+  "idiom": [
+   "a dense forest(울창한 숲)",
+   "dense fog(짙은 안개)"
+  ],
+  "colloc": [
+   "dense forest(울창한 숲)",
+   "dense fog(짙은 안개)",
+   "densely populated(인구가 밀집한)"
+  ],
+  "ex_add": "The hikers got lost in the dense forest.  (dense=빽빽한)"
+ },
+ {
+  "num": "3990",
+  "hw": "density",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "빽빽한 정도 -> '밀도·농도 / 밀집도'.",
+  "senses": [
+   "1) (물리) 밀도",
+   "2) (인구·정보의) 밀집도·집적도",
+   "3) (안개의) 짙기"
+  ],
+  "etym": "라틴어 densus(빽빽한) -> densitas -> 'density'. '빽빽한 정도'가 핵심.",
+  "deriv": "dense(3989, 빽빽한) -> 'density'. '빽빽한 정도 -> 밀도(population density, 인구 밀도)'. 한국 학습자 핵심: densus(빽빽한) 갈래 — dense(3989)·condense(응축하다)·condensation(응결)! population density(인구 밀도), high density(고밀도), bone density(골밀도), density of traffic(교통 밀집도). concentration(농도)·thickness(밀도)와 유의어. 반대 sparseness(희박함).",
+  "syn": [
+   "concentration(농도)",
+   "thickness(밀도)"
+  ],
+  "anti": [
+   "sparseness(희박함)"
+  ],
+  "idiom": [
+   "population density(인구 밀도)",
+   "high density(고밀도)"
+  ],
+  "colloc": [
+   "population density(인구 밀도)",
+   "bone density(골밀도)",
+   "high density(고밀도)"
+  ],
+  "ex_add": "The city has a very high population density.  (density=밀도)"
+ },
+ {
+  "num": "3991",
+  "hw": "dependence",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "~에 매달려 있음 -> '의존·의지 / 종속 / (약물) 중독'.",
+  "senses": [
+   "1) 의존·의지·기댐",
+   "2) 종속·예속",
+   "3) (약물·알코올) 의존·중독"
+  ],
+  "etym": "라틴어 de(아래로) + pendere(매달리다) -> dependere(~에 매달리다) -> depend + -ence. '~에 매달려 있음'이 핵심. pendere(매달다)는 dependence·depend·suspend(3488)·compensate(3866)·pension(연금)·pendant(펜던트)의 뿌리.",
+  "deriv": "de(아래로)+pendere(매달리다) -> depend -> 'dependence'. '~에 매달려 있음 -> 의존(dependence on, ~에 대한 의존)·중독'. 한국 학습자 핵심: pendere(매달다·달다) 대가족 — depend·suspend(3488)·compensate(3866)·pension(연금)·pendant(펜던트)·pending(미결의)·independent(2680)·indispensable(필수의)! dependence on(~에 대한 의존), drug dependence(약물 의존), reduce dependence(의존을 줄이다), economic dependence(경제적 종속). reliance(의존)·addiction(중독)과 유의어. 반대 independence(독립)·autonomy(3745, 자율).",
+  "syn": [
+   "reliance(의존)",
+   "addiction(중독)",
+   "subordination(종속)"
+  ],
+  "anti": [
+   "independence(독립)",
+   "autonomy(자율)"
+  ],
+  "idiom": [
+   "dependence on(~에 대한 의존)",
+   "drug dependence(약물 의존)"
+  ],
+  "colloc": [
+   "dependence on(~에 대한 의존)",
+   "economic dependence(경제적 종속)",
+   "reduce dependence(의존을 줄이다)"
+  ],
+  "ex_add": "The country wants to reduce its dependence on oil.  (dependence=의존)"
+ }
+]
