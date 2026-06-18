@@ -1,3 +1,6 @@
 out_*.docx
 *.tmp
 __pycache__/
+out.xlsx
+out_full.xlsx
+_full_tmp.json
