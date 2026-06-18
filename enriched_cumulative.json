@@ -147849,5 +147849,1631 @@
   "ex_add": "He was put in intensive care.  (intensive=집중적인)",
   "ex_orig": "Jeff Anderson Regional Medical Center provides surgery, a Level II newborn intensive - care unit, and a health and fitness center.",
   "ex_src": "WIKI"
+ },
+ {
+  "num": "4292",
+  "hw": "intent",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "마음을 ~로 뻗어(tendere) 향함 -> '의도·목적'; (adj.)'몰두한'.",
+  "senses": [
+   "1) (n.) 의도, 목적, 의향",
+   "2) (adj.) 몰두한, 열중한(intent on)",
+   "3) (adj.) 진지한, 골똘한"
+  ],
+  "etym": "라틴어 tendere(뻗다·향하다) -> intendere(~로 마음을 뻗다, in-쪽으로 + tendere) -> intentus -> 'intent'. tendere(뻗다)는 intend(의도하다)·intense(강렬한)·tension(긴장)·extend(늘이다)·attend(참석하다)의 공통 뿌리.",
+  "deriv": "in-(쪽으로) + tendere(뻗다) -> 'intent'. 한국 학습자 핵심: tendere(뻗다)계열 — intend(의도하다)·intention(의도)·intense(강렬한)·intensity(4290)·tension(긴장)·extend(연장)·attend(참석)! with intent to(~할 의도로), criminal intent(범죄 의도), to all intents and purposes(사실상), intent on(~에 몰두한). 명사 intent ↔ intention 거의 동의(intent는 더 격식·법률). 유의어 purpose(목적)·aim(목표).",
+  "syn": [
+   "intention(의도)",
+   "purpose(목적)",
+   "aim(목표)"
+  ],
+  "anti": [
+   "accident(우연)"
+  ],
+  "idiom": [
+   "with intent to(~할 의도로)",
+   "to all intents and purposes(사실상)",
+   "intent on(~에 몰두한)"
+  ],
+  "colloc": [
+   "criminal intent(범죄 의도)",
+   "with intent(고의로)",
+   "intent on(~에 열중한)"
+  ],
+  "ex_add": "He was charged with intent to defraud.  (intent=의도)",
+  "ex_orig": "To place a battery of artillery a hundred yards from the Rheims Cathedral with the intent of firing upon the German position would be like placing a battery in Wall Street with the idea of shelling Germans in the Bronx.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4293",
+  "hw": "interactive",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "서로(inter) 작용하는(act) -> '상호작용의·양방향의'.",
+  "senses": [
+   "1) 상호작용하는, 서로 영향을 주고받는",
+   "2) (컴퓨터·매체가) 대화형의, 양방향의"
+  ],
+  "etym": "라틴어 inter(사이에·서로) + agere/act(행하다) -> interact + -ive -> 'interactive'. inter(사이)는 international(국제의)·internet(인터넷)·interval(간격)의 뿌리. agere(행하다)는 act·action·agent의 뿌리.",
+  "deriv": "inter-(서로) + act(행하다) -> 'interactive'. 한국 학습자 핵심: inter-(사이·서로) 접두사 대표군 — interact(상호작용하다)·international(국제의)·internet·interview(면담)·interrupt(가로막다)·interval(간격)! an interactive whiteboard(전자 칠판), interactive learning(상호작용 학습), interactive media(양방향 매체). 동사 interact(상호작용하다), 명사 interaction(상호작용). 유의어 reciprocal(상호적인)·two-way(양방향의).",
+  "syn": [
+   "reciprocal(상호적인)",
+   "two-way(양방향의)",
+   "collaborative(협력적인)"
+  ],
+  "anti": [
+   "passive(수동적인)",
+   "one-way(일방향의)"
+  ],
+  "idiom": [
+   "interactive learning(상호작용 학습)"
+  ],
+  "colloc": [
+   "interactive whiteboard(전자 칠판)",
+   "interactive media(양방향 매체)",
+   "interactive learning(상호작용 학습)"
+  ],
+  "ex_add": "The museum has many interactive exhibits.  (interactive=상호작용의)",
+  "ex_orig": "Strike Force and British Open Championship Golf. these problems, business deals with Microsoft, Games and Interactive were unsuccessful.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4294",
+  "hw": "interface",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "서로(inter) 맞닿는 면(face) -> '접점·인터페이스'.",
+  "senses": [
+   "1) (컴퓨터) 인터페이스, 사용자 화면",
+   "2) (둘 사이의) 접점, 경계면",
+   "3) (v.) 연결되다, 접속하다"
+  ],
+  "etym": "라틴어 inter(사이에) + facies(얼굴·표면) -> 'interface'. inter(사이)는 international·internet의 뿌리. facies(얼굴)는 face·facade(정면)·surface(표면)의 뿌리. '두 영역이 맞닿는 면'이 핵심.",
+  "deriv": "inter-(사이) + face(면) -> 'interface'. 한국 학습자 핵심: inter-(사이)계열 — interface·internet·international·intersection(4300)! face/faci(면·얼굴)계열 — face·surface(표면)·facade(정면)·facial(얼굴의)! a user interface(사용자 인터페이스 UI), a graphical interface(그래픽 인터페이스 GUI), the interface between(~사이의 접점). 유의어 boundary(경계)·connection(연결).",
+  "syn": [
+   "boundary(경계)",
+   "connection(연결)",
+   "junction(접합점)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a user interface(사용자 인터페이스)"
+  ],
+  "colloc": [
+   "user interface(사용자 인터페이스)",
+   "graphical interface(그래픽 인터페이스)",
+   "interface between(~사이의 접점)"
+  ],
+  "ex_add": "The software has a simple user interface.  (interface=인터페이스)",
+  "ex_orig": "The Secret of Monkey Island was the fifth game built with the SCUMM engine, which was heavily modified to include a more user - friendly interface.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4295",
+  "hw": "interfere",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "사이에서(inter) 쳐(ferire) 들어오다 -> '간섭하다·방해하다'.",
+  "senses": [
+   "1) 간섭하다, 참견하다(interfere in)",
+   "2) 방해하다, 지장을 주다(interfere with)",
+   "3) (전파·광선이) 간섭하다"
+  ],
+  "etym": "라틴어 inter(사이에) + ferire(치다·때리다) -> 고대 프랑스어 entreferir(서로 치다) -> 'interfere'. '사이에 끼어들어 부딪쳐 방해함'이 핵심.",
+  "deriv": "inter-(사이) + ferire(치다) -> 'interfere'. 한국 학습자 핵심: 전치사 구별 핵심 출제 — interfere IN(~에 참견하다, 일·문제)·interfere WITH(~을 방해하다, 활동·기능)! inter-(사이)계열 — interfere·intervene(4301)·interrupt·interject! don't interfere(참견하지 마라), interfere with one's work(일을 방해하다). 명사 interference(간섭, 4296). 유의어 meddle(참견하다)·intervene(개입하다)·hinder(방해하다).",
+  "syn": [
+   "meddle(참견하다)",
+   "intervene(개입하다)",
+   "hinder(방해하다)"
+  ],
+  "anti": [
+   "ignore(무시하다)"
+  ],
+  "idiom": [
+   "interfere in(~에 참견하다)",
+   "interfere with(~을 방해하다)"
+  ],
+  "colloc": [
+   "interfere with(~을 방해하다)",
+   "interfere in affairs(일에 간섭하다)",
+   "constantly interfere(끊임없이 간섭하다)"
+  ],
+  "ex_add": "Don't let emotions interfere with your judgment.  (interfere=방해하다)",
+  "ex_orig": "Russia, however, without the slightest right, moral or legal, attacked Austria from the back by interfering with Austria's own affairs.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4296",
+  "hw": "interference",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "사이에서(inter) 쳐(ferire) 들어옴 -> '간섭·방해·전파 혼선'.",
+  "senses": [
+   "1) 간섭, 참견",
+   "2) 방해, 지장",
+   "3) (전파·신호의) 혼선, 간섭"
+  ],
+  "etym": "라틴어 inter(사이) + ferire(치다) -> interfere(간섭하다, 4295) + -ence -> 'interference'. '사이에 끼어들어 방해함'이 핵심.",
+  "deriv": "inter-(사이) + ferire(치다) -> 'interference'. 한국 학습자 핵심: interfere(동사, 4295)·interference(명사)! government interference(정부 개입), outside interference(외부 간섭), radio interference(전파 혼선), without interference(간섭 없이). 유의어 intervention(개입, 4302)·meddling(참견)·intrusion(침입). 반대 noninterference(불간섭).",
+  "syn": [
+   "intervention(개입)",
+   "meddling(참견)",
+   "intrusion(침입)"
+  ],
+  "anti": [
+   "noninterference(불간섭)"
+  ],
+  "idiom": [
+   "without interference(간섭 없이)"
+  ],
+  "colloc": [
+   "government interference(정부 개입)",
+   "outside interference(외부 간섭)",
+   "radio interference(전파 혼선)"
+  ],
+  "ex_add": "They resented foreign interference in their affairs.  (interference=간섭)",
+  "ex_orig": "To prevent such interference Germany of all nations needed an army; to prevent similar interference at sea England of all nations needed a navy.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4297",
+  "hw": "interim",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "그 사이(inter) 동안의 -> '임시의·잠정적인'.",
+  "senses": [
+   "1) 임시의, 잠정적인, 과도기의",
+   "2) (n.) 중간 기간(in the interim 그동안에)"
+  ],
+  "etym": "라틴어 interim(그 사이에·그동안, inter 사이) -> 'interim'. inter(사이)의 부사형이 그대로 영어에 들어옴. '본격적인 것이 오기 전 잠정 기간'이 핵심.",
+  "deriv": "inter(사이) -> 'interim'. 한국 학습자 핵심: inter-(사이)계열 — interim(잠정의)·interval(간격)·interlude(막간)·meantime(그동안)! an interim government(과도 정부), an interim report(중간 보고서), an interim measure(잠정 조치), in the interim(그동안에). 유의어 temporary(임시의)·provisional(잠정적인)·stopgap(임시변통의). 반대 permanent(영구적인)·final(최종의).",
+  "syn": [
+   "temporary(임시의)",
+   "provisional(잠정적인)",
+   "stopgap(임시변통의)"
+  ],
+  "anti": [
+   "permanent(영구적인)",
+   "final(최종의)"
+  ],
+  "idiom": [
+   "in the interim(그동안에)",
+   "an interim government(과도 정부)"
+  ],
+  "colloc": [
+   "interim government(과도 정부)",
+   "interim report(중간 보고서)",
+   "interim measure(잠정 조치)"
+  ],
+  "ex_add": "An interim government was formed after the coup.  (interim=과도의)",
+  "ex_orig": "In the interim he had a great success playing a thinly disguised version of the American actor John Barrymore in Edna's Theatre Royal.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4298",
+  "hw": "interior",
+  "pos": "adj., n.",
+  "cefr": "C1",
+  "core": "더 안쪽의(inter) -> '내부의·실내'.",
+  "senses": [
+   "1) (n.) 내부, 실내; 인테리어",
+   "2) (adj.) 내부의, 안쪽의",
+   "3) (n.) (the Interior) 내륙; 내정"
+  ],
+  "etym": "라틴어 inter(사이·안) -> interior(더 안쪽의, 비교급) -> 'interior'. inter(안)는 internal(내부의)·intimate(친밀한, 4303)·entrails(내장)와 뿌리 공유. '안쪽 깊은 곳'이 핵심.",
+  "deriv": "inter(안) -> interior(더 안쪽의) -> 'interior'. 한국 학습자 핵심: 정반대 짝 — interior(내부) ↔ exterior(외부)! interior design(실내 디자인), interior decoration(실내 장식), the car's interior(차 내부), the Ministry of the Interior(내무부). 유의어 inside(내부)·inner(안쪽의). 반대 exterior(외부)·outside(바깥).",
+  "syn": [
+   "inside(내부)",
+   "inner(안쪽의)",
+   "internal(내부의)"
+  ],
+  "anti": [
+   "exterior(외부)",
+   "outside(바깥)",
+   "external(외부의)"
+  ],
+  "idiom": [
+   "interior design(실내 디자인)"
+  ],
+  "colloc": [
+   "interior design(실내 디자인)",
+   "car interior(차 내부)",
+   "interior decoration(실내 장식)"
+  ],
+  "ex_add": "She works as an interior designer.  (interior=실내의)",
+  "ex_orig": "Very far from calm is a Swiss who has just returned from captivity in the interior of Morocco on account of being mistaken for a German.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4299",
+  "hw": "intermediate",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "사이(inter) 가운데(medius)에 있는 -> '중간의·중급의'.",
+  "senses": [
+   "1) 중간의, 중급의",
+   "2) 중개하는, 매개의"
+  ],
+  "etym": "라틴어 inter(사이) + medius(가운데) -> intermediare(중간에 두다) -> 'intermediate'. medius(가운데)는 medium(매체·중간)·media(매체)·mediate(중재하다)·medieval(중세의)의 공통 뿌리.",
+  "deriv": "inter-(사이) + medius(가운데) -> 'intermediate'. 한국 학습자 핵심: medius(가운데)계열 — medium(중간·매체)·media(매체)·mediate(중재하다)·mediator(중재자)·medieval(중세의)·Mediterranean(지중해, 땅의 가운데)! 수준 단계: beginner(초급) -> intermediate(중급) -> advanced(고급)! an intermediate level(중급 수준), an intermediate stage(중간 단계). 유의어 middle(중간의)·midway(중간의).",
+  "syn": [
+   "middle(중간의)",
+   "midway(중간의)",
+   "transitional(과도기의)"
+  ],
+  "anti": [
+   "advanced(고급의)",
+   "beginner(초급의)"
+  ],
+  "idiom": [
+   "an intermediate level(중급 수준)"
+  ],
+  "colloc": [
+   "intermediate level(중급 수준)",
+   "intermediate stage(중간 단계)",
+   "intermediate step(중간 단계)"
+  ],
+  "ex_add": "The course is for intermediate students.  (intermediate=중급의)",
+  "ex_orig": "Some Egyptologists such as argue that this contributed heavily to the collapse of the Egyptian state during the First Intermediate Period, c.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4300",
+  "hw": "intersection",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "서로(inter) 가로질러(secare) 만나는 점 -> '교차로·교차점'.",
+  "senses": [
+   "1) 교차로, 네거리",
+   "2) (선·면의) 교차점",
+   "3) (개념의) 교집합, 접점"
+  ],
+  "etym": "라틴어 inter(사이·서로) + secare(자르다) -> intersecare(가로지르다) -> intersection. secare(자르다)는 section(부분)·sector(부문)·dissect(해부하다, dis-갈라)·segment(조각)의 공통 뿌리.",
+  "deriv": "inter-(서로) + secare(자르다) -> 'intersection'. 한국 학습자 핵심: secare(자르다)계열 — section(부분)·sector(부문·분야)·dissect(해부하다)·segment(분절)·insect(곤충, 마디로 잘린 몸)·intersect(교차하다)! at the intersection(교차로에서), a busy intersection(번잡한 교차로), the intersection of(~의 교차점·접점). 유의어 crossroads(교차로)·junction(분기점).",
+  "syn": [
+   "crossroads(교차로)",
+   "junction(분기점)",
+   "crossing(교차점)"
+  ],
+  "anti": [],
+  "idiom": [
+   "at the intersection(교차로에서)"
+  ],
+  "colloc": [
+   "busy intersection(번잡한 교차로)",
+   "at the intersection(교차로에서)",
+   "intersection of(~의 교차점)"
+  ],
+  "ex_add": "Turn left at the next intersection.  (intersection=교차로)",
+  "ex_orig": "After the Webber Avenue intersection, NY 448 turns to the northeast, where it passes the athletic fields of Sleepy Hollow High School.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4301",
+  "hw": "intervene",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "사이로(inter) 들어오다(venire) -> '개입하다·중재하다'.",
+  "senses": [
+   "1) (분쟁에) 개입하다, 끼어들다",
+   "2) (사건이) 사이에 일어나다",
+   "3) 중재하다, 조정하다"
+  ],
+  "etym": "라틴어 inter(사이에) + venire(오다) -> intervenire(사이에 오다) -> 'intervene'. venire(오다)는 convene(소집하다, con-함께)·prevent(막다, pre-앞서)·event(사건)·invent(발명하다)·venue(장소)·avenue(대로)의 공통 뿌리.",
+  "deriv": "inter-(사이) + venire(오다) -> 'intervene'. 한국 학습자 핵심: venire(오다)계열 거대군 — convene(소집하다)·prevent(예방하다)·event(사건)·invent(발명하다)·venue(개최지)·avenue(대로)·revenue(수입)·souvenir(기념품)·intervene! intervene in(~에 개입하다), military intervention(군사 개입). 명사 intervention(개입, 4302). 유의어 intercede(중재하다)·step in(개입하다)·mediate(중재하다).",
+  "syn": [
+   "intercede(중재하다)",
+   "step in(개입하다)",
+   "mediate(중재하다)"
+  ],
+  "anti": [
+   "withdraw(물러나다)",
+   "abstain(관여하지 않다)"
+  ],
+  "idiom": [
+   "intervene in(~에 개입하다)"
+  ],
+  "colloc": [
+   "intervene in(~에 개입하다)",
+   "intervene militarily(군사적으로 개입하다)",
+   "refuse to intervene(개입을 거부하다)"
+  ],
+  "ex_add": "The police had to intervene to stop the fight.  (intervene=개입하다)",
+  "ex_orig": "The priest then showed the officer the notices on the walls, signed by the Burgomaster, warning the inhabitants not to intervene in hostilities.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4302",
+  "hw": "intervention",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "사이로(inter) 들어옴(venire) -> '개입·중재·시술'.",
+  "senses": [
+   "1) (분쟁·문제에 대한) 개입",
+   "2) 중재, 조정",
+   "3) (의료) 시술, 처치"
+  ],
+  "etym": "라틴어 inter(사이) + venire(오다) -> intervenire(개입하다) + -tion -> 'intervention'. intervene(개입하다, 4301)의 명사형. venire(오다)가 핵심 뿌리.",
+  "deriv": "inter-(사이) + venire(오다) -> 'intervention'. 한국 학습자 핵심: venire(오다)계열 명사 — intervention(개입)·convention(대회·관습)·prevention(예방)·invention(발명)! military intervention(군사 개입), government intervention(정부 개입), early intervention(조기 개입), surgical intervention(외과적 처치). 유의어 interference(간섭, 4296)·mediation(중재). 반대 nonintervention(불개입).",
+  "syn": [
+   "interference(간섭)",
+   "mediation(중재)",
+   "involvement(관여)"
+  ],
+  "anti": [
+   "nonintervention(불개입)"
+  ],
+  "idiom": [
+   "military intervention(군사 개입)"
+  ],
+  "colloc": [
+   "military intervention(군사 개입)",
+   "government intervention(정부 개입)",
+   "early intervention(조기 개입)"
+  ],
+  "ex_add": "The crisis called for immediate intervention.  (intervention=개입)",
+  "ex_orig": "First and last, we take the ground that this question must be localized _by the abstention of all the powers from intervention in it_,",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4303",
+  "hw": "intimate",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "마음속 가장 안쪽(intimus)의 -> '친밀한·은밀한'.",
+  "senses": [
+   "1) (관계가) 친밀한, 절친한",
+   "2) 사적인, 은밀한",
+   "3) (지식이) 깊고 상세한; (v.) 넌지시 알리다"
+  ],
+  "etym": "라틴어 intimus(가장 안쪽의, inter 안의 최상급) -> intimare(안에 알리다) -> 'intimate'. interior(4298)·internal과 같은 inter(안) 뿌리. '마음 가장 깊은 곳까지 닿는'이 핵심.",
+  "deriv": "intimus(가장 안쪽의) -> 'intimate'. 한국 학습자 핵심: inter(안)의 최상급 — interior(더 안쪽)·intimate(가장 안쪽 -> 친밀한)! an intimate relationship(친밀한 관계), an intimate atmosphere(아늑한 분위기), intimate knowledge of(~에 대한 깊은 지식). 명사 intimacy(친밀함). 동사로 '넌지시 비치다'(격식). 유의어 close(친한)·personal(사적인). 반대 distant(서먹한)·formal(격식 차린).",
+  "syn": [
+   "close(친한)",
+   "personal(사적인)",
+   "cozy(아늑한)"
+  ],
+  "anti": [
+   "distant(서먹한)",
+   "formal(격식 차린)"
+  ],
+  "idiom": [
+   "an intimate relationship(친밀한 관계)"
+  ],
+  "colloc": [
+   "intimate relationship(친밀한 관계)",
+   "intimate friend(절친한 친구)",
+   "intimate knowledge(깊은 지식)"
+  ],
+  "ex_add": "They have an intimate friendship.  (intimate=친밀한)",
+  "ex_orig": "Zoellner intimated that the whole German Army either had been or was being vaccinated against typhoid on the American plan.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4304",
+  "hw": "intriguing",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "호기심이 엉키게(intricare) 만드는 -> '아주 흥미로운'.",
+  "senses": [
+   "1) 아주 흥미로운, 호기심을 자아내는",
+   "2) 묘하게 끌리는"
+  ],
+  "etym": "라틴어 intricare(엉키게 하다, in-안에 + tricae 성가신 것·얽힘) -> 이탈리아어 intrigare -> intrigue + -ing -> 'intriguing'. intricate(복잡한)와 같은 tricae(얽힘) 뿌리. '머리를 얽히게 할 만큼 궁금하게 함'이 핵심.",
+  "deriv": "intricare(엉키게 하다) -> intrigue -> 'intriguing'. 한국 학습자 핵심: tricae(얽힘)계열 — intricate(복잡한·뒤얽힌)·intrigue(흥미를 끌다·음모)·intriguing(흥미로운)! an intriguing question(흥미로운 질문), an intriguing possibility(흥미로운 가능성), find it intriguing(흥미롭다고 느끼다). 명사 intrigue=음모·흥미. 유의어 fascinating(매혹적인)·captivating(마음을 사로잡는)·compelling(흥미진진한). 반대 boring(지루한)·dull(따분한).",
+  "syn": [
+   "fascinating(매혹적인)",
+   "captivating(마음을 사로잡는)",
+   "compelling(흥미진진한)"
+  ],
+  "anti": [
+   "boring(지루한)",
+   "dull(따분한)"
+  ],
+  "idiom": [
+   "an intriguing question(흥미로운 질문)"
+  ],
+  "colloc": [
+   "intriguing question(흥미로운 질문)",
+   "intriguing possibility(흥미로운 가능성)",
+   "deeply intriguing(매우 흥미로운)"
+  ],
+  "ex_add": "The story raises an intriguing question.  (intriguing=흥미로운)",
+  "ex_orig": "The Germans expected to encounter raw and sluggish troops under intriguing time-servers and military Hamlets whose \"native hue of resolution\" had been \"sicklied o'er with the pale cast of",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4305",
+  "hw": "inventory",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "발견한(invenire) 물품 목록 -> '재고·재고 목록'.",
+  "senses": [
+   "1) 재고, 재고품",
+   "2) 재고 목록, 물품 명세서",
+   "3) 재고 조사"
+  ],
+  "etym": "라틴어 invenire(찾아내다, in-위에 + venire 오다) -> inventarium(발견된 물품 목록) -> 'inventory'. venire(오다)는 invent(발명하다)·intervene(4301)·event의 뿌리. '찾아내어 적은 물품 목록'이 핵심.",
+  "deriv": "in-(위에) + venire(오다) -> invent -> 'inventory'. 한국 학습자 핵심: venire(오다)계열 — invent(발명하다, 우연히 마주침)·invention(발명)·inventory(재고)·intervene(4301)! take inventory(재고 조사를 하다), keep an inventory(재고를 관리하다), inventory management(재고 관리), out of inventory(재고 소진). 유의어 stock(재고)·supply(비축).",
+  "syn": [
+   "stock(재고)",
+   "supply(비축)",
+   "store(저장품)"
+  ],
+  "anti": [],
+  "idiom": [
+   "take inventory(재고 조사를 하다)"
+  ],
+  "colloc": [
+   "take inventory(재고 조사를 하다)",
+   "inventory management(재고 관리)",
+   "keep an inventory(재고를 관리하다)"
+  ],
+  "ex_add": "The store takes inventory every month.  (inventory=재고 조사)",
+  "ex_orig": "Owing to the destruction of the inventory and the stock in the villages, there is nothing to till the soil with, and the fields have to remain unseeded.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4306",
+  "hw": "investigator",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "발자국(vestigium)을 추적하는 사람 -> '수사관·조사자'.",
+  "senses": [
+   "1) 수사관, 조사관",
+   "2) (학술) 연구자, 조사자"
+  ],
+  "etym": "라틴어 vestigium(발자국·자취) -> investigare(자취를 따라 추적하다, in-안으로 + vestigare) -> investigator. vestigium(흔적)은 vestige(흔적·자취)·investigate(조사하다)의 뿌리. '발자국을 따라 진상을 캐는 사람'이 핵심.",
+  "deriv": "in-(안으로) + vestigium(발자국) -> 'investigator'. 한국 학습자 핵심: vestigium(흔적)계열 — vestige(자취·흔적)·investigate(조사하다)·investigation(조사)·investigator! a private investigator(사립 탐정 PI), a criminal investigator(범죄 수사관), a lead investigator(주임 조사관). 동사 investigate(조사하다). 유의어 detective(형사)·examiner(조사관)·researcher(연구자).",
+  "syn": [
+   "detective(형사)",
+   "examiner(조사관)",
+   "researcher(연구자)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a private investigator(사립 탐정)"
+  ],
+  "colloc": [
+   "private investigator(사립 탐정)",
+   "criminal investigator(범죄 수사관)",
+   "lead investigator(주임 조사관)"
+  ],
+  "ex_add": "The investigator examined all the evidence.  (investigator=수사관)",
+  "ex_orig": "Member of the General Education Board, and an original investigator for the cause of international peace.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4307",
+  "hw": "invisible",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "볼(videre) 수 없는(in) -> '보이지 않는'.",
+  "senses": [
+   "1) 눈에 보이지 않는",
+   "2) (존재가) 드러나지 않는, 무시되는"
+  ],
+  "etym": "라틴어 in-(부정) + videre(보다) -> invisibilis(볼 수 없는) -> 'invisible'. videre(보다)는 vision(시력)·visible(보이는)·visual(시각의)·video·evident(명백한)·supervise(감독하다)의 공통 뿌리.",
+  "deriv": "in-(부정) + videre(보다) -> 'invisible'. 한국 학습자 핵심: videre(보다)계열 거대군 — vision(시력)·visible(보이는)·visual(시각의)·video·evident(명백한)·supervise(감독하다)·revise(수정하다)·envisage(상상하다)! 정반대 짝: visible(보이는) ↔ invisible(보이지 않는)! the invisible hand(보이지 않는 손, 경제), become invisible(보이지 않게 되다), invisible to the naked eye(육안으로 안 보이는). 유의어 unseen(보이지 않는)·imperceptible(감지할 수 없는).",
+  "syn": [
+   "unseen(보이지 않는)",
+   "imperceptible(감지할 수 없는)",
+   "hidden(숨겨진)"
+  ],
+  "anti": [
+   "visible(보이는)",
+   "apparent(뚜렷한)"
+  ],
+  "idiom": [
+   "the invisible hand(보이지 않는 손)",
+   "invisible to the naked eye(육안으로 안 보이는)"
+  ],
+  "colloc": [
+   "virtually invisible(거의 보이지 않는)",
+   "invisible to(~에게 보이지 않는)",
+   "invisible ink(투명 잉크)"
+  ],
+  "ex_add": "Germs are invisible to the naked eye.  (invisible=보이지 않는)",
+  "ex_orig": "To the Captain on the bridge of the Lusitania the submarine would have been at that time invisible, being below the horizon._",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4308",
+  "hw": "invoke",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "~에게 향해(in) 부르다(vocare) -> '(법·권한을) 발동하다·(신·기억을) 불러내다'.",
+  "senses": [
+   "1) (법·규정·권한을) 발동하다, 행사하다",
+   "2) (도움·신을) 간청하다, 부르다",
+   "3) (감정·기억을) 불러일으키다, 환기하다"
+  ],
+  "etym": "라틴어 vocare(부르다, vox 목소리) -> invocare(불러내다, in-향해 + vocare) -> 'invoke'. vocare(부르다)는 voice(목소리)·vocal(목소리의)·advocate(옹호하다)·provoke(자극하다)·evoke(환기하다, 앞서 나온 evoke)·vocation(소명)의 공통 뿌리.",
+  "deriv": "in-(향해) + vocare(부르다) -> 'invoke'. 한국 학습자 핵심: vocare(부르다·목소리)계열 — voice·vocal·vocabulary(어휘)·advocate(옹호하다)·provoke(도발하다)·evoke(환기하다)·revoke(취소하다)·vocation(천직)! invoke a law(법을 발동하다), invoke memories(기억을 불러일으키다), invoke the right to(~할 권리를 행사하다). 유의어 cite(인용하다)·call upon(요청하다)·evoke(불러일으키다).",
+  "syn": [
+   "cite(원용하다)",
+   "call upon(요청하다)",
+   "evoke(불러일으키다)"
+  ],
+  "anti": [
+   "revoke(취소하다)",
+   "waive(포기하다)"
+  ],
+  "idiom": [
+   "invoke a law(법을 발동하다)",
+   "invoke the right to(~할 권리를 행사하다)"
+  ],
+  "colloc": [
+   "invoke a law(법을 발동하다)",
+   "invoke memories(기억을 불러일으키다)",
+   "invoke authority(권한을 행사하다)"
+  ],
+  "ex_add": "The president invoked emergency powers.  (invoke=발동하다)",
+  "ex_orig": "No war in modern times has been begun without the aggressor pretending that his nation wished nothing but peace and invoking Divine aid for its murderous policy.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4309",
+  "hw": "involvement",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "안으로(in) 말려(volvere) 들어감 -> '관여·연루·참여'.",
+  "senses": [
+   "1) 관여, 참여, 개입",
+   "2) 연루, 가담",
+   "3) 몰두, 열중"
+  ],
+  "etym": "라틴어 volvere(굴리다·말다) -> involvere(말아 넣다·휩싸다, in-안으로 + volvere) -> involve + -ment -> 'involvement'. volvere(굴리다)는 revolve(회전하다, re-다시)·evolve(진화하다, ex-밖으로, 4xxx evolutionary)·revolution(혁명)·volume(부피·권)의 공통 뿌리.",
+  "deriv": "in-(안으로) + volvere(굴리다) -> 'involvement'. 한국 학습자 핵심: volvere(굴리다·말다)계열 — revolve(회전하다)·evolve(진화하다)·revolution(혁명)·revolt(반란)·volume(권·부피)·involve(포함하다·관련시키다)! involvement in(~에의 관여), parental involvement(부모의 참여), military involvement(군사 개입), deep involvement(깊은 관여). 동사 involve. 유의어 participation(참여)·engagement(관여). 반대 detachment(무관심).",
+  "syn": [
+   "participation(참여)",
+   "engagement(관여)",
+   "association(연루)"
+  ],
+  "anti": [
+   "detachment(무관심)",
+   "noninvolvement(불개입)"
+  ],
+  "idiom": [
+   "involvement in(~에의 관여)"
+  ],
+  "colloc": [
+   "involvement in(~에의 관여)",
+   "parental involvement(부모의 참여)",
+   "direct involvement(직접적 관여)"
+  ],
+  "ex_add": "He denied any involvement in the crime.  (involvement=연루)",
+  "ex_orig": "Fort Crawford would play a significant role in U.S. involvement in Minnesota, particularly as the site of the Treaty of Prairie du Chien.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4310",
+  "hw": "ironic",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "시치미떼며(eiron) 반대로 말하는 -> '반어적인·얄궂은'.",
+  "senses": [
+   "1) 반어적인, 비꼬는",
+   "2) (상황이) 얄궂은, 아이러니한"
+  ],
+  "etym": "그리스어 eiron(시치미 떼는 사람·짐짓 모르는 척하는 사람) -> eironeia(짐짓 모르는 체함) -> 라틴어 ironia -> ironic. '속뜻과 반대로 말하는 태도'가 핵심. irony(4312)·ironically(4311)와 한 가족.",
+  "deriv": "eiron(시치미떼는 자) -> 'ironic'. 한국 학습자 핵심: irony 가족 — irony(반어, 4312)·ironic(반어적인)·ironically(얄궂게도, 4311)! 철자 함정: 발음 [aɪrɑnɪk] '아이라닉'(i를 '아이'로)! 동음 혼동: ironic(반어적)≠iron(철·다리미)! it's ironic that(~라니 아이러니하다), an ironic twist(얄궂은 반전), an ironic tone(빈정대는 어조). 유의어 sarcastic(빈정대는)·sardonic(냉소적인).",
+  "syn": [
+   "sarcastic(빈정대는)",
+   "sardonic(냉소적인)",
+   "wry(비꼬는)"
+  ],
+  "anti": [
+   "sincere(진심의)",
+   "literal(문자 그대로의)"
+  ],
+  "idiom": [
+   "an ironic twist(얄궂은 반전)",
+   "it's ironic that(~라니 아이러니하다)"
+  ],
+  "colloc": [
+   "ironic twist(얄궂은 반전)",
+   "ironic tone(빈정대는 어조)",
+   "deeply ironic(매우 아이러니한)"
+  ],
+  "ex_add": "It's ironic that the fire station burned down.  (ironic=얄궂은)",
+  "ex_orig": "add a peculiar, ironic, \"don't care\" sort of humor;",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4311",
+  "hw": "ironically",
+  "pos": "adv.",
+  "cefr": "C1",
+  "core": "얄궂게도(eiron 반어로) -> '얄궂게도·반어적으로'.",
+  "senses": [
+   "1) (문장 수식) 얄궂게도, 공교롭게도",
+   "2) 반어적으로, 비꼬아서"
+  ],
+  "etym": "그리스어 eiron(시치미떼는 사람) -> irony -> ironic(4310) + -ally -> 'ironically'. '의도·기대와 정반대로'가 핵심. irony(4312)·ironic(4310)과 한 가족.",
+  "deriv": "eiron(시치미떼는 자) -> ironic -> 'ironically'. 한국 학습자 핵심: irony 가족 부사형 — irony(4312)·ironic(4310)·ironically! 문두에 자주 와 문장 전체 수식 — Ironically,(얄궂게도,). speak ironically(비꼬아 말하다), ironically enough(공교롭게도). 유의어 paradoxically(역설적이게도)·oddly enough(이상하게도). 기대와 결과가 어긋날 때 쓰는 빈출 연결어.",
+  "syn": [
+   "paradoxically(역설적이게도)",
+   "oddly enough(이상하게도)"
+  ],
+  "anti": [
+   "sincerely(진심으로)",
+   "literally(문자 그대로)"
+  ],
+  "idiom": [
+   "ironically enough(공교롭게도)"
+  ],
+  "colloc": [
+   "ironically enough(공교롭게도)",
+   "speak ironically(비꼬아 말하다)",
+   "ironically, however(얄궂게도, 그러나)"
+  ],
+  "ex_add": "Ironically, the diet made him gain weight.  (ironically=얄궂게도)",
+  "ex_orig": "Meanwhile, the other Junior Campers, led by Ernest Borgnine, take the correct route, ironically they end up in an even worse position:",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4312",
+  "hw": "irony",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "속뜻과 반대로 말함(eiron) -> '반어·아이러니·얄궂음'.",
+  "senses": [
+   "1) 반어(법), 비꼼",
+   "2) (상황의) 얄궂음, 역설",
+   "3) 극적 아이러니"
+  ],
+  "etym": "그리스어 eiron(시치미 떼는 사람) -> eironeia(짐짓 모르는 체함) -> 라틴어 ironia -> 'irony'. '겉말과 속뜻이 반대됨'이 핵심. ironic(4310)·ironically(4311)와 한 가족.",
+  "deriv": "eiron(시치미떼는 자) -> 'irony'. 한국 학습자 핵심: irony 가족 명사 — irony(반어)·ironic(반어적인, 4310)·ironically(얄궂게도, 4311)! 동음 혼동: irony(반어)≠iron(철)·iron-y(쇠 같은)! the irony of(~의 아이러니), dramatic irony(극적 아이러니), a sense of irony(반어적 감각), the height of irony(아이러니의 극치). 문학 분석 빈출. 유의어 sarcasm(빈정거림)·paradox(역설). 반대 sincerity(진심).",
+  "syn": [
+   "sarcasm(빈정거림)",
+   "paradox(역설)"
+  ],
+  "anti": [
+   "sincerity(진심)",
+   "earnestness(진지함)"
+  ],
+  "idiom": [
+   "the irony of(~의 아이러니)",
+   "dramatic irony(극적 아이러니)"
+  ],
+  "colloc": [
+   "sense of irony(반어적 감각)",
+   "dramatic irony(극적 아이러니)",
+   "cruel irony(잔인한 아이러니)"
+  ],
+  "ex_add": "The irony of the situation was not lost on her.  (irony=아이러니)",
+  "ex_orig": "Did it smile in irony when through Christ and through His Church He pronounced the solemn words of expiation and of repentance?",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4313",
+  "hw": "irrelevant",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "관련(relevant)이 없는(ir) -> '무관한·상관없는'.",
+  "senses": [
+   "1) 관련 없는, 무관한",
+   "2) 중요하지 않은, 핵심에서 벗어난"
+  ],
+  "etym": "라틴어 in-(부정) + relevare(들어올리다·관계되다, re-다시 + levare 가볍게 들다) -> relevant + ir-(r 앞 동화) -> 'irrelevant'. levare(들다)는 elevate(들어올리다)·relieve(완화하다)·lever(지렛대)·levity(경솔)의 뿌리. 접두사 in-이 r 앞에서 ir-로 동화.",
+  "deriv": "ir-(부정) + relevant -> 'irrelevant'. 한국 학습자 핵심: in- 동화 규칙 완성 — l 앞 il-(illegal), r 앞 ir-(irrelevant·irregular·irresponsible), b/m/p 앞 im-(impossible)! levare(들다)계열 — elevate(승강시키다)·relieve(덜어주다)·relevant(관련된)·lever(지렛대)! irrelevant to(~와 무관한), largely irrelevant(거의 무관한). 정반대: relevant(관련된) ↔ irrelevant. 유의어 unrelated(무관한)·immaterial(중요치 않은).",
+  "syn": [
+   "unrelated(무관한)",
+   "immaterial(중요치 않은)",
+   "beside the point(요점에서 벗어난)"
+  ],
+  "anti": [
+   "relevant(관련된)",
+   "pertinent(적절한)",
+   "applicable(해당되는)"
+  ],
+  "idiom": [
+   "irrelevant to(~와 무관한)",
+   "beside the point(요점에서 벗어난)"
+  ],
+  "colloc": [
+   "irrelevant to(~와 무관한)",
+   "largely irrelevant(거의 무관한)",
+   "irrelevant detail(무관한 세부사항)"
+  ],
+  "ex_add": "That argument is irrelevant to the case.  (irrelevant=무관한)",
+  "ex_orig": "Excisions have been made only where it has been felt necessary to conceal the identity of the deponent or to omit what are merely hearsay statements, or are palpably irrelevant.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4314",
+  "hw": "isolation",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "섬(insula)처럼 떨어뜨림 -> '고립·격리'.",
+  "senses": [
+   "1) 고립, 분리",
+   "2) (전염병의) 격리, 차단",
+   "3) 고독감, 소외"
+  ],
+  "etym": "라틴어 insula(섬) -> 이탈리아어 isolato(섬처럼 고립된) -> isolate(고립시키다) + -ion -> 'isolation'. insula(섬)는 isolate·insular(섬의·편협한)·peninsula(반도, paene 거의+insula)·insulate(절연하다)의 공통 뿌리.",
+  "deriv": "insula(섬) -> 'isolation'. '섬처럼 떨어뜨림 -> 고립'. 한국 학습자 핵심: insula(섬)계열 — isolate(고립시키다)·isolated(고립된)·insular(편협한)·peninsula(반도, 거의 섬)·insulate(단열·절연하다)·insulin(인슐린)! in isolation(고립되어·따로), social isolation(사회적 고립), self-isolation(자가 격리), a sense of isolation(소외감). 유의어 seclusion(은둔)·solitude(고독)·quarantine(검역 격리). 반대 connection(연결)·integration(통합).",
+  "syn": [
+   "seclusion(은둔)",
+   "solitude(고독)",
+   "segregation(분리)"
+  ],
+  "anti": [
+   "connection(연결)",
+   "integration(통합)",
+   "contact(접촉)"
+  ],
+  "idiom": [
+   "in isolation(고립되어)",
+   "self-isolation(자가 격리)"
+  ],
+  "colloc": [
+   "social isolation(사회적 고립)",
+   "in isolation(따로 떼어)",
+   "sense of isolation(소외감)"
+  ],
+  "ex_add": "Long periods of isolation can harm mental health.  (isolation=고립)",
+  "ex_orig": "It was as if Europe had been divided into two halves by a formidable barrier, which condemned the unfortunate Russians to isolation.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4315",
+  "hw": "judicial",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "재판(judex)에 관한 -> '사법의·재판의'.",
+  "senses": [
+   "1) 사법의, 재판의",
+   "2) 사법부의"
+  ],
+  "etym": "라틴어 judex/judicis(재판관, jus 법 + dicere 말하다) -> judicialis -> 'judicial'. jus(법)는 justice(정의)·judge(판사)·jury(배심원)·jurisdiction(관할권, 4316)·prejudice(편견)의 공통 뿌리.",
+  "deriv": "jus(법) + dicere(말하다) -> judex -> 'judicial'. 한국 학습자 핵심: jus/jud/jur(법·재판)계열 — justice(정의)·judge(판사)·judgment(판단)·jury(배심원)·jurisdiction(관할권, 4316)·prejudice(편견, pre-미리 판단)·judicial! 삼권: judicial(사법)·legislative(입법, 4338)·executive(행정)! the judicial system(사법 제도), judicial review(사법 심사), judicial branch(사법부). 유의어 legal(법적인)·juridical(사법의).",
+  "syn": [
+   "legal(법적인)",
+   "juridical(사법의)",
+   "forensic(법정의)"
+  ],
+  "anti": [
+   "extrajudicial(재판 외의)"
+  ],
+  "idiom": [
+   "judicial review(사법 심사)",
+   "the judicial branch(사법부)"
+  ],
+  "colloc": [
+   "judicial system(사법 제도)",
+   "judicial review(사법 심사)",
+   "judicial branch(사법부)"
+  ],
+  "ex_add": "The case is now part of a judicial review.  (judicial=사법의)",
+  "ex_orig": "It was in this way that the English common law was built, and such has been the admirable history of the work done by our own judicial system.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4316",
+  "hw": "jurisdiction",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "법(juris)을 말하는(dictio) 권한 -> '사법권·관할권'.",
+  "senses": [
+   "1) 사법권, 재판권",
+   "2) 관할권, 관할 구역",
+   "3) 권한이 미치는 범위"
+  ],
+  "etym": "라틴어 jus/juris(법) + dictio(말하기, dicere 말하다) -> jurisdictio(법을 선언함) -> 'jurisdiction'. jus(법)는 justice·judge·jury의 뿌리, dicere(말하다)는 indicate·predict·dictionary의 뿌리. 두 큰 어근의 결합.",
+  "deriv": "juris(법) + dictio(말함) -> 'jurisdiction'. 한국 학습자 핵심: jus/jur(법)계열 — justice·judge·jury·judicial(4315)·jurisdiction·jurist(법학자)! dict(말하다)계열 — dictate·predict·indicate(4252)·dictionary! within one's jurisdiction(~의 관할 내에), outside the jurisdiction(관할 밖의), have jurisdiction over(~에 대한 관할권을 갖다). 유의어 authority(권한)·control(통제)·domain(영역).",
+  "syn": [
+   "authority(권한)",
+   "control(통제)",
+   "domain(영역)"
+  ],
+  "anti": [],
+  "idiom": [
+   "have jurisdiction over(~에 대한 관할권을 갖다)",
+   "within one's jurisdiction(~의 관할 내에)"
+  ],
+  "colloc": [
+   "have jurisdiction over(~을 관할하다)",
+   "federal jurisdiction(연방 관할권)",
+   "outside the jurisdiction(관할 밖의)"
+  ],
+  "ex_add": "The court has no jurisdiction over this matter.  (jurisdiction=관할권)",
+  "ex_orig": "All then 203 National Olympic Committees () were invited to submit the name of a city within their jurisdiction until September 13, 2007.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4317",
+  "hw": "just",
+  "pos": "adv., adj.",
+  "cefr": "C1",
+  "core": "법(jus)에 들어맞는 -> '딱·방금'(부사); '공정한'(형용사).",
+  "senses": [
+   "1) (adv.) 막, 방금; 딱, 바로; 그저, 단지",
+   "2) (adj.) 공정한, 정당한",
+   "3) (adj.) 마땅한, 정당한(a just reward)"
+  ],
+  "etym": "라틴어 jus(법·권리) -> justus(법에 맞는·올바른) -> 고대 프랑스어 juste -> 'just'. jus(법)는 justice(정의)·justify(정당화하다)·judge·adjust(조정하다)의 공통 뿌리. '법에 정확히 맞음 -> 딱·정확히'로 부사 의미가 확장.",
+  "deriv": "jus(법) -> justus(올바른) -> 'just'. 한국 학습자 핵심: 같은 철자 두 품사 — 부사 just(막·딱·그저, 일상 A1)와 형용사 just(공정한, C1)! jus(법)계열 — justice(정의)·justify(정당화)·justification(4318)·adjust(조정하다)·unjust(부당한)·injustice(불의, 4268)! a just society(공정한 사회), a just cause(정당한 명분). 유의어(형용사) fair(공정한)·rightful(정당한). 반대 unjust(부당한).",
+  "syn": [
+   "fair(공정한)",
+   "rightful(정당한)",
+   "equitable(공평한)"
+  ],
+  "anti": [
+   "unjust(부당한)",
+   "unfair(불공정한)"
+  ],
+  "idiom": [
+   "a just cause(정당한 명분)",
+   "a just society(공정한 사회)"
+  ],
+  "colloc": [
+   "just society(공정한 사회)",
+   "just cause(정당한 명분)",
+   "just and fair(공정하고 정당한)"
+  ],
+  "ex_add": "They fought for a just cause.  (just=정당한)",
+  "ex_orig": "Very far from calm is a Swiss who has just returned from captivity in the interior of Morocco on account of being mistaken for a German.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4318",
+  "hw": "justification",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "법(jus)에 맞게 만듦 -> '정당화·타당한 이유'.",
+  "senses": [
+   "1) 정당화, 타당한 근거",
+   "2) 변명, 옹호"
+  ],
+  "etym": "라틴어 jus(법) -> justificare(올바르게 하다, justus 올바른 + facere 만들다) + -ation -> 'justification'. jus(법)는 justice·just(4317)·justify의 뿌리, facere(만들다)는 factory·effect의 뿌리.",
+  "deriv": "jus(법) + facere(만들다) -> justify -> 'justification'. 한국 학습자 핵심: jus(법)계열 — justice(정의)·just(4317)·justify(정당화하다)·justification·unjustified(부당한)! no justification for(~에 대한 정당한 이유가 없는), in justification of(~을 정당화하여), some justification(어느 정도 타당성). 동사 justify(정당화하다). 유의어 rationale(근거)·grounds(근거)·excuse(변명).",
+  "syn": [
+   "rationale(근거)",
+   "grounds(근거)",
+   "excuse(변명)"
+  ],
+  "anti": [],
+  "idiom": [
+   "no justification for(~에 대한 정당한 이유가 없는)"
+  ],
+  "colloc": [
+   "no justification for(~에 대한 정당한 이유가 없는)",
+   "moral justification(도덕적 정당성)",
+   "provide justification(타당한 이유를 제시하다)"
+  ],
+  "ex_add": "There is no justification for such violence.  (justification=정당한 이유)",
+  "ex_orig": "The exasperation and contempt which Italy's treacherous surprise attack and her hypocritical justification arouse here (Vienna) are quite indescribable.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4319",
+  "hw": "keen",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "날카롭고 열성적인 -> '열망하는·예리한'.",
+  "senses": [
+   "1) 열망하는, 간절히 ~하고 싶은(keen to/on)",
+   "2) (감각·통찰이) 예리한, 날카로운",
+   "3) (관심이) 강한, 열성적인"
+  ],
+  "etym": "고대 영어 cene(용감한·예리한) -> 'keen'. 게르만 뿌리로 '날이 선·기민한'이 핵심. 칼날의 예리함이 의욕·감각의 예리함으로 확장.",
+  "deriv": "cene(예리한) -> 'keen'. 한국 학습자 핵심: 두 갈래 의미 — ① 열망하는(keen to do, keen on something) ② 예리한(a keen sense of, a keen eye)! be keen to(~하기를 열망하다), keen on(~을 좋아하는·열중한), a keen interest(강한 관심), a keen sense of smell(예민한 후각), keenly aware(예리하게 인식하는). 유의어(열망) eager(간절한)·enthusiastic(열정적인); (예리) sharp(날카로운)·acute(예리한). 반대 indifferent(무관심한)·dull(둔한).",
+  "syn": [
+   "eager(간절한)",
+   "sharp(예리한)",
+   "enthusiastic(열성적인)"
+  ],
+  "anti": [
+   "indifferent(무관심한)",
+   "dull(둔한)",
+   "reluctant(꺼리는)"
+  ],
+  "idiom": [
+   "keen on(~을 좋아하는)",
+   "be keen to(~하기를 열망하다)"
+  ],
+  "colloc": [
+   "keen interest(강한 관심)",
+   "keen to(~하기를 열망하는)",
+   "keen sense(예민한 감각)"
+  ],
+  "ex_add": "She was keen to learn new skills.  (keen=열망하는)",
+  "ex_orig": "For twenty-five years she has exhibited a keen desire to obtain colonial possessions; and since 1896 she has been aggressive in this field.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4320",
+  "hw": "kidnap",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "아이(kid)를 낚아채다(nap) -> '납치하다·유괴하다'.",
+  "senses": [
+   "1) (사람을) 납치하다, 유괴하다",
+   "2) (몸값을 노리고) 인질로 잡다"
+  ],
+  "etym": "kid(아이) + nap(낚아채다, nab의 변형)의 합성어 -> 'kidnap'. 17세기 아이들을 납치해 식민지로 팔던 데서 유래. '아이를 채 가다'가 핵심. -p 중복: kidnapped, kidnapping.",
+  "deriv": "kid(아이) + nap(낚아채다) -> 'kidnap'. 한국 학습자 핵심: 철자 함정 — 과거형 kidnapped(p 두 개), kidnapper(유괴범), kidnapping(납치)! 유의어 abduct(유괴하다, ab-멀리+ducere 끌고 가다)·snatch(낚아채다)·seize(붙잡다). kidnap for ransom(몸값을 노리고 납치하다). hostage(인질, 4226)와 연결. 반대 release(석방하다)·rescue(구출하다).",
+  "syn": [
+   "abduct(유괴하다)",
+   "snatch(낚아채다)",
+   "seize(붙잡다)"
+  ],
+  "anti": [
+   "release(석방하다)",
+   "rescue(구출하다)"
+  ],
+  "idiom": [
+   "kidnap for ransom(몸값을 노리고 납치하다)"
+  ],
+  "colloc": [
+   "kidnap for ransom(몸값을 노리고 납치하다)",
+   "kidnap a child(아이를 유괴하다)",
+   "attempt to kidnap(납치를 시도하다)"
+  ],
+  "ex_add": "The businessman was kidnapped for ransom.  (kidnap=납치하다)",
+  "ex_orig": "In the episode, Mulder and Scully investigate a death fetishist who begins kidnapping and killing women to satisfy his obsession.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4321",
+  "hw": "kidney",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "몸의 콩팥 -> '신장·콩팥'.",
+  "senses": [
+   "1) (해부) 신장, 콩팥",
+   "2) (요리) 콩팥(식재료)"
+  ],
+  "etym": "중세 영어 kidnei(어원 불확실, 아마 cwið 자궁 + ey 알) -> 'kidney'. '몸속 알 모양 장기'가 핵심. 정확한 라틴/그리스 어원은 없고 게르만어 자체 유래로 추정.",
+  "deriv": "kidnei -> 'kidney'. 한국 학습자 핵심: 장기 어휘군 — kidney(신장)·liver(간)·lung(폐)·heart(심장)·stomach(위)! 의학 용어는 라틴어 renal(신장의, ren 콩팥)·hepatic(간의)로 따로! kidney failure(신부전), a kidney transplant(신장 이식), kidney stones(신장 결석), kidney disease(신장병). 복수 kidneys.",
+  "syn": [],
+  "anti": [],
+  "idiom": [
+   "kidney failure(신부전)"
+  ],
+  "colloc": [
+   "kidney failure(신부전)",
+   "kidney transplant(신장 이식)",
+   "kidney stones(신장 결석)"
+  ],
+  "ex_add": "He is waiting for a kidney transplant.  (kidney=신장)",
+  "ex_orig": "On average, cadmium concentrations in the blood of smokers is 4 times 5 times greater and in the kidney, 2 - 3 times greater than non - smokers.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4322",
+  "hw": "kingdom",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "왕(king)이 다스리는 영역(-dom) -> '왕국·영역'.",
+  "senses": [
+   "1) 왕국",
+   "2) (학문·생물의) 계, 영역(the animal kingdom)",
+   "3) (the Kingdom) 천국, 하느님의 나라"
+  ],
+  "etym": "고대 영어 cyning(왕) + -dom(상태·영역) -> cyningdom -> 'kingdom'. -dom은 freedom(자유)·wisdom(지혜)·boredom(지루함)에 보이는 '상태·영역' 접미사. '왕의 지배 영역'이 핵심.",
+  "deriv": "king(왕) + -dom(영역) -> 'kingdom'. 한국 학습자 핵심: -dom(영역·상태) 접미사 — kingdom(왕국)·freedom(자유)·wisdom(지혜)·boredom(권태)·stardom(스타덤)·officialdom(관료 사회)! the animal/plant kingdom(동물계/식물계, 생물 분류 빈출), the United Kingdom(영국 UK), the kingdom of heaven(천국). 유의어 realm(왕국·영역)·empire(제국).",
+  "syn": [
+   "realm(왕국)",
+   "empire(제국)",
+   "domain(영역)"
+  ],
+  "anti": [],
+  "idiom": [
+   "the animal kingdom(동물계)",
+   "the United Kingdom(영국)"
+  ],
+  "colloc": [
+   "animal kingdom(동물계)",
+   "ancient kingdom(고대 왕국)",
+   "united kingdom(연합 왕국)"
+  ],
+  "ex_add": "The lion is the king of the animal kingdom.  (kingdom=영역)",
+  "ex_orig": "Being herself more than half of Slavic stock, she has every reason for living on good terms with the various Slav kingdoms south of her.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4323",
+  "hw": "landlord",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "땅(land)의 주인(lord) -> '집주인·임대주'.",
+  "senses": [
+   "1) 집주인, 임대주",
+   "2) (술집·여관의) 주인"
+  ],
+  "etym": "land(땅) + lord(주인)의 합성어 -> 'landlord'. lord는 고대 영어 hlaford(빵을 지키는 자, hlaf 빵 + weard 지키미)에서 유래. '토지를 소유해 세를 놓는 주인'이 핵심.",
+  "deriv": "land(땅) + lord(주인) -> 'landlord'. 한국 학습자 핵심: 정반대 짝 — landlord(집주인) ↔ tenant(세입자)! land 합성어 — landlord·landmark(4324)·landscape(풍경)·landslide(산사태)·homeland(4222)! 여성형 landlady. pay rent to the landlord(집주인에게 집세를 내다). lord의 어원 '빵 지키미'가 기억 포인트. 유의어 owner(소유주)·proprietor(소유주).",
+  "syn": [
+   "owner(소유주)",
+   "proprietor(소유주)",
+   "lessor(임대인)"
+  ],
+  "anti": [
+   "tenant(세입자)",
+   "lessee(임차인)"
+  ],
+  "idiom": [],
+  "colloc": [
+   "pay the landlord(집주인에게 지불하다)",
+   "landlord and tenant(집주인과 세입자)",
+   "absentee landlord(부재 지주)"
+  ],
+  "ex_add": "The landlord raised the rent again.  (landlord=집주인)",
+  "ex_orig": "I saw a crowd of peasants demand from a local landlord all the grain and foodstuffs in his granary.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4324",
+  "hw": "landmark",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "땅(land)의 표지(mark) -> '랜드마크·획기적 사건'.",
+  "senses": [
+   "1) (눈에 띄는) 주요 지형지물, 랜드마크",
+   "2) 획기적 사건, 역사적 이정표",
+   "3) (adj.) 획기적인(a landmark decision)"
+  ],
+  "etym": "land(땅) + mark(표시)의 합성어 -> 'landmark'. 원래 '토지 경계 표지'에서 '눈에 띄는 건물 -> 역사의 이정표'로 의미 확장. mark는 게르만 뿌리 '표시·경계'.",
+  "deriv": "land(땅) + mark(표지) -> 'landmark'. 한국 학습자 핵심: land 합성어 — landmark·landlord(4323)·landscape(풍경)·landslide(산사태)·grassland(초원)! a famous landmark(유명한 명소), a historic landmark(역사적 명소), a landmark ruling/decision(획기적 판결/결정), a landmark in history(역사의 이정표). 유의어(획기적) milestone(이정표)·turning point(전환점).",
+  "syn": [
+   "monument(기념물)",
+   "milestone(이정표)",
+   "turning point(전환점)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a landmark decision(획기적 결정)",
+   "a landmark ruling(획기적 판결)"
+  ],
+  "colloc": [
+   "famous landmark(유명한 명소)",
+   "historic landmark(역사적 명소)",
+   "landmark decision(획기적 결정)"
+  ],
+  "ex_add": "The tower is a famous city landmark.  (landmark=랜드마크)",
+  "ex_orig": "Frontiers which had been mere landmarks of travel became suddenly formidable and impassable barriers, guarded by harsh, hysterical men with bayonets.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4325",
+  "hw": "lap",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "앉으면 생기는 무릎 위·한 바퀴 -> '무릎·(경주) 한 바퀴'.",
+  "senses": [
+   "1) (앉았을 때) 무릎 위, 허벅지",
+   "2) (경주 트랙의) 한 바퀴",
+   "3) (v.) (물이) 찰싹거리다; (혀로) 핥다"
+  ],
+  "etym": "고대 영어 læppa(옷자락·늘어진 부분) -> 'lap'. '옷자락이 늘어진 무릎 부분'에서 출발해 '겹쳐 도는 한 바퀴'(overlap의 lap)로 의미 확장. 동음 다의가 합류.",
+  "deriv": "læppa(옷자락) -> 'lap'. 한국 학습자 핵심: 한 철자 여러 뜻 — ① 무릎 위(sit on one's lap) ② 경주 한 바퀴(run a lap) ③ 핥다/찰싹이다(the dog laps water)! overlap(겹치다, over-넘어+lap)도 가족. the final lap(마지막 바퀴), a lap of honor(우승 세리머니 한 바퀴), lap up(꿀꺽 마시다·기꺼이 받아들이다). 유의어 circuit(순회).",
+  "syn": [
+   "circuit(한 바퀴)",
+   "knee(무릎)"
+  ],
+  "anti": [],
+  "idiom": [
+   "lap of honor(우승 세리머니 한 바퀴)",
+   "lap up(꿀꺽 마시다·열렬히 받아들이다)"
+  ],
+  "colloc": [
+   "sit on one's lap(무릎에 앉다)",
+   "final lap(마지막 바퀴)",
+   "run a lap(한 바퀴 달리다)"
+  ],
+  "ex_add": "The child sat on her mother's lap.  (lap=무릎 위)",
+  "ex_orig": "Kubica took third, ahead of his teammate Heidfeld, and Kovalainen, who set the fastest lap of the race on lap 49, with a time of 1: 33.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4326",
+  "hw": "large-scale",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "규모(scale)가 큰(large) -> '대규모의'.",
+  "senses": [
+   "1) 대규모의, 광범위한",
+   "2) (지도·모형이) 대축척의"
+  ],
+  "etym": "large(큰) + scale(규모·척도)의 합성어 -> 'large-scale'. scale은 라틴어 scala(사다리·계단, scandere 오르다)에서 유래해 escalate(4xxx)·scan과 친족. '큰 척도로 이뤄지는'이 핵심.",
+  "deriv": "large(큰) + scale(규모) -> 'large-scale'. 한국 학습자 핵심: 정반대 짝 — large-scale(대규모) ↔ small-scale(소규모)! scala(사다리·오름)계열 — scale(규모·저울·비늘)·escalate(단계적으로 확대되다)·escalator(에스컬레이터)! large-scale production(대량 생산), large-scale operation(대규모 작전), on a large scale(대규모로). 유의어 massive(거대한)·extensive(광범위한). 반대 small-scale(소규모의)·limited(제한된).",
+  "syn": [
+   "massive(거대한)",
+   "extensive(광범위한)",
+   "wide-ranging(광범위한)"
+  ],
+  "anti": [
+   "small-scale(소규모의)",
+   "limited(제한된)"
+  ],
+  "idiom": [
+   "on a large scale(대규모로)"
+  ],
+  "colloc": [
+   "large-scale production(대량 생산)",
+   "large-scale operation(대규모 작전)",
+   "large-scale project(대규모 사업)"
+  ],
+  "ex_add": "The factory began large-scale production.  (large-scale=대규모의)",
+  "ex_orig": "The first would be to export gold, the other to export Russian commodities on a large scale, and the third--to get a gold loan from Great Britain.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4327",
+  "hw": "laser",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "증폭된 빛 광선 -> '레이저'.",
+  "senses": [
+   "1) 레이저 (광선)",
+   "2) (adj.) 레이저를 이용한(laser printer)"
+  ],
+  "etym": "두문자어 LASER = Light Amplification by Stimulated Emission of Radiation(유도 방출에 의한 빛의 증폭) -> 'laser'. 각 단어의 머리글자를 딴 약어가 일반 명사로 굳어진 사례.",
+  "deriv": "L.A.S.E.R.(두문자어) -> 'laser'. 한국 학습자 핵심: 두문자어가 일반 명사가 된 예 — laser·radar(RAdio Detection And Ranging)·scuba·sonar! a laser beam(레이저 광선), laser surgery(레이저 수술), a laser printer(레이저 프린터), laser pointer(레이저 포인터). 과학·기술 지문 빈출. 어원이 약어라는 점이 기억 포인트.",
+  "syn": [
+   "beam(광선)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a laser beam(레이저 광선)"
+  ],
+  "colloc": [
+   "laser beam(레이저 광선)",
+   "laser surgery(레이저 수술)",
+   "laser printer(레이저 프린터)"
+  ],
+  "ex_add": "The tumor was removed by laser surgery.  (laser=레이저)",
+  "ex_orig": "This remaster was conducted by Hutzel and was the first transfer since 1983, when a version was created for VHS and laser disc release.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4328",
+  "hw": "latter",
+  "pos": "adj., n.",
+  "cefr": "C1",
+  "core": "더 나중의(late) -> '후자의·후반의'.",
+  "senses": [
+   "1) (the latter) 후자, 나중 것",
+   "2) (시기상) 후반의, 끝 무렵의",
+   "3) (둘 중) 나중의"
+  ],
+  "etym": "고대 영어 lætra(더 늦은, læt 늦은의 비교급) -> 'latter'. late(늦은)·last(마지막의)와 같은 게르만 뿌리. '뒤에 오는 쪽'이 핵심.",
+  "deriv": "læt(늦은) -> lætra(더 늦은) -> 'latter'. 한국 학습자 핵심: 정반대 짝 — the former(전자) ↔ the latter(후자)! late(늦은)계열 — late·later(나중에)·latest(최신의)·last(마지막)·latter! the latter half(후반부), in the latter part of(~의 후반에), the latter case(후자의 경우). 철자·뜻 함정: latter(후자)≠later(나중에)≠ladder(사다리)! 유의어 second(둘째의). 반대 former(전자의).",
+  "syn": [
+   "second(둘째의)",
+   "last-mentioned(나중에 언급된)"
+  ],
+  "anti": [
+   "former(전자의)",
+   "first(첫째의)"
+  ],
+  "idiom": [
+   "the latter half(후반부)",
+   "the former and the latter(전자와 후자)"
+  ],
+  "colloc": [
+   "the latter half(후반부)",
+   "latter part(후반)",
+   "prefer the latter(후자를 선호하다)"
+  ],
+  "ex_add": "Of the two options, I prefer the latter.  (latter=후자)",
+  "ex_orig": "In the latter direction masses of infantry were hurled on with absolute desperation and were beaten off with corresponding slaughter.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4329",
+  "hw": "lawmaker",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "법(law)을 만드는(maker) 사람 -> '입법자·국회의원'.",
+  "senses": [
+   "1) 입법자, 국회의원",
+   "2) 법률 제정자"
+  ],
+  "etym": "law(법) + maker(만드는 사람)의 합성어 -> 'lawmaker'. law는 고대 노르드어 lagu(놓인 것·정해진 것)에서 유래. '법을 제정하는 사람'이 핵심.",
+  "deriv": "law(법) + maker(제작자) -> 'lawmaker'. 한국 학습자 핵심: maker 합성어 — lawmaker(입법자)·filmmaker(영화 제작자, 4145)·decision-maker(의사 결정자)·peacemaker(중재자)·troublemaker(말썽꾼)! law 합성어 — lawmaker·lawsuit(소송, 4331)·lawyer(변호사)·lawful(합법적인)·outlaw(무법자)! 유의어 legislator(입법자, legislate 4337과 연결)·congressman(의원)·representative(의원).",
+  "syn": [
+   "legislator(입법자)",
+   "congressman(의원)",
+   "representative(의원)"
+  ],
+  "anti": [],
+  "idiom": [],
+  "colloc": [
+   "state lawmaker(주 의원)",
+   "lawmakers voted(의원들이 표결했다)",
+   "senior lawmaker(고위 의원)"
+  ],
+  "ex_add": "Lawmakers debated the new bill for hours.  (lawmaker=의원)",
+  "ex_orig": "Apparently the leaders in commerce, industry, and trade, like the lawmakers and administrators, are paralyzed by the imperative necessity of aiding panicstricken tourists and panicstricken stay-at-homes.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4330",
+  "hw": "lawn",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "풀을 짧게 깎은 잔디밭 -> '잔디밭'.",
+  "senses": [
+   "1) 잔디밭, 잔디",
+   "2) (얇은) 론 직물"
+  ],
+  "etym": "고대 프랑스어 launde(숲속 개간지·풀밭) -> 중세 영어 laund -> 'lawn'. '나무를 베어 낸 풀밭'이 핵심.",
+  "deriv": "launde(개간지) -> 'lawn'. 한국 학습자 핵심: 풀밭 어휘군 — lawn(손질된 잔디밭)·grass(풀)·meadow(목초지)·field(들판)·pasture(목초지)! mow the lawn(잔디를 깎다), a lawn mower(잔디 깎는 기계), a front lawn(앞마당 잔디), lawn tennis(잔디 코트 테니스). 미국 교외 주택 문화의 상징적 어휘. 동음 주의: lawn≠law+n.",
+  "syn": [
+   "grass(잔디)",
+   "turf(잔디밭)",
+   "green(잔디밭)"
+  ],
+  "anti": [],
+  "idiom": [
+   "mow the lawn(잔디를 깎다)"
+  ],
+  "colloc": [
+   "mow the lawn(잔디를 깎다)",
+   "lawn mower(잔디 깎는 기계)",
+   "front lawn(앞마당 잔디)"
+  ],
+  "ex_add": "He spent the morning mowing the lawn.  (lawn=잔디밭)",
+  "ex_orig": "Trees \" was written in an upstairs bedroom at the family's home in Mahwah, New Jersey that \" looked out down a hill, on our well - wooded lawn.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4331",
+  "hw": "lawsuit",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "법(law)에 거는 소(suit) -> '소송'.",
+  "senses": [
+   "1) (민사) 소송, 고소"
+  ],
+  "etym": "law(법) + suit(소송·청원, 라틴어 sequi 따르다)의 합성어 -> 'lawsuit'. suit는 sequi(따르다)에서 와 '법적 절차를 좇음'을 뜻함. sequence·consequence와 같은 sequi 뿌리.",
+  "deriv": "law(법) + suit(소송) -> 'lawsuit'. 한국 학습자 핵심: sequi(따르다)계열 — suit(소송·정장)·pursue(추구하다)·sequence(연속)·consequence(결과)·subsequent(뒤이은)! law 합성어 — lawsuit·lawmaker(4329)·lawyer·lawful! file a lawsuit(소송을 제기하다), a class-action lawsuit(집단 소송), face a lawsuit(소송에 직면하다), settle a lawsuit(소송을 합의로 끝내다). 유의어 suit(소송)·litigation(소송)·legal action(법적 조치).",
+  "syn": [
+   "suit(소송)",
+   "litigation(소송)",
+   "legal action(법적 조치)"
+  ],
+  "anti": [],
+  "idiom": [
+   "file a lawsuit(소송을 제기하다)"
+  ],
+  "colloc": [
+   "file a lawsuit(소송을 제기하다)",
+   "class-action lawsuit(집단 소송)",
+   "face a lawsuit(소송에 직면하다)"
+  ],
+  "ex_add": "She filed a lawsuit against the company.  (lawsuit=소송)",
+  "ex_orig": "The lawsuits, which were previously liable to be prolonged for a lifetime, were curtailed by simplifying the procedure; trial by jury was introduced for criminal cases; and the condition of the prisoners was greatly improved both materially and morally.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4332",
+  "hw": "layout",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "펼쳐(lay out) 배치한 것 -> '배치·지면 구성'.",
+  "senses": [
+   "1) (공간·물건의) 배치, 배열",
+   "2) (지면·웹의) 레이아웃, 편집 디자인"
+  ],
+  "etym": "동사구 lay out(펼쳐 놓다·배치하다)의 명사화 -> 'layout'. lay는 고대 영어 lecgan(놓다)에서 유래. '펼쳐 배치한 방식'이 핵심.",
+  "deriv": "lay(놓다) + out(밖으로 펼쳐) -> 'layout'. 한국 학습자 핵심: 동사구 -> 명사 전환 — lay out -> layout, break out -> breakout, take over -> takeover, work out -> workout! the page layout(지면 배치), the office layout(사무실 배치), a clean layout(깔끔한 구성), keyboard layout(자판 배열). 유의어 arrangement(배치)·design(디자인)·configuration(구성). lay-lay-laid(놓다) vs lie-lay-lain(눕다) 혼동 주의.",
+  "syn": [
+   "arrangement(배치)",
+   "design(디자인)",
+   "configuration(구성)"
+  ],
+  "anti": [],
+  "idiom": [
+   "page layout(지면 배치)"
+  ],
+  "colloc": [
+   "page layout(지면 배치)",
+   "office layout(사무실 배치)",
+   "clean layout(깔끔한 구성)"
+  ],
+  "ex_add": "The magazine has a clean, modern layout.  (layout=레이아웃)",
+  "ex_orig": "Despite the praise, some reviewers criticized the game for its confusing level layouts and felt they have not held up very well over the years.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4333",
+  "hw": "leak",
+  "pos": "v., n.",
+  "cefr": "C1",
+  "core": "틈으로 새어 나오다 -> '새다·누출(하다)·유출'.",
+  "senses": [
+   "1) (v.) (액체·기체가) 새다, 새게 하다",
+   "2) (v.) (비밀·정보를) 유출하다",
+   "3) (n.) 누출, 새는 곳; 정보 유출"
+  ],
+  "etym": "중세 네덜란드어/고대 노르드어 leka(새다) -> 'leak'. '틈으로 흘러 나오다'가 핵심. 게르만 뿌리.",
+  "deriv": "leka(새다) -> 'leak'. 한국 학습자 핵심: 물리적 누출 -> 정보 유출로 비유 확장 — a gas leak(가스 누출), a water leak(누수), leak information(정보를 유출하다), a security leak(보안 유출)! leak out(새어 나가다·누설되다). 발음 주의: leak [liːk]≠lick(핥다)≠lake(호수)! 명사 leakage(누출). 유의어 seep(스며 나오다)·escape(새다)·disclose(폭로하다).",
+  "syn": [
+   "seep(스며 나오다)",
+   "escape(새다)",
+   "disclose(폭로하다)"
+  ],
+  "anti": [
+   "seal(밀봉하다)",
+   "contain(가두다)"
+  ],
+  "idiom": [
+   "leak out(새어 나가다)"
+  ],
+  "colloc": [
+   "gas leak(가스 누출)",
+   "leak information(정보를 유출하다)",
+   "spring a leak(새기 시작하다)"
+  ],
+  "ex_add": "Someone leaked the report to the press.  (leak=유출하다)",
+  "ex_orig": "This fact is about the only one that has leaked out of the movements of our army.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4334",
+  "hw": "leap",
+  "pos": "v., n.",
+  "cefr": "C1",
+  "core": "힘껏 뛰어오르다 -> '도약하다·급증'.",
+  "senses": [
+   "1) (v.) 뛰다, 도약하다, 펄쩍 뛰다",
+   "2) (v.) (급히) 달려들다, 급증하다",
+   "3) (n.) 도약, 급증, 비약"
+  ],
+  "etym": "고대 영어 hleapan(뛰다·달리다) -> 'leap'. leapfrog(목말 뛰기)·gallop과 친족. '힘차게 솟구쳐 뛰다'가 핵심. 불규칙 leap-leaped/leapt-leaped/leapt.",
+  "deriv": "hleapan(뛰다) -> 'leap'. 한국 학습자 핵심: 과거형 두 형태 — leaped 또는 leapt(영국식)! a leap of faith(과감한 시도·믿음의 도약), a great leap forward(대약진), by leaps and bounds(급속도로), leap year(윤년), Look before you leap(돌다리도 두들겨 보고 건너라). 유의어 jump(뛰다)·spring(튀어오르다)·bound(껑충 뛰다). 비유로 '급증'.",
+  "syn": [
+   "jump(뛰다)",
+   "spring(튀어오르다)",
+   "bound(껑충 뛰다)"
+  ],
+  "anti": [
+   "plunge(급락하다)",
+   "drop(떨어지다)"
+  ],
+  "idiom": [
+   "a leap of faith(과감한 시도)",
+   "by leaps and bounds(급속도로)",
+   "Look before you leap(돌다리도 두들겨 보라)"
+  ],
+  "colloc": [
+   "a great leap(대약진)",
+   "leap forward(도약하다)",
+   "quantum leap(비약적 발전)"
+  ],
+  "ex_add": "Technology has advanced by leaps and bounds.  (leap=도약)",
+  "ex_orig": "Before having solved this difficulty any decision in favor of war would be a leap in the dark, an act of inconceivable political blindness.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4335",
+  "hw": "legacy",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "법(lex)에 따라 위임된 것(legare) -> '유산·물려받은 것'.",
+  "senses": [
+   "1) (선대가 남긴) 유산, 물려받은 것",
+   "2) 유증, 유산 (재산)",
+   "3) (adj.) 예전부터 이어져 온(legacy system)"
+  ],
+  "etym": "라틴어 lex/legis(법) -> legare(법적으로 위임하다·유증하다) -> legatia -> 'legacy'. lex(법)는 legal(법적인)·legislate(입법하다, 4337)·legitimate(합법의, 4340)·delegate(위임하다)의 공통 뿌리.",
+  "deriv": "lex(법) + legare(위임하다) -> 'legacy'. 한국 학습자 핵심: lex/leg(법)계열 대집합 — legal(합법적인)·legislation(입법, 4337)·legislative(4338)·legislature(4339)·legitimate(4340)·delegate(대표·위임하다)·legacy! leave a legacy(유산을 남기다), a lasting legacy(영속적 유산), a cultural legacy(문화적 유산), the legacy of(~의 유산). 유의어 heritage(유산, 4218)·inheritance(상속).",
+  "syn": [
+   "heritage(유산)",
+   "inheritance(상속물)",
+   "bequest(유증)"
+  ],
+  "anti": [],
+  "idiom": [
+   "leave a legacy(유산을 남기다)"
+  ],
+  "colloc": [
+   "leave a legacy(유산을 남기다)",
+   "lasting legacy(영속적 유산)",
+   "cultural legacy(문화적 유산)"
+  ],
+  "ex_add": "His music left a lasting legacy.  (legacy=유산)",
+  "ex_orig": "When a glorious and happy peace is concluded we will maintain this spirit as the holiest legacy of this terrible and serious and great time.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4336",
+  "hw": "legendary",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "전설(legend)로 읽힐(legere) 만한 -> '전설적인'.",
+  "senses": [
+   "1) 전설적인, 전설로 전해지는",
+   "2) 아주 유명한, 명성이 자자한"
+  ],
+  "etym": "라틴어 legere(읽다·모으다) -> legenda(읽혀야 할 것 -> 성인전·전설) -> legend + -ary -> 'legendary'. legere(읽다)는 legible(읽기 쉬운)·lecture(강의)·legend의 뿌리이며, 같은 legere(고르다)에서 collect·select도 파생.",
+  "deriv": "legere(읽다) -> legend(읽혀야 할 이야기) -> 'legendary'. 한국 학습자 핵심: legere(읽다·고르다)계열 — legend(전설)·legible(읽기 쉬운)·lecture(강의)·collect(모으다)·select(고르다)·elect(선출하다)·intelligent(4288)! 주의: legendary(legere 읽다)와 legislation(lex 법, 4337)은 발음이 비슷하나 어원이 다름! a legendary figure(전설적 인물), legendary status(전설적 위상). 유의어 mythical(신화적인)·iconic(상징적인)·renowned(명성 있는).",
+  "syn": [
+   "mythical(신화적인)",
+   "iconic(상징적인)",
+   "renowned(명성 있는)"
+  ],
+  "anti": [
+   "unknown(무명의)",
+   "obscure(잘 알려지지 않은)"
+  ],
+  "idiom": [
+   "a legendary figure(전설적 인물)"
+  ],
+  "colloc": [
+   "legendary figure(전설적 인물)",
+   "legendary status(전설적 위상)",
+   "legendary musician(전설적 음악가)"
+  ],
+  "ex_add": "He became a legendary figure in jazz.  (legendary=전설적인)",
+  "ex_orig": "The land for the fort, at the confluence of the Minnesota and Mississippi rivers, had been acquired in 1805 by legendary explorer Pike.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4337",
+  "hw": "legislation",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "법(lex)을 운반해(latio) 만듦 -> '법률·입법'.",
+  "senses": [
+   "1) 법률, 법령 (집합적)",
+   "2) 입법 (행위)"
+  ],
+  "etym": "라틴어 lex/legis(법) + latio(나르기, ferre 나르다의 과거분사 latus) -> legislatio(법을 제정함) -> 'legislation'. lex(법)는 legal·legacy(4335)·legitimate(4340)의 뿌리. latio(나르다)는 translate·relate의 뿌리.",
+  "deriv": "lex(법) + latio(나르다) -> 'legislation'. 한국 학습자 핵심: lex/leg(법)계열 입법 4종 세트 — legislation(법률·입법)·legislative(입법의, 4338)·legislature(입법부, 4339)·legislator(입법자)! pass legislation(법안을 통과시키다), introduce legislation(법안을 발의하다), new legislation(새 법률), under current legislation(현행법상). 유의어 law(법)·statute(법령)·act(법령). 가산/불가산 주의: legislation은 불가산.",
+  "syn": [
+   "law(법)",
+   "statute(법령)",
+   "act(법령)"
+  ],
+  "anti": [],
+  "idiom": [
+   "pass legislation(법안을 통과시키다)"
+  ],
+  "colloc": [
+   "pass legislation(법안을 통과시키다)",
+   "new legislation(새 법률)",
+   "introduce legislation(법안을 발의하다)"
+  ],
+  "ex_add": "Congress passed new environmental legislation.  (legislation=법률)",
+  "ex_orig": "the nation is stirred by the drink question, and prominent observers believe that anti-alcohol legislation will not be necessary;",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4338",
+  "hw": "legislative",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "법(lex)을 만드는 -> '입법의·입법부의'.",
+  "senses": [
+   "1) 입법의, 법률 제정의",
+   "2) 입법부의"
+  ],
+  "etym": "라틴어 lex(법) + latus(나른) -> legislativus -> 'legislative'. legislation(4337)·legislature(4339)와 같은 lex(법)+latio(나르다) 뿌리. '법을 만드는'이 핵심.",
+  "deriv": "lex(법) + latio(나르다) -> 'legislative'. 한국 학습자 핵심: 삼권분립 형용사 — legislative(입법의)·executive(행정의)·judicial(사법의, 4315)! lex(법) 입법군 — legislation(4337)·legislative·legislature(4339)! legislative power(입법권), the legislative branch(입법부), a legislative body(입법 기관), legislative reform(입법 개혁). 유의어 lawmaking(입법의). 반대 executive(행정의)·judicial(사법의).",
+  "syn": [
+   "lawmaking(입법의)",
+   "parliamentary(의회의)"
+  ],
+  "anti": [
+   "executive(행정의)",
+   "judicial(사법의)"
+  ],
+  "idiom": [
+   "the legislative branch(입법부)"
+  ],
+  "colloc": [
+   "legislative power(입법권)",
+   "legislative branch(입법부)",
+   "legislative body(입법 기관)"
+  ],
+  "ex_add": "Congress holds legislative power.  (legislative=입법의)",
+  "ex_orig": "It will not be presumed that the legislative department of the Government will lightly pass laws which are in conflict with the treaties of the country;",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4339",
+  "hw": "legislature",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "법(lex)을 만드는 기관 -> '입법부·의회'.",
+  "senses": [
+   "1) 입법부, 입법 기관",
+   "2) 의회"
+  ],
+  "etym": "라틴어 lex(법) + latus(나른) -> 'legislature'. legislation(4337)·legislative(4338)와 같은 lex(법) 뿌리. '법을 제정하는 기관'이 핵심.",
+  "deriv": "lex(법) + latio(나르다) -> 'legislature'. 한국 학습자 핵심: lex(법) 입법 3총사 — legislation(법률, 4337)·legislative(입법의, 4338)·legislature(입법부)! 국가 기관: legislature(입법부)·executive(행정부)·judiciary(사법부)! the state legislature(주 의회), a bicameral legislature(양원제 의회), the national legislature(국회). 유의어 parliament(의회)·congress(의회)·assembly(의회).",
+  "syn": [
+   "parliament(의회)",
+   "congress(의회)",
+   "assembly(의회)"
+  ],
+  "anti": [],
+  "idiom": [
+   "the state legislature(주 의회)"
+  ],
+  "colloc": [
+   "state legislature(주 의회)",
+   "national legislature(국회)",
+   "bicameral legislature(양원제 의회)"
+  ],
+  "ex_add": "The bill was approved by the state legislature.  (legislature=입법부)",
+  "ex_orig": "To bring HBOI into the university family the Florida Legislature allocated $ 44 million to Florida Atlantic to acquire the institution.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4340",
+  "hw": "legitimate",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "법(lex)에 맞는 -> '합법적인·정당한'.",
+  "senses": [
+   "1) 합법적인, 적법한",
+   "2) 정당한, 타당한",
+   "3) (v.) 합법화하다, 정당화하다"
+  ],
+  "etym": "라틴어 lex/legis(법) -> legitimus(법에 맞는) -> legitimatus -> 'legitimate'. lex(법)는 legal·legislation(4337)·legacy(4335)의 공통 뿌리. '법의 테두리 안에 있는'이 핵심.",
+  "deriv": "lex(법) -> legitimus(합법의) -> 'legitimate'. 한국 학습자 핵심: lex(법)계열 — legal(법적인)·legitimate(합법적인)·legislation(4337)·legacy(4335)! 정반대 짝: legitimate(합법) ↔ illegitimate(불법·사생아의)! a legitimate business(합법적 사업), a legitimate concern(정당한 우려), legitimate reasons(타당한 이유). 명사 legitimacy(정당성·합법성). 유의어 lawful(합법적인)·valid(타당한)·legal(법적인). 반대 illegal(불법의)·illegitimate.",
+  "syn": [
+   "lawful(합법적인)",
+   "valid(타당한)",
+   "legal(법적인)"
+  ],
+  "anti": [
+   "illegitimate(불법의)",
+   "illegal(불법의)",
+   "invalid(부당한)"
+  ],
+  "idiom": [
+   "a legitimate concern(정당한 우려)"
+  ],
+  "colloc": [
+   "legitimate business(합법적 사업)",
+   "legitimate concern(정당한 우려)",
+   "perfectly legitimate(완전히 정당한)"
+  ],
+  "ex_add": "They have a legitimate claim to the land.  (legitimate=정당한)",
+  "ex_orig": "There is, however, a legitimate field for speculation as to the probable effects on the United States of the continuation of the state of war in Europe for months or years.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4341",
+  "hw": "lengthy",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "길이(length)가 긴 -> '장황한·기다란'.",
+  "senses": [
+   "1) (시간이) 긴, 오래 걸리는",
+   "2) (글·말이) 장황한, 지루하게 긴"
+  ],
+  "etym": "long(긴) -> length(길이, -th 명사화) + -y(형용사화) -> 'lengthy'. long의 게르만 뿌리. '필요 이상으로 긴'이 핵심으로 부정적 어감이 흔함.",
+  "deriv": "long(긴) -> length(길이) -> 'lengthy'. 한국 학습자 핵심: long 가족 — long(긴)·length(길이)·lengthen(길게 하다)·lengthy(장황한)! -th 명사화: long->length, strong->strength, wide->width, deep->depth, broad->breadth! a lengthy process(긴 과정), a lengthy discussion(장황한 논의), a lengthy delay(오랜 지연). lengthy는 보통 '지루하게 길다'는 부정적 뉘앙스! 유의어 prolonged(장기적인)·protracted(지루하게 긴). 반대 brief(간결한)·short(짧은).",
+  "syn": [
+   "prolonged(장기적인)",
+   "protracted(지루하게 긴)",
+   "extended(길어진)"
+  ],
+  "anti": [
+   "brief(간결한)",
+   "short(짧은)",
+   "concise(간결한)"
+  ],
+  "idiom": [
+   "a lengthy process(긴 과정)"
+  ],
+  "colloc": [
+   "lengthy process(긴 과정)",
+   "lengthy discussion(장황한 논의)",
+   "lengthy delay(오랜 지연)"
+  ],
+  "ex_add": "After a lengthy debate, they reached a decision.  (lengthy=긴)",
+  "ex_orig": "SIR: I hope you may see your way to publish the following somewhat lengthy statement on one of the burning questions of the day.",
+  "ex_src": "NEWS-NYT-1915"
  }
 ]
