@@ -137844,5 +137844,1680 @@
   "ex_add": "The country wants to reduce its dependence on oil.  (dependence=의존)",
   "ex_orig": "At every passing moment that dependence is renewed, is incessantly reasserted, inasmuch as, without the will of the Almighty, existence of the first single instant would vanish before the next.",
   "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3992",
+  "hw": "depict",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "그려 내다 -> '묘사하다·그리다·표현하다'.",
+  "senses": [
+   "1) (그림·글로) 묘사하다·그리다",
+   "2) (~로) 표현하다·나타내다"
+  ],
+  "etym": "라틴어 de(완전히) + pingere(그리다·물감을 칠하다) -> depingere(그려 내다) -> 'depict'. '완전히 그려 냄'이 핵심. pingere(그리다)는 depict·picture(그림)·paint(칠하다)·pigment(색소)·pictorial(그림의)의 뿌리.",
+  "deriv": "de(완전히)+pingere(그리다) -> 'depict'. '그려 냄 -> 묘사하다(depict a scene, 장면을 묘사하다)'. 한국 학습자 핵심: pingere(그리다·칠하다) 갈래 — picture(그림)·paint(칠하다)·pigment(색소)·pictorial(그림의)·depiction(묘사)! depict A as B(A를 B로 묘사하다), vividly depict(생생히 묘사하다), be depicted in(~에 그려지다). portray(그리다)·represent(3296, 나타내다)·illustrate(예시하다)와 유의어.",
+  "syn": [
+   "portray(그리다)",
+   "represent(나타내다)",
+   "illustrate(예시하다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "depict A as B(A를 B로 묘사하다)",
+   "vividly depict(생생히 묘사하다)"
+  ],
+  "colloc": [
+   "depict a scene(장면을 묘사하다)",
+   "accurately depict(정확히 묘사하다)",
+   "be depicted as(~로 그려지다)"
+  ],
+  "ex_add": "The painting depicts a battle scene.  (depict=묘사하다)",
+  "ex_orig": "The first was the character of Abraham Lincoln as depicted by the British press of 1860-64 and as conceived by the British public opinion of that era.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3993",
+  "hw": "deploy",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "펼쳐 배치하다 -> '(병력을) 배치하다·전개하다 / (자원을) 효율적으로 쓰다'.",
+  "senses": [
+   "1) (군대·장비를) 배치하다·전개하다",
+   "2) (자원·기술을) 효율적으로 활용하다·투입하다"
+  ],
+  "etym": "라틴어 dis(분리·펼쳐) + plicare(접다) -> displicare(펼치다) -> 프랑스어 déployer -> 'deploy'. '접힌 것을 펼쳐 배치함'이 핵심. plicare(접다)는 deploy·display(펼쳐 보이다)·employ(고용하다)·apply(3715)·complicate(복잡하게)의 뿌리.",
+  "deriv": "dis(펼쳐)+plicare(접다) -> 'deploy'. '펼쳐 배치함 -> 병력을 배치하다(deploy troops, 병력을 배치하다)'. 한국 학습자 핵심: plicare(접다·붙이다) 대가족 — display(펼쳐 보이다)·employ(고용하다)·apply(3715)·complicate(복잡하게)·imply(암시)·reply(답하다)·multiply(곱하다)·deployment(3994)! deploy resources(자원을 투입하다), deploy a strategy(전략을 펼치다), rapidly deploy(신속히 배치하다). position(배치하다)·station(배치하다)·utilize(활용하다)와 유의어. 반대 withdraw(3630, 철수하다)·recall(3267, 소환하다).",
+  "syn": [
+   "position(배치하다)",
+   "station(배치하다)",
+   "utilize(활용하다)"
+  ],
+  "anti": [
+   "withdraw(철수하다)",
+   "recall(소환하다)"
+  ],
+  "idiom": [
+   "deploy troops(병력을 배치하다)",
+   "deploy resources(자원을 투입하다)"
+  ],
+  "colloc": [
+   "deploy troops(병력을 배치하다)",
+   "deploy a strategy(전략을 펼치다)",
+   "rapidly deploy(신속히 배치하다)"
+  ],
+  "ex_add": "The army deployed thousands of soldiers to the border.  (deploy=배치하다)",
+  "ex_orig": "Twelve Armoured Vehicle Royal Engineers (AVREs) were fitted with to overcome this problem by deploying a roll of over the soft surface.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "3994",
+  "hw": "deployment",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "펼쳐 배치함 -> '(병력) 배치·전개 / (자원) 활용'.",
+  "senses": [
+   "1) (군대·장비의) 배치·전개·파병",
+   "2) (자원·기술의) 투입·활용"
+  ],
+  "etym": "라틴어 dis + plicare(접다) -> deploy(3993)의 명사형. '펼쳐 배치함'이 핵심.",
+  "deriv": "deploy(3993, 배치하다) -> 'deployment'. '펼쳐 배치함 -> 배치(troop deployment, 병력 배치)'. 한국 학습자 핵심: plicare(접다) 대가족 — display(펼쳐 보이다)·employ(고용)·apply(3715)·complicate(복잡하게)·deploy(3993)! military deployment(군 배치), rapid deployment(신속 배치), the deployment of troops(병력 배치). placement(배치)·distribution(배치)과 유의어. 반대 withdrawal(철수).",
+  "syn": [
+   "placement(배치)",
+   "distribution(배치)"
+  ],
+  "anti": [
+   "withdrawal(철수)"
+  ],
+  "idiom": [
+   "troop deployment(병력 배치)",
+   "rapid deployment(신속 배치)"
+  ],
+  "colloc": [
+   "military deployment(군 배치)",
+   "troop deployment(병력 배치)",
+   "deployment of forces(병력 배치)"
+  ],
+  "ex_add": "The deployment of troops increased tensions.  (deployment=배치)",
+  "ex_orig": "Political activists have criticised FITs and said that they feel the aim of FIT deployment during protests is to prevent legal protests.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "3995",
+  "hw": "deprive",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "떼어 빼앗다 -> '(deprive of) 빼앗다·박탈하다'.",
+  "senses": [
+   "1) (deprive of) ~에게서 빼앗다·박탈하다·못 가지게 하다"
+  ],
+  "etym": "라틴어 de(떨어져·완전히) + privare(빼앗다, privus 개인의·따로의) -> deprivare -> 'deprive'. '떼어 내어 빼앗음'이 핵심. privus(따로의)는 deprive·private(사적인)·privilege(특권)·privacy(사생활)·deprivation(박탈)의 뿌리.",
+  "deriv": "de(떨어져)+privare(빼앗다) -> 'deprive'. '떼어 빼앗음 -> 박탈하다(deprive of rights, 권리를 박탈하다)'. 한국 학습자 핵심: privus(따로의·개인의) 갈래 — private(사적인)·privilege(특권, privus 개인+lex 법)·privacy(사생활)·deprivation(박탈)·privy(은밀한)! deprive someone of something(~에게서 ~을 빼앗다) 구문 필수! sleep-deprived(수면이 부족한), deprived of(~을 박탈당한), the deprived(빈곤층). strip(박탈하다)·rob(3324, 빼앗다)·dispossess(빼앗다)와 유의어. 반대 provide(제공하다)·grant(주다).",
+  "syn": [
+   "strip(박탈하다)",
+   "rob(빼앗다)",
+   "dispossess(빼앗다)"
+  ],
+  "anti": [
+   "provide(제공하다)",
+   "grant(주다)"
+  ],
+  "idiom": [
+   "deprive of(~을 빼앗다)",
+   "sleep-deprived(수면이 부족한)"
+  ],
+  "colloc": [
+   "deprive of rights(권리를 박탈하다)",
+   "deprive of sleep(잠을 못 자게 하다)",
+   "deprive of freedom(자유를 박탈하다)"
+  ],
+  "ex_add": "The prisoners were deprived of basic rights.  (deprive=박탈하다)",
+  "ex_orig": "All arguments in favor of depriving the nation of that right amount to the argument of Germany in favor of taking Belgium--\"We do it in your true interests, and in our own.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3996",
+  "hw": "deputy",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "대신 앉히도록 정해진 사람 -> '대리인·부관·차석'.",
+  "senses": [
+   "1) 대리인·부관·차석·부(副)~",
+   "2) (의회) 대의원; (미) 보안관 대리"
+  ],
+  "etym": "라틴어 de(완전히) + putare(셈하다·여기다) -> deputare(~로 여기다·할당하다) -> 'deputy'. '대신할 사람으로 정해진 자'가 핵심. putare(셈하다·여기다)는 deputy·compute(3878)·reputation(3297)·dispute(4035)·account(3658)의 뿌리.",
+  "deriv": "de(완전히)+putare(여기다) -> 'deputy'. '대신 앉히도록 정해진 사람 -> 대리인(deputy manager, 부지배인)'. 한국 학습자 핵심: putare(셈하다·여기다) 대가족 — compute(3878)·reputation(3297)·dispute(4035)·account(3658)·impute(~탓으로 돌리다)·amputate(절단)! a deputy director(부국장), a deputy mayor(부시장), act as deputy(대리로 일하다). deputy는 'vice-'(부)·'assistant'(보조)와 비슷. assistant(보조)·second-in-command(부관)·delegate(3983, 대표)와 유의어. 반대 chief(우두머리)·head(수장).",
+  "syn": [
+   "assistant(보조)",
+   "second-in-command(부관)",
+   "delegate(대표)"
+  ],
+  "anti": [
+   "chief(우두머리)",
+   "head(수장)"
+  ],
+  "idiom": [
+   "a deputy manager(부지배인)",
+   "act as deputy(대리로 일하다)"
+  ],
+  "colloc": [
+   "deputy director(부국장)",
+   "deputy mayor(부시장)",
+   "deputy head(부교장)"
+  ],
+  "ex_add": "She was promoted to deputy director.  (deputy=대리·부)",
+  "ex_orig": "As among them there are 300,000 Jews, the majority of the electors, it was in the power of that majority to elect a Jewish Deputy.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3997",
+  "hw": "descend",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "아래로 기어 내려가다 -> '내려가다·하강하다 / (be descended from) ~의 후손이다'.",
+  "senses": [
+   "1) 내려가다·하강하다",
+   "2) (be descended from) ~의 자손이다·~에서 유래하다",
+   "3) (descend into) (나쁜 상태로) 빠져들다"
+  ],
+  "etym": "라틴어 de(아래로) + scandere(오르다) -> descendere(내려가다) -> 'descend'. '아래로 기어 내려감'이 핵심. scandere(오르다)는 descend·ascend(오르다)·scale(3344, 사다리)·escalate(확대되다)·transcend(초월하다)의 뿌리.",
+  "deriv": "de(아래로)+scandere(오르다) -> 'descend'. '아래로 내려감 -> 하강하다(the plane descended, 비행기가 하강했다)·(be descended from) ~의 후손이다'. 한국 학습자 핵심: scandere(오르다) 갈래 — ascend(오르다)·scale(3344, 사다리·규모)·escalate(단계적으로 확대)·escalator(에스컬레이터)·transcend(초월하다)·descent(3998)! be descended from(~의 후손이다), descend into chaos(혼란에 빠지다, 3823), descend on(~에 들이닥치다). go down(내려가다)·drop(떨어지다)·plunge(급락하다)와 유의어. 반대 ascend(오르다)·climb(오르다)·rise(3321).",
+  "syn": [
+   "go down(내려가다)",
+   "drop(떨어지다)",
+   "plunge(급락하다)"
+  ],
+  "anti": [
+   "ascend(오르다)",
+   "climb(오르다)",
+   "rise(오르다)"
+  ],
+  "idiom": [
+   "be descended from(~의 후손이다)",
+   "descend into chaos(혼란에 빠지다)"
+  ],
+  "colloc": [
+   "descend the stairs(계단을 내려가다)",
+   "descend rapidly(빠르게 하강하다)",
+   "descend into(~에 빠져들다)"
+  ],
+  "ex_add": "The plane began to descend toward the airport.  (descend=하강하다)",
+  "ex_orig": "Descending to a height of only 100 feet in order to increase his speed, he continued to fly and was again wounded, this time mortally.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3998",
+  "hw": "descent",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "아래로 내려감 -> '하강·내리막 / 혈통·가계 / (나쁜 상태로의) 전락'.",
+  "senses": [
+   "1) 하강·내려감·내리막",
+   "2) 혈통·가계·출신",
+   "3) (나쁜 상태로의) 전락·몰락"
+  ],
+  "etym": "라틴어 de + scandere(오르다) -> descend(3997)의 명사형. '아래로 내려감'이 핵심.",
+  "deriv": "descend(3997, 내려가다) -> 'descent'. '아래로 내려감 -> 하강(a steep descent, 가파른 내리막)·혈통(of Korean descent, 한국계의)'. 한국 학습자 핵심: scandere(오르다) 갈래 — ascend(오르다)·descend(3997)·scale(3344)·escalate(확대)·transcend(초월)·ascent(상승)! 철자 주의: descent(명사·하강) vs descend(동사) vs dissent(반대)! of ~ descent(~ 혈통의), make a descent(하강하다), a rapid descent(급강하). 반대 ascent(상승)·climb(오름).",
+  "syn": [
+   "fall(하강)",
+   "drop(낙하)",
+   "lineage(혈통)"
+  ],
+  "anti": [
+   "ascent(상승)",
+   "climb(오름)"
+  ],
+  "idiom": [
+   "of ~ descent(~ 혈통의)",
+   "a steep descent(가파른 내리막)"
+  ],
+  "colloc": [
+   "steep descent(가파른 내리막)",
+   "of Korean descent(한국계의)",
+   "rapid descent(급강하)"
+  ],
+  "ex_add": "She is of Italian descent.  (descent=혈통)",
+  "ex_orig": "It is not necessarily cowardly to deny one's descent, but it is not necessary, either, to make demonstrations.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "3999",
+  "hw": "designate",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "표시해 가리켜 정하다 -> '지정하다·지명하다 / 명명하다'.",
+  "senses": [
+   "1) (공식적으로) 지정하다·정하다",
+   "2) 지명하다·임명하다",
+   "3) ~라고 칭하다·명명하다"
+  ],
+  "etym": "라틴어 de(완전히) + signare(표시하다, signum 표시) -> designare(표시해 가리키다) -> 'designate'. '표시해 콕 가리켜 정함'이 핵심. signum(표시)은 designate·sign(표시)·signal(신호)·signature(3398)·resign(3302)·significant(3400)의 뿌리.",
+  "deriv": "de(완전히)+signare(표시하다) -> 'designate'. '표시해 가리켜 정함 -> 지정하다(designate an area, 구역을 지정하다)'. 한국 학습자 핵심: signum(표시) 대가족 — sign·signal·signature(3398)·resign(3302)·significant(3400)·assign(할당)·design(설계)·designation(지정)! designate as(~로 지정하다), a designated driver(지정 운전자·대리 안 마시는 운전자), a designated area(지정 구역). a president-designate(대통령 당선자·지명자). appoint(3716, 임명하다)·assign(배정하다)·specify(3421, 명시하다)와 유의어.",
+  "syn": [
+   "appoint(임명하다)",
+   "assign(배정하다)",
+   "specify(명시하다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a designated driver(지정 운전자)",
+   "designate as(~로 지정하다)"
+  ],
+  "colloc": [
+   "designate an area(구역을 지정하다)",
+   "officially designate(공식 지정하다)",
+   "designated area(지정 구역)"
+  ],
+  "ex_add": "The building was designated a historic site.  (designate=지정하다)",
+  "ex_orig": "By 1938, DE 261 was designated onto its current alignment between US 202 and the Pennsylvania border, continuing the PA 261 designation.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4000",
+  "hw": "desirable",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "바랄 만한 -> '바람직한·탐나는 / 매력적인'.",
+  "senses": [
+   "1) 바람직한·좋은·권할 만한",
+   "2) 탐나는·갖고 싶은·매력적인"
+  ],
+  "etym": "라틴어 desiderare(간절히 바라다, de + sidus 별 -> '별을 보고 바라다') -> desire(바라다) + -able. '바랄 만한'이 핵심. sidus(별)는 desirable·desire·consider(별을 살피다·숙고하다)의 뿌리.",
+  "deriv": "desire(바라다) -> 'desirable'. '바랄 만한 -> 바람직한(a desirable outcome, 바람직한 결과)'. 한국 학습자 핵심: sidus(별) 갈래 — desire(바라다)·consider(숙고하다, 별을 관찰하다)·sidereal(항성의)! 어원이 '별(sidus)을 보며 소원을 빔'! highly desirable(매우 바람직한), socially desirable(사회적으로 바람직한), a desirable location(인기 있는 위치). advantageous(유리한)·preferable(더 나은)·attractive(매력적인)과 유의어. 반대 undesirable(바람직하지 않은)·unwanted(원치 않는).",
+  "syn": [
+   "advantageous(유리한)",
+   "preferable(더 나은)",
+   "attractive(매력적인)"
+  ],
+  "anti": [
+   "undesirable(바람직하지 않은)",
+   "unwanted(원치 않는)"
+  ],
+  "idiom": [
+   "a desirable outcome(바람직한 결과)",
+   "highly desirable(매우 바람직한)"
+  ],
+  "colloc": [
+   "desirable outcome(바람직한 결과)",
+   "highly desirable(매우 바람직한)",
+   "desirable location(인기 있는 위치)"
+  ],
+  "ex_add": "A good education is highly desirable.  (desirable=바람직한)",
+  "ex_orig": "It is also desirable to reaffirm with all possible emphasis that fidelity to international agreements is the taproot of human progress.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4001",
+  "hw": "desktop",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "책상 위 -> '데스크톱 컴퓨터 / (컴퓨터) 바탕화면'.",
+  "senses": [
+   "1) 데스크톱(탁상용) 컴퓨터",
+   "2) (컴퓨터의) 바탕화면",
+   "3) 책상 위·탁상"
+  ],
+  "etym": "desk(책상) + top(위·표면). '책상 위에 놓고 쓰는 것'이 핵심. desk는 라틴어 discus(원반·평판)에서, 같은 뿌리가 disc·dish·dais.",
+  "deriv": "desk(책상)+top(위) -> 'desktop'. '책상 위 -> 데스크톱 컴퓨터(a desktop computer, 탁상용 컴퓨터)·바탕화면'. 한국 학습자 핵심: 컴퓨터 종류 — desktop(데스크톱)·laptop(노트북, 무릎 위)·tablet(태블릿)·handheld(휴대용)! desk는 disc(원반)·dish(접시)·dais(연단)와 한 뿌리(평평한 판). a desktop computer(탁상용 컴퓨터), desktop publishing(전자 출판·DTP), the desktop background(바탕화면 배경). 반대 laptop(노트북).",
+  "syn": [
+   "computer(컴퓨터)"
+  ],
+  "anti": [
+   "laptop(노트북)"
+  ],
+  "idiom": [
+   "a desktop computer(탁상용 컴퓨터)",
+   "desktop publishing(전자 출판)"
+  ],
+  "colloc": [
+   "desktop computer(탁상용 컴퓨터)",
+   "desktop background(바탕화면)",
+   "on the desktop(바탕화면에)"
+  ],
+  "ex_add": "She prefers a desktop computer to a laptop.  (desktop=데스크톱)",
+  "ex_orig": "In the 1980s, desktop publishing software provided the average writer with more advanced formatting tools.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4002",
+  "hw": "destructive",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "쌓은 것을 허무는 -> '파괴적인·해로운'.",
+  "senses": [
+   "1) 파괴적인·파멸을 초래하는",
+   "2) (관계·정신에) 해로운·부정적인"
+  ],
+  "etym": "라틴어 de(거꾸로·반대로) + struere(쌓다·짓다) -> destruere(허물다) -> destroy + -ive. '쌓은 것을 거꾸로 허무는'이 핵심. struere(쌓다)는 destructive·structure(3466)·construct(건설)·instruct(가르치다)·construe(해석)의 뿌리.",
+  "deriv": "de(거꾸로)+struere(쌓다) -> destroy -> 'destructive'. '쌓은 것을 허무는 -> 파괴적인(a destructive storm, 파괴적인 폭풍)'. 한국 학습자 핵심: struere(쌓다·짓다) 대가족 — structure(3466)·construct(건설)·instruct(가르치다)·construe(해석)·infrastructure(기반 시설)·obstruct(가로막다)·destruction(파괴)! self-destructive(자기 파괴적인), a destructive force(파괴력), highly destructive(매우 파괴적인). damaging(3966, 해로운)·harmful(해로운)·devastating(파괴적인)과 유의어. 반대 constructive(건설적인)·beneficial(이로운).",
+  "syn": [
+   "damaging(해로운)",
+   "harmful(해로운)",
+   "devastating(파괴적인)"
+  ],
+  "anti": [
+   "constructive(건설적인)",
+   "beneficial(이로운)"
+  ],
+  "idiom": [
+   "a destructive force(파괴력)",
+   "self-destructive(자기 파괴적인)"
+  ],
+  "colloc": [
+   "destructive storm(파괴적인 폭풍)",
+   "destructive behavior(파괴적 행동)",
+   "highly destructive(매우 파괴적인)"
+  ],
+  "ex_add": "War is one of the most destructive forces.  (destructive=파괴적인)",
+  "ex_orig": "Moreover, mankind has never before had the use of such destructive implements as the machine gun, the torpedo, and the dynamite bomb.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4003",
+  "hw": "detain",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "붙들어 두다 -> '구금하다·억류하다 / 붙잡아 두다'.",
+  "senses": [
+   "1) (경찰이) 구금하다·억류하다",
+   "2) (가지 못하게) 붙잡아 두다·지체시키다"
+  ],
+  "etym": "라틴어 de(떨어져·완전히) + tenere(잡다·붙들다) -> detinere(붙들어 두다) -> 'detain'. '붙들어 못 가게 함'이 핵심. tenere(잡다)는 detain·retain(3311)·contain(담다)·maintain(유지)·sustain(지탱)·detention(4005)의 뿌리.",
+  "deriv": "de(완전히)+tenere(잡다) -> 'detain'. '붙들어 둠 -> 구금하다(detain a suspect, 용의자를 구금하다)'. 한국 학습자 핵심: tenere(잡다·붙들다) 대가족 — retain(3311)·contain(담다)·maintain(유지)·sustain(지탱)·obtain(얻다)·content(3913)·tenant(세입자)·detention(4005)! be detained(억류되다), detain for questioning(심문을 위해 구금하다), I won't detain you long(오래 붙잡지 않겠습니다). hold(붙잡다)·confine(3888, 가두다)·arrest(체포하다)와 유의어. 반대 release(석방하다)·free(풀어 주다).",
+  "syn": [
+   "hold(붙잡다)",
+   "confine(가두다)",
+   "arrest(체포하다)"
+  ],
+  "anti": [
+   "release(석방하다)",
+   "free(풀어 주다)"
+  ],
+  "idiom": [
+   "detain a suspect(용의자를 구금하다)",
+   "detain for questioning(심문을 위해 구금하다)"
+  ],
+  "colloc": [
+   "detain a suspect(용의자를 구금하다)",
+   "be detained(억류되다)",
+   "unlawfully detain(불법 구금하다)"
+  ],
+  "ex_add": "Police detained two men for questioning.  (detain=구금하다)",
+  "ex_orig": "Great Britain held up all neutral ships carrying non-contraband goods, detaining them, buying or confiscating their cargoes.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4004",
+  "hw": "detection",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "덮개를 벗겨 찾아냄 -> '발견·탐지·간파'.",
+  "senses": [
+   "1) (숨은 것의) 발견·탐지·검출",
+   "2) (범죄·이상의) 적발·간파"
+  ],
+  "etym": "라틴어 de(반대로·벗겨) + tegere(덮다) -> detegere(덮개를 벗기다·드러내다) -> detect + -ion. '덮개를 벗겨 찾아냄'이 핵심. tegere(덮다)는 detection·detect·protect(덮어 지키다)·tegument(외피)의 뿌리.",
+  "deriv": "de(벗겨)+tegere(덮다) -> detect -> 'detection'. '덮개를 벗겨 찾아냄 -> 탐지(early detection, 조기 발견)'. 한국 학습자 핵심: tegere(덮다) 갈래 — detect(탐지하다)·protect(보호하다, pro 앞을+tegere 덮다)·tegument(외피)·detective(탐정)! early detection(조기 발견), crime detection(범죄 수사), detection of(~의 탐지), a smoke detector(연기 감지기). discovery(발견)·identification(식별)과 유의어.",
+  "syn": [
+   "discovery(발견)",
+   "identification(식별)",
+   "spotting(발견)"
+  ],
+  "anti": [],
+  "idiom": [
+   "early detection(조기 발견)",
+   "crime detection(범죄 수사)"
+  ],
+  "colloc": [
+   "early detection(조기 발견)",
+   "detection of(~의 탐지)",
+   "fraud detection(사기 적발)"
+  ],
+  "ex_add": "Early detection of cancer saves lives.  (detection=발견)",
+  "ex_orig": "He was awarded the 1995 Nobel Prize in Physics for his co - detection of the neutrino with Clyde Cowan in the neutrino experiment.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4005",
+  "hw": "detention",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "붙들어 둠 -> '구금·억류 / (학교) 방과 후 남기기'.",
+  "senses": [
+   "1) (법) 구금·억류·구류",
+   "2) (학교) 방과 후 남게 하는 벌"
+  ],
+  "etym": "라틴어 de + tenere(잡다) -> detain(4003)의 명사형. '붙들어 둠'이 핵심.",
+  "deriv": "detain(4003, 구금하다) -> 'detention'. '붙들어 둠 -> 구금(in detention, 구금되어)·방과 후 벌'. 한국 학습자 핵심: tenere(잡다·붙들다) 대가족 — detain(4003)·retain(3311)·contain(담다)·maintain(유지)·sustain(지탱)·content(3913)! a detention center(구금 시설), get detention(방과 후에 남는 벌을 받다), indefinite detention(무기한 구금), in detention(구금 중인). custody(3962, 구금)·confinement(감금)·imprisonment(투옥)과 유의어. 반대 release(석방)·freedom(자유).",
+  "syn": [
+   "custody(구금)",
+   "confinement(감금)",
+   "imprisonment(투옥)"
+  ],
+  "anti": [
+   "release(석방)",
+   "freedom(자유)"
+  ],
+  "idiom": [
+   "a detention center(구금 시설)",
+   "get detention(방과 후 벌을 받다)"
+  ],
+  "colloc": [
+   "detention center(구금 시설)",
+   "in detention(구금 중인)",
+   "indefinite detention(무기한 구금)"
+  ],
+  "ex_add": "The boy got detention for being late.  (detention=방과 후 벌)",
+  "ex_orig": "21--All unnaturalized German and Austrian residents between ages of 17 and 45 are to be taken to detention camps.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4006",
+  "hw": "deteriorate",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "더 나빠지다 -> '악화되다·나빠지다'.",
+  "senses": [
+   "1) (상태·관계가) 악화되다·나빠지다",
+   "2) (물건이) 못 쓰게 되다·낡다"
+  ],
+  "etym": "라틴어 deterior(더 나쁜, de에서 파생된 비교급) -> deteriorare(나빠지게 하다) -> 'deteriorate'. '점점 더 나빠짐'이 핵심.",
+  "deriv": "deterior(더 나쁜) -> 'deteriorate'. '더 나빠짐 -> 악화되다(conditions deteriorated, 상황이 악화되었다)'. 한국 학습자 핵심: deterior(더 나쁜)는 라틴어 비교급(better-worse처럼)! deterioration(악화)이 명사. rapidly deteriorate(급격히 악화되다), deteriorate further(더 악화되다), deteriorating health(악화되는 건강). worsen(악화되다)·decline(쇠퇴하다)·degenerate(퇴화하다)와 유의어. 반대 improve(개선되다)·recover(3272, 회복되다)·enhance(향상시키다).",
+  "syn": [
+   "worsen(악화되다)",
+   "decline(쇠퇴하다)",
+   "degenerate(퇴화하다)"
+  ],
+  "anti": [
+   "improve(개선되다)",
+   "recover(회복되다)",
+   "enhance(향상시키다)"
+  ],
+  "idiom": [
+   "rapidly deteriorate(급격히 악화되다)",
+   "deteriorate further(더 악화되다)"
+  ],
+  "colloc": [
+   "conditions deteriorate(상황이 악화되다)",
+   "deteriorating health(악화되는 건강)",
+   "rapidly deteriorate(급격히 악화되다)"
+  ],
+  "ex_add": "His health deteriorated rapidly last year.  (deteriorate=악화되다)",
+  "ex_orig": "As Carey's career and work continued to reflect her views on how it should sound, her marriage to Mottola continued to \" deteriorate.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4007",
+  "hw": "devastate",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "완전히 텅 비게 하다 -> '완전히 파괴하다·황폐화하다 / 엄청난 충격을 주다'.",
+  "senses": [
+   "1) (도시·지역을) 완전히 파괴하다·황폐화하다",
+   "2) (사람에게) 엄청난 충격·슬픔을 주다"
+  ],
+  "etym": "라틴어 de(완전히) + vastare(황폐하게 하다, vastus 텅 빈·광대한) -> devastare -> 'devastate'. '완전히 텅 비게 쑥대밭으로 만듦'이 핵심. vastus(텅 빈)는 devastate·vast(3588)·waste(낭비·황무지)의 뿌리.",
+  "deriv": "de(완전히)+vastus(텅 빈) -> 'devastate'. '완전히 텅 비게 함 -> 황폐화하다(devastate a region, 지역을 초토화하다)·충격을 주다(be devastated by, ~에 큰 충격을 받다)'. 한국 학습자 핵심: vastus(텅 빈·광대한) 갈래 — vast(3588, 광대한)·waste(낭비·황무지)·devastation(대파괴)·devastating(파괴적인·엄청난)! be devastated(큰 충격을 받다), devastate the economy(경제를 황폐화하다), a devastating blow(엄청난 타격). destroy(파괴하다)·ruin(3335, 망치다)·ravage(유린하다)와 유의어. 반대 restore(3307, 복원하다)·rebuild(3266, 재건하다).",
+  "syn": [
+   "destroy(파괴하다)",
+   "ruin(망치다)",
+   "ravage(유린하다)"
+  ],
+  "anti": [
+   "restore(복원하다)",
+   "rebuild(재건하다)"
+  ],
+  "idiom": [
+   "be devastated by(~에 큰 충격을 받다)",
+   "a devastating blow(엄청난 타격)"
+  ],
+  "colloc": [
+   "devastate a region(지역을 초토화하다)",
+   "devastate the economy(경제를 황폐화하다)",
+   "be devastated(큰 충격을 받다)"
+  ],
+  "ex_add": "The earthquake devastated the entire city.  (devastate=황폐화하다)",
+  "ex_orig": "Can the Russian people remain neutral witnesses of the sufferings and privations thrust upon the population of the devastated country?",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4008",
+  "hw": "devil",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "헐뜯어 갈라놓는 자 -> '악마·마귀 / 짓궂은 사람'.",
+  "senses": [
+   "1) (the Devil) 악마·사탄",
+   "2) 마귀·악령",
+   "3) (구어) 짓궂은 사람·~한 녀석"
+  ],
+  "etym": "그리스어 diabolos(중상하는 자·헐뜯는 자, dia 가로질러 + ballein 던지다 = '비방을 던지는 자') -> 라틴어 diabolus -> 고대 영어 deofol -> 'devil'. '이간질해 갈라놓는 자'가 핵심. ballein(던지다)은 devil·ball(공)·problem(앞에 던져진 것)·symbol(상징)의 뿌리.",
+  "deriv": "diabolos(헐뜯는 자) -> 'devil'. '헐뜯어 갈라놓는 자 -> 악마(the Devil, 사탄)'. 한국 학습자 핵심: ballein(던지다) 갈래 — ball(공)·problem(문제, 앞에 던져진 것)·symbol(상징)·parable(우화)·diabolical(악마 같은)! speak of the devil(호랑이도 제 말 하면 온다), the devil's advocate(일부러 반대 의견을 내는 사람), between the devil and the deep blue sea(진퇴양난), a devil-may-care attitude(될 대로 되라는 태도). demon(3986, 악마)·fiend(악마)와 유의어. 반대 angel(3708, 천사)·saint(성인).",
+  "syn": [
+   "demon(악마)",
+   "fiend(악마)",
+   "Satan(사탄)"
+  ],
+  "anti": [
+   "angel(천사)",
+   "saint(성인)"
+  ],
+  "idiom": [
+   "speak of the devil(호랑이도 제 말 하면)",
+   "the devil's advocate(일부러 반대하는 사람)",
+   "between the devil and the deep blue sea(진퇴양난)"
+  ],
+  "colloc": [
+   "the Devil(악마)",
+   "devil-may-care(될 대로 되라는)",
+   "a little devil(개구쟁이)"
+  ],
+  "ex_add": "Speak of the devil — here she comes!  (devil=악마)",
+  "ex_orig": "Whenever the time comes that I have to add God and the devil together and divide by two in the name of neutrality, I'll withdraw.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4009",
+  "hw": "devise",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "나누어 궁리해 짜내다 -> '고안하다·궁리하다·창안하다'.",
+  "senses": [
+   "1) (방법·계획을) 고안하다·궁리해 내다·창안하다"
+  ],
+  "etym": "라틴어 dividere(나누다) -> 통속 라틴어 divisare(곰곰이 나누어 생각하다) -> 고대 프랑스어 deviser -> 'devise'. 머릿속에서 '나누어 따져 짜냄'이 핵심. dividere(나누다)는 devise·divide(나누다)·device(장치)·division(분할)·individual(개인)의 뿌리.",
+  "deriv": "dividere(나누다) -> 'devise'. '나누어 궁리해 짜냄 -> 고안하다(devise a plan, 계획을 고안하다)'. 한국 학습자 핵심: dividere(나누다) 갈래 — divide(나누다)·device(장치)·division(분할)·individual(개인, 더 나눌 수 없는)·devise! 철자·뜻 구별: devise(고안하다, 동사) vs device(장치, 명사)! devise a strategy(전략을 짜다), devise a system(시스템을 고안하다), cleverly devise(교묘하게 고안하다). invent(발명하다)·design(설계하다)·formulate(공식화하다)와 유의어.",
+  "syn": [
+   "invent(발명하다)",
+   "design(설계하다)",
+   "formulate(공식화하다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "devise a plan(계획을 고안하다)",
+   "devise a strategy(전략을 짜다)"
+  ],
+  "colloc": [
+   "devise a plan(계획을 고안하다)",
+   "devise a method(방법을 궁리하다)",
+   "devise a system(시스템을 고안하다)"
+  ],
+  "ex_add": "They devised a clever plan to save money.  (devise=고안하다)",
+  "ex_orig": "These facts must be well known to the German scientists who devised this new weapon and to the military authorities who have sanctioned its use.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4010",
+  "hw": "diagnose",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "꿰뚫어 알아내다 -> '진단하다 / (문제를) 규명하다'.",
+  "senses": [
+   "1) (병을) 진단하다",
+   "2) (문제·원인을) 규명하다·진단하다"
+  ],
+  "etym": "그리스어 dia(꿰뚫어·통하여) + gignoskein(알다) -> diagignoskein(분간해 알다) -> diagnosis -> 'diagnose'. '증상을 꿰뚫어 알아냄'이 핵심. gignoskein(알다)은 diagnose·cognitive(3845)·recognize(알아보다)·prognosis(예후)·ignore(모르다)의 뿌리.",
+  "deriv": "dia(꿰뚫어)+gignoskein(알다) -> 'diagnose'. '꿰뚫어 알아냄 -> 진단하다(diagnose a disease, 병을 진단하다)'. 한국 학습자 핵심: gignoskein/gnoscere(알다) 대가족 — cognitive(3845)·recognize(알아보다)·recognition(3271)·prognosis(예후)·incognito(신분을 숨긴)·ignore(모르다)·gnostic(지식의)! dia-(통하여·가로질러) — diagnose·diameter(지름)·dialogue(대화)·diagonal(대각선)! be diagnosed with(~ 진단을 받다), correctly diagnose(정확히 진단하다). identify(밝혀내다)·detect(탐지하다)와 유의어.",
+  "syn": [
+   "identify(밝혀내다)",
+   "detect(탐지하다)",
+   "determine(규명하다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "be diagnosed with(~ 진단을 받다)",
+   "diagnose a disease(병을 진단하다)"
+  ],
+  "colloc": [
+   "diagnose a disease(병을 진단하다)",
+   "be diagnosed with(~ 진단을 받다)",
+   "correctly diagnose(정확히 진단하다)"
+  ],
+  "ex_add": "She was diagnosed with diabetes last year.  (diagnose=진단하다)",
+  "ex_orig": "Genetic studies have shown that the disorder may be tied to the silver dapple gene, as most horses diagnosed with MCOA carry the gene.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4011",
+  "hw": "diagnosis",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "꿰뚫어 알아냄 -> '진단 / (문제) 진단·분석'.",
+  "senses": [
+   "1) (병의) 진단",
+   "2) (문제의) 진단·원인 분석"
+  ],
+  "etym": "그리스어 dia(꿰뚫어) + gnosis(앎) -> 'diagnosis'. '꿰뚫어 알아냄'이 핵심.",
+  "deriv": "diagnose(4010, 진단하다) -> 'diagnosis'. '꿰뚫어 알아냄 -> 진단(an early diagnosis, 조기 진단)'. 한국 학습자 핵심: gnosis(앎) 대가족 — cognitive(3845)·recognize·prognosis(예후, pro 앞을 미리 앎)·diagnose(4010)! 복수형 diagnoses[-siːz]. make a diagnosis(진단하다), an accurate diagnosis(정확한 진단), an early diagnosis(조기 진단), a misdiagnosis(오진). 구별: diagnosis(진단, 무엇이 문제인지)·prognosis(예후, 앞으로 어떻게 될지). identification(규명)·analysis(분석)과 유의어.",
+  "syn": [
+   "identification(규명)",
+   "analysis(분석)",
+   "assessment(평가)"
+  ],
+  "anti": [],
+  "idiom": [
+   "make a diagnosis(진단하다)",
+   "an early diagnosis(조기 진단)"
+  ],
+  "colloc": [
+   "accurate diagnosis(정확한 진단)",
+   "early diagnosis(조기 진단)",
+   "make a diagnosis(진단을 내리다)"
+  ],
+  "ex_add": "The doctor confirmed the diagnosis.  (diagnosis=진단)",
+  "ex_orig": "DIAGNOSIS OF THE ENGLISHMAN 541 By John Galsworthy",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4012",
+  "hw": "dictate",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "거듭 말하여 명하다 -> '받아쓰게 하다 / 명령하다·좌우하다'.",
+  "senses": [
+   "1) 받아쓰게 하다·구술하다",
+   "2) (명령조로) 지시하다·명령하다",
+   "3) (상황을) 좌우하다·결정짓다"
+  ],
+  "etym": "라틴어 dicere(말하다) -> dictare(거듭 말하다·받아쓰게 하다) -> 'dictate'. '거듭 말하여 명함'이 핵심. dicere(말하다)는 dictate·dictator(4013)·predict(예측)·contradiction(3917)·dedicate(바치다)·dictionary(사전)의 뿌리.",
+  "deriv": "dicere(말하다) -> dictare -> 'dictate'. '거듭 말하여 명함 -> 받아쓰게 하다(dictate a letter, 편지를 구술하다)·좌우하다(dictate terms, 조건을 강요하다)'. 한국 학습자 핵심: dicere(말하다) 초대형 가족 — dictator(4013)·predict(예측)·contradiction(3917)·dedicate(바치다)·indicate(가리키다)·dictionary(사전)·verdict(평결)·diction(말씨)! dictate to(~에게 명령하다), dictate terms(조건을 강요하다), market forces dictate(시장의 힘이 좌우하다). command(명령하다)·determine(좌우하다)·prescribe(규정하다)와 유의어.",
+  "syn": [
+   "command(명령하다)",
+   "determine(좌우하다)",
+   "prescribe(규정하다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "dictate terms(조건을 강요하다)",
+   "dictate to(~에게 명령하다)"
+  ],
+  "colloc": [
+   "dictate a letter(편지를 구술하다)",
+   "dictate terms(조건을 강요하다)",
+   "dictate policy(정책을 좌우하다)"
+  ],
+  "ex_add": "The boss dictated a letter to his secretary.  (dictate=받아쓰게 하다)",
+  "ex_orig": "on every party, when it was against the interest which the particular situation dictated, when the war broke out.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4013",
+  "hw": "dictator",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "명령하는 자 -> '독재자'.",
+  "senses": [
+   "1) 독재자·전제 군주",
+   "2) (제멋대로) 군림하는 사람"
+  ],
+  "etym": "라틴어 dicere(말하다) -> dictator(명령자, 로마의 비상시 절대 권력자) -> 'dictator'. '명령만 하는 절대 권력자'가 핵심.",
+  "deriv": "dictate(4012, 명령하다) -> 'dictator'. '명령하는 자 -> 독재자(a brutal dictator, 잔혹한 독재자)'. 한국 학습자 핵심: dicere(말하다) 대가족 — dictate(4012)·predict(예측)·contradiction(3917)·dedicate(바치다)·dictionary(사전)·dictatorship(독재)! 로마 공화정에서 비상시 임명되던 '딕타토르(절대 권력자)'에서 유래. a military dictator(군사 독재자), a ruthless dictator(무자비한 독재자), overthrow a dictator(독재자를 타도하다). tyrant(폭군)·autocrat(독재자)·despot(전제 군주)와 유의어.",
+  "syn": [
+   "tyrant(폭군)",
+   "autocrat(독재자)",
+   "despot(전제 군주)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a brutal dictator(잔혹한 독재자)",
+   "overthrow a dictator(독재자를 타도하다)"
+  ],
+  "colloc": [
+   "military dictator(군사 독재자)",
+   "ruthless dictator(무자비한 독재자)",
+   "former dictator(전 독재자)"
+  ],
+  "ex_add": "The country was ruled by a brutal dictator.  (dictator=독재자)",
+  "ex_orig": "In the role of a world conqueror Germany would become a world dictator--would indulge in a domination which would be almost unbearable to every other nation.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4014",
+  "hw": "differentiate",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "갈라 다르게 하다 -> '구별하다·차별화하다 / 분화하다'.",
+  "senses": [
+   "1) (둘을) 구별하다·식별하다",
+   "2) (남과) 차별화하다·다르게 하다",
+   "3) (생물) 분화하다"
+  ],
+  "etym": "라틴어 dis(따로) + ferre(나르다) -> differre(다르다·차이가 나다) -> different(다른) -> differentiate. '따로 갈라 다르게 함'이 핵심. ferre(나르다)는 differentiate·differ·refer·transfer(3541)·suffer(3475)·confer(3885)의 뿌리.",
+  "deriv": "dis(따로)+ferre(나르다) -> differ -> 'differentiate'. '갈라 다르게 함 -> 구별하다(differentiate between, ~을 구별하다)·차별화하다'. 한국 학습자 핵심: ferre(나르다) 대가족 — differ(다르다)·different·refer·transfer(3541)·suffer(3475)·confer(3885)·prefer(선호)·offer(제공)! differentiate between A and B(A와 B를 구별하다), differentiate oneself(차별화하다), differentiation(구별·분화). distinguish(구별하다)·discriminate(식별하다)·tell apart(구별하다)와 유의어. 반대 confuse(혼동하다)·equate(동일시하다).",
+  "syn": [
+   "distinguish(구별하다)",
+   "discriminate(식별하다)",
+   "tell apart(구별하다)"
+  ],
+  "anti": [
+   "confuse(혼동하다)",
+   "equate(동일시하다)"
+  ],
+  "idiom": [
+   "differentiate between(~을 구별하다)",
+   "differentiate oneself(차별화하다)"
+  ],
+  "colloc": [
+   "differentiate between(~을 구별하다)",
+   "clearly differentiate(분명히 구별하다)",
+   "differentiate products(제품을 차별화하다)"
+  ],
+  "ex_add": "It is hard to differentiate between the twins.  (differentiate=구별하다)",
+  "ex_orig": "Casual readers would not miss the word neutrality from Sir Edward Grey's guarantee, because they do not differentiate between the words integrity, independence, and neutrality.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4015",
+  "hw": "dignity",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "받을 만한 가치 -> '존엄·품위·위엄'.",
+  "senses": [
+   "1) 존엄(성)·품위·위엄",
+   "2) (자신을 지키는) 자존심·체면"
+  ],
+  "etym": "라틴어 dignus(가치 있는·받을 만한) -> dignitas(가치·위엄) -> 'dignity'. '존중받을 만한 가치'가 핵심. dignus(가치 있는)는 dignity·dignify(위엄을 주다)·indignant(분개한)·deign(황공하게도 ~하다)·disdain(경멸)의 뿌리.",
+  "deriv": "dignus(가치 있는) -> dignitas -> 'dignity'. '받을 만한 가치 -> 존엄(human dignity, 인간의 존엄성)'. 한국 학습자 핵심: dignus(가치 있는) 갈래 — dignify(위엄을 주다)·indignant(분개한, 부당함에 분노)·indignation(분개)·deign(황공히 ~하다)·disdain(경멸, dis 아래로+dignus)·dignitary(고관)! human dignity(인간의 존엄성), with dignity(품위 있게), beneath one's dignity(체면에 어긋나는), die with dignity(존엄하게 죽다). pride(자존심)·self-respect(자존감)·honor(명예)와 유의어. 반대 humiliation(굴욕)·indignity(모욕).",
+  "syn": [
+   "pride(자존심)",
+   "self-respect(자존감)",
+   "honor(명예)"
+  ],
+  "anti": [
+   "humiliation(굴욕)",
+   "indignity(모욕)"
+  ],
+  "idiom": [
+   "with dignity(품위 있게)",
+   "beneath one's dignity(체면에 어긋나는)",
+   "human dignity(인간의 존엄성)"
+  ],
+  "colloc": [
+   "human dignity(인간의 존엄성)",
+   "with dignity(품위 있게)",
+   "preserve dignity(품위를 지키다)"
+  ],
+  "ex_add": "Everyone deserves to be treated with dignity.  (dignity=존엄)",
+  "ex_orig": "The present Emperor stands as the national leader, not in the histrionic attitude of a war lord but in the quiet dignity of his office.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4016",
+  "hw": "dilemma",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "두 전제 사이의 궁지 -> '딜레마·진퇴양난'.",
+  "senses": [
+   "1) 딜레마·진퇴양난·궁지(둘 다 곤란한 선택)"
+  ],
+  "etym": "그리스어 di(둘) + lemma(전제·명제, lambanein 잡다) -> dilemma(두 전제 사이에 낀 상태) -> 'dilemma'. '두 가지 곤란한 선택 사이에 낀 궁지'가 핵심. di(둘)는 dilemma·dilemma·dioxide(이산화물)·dilemma의 뿌리.",
+  "deriv": "di(둘)+lemma(전제) -> 'dilemma'. '두 전제 사이의 궁지 -> 딜레마(face a dilemma, 딜레마에 직면하다)'. 한국 학습자 핵심: di-(둘) 갈래 — dilemma·dioxide(이산화물)·dilogy! 어원이 '두(di) 전제(lemma)' — 둘 다 나쁜 선택! a moral dilemma(도덕적 딜레마), be in a dilemma(진퇴양난에 빠지다), pose a dilemma(딜레마를 안기다), a real dilemma(진짜 난처한 상황). predicament(곤경)·quandary(곤혹)와 유의어.",
+  "syn": [
+   "predicament(곤경)",
+   "quandary(곤혹)",
+   "catch-22(진퇴양난)"
+  ],
+  "anti": [],
+  "idiom": [
+   "face a dilemma(딜레마에 직면하다)",
+   "be in a dilemma(진퇴양난에 빠지다)"
+  ],
+  "colloc": [
+   "moral dilemma(도덕적 딜레마)",
+   "face a dilemma(딜레마에 직면하다)",
+   "pose a dilemma(딜레마를 안기다)"
+  ],
+  "ex_add": "She faced a difficult moral dilemma.  (dilemma=딜레마)",
+  "ex_orig": "In this debate between the \" permanence \" and \" change \", Hinduism seems more inclined to grasp the first horn of the dilemma and Buddhism the second.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4017",
+  "hw": "dimension",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "재어 나온 크기 -> '차원 / 치수·크기 / (문제의) 측면·규모'.",
+  "senses": [
+   "1) (수학·물리) 차원",
+   "2) 치수·크기·규모(dimensions)",
+   "3) (문제의) 측면·양상·차원"
+  ],
+  "etym": "라틴어 dis(완전히) + metiri(재다·측정하다) -> dimensio(잼·치수) -> 'dimension'. '재어 나온 크기'가 핵심. metiri(재다)는 dimension·measure(재다)·immense(엄청난, 잴 수 없는)·dimension의 뿌리.",
+  "deriv": "dis(완전히)+metiri(재다) -> 'dimension'. '재어 나온 크기 -> 차원·치수(the dimensions of, ~의 치수)·(문제의) 측면(a new dimension, 새로운 차원)'. 한국 학습자 핵심: metiri(재다) 갈래 — measure(재다)·immense(엄청난, im 못+mensus 잰 = 잴 수 없는)·dimension! a three-dimensional object(3차원 물체·3D), add a new dimension(새 차원을 더하다), the dimensions of the room(방의 치수), a political dimension(정치적 측면). aspect(측면)·scale(3344, 규모)·measurement(치수)과 유의어.",
+  "syn": [
+   "aspect(측면)",
+   "scale(규모)",
+   "measurement(치수)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a new dimension(새로운 차원)",
+   "a three-dimensional object(3차원 물체)"
+  ],
+  "colloc": [
+   "new dimension(새로운 차원)",
+   "the dimensions of(~의 치수)",
+   "political dimension(정치적 측면)"
+  ],
+  "ex_add": "The discovery added a new dimension to the research.  (dimension=차원)",
+  "ex_orig": "With Russia, an Oriental despotism which by the aid of French money has developed a \"militarism\" by land so portentous in numbers, dimension, and efficiency that its movements are comparable to those of Attila's Huns.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4018",
+  "hw": "diminish",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "더 작게 하다 -> '줄다·줄이다 / 약화시키다·깎아내리다'.",
+  "senses": [
+   "1) 줄다·감소하다·줄이다",
+   "2) (가치·중요성을) 약화시키다·깎아내리다"
+  ],
+  "etym": "라틴어 de(완전히) + minuere(작게 하다, minus 더 적은) -> diminuere(줄이다) -> 'diminish'. '점점 더 작게 함'이 핵심. minus(더 적은)는 diminish·minor(작은)·minimum(최소)·minute(미세한·분)·minister(3673, 섬기다)의 뿌리.",
+  "deriv": "de(완전히)+minuere(작게 하다) -> 'diminish'. '더 작게 함 -> 줄다(diminishing returns, 수확 체감)·약화시키다(diminish in importance, 중요성이 줄다)'. 한국 학습자 핵심: minus(더 적은·작은) 대가족 — minor(작은)·minimum(최소)·minute(미세한·분)·minister(3673)·minus(빼기)·diminutive(아주 작은)·minority(소수)! the law of diminishing returns(수확 체감의 법칙), gradually diminish(점차 줄다). decrease(감소하다)·reduce(줄이다)·dwindle(쇠퇴하다)와 유의어. 반대 increase(증가하다)·grow(커지다)·enhance(향상시키다).",
+  "syn": [
+   "decrease(감소하다)",
+   "reduce(줄이다)",
+   "dwindle(쇠퇴하다)"
+  ],
+  "anti": [
+   "increase(증가하다)",
+   "grow(커지다)",
+   "enhance(향상시키다)"
+  ],
+  "idiom": [
+   "diminishing returns(수확 체감)",
+   "diminish in importance(중요성이 줄다)"
+  ],
+  "colloc": [
+   "gradually diminish(점차 줄다)",
+   "diminishing returns(수확 체감)",
+   "greatly diminish(크게 줄이다)"
+  ],
+  "ex_add": "His influence diminished over the years.  (diminish=줄다)",
+  "ex_orig": "But the most disastrous effect upon the Russian industry has been produced by the diminished demand and by the lack of raw materials.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4019",
+  "hw": "dip",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "살짝 담그다 -> '살짝 담그다·적시다 / 약간 내려가다 / (n.) 잠깐 담금·하락'.",
+  "senses": [
+   "1) (액체에) 살짝 담그다·적시다",
+   "2) (수치가) 약간 내려가다·떨어지다",
+   "3) (n.) 잠깐 담금; 소스(찍어 먹는); 약간의 하락"
+  ],
+  "etym": "고대 영어 dyppan(담그다). deep(깊은)·dive(잠수하다)와 같은 게르만어 계열 — '깊이 살짝 담금'이 핵심.",
+  "deriv": "dyppan(담그다) -> 'dip'. '살짝 담그다 -> 적시다(dip a brush, 붓을 적시다)·약간 내려가다(sales dipped, 매출이 약간 떨어졌다)'. 한국 학습자 핵심: deep(깊은)·dive(다이빙)와 한 뿌리! 변화 dip-dipped-dipped. take a dip(잠깐 멱을 감다·수영하다), dip into(~을 잠깐 들춰 보다·조금 쓰다), a dip in sales(매출의 소폭 하락), skinny dip(알몸 수영). dunk(담그다)·plunge(빠뜨리다)와 유의어. 반대 raise(올리다).",
+  "syn": [
+   "dunk(담그다)",
+   "plunge(빠뜨리다)",
+   "lower(낮추다)"
+  ],
+  "anti": [
+   "raise(올리다)",
+   "lift(들어 올리다)"
+  ],
+  "idiom": [
+   "take a dip(잠깐 수영하다)",
+   "dip into(~을 잠깐 들춰 보다)"
+  ],
+  "colloc": [
+   "dip in sales(매출의 소폭 하락)",
+   "dip a brush(붓을 적시다)",
+   "take a dip(멱을 감다)"
+  ],
+  "ex_add": "She dipped her toe into the cold water.  (dip=살짝 담그다)",
+  "ex_orig": "The hard-wood floors he's goin' to rip-- They may not hesitate or dip; I'm told that he was heard to say They're'sposed to work and not to play Ping Pong!",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4020",
+  "hw": "diplomat",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "공문서를 지닌 사절 -> '외교관 / 수완가'.",
+  "senses": [
+   "1) 외교관",
+   "2) (사람을 잘 다루는) 수완가·재치 있는 사람"
+  ],
+  "etym": "그리스어 diploma(둘로 접은 공식 문서, diploun 둘로 접다) -> 프랑스어 diplomate -> 'diplomat'. 옛 사절이 지니던 '둘로 접은 공문서(신임장)'에서. '공문서를 지닌 사절'이 핵심. diploma(접은 문서)는 diplomat·diploma(졸업장)·diplomatic(4021)의 뿌리.",
+  "deriv": "diploma(접은 공문서) -> 'diplomat'. '공문서를 지닌 사절 -> 외교관(a career diplomat, 직업 외교관)'. 한국 학습자 핵심: diploma(둘로 접은 문서) 갈래 — diploma(졸업장)·diplomatic(4021)·diplomacy(외교)! 어원이 '둘로 접은(diplo-) 신임장'! di-/diplo-(둘) — diploma·dilemma(4016)·dioxide! a senior diplomat(고위 외교관), a skilled diplomat(노련한 외교관). ambassador(3702, 대사)·envoy(사절)·negotiator(협상가)와 유의어.",
+  "syn": [
+   "ambassador(대사)",
+   "envoy(사절)",
+   "negotiator(협상가)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a career diplomat(직업 외교관)",
+   "a senior diplomat(고위 외교관)"
+  ],
+  "colloc": [
+   "career diplomat(직업 외교관)",
+   "senior diplomat(고위 외교관)",
+   "skilled diplomat(노련한 외교관)"
+  ],
+  "ex_add": "He served as a diplomat in several countries.  (diplomat=외교관)",
+  "ex_orig": "If you were to ask an acute, well-traveled observer, say a European diplomat, what, at bottom, this war was, he would answer you thus:",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4021",
+  "hw": "diplomatic",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "외교의 -> '외교의·외교상의 / 수완 있는·재치 있는'.",
+  "senses": [
+   "1) 외교의·외교상의",
+   "2) (사람·태도가) 재치 있는·수완 좋은·눈치 빠른"
+  ],
+  "etym": "그리스어 diploma(접은 공문서) -> diplomat(4020) + -ic. '외교에 관한·외교관다운'이 핵심.",
+  "deriv": "diplomat(4020, 외교관) -> 'diplomatic'. '외교의 -> 외교상의(diplomatic relations, 외교 관계)·수완 있는(a diplomatic answer, 재치 있는 답변)'. 한국 학습자 핵심: diploma(접은 문서) 갈래 — diplomat(4020)·diploma(졸업장)·diplomacy(외교)! diplomatic relations(외교 관계), a diplomatic solution(외교적 해결), diplomatic immunity(외교 면책 특권), be diplomatic(처신을 잘하다). tactful(재치 있는)·discreet(신중한)와 유의어. 반대 tactless(눈치 없는)·blunt(직설적인).",
+  "syn": [
+   "tactful(재치 있는)",
+   "discreet(신중한)",
+   "subtle(세심한)"
+  ],
+  "anti": [
+   "tactless(눈치 없는)",
+   "blunt(직설적인)"
+  ],
+  "idiom": [
+   "diplomatic relations(외교 관계)",
+   "diplomatic immunity(외교 면책 특권)"
+  ],
+  "colloc": [
+   "diplomatic relations(외교 관계)",
+   "diplomatic solution(외교적 해결)",
+   "diplomatic ties(외교 관계)"
+  ],
+  "ex_add": "They tried to find a diplomatic solution to the crisis.  (diplomatic=외교적)",
+  "ex_orig": "There is no question outstanding today between the United States and Germany which cannot be settled through diplomatic channels.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4022",
+  "hw": "directory",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "길을 알려 주는 목록 -> '명부·안내 목록 / (컴퓨터) 디렉터리'.",
+  "senses": [
+   "1) (전화·주소) 명부·인명부·안내 책자",
+   "2) (컴퓨터) 디렉터리·폴더"
+  ],
+  "etym": "라틴어 dis(완전히) + regere(곧게 이끌다·다스리다) -> directus(곧은) -> direct(이끌다) + -ory(장소·것). '길을 곧게 안내해 주는 목록'이 핵심. regere(이끌다)는 directory·direct(2576)·region(3279)·correct(3930)·regular(규칙적인)의 뿌리.",
+  "deriv": "dis+regere(이끌다) -> direct -> 'directory'. '길을 알려 주는 목록 -> 명부(a telephone directory, 전화번호부)·디렉터리'. 한국 학습자 핵심: regere(곧게 이끌다·다스리다) 대가족 — direct(2576)·region(3279)·correct(3930)·regular(규칙적)·regime(정권)·erect(세우다)·director(2576 부근)! a telephone directory(전화번호부), a business directory(업체 명부), the root directory(루트 디렉터리). index(색인)·listing(목록)·catalog(3815)과 유의어.",
+  "syn": [
+   "index(색인)",
+   "listing(목록)",
+   "catalog(목록)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a telephone directory(전화번호부)",
+   "the root directory(루트 디렉터리)"
+  ],
+  "colloc": [
+   "telephone directory(전화번호부)",
+   "business directory(업체 명부)",
+   "online directory(온라인 명부)"
+  ],
+  "ex_add": "I looked up his number in the directory.  (directory=명부)",
+  "ex_orig": "The Directory for Public Worship, which was to replace the Book of Common Prayer, was swiftly written in 1644 and passed by Parliament on 3 January 1645.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4023",
+  "hw": "disastrous",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "별이 어긋난 -> '재앙적인·처참한·형편없는'.",
+  "senses": [
+   "1) 재앙적인·처참한·파멸적인",
+   "2) 형편없는·완전히 실패한"
+  ],
+  "etym": "이탈리아어 dis(어긋난) + astro(별, 그리스어 astron) -> disastro(불운한 별자리) -> disaster(재앙) + -ous. 옛 점성술에서 '별의 위치가 어긋나 생긴 재앙'에서. astron(별)은 disastrous·disaster·astronomy(천문학)·astronaut(우주비행사)·asterisk(별표)의 뿌리.",
+  "deriv": "dis(어긋난)+astron(별) -> disaster -> 'disastrous'. '별이 어긋난 -> 재앙적인(a disastrous decision, 재앙적인 결정)'. 한국 학습자 핵심: astron(별) 갈래 — disaster(재앙)·astronomy(천문학)·astronaut(우주비행사)·asterisk(별표·*)·astrology(점성술)·astral(별의)! 어원이 '나쁜(dis) 별(astro)' — 별자리가 나빠 생긴 불운! prove disastrous(재앙으로 드러나다), a disastrous mistake(처참한 실수). catastrophic(대재앙의)·calamitous(재난의)·ruinous(파멸적인)와 유의어. 반대 successful(성공적인)·fortunate(다행스러운).",
+  "syn": [
+   "catastrophic(대재앙의)",
+   "calamitous(재난의)",
+   "ruinous(파멸적인)"
+  ],
+  "anti": [
+   "successful(성공적인)",
+   "fortunate(다행스러운)"
+  ],
+  "idiom": [
+   "a disastrous decision(재앙적인 결정)",
+   "prove disastrous(재앙으로 드러나다)"
+  ],
+  "colloc": [
+   "disastrous mistake(처참한 실수)",
+   "disastrous consequences(파멸적 결과)",
+   "potentially disastrous(재앙이 될 수 있는)"
+  ],
+  "ex_add": "The decision had disastrous consequences.  (disastrous=재앙적인)",
+  "ex_orig": "But the most disastrous effect upon the Russian industry has been produced by the diminished demand and by the lack of raw materials.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4024",
+  "hw": "discard",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "패를 버리다 -> '버리다·폐기하다 / (생각을) 버리다'.",
+  "senses": [
+   "1) (쓸모없는 것을) 버리다·폐기하다",
+   "2) (생각·믿음을) 버리다·포기하다"
+  ],
+  "etym": "dis(없애) + card(카드). 카드놀이에서 필요 없는 '패를 버림'에서. '필요 없는 것을 내버림'이 핵심.",
+  "deriv": "dis(없애)+card(카드) -> 'discard'. '패를 버림 -> 폐기하다(discard old clothes, 헌 옷을 버리다)'. 한국 학습자 핵심: 카드놀이의 '버리는 패(discard pile)'에서 유래! discard the idea(그 생각을 버리다), discard waste(폐기물을 버리다), a discarded item(버려진 물건). throw away(버리다)·dispose of(4033 부근, 처분하다)·dump(버리다)와 유의어. 반대 keep(간직하다)·retain(3311, 보유하다)·salvage(건지다).",
+  "syn": [
+   "throw away(버리다)",
+   "dispose of(처분하다)",
+   "dump(버리다)"
+  ],
+  "anti": [
+   "keep(간직하다)",
+   "retain(보유하다)",
+   "salvage(건지다)"
+  ],
+  "idiom": [
+   "discard the idea(그 생각을 버리다)",
+   "a discarded item(버려진 물건)"
+  ],
+  "colloc": [
+   "discard old clothes(헌 옷을 버리다)",
+   "discard waste(폐기물을 버리다)",
+   "simply discard(그냥 버리다)"
+  ],
+  "ex_add": "Please discard any expired products.  (discard=버리다)",
+  "ex_orig": "4--Officers discard swords and conspicuous uniforms; they will direct charges from rear to foil German sharpshooters.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4025",
+  "hw": "discharge",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "짐을 내려놓다 -> '내보내다·배출하다 / 퇴원·제대시키다 / 이행하다'.",
+  "senses": [
+   "1) (액체·기체를) 방출하다·배출하다",
+   "2) (병원·군대에서) 내보내다·퇴원/제대시키다",
+   "3) (의무를) 이행하다; (n.) 방출; 퇴원·제대"
+  ],
+  "etym": "라틴어 dis(반대·제거) + carricare(짐을 싣다) -> 고대 프랑스어 descharger(짐을 내리다) -> 'discharge'. '실은 짐을 내려놓음'이 핵심. carricare(싣다)는 discharge·charge(짐·부담)·cargo(3810)·carry(나르다)·carriage(3811)의 뿌리.",
+  "deriv": "dis(제거)+carricare(싣다) -> 'discharge'. '짐을 내려놓음 -> 방출하다(discharge waste, 폐수를 방출하다)·퇴원시키다(be discharged from hospital, 퇴원하다)·이행하다(discharge duties, 의무를 이행하다)'. 한국 학습자 핵심: carricare(싣다) 갈래 — charge(짐·부담·충전)·cargo(3810)·carry·carriage(3811)·career(경력)! 발음 — 동사 discharge[dɪstʃɑ́ːrdʒ], 명사 discharge[dístʃɑːrdʒ]! be discharged(퇴원/제대하다), discharge a duty(의무를 다하다). release(방출하다)·emit(배출하다)·dismiss(해임하다)와 유의어. 반대 admit(입원시키다)·load(싣다).",
+  "syn": [
+   "release(방출하다)",
+   "emit(배출하다)",
+   "dismiss(해임하다)"
+  ],
+  "anti": [
+   "admit(입원시키다)",
+   "load(싣다)"
+  ],
+  "idiom": [
+   "be discharged from hospital(퇴원하다)",
+   "discharge a duty(의무를 다하다)"
+  ],
+  "colloc": [
+   "discharge waste(폐수를 방출하다)",
+   "be discharged(퇴원/제대하다)",
+   "discharge duties(의무를 이행하다)"
+  ],
+  "ex_add": "The factory discharges waste into the river.  (discharge=배출하다)",
+  "ex_orig": "The Colonel and his orderly rushed into the street, and each discharged ten rounds quick, and then went back and finished their drinks.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4026",
+  "hw": "disclose",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "닫힌 것을 열어 드러내다 -> '밝히다·공개하다·폭로하다'.",
+  "senses": [
+   "1) (비밀·정보를) 밝히다·공개하다",
+   "2) (숨겨진 것을) 드러내다·폭로하다"
+  ],
+  "etym": "라틴어 dis(반대로) + claudere(닫다) -> 고대 프랑스어 desclore(열다) -> 'disclose'. '닫힌 것을 거꾸로 열어 드러냄'이 핵심. claudere(닫다)는 disclose·close(닫다)·conclude(결론짓다)·include(포함)·exclude(배제)·closure(3840)의 뿌리.",
+  "deriv": "dis(반대로)+claudere(닫다) -> 'disclose'. '닫힌 것을 열어 드러냄 -> 공개하다(disclose information, 정보를 공개하다)'. 한국 학습자 핵심: claudere(닫다) 대가족 — close(닫다)·conclude(결론짓다)·include(포함)·exclude(배제)·closure(3840)·enclose(둘러싸다)·seclude(은둔)·disclosure(4027)! disclose details(세부 사항을 공개하다), fully disclose(전부 공개하다), refuse to disclose(공개를 거부하다). reveal(3313, 드러내다)·divulge(누설하다)·expose(폭로하다)와 유의어. 반대 conceal(3879, 숨기다)·hide(감추다)·withhold(보류하다).",
+  "syn": [
+   "reveal(드러내다)",
+   "divulge(누설하다)",
+   "expose(폭로하다)"
+  ],
+  "anti": [
+   "conceal(숨기다)",
+   "hide(감추다)",
+   "withhold(보류하다)"
+  ],
+  "idiom": [
+   "disclose information(정보를 공개하다)",
+   "refuse to disclose(공개를 거부하다)"
+  ],
+  "colloc": [
+   "disclose details(세부 사항을 공개하다)",
+   "fully disclose(전부 공개하다)",
+   "disclose financial information(재무 정보를 공개하다)"
+  ],
+  "ex_add": "The company refused to disclose the details.  (disclose=공개하다)",
+  "ex_orig": "but again the communications which the German Foreign Office sent to Vienna on this point _have never yet been disclosed to the world_.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4027",
+  "hw": "disclosure",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "열어 드러냄 -> '공개·폭로 / 공개된 사실'.",
+  "senses": [
+   "1) (정보의) 공개·폭로·발표",
+   "2) 공개된 사실·드러난 내용"
+  ],
+  "etym": "라틴어 dis + claudere(닫다) -> disclose(4026)의 명사형. '닫힌 것을 열어 드러냄'이 핵심.",
+  "deriv": "disclose(4026, 공개하다) -> 'disclosure'. '열어 드러냄 -> 공개(full disclosure, 완전한 공개)'. 한국 학습자 핵심: claudere(닫다) 대가족 — close(닫다)·conclude(결론)·include(포함)·exclude(배제)·closure(3840)·disclose(4026)·enclose(둘러싸다)! full disclosure(전면 공개), public disclosure(공개), the disclosure of(~의 공개), financial disclosure(재무 공시). revelation(폭로)·exposure(노출)·publication(공개)과 유의어. 반대 concealment(은폐)·secrecy(비밀).",
+  "syn": [
+   "revelation(폭로)",
+   "exposure(노출)",
+   "publication(공개)"
+  ],
+  "anti": [
+   "concealment(은폐)",
+   "secrecy(비밀)"
+  ],
+  "idiom": [
+   "full disclosure(전면 공개)",
+   "the disclosure of(~의 공개)"
+  ],
+  "colloc": [
+   "full disclosure(전면 공개)",
+   "public disclosure(공개)",
+   "financial disclosure(재무 공시)"
+  ],
+  "ex_add": "The law requires full disclosure of all donations.  (disclosure=공개)",
+  "ex_orig": "Italy, despite its embarrassing position, owes to the world the duty of a full disclosure.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4028",
+  "hw": "discourse",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "이리저리 달려 나온 말 -> '담론·담화 / 강연·논설'.",
+  "senses": [
+   "1) (특정 주제의) 담론·담화·논의",
+   "2) (격식) 강연·논설·연설",
+   "3) (언어학) 담화"
+  ],
+  "etym": "라틴어 dis(이리저리) + currere(달리다) -> discursus(이리저리 달림·말이 오감) -> 'discourse'. '생각이 이리저리 달려 나온 말'이 핵심. currere(달리다)는 discourse·current(흐름)·occur(일어나다)·course(과정)·recur(재발하다)·excursion(소풍)의 뿌리.",
+  "deriv": "dis(이리저리)+currere(달리다) -> 'discourse'. '이리저리 달려 나온 말 -> 담론(public discourse, 공적 담론)'. 한국 학습자 핵심: currere(달리다) 대가족 — current(흐름·현재의)·occur(일어나다)·course(과정)·recur(재발)·excursion(소풍)·curriculum(교육 과정)·concur(동의하다)! public discourse(공론·공적 담론), political discourse(정치 담론), academic discourse(학술 담화). dialogue(대화)·debate(토론)·discussion(논의)과 유의어.",
+  "syn": [
+   "dialogue(대화)",
+   "debate(토론)",
+   "discussion(논의)"
+  ],
+  "anti": [],
+  "idiom": [
+   "public discourse(공적 담론)",
+   "political discourse(정치 담론)"
+  ],
+  "colloc": [
+   "public discourse(공론)",
+   "academic discourse(학술 담화)",
+   "political discourse(정치 담론)"
+  ],
+  "ex_add": "The book contributes to public discourse on climate.  (discourse=담론)",
+  "ex_orig": "We have discoursed too much of character, too little of power; too much of self-sacrifice and too little of self-assertion; too much of right, too little of might.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4029",
+  "hw": "discretion",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "가려 분별함 -> '재량 / 신중함·분별'.",
+  "senses": [
+   "1) (자유) 재량·결정권",
+   "2) 신중함·분별·조심성"
+  ],
+  "etym": "라틴어 dis(따로) + cernere(가려내다·체로 치다) -> discretio(분별) -> 'discretion'. '잘 가려 분별함'이 핵심. cernere(가려내다)는 discretion·discern(식별하다)·certain(확실한)·concern(2510)·secret(비밀)·discriminate(4030)의 뿌리.",
+  "deriv": "dis(따로)+cernere(가려내다) -> 'discretion'. '가려 분별함 -> 재량(use discretion, 재량껏 하다)·신중함'. 한국 학습자 핵심: cernere(가려내다·체로 치다) 대가족 — discern(식별하다)·certain(확실한)·certainty(확실성)·concern(2510)·secret(비밀)·discrete(별개의)·discriminate(4030)·discreet(신중한)! at one's discretion(재량에 따라), use discretion(재량껏 판단하다), Discretion is the better part of valor(신중함이 용기의 더 나은 부분이다). judgment(판단)·prudence(신중)·caution(3818, 조심)과 유의어. 반대 indiscretion(경솔).",
+  "syn": [
+   "judgment(판단)",
+   "prudence(신중)",
+   "caution(조심)"
+  ],
+  "anti": [
+   "indiscretion(경솔)",
+   "recklessness(무모함)"
+  ],
+  "idiom": [
+   "at one's discretion(재량에 따라)",
+   "use discretion(재량껏 판단하다)"
+  ],
+  "colloc": [
+   "use discretion(재량껏 하다)",
+   "at the discretion of(~의 재량에 따라)",
+   "exercise discretion(재량을 행사하다)"
+  ],
+  "ex_add": "The decision is left to the manager's discretion.  (discretion=재량)",
+  "ex_orig": "If the prime minister decides to retire in the middle of a parliamentary session, as Anthony Eden did in 1957, the monarch has no discretion.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4030",
+  "hw": "discrimination",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "가려 갈라놓음 -> '차별 / 식별·분별력'.",
+  "senses": [
+   "1) (부당한) 차별·차별 대우",
+   "2) 식별·구별; 안목·분별력"
+  ],
+  "etym": "라틴어 dis(따로) + cernere(가려내다) -> discriminare(가려 갈라놓다) -> discrimination. '가려내어 갈라놓음'이 핵심. cernere(가려내다)는 discrimination·discern(식별)·discretion(4029)·certain(확실한)·concern(2510)·secret(비밀)의 뿌리.",
+  "deriv": "dis(따로)+cernere(가려내다) -> discriminate -> 'discrimination'. '가려 갈라놓음 -> 차별(racial discrimination, 인종 차별, 3248)·식별'. 한국 학습자 핵심: cernere(가려내다) 대가족 — discern(식별)·discretion(4029)·certain(확실한)·concern(2510)·secret(비밀)·discrete(별개의)·discriminate(차별하다·식별하다)! 두 뜻 주의: discrimination(나쁜 뜻 '차별' / 좋은 뜻 '안목·분별력')! racial/age/gender discrimination(인종/연령/성 차별), face discrimination(차별을 겪다). prejudice(편견)·bias(편향)·distinction(3 부근, 구별)과 유의어. 반대 equality(평등)·fairness(공정).",
+  "syn": [
+   "prejudice(편견)",
+   "bias(편향)",
+   "distinction(구별)"
+  ],
+  "anti": [
+   "equality(평등)",
+   "fairness(공정)"
+  ],
+  "idiom": [
+   "racial discrimination(인종 차별)",
+   "face discrimination(차별을 겪다)"
+  ],
+  "colloc": [
+   "racial discrimination(인종 차별)",
+   "age discrimination(연령 차별)",
+   "gender discrimination(성차별)"
+  ],
+  "ex_add": "The law prohibits discrimination based on race.  (discrimination=차별)",
+  "ex_orig": "I, for one, do not believe that the German fears of England were well grounded; I do not believe that in the excitement the German mind worked discriminatingly or that it is working with discrimination today.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4031",
+  "hw": "dismissal",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "내보냄 -> '해고·해임 / 묵살·각하'.",
+  "senses": [
+   "1) 해고·해임·면직",
+   "2) (의견의) 묵살·일축; (소송의) 기각·각하"
+  ],
+  "etym": "라틴어 dis(떨어져) + mittere(보내다) -> dismiss(내보내다) + -al. '멀리 떠나보냄'이 핵심. mittere(보내다)는 dismissal·dismiss·submit(3471)·transmit(3544)·admission(3676)·mission(임무)·permit(3166)의 뿌리.",
+  "deriv": "dis(떨어져)+mittere(보내다) -> dismiss -> 'dismissal'. '내보냄 -> 해고(unfair dismissal, 부당 해고)·묵살'. 한국 학습자 핵심: mittere(보내다) 대가족 — dismiss·submit(3471)·transmit(3544)·admission(3676)·mission(임무)·permit(3166)·commit·emit(방출)·omit(생략)·promising(3211)! unfair dismissal(부당 해고), instant dismissal(즉각 해고), the dismissal of a case(소송 각하). firing(해고)·rejection(거부)와 유의어. 반대 appointment(3 부근, 임명)·hiring(고용).",
+  "syn": [
+   "firing(해고)",
+   "rejection(거부)",
+   "removal(해임)"
+  ],
+  "anti": [
+   "appointment(임명)",
+   "hiring(고용)"
+  ],
+  "idiom": [
+   "unfair dismissal(부당 해고)",
+   "instant dismissal(즉각 해고)"
+  ],
+  "colloc": [
+   "unfair dismissal(부당 해고)",
+   "wrongful dismissal(부당 해고)",
+   "dismissal of a case(소송 각하)"
+  ],
+  "ex_add": "He is challenging his unfair dismissal in court.  (dismissal=해고)",
+  "ex_orig": "Allies insist on reparation to Russia, dismissal of German officers from the Goeben and Breslau, and internment of vessels until end of the war.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4032",
+  "hw": "displace",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "자리에서 밀어내다 -> '대신하다·밀어내다 / 쫓아내다·이주시키다'.",
+  "senses": [
+   "1) (~의 자리를) 대신하다·밀어내다·대체하다",
+   "2) (사람을) 살던 곳에서 쫓아내다·이주시키다",
+   "3) (물체를) 옮겨 놓다·밀어내다"
+  ],
+  "etym": "dis(떨어져) + place(놓다·자리). '제자리에서 떼어 내어 밀어냄'이 핵심. place는 그리스어 plateia(넓은 거리)에서.",
+  "deriv": "dis(떨어져)+place(자리) -> 'displace'. '자리에서 밀어냄 -> 대체하다(displace workers, 노동자를 대체하다)·쫓아내다(displaced people, 난민·이재민)'. 한국 학습자 핵심: dis-(분리·제거) 접두사가 동사에 붙어 '거꾸로·없애다' — displace·disconnect(연결을 끊다)·disappear(사라지다)·disable(무력화하다)! displaced persons(실향민·이재민), be displaced by(~에 의해 밀려나다), displacement(이동·실향). replace(대체하다)·supplant(대체하다)·uproot(뿌리뽑다)와 유의어. 반대 restore(3307, 복귀시키다).",
+  "syn": [
+   "replace(대체하다)",
+   "supplant(대체하다)",
+   "uproot(뿌리뽑다)"
+  ],
+  "anti": [
+   "restore(복귀시키다)"
+  ],
+  "idiom": [
+   "displaced persons(실향민)",
+   "be displaced by(~에 밀려나다)"
+  ],
+  "colloc": [
+   "displace workers(노동자를 대체하다)",
+   "displaced people(난민)",
+   "displace residents(주민을 쫓아내다)"
+  ],
+  "ex_add": "Thousands were displaced by the flood.  (displace=쫓아내다)",
+  "ex_orig": "All gardens have been destroyed and trees cut up for barricades, and even crosses from the cemetery have been displaced and used in fortification work.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4033",
+  "hw": "disposal",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "따로 놓아 치움 -> '처리·처분 / (at one's disposal) 마음대로 쓸 수 있음'.",
+  "senses": [
+   "1) (쓰레기의) 처리·폐기",
+   "2) 처분·매각",
+   "3) (at one's disposal) 마음대로 쓸 수 있음·자유 처분권"
+  ],
+  "etym": "라틴어 dis(따로) + ponere(놓다) -> 고대 프랑스어 disposer(배치하다·처분하다) -> dispose(4034) + -al. '따로 놓아 치워 버림'이 핵심. ponere(놓다)는 disposal·dispose(4034)·compose(구성)·position(위치)·propose(제안)·deposit(예치)의 뿌리.",
+  "deriv": "dis(따로)+ponere(놓다) -> dispose -> 'disposal'. '따로 놓아 치움 -> 처리(waste disposal, 폐기물 처리)·(at one's disposal) 마음대로 쓸 수 있음'. 한국 학습자 핵심: ponere(놓다) 초대형 가족 — compose(구성)·position(위치)·propose(제안)·deposit(예치)·oppose(반대)·expose(노출)·impose(부과)·component(부품)·dispose(4034)! waste disposal(폐기물 처리), at one's disposal(마음대로 쓸 수 있는), for disposal(처분용). removal(제거)·elimination(제거)과 유의어. 반대 retention(3311 부근, 보유)·acquisition(3665, 취득).",
+  "syn": [
+   "removal(제거)",
+   "elimination(제거)",
+   "discarding(폐기)"
+  ],
+  "anti": [
+   "retention(보유)",
+   "acquisition(취득)"
+  ],
+  "idiom": [
+   "at one's disposal(마음대로 쓸 수 있는)",
+   "waste disposal(폐기물 처리)"
+  ],
+  "colloc": [
+   "waste disposal(폐기물 처리)",
+   "at your disposal(마음대로 쓸 수 있는)",
+   "disposal of waste(폐기물 처분)"
+  ],
+  "ex_add": "Proper waste disposal protects the environment.  (disposal=처리)",
+  "ex_orig": "The whole Polish press placed itself at the disposal of this movement.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4034",
+  "hw": "dispose",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "따로 놓다 -> '(dispose of) 처분하다·없애다 / ~할 마음이 들게 하다'.",
+  "senses": [
+   "1) (dispose of) 처분하다·없애다·처리하다",
+   "2) ~할 마음이 들게 하다·~하게 하다",
+   "3) 배치하다·배열하다"
+  ],
+  "etym": "라틴어 dis(따로) + ponere(놓다) -> disponere(따로 배치하다) -> 'dispose'. '따로 놓아 정리·처분함'이 핵심.",
+  "deriv": "dis(따로)+ponere(놓다) -> 'dispose'. '따로 놓음 -> (dispose of) 처분하다(dispose of waste, 폐기물을 처리하다)·~할 마음이 들게 하다'. 한국 학습자 핵심: ponere(놓다) 대가족 — compose(구성)·position(위치)·propose(제안)·deposit(예치)·oppose(반대)·expose(노출)·disposal(4033)·disposition(성향)·disposable(일회용의)! dispose of(~을 처분하다·없애다)가 핵심 숙어! be disposed to(~할 마음이 있다), well-disposed(호의적인). get rid of(없애다)·throw away(버리다)·incline(~하게 하다)과 유의어. 반대 keep(간직하다)·retain(3311, 보유하다).",
+  "syn": [
+   "get rid of(없애다)",
+   "throw away(버리다)",
+   "incline(~하게 하다)"
+  ],
+  "anti": [
+   "keep(간직하다)",
+   "retain(보유하다)"
+  ],
+  "idiom": [
+   "dispose of(~을 처분하다)",
+   "be disposed to(~할 마음이 있다)"
+  ],
+  "colloc": [
+   "dispose of waste(폐기물을 처리하다)",
+   "dispose of property(재산을 처분하다)",
+   "safely dispose(안전하게 처분하다)"
+  ],
+  "ex_add": "How do you dispose of old batteries?  (dispose of=처분하다)",
+  "ex_orig": "All who at present possess large stocks of food, leather, oil, woolen cloth will be able to dispose of them at enormous profits.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4035",
+  "hw": "dispute",
+  "pos": "n., v.",
+  "cefr": "C1",
+  "core": "따로따로 따져 다툼 -> '분쟁·논쟁 / 반박하다·이의를 제기하다'.",
+  "senses": [
+   "1) 분쟁·논쟁·말다툼",
+   "2) (동사) 반박하다·이의를 제기하다",
+   "3) (동사) (소유·권리를) 두고 다투다"
+  ],
+  "etym": "라틴어 dis(따로) + putare(셈하다·따지다) -> disputare(따로따로 따지다·논쟁하다) -> 'dispute'. '서로 따져 가며 다툼'이 핵심. putare(셈하다·따지다)는 dispute·compute(3878)·reputation(3297)·deputy(3996)·account(3658)의 뿌리.",
+  "deriv": "dis(따로)+putare(따지다) -> 'dispute'. '따져 다툼 -> 분쟁(a legal dispute, 법적 분쟁)·반박하다(dispute the claim, 주장에 반박하다)'. 한국 학습자 핵심: putare(셈하다·따지다·여기다) 대가족 — compute(3878)·reputation(3297)·deputy(3996)·account(3658)·impute(~탓으로 돌리다)·amputate(절단)·disputable(논쟁의 여지가 있는)! a labor dispute(노동 쟁의), beyond dispute(논쟁의 여지가 없는), in dispute(분쟁 중인), settle a dispute(분쟁을 해결하다). argument(논쟁)·conflict(분쟁)·contest(다투다)와 유의어. 반대 agreement(합의)·accept(받아들이다).",
+  "syn": [
+   "argument(논쟁)",
+   "conflict(분쟁)",
+   "contest(다투다)"
+  ],
+  "anti": [
+   "agreement(합의)",
+   "accept(받아들이다)"
+  ],
+  "idiom": [
+   "beyond dispute(논쟁의 여지가 없는)",
+   "in dispute(분쟁 중인)",
+   "settle a dispute(분쟁을 해결하다)"
+  ],
+  "colloc": [
+   "legal dispute(법적 분쟁)",
+   "labor dispute(노동 쟁의)",
+   "dispute the claim(주장에 반박하다)"
+  ],
+  "ex_add": "The two countries are in a border dispute.  (dispute=분쟁)",
+  "ex_orig": "In view of the events of the last few months, all Americans now realize as never before the futility of war as a means of settling disputes.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4036",
+  "hw": "disrupt",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "깨뜨려 흩뜨리다 -> '방해하다·지장을 주다·혼란시키다'.",
+  "senses": [
+   "1) (진행을) 방해하다·지장을 주다·중단시키다",
+   "2) (질서·체계를) 혼란시키다·뒤엎다"
+  ],
+  "etym": "라틴어 dis(따로·산산이) + rumpere(깨다·부수다) -> disrumpere(산산이 부수다) -> 'disrupt'. '깨뜨려 흩뜨려 놓음'이 핵심. rumpere(깨다)는 disrupt·rupture(파열)·erupt(분출)·corrupt(3937)·interrupt(가로막다)·bankrupt(파산)의 뿌리.",
+  "deriv": "dis(산산이)+rumpere(깨다) -> 'disrupt'. '깨뜨려 흩뜨림 -> 방해하다(disrupt traffic, 교통을 마비시키다)'. 한국 학습자 핵심: rumpere(깨다·부수다) 대가족 — rupture(파열)·erupt(분출)·corrupt(3937)·interrupt(가로막다)·bankrupt(파산)·abrupt(갑작스러운)·breach(3790)·disruption(4037)·disruptive(파괴적인)! disrupt the meeting(회의를 방해하다), seriously disrupt(심각하게 지장을 주다), a disruptive technology(파괴적 혁신 기술). interrupt(방해하다)·interfere(간섭하다)·upset(뒤엎다)과 유의어.",
+  "syn": [
+   "interrupt(방해하다)",
+   "interfere(간섭하다)",
+   "upset(뒤엎다)"
+  ],
+  "anti": [
+   "facilitate(촉진하다)"
+  ],
+  "idiom": [
+   "disrupt traffic(교통을 마비시키다)",
+   "a disruptive technology(파괴적 혁신 기술)"
+  ],
+  "colloc": [
+   "disrupt the meeting(회의를 방해하다)",
+   "disrupt traffic(교통을 마비시키다)",
+   "seriously disrupt(심각하게 지장을 주다)"
+  ],
+  "ex_add": "The storm disrupted flights across the country.  (disrupt=지장을 주다)",
+  "ex_orig": "Partiality of any kind tends to destroy the elemental ties which bind us together, to disrupt our Union, and to make us a house divided against itself.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4037",
+  "hw": "disruption",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "깨뜨려 흩뜨림 -> '방해·혼란·중단'.",
+  "senses": [
+   "1) (진행의) 방해·중단·지장",
+   "2) (질서의) 혼란·붕괴"
+  ],
+  "etym": "라틴어 dis + rumpere(깨다) -> disrupt(4036)의 명사형. '깨뜨려 흩뜨림'이 핵심.",
+  "deriv": "disrupt(4036, 방해하다) -> 'disruption'. '깨뜨려 흩뜨림 -> 방해(cause disruption, 혼란을 일으키다)'. 한국 학습자 핵심: rumpere(깨다·부수다) 대가족 — rupture(파열)·erupt(분출)·corrupt(3937)·interrupt(가로막다)·bankrupt(파산)·disrupt(4036)! major disruption(큰 혼란), cause disruption(지장을 초래하다), digital disruption(디지털 혁신에 의한 산업 격변), minimal disruption(최소한의 지장). interruption(중단)·turmoil(혼란)·chaos(3823)와 유의어. 반대 order(질서)·stability(안정).",
+  "syn": [
+   "interruption(중단)",
+   "turmoil(혼란)",
+   "chaos(혼란)"
+  ],
+  "anti": [
+   "order(질서)",
+   "stability(안정)"
+  ],
+  "idiom": [
+   "cause disruption(혼란을 일으키다)",
+   "digital disruption(디지털 산업 격변)"
+  ],
+  "colloc": [
+   "major disruption(큰 혼란)",
+   "cause disruption(지장을 초래하다)",
+   "minimal disruption(최소한의 지장)"
+  ],
+  "ex_add": "The strike caused major disruption to services.  (disruption=혼란)",
+  "ex_orig": "Many other endemic species of Réunion became extinct after the arrival of man and the resulting disruption of the island's ecosystem.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4038",
+  "hw": "dissolve",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "풀어 흩어 버리다 -> '녹다·녹이다 / (조직을) 해체하다 / (감정에) 무너지다'.",
+  "senses": [
+   "1) (고체가) 녹다·용해되다·녹이다",
+   "2) (조직·의회·결혼을) 해산하다·해체하다",
+   "3) (dissolve into) (눈물·웃음으로) 무너지다"
+  ],
+  "etym": "라틴어 dis(따로) + solvere(풀다·느슨하게 하다) -> dissolvere(풀어 흩어 버리다) -> 'dissolve'. '결합을 풀어 흩어 버림'이 핵심. solvere(풀다)는 dissolve·solve(풀다)·resolve(3305)·solution(해법)·resolution(3304)·absolve(면죄)의 뿌리.",
+  "deriv": "dis(따로)+solvere(풀다) -> 'dissolve'. '풀어 흩어 버림 -> 녹다(dissolve in water, 물에 녹다)·해체하다(dissolve parliament, 의회를 해산하다)'. 한국 학습자 핵심: solvere(풀다) 대가족 — solve(풀다)·resolve(3305)·solution(해법)·resolution(3304)·absolve(면죄)·dissolution(해체)·solvent(용제)! dissolve into tears(눈물을 왈칵 쏟다), dissolve parliament(의회를 해산하다), dissolve a marriage(결혼을 무효화하다). melt(녹다)·disband(해산하다)·break up(해체하다)과 유의어. 반대 solidify(굳다)·form(결성하다).",
+  "syn": [
+   "melt(녹다)",
+   "disband(해산하다)",
+   "break up(해체하다)"
+  ],
+  "anti": [
+   "solidify(굳다)",
+   "form(결성하다)"
+  ],
+  "idiom": [
+   "dissolve into tears(눈물을 왈칵 쏟다)",
+   "dissolve parliament(의회를 해산하다)"
+  ],
+  "colloc": [
+   "dissolve in water(물에 녹다)",
+   "dissolve parliament(의회를 해산하다)",
+   "completely dissolve(완전히 녹다)"
+  ],
+  "ex_add": "Sugar dissolves quickly in hot water.  (dissolve=녹다)",
+  "ex_orig": "In the year 1866 the German Confederation was dissolved by the war between Austria and Prussia, occasioned by the Schleswig-Holstein question.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4039",
+  "hw": "distinction",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "찔러 갈라 가름 -> '구별·차이 / 특별함·탁월함 / 우등'.",
+  "senses": [
+   "1) 구별·차이·구분",
+   "2) 특별함·탁월함·뛰어남",
+   "3) (시험의) 우등·우수; 명예·영예"
+  ],
+  "etym": "라틴어 dis(따로) + stinguere(찌르다·표시하다) -> distinguere(찔러 갈라 가르다) -> distinction. '찔러 표시해 가름'이 핵심. stinguere(찌르다)는 distinction·distinguish(구별하다)·extinguish(끄다)·instinct(본능)·distinct(뚜렷한)의 뿌리.",
+  "deriv": "dis(따로)+stinguere(찌르다) -> distinguish -> 'distinction'. '찔러 갈라 가름 -> 구별(make a distinction, 구별하다)·탁월함(a writer of distinction, 뛰어난 작가)'. 한국 학습자 핵심: stinguere(찌르다·표시하다) 갈래 — distinguish(구별하다)·extinguish(끄다)·instinct(본능)·distinct(뚜렷한)·distinctive(4040)! make a distinction between(~을 구별하다), draw a distinction(구분 짓다), a distinction between A and B, graduate with distinction(우등으로 졸업하다). difference(차이)·differentiation(구별)·excellence(탁월함)와 유의어.",
+  "syn": [
+   "difference(차이)",
+   "differentiation(구별)",
+   "excellence(탁월함)"
+  ],
+  "anti": [
+   "similarity(유사성)"
+  ],
+  "idiom": [
+   "make a distinction(구별하다)",
+   "graduate with distinction(우등으로 졸업하다)"
+  ],
+  "colloc": [
+   "make a distinction(구별하다)",
+   "clear distinction(명확한 구별)",
+   "distinction between(~ 사이의 구별)"
+  ],
+  "ex_add": "It's important to make a distinction between the two.  (distinction=구별)",
+  "ex_orig": "Not a few Jewish soldiers have already won the highest military distinctions, nay, a few of them have even received them from Mr.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4040",
+  "hw": "distinctive",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "찔러 갈라 두드러지는 -> '독특한·특유의·뚜렷이 구별되는'.",
+  "senses": [
+   "1) 독특한·특유의·뚜렷이 구별되는",
+   "2) (특징이) 두드러진·확연한"
+  ],
+  "etym": "라틴어 dis + stinguere(찌르다) -> distinct(뚜렷한) + -ive. '찔러 갈라 두드러지는'이 핵심.",
+  "deriv": "distinct(뚜렷한) -> 'distinctive'. '찔러 갈라 두드러지는 -> 독특한(a distinctive style, 독특한 스타일)'. 한국 학습자 핵심: stinguere(찌르다·표시하다) 갈래 — distinguish(구별하다)·extinguish(끄다)·instinct(본능)·distinct(뚜렷한)·distinction(4039)! 구별: distinct(뚜렷한·별개의) vs distinctive(남과 구별되는·특유의)! a distinctive feature(독특한 특징), a distinctive flavor(독특한 풍미), highly distinctive(매우 독특한). characteristic(특유의)·unique(3570, 독특한)·peculiar(고유의)와 유의어. 반대 ordinary(평범한)·common(흔한)·generic(일반적인).",
+  "syn": [
+   "characteristic(특유의)",
+   "unique(독특한)",
+   "peculiar(고유의)"
+  ],
+  "anti": [
+   "ordinary(평범한)",
+   "common(흔한)",
+   "generic(일반적인)"
+  ],
+  "idiom": [
+   "a distinctive feature(독특한 특징)",
+   "a distinctive style(독특한 스타일)"
+  ],
+  "colloc": [
+   "distinctive feature(독특한 특징)",
+   "distinctive flavor(독특한 풍미)",
+   "highly distinctive(매우 독특한)"
+  ],
+  "ex_add": "The bird has a distinctive call.  (distinctive=독특한)",
+  "ex_orig": "Incendiaries with a distinctive badge on their arm went down the main street throwing handfuls of inflammatory and explosive pastilles into the houses.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4041",
+  "hw": "distort",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "비틀어 일그러뜨리다 -> '왜곡하다·일그러뜨리다 / (소리·모습을) 뒤틀다'.",
+  "senses": [
+   "1) (사실·말을) 왜곡하다·곡해하다",
+   "2) (모양·소리를) 일그러뜨리다·뒤틀다"
+  ],
+  "etym": "라틴어 dis(따로·완전히) + torquere(비틀다) -> distorquere(비틀어 일그러뜨리다) -> 'distort'. '비틀어 본모습을 일그러뜨림'이 핵심. torquere(비틀다)는 distort·torture(고문)·torment(고통)·contort(뒤틀다)·torque(회전력)·extort(강탈하다)의 뿌리.",
+  "deriv": "dis(완전히)+torquere(비틀다) -> 'distort'. '비틀어 일그러뜨림 -> 왜곡하다(distort the facts, 사실을 왜곡하다)'. 한국 학습자 핵심: torquere(비틀다) 대가족 — torture(고문, 몸을 비틀어 괴롭힘)·torment(고통)·contort(뒤틀다)·torque(회전력·토크)·extort(강탈하다, 비틀어 짜냄)·distortion(왜곡)·retort(반박하다)! distort the truth(진실을 왜곡하다), distort an image(이미지를 일그러뜨리다), deliberately distort(고의로 왜곡하다). twist(왜곡하다)·misrepresent(잘못 전하다)·warp(뒤틀다)와 유의어. 반대 clarify(명확히 하다)·represent accurately(정확히 나타내다).",
+  "syn": [
+   "twist(왜곡하다)",
+   "misrepresent(잘못 전하다)",
+   "warp(뒤틀다)"
+  ],
+  "anti": [
+   "clarify(명확히 하다)"
+  ],
+  "idiom": [
+   "distort the facts(사실을 왜곡하다)",
+   "distort the truth(진실을 왜곡하다)"
+  ],
+  "colloc": [
+   "distort the facts(사실을 왜곡하다)",
+   "distort an image(이미지를 일그러뜨리다)",
+   "deliberately distort(고의로 왜곡하다)"
+  ],
+  "ex_add": "The media distorted what she actually said.  (distort=왜곡하다)",
+  "ex_orig": "The issues of the war stand in relation to its causes and the same attempts have been made to distort and falsify them in the eyes of the American public.",
+  "ex_src": "NEWS-NYT-1915"
  }
 ]
