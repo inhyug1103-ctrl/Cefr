@@ -84658,5 +84658,3522 @@
   "ex_add": "Success comes from a combination of talent and hard work.  (combination=조합)",
   "ex_orig": "That England should be willing to join such a combination for such a cause seemed so preposterous to Germany that she did not believe it.",
   "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2442",
+  "hw": "comfort",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "마음을 굳세게 -> '위안·안락' / 위로하다.",
+  "senses": [
+   "1) 위안·위로 / 위로하다",
+   "2) 안락·편안함",
+   "3) (comforts) 편의 시설"
+  ],
+  "etym": "라틴어 confortare = com-(완전히) + fortis(강한) -> '강하게 해 주다'. 슬픈 사람의 마음을 '굳세게(fortis)' 해 주는 것이 위로. fortis(강한)는 fort(요새)·force(힘)·effort(노력)·fortify(강화하다)·comfortable의 뿌리.",
+  "deriv": "fortis(강한) -> confortare(굳세게 하다) -> 'comfort'. '(약한 마음을) 굳세게 함 -> 위로(words of comfort)' -> '안락·편안함(live in comfort)' -> 'comforts(편의 시설)'. 한국 학습자 핵심: fort(요새)·force(힘)·effort(노력)·fortify(강화하다)가 모두 '강한(fortis)' 뿌리! comfortable(편안한), cold comfort(위로가 안 되는 위로), creature comforts(생활의 편의), comfort food(마음을 달래는 음식), comfort zone(안전지대). console(위로하다)·soothe(달래다)와 유의어.",
+  "syn": [
+   "console(위로하다)",
+   "soothe(달래다)",
+   "ease(안락)"
+  ],
+  "anti": [
+   "distress(괴롭히다)",
+   "discomfort(불편)",
+   "upset(속상하게 하다)"
+  ],
+  "idiom": [
+   "cold comfort(위로가 안 되는 위로)",
+   "comfort zone(안전지대)",
+   "creature comforts(생활의 편의)"
+  ],
+  "colloc": [
+   "words of comfort(위로의 말)",
+   "live in comfort(안락하게 살다)",
+   "comfort food(위안이 되는 음식)"
+  ],
+  "ex_add": "She tried to comfort the crying child.  (comfort=위로하다)",
+  "ex_orig": "May the souls of the suffering and afflicted find comfort and consolation in the assurance of the paternal tenderness that prompts our prayers.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2443",
+  "hw": "comic",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "웃기는 -> '희극의·우스운' / 만화·희극 배우.",
+  "senses": [
+   "1) 희극의·우스운",
+   "2) 희극 배우·코미디언",
+   "3) 만화(책)"
+  ],
+  "etym": "그리스어 komikos(희극의) <- komos(흥겨운 놀이·잔치). '신나게 놀고 웃기는'이 핵심. comedy(희극)와 한 뿌리이며, tragedy(비극)와 짝을 이룬다.",
+  "deriv": "komos(잔치·흥) -> komikos -> 'comic'. 형용사 '우스운·희극의(comic timing, 웃음의 타이밍)' -> 명사 '희극 배우' -> '만화(read comics)'. 한국 학습자 핵심: comic(우스운/만화)과 comical(우스꽝스러운)을 구별 — comic relief(긴장을 푸는 익살 장면), a comic strip(연재 만화), a stand-up comic(스탠드업 코미디언), comic books(만화책). comedy(희극)·comedian(코미디언)이 가족. funny(웃긴)·humorous(해학적인)와 유의어.",
+  "syn": [
+   "funny(웃긴)",
+   "humorous(해학적인)",
+   "comical(우스꽝스러운)"
+  ],
+  "anti": [
+   "tragic(비극의)",
+   "serious(진지한)",
+   "solemn(엄숙한)"
+  ],
+  "idiom": [
+   "comic relief(익살로 긴장을 풂)",
+   "a comic strip(연재만화)",
+   "comic timing(웃음의 타이밍)"
+  ],
+  "colloc": [
+   "a comic book(만화책)",
+   "a comic actor(희극 배우)",
+   "comic genius(희극적 천재성)"
+  ],
+  "ex_add": "The film mixes serious drama with moments of comic relief.  (comic=희극의)",
+  "ex_orig": "From the very moment that the doctrine of election, that made God love a few aristocrats and pass the non-elect by, became a matter of joke in the comic papers, that theory was dead.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2444",
+  "hw": "command",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "맡겨 '명령하다' -> 지휘·장악·구사력.",
+  "senses": [
+   "1) 명령하다·지시하다 / 명령",
+   "2) 지휘·통솔(권)",
+   "3) (언어 등의) 구사력·장악"
+  ],
+  "etym": "라틴어 commandare = com-(강조) + mandare(맡기다·명하다). mandare는 manus(손) + dare(주다) -> '손에 쥐여 맡기다'. demand(요구하다)·mandate(권한·위임)·recommend(추천하다)·mandatory(의무적인, 2... )가 mandare 가족.",
+  "deriv": "mandare(맡기다·명하다) -> 'command'. '명령하다(command an army)' -> '지휘·통솔권(under his command)' -> '(언어를) 자유자재로 부림 -> 구사력(a good command of English)'. 한국 학습자 핵심: demand(요구)·mandate(위임)·recommend(추천)·mandatory(의무의)가 모두 '맡기다(mandare)' 뿌리! a chain of command(지휘 계통), at sb's command(~의 명령에 따라), command respect(존경을 받다=받을 만하다), be in command(지휘하다). order(명령)와 유의어.",
+  "syn": [
+   "order(명령하다)",
+   "direct(지시하다)",
+   "lead(지휘하다)"
+  ],
+  "anti": [
+   "obey(복종하다)",
+   "follow(따르다)",
+   "request(요청하다)"
+  ],
+  "idiom": [
+   "a chain of command(지휘 계통)",
+   "at one's command(~의 마음대로)",
+   "command respect(존경을 받다)"
+  ],
+  "colloc": [
+   "command an army(군대를 지휘하다)",
+   "a good command of(~의 능숙한 구사력)",
+   "be in command(지휘하다)"
+  ],
+  "ex_add": "She has an excellent command of three foreign languages.  (command=구사력)",
+  "ex_orig": "Gen. von Wild, until his promotion, commanded a division against the English at Ypres and spoke in generous terms of his opponents.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2445",
+  "hw": "commander",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "부대를 이끄는 '지휘관·사령관'.",
+  "senses": [
+   "1) 지휘관·사령관",
+   "2) (해군) 중령",
+   "3) 책임자·우두머리"
+  ],
+  "etym": "command(지휘하다, 2444) + -er. 뿌리는 라틴어 mandare(맡기다·명하다). '명령(command)을 내리는 사람'이 핵심. demand·mandate·recommend와 한 가족.",
+  "deriv": "command(2444) -> 'commander(지휘하는 사람)'. '군 지휘관(a field commander)' -> 해군 계급 '중령' -> 일반 '책임자'. 한국 학습자 핵심: commander in chief(최고 사령관·총사령관 — chief 2420은 caput '머리') / second in command(부지휘관·2인자). a military commander(군 지휘관), a naval commander. command(2444)·commandment(계율)·commando(특공대원)가 mandare 가족. leader(지도자)·chief(우두머리, 2420)와 유의어.",
+  "syn": [
+   "chief(수장)",
+   "leader(지휘자)",
+   "captain(지휘관)"
+  ],
+  "anti": [
+   "subordinate(부하)",
+   "soldier(사병)"
+  ],
+  "idiom": [
+   "commander in chief(총사령관)",
+   "second in command(2인자)"
+  ],
+  "colloc": [
+   "a military commander(군 지휘관)",
+   "the supreme commander(최고 사령관)",
+   "a field commander(야전 지휘관)"
+  ],
+  "ex_add": "The commander ordered his troops to retreat.  (commander=지휘관)",
+  "ex_orig": "The Grand Duke is fully prepared to take the field as soon as the allied commanders decide that the time for a general action has come.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2446",
+  "hw": "commission",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "맡겨 보냄 -> '위원회·의뢰·수수료' / 의뢰하다.",
+  "senses": [
+   "1) (조사) 위원회·위임받은 임무",
+   "2) 수수료·중개료",
+   "3) (작품·일을) 의뢰하다·주문하다"
+  ],
+  "etym": "라틴어 committere = com-(함께) + mittere(보내다)의 명사형 commissio. mittere(보내다)는 영어의 거대한 뿌리 — commit(2447)·mission(임무)·transmit(전송하다)·submit(제출하다)·permit(허가하다)·admit(인정하다)·omit(빠뜨리다)·emit(내뿜다)·dismiss(해산하다)가 모두 mittere 가족!",
+  "deriv": "com-(함께) + mittere(보내다) -> '(일을) 맡겨 보냄 -> commission'. '위임받은 임무·조사위원회(set up a commission)' -> '판매를 맡긴 대가 -> 수수료(work on commission)' -> 동사 '(작품을) 의뢰하다(commission a painting)'. 한국 학습자 핵심: mittere(보내다) 대가족 — mission·transmit·submit·permit·admit·omit·emit·dismiss! a 10% commission(10% 수수료), out of commission(고장 나서 못 쓰는), in commission(가동 중인). a sales commission(판매 수수료).",
+  "syn": [
+   "fee(수수료)",
+   "committee(위원회)",
+   "assign(위임하다)"
+  ],
+  "anti": [
+   "omission(누락)"
+  ],
+  "idiom": [
+   "work on commission(수수료를 받고 일하다)",
+   "out of commission(못 쓰게 된)",
+   "in commission(가동 중인)"
+  ],
+  "colloc": [
+   "earn commission(수수료를 벌다)",
+   "a government commission(정부 위원회)",
+   "commission a study(연구를 의뢰하다)"
+  ],
+  "ex_add": "The artist was commissioned to paint the king's portrait.  (commission=의뢰하다)",
+  "ex_orig": "17--American commission report shows that cargoes of relief supplies valued at over $10,000,000 have been delivered or arranged for; Dr.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2447",
+  "hw": "commitment",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "맡겨 묶음 -> '헌신·전념·약속·책무'.",
+  "senses": [
+   "1) 헌신·전념·열의",
+   "2) 약속·다짐",
+   "3) 책무·부담"
+  ],
+  "etym": "commit(맡기다·전념하다) + -ment. commit = com-(함께) + mittere(보내다) -> '맡겨 두다·내맡기다'. commission(2446)·mission·submit·permit와 한 mittere 가족. '나를 내맡길 만큼 매달림'이 핵심.",
+  "deriv": "com-(함께) + mittere(보내다) -> commit -> 'commitment'. commit는 '(죄를) 저지르다 / (몸을) 내맡기다·전념하다'. 거기서 '헌신·전념(a commitment to excellence)' -> '약속·다짐(make a commitment)' -> '책무·부담(financial commitments)'. 한국 학습자 핵심: commit a crime(범죄를 저지르다), be committed to V-ing(~에 전념하다), a long-term commitment(장기적 약속), prior commitments(선약). mittere 가족(commission 2446·mission·submit). dedication(헌신)과 유의어.",
+  "syn": [
+   "dedication(헌신)",
+   "pledge(서약)",
+   "obligation(의무)"
+  ],
+  "anti": [
+   "indifference(무관심)",
+   "detachment(초연함)"
+  ],
+  "idiom": [
+   "make a commitment(약속하다)",
+   "a prior commitment(선약)",
+   "be committed to(~에 전념하다)"
+  ],
+  "colloc": [
+   "a strong commitment(강한 헌신)",
+   "a long-term commitment(장기적 다짐)",
+   "financial commitments(재정적 부담)"
+  ],
+  "ex_add": "Marriage is a serious, lifelong commitment.  (commitment=책무·약속)",
+  "ex_orig": "The Dodgers did not a future with him and did not pursue a contract due to his commitment to Princeton and future military obligation.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "2448",
+  "hw": "committee",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "일을 맡긴 사람들 -> '위원회'.",
+  "senses": [
+   "1) 위원회",
+   "2) 위원단",
+   "3) (the committee) 위원 전원"
+  ],
+  "etym": "commit(맡기다, 2447) + -ee(맡겨진 사람들). com-(함께) + mittere(보내다) 뿌리. '어떤 일을 맡겨 둔(committed) 사람들의 모임'이 핵심. commission(2446)·mission과 한 mittere 가족.",
+  "deriv": "commit(맡기다) + -ee -> 'committee(일을 맡은 무리)'. '위원회(a committee meeting)' -> '위원단'. 한국 학습자 핵심: committee는 -tt-, -ee 철자 주의(흔한 철자 실수!) / 단수·복수 취급 둘 다 가능(The committee has/have decided). a steering committee(운영 위원회), an organizing committee(조직 위원회), serve on a committee(위원으로 활동하다), a select committee(특별 위원회). mittere 가족(commission 2446·commitment 2447). board(이사회)·panel(심사단)과 유의어.",
+  "syn": [
+   "board(이사회)",
+   "panel(심사단)",
+   "council(협의회)"
+  ],
+  "anti": [],
+  "idiom": [
+   "serve on a committee(위원회에서 활동하다)",
+   "a steering committee(운영위)"
+  ],
+  "colloc": [
+   "a committee meeting(위원회 회의)",
+   "an organizing committee(조직 위원회)",
+   "form a committee(위원회를 구성하다)"
+  ],
+  "ex_add": "A special committee was set up to investigate the accident.  (committee=위원회)",
+  "ex_orig": "April 26--The \"war babies\" question is to be investigated by a committee headed by the Archbishop of York, and a report is to be made.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2449",
+  "hw": "commonly",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'흔히·보통·일반적으로'.",
+  "senses": [
+   "1) 흔히·통상적으로",
+   "2) 일반적으로·널리",
+   "3) 보통으로"
+  ],
+  "etym": "common(공통의·흔한) + -ly. common은 라틴어 communis = com-(함께) + munis(의무·임무). '의무(munis)를 함께 나눠 진 -> 공동의·누구에게나 있는'이 핵심. community(공동체)·communicate(소통하다)·municipal(시의)·immune(면제된)이 communis 가족.",
+  "deriv": "communis(공동의) -> common -> 'commonly'. '흔히(commonly used, 흔히 쓰이는)' -> '일반적으로(commonly known as, 흔히 ~로 알려진)'. 한국 학습자 핵심: common·community·communicate·municipal·immune이 모두 '함께·공동(communis)' 뿌리! commonly held belief(일반적 통념), more commonly(더 흔하게), commonly available(쉽게 구할 수 있는). usually(보통)·frequently(자주)·widely(널리)와 유의어. 반대 rarely(드물게).",
+  "syn": [
+   "usually(보통)",
+   "frequently(흔히)",
+   "widely(널리)"
+  ],
+  "anti": [
+   "rarely(드물게)",
+   "uncommonly(드물게)",
+   "seldom(좀처럼 ~않게)"
+  ],
+  "idiom": [
+   "commonly known as(흔히 ~로 알려진)",
+   "a commonly held belief(일반적 통념)"
+  ],
+  "colloc": [
+   "commonly used(흔히 쓰이는)",
+   "commonly found(흔히 보이는)",
+   "more commonly(더 흔하게)"
+  ],
+  "ex_add": "This plant is commonly found in tropical regions.  (commonly=흔히)",
+  "ex_orig": "So much for the first of the two reasons commonly adduced to prove that Russia is an undesirable ally.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2450",
+  "hw": "comparative",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "견주어 본 -> '비교의·상대적인' / (문법) 비교급.",
+  "senses": [
+   "1) 비교의·비교에 의한",
+   "2) 상대적인(절대적이 아닌)",
+   "3) (문법) 비교급"
+  ],
+  "etym": "라틴어 comparare = com-(함께) + par(동등한)을 만들다 -> '동등하게 놓고 견주다'. par(같은)는 par(기준)·peer(동등한 사람)·pair(짝)·parity(동등)·disparate(다른)·compare의 뿌리. '나란히 두고 비교함'이 핵심.",
+  "deriv": "com-(함께) + par(동등한) -> compare -> 'comparative'. '비교의(comparative study, 비교 연구)' -> '상대적인(comparative comfort, 상대적인 안락)' -> 문법 '비교급(bigger 등)'. 한국 학습자 핵심: par(동등)·peer(또래)·pair(짝)·parity(동등성)·disparity(격차)가 모두 '같은(par)' 뿌리! comparative literature(비교 문학), comparatively(비교적), comparable(비슷한). relative(상대적인)와 유의어. 반대 absolute(절대적인)·superlative(최상급).",
+  "syn": [
+   "relative(상대적인)",
+   "relational(비교상의)"
+  ],
+  "anti": [
+   "absolute(절대적인)",
+   "superlative(최상급의)"
+  ],
+  "idiom": [
+   "comparative literature(비교 문학)",
+   "in comparative terms(상대적으로 보아)"
+  ],
+  "colloc": [
+   "a comparative study(비교 연구)",
+   "comparative advantage(비교 우위)",
+   "relative comfort(상대적 안락)"
+  ],
+  "ex_add": "After the storm, the village now enjoyed comparative calm.  (comparative=상대적인)",
+  "ex_orig": "The comparative lull enabled us to reorganize and consolidate our position on the new line we had taken up and to obtain some rest after the fatigue and strain of the night.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2451",
+  "hw": "completion",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "가득 채워 '완성·완료'.",
+  "senses": [
+   "1) 완성·완료",
+   "2) (계약) 이행·마무리",
+   "3) 수료"
+  ],
+  "etym": "라틴어 complere = com-(완전히) + plere(채우다)의 명사형. '가득(plere) 채워 끝냄'이 핵심. plere(채우다)는 complete(완전한)·complement(보완물)·supplement(보충)·deplete(고갈시키다)·plenty(풍부)·plenary(전원의)의 뿌리.",
+  "deriv": "com-(완전히) + plere(채우다) -> complete -> 'completion'. '완성·완료(near completion, 거의 완성)' -> 계약 '이행·마무리' -> '수료'. 한국 학습자 핵심: plere(채우다) 가족 — complete·complement(보완하다, vs compliment 칭찬!)·supplement·deplete·plenty(풍부)·replete(가득 찬)! upon completion(완료되는 대로), the completion of the project(사업 완료), a completion date(준공일). conclusion(종료)과 유의어. 반대 incompletion.",
+  "syn": [
+   "conclusion(종료)",
+   "fulfillment(이행)",
+   "accomplishment(완수)"
+  ],
+  "anti": [
+   "start(시작)",
+   "beginning(개시)",
+   "incompletion(미완)"
+  ],
+  "idiom": [
+   "upon completion(완료되는 대로)",
+   "near completion(거의 완성된)"
+  ],
+  "colloc": [
+   "the completion of(~의 완료)",
+   "a completion date(완공일)",
+   "successful completion(성공적 완수)"
+  ],
+  "ex_add": "The bridge is nearing completion and will open next month.  (completion=완성)",
+  "ex_orig": "Therefore, Austria was entirely within her right to decline any negotiations with Russia about this punishment before its completion.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2452",
+  "hw": "complex",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "여러 가닥이 얽힌 '복잡한·복합체·콤플렉스'.",
+  "senses": [
+   "1) 복잡한·복합적인",
+   "2) 복합 건물·단지",
+   "3) (심리) 강박·콤플렉스"
+  ],
+  "etym": "라틴어 complexus = com-(함께) + plectere(엮다·땋다). '여러 가닥을 함께 엮은'이 핵심. plectere(엮다)는 plicare(접다, complicated 2453)와 가까운 친척으로, perplex(당혹게 하다)·complexity가 가족.",
+  "deriv": "com-(함께) + plectere(엮다) -> 'complex'. '여러 요소가 얽힌 -> 복잡한(a complex problem)' -> '여러 건물이 엮인 -> 단지(a sports complex)' -> 심리 '얽힌 감정 -> 콤플렉스(an inferiority complex, 열등감)'. 한국 학습자 핵심: complex(복잡한)와 complicated(2453, 풀기 어려운)는 미묘하게 다름 — complex는 '구성 요소가 많은(중립)', complicated는 '뒤엉켜 다루기 힘든(부정)'! a complex system(복잡한 체계), an apartment complex(아파트 단지), perplex(어리둥절하게 하다)가 친척. 반대 simple(단순한).",
+  "syn": [
+   "complicated(복잡한)",
+   "intricate(뒤얽힌)",
+   "elaborate(정교한)"
+  ],
+  "anti": [
+   "simple(단순한)",
+   "straightforward(간단명료한)",
+   "plain(평이한)"
+  ],
+  "idiom": [
+   "an inferiority complex(열등감)",
+   "a superiority complex(우월감)",
+   "a persecution complex(피해망상)"
+  ],
+  "colloc": [
+   "a complex problem(복잡한 문제)",
+   "a complex system(복합 시스템)",
+   "a sports complex(스포츠 단지)"
+  ],
+  "ex_add": "The human brain is an incredibly complex organ.  (complex=복잡한)",
+  "ex_orig": "One day there is civilization, authentic, complex, triumphant; comes war, and in a moment the entire fabric sinks down into a slime of mud and blood.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2453",
+  "hw": "complicated",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "여러 겹으로 접힌 -> '복잡한·뒤얽힌'.",
+  "senses": [
+   "1) 복잡한·뒤얽힌",
+   "2) 풀기 어려운·까다로운",
+   "3) (관계가) 미묘한"
+  ],
+  "etym": "라틴어 complicare = com-(함께) + plicare(접다). '여러 겹으로 접어 엉킴'이 핵심. plicare(접다)는 영어 어휘의 거대한 뿌리 — apply(접어 대다->적용하다)·imply(속에 접다->암시하다)·reply(되접다->답하다)·employ·multiply·duplicate·explicit(펼쳐진->명백한)·plywood(합판)가 모두 plicare 가족!",
+  "deriv": "com-(함께) + plicare(접다) -> 'complicated(여러 겹으로 접힌)'. '복잡한·뒤얽힌(a complicated process)' -> '풀기 어려운(it's complicated)' -> '관계가 미묘한(It's complicated)'. 한국 학습자 핵심: plicare(접다) 대가족 — apply·imply·reply·employ·multiply·duplicate·explicit·complex(2452)·complication! over-complicated(지나치게 복잡한), get complicated(복잡해지다). complex(2452)와 차이 — complicated가 더 '엉켜서 다루기 힘든' 부정 어감. 반대 simple(단순한).",
+  "syn": [
+   "complex(복잡한)",
+   "intricate(뒤얽힌)",
+   "convoluted(난해한)"
+  ],
+  "anti": [
+   "simple(단순한)",
+   "easy(쉬운)",
+   "straightforward(명료한)"
+  ],
+  "idiom": [
+   "It's complicated.(사정이 복잡해)",
+   "over-complicated(지나치게 복잡한)"
+  ],
+  "colloc": [
+   "a complicated process(복잡한 과정)",
+   "highly complicated(매우 복잡한)",
+   "a complicated relationship(미묘한 관계)"
+  ],
+  "ex_add": "The instructions were so complicated that no one could follow them.  (complicated=복잡한)",
+  "ex_orig": "He called that assertion a \"stringent and impracticable\" view of the guarantee and the whole treaty a \"complicated question.\" So Mr.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2454",
+  "hw": "component",
+  "pos": "n., adj.",
+  "cefr": "B2",
+  "core": "함께 놓인 '구성 요소·부품'.",
+  "senses": [
+   "1) 구성 요소·성분",
+   "2) (기계) 부품",
+   "3) 구성하는(형용사)"
+  ],
+  "etym": "라틴어 componere = com-(함께) + ponere(놓다)의 현재분사 componens. ponere(놓다)는 영어의 거대한 뿌리 — compose(2455)·compound(2457)·position(위치)·deposit(맡기다)·expose(드러내다)·propose(제안하다)·oppose(반대하다)·postpone(미루다)이 모두 ponere 가족!",
+  "deriv": "com-(함께) + ponere(놓다) -> '함께 놓인 것 -> component'. '구성 요소(a key component)' -> 기계 '부품(electronic components)'. 한국 학습자 핵심: ponere(놓다) 대가족 — compose(2455)·composer(2456)·compound(2457)·position·deposit·expose·propose·oppose·postpone·component! a vital component(핵심 요소), component parts(구성 부품). part(부분)·element(요소)·ingredient(성분)과 유의어. 형용사 'the component parts(구성 부분들)'.",
+  "syn": [
+   "element(요소)",
+   "part(부품)",
+   "ingredient(성분)"
+  ],
+  "anti": [
+   "whole(전체)",
+   "system(전체 체계)"
+  ],
+  "idiom": [
+   "component parts(구성 부품)",
+   "a key component(핵심 요소)"
+  ],
+  "colloc": [
+   "an essential component(필수 구성 요소)",
+   "electronic components(전자 부품)",
+   "a major component(주요 성분)"
+  ],
+  "ex_add": "Trust is a vital component of any good relationship.  (component=구성 요소)",
+  "ex_orig": "The larger national units had a more or less federative quality, the components yielding some of their functions to a central power, but retaining numerous independent functions.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2455",
+  "hw": "compose",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "함께 놓아 '구성하다·작곡하다·가다듬다'.",
+  "senses": [
+   "1) 구성하다·이루다(be composed of)",
+   "2) 작곡하다·작문하다",
+   "3) (마음을) 가다듬다(compose oneself)"
+  ],
+  "etym": "라틴어 componere = com-(함께) + ponere(놓다). '여러 요소를 함께 놓아 짜 맞춤'이 핵심. component(2454)·composer(2456)·compound(2457)·position·propose·oppose와 한 ponere 가족.",
+  "deriv": "com-(함께) + ponere(놓다) -> 'compose'. '함께 놓아 짜다 -> 구성하다(be composed of 3 parts)' -> 음·글을 짜 맞춰 '작곡·작문하다(compose a symphony)' -> 마음을 가다듬다 '(compose oneself, 침착해지다)'. 한국 학습자 핵심: be composed of = consist of = be made up of(~으로 구성되다)! composed(침착한, 형용사), composure(침착). ponere 대가족(component 2454·composer 2456·compound 2457·propose·oppose). 발음 compose[z].",
+  "syn": [
+   "constitute(구성하다)",
+   "create(짓다)",
+   "write(작곡하다)"
+  ],
+  "anti": [
+   "dismantle(분해하다)",
+   "agitate(동요시키다)"
+  ],
+  "idiom": [
+   "be composed of(~으로 구성되다)",
+   "compose oneself(마음을 가다듬다)"
+  ],
+  "colloc": [
+   "compose music(작곡하다)",
+   "be composed of(~으로 이루어지다)",
+   "compose a letter(편지를 쓰다)"
+  ],
+  "ex_add": "Water is composed of hydrogen and oxygen.  (be composed of=~으로 이루어지다)",
+  "ex_orig": "How are the real welfare of that race and the happiness of the individuals that compose it to be hereafter furthered?",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2456",
+  "hw": "composer",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "곡을 짜 맞추는 '작곡가'.",
+  "senses": [
+   "1) 작곡가",
+   "2) 작자·구성자",
+   "3) 조판공"
+  ],
+  "etym": "compose(작곡하다, 2455) + -er. 뿌리는 com-(함께) + ponere(놓다). '음을 함께 놓아 짜는 사람'이 핵심. component(2454)·compose(2455)·compound(2457)와 한 ponere 가족.",
+  "deriv": "compose(2455) -> 'composer'. '작곡가(a classical composer)' -> '작자·구성자'. 한국 학습자 핵심: composer(작곡가) ≠ conductor(지휘자) ≠ performer(연주자) — 헷갈리지 말 것! a great composer(위대한 작곡가), a film composer(영화 음악 작곡가). composition(작곡·구성·작문)이 명사. ponere 대가족(component 2454·compose 2455·compound 2457·propose·oppose).",
+  "syn": [
+   "songwriter(작곡가)",
+   "musician(음악가)",
+   "writer(작자)"
+  ],
+  "anti": [
+   "performer(연주자)",
+   "conductor(지휘자)"
+  ],
+  "idiom": [
+   "a classical composer(고전 음악 작곡가)"
+  ],
+  "colloc": [
+   "a famous composer(유명 작곡가)",
+   "a film composer(영화 음악 작곡가)",
+   "a court composer(궁정 작곡가)"
+  ],
+  "ex_add": "Mozart was one of the greatest composers who ever lived.  (composer=작곡가)",
+  "ex_orig": "SHPAZINSKI, President of the League of Russian Authors and Composers.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2457",
+  "hw": "compound",
+  "pos": "n., adj., v.",
+  "cefr": "B2",
+  "core": "함께 놓아 합친 '화합물·복합의' / 악화시키다.",
+  "senses": [
+   "1) 화합물·합성물 / 복합의",
+   "2) (담으로 둘러싼) 구내·구역",
+   "3) (동사) 합성하다 / (문제를) 악화시키다"
+  ],
+  "etym": "라틴어 componere = com-(함께) + ponere(놓다) -> 고대 프랑스어 compondre -> 'compound'. '여럿을 함께 놓아 합친 것'이 핵심. component(2454)·compose(2455)와 한 ponere 가족. (단, '구내'의 compound는 말레이어 kampong에서 온 다른 낱말.)",
+  "deriv": "com-(함께) + ponere(놓다) -> 'compound'. '화합물(a chemical compound)·복합의(a compound word, 복합어)' -> 동사 '합성하다' -> 비유 '(문제를) 더 보태 악화시키다(compound the problem)'. 한국 학습자 핵심: compound interest(복리, vs simple interest 단리), a compound word(복합어, blackboard 등), compound the difficulty(어려움을 가중시키다). ponere 대가족(component 2454·compose 2455·propose·oppose). mixture(혼합물)와 차이 — compound는 '화학적으로 결합'.",
+  "syn": [
+   "mixture(혼합물)",
+   "combine(합성하다)",
+   "aggravate(악화시키다)"
+  ],
+  "anti": [
+   "element(단일 원소)",
+   "simplify(단순화하다)",
+   "alleviate(완화하다)"
+  ],
+  "idiom": [
+   "compound interest(복리)",
+   "a compound word(복합어)"
+  ],
+  "colloc": [
+   "a chemical compound(화합물)",
+   "compound the problem(문제를 악화시키다)",
+   "an organic compound(유기 화합물)"
+  ],
+  "ex_add": "Water is a compound of hydrogen and oxygen.  (compound=화합물)",
+  "ex_orig": "We mediate their blood, we mediate their traditions, we mediate their sentiments, their tastes, their passions; we are ourselves compounded of those things.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2458",
+  "hw": "comprehensive",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "모두 움켜잡은 -> '포괄적인·종합적인'.",
+  "senses": [
+   "1) 포괄적인·종합적인",
+   "2) (보험 등) 종합의",
+   "3) (영) 종합 중등학교의"
+  ],
+  "etym": "라틴어 comprehendere = com-(함께·모두) + prehendere(붙잡다) -> '모두 움켜잡은'. prehendere(붙잡다)는 comprehend(이해하다)·comprise(2459)·apprehend(체포하다·우려하다)·apprehensive(불안한)·prey(먹이)·prison(감옥)의 뿌리.",
+  "deriv": "com-(모두) + prehendere(붙잡다) -> comprehend -> 'comprehensive'. '모든 것을 움켜잡은 -> 포괄적인(a comprehensive review, 종합 검토)' -> 보험 '종합의(comprehensive insurance)' -> (영) '종합 중등학교'. 한국 학습자 핵심: comprehensive(포괄적인) ≠ comprehensible(이해 가능한) — 철자가 비슷하나 뜻이 다르다! prehendere 가족 — comprehend(이해하다)·apprehend(체포하다)·apprehensive(걱정하는)·comprise(2459). thorough(철저한)·all-inclusive(전부 포함한)와 유의어. 반대 partial(부분적인).",
+  "syn": [
+   "thorough(철저한)",
+   "all-inclusive(전부 포함한)",
+   "exhaustive(빠짐없는)"
+  ],
+  "anti": [
+   "partial(부분적인)",
+   "selective(선별적인)",
+   "limited(제한된)"
+  ],
+  "idiom": [
+   "comprehensive insurance(종합 보험)",
+   "a comprehensive school(종합 중등학교)"
+  ],
+  "colloc": [
+   "a comprehensive review(종합 검토)",
+   "a comprehensive guide(종합 안내서)",
+   "comprehensive coverage(폭넓은 보장)"
+  ],
+  "ex_add": "The report gives a comprehensive overview of the whole industry.  (comprehensive=포괄적인)",
+  "ex_orig": "The foregoing are the three reasons for entering the war--reasons which are tangible, material, and comprehensive.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2459",
+  "hw": "comprise",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "모두 움켜쥐어 '구성하다·차지하다'.",
+  "senses": [
+   "1) ~으로 구성되다·이루어지다",
+   "2) ~을 포함하다·차지하다",
+   "3) (be comprised of) ~으로 구성되다"
+  ],
+  "etym": "라틴어 comprehendere(모두 붙잡다) -> 프랑스어 compris(붙잡힌) -> 'comprise'. com-(모두) + prehendere(붙잡다·prise) 뿌리. surprise(불시에 잡다)·enterprise(붙잡아 떠맡음->기업)·prize와 친척. '모두 끌어안다'가 핵심.",
+  "deriv": "com-(모두) + prehendere(붙잡다) -> 'comprise'. '(전체가) ~으로 구성되다(The team comprises five members)' -> '(부분이) ~을 차지하다(Women comprise 60% of staff)'. 한국 학습자 핵심: 전통 어법은 'A comprises B(A는 B로 구성된다)' — be comprised of는 비표준으로 보지만 널리 쓰임! consist of(~으로 구성되다)·be composed of(2455)와 유의어이나 comprise는 of 없이 쓰는 게 원칙. prehendere 가족(comprehensive 2458·apprehend·surprise·enterprise).",
+  "syn": [
+   "consist of(~으로 구성되다)",
+   "constitute(구성하다)",
+   "make up(이루다)"
+  ],
+  "anti": [
+   "exclude(제외하다)"
+  ],
+  "idiom": [
+   "be comprised of(~으로 구성되다)"
+  ],
+  "colloc": [
+   "comprise several parts(여러 부분으로 구성되다)",
+   "largely comprise(대부분을 차지하다)"
+  ],
+  "ex_add": "The committee comprises members from all departments.  (comprise=~으로 구성되다)",
+  "ex_orig": "280,000 Germans, comprising seven army corps, are co-operating with the Austrians in a formidable attack on the left wing of the Russian army which is invading Hungary;",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2460",
+  "hw": "compulsory",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "강하게 떠밀린 -> '의무적인·강제적인'.",
+  "senses": [
+   "1) 의무적인·필수의",
+   "2) 강제적인",
+   "3) (규정상) 반드시 해야 하는"
+  ],
+  "etym": "라틴어 compellere = com-(강조) + pellere(밀다·몰다)의 명사형 compulsus. '억지로 떠밀어 시킴'이 핵심. pellere(밀다)는 compel(강요하다)·expel(쫓아내다)·repel(물리치다)·propel(추진하다)·dispel(쫓아버리다)·pulse(맥박)·impulse(충동)·appeal(호소하다)의 뿌리.",
+  "deriv": "com-(강조) + pellere(밀다) -> compel -> 'compulsory'. '억지로 시키는 -> 의무적인(compulsory education, 의무 교육)' -> '강제적인'. 한국 학습자 핵심: pellere(밀다) 대가족 — compel(강요하다)·expel(추방하다)·repel(물리치다)·propel(추진하다)·dispel(없애다)·impulse(충동)·pulse(맥박)·appeal(호소)! compulsory subjects(필수 과목, vs optional/elective 선택), compulsory military service(병역 의무). mandatory(의무적인)·obligatory(필수의)와 유의어. 반대 optional(선택적인)·voluntary(자발적인).",
+  "syn": [
+   "mandatory(의무적인)",
+   "obligatory(필수의)",
+   "required(필수의)"
+  ],
+  "anti": [
+   "optional(선택적인)",
+   "voluntary(자발적인)",
+   "elective(선택의)"
+  ],
+  "idiom": [
+   "compulsory education(의무 교육)",
+   "compulsory military service(병역 의무)"
+  ],
+  "colloc": [
+   "compulsory subjects(필수 과목)",
+   "make it compulsory(의무화하다)",
+   "compulsory attendance(출석 의무)"
+  ],
+  "ex_add": "Wearing a seatbelt is compulsory in most countries.  (compulsory=의무적인)",
+  "ex_orig": "Now, the compulsory military service of the German means that every man is for a period of his life drafted and trained as a soldier.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2461",
+  "hw": "concentration",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "중심으로 모음 -> '집중·집중력·농도'.",
+  "senses": [
+   "1) 집중·전념 / 집중력",
+   "2) 밀집·집결",
+   "3) (용액의) 농도"
+  ],
+  "etym": "라틴어 concentrare = com-(함께) + centrum(중심)의 명사형. '한 중심점(centrum)으로 함께 모음'이 핵심. centrum(중심)은 center(중심)·central(중심의)·eccentric(중심을 벗어난->별난)·concentrate의 뿌리.",
+  "deriv": "com-(함께) + centrum(중심) -> concentrate -> 'concentration'. '한 점으로 모음 -> 정신 집중(lose concentration, 집중력을 잃다)' -> '밀집(a concentration of troops)' -> '용액 농도(high concentration)'. 한국 학습자 핵심: center·central·eccentric(괴짜의)·concentric(동심원의)이 모두 '중심(centrum)' 뿌리! concentrate on(~에 집중하다), powers of concentration(집중력), break sb's concentration(집중을 깨다). focus(집중)와 유의어. 반대 distraction(주의 산만).",
+  "syn": [
+   "focus(집중)",
+   "attention(주의)",
+   "absorption(몰두)"
+  ],
+  "anti": [
+   "distraction(주의 산만)",
+   "dispersal(분산)"
+  ],
+  "idiom": [
+   "lose concentration(집중력을 잃다)",
+   "powers of concentration(집중력)"
+  ],
+  "colloc": [
+   "intense concentration(고도의 집중)",
+   "lack of concentration(집중력 부족)",
+   "a high concentration(높은 농도)"
+  ],
+  "ex_add": "The noise outside made concentration almost impossible.  (concentration=집중)",
+  "ex_orig": "It is two months,\" he said, \"since we had a church.\" The parish priest and the curate had been interned in a concentration camp.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2462",
+  "hw": "concept",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "마음에 받아들인 '개념·발상'.",
+  "senses": [
+   "1) 개념·관념",
+   "2) 발상·구상",
+   "3) (제품 등의) 콘셉트"
+  ],
+  "etym": "라틴어 conceptus(받아들임·잉태) = com-(함께) + capere(잡다·받아들이다). '머릿속에 붙잡아 품은 생각'이 핵심. capere(잡다)는 capable(2397)·capture(2399)·conceive(생각해내다)·accept·receive·perceive의 거대한 뿌리.",
+  "deriv": "com-(함께) + capere(잡다) -> conceive -> 'concept(마음에 품은 것)'. '개념·관념(an abstract concept)' -> '발상·구상(a new concept)' -> '제품 콘셉트(a concept car)'. 한국 학습자 핵심: capere(잡다) 대가족 — capable(2397)·capture(2399)·conceive(임신하다/생각하다)·conception·accept·receive·perceive·deceive! grasp a concept(개념을 파악하다), the concept of time(시간의 개념), a concept car(콘셉트카). conceptual(개념의)·conceive(생각해 내다)가 가족. idea(생각)·notion(관념)과 유의어.",
+  "syn": [
+   "idea(개념)",
+   "notion(관념)",
+   "principle(원리)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a concept car(콘셉트카)",
+   "grasp a concept(개념을 파악하다)"
+  ],
+  "colloc": [
+   "an abstract concept(추상적 개념)",
+   "a key concept(핵심 개념)",
+   "the concept of(~의 개념)"
+  ],
+  "ex_add": "Young children find the concept of death hard to grasp.  (concept=개념)",
+  "ex_orig": "The concept was to have the gameplay of Amplitude with the visuals of Karaoke Revolution, both of which had been developed by Harmonix.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "2463",
+  "hw": "concern",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "걸러내 관련됨 -> '관련되다·걱정 / 관심사·우려'.",
+  "senses": [
+   "1) ~에 관련되다·~에 관한 것이다",
+   "2) 걱정시키다 / 걱정·우려",
+   "3) 관심사·중요한 일 / 회사"
+  ],
+  "etym": "라틴어 concernere = com-(함께) + cernere(가려내다·체로 치다). '함께 가려내어 관련짓다'가 핵심. cernere(가려내다)는 certain(확실한, 2406)·discern(식별하다)·discreet(신중한)·secret(가려 둔 것)·discriminate(구별하다)의 뿌리.",
+  "deriv": "com-(함께) + cernere(가려내다) -> 'concern'. '~에 관련되다(as far as I'm concerned, 내가 보기엔)' -> '(관련되니) 걱정시키다·걱정(deep concern, 깊은 우려)' -> '관심사(a matter of concern)'. 한국 학습자 핵심: cernere 가족 — certain(2406)·discern·secret·discriminate·concert! be concerned about(~을 걱정하다) vs be concerned with(~와 관련되다) 차이! to whom it may concern(관계자 귀하), cause for concern(걱정거리). worry(걱정)와 유의어.",
+  "syn": [
+   "worry(걱정시키다)",
+   "involve(관련시키다)",
+   "anxiety(우려)"
+  ],
+  "anti": [
+   "unconcern(무관심)",
+   "indifference(무관심)"
+  ],
+  "idiom": [
+   "as far as I'm concerned(내 생각에는)",
+   "to whom it may concern(관계자 귀하)",
+   "a cause for concern(걱정거리)"
+  ],
+  "colloc": [
+   "deep concern(깊은 우려)",
+   "be concerned about(~을 걱정하다)",
+   "a matter of concern(우려 사항)"
+  ],
+  "ex_add": "The report raises serious concerns about food safety.  (concern=우려)",
+  "ex_orig": "Today Germany is not even interested in France's republican form of Government, nor is France concerned with Germany's imperial autocrat.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2464",
+  "hw": "concerned",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "마음이 걸린 -> '걱정하는 / 관련된'.",
+  "senses": [
+   "1) 걱정하는·염려하는",
+   "2) 관련된·해당하는",
+   "3) ~에 관심이 있는"
+  ],
+  "etym": "concern(관련되다·걱정, 2463) + -ed. 뿌리는 com-(함께) + cernere(가려내다). 'cernere(가려냄)로 마음이 그쪽에 걸린' 상태. certain(2406)·discern과 한 가족.",
+  "deriv": "concern(2463) -> 'concerned'. '걱정하는(a concerned parent, 걱정하는 부모)' -> '관련된(the people concerned, 관련된 사람들 — 명사 뒤에 위치!)'. 한국 학습자 핵심: 위치로 뜻이 갈린다 — a concerned look(걱정스러운 표정, 명사 앞) vs the parties concerned(관련 당사자들, 명사 뒤)! be concerned about(~을 걱정하다), be concerned with(~와 관련되다), where money is concerned(돈에 관한 한). worried(걱정하는)·involved(관련된)와 유의어. concern(2463) 가족.",
+  "syn": [
+   "worried(걱정하는)",
+   "anxious(불안한)",
+   "involved(관련된)"
+  ],
+  "anti": [
+   "unconcerned(무관심한)",
+   "indifferent(무관심한)",
+   "carefree(태평한)"
+  ],
+  "idiom": [
+   "the parties concerned(관련 당사자들)",
+   "as far as ~ is concerned(~에 관한 한)",
+   "where ~ is concerned(~에 관한 한)"
+  ],
+  "colloc": [
+   "deeply concerned(매우 걱정하는)",
+   "a concerned look(걱정스러운 표정)",
+   "the people concerned(관련된 사람들)"
+  ],
+  "ex_add": "Many parents are concerned about violence on television.  (be concerned about=~을 걱정하다)",
+  "ex_orig": "Today Germany is not even interested in France's republican form of Government, nor is France concerned with Germany's imperial autocrat.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2465",
+  "hw": "concrete",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "함께 굳어진 -> '구체적인 / 콘크리트'.",
+  "senses": [
+   "1) 구체적인·실제의",
+   "2) 콘크리트(의)",
+   "3) 굳어진·응고한"
+  ],
+  "etym": "라틴어 concretus = com-(함께) + crescere(자라다·뭉치다)의 과거분사 -> '함께 자라 굳어진'. crescere(자라다)는 increase(늘다)·decrease(줄다)·crescent(초승달)·recruit(신병)·create(2517)·crew(2521)의 뿌리.",
+  "deriv": "com-(함께) + crescere(자라다·굳다) -> 'concrete'. '함께 굳어 한 덩이가 된 -> 구체적인(concrete evidence, 구체적 증거)' -> 굳는 건축 재료 '콘크리트(reinforced concrete, 철근 콘크리트)'. 한국 학습자 핵심: crescere(자라다) 가족 — increase·decrease·crescent(초승달)·recruit(신병=새로 자란 인원)·create(2517)·crew(2521)! concrete proposals(구체적 제안), in concrete terms(구체적으로), a concrete jungle(콘크리트 정글=삭막한 도시). abstract(추상적인)의 반대.",
+  "syn": [
+   "specific(구체적인)",
+   "definite(명확한)",
+   "tangible(실재의)"
+  ],
+  "anti": [
+   "abstract(추상적인)",
+   "vague(모호한)",
+   "theoretical(이론적인)"
+  ],
+  "idiom": [
+   "concrete evidence(구체적 증거)",
+   "a concrete jungle(콘크리트 정글)",
+   "set in concrete(확정되어 못 바꾸는)"
+  ],
+  "colloc": [
+   "concrete evidence(확실한 증거)",
+   "a concrete example(구체적 예)",
+   "reinforced concrete(철근 콘크리트)"
+  ],
+  "ex_add": "We need concrete evidence, not just rumors.  (concrete=구체적인)",
+  "ex_orig": "The greatest sufferers have been the building trades and the industries connected therewith--structural iron, cement, (concrete,) brickmaking, &c.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2466",
+  "hw": "conduct",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "함께 이끌다 -> '수행하다·지휘하다·처신 / 행실'.",
+  "senses": [
+   "1) (조사·실험을) 수행하다·실시하다",
+   "2) 지휘하다 / (열·전기를) 전도하다",
+   "3) (conduct oneself) 처신하다 / 행실"
+  ],
+  "etym": "라틴어 conducere = com-(함께) + ducere(이끌다). '함께 이끌어 가다'가 핵심. ducere(이끌다)는 영어의 거대한 뿌리 — produce(끌어내다->생산하다)·reduce(되돌려 끌다->줄이다)·introduce(안으로 이끌다->소개하다)·educate(끌어내 기르다)·deduce(추론하다)·induce(유도하다)·aqueduct(수로)·conductor(지휘자)가 모두 ducere 가족!",
+  "deriv": "com-(함께) + ducere(이끌다) -> 'conduct'. '(일을) 이끌어 수행하다(conduct research/a survey)' -> '오케스트라를 지휘하다 / 전기를 전도하다' -> '처신하다(conduct oneself well)·행실(good conduct)'. 한국 학습자 핵심: ducere(이끌다) 대가족 — produce·reduce·introduce·educate·deduce·induce·aqueduct·conductor! 명사·동사 강세 위치 다름(CONduct 행실 / conDUCT 수행하다). conduct an experiment(실험을 하다), a code of conduct(행동 강령). carry out(수행하다)과 유의어.",
+  "syn": [
+   "carry out(수행하다)",
+   "perform(실시하다)",
+   "behavior(행실)"
+  ],
+  "anti": [
+   "misconduct(부정행위)"
+  ],
+  "idiom": [
+   "conduct oneself(처신하다)",
+   "a code of conduct(행동 강령)"
+  ],
+  "colloc": [
+   "conduct research(연구를 수행하다)",
+   "conduct a survey(조사를 실시하다)",
+   "conduct an orchestra(오케스트라를 지휘하다)"
+  ],
+  "ex_add": "Scientists conducted a series of experiments on the new drug.  (conduct=수행하다)",
+  "ex_orig": "It is probably unnecessary to give any advice to the American citizens among our readers in regard to their conduct in this grave time.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2467",
+  "hw": "confess",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "드러내 '고백하다·자백하다'.",
+  "senses": [
+   "1) 자백하다·(죄를) 인정하다",
+   "2) 고백하다·털어놓다",
+   "3) (신앙) 고해하다"
+  ],
+  "etym": "라틴어 confiteri = com-(완전히) + fateri(인정하다·말하다)의 과거분사 confessus. '숨김없이 다 말하다'가 핵심. fateri(인정하다)는 profess(공언하다)·profession(직업·공언)·confession(자백)의 뿌리.",
+  "deriv": "com-(완전히) + fateri(말하다) -> 'confess'. '죄를 자백하다(confess to a crime)' -> '(잘못·속마음을) 고백하다·털어놓다(I confess I was wrong)' -> 종교 '고해하다'. 한국 학습자 핵심: fateri(인정하다) 가족 — profess(공언하다)·profession(직업)·professor(교수=공언하는 사람)! confess to V-ing(~했음을 자백하다), I must confess(고백건대), confession(자백·고해), a confessed murderer(자백한 살인범). admit(인정하다)·own up(잘못을 인정하다)과 유의어. 반대 deny(부인하다).",
+  "syn": [
+   "admit(인정하다)",
+   "own up(자백하다)",
+   "acknowledge(시인하다)"
+  ],
+  "anti": [
+   "deny(부인하다)",
+   "conceal(숨기다)",
+   "hide(감추다)"
+  ],
+  "idiom": [
+   "confess to(~을 자백하다)",
+   "I must confess(고백건대)"
+  ],
+  "colloc": [
+   "confess a crime(범죄를 자백하다)",
+   "confess the truth(진실을 털어놓다)",
+   "freely confess(순순히 인정하다)"
+  ],
+  "ex_add": "He finally confessed that he had taken the money.  (confess=고백하다)",
+  "ex_orig": "He is inarticulate, has not the clear and fluent cynicism of expansive natures wherewith to confess exactly how he stands.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2468",
+  "hw": "confidence",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "믿음 -> '자신감·신뢰 / 비밀'.",
+  "senses": [
+   "1) 자신감",
+   "2) 신뢰·확신",
+   "3) (in confidence) 비밀(로)"
+  ],
+  "etym": "라틴어 confidere = com-(완전히) + fidere(믿다)의 명사형 confidentia. '굳게 믿음'이 핵심. fidere(믿다)는 confide(털어놓다)·confident(자신 있는)·fidelity(충실)·faith(믿음)·fiancé(약혼자=약속한 사람)·infidel(불신자)의 뿌리.",
+  "deriv": "com-(완전히) + fidere(믿다) -> 'confidence'. '(자신을) 믿음 -> 자신감(full of confidence)' -> '(남을) 믿음 -> 신뢰(gain sb's confidence)' -> '믿고 털어놓는 비밀(in strict confidence, 극비로)'. 한국 학습자 핵심: fidere(믿다) 가족 — confide(비밀을 털어놓다)·confident(2502 convinced와 유의)·fidelity(충실)·faith·fiancé·bona fide(진짜의)! self-confidence(자신감), a vote of confidence(신임 투표), a confidence trick(신용 사기), build confidence(자신감을 키우다). trust(신뢰)와 유의어.",
+  "syn": [
+   "assurance(자신감)",
+   "trust(신뢰)",
+   "faith(믿음)"
+  ],
+  "anti": [
+   "doubt(의심)",
+   "insecurity(불안)",
+   "distrust(불신)"
+  ],
+  "idiom": [
+   "in confidence(비밀로)",
+   "a vote of confidence(신임 투표)",
+   "a confidence trick(신용 사기)"
+  ],
+  "colloc": [
+   "self-confidence(자신감)",
+   "gain confidence(자신감을 얻다)",
+   "lose confidence(자신감을 잃다)"
+  ],
+  "ex_add": "She answered every question with quiet confidence.  (confidence=자신감)",
+  "ex_orig": "In the old days of sailing ships the Dardanelles were a most formidable obstacle which no Admiral would have faced with confidence.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2469",
+  "hw": "conflict",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "서로 맞부딪침 -> '갈등·충돌 / 상충하다'.",
+  "senses": [
+   "1) 갈등·대립·분쟁",
+   "2) (무력) 충돌·전쟁",
+   "3) (동사) 상충하다·모순되다"
+  ],
+  "etym": "라틴어 confligere = com-(함께) + fligere(치다·때리다)의 과거분사 conflictus. '서로 맞부딪쳐 침'이 핵심. fligere(치다)는 afflict(괴롭히다)·inflict(가하다)·profligate(방탕한)의 뿌리.",
+  "deriv": "com-(서로) + fligere(치다) -> 'conflict'. '서로 부딪침 -> 갈등·대립(a conflict of interest, 이해 충돌)' -> 무력 '충돌·분쟁(armed conflict)' -> 동사 '상충하다(conflicting reports, 엇갈리는 보도)'. 한국 학습자 핵심: fligere(치다) 가족 — afflict(괴롭히다)·inflict(가하다)! 명사·동사 강세 다름(CONflict 갈등 / conFLICT 상충하다). a conflict of interest(이해 상충), come into conflict with(~와 충돌하다), resolve a conflict(갈등을 해소하다), conflicting evidence(상충하는 증거). clash(충돌)·dispute(분쟁)와 유의어.",
+  "syn": [
+   "clash(충돌)",
+   "dispute(분쟁)",
+   "friction(마찰)"
+  ],
+  "anti": [
+   "harmony(조화)",
+   "peace(평화)",
+   "agreement(합의)"
+  ],
+  "idiom": [
+   "a conflict of interest(이해 상충)",
+   "come into conflict with(~와 충돌하다)"
+  ],
+  "colloc": [
+   "armed conflict(무력 충돌)",
+   "resolve a conflict(갈등을 해결하다)",
+   "conflicting interests(상충하는 이해)"
+  ],
+  "ex_add": "There is often conflict between parents and teenagers.  (conflict=갈등)",
+  "ex_orig": "_What is incontestable is that Germany has striven here, as well as at Vienna, to find some means of avoiding a general conflict...._ M.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2470",
+  "hw": "confusing",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "뒤섞여 '혼란스러운·헷갈리는'.",
+  "senses": [
+   "1) (사물이) 혼란스러운·헷갈리는",
+   "2) 알아보기 어려운",
+   "3) 갈피를 못 잡게 하는"
+  ],
+  "etym": "라틴어 confundere = com-(함께) + fundere(붓다·쏟다) -> '한데 쏟아부어 뒤섞다'. confuse(혼동시키다)·confusion(2471)이 한 가족. fundere(붓다)는 fuse(녹이다)·refuse(거절하다)·infuse(주입하다)·profuse(아낌없는)·fund(자금)의 뿌리.",
+  "deriv": "com-(함께) + fundere(붓다) -> confuse -> 'confusing(뒤섞이게 하는)'. 한국 학습자 핵심: confusing(혼란스럽게 하는, 사물 주어)과 confused(혼란스러워하는, 사람 주어)를 구별 — The map is confusing(지도가 헷갈린다) / I am confused(나는 헷갈린다)! fundere(붓다) 가족 — fuse·refuse·infuse·profuse·confound(당황시키다)·fund·refund! confusing instructions(헷갈리는 설명), terribly confusing(몹시 혼란스러운). puzzling(아리송한)·bewildering(어리둥절한)과 유의어. 반대 clear(명확한).",
+  "syn": [
+   "puzzling(아리송한)",
+   "bewildering(어리둥절한)",
+   "baffling(이해 안 되는)"
+  ],
+  "anti": [
+   "clear(명확한)",
+   "obvious(분명한)",
+   "straightforward(명료한)"
+  ],
+  "idiom": [
+   "confusing and contradictory(혼란스럽고 모순된)"
+  ],
+  "colloc": [
+   "confusing instructions(헷갈리는 지시)",
+   "deeply confusing(매우 혼란스러운)",
+   "a confusing situation(혼란스러운 상황)"
+  ],
+  "ex_add": "The signs at the airport were so confusing that we got lost.  (confusing=혼란스러운)",
+  "ex_orig": "This theory becomes confusing to the student reared in other nations under different educational influences.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2471",
+  "hw": "confusion",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "뒤섞임 -> '혼란·혼동·당혹'.",
+  "senses": [
+   "1) 혼란·무질서",
+   "2) 혼동·착각",
+   "3) 당혹·어리둥절함"
+  ],
+  "etym": "라틴어 confundere(한데 쏟아 뒤섞다)의 명사형 confusio = com-(함께) + fundere(붓다). confuse·confusing(2470)과 한 가족. '구별이 안 되게 뒤죽박죽 섞임'이 핵심.",
+  "deriv": "com-(함께) + fundere(붓다) -> 'confusion'. '뒤죽박죽 -> 혼란·무질서(chaos and confusion)' -> '뒤섞어 봄 -> 혼동(confusion between A and B)' -> '머리가 섞임 -> 당혹'. 한국 학습자 핵심: fundere(붓다) 가족 — fuse·refuse·infuse·diffuse·profuse·fund! in confusion(혼란 속에서), cause confusion(혼란을 일으키다), to avoid confusion(혼동을 피하려), there is some confusion over(~에 대해 혼선이 있다). chaos(혼돈)·disorder(무질서)와 유의어. 반대 order(질서)·clarity(명료).",
+  "syn": [
+   "chaos(혼돈)",
+   "disorder(무질서)",
+   "bewilderment(당혹)"
+  ],
+  "anti": [
+   "order(질서)",
+   "clarity(명료함)",
+   "calm(평온)"
+  ],
+  "idiom": [
+   "in confusion(혼란에 빠져)",
+   "throw into confusion(혼란에 빠뜨리다)"
+  ],
+  "colloc": [
+   "cause confusion(혼란을 야기하다)",
+   "complete confusion(완전한 혼란)",
+   "confusion over(~에 대한 혼선)"
+  ],
+  "ex_add": "There was widespread confusion about the new rules.  (confusion=혼란)",
+  "ex_orig": "There was disorder and confusion, and at 8 o'clock horses attached to baggage wagons stampeded in the street and rifle fire commenced.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2472",
+  "hw": "congress",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "함께 모여 걸음 -> '의회·대회'.",
+  "senses": [
+   "1) (Congress) (미국) 의회",
+   "2) (전문가) 대회·총회",
+   "3) 회합·집회"
+  ],
+  "etym": "라틴어 congressus = com-(함께) + gradi(걷다·나아가다)의 과거분사. '함께 모여 나아감'이 핵심. gradi(걷다)는 progress(전진)·degree(단계)·gradual(점진적인)·aggressive(공격적인)·ingredient(들어가는 것->재료)·transgress(넘다)의 뿌리.",
+  "deriv": "com-(함께) + gradi(걷다) -> 'congress(함께 모임)'. '(미국) 의회(an act of Congress)' -> 전문가 '대회·총회(a medical congress)'. 한국 학습자 핵심: gradi(걷다) 대가족 — progress(진보)·degree(학위·정도)·gradual(점진적)·aggressive(공격적)·ingredient(재료)·transgress(어기다)·congress! the US Congress(미 의회, 상원 Senate + 하원 House), a congressman/congresswoman(의원), an international congress(국제 회의). parliament(의회)·assembly(의회)와 유의어.",
+  "syn": [
+   "parliament(의회)",
+   "assembly(의회)",
+   "convention(대회)"
+  ],
+  "anti": [],
+  "idiom": [
+   "an act of Congress(의회 입법)",
+   "a member of Congress(국회의원)"
+  ],
+  "colloc": [
+   "the US Congress(미국 의회)",
+   "a medical congress(의학 대회)",
+   "address Congress(의회에서 연설하다)"
+  ],
+  "ex_add": "The new law was passed by Congress last week.  (Congress=의회)",
+  "ex_orig": "Belgium, partly by a decree of the Vienna Congress in 1815 and partly by revolution, secured her independence from the Netherlands in 1830.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2473",
+  "hw": "conscious",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "함께 앎 -> '의식이 있는·의식하는·의도적인'.",
+  "senses": [
+   "1) 의식이 있는(깨어 있는)",
+   "2) 의식하는·자각하는(conscious of)",
+   "3) 의도적인"
+  ],
+  "etym": "라틴어 conscius = com-(함께) + scire(알다) -> '속속들이 앎'. scire(알다)는 science(과학)·conscience(양심=함께 아는 마음)·conscientious(양심적인)·omniscient(전지의)의 뿌리. '스스로 알아채고 있음'이 핵심.",
+  "deriv": "com-(함께) + scire(알다) -> 'conscious'. '의식이 있는(깨어 있는, regain consciousness 의식을 되찾다)' -> '의식하는(conscious of the danger, 위험을 자각하는)' -> '의도적인(a conscious decision)'. 한국 학습자 핵심: scire(알다) 가족 — science·conscience(양심)·conscientious(양심적인)·omniscient(전지의)! conscious와 conscience(양심)·conscientious(성실한)를 철자상 구별! self-conscious(남의 시선을 의식하는), be conscious of(~을 의식하다), health-conscious(건강을 신경 쓰는). aware(알고 있는)와 유의어. 반대 unconscious(무의식의).",
+  "syn": [
+   "aware(알고 있는)",
+   "awake(깨어 있는)",
+   "deliberate(의도적인)"
+  ],
+  "anti": [
+   "unconscious(의식 없는)",
+   "unaware(모르는)",
+   "oblivious(알아채지 못하는)"
+  ],
+  "idiom": [
+   "self-conscious(남의 눈을 의식하는)",
+   "be conscious of(~을 의식하다)",
+   "regain consciousness(의식을 되찾다)"
+  ],
+  "colloc": [
+   "fully conscious(완전히 의식이 있는)",
+   "a conscious effort(의식적인 노력)",
+   "environmentally conscious(환경을 의식하는)"
+  ],
+  "ex_add": "She made a conscious effort to speak more slowly.  (conscious=의식적인)",
+  "ex_orig": "For years he has been conscious that British diplomacy was seeking to isolate and crush Germany by an alliance of Latin, Slav, and Mongol",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2474",
+  "hw": "consequently",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "뒤따라서 -> '그 결과·따라서'.",
+  "senses": [
+   "1) 그 결과·따라서",
+   "2) 그러므로",
+   "3) 결과적으로"
+  ],
+  "etym": "라틴어 consequi = com-(함께) + sequi(따르다) -> consequence(결과) + -ly. '앞일에 뒤따라 나옴'이 핵심. sequi(따르다)는 sequence(연속)·sequel(속편)·consecutive(연속의)·subsequent(그다음의)·pursue(추구하다)·execute(실행하다)·prosecute(기소하다)의 뿌리.",
+  "deriv": "com-(함께) + sequi(따르다) -> consequence -> 'consequently'. '결과로 뒤따라 -> 그 결과·따라서(He failed to study; consequently, he failed the exam)'. 한국 학습자 핵심: sequi(따르다) 대가족 — sequence(순서)·sequel(속편)·consecutive(연속적인)·subsequent(다음의)·pursue(추구하다)·execute(실행하다)·prosecute(기소하다)·second(따라오는 것)! therefore(그러므로)·as a result(결과적으로)·thus(따라서)와 유의어 — 문장 부사로 콤마와 함께. consequence(결과)가 명사형.",
+  "syn": [
+   "therefore(그러므로)",
+   "as a result(그 결과)",
+   "thus(따라서)"
+  ],
+  "anti": [
+   "nevertheless(그럼에도)",
+   "however(그러나)"
+  ],
+  "idiom": [
+   "as a consequence(그 결과)",
+   "in consequence(그 결과로)"
+  ],
+  "colloc": [
+   "consequently, ~(따라서 ~)",
+   "and consequently(그래서)"
+  ],
+  "ex_add": "He missed the deadline and consequently lost the contract.  (consequently=그 결과)",
+  "ex_orig": "But if there had been no German Navy, and consequently no dread of Germany, this hate of Germany might have come to an explosion before now.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2475",
+  "hw": "conservation",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "온전히 지킴 -> '(자연·자원) 보호·보존'.",
+  "senses": [
+   "1) 자연 보호·환경 보전",
+   "2) (자원의) 절약·아껴 씀",
+   "3) (문화재) 보존"
+  ],
+  "etym": "라틴어 conservare = com-(완전히) + servare(지키다·보관하다)의 명사형. '온전히 지켜 둠'이 핵심. servare(지키다)는 conserve(보존하다)·preserve(보존하다)·reserve(예약하다)·observe(관찰하다)·reservoir(저수지)의 뿌리.",
+  "deriv": "com-(완전히) + servare(지키다) -> conserve -> 'conservation'. '자연을 지킴 -> 환경 보호(wildlife conservation, 야생 동물 보호)' -> 자원 '절약(energy conservation)' -> 문화재 '보존'. 한국 학습자 핵심: servare(지키다) 가족 — conserve·preserve(보존하다)·reserve(예약/비축)·observe(관찰하다)·reservoir(저수지)! conservation area(보호 구역), nature conservation(자연 보호), the conservation of energy(에너지 보존 법칙). preservation(보존)과 유의어. (conservative 2476 보수적인과 한 뿌리!)",
+  "syn": [
+   "preservation(보존)",
+   "protection(보호)",
+   "saving(절약)"
+  ],
+  "anti": [
+   "destruction(파괴)",
+   "waste(낭비)",
+   "exploitation(남용)"
+  ],
+  "idiom": [
+   "nature conservation(자연 보호)",
+   "a conservation area(보호 구역)"
+  ],
+  "colloc": [
+   "wildlife conservation(야생 동물 보호)",
+   "energy conservation(에너지 절약)",
+   "conservation efforts(보호 활동)"
+  ],
+  "ex_add": "Many groups are working on the conservation of tropical forests.  (conservation=보호)",
+  "ex_orig": "The Englishman, partly through this lack of imagination and nervous sensibility, partly through his inbred dislike of extremes and habit of minimizing the expression of everything, is a perfect example of the conservation of energy.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2476",
+  "hw": "conservative",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "지키려는 -> '보수적인 / (수치가) 보수적인(낮춰 잡은)'.",
+  "senses": [
+   "1) 보수적인·전통을 지키려는",
+   "2) (추정이) 보수적인·신중히 낮춰 잡은",
+   "3) (Conservative) 보수당의·보수당원"
+  ],
+  "etym": "라틴어 conservare(지키다)에서 -> conserve + -ative. '기존의 것을 지키려는(servare)' 성향이 핵심. conservation(2475)·preserve·reserve와 한 servare 가족.",
+  "deriv": "conservare(지키다) -> 'conservative'. '옛것을 지키려는 -> 보수적인(conservative views)' -> 수치를 '안전하게 낮춰 잡은(a conservative estimate, 보수적 추정)' -> 정치 '보수당의(the Conservative Party)'. 한국 학습자 핵심: '보수적'이라는 정치 뜻 외에 'a conservative estimate(넉넉잡아 적게 본 추정)'처럼 '신중히 낮춰 잡은' 뜻이 자주 나온다! conservatively(보수적으로), socially conservative(사회적으로 보수적인). servare 가족(conservation 2475·preserve·reserve). 반대 progressive(진보적인)·liberal(자유주의의)·radical(급진적인).",
+  "syn": [
+   "traditional(전통적인)",
+   "cautious(신중한)",
+   "conventional(인습적인)"
+  ],
+  "anti": [
+   "liberal(진보적인)",
+   "radical(급진적인)",
+   "progressive(진보적인)"
+  ],
+  "idiom": [
+   "a conservative estimate(보수적 추정)",
+   "the Conservative Party(보수당)"
+  ],
+  "colloc": [
+   "conservative views(보수적 견해)",
+   "a conservative estimate(넉넉잡은 추정)",
+   "politically conservative(정치적으로 보수적인)"
+  ],
+  "ex_add": "At a conservative estimate, the repairs will cost over $5,000.  (conservative=보수적으로 낮춰 잡은)",
+  "ex_orig": "But how is genuine national progress possible so long as the great mass of the population are grossly ignorant, conservative, and superstitious?",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2477",
+  "hw": "considerable",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "헤아릴 만한 -> '상당한·꽤 많은'.",
+  "senses": [
+   "1) 상당한·꽤 많은",
+   "2) 무시 못 할·중요한",
+   "3) 적지 않은"
+  ],
+  "etym": "라틴어 considerare(곰곰 살피다) = com-(완전히) + sidus/sider-(별). 원래 '별(sider)을 관찰하다'에서 '신중히 헤아리다'로. '헤아릴 만큼 큼'이 핵심. desire(별을 바라며 갈망함)와 사촌, consideration(2479)·considerably(2478)가 가족.",
+  "deriv": "considerare(헤아리다) -> 'considerable(헤아릴 만한)'. '주목할 만큼 많은 -> 상당한(a considerable amount, 상당한 양)' -> '무시 못 할·중요한(a considerable difference)'. 한국 학습자 핵심: considerable(상당한, 양·정도가 큼)과 considerate(사려 깊은, 남을 배려하는)를 철자상 꼭 구별! 어원 com-+sider(별) — 별을 살피듯 헤아림. a considerable sum(거액), considerable interest(상당한 관심). substantial(상당한)·significant(상당한)과 유의어. 반대 negligible(무시할 만한).",
+  "syn": [
+   "substantial(상당한)",
+   "significant(상당한)",
+   "sizable(꽤 큰)"
+  ],
+  "anti": [
+   "negligible(무시할 만한)",
+   "slight(약간의)",
+   "trivial(사소한)"
+  ],
+  "idiom": [
+   "a considerable amount(상당한 양)",
+   "considerable difficulty(상당한 어려움)"
+  ],
+  "colloc": [
+   "a considerable sum(상당한 액수)",
+   "considerable interest(상당한 관심)",
+   "considerable damage(상당한 피해)"
+  ],
+  "ex_add": "The project required a considerable amount of time and money.  (considerable=상당한)",
+  "ex_orig": "Great Britain, the power most interested in the maintenance of Belgian neutrality, seems to have had considerable apprehension about it.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2478",
+  "hw": "considerably",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'상당히·꽤·훨씬'.",
+  "senses": [
+   "1) 상당히·많이",
+   "2) (비교급 강조) 훨씬",
+   "3) 현저히"
+  ],
+  "etym": "considerable(상당한, 2477) + -ly. 뿌리는 com-(완전히) + sider(별)을 살피다 -> '헤아릴 만큼'. consider(고려하다)·consideration(2479)과 한 가족.",
+  "deriv": "considerable(2477) -> 'considerably'. '상당히·많이(vary considerably, 상당히 다르다)' -> 비교급을 강조해 '훨씬(considerably bigger, 훨씬 더 큰)'. 한국 학습자 핵심: considerably는 much/far처럼 비교급을 강조한다(considerably more expensive, 훨씬 더 비싼)! considerably higher/lower(상당히 높은/낮은), differ considerably(상당히 다르다), improve considerably(크게 개선되다). significantly(상당히)·substantially(상당히)와 유의어. consider 가족(considerable 2477·consideration 2479). 반대 slightly(약간).",
+  "syn": [
+   "significantly(상당히)",
+   "substantially(상당히)",
+   "much(훨씬)"
+  ],
+  "anti": [
+   "slightly(약간)",
+   "marginally(미미하게)",
+   "negligibly(미미하게)"
+  ],
+  "idiom": [
+   "considerably more(훨씬 더)",
+   "vary considerably(상당히 다르다)"
+  ],
+  "colloc": [
+   "considerably higher(상당히 더 높은)",
+   "improve considerably(크게 개선되다)",
+   "differ considerably(크게 다르다)"
+  ],
+  "ex_add": "Prices have risen considerably over the past year.  (considerably=상당히)",
+  "ex_orig": "The German leaders pointed out that considerably more effective materials were to be expected from German chemistry, and they were right.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2479",
+  "hw": "consideration",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "헤아림 -> '고려·배려 / 고려 사항'.",
+  "senses": [
+   "1) 고려·숙고",
+   "2) 배려·헤아림",
+   "3) 고려 대상·요인"
+  ],
+  "etym": "라틴어 considerare(헤아리다)의 명사형 consideratio = com-(완전히) + sider(별)을 살피다. consider(고려하다)·considerable(2477)·considerate(사려 깊은)와 한 가족. '꼼꼼히 헤아림'이 핵심.",
+  "deriv": "considerare(헤아리다) -> 'consideration'. '곰곰 따져 봄 -> 고려·숙고(after careful consideration)' -> 남을 헤아림 '배려(show consideration for others)' -> '고려 요인(an important consideration)'. 한국 학습자 핵심: take ~ into consideration(~을 고려하다)이 핵심 숙어! under consideration(검토 중인), out of consideration for(~을 배려하여), the main consideration(주된 고려 사항). consider(고려하다)·considerable(2477)·considerate(사려 깊은) 가족. thought(숙고)와 유의어.",
+  "syn": [
+   "thought(숙고)",
+   "regard(배려)",
+   "deliberation(숙고)"
+  ],
+  "anti": [
+   "disregard(무시)",
+   "thoughtlessness(경솔)"
+  ],
+  "idiom": [
+   "take into consideration(~을 고려하다)",
+   "under consideration(검토 중인)",
+   "out of consideration for(~을 배려하여)"
+  ],
+  "colloc": [
+   "careful consideration(신중한 고려)",
+   "show consideration(배려를 보이다)",
+   "a key consideration(핵심 고려 사항)"
+  ],
+  "ex_add": "Please take my suggestion into consideration.  (take into consideration=고려하다)",
+  "ex_orig": "it is all right if war is to be, for all this talk of chivalrous consideration for foes and regard for international law is all nonsense;",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2480",
+  "hw": "consistent",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "굳게 서 있는 -> '한결같은·일관된·일치하는'.",
+  "senses": [
+   "1) 한결같은·꾸준한",
+   "2) 일관된·모순 없는",
+   "3) (with) ~과 일치하는"
+  ],
+  "etym": "라틴어 consistere = com-(함께) + sistere(서다·자리 잡다)의 현재분사. '흔들림 없이 굳게 서 있음'이 핵심. sistere(서다)는 consist(이루어지다)·persist(고집하다)·resist(저항하다)·insist(주장하다)·assist(돕다)·exist(존재하다)의 뿌리.",
+  "deriv": "com-(함께) + sistere(서다) -> 'consistent'. '한결같이 서 있는 -> 꾸준한(consistent performance)' -> '말·행동이 한 자리에 서 있는 -> 일관된(a consistent argument)' -> '(with) ~과 일치하는(consistent with the facts)'. 한국 학습자 핵심: sistere(서다) 대가족 — consist(구성되다)·persist(persevere 고집하다)·resist·insist·assist·exist·desist! be consistent with(~과 부합하다), remain consistent(한결같다), consistently(2481). steady(꾸준한)·coherent(일관된)과 유의어. 반대 inconsistent(모순된)·erratic(들쭉날쭉한).",
+  "syn": [
+   "steady(꾸준한)",
+   "coherent(일관된)",
+   "uniform(한결같은)"
+  ],
+  "anti": [
+   "inconsistent(모순된)",
+   "erratic(들쭉날쭉한)",
+   "contradictory(모순되는)"
+  ],
+  "idiom": [
+   "be consistent with(~과 일치하다)",
+   "consistent with(~에 부합하는)"
+  ],
+  "colloc": [
+   "a consistent approach(일관된 접근)",
+   "remarkably consistent(놀랍도록 한결같은)",
+   "consistent results(일관된 결과)"
+  ],
+  "ex_add": "His story was consistent with what the witnesses had said.  (be consistent with=~과 일치하다)",
+  "ex_orig": "The consistent, systematic lying of the German press, or the grotesque blasphemies of the Kaiser, can be met by us with contemptuous tolerance.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2481",
+  "hw": "consistently",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'한결같이·일관되게·꾸준히'.",
+  "senses": [
+   "1) 한결같이·꾸준히",
+   "2) 일관되게",
+   "3) 변함없이"
+  ],
+  "etym": "consistent(한결같은, 2480) + -ly. 뿌리는 com-(함께) + sistere(서다) -> '흔들림 없이 굳게'. consist·persist·resist·insist와 한 sistere 가족.",
+  "deriv": "consistent(2480) -> 'consistently'. '한결같이·꾸준히(consistently high quality, 한결같이 높은 품질)' -> '변함없이(consistently deny, 한결같이 부인하다)'. 한국 학습자 핵심: sistere(서다) 가족 — consist·persist·resist·insist·assist·exist! consistently good(한결같이 좋은), perform consistently(꾸준히 잘하다), consistently ranked(꾸준히 ~위에 오른). steadily(꾸준히)·reliably(한결같이)와 유의어. consistent(2480) 가족. 반대 inconsistently(들쭉날쭉하게)·erratically.",
+  "syn": [
+   "steadily(꾸준히)",
+   "reliably(한결같이)",
+   "uniformly(한결같이)"
+  ],
+  "anti": [
+   "inconsistently(들쭉날쭉하게)",
+   "erratically(불규칙하게)",
+   "sporadically(산발적으로)"
+  ],
+  "idiom": [
+   "consistently high(한결같이 높은)",
+   "perform consistently(꾸준히 해내다)"
+  ],
+  "colloc": [
+   "consistently good(한결같이 좋은)",
+   "consistently applied(일관되게 적용된)",
+   "consistently rank(꾸준히 ~위에 오르다)"
+  ],
+  "ex_add": "The team has performed consistently well all season.  (consistently=한결같이)",
+  "ex_orig": "Daydream is her best record to date, featuring a consistently strong selection of songs and a remarkably impassioned performance by Carey.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "2482",
+  "hw": "conspiracy",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "함께 숨 쉬며 꾸밈 -> '음모·공모'.",
+  "senses": [
+   "1) 음모·모의",
+   "2) 공모(죄)",
+   "3) (conspiracy theory) 음모론"
+  ],
+  "etym": "라틴어 conspirare = com-(함께) + spirare(숨 쉬다) -> '한 호흡으로 작당함'. 함께 숨죽여 모의하는 모습이 핵심. spirare(숨 쉬다)는 spirit(정신)·inspire(영감을 주다)·expire(숨을 다하다->만료되다)·respire(호흡하다)·aspire(열망하다)·perspire(땀 흘리다)의 뿌리.",
+  "deriv": "com-(함께) + spirare(숨 쉬다) -> conspire -> 'conspiracy'. '함께 숨죽여 작당함 -> 음모·모의(hatch a conspiracy)' -> 법률 '공모죄(conspiracy to commit murder)' -> 'conspiracy theory(음모론)'. 한국 학습자 핵심: spirare(숨 쉬다) 대가족 — spirit·inspire·expire·respire·aspire·perspire·transpire! a conspiracy of silence(쉬쉬하며 입을 맞춤), a conspiracy theory(음모론), conspire to do(공모하여 ~하다). plot(음모)·scheme(책략)과 유의어.",
+  "syn": [
+   "plot(음모)",
+   "scheme(책략)",
+   "collusion(공모)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a conspiracy theory(음모론)",
+   "a conspiracy of silence(침묵의 담합)",
+   "hatch a conspiracy(음모를 꾸미다)"
+  ],
+  "colloc": [
+   "a criminal conspiracy(범죄 공모)",
+   "uncover a conspiracy(음모를 밝히다)",
+   "conspiracy to defraud(사기 공모)"
+  ],
+  "ex_add": "They were charged with conspiracy to rob the bank.  (conspiracy=공모)",
+  "ex_orig": "11--Conspiracy discovered in Constantinople against Germans and Young Turks; leaders shot; refugees in Petrograd report Christians in peril.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2483",
+  "hw": "constant",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "굳게 서 있는 -> '끊임없는·변함없는 / 상수'.",
+  "senses": [
+   "1) 끊임없는·계속되는",
+   "2) 변함없는·일정한",
+   "3) (수학) 상수"
+  ],
+  "etym": "라틴어 constare = com-(함께) + stare(서다)의 현재분사 constans -> '굳게 서 있는'. stare(서다)는 영어의 거대한 뿌리 — stable(안정된)·status(지위)·statue(상)·station(역)·instant(즉각의)·distant(먼)·circumstance(2423)·constantly(2484)가 모두 stare 가족.",
+  "deriv": "com-(함께) + stare(서다) -> 'constant'. '한자리에 굳게 서 있는 -> 변함없는·일정한(a constant temperature)' -> '쉼 없이 서 있는 -> 끊임없는(constant noise)' -> 수학 '상수'. 한국 학습자 핵심: stare(서다) 대가족 — stable·status·statue·station·instant·distant·circumstance(2423)·stand·state·establish·obstacle! constant pressure(끊임없는 압박), in constant use(계속 사용 중인), a constant reminder(끊임없는 상기물). continuous(연속적인)·perpetual(영구적인)과 유의어. 반대 variable(가변적인).",
+  "syn": [
+   "continuous(끊임없는)",
+   "perpetual(영구적인)",
+   "steady(일정한)"
+  ],
+  "anti": [
+   "variable(가변적인)",
+   "occasional(가끔의)",
+   "intermittent(간헐적인)"
+  ],
+  "idiom": [
+   "a constant reminder(끊임없는 상기물)",
+   "in constant use(계속 쓰이는)"
+  ],
+  "colloc": [
+   "constant pressure(끊임없는 압박)",
+   "a constant temperature(일정한 온도)",
+   "constant change(끊임없는 변화)"
+  ],
+  "ex_add": "The baby needs constant attention.  (constant=끊임없는)",
+  "ex_orig": "That is to say, there is a constant injection of 1-1/2 per cent. of Slavic blood into the territories of the German Empire.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2484",
+  "hw": "constantly",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'끊임없이·줄곧·항상'.",
+  "senses": [
+   "1) 끊임없이·줄곧",
+   "2) 항상·언제나",
+   "3) 빈번히·자꾸"
+  ],
+  "etym": "constant(끊임없는, 2483) + -ly. 뿌리는 com-(함께) + stare(서다) -> '쉬지 않고 서서'. stable·status·instant·distant와 한 stare 가족.",
+  "deriv": "constant(2483) -> 'constantly'. '끊임없이·줄곧(constantly changing, 끊임없이 변하는)' -> '항상(constantly available)' -> '자꾸(constantly interrupt, 자꾸 끼어들다)'. 한국 학습자 핵심: stare(서다) 대가족 — stable·status·statue·station·instant·distant·circumstance(2423)·stand! constantly evolving(끊임없이 진화하는), constantly reminded(늘 상기되는), almost constantly(거의 줄곧). continually(끊임없이)·always(항상)·perpetually(영구히)와 유의어. constant(2483) 가족. 반대 occasionally(가끔)·rarely(드물게).",
+  "syn": [
+   "continually(끊임없이)",
+   "always(항상)",
+   "perpetually(영구히)"
+  ],
+  "anti": [
+   "occasionally(가끔)",
+   "rarely(드물게)",
+   "intermittently(간헐적으로)"
+  ],
+  "idiom": [
+   "constantly changing(끊임없이 변하는)"
+  ],
+  "colloc": [
+   "constantly changing(계속 변하는)",
+   "constantly evolving(끊임없이 진화하는)",
+   "constantly interrupt(자꾸 방해하다)"
+  ],
+  "ex_add": "Technology is constantly changing and improving.  (constantly=끊임없이)",
+  "ex_orig": "Great Britain constantly changed the contraband lists, so no foodstuffs of any kind have actually reached Germany since the war began.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2485",
+  "hw": "construct",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "쌓아 올려 '건설하다·구성하다 / 구성 개념'.",
+  "senses": [
+   "1) 건설하다·세우다",
+   "2) (이론·문장을) 구성하다·짜다",
+   "3) 구성 개념(명사)"
+  ],
+  "etym": "라틴어 construere = com-(함께) + struere(쌓다·세우다)의 과거분사 constructus. '함께 쌓아 올림'이 핵심. struere(쌓다)는 structure(구조)·construction(2486)·instruct(가르치다=마음에 쌓다)·destroy(헐다)·obstruct(가로막다)·instrument(도구)의 뿌리.",
+  "deriv": "com-(함께) + struere(쌓다) -> 'construct'. '건물을 쌓다 -> 건설하다(construct a bridge)' -> '논리를 쌓다 -> (이론·문장을) 구성하다(construct a sentence)' -> 명사 '구성 개념(a social construct, 사회적 구성물)'. 한국 학습자 핵심: struere(쌓다) 대가족 — structure(구조)·construction(2486)·instruct(지도하다)·destroy(파괴하다)·obstruct(방해하다)·instrument! 명사·동사 강세 다름(CONstruct 개념 / conSTRUCT 짓다). build(짓다)와 유의어. 반대 demolish(허물다)·destroy.",
+  "syn": [
+   "build(짓다)",
+   "erect(세우다)",
+   "assemble(조립하다)"
+  ],
+  "anti": [
+   "demolish(허물다)",
+   "destroy(파괴하다)",
+   "dismantle(분해하다)"
+  ],
+  "idiom": [
+   "a social construct(사회적 구성물)"
+  ],
+  "colloc": [
+   "construct a building(건물을 짓다)",
+   "construct an argument(논리를 구성하다)",
+   "carefully construct(공들여 짜다)"
+  ],
+  "ex_add": "The company plans to construct a new factory next year.  (construct=건설하다)",
+  "ex_orig": "Vith line has been relaid and doubled, and very extensive detraining stations constructed at various points along it, especially at Weiwertz and St.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2486",
+  "hw": "construction",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "쌓아 올림 -> '건설·공사·구조물'.",
+  "senses": [
+   "1) 건설·공사",
+   "2) 건축물·구조물",
+   "3) (문장의) 구성·구문"
+  ],
+  "etym": "라틴어 construere(쌓다)의 명사형 constructio = com-(함께) + struere(쌓다). construct(2485)·structure·instruct와 한 struere 가족. '쌓아 올리는 일'이 핵심.",
+  "deriv": "com-(함께) + struere(쌓다) -> construct -> 'construction'. '건설·공사(under construction, 공사 중)' -> '건축물(a steel construction)' -> 문법 '구문(a grammatical construction)'. 한국 학습자 핵심: struere(쌓다) 대가족 — structure·construct(2485)·instruct·destroy·obstruct·instrument! under construction(공사 중), a construction site(공사 현장), the construction industry(건설업), construction work(건설 작업). building(건축)과 유의어. 반대 destruction(파괴) — 같은 struere 뿌리에 de-(아래로)!",
+  "syn": [
+   "building(건축)",
+   "erection(건립)",
+   "structure(구조물)"
+  ],
+  "anti": [
+   "destruction(파괴)",
+   "demolition(철거)"
+  ],
+  "idiom": [
+   "under construction(공사 중인)",
+   "a construction site(공사 현장)"
+  ],
+  "colloc": [
+   "construction work(건설 공사)",
+   "the construction industry(건설업)",
+   "road construction(도로 공사)"
+  ],
+  "ex_add": "The new highway is still under construction.  (under construction=공사 중)",
+  "ex_orig": "at Hoboken two German submarines were destroyed, a third damaged, and the Antwerp Naval Construction Yards were gutted;",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2487",
+  "hw": "consult",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "의견을 구하다 -> '상담·상의하다·참고하다'.",
+  "senses": [
+   "1) (전문가와) 상담하다·진찰받다",
+   "2) ~와 상의하다·협의하다",
+   "3) (자료를) 찾아보다·참고하다"
+  ],
+  "etym": "라틴어 consultare(의견을 구하다, consulere '숙고하다·자문하다'의 반복형). 로마의 'consul(집정관)'도 같은 뿌리 — '함께 모여 의논함'이 핵심. consultant(2488)·consultation·counsel(조언)이 가족.",
+  "deriv": "consulere(자문하다) -> consultare -> 'consult'. '전문가에게 묻다 -> 상담·진찰받다(consult a doctor)' -> '~와 상의하다(consult your team)' -> '자료를 찾아보다(consult a dictionary)'. 한국 학습자 핵심: consult a doctor(의사의 진찰을 받다), consult with(~와 협의하다), consult a map(지도를 보다). consultant(2488 컨설턴트)·consultation(상담)·consultancy(자문 회사)가 가족. counsel(조언하다)과 사촌(같은 어근 갈래). refer to(참조하다)와 유의어.",
+  "syn": [
+   "confer(협의하다)",
+   "refer to(참고하다)",
+   "seek advice(조언을 구하다)"
+  ],
+  "anti": [
+   "ignore(무시하다)"
+  ],
+  "idiom": [
+   "consult with(~와 상의하다)"
+  ],
+  "colloc": [
+   "consult a doctor(의사와 상담하다)",
+   "consult an expert(전문가와 상의하다)",
+   "consult a dictionary(사전을 찾다)"
+  ],
+  "ex_add": "You should consult a lawyer before signing the contract.  (consult=상담하다)",
+  "ex_orig": "Has she consulted the Persians, or has France consulted the people of Morocco, or of Indo-China, Italy the people of Tripoli?",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2488",
+  "hw": "consultant",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "자문해 주는 '컨설턴트·고문 / (영) 전문의'.",
+  "senses": [
+   "1) 컨설턴트·자문 위원·고문",
+   "2) (영) (병원) 전문의",
+   "3) 상담역"
+  ],
+  "etym": "consult(상담하다, 2487) + -ant(~하는 사람). 라틴어 consulere(자문하다) 뿌리. '전문 의견을 주는 사람'이 핵심. consultation(상담)·consultancy(자문업)가 가족.",
+  "deriv": "consult(2487) -> 'consultant'. '자문 전문가 -> 컨설턴트(a management consultant, 경영 컨설턴트)' -> (영) 병원 '전문의(a consultant surgeon)'. 한국 학습자 핵심: 영국 영어에서 consultant는 '(과장급) 전문의'를 뜻한다 — 미국식 specialist와 비교! a financial consultant(재무 고문), a consultancy firm(컨설팅 회사), hire a consultant(컨설턴트를 고용하다). consult(2487)·consultation(자문)이 가족. adviser(고문)·specialist(전문가)와 유의어.",
+  "syn": [
+   "adviser(고문)",
+   "specialist(전문가)",
+   "expert(전문가)"
+  ],
+  "anti": [
+   "client(의뢰인)"
+  ],
+  "idiom": [
+   "a management consultant(경영 컨설턴트)"
+  ],
+  "colloc": [
+   "a financial consultant(재무 컨설턴트)",
+   "an IT consultant(IT 컨설턴트)",
+   "hire a consultant(컨설턴트를 고용하다)"
+  ],
+  "ex_add": "The firm hired a consultant to improve its marketing.  (consultant=컨설턴트)",
+  "ex_orig": "In the interim, work was shifted to local and state planners until a new consultant could be retained in an effort to minimize the delays involved.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "2489",
+  "hw": "consumption",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "다 써 없앰 -> '소비·소모·섭취'.",
+  "senses": [
+   "1) 소비·소비량",
+   "2) (에너지·연료) 소모",
+   "3) (식품의) 섭취"
+  ],
+  "etym": "라틴어 consumere = com-(완전히) + sumere(취하다·쓰다)의 명사형 consumptio. '완전히 가져다 써 버림'이 핵심. sumere(취하다)는 consume(소비하다)·assume(가정하다)·presume(추정하다)·resume(재개하다)·presumption의 뿌리.",
+  "deriv": "com-(완전히) + sumere(취하다) -> consume -> 'consumption'. '다 써 없앰 -> 소비(energy consumption, 에너지 소비)' -> '연료 소모(fuel consumption)' -> '음식 섭취(for human consumption, 식용의)'. 한국 학습자 핵심: sumere(취하다) 가족 — consume·assume(가정하다)·presume(추정하다)·resume(재개하다)·assumption·presumption! mass consumption(대량 소비), reduce consumption(소비를 줄이다), conspicuous consumption(과시적 소비), unfit for consumption(먹기에 부적합한). consumer(소비자)가 가족. 반대 production(생산).",
+  "syn": [
+   "use(사용)",
+   "intake(섭취)",
+   "expenditure(소모)"
+  ],
+  "anti": [
+   "production(생산)",
+   "conservation(절약)"
+  ],
+  "idiom": [
+   "for human consumption(식용의)",
+   "conspicuous consumption(과시적 소비)"
+  ],
+  "colloc": [
+   "energy consumption(에너지 소비)",
+   "fuel consumption(연료 소모)",
+   "reduce consumption(소비를 줄이다)"
+  ],
+  "ex_add": "The new engine reduces fuel consumption by 20 percent.  (consumption=소모)",
+  "ex_orig": "On the supposition that the Government was selling vodka for the revenue, I calculated the revenue received from its consumption in Samara.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2490",
+  "hw": "contemporary",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "같은 시대의 -> '현대의 / 동시대의 / 동시대 사람'.",
+  "senses": [
+   "1) 현대의·당대의·최신의",
+   "2) 동시대의·같은 시기의",
+   "3) 동시대 사람·동년배"
+  ],
+  "etym": "라틴어 contemporarius = com-(함께) + tempus(시간). '같은 시간(tempus)에 속한'이 핵심. tempus(시간)는 temporary(일시적인)·tempo(빠르기)·temporal(시간의)·extempore(즉흥의)의 뿌리.",
+  "deriv": "com-(함께) + tempus(시간) -> 'contemporary'. '같은 시대의 -> 동시대의(Shakespeare's contemporaries, 셰익스피어와 동시대 사람들)' -> (현재와 같은 시대 ->) '현대의·당대의(contemporary art, 현대 미술)'. 한국 학습자 핵심: tempus(시간) 가족 — temporary(임시의, vs permanent 영구의)·tempo·temporal·extempore(즉석의)·contemporary! 두 뜻 주의 — 'a contemporary of Newton(뉴턴과 동시대 사람)' vs 'contemporary society(현대 사회)'. modern(현대의)·current(현재의)과 유의어. 반대 ancient(고대의).",
+  "syn": [
+   "modern(현대의)",
+   "current(현재의)",
+   "present-day(오늘날의)"
+  ],
+  "anti": [
+   "ancient(고대의)",
+   "old-fashioned(구식의)",
+   "past(과거의)"
+  ],
+  "idiom": [
+   "a contemporary of(~와 동시대인)",
+   "contemporary art(현대 미술)"
+  ],
+  "colloc": [
+   "contemporary society(현대 사회)",
+   "contemporary music(현대 음악)",
+   "a contemporary of(~의 동시대 사람)"
+  ],
+  "ex_add": "The museum has a fine collection of contemporary art.  (contemporary=현대의)",
+  "ex_orig": "It will be noted that Professor Flamm, as other contemporary German writers, believes that submarines, like Shakespeare, are a German invention.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2491",
+  "hw": "contest",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "증인을 세워 다툼 -> '대회·경쟁 / 다투다·이의를 제기하다'.",
+  "senses": [
+   "1) 대회·시합·콘테스트",
+   "2) 경쟁·각축",
+   "3) (동사) 겨루다·다투다 / 이의를 제기하다"
+  ],
+  "etym": "라틴어 contestari = com-(함께) + testis(증인) -> '증인을 세워 시비를 가림'. testis(증인)는 testify(증언하다)·testimony(증언)·protest(항의하다)·attest(증명하다)·detest(혐오하다)·testament(유언)의 뿌리.",
+  "deriv": "com-(함께) + testis(증인) -> 'contest'. '증인 앞에서 다툼 -> 경쟁·대회(a beauty contest)' -> 동사 '겨루다(contest an election, 선거에 출마하다)·이의를 제기하다(contest a will, 유언에 이의를 달다)'. 한국 학습자 핵심: testis(증인) 가족 — testify·testimony·protest(항의)·attest·detest(몹시 싫어하다)·testament·contestant(참가자)! 명사·동사 강세 다름(CONtest 대회 / conTEST 다투다). a closely contested race(접전), no contest(상대가 안 됨). competition(경쟁)과 유의어.",
+  "syn": [
+   "competition(경쟁)",
+   "tournament(시합)",
+   "dispute(다투다)"
+  ],
+  "anti": [
+   "concede(인정하다)",
+   "accept(받아들이다)"
+  ],
+  "idiom": [
+   "no contest(상대가 안 됨)",
+   "a closely contested race(접전)"
+  ],
+  "colloc": [
+   "win a contest(대회에서 우승하다)",
+   "enter a contest(대회에 참가하다)",
+   "contest an election(선거에서 겨루다)"
+  ],
+  "ex_add": "Three candidates are contesting the leadership of the party.  (contest=겨루다)",
+  "ex_orig": "Austro-German forces are contesting stubbornly every foot of the German advance along the front from Bartfeld to Stryi;",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2492",
+  "hw": "contract",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "함께 끌어당김 -> '계약 / 수축하다·(병에) 걸리다'.",
+  "senses": [
+   "1) 계약(서) / 계약하다",
+   "2) (근육 등이) 수축하다·줄어들다",
+   "3) (병에) 걸리다 / (빚을) 지다"
+  ],
+  "etym": "라틴어 contractus = com-(함께) + trahere(끌다)의 과거분사 -> '함께 끌어당겨 묶음'. trahere(끌다)는 영어의 거대한 뿌리 — attract(끌어당기다)·extract(뽑아내다)·distract(딴 데로 끌다)·subtract(빼다)·abstract(끌어낸->추상적인)·trace(자취)·train(끌고 가는 줄->기차)·treat·retreat가 모두 trahere 가족!",
+  "deriv": "com-(함께) + trahere(끌다) -> 'contract'. '서로 끌어와 묶은 약속 -> 계약(sign a contract)' -> '안으로 끌어당김 -> 수축하다(metal contracts when cold)' -> '안으로 끌어들임 -> 병에 걸리다(contract a disease)'. 한국 학습자 핵심: trahere(끌다) 대가족 — attract·extract·distract·subtract·abstract·trace·train·treat·retreat·tractor! 명사·동사 강세 다름(CONtract 계약 / conTRACT 수축하다). breach of contract(계약 위반), a contract worker(계약직). 반대(수축) expand(팽창하다).",
+  "syn": [
+   "agreement(계약)",
+   "shrink(수축하다)",
+   "catch(병에 걸리다)"
+  ],
+  "anti": [
+   "expand(팽창하다)",
+   "stretch(늘이다)"
+  ],
+  "idiom": [
+   "breach of contract(계약 위반)",
+   "a binding contract(구속력 있는 계약)"
+  ],
+  "colloc": [
+   "sign a contract(계약을 맺다)",
+   "a contract worker(계약직 근로자)",
+   "contract a disease(병에 걸리다)"
+  ],
+  "ex_add": "Both parties signed the contract yesterday.  (contract=계약)",
+  "ex_orig": "The pressure on the Australians and New Zealanders became heavier, and the line they were occupying had to be contracted for the night.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2493",
+  "hw": "contribute",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "함께 보태 주다 -> '기여·기부·기고하다'.",
+  "senses": [
+   "1) 기여하다·한몫하다(contribute to)",
+   "2) 기부하다·내다",
+   "3) 기고하다"
+  ],
+  "etym": "라틴어 contribuere = com-(함께) + tribuere(나눠 주다·할당하다). '함께 보태 내놓다'가 핵심. tribuere(주다)는 contribution(2494)·tribute(공물·찬사)·attribute(~의 탓으로 돌리다)·distribute(나눠 주다)·tribe(부족)의 뿌리.",
+  "deriv": "com-(함께) + tribuere(나눠 주다) -> 'contribute'. '함께 보태다 -> 기여·한몫하다(contribute to success)' -> '돈을 보태다 -> 기부하다(contribute to charity)' -> '글을 보태다 -> 기고하다(contribute an article)'. 한국 학습자 핵심: tribuere(주다) 가족 — contribution(2494)·tribute(헌사)·attribute(~의 결과로 보다)·distribute(분배하다)·tribe! contribute to + 명사(자동사처럼, ~에 이바지하다), a contributing factor(한 요인). add to(더하다)와 유의어. 강세는 conTRIBute.",
+  "syn": [
+   "donate(기부하다)",
+   "add to(보태다)",
+   "give(내놓다)"
+  ],
+  "anti": [
+   "withhold(주지 않다)",
+   "withdraw(거둬들이다)"
+  ],
+  "idiom": [
+   "contribute to(~에 기여하다)",
+   "a contributing factor(한 요인)"
+  ],
+  "colloc": [
+   "contribute to society(사회에 기여하다)",
+   "contribute money(돈을 기부하다)",
+   "contribute significantly(크게 기여하다)"
+  ],
+  "ex_add": "Regular exercise contributes to good health.  (contribute to=~에 기여하다)",
+  "ex_orig": "If it is exerted on the strength of a true understanding of European events, it will contribute to the establishment of a lasting peace.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2494",
+  "hw": "contribution",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "보탬 -> '기여·공헌 / 기부(금)·기고(문)'.",
+  "senses": [
+   "1) 기여·공헌",
+   "2) 기부금·분담금",
+   "3) 기고문·기고"
+  ],
+  "etym": "라틴어 contribuere(함께 보태 주다)의 명사형 contributio = com-(함께) + tribuere(나눠 주다). contribute(2493)·tribute·distribute와 한 tribuere 가족. '함께 보탠 것'이 핵심.",
+  "deriv": "com-(함께) + tribuere(나눠 주다) -> contribute -> 'contribution'. '보탬 -> 기여·공헌(a major contribution to science)' -> '낸 돈 -> 기부금·분담금(make a contribution)' -> '낸 글 -> 기고문'. 한국 학습자 핵심: tribuere(주다) 가족 — contribute(2493)·tribute(헌정)·attribute·distribute·tribe! make a contribution to(~에 기여하다), a generous contribution(후한 기부), pension contributions(연금 납입금), a valuable contribution(귀중한 공헌). donation(기부)과 유의어.",
+  "syn": [
+   "donation(기부)",
+   "input(기여)",
+   "offering(헌금)"
+  ],
+  "anti": [
+   "withdrawal(인출)"
+  ],
+  "idiom": [
+   "make a contribution(기여하다)",
+   "a valuable contribution(귀중한 공헌)"
+  ],
+  "colloc": [
+   "a major contribution(주요 공헌)",
+   "a generous contribution(후한 기부)",
+   "make a contribution to(~에 기여하다)"
+  ],
+  "ex_add": "She made an important contribution to the project's success.  (contribution=기여)",
+  "ex_orig": "It is the claim of some objective German writers that a modicum of modesty would prove the most substantial contribution to Teutonic civilization.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2495",
+  "hw": "controversial",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "맞돌려 다투는 -> '논란이 많은·물의를 빚는'.",
+  "senses": [
+   "1) 논란이 많은·논쟁적인",
+   "2) 물의를 빚는",
+   "3) 의견이 분분한"
+  ],
+  "etym": "라틴어 controversus = contra(맞서) + vertere(돌리다)의 과거분사 -> '서로 등을 돌려 맞섬'. controversy(2496)와 한 가족. vertere(돌리다)는 convert(2500)·reverse·divert·version·anniversary·versus의 거대한 뿌리.",
+  "deriv": "contra(맞서) + vertere(돌리다) -> controversy(2496) -> 'controversial'. '서로 등 돌려 맞서는 -> 논란이 많은(a controversial decision)' -> '물의를 빚는(a controversial figure, 논란의 인물)'. 한국 학습자 핵심: vertere(돌리다) 대가족 — convert(2500)·reverse·divert·version·anniversary·versus·diverse·universe·advertise! highly controversial(매우 논란이 많은), deeply controversial(대단히 논쟁적인), prove controversial(논란을 빚다). debatable(논쟁의 여지가 있는)과 유의어. 반대 uncontroversial(이론의 여지가 없는).",
+  "syn": [
+   "contentious(논쟁적인)",
+   "debatable(논쟁의 여지가 있는)",
+   "divisive(분열을 일으키는)"
+  ],
+  "anti": [
+   "uncontroversial(논란 없는)",
+   "accepted(받아들여진)",
+   "uncontested(이론 없는)"
+  ],
+  "idiom": [
+   "a controversial figure(논란의 인물)",
+   "prove controversial(논란이 되다)"
+  ],
+  "colloc": [
+   "highly controversial(매우 논쟁적인)",
+   "a controversial decision(논란의 결정)",
+   "a controversial issue(논쟁적 사안)"
+  ],
+  "ex_add": "The new tax law remains deeply controversial.  (controversial=논란이 많은)",
+  "ex_orig": "He was gifted, brilliant, and one of the great controversial figures of our time in theatre, which is a virtue and not a vice at all.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "2496",
+  "hw": "controversy",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "맞돌려 다툼 -> '논란·논쟁'.",
+  "senses": [
+   "1) 논란·논쟁",
+   "2) (공개적) 물의·시비",
+   "3) 의견 충돌"
+  ],
+  "etym": "라틴어 controversia = contra(맞서) + vertere(돌리다) -> '서로 등을 돌려 맞섬'. controversial(2495)·convert(2500)와 한 vertere 가족. '의견이 정반대로 갈려 부딪침'이 핵심.",
+  "deriv": "contra(맞서) + vertere(돌리다) -> 'controversy'. '서로 등 돌림 -> 논란·논쟁(spark controversy, 논란을 일으키다)' -> '공개적 물의'. 한국 학습자 핵심: vertere(돌리다) 대가족 — convert(2500)·reverse·divert·version·controversial(2495)·versus·universe·diverse! 강세 주의(CONtroversy / 영국식 conTROVersy 둘 다). arouse/spark/cause controversy(논란을 불러일으키다), a storm of controversy(거센 논란), surrounded by controversy(논란에 휩싸인). debate(논쟁)·dispute(분쟁)와 유의어.",
+  "syn": [
+   "debate(논쟁)",
+   "dispute(분쟁)",
+   "argument(언쟁)"
+  ],
+  "anti": [
+   "agreement(합의)",
+   "consensus(일치)",
+   "harmony(조화)"
+  ],
+  "idiom": [
+   "spark controversy(논란을 일으키다)",
+   "a storm of controversy(거센 논란)"
+  ],
+  "colloc": [
+   "cause controversy(논란을 일으키다)",
+   "political controversy(정치적 논란)",
+   "surrounded by controversy(논란에 휩싸인)"
+  ],
+  "ex_add": "The decision caused great controversy among the staff.  (controversy=논란)",
+  "ex_orig": "Any discussion of the ethical merits of this great controversy must start with the assumption that there is an international morality.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2497",
+  "hw": "convenience",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "딱 맞게 옴 -> '편리·편의 (시설)'.",
+  "senses": [
+   "1) 편리·편의",
+   "2) 편의 시설·편리한 것",
+   "3) (at one's ~) 형편 닿는 대로"
+  ],
+  "etym": "라틴어 convenientia = com-(함께) + venire(오다) -> '딱 들어맞게 옴'. venire(오다)는 영어의 거대한 뿌리 — convene(소집하다)·venue(장소)·avenue(길)·event(일어난 일)·invent(생각해 내다)·prevent(막다)·intervene(개입하다)·revenue(수입)·souvenir(기념품)가 모두 venire 가족!",
+  "deriv": "com-(함께) + venire(오다) -> convenient -> 'convenience'. '내게 맞게 옴 -> 편리(for convenience, 편의상)' -> '편한 것·시설(modern conveniences)' -> 'at your convenience(편하실 때)'. 한국 학습자 핵심: venire(오다) 대가족 — convene·venue·avenue·event·invent·prevent·intervene·revenue·souvenir·convention(2498)! a convenience store(편의점), at your earliest convenience(되도록 빨리), a marriage of convenience(편의상의 결혼). 반대 inconvenience(불편).",
+  "syn": [
+   "ease(편의)",
+   "comfort(편안함)",
+   "handiness(편리함)"
+  ],
+  "anti": [
+   "inconvenience(불편)",
+   "hassle(번거로움)"
+  ],
+  "idiom": [
+   "at your convenience(편하실 때)",
+   "a convenience store(편의점)",
+   "a marriage of convenience(편의상의 결혼)"
+  ],
+  "colloc": [
+   "for convenience(편의상)",
+   "modern conveniences(현대적 편의 시설)",
+   "added convenience(추가적 편의)"
+  ],
+  "ex_add": "For your convenience, the store is open 24 hours.  (convenience=편의)",
+  "ex_orig": "The formal declaration of war became then a mere matter of political and military convenience, and has no bearing on the moral issue of the case.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2498",
+  "hw": "convention",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "함께 모여 옴 -> '대회·총회 / 관습 / 협약'.",
+  "senses": [
+   "1) (대규모) 대회·총회",
+   "2) 관습·관례",
+   "3) (국가 간) 협약·조약"
+  ],
+  "etym": "라틴어 conventio = com-(함께) + venire(오다) -> '함께 모임 / 합의'. convenience(2497)·convene과 한 venire 가족. '함께 모여 정한 것'에서 '관습·협약'이 나왔다.",
+  "deriv": "com-(함께) + venire(오다) -> 'convention'. '함께 모임 -> 대회·총회(a party convention)' -> '함께 정해 굳어진 것 -> 관습(social conventions)' -> '함께 맺은 것 -> 협약(the Geneva Convention)'. 한국 학습자 핵심: venire(오다) 대가족 — convene·venue·event·invent·prevent·intervene·convenience(2497)·conventional(2499)! by convention(관례상), defy convention(관습을 거스르다), a convention center(컨벤션 센터). custom(관습)·tradition(전통)·agreement(협약)과 유의어.",
+  "syn": [
+   "custom(관습)",
+   "tradition(전통)",
+   "conference(대회)"
+  ],
+  "anti": [
+   "rebellion(거역)",
+   "innovation(혁신)"
+  ],
+  "idiom": [
+   "by convention(관례상)",
+   "defy convention(관습을 깨다)"
+  ],
+  "colloc": [
+   "social convention(사회적 관습)",
+   "a party convention(정당 전당대회)",
+   "an international convention(국제 협약)"
+  ],
+  "ex_add": "By convention, the host pays for the meal.  (convention=관습)",
+  "ex_orig": "_The address printed below was delivered by President Hibben at the opening of the Laymen's Efficiency Convention in New York City, Oct.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2499",
+  "hw": "conventional",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "관습대로의 -> '전통적인·재래식의·틀에 박힌'.",
+  "senses": [
+   "1) 전통적인·관습적인",
+   "2) 재래식의(첨단·대체식이 아닌)",
+   "3) 틀에 박힌·진부한"
+  ],
+  "etym": "convention(관습, 2498) + -al. com-(함께) + venire(오다) 뿌리. '함께 정해 굳어진(convention) 대로'가 핵심. convene·convenience(2497)와 한 venire 가족.",
+  "deriv": "convention(2498) -> 'conventional'. '관습대로의 -> 전통적인(conventional methods)' -> '재래식의(conventional weapons 재래식 무기, vs nuclear)' -> '틀에 박힌(conventional thinking)'. 한국 학습자 핵심: conventional medicine(현대 정통 의학, vs alternative 대체 의학), conventional wisdom(일반적 통념), conventional weapons(재래식 무기), unconventional(색다른). venire 가족(convention 2498·convenience 2497·convene). traditional(전통적인)·orthodox(정통의)와 유의어. 반대 unconventional·innovative(혁신적인).",
+  "syn": [
+   "traditional(전통적인)",
+   "orthodox(정통의)",
+   "standard(표준적인)"
+  ],
+  "anti": [
+   "unconventional(색다른)",
+   "innovative(혁신적인)",
+   "radical(급진적인)"
+  ],
+  "idiom": [
+   "conventional wisdom(일반적 통념)",
+   "conventional weapons(재래식 무기)"
+  ],
+  "colloc": [
+   "conventional methods(전통적 방법)",
+   "conventional medicine(정통 의학)",
+   "a conventional approach(관습적 접근)"
+  ],
+  "ex_add": "She was bored by his conventional ideas about marriage.  (conventional=틀에 박힌)",
+  "ex_orig": "Conventional diplomacy and conventional statesmanship have very evidently broken down in Europe.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2500",
+  "hw": "convert",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "방향을 돌리다 -> '전환하다·개종시키다 / 개종자'.",
+  "senses": [
+   "1) 전환하다·바꾸다(convert A into B)",
+   "2) 개종(전향)시키다·개종하다",
+   "3) 개종자·전향자(명사)"
+  ],
+  "etym": "라틴어 convertere = com-(완전히) + vertere(돌리다) -> '방향을 완전히 돌리다'. vertere(돌리다)는 거대한 뿌리 — controversy(2496)·reverse(뒤집다)·divert(딴 데로 돌리다)·version(판)·anniversary(해마다 돌아옴)·versus(~대)·universe(하나로 돈 것)가 모두 vertere 가족!",
+  "deriv": "com-(완전히) + vertere(돌리다) -> 'convert'. '방향을 돌리다 -> 전환하다(convert dollars into euros)' -> '신앙을 돌리다 -> 개종시키다(convert to Islam)' -> 명사 '개종자'. 한국 학습자 핵심: vertere(돌리다) 대가족 — convert·reverse·divert·version·controversy(2496)·anniversary·versus·universe·diverse·advertise! 명사·동사 강세 다름(CONvert 개종자 / conVERT 전환하다). convert A into/to B(A를 B로 바꾸다), a convertible(오픈카). change(바꾸다)·transform(변형하다)과 유의어.",
+  "syn": [
+   "transform(변형하다)",
+   "change(바꾸다)",
+   "adapt(개조하다)"
+  ],
+  "anti": [
+   "maintain(유지하다)",
+   "preserve(보존하다)"
+  ],
+  "idiom": [
+   "convert into(~으로 전환하다)",
+   "preach to the converted(이미 동의하는 사람에게 설교하다)"
+  ],
+  "colloc": [
+   "convert into cash(현금으로 바꾸다)",
+   "convert to Islam(이슬람교로 개종하다)",
+   "convert energy(에너지를 전환하다)"
+  ],
+  "ex_add": "They converted the old barn into a comfortable house.  (convert=개조하다)",
+  "ex_orig": "Well, if I do change my views and am converted to his viewpoint, I certainly will retract my statements.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2501",
+  "hw": "convey",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "길로 실어 보내다 -> '전달하다·나르다'.",
+  "senses": [
+   "1) (생각·감정을) 전달하다·전하다",
+   "2) 실어 나르다·운반하다",
+   "3) (법) 양도하다"
+  ],
+  "etym": "라틴어 conviare = com-(함께) + via(길) -> '길(via)로 함께 실어 보내다'. via(길)는 voyage(항해)·via(~를 경유하여)·deviate(벗어나다)·obvious(길목에 있는->명백한)·previous(앞서간)·trivial(세 갈래 길의->하찮은)의 뿌리.",
+  "deriv": "com-(함께) + via(길) -> 'convey'. '실어 나르다 -> 운반하다(a pipe conveys water)' -> 추상화 '(뜻을) 실어 보내다 -> 전달하다(convey a message/feeling)' -> 법률 '양도하다'. 한국 학습자 핵심: via(길) 가족 — voyage·via·deviate(일탈하다)·obvious(명백한)·previous(이전의)·trivial(사소한)! convey information(정보를 전달하다), convey one's gratitude(감사를 전하다), hard to convey(전달하기 어려운), a conveyor belt(컨베이어 벨트). communicate(전달하다)·transmit(전송하다)과 유의어.",
+  "syn": [
+   "communicate(전달하다)",
+   "transmit(전하다)",
+   "transport(나르다)"
+  ],
+  "anti": [
+   "withhold(전하지 않다)"
+  ],
+  "idiom": [
+   "a conveyor belt(컨베이어 벨트)",
+   "convey a sense of(~한 느낌을 전하다)"
+  ],
+  "colloc": [
+   "convey a message(메시지를 전하다)",
+   "convey information(정보를 전달하다)",
+   "convey meaning(의미를 전달하다)"
+  ],
+  "ex_add": "Words alone cannot convey how grateful I am.  (convey=전달하다)",
+  "ex_orig": "In the early part of the day very heavy casualties were suffered in the boats which conveyed the troops from the destroyers, tugs, and transports to the beach.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2502",
+  "hw": "convinced",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "완전히 설득당해 '확신하는'.",
+  "senses": [
+   "1) 확신하는·납득한",
+   "2) (신념이) 확고한",
+   "3) (be convinced that) ~을 굳게 믿는"
+  ],
+  "etym": "라틴어 convincere = com-(완전히) + vincere(이기다·정복하다) -> '논리로 완전히 굴복시킴'. vincere(이기다)는 victory(승리)·convince·convincing(2503)·invincible(무적의)·evince(드러내다)·evict(쫓아내다)·province(정복한 땅->속주)의 뿌리.",
+  "deriv": "com-(완전히) + vincere(이기다) -> convince -> 'convinced'. '설득에 완전히 굴복한 -> 확신하는(be convinced of/that)' -> '신념이 확고한(a convinced vegetarian, 확고한 채식주의자)'. 한국 학습자 핵심: vincere(이기다) 가족 — victory·victor·convince·convincing(2503)·invincible(무적의)·evict(퇴거시키다)·province! be convinced that S+V(~을 확신하다), be convinced of(~을 확신하다), fully convinced(완전히 납득한). convinced(사람이 확신한)와 convincing(2503, 설득력 있는)을 구별! certain(확신하는)·sure(확신하는)와 유의어.",
+  "syn": [
+   "certain(확신하는)",
+   "sure(확신하는)",
+   "positive(확신하는)"
+  ],
+  "anti": [
+   "doubtful(의심스러운)",
+   "unconvinced(납득 못 한)",
+   "skeptical(회의적인)"
+  ],
+  "idiom": [
+   "be convinced that(~을 확신하다)",
+   "a convinced believer(확고한 신봉자)"
+  ],
+  "colloc": [
+   "firmly convinced(굳게 확신하는)",
+   "be convinced of(~을 확신하다)",
+   "remain convinced(여전히 확신하다)"
+  ],
+  "ex_add": "I'm convinced that he is telling the truth.  (be convinced that=~을 확신하다)",
+  "ex_orig": "Reason has convinced Americans that the supreme principles and highest interests of America will be best safeguarded if the Allies win.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2503",
+  "hw": "convincing",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "설득력 있는 -> '납득시키는·그럴듯한'.",
+  "senses": [
+   "1) 설득력 있는·납득이 가는",
+   "2) (증거가) 확실한",
+   "3) (승리가) 완승의·압도적인"
+  ],
+  "etym": "convince(확신시키다, 2502) + -ing. com-(완전히) + vincere(이기다) 뿌리. '상대를 논리로 이겨 설득하는' 힘이 핵심. victory·invincible·convinced(2502)와 한 vincere 가족.",
+  "deriv": "com-(완전히) + vincere(이기다) -> convince -> 'convincing(설득력 있는)'. '납득시키는(a convincing argument)' -> '(증거가) 확실한(convincing evidence)' -> '압도적인(a convincing win, 완승)'. 한국 학습자 핵심: convincing(설득력 있는, 사물 주어)과 convinced(2502, 확신하는, 사람 주어)를 구별 — a convincing story / I am convinced! vincere 가족 — victory·convince·invincible·evict·province! highly convincing(매우 설득력 있는), a convincing performance(설득력 있는 연기), less than convincing(별로 설득력이 없는). persuasive(설득력 있는)·compelling(강력한)과 유의어.",
+  "syn": [
+   "persuasive(설득력 있는)",
+   "compelling(강력한)",
+   "credible(믿을 만한)"
+  ],
+  "anti": [
+   "unconvincing(설득력 없는)",
+   "implausible(그럴듯하지 않은)",
+   "weak(빈약한)"
+  ],
+  "idiom": [
+   "a convincing win(완승)",
+   "less than convincing(별로 설득력 없는)"
+  ],
+  "colloc": [
+   "a convincing argument(설득력 있는 주장)",
+   "convincing evidence(확실한 증거)",
+   "highly convincing(매우 설득력 있는)"
+  ],
+  "ex_add": "She gave a convincing explanation for her absence.  (convincing=설득력 있는)",
+  "ex_orig": "No space need be taken in convincing any reasonable man that this Austrian ultimatum to Servia was brutal in its tone and unreasonable in its demands.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2504",
+  "hw": "cop",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "(구어) '경찰관' / 붙잡다·당하다.",
+  "senses": [
+   "1) (구어) 경찰관·순경",
+   "2) (cop) 붙잡다·당하다",
+   "3) (cop out) 발뺌하다"
+  ],
+  "etym": "동사 cop(붙잡다)에서 -> '붙잡는 사람(copper)'을 줄인 말이라는 설이 유력. cop은 라틴어 capere(잡다)에서 고대 프랑스어 caper(붙잡다)를 거쳐 왔다고 본다 — capable(2397)·capture(2399)와 먼 친척.",
+  "deriv": "capere(잡다) -> cop(붙잡다) -> '붙잡는 사람 -> 경찰(call the cops)'. 동사 '(벌·욕을) 당하다(cop the blame)' -> 'cop out(책임을 회피하다)·cop a plea(형량 거래를 하다)'. 한국 학습자 핵심: cop은 구어체 — 공식 문서·격식에서는 police officer를 쓴다! a traffic cop(교통경찰), a cop show(경찰 드라마), play good cop, bad cop(어르고 윽박지르며 다루다), a cop-out(발뺌·핑계). police officer(경찰관)와 유의어(격식 차이).",
+  "syn": [
+   "police officer(경찰관)",
+   "officer(순경)",
+   "policeman(경찰)"
+  ],
+  "anti": [
+   "criminal(범죄자)",
+   "crook(악당)"
+  ],
+  "idiom": [
+   "cop out(발뺌하다)",
+   "good cop, bad cop(완급 조절 심문)",
+   "a cop-out(핑계)"
+  ],
+  "colloc": [
+   "call the cops(경찰을 부르다)",
+   "a traffic cop(교통경찰)",
+   "an undercover cop(잠복 경찰)"
+  ],
+  "ex_add": "Someone called the cops when the fight broke out.  (cop=경찰)",
+  "ex_orig": "City was influenced by bands such as and Cop Shoot Cop, and The New Black's influences were Meshuggah, and \" more traditional metal \" like Metallica.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "2505",
+  "hw": "cope",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "맞서 쳐내다 -> '대처하다·잘 헤쳐 나가다'.",
+  "senses": [
+   "1) (어려움에) 대처하다·감당하다(cope with)",
+   "2) 잘 견뎌 내다·헤쳐 나가다",
+   "3) (문제를) 처리하다"
+  ],
+  "etym": "고대 프랑스어 couper/colper(치다·일격을 가하다) <- 라틴어 colaphus(주먹질). 원래 '맞붙어 치고받다'에서 '맞서 감당하다'로 뜻이 부드러워졌다. '버겁지만 맞선다'가 핵심.",
+  "deriv": "colaphus(타격) -> couper(치다) -> 'cope'. '맞붙어 치다 -> 맞서 감당하다·대처하다(cope with stress)'. 한국 학습자 핵심: cope는 거의 항상 'cope with + 어려움' 형태로 쓴다(cope with pressure/loss/change)! can't cope(감당이 안 되다), a coping mechanism/strategy(대처 방식·심리 기제), barely cope(간신히 버티다), learn to cope(적응하다). deal with(다루다)·manage(해내다)·handle(처리하다)과 유의어 — cope는 '힘들지만 버텨낸다'는 어감.",
+  "syn": [
+   "deal with(대처하다)",
+   "manage(해내다)",
+   "handle(감당하다)"
+  ],
+  "anti": [
+   "fail(실패하다)",
+   "collapse(무너지다)",
+   "give up(포기하다)"
+  ],
+  "idiom": [
+   "cope with(~에 대처하다)",
+   "a coping mechanism(대처 기제)",
+   "can't cope(감당이 안 되다)"
+  ],
+  "colloc": [
+   "cope with stress(스트레스에 대처하다)",
+   "cope with pressure(압박을 견디다)",
+   "struggle to cope(버티느라 애쓰다)"
+  ],
+  "ex_add": "She found it hard to cope with the loss of her job.  (cope with=~에 대처하다)",
+  "ex_orig": "In Belgian or in Russian lands afar, Beneath the smoke-cloud cope of shrouded Heaven Where hissing shot and shell and War's red levin Spread far and wide the canopy of War!",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2506",
+  "hw": "core",
+  "pos": "n., adj.",
+  "cefr": "B2",
+  "core": "한가운데 '핵심·중심부'.",
+  "senses": [
+   "1) (과일의) 속·심",
+   "2) 핵심·중심부·노른자",
+   "3) 핵심적인(형용사) / (지구) 핵"
+  ],
+  "etym": "어원이 다소 불확실하나 라틴어 cor(심장)에서 왔다는 설이 유력하다. '한가운데 가장 깊은 부분'이 핵심으로, courage(용기, 2512)·cordial(다정한)·record(다시 마음에 새김)와 같은 cor(심장) 갈래로 본다.",
+  "deriv": "cor(심장·중심) -> 'core'. '사과의 속(an apple core)' -> 비유 '핵심·중심부(the core of the problem, 문제의 핵심)' -> 형용사 '핵심적인(core values, 핵심 가치)' / 지구 '핵(the Earth's core)'. 한국 학습자 핵심: cor(심장) 갈래 — courage(2512)·cordial·record·accord·core! to the core(속속들이, rotten to the core 철저히 썩은), core competence(핵심 역량), a hard core(골수분자), the nuclear core(원자로 노심). center(중심)·heart(핵심)·essence(본질)와 유의어. 반대 surface(표면)·periphery(주변).",
+  "syn": [
+   "center(중심)",
+   "heart(핵심)",
+   "essence(본질)"
+  ],
+  "anti": [
+   "surface(표면)",
+   "periphery(주변부)",
+   "edge(가장자리)"
+  ],
+  "idiom": [
+   "to the core(속속들이)",
+   "core values(핵심 가치)",
+   "a hard core(골수분자)"
+  ],
+  "colloc": [
+   "the core of the problem(문제의 핵심)",
+   "core values(핵심 가치)",
+   "at the core(중심에)"
+  ],
+  "ex_add": "Honesty lies at the core of any good friendship.  (core=핵심)",
+  "ex_orig": "In massive stars, heavier elements can also be burned in a contracting core through the neon burning process and oxygen burning process.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "2507",
+  "hw": "corporate",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "한 몸으로 묶인 -> '기업의·법인의·공동의'.",
+  "senses": [
+   "1) 기업의·회사의",
+   "2) 법인의",
+   "3) 공동의·단체의"
+  ],
+  "etym": "라틴어 corporare(한 몸으로 만들다) <- corpus(몸·신체). '여럿을 한 몸(corpus)으로 묶음'이 핵심. corpus(몸)는 corporation(2508)·corpse(시체)·corps(군단)·corporal(육체의)·incorporate(통합하다)의 뿌리.",
+  "deriv": "corpus(몸) -> corporate(한 몸이 된). '기업의·회사의(corporate culture, 기업 문화)' -> '법인의(corporate tax, 법인세)' -> '공동의(corporate responsibility, 공동 책임)'. 한국 학습자 핵심: corpus(몸) 가족 — corporation(2508)·corpse(시신)·corps(군단, p 묵음 '코어')·corporal(체벌의)·incorporate(포함하다)! corporate identity(기업 이미지), the corporate world(기업계), corporate social responsibility(CSR, 기업의 사회적 책임). 발음 '코퍼럿'.",
+  "syn": [
+   "business(기업의)",
+   "commercial(상업의)",
+   "collective(공동의)"
+  ],
+  "anti": [
+   "individual(개인의)",
+   "private(사적인)"
+  ],
+  "idiom": [
+   "corporate culture(기업 문화)",
+   "the corporate ladder(승진 사다리)",
+   "corporate identity(기업 이미지)"
+  ],
+  "colloc": [
+   "corporate culture(기업 문화)",
+   "corporate tax(법인세)",
+   "a corporate executive(기업 임원)"
+  ],
+  "ex_add": "The company is trying to improve its corporate image.  (corporate=기업의)",
+  "ex_orig": "After the 2001 advertisements, Diageo, the corporate owners of Guinness, decided to pursue a more pan - European marketing strategy.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "2508",
+  "hw": "corporation",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "한 몸으로 묶인 단체 -> '(대)기업·법인'.",
+  "senses": [
+   "1) (대규모) 기업·회사",
+   "2) 법인",
+   "3) (영) 지방 자치체·공사(公社)"
+  ],
+  "etym": "라틴어 corporatio(단체화) <- corpus(몸). '여러 사람이 법적으로 한 몸(corpus)이 된 조직'이 핵심. corporate(2507)·corpse·corps와 한 corpus 가족.",
+  "deriv": "corpus(몸) -> corporate(2507) -> 'corporation(한 몸이 된 조직)'. '대기업(a multinational corporation, 다국적 기업)' -> '법인' -> (영) '공사(the BBC=British Broadcasting Corporation)'. 한국 학습자 핵심: corpus(몸) 가족 — corporate(2507)·corpse(시체)·corps(군단)·incorporate·corporal! a giant corporation(거대 기업), Corp.(약어), a public corporation(공기업). 미국 회사명의 'Inc.(Incorporated)'도 같은 corpus 뿌리! company(회사)·firm(회사)·enterprise(기업)와 유의어.",
+  "syn": [
+   "company(회사)",
+   "firm(회사)",
+   "enterprise(기업)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a multinational corporation(다국적 기업)",
+   "a public corporation(공기업)"
+  ],
+  "colloc": [
+   "a giant corporation(거대 기업)",
+   "a multinational corporation(다국적 기업)",
+   "run a corporation(기업을 운영하다)"
+  ],
+  "ex_add": "He works for a huge multinational corporation.  (corporation=기업)",
+  "ex_orig": "Burgess's whole moral and mental attitude in this case seems to be that of a corporation lawyer getting a trust out of a hole under the Statute of Limitations or by some reorganizing dodge.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2509",
+  "hw": "corridor",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "달려 지나는 '복도·통로·회랑'.",
+  "senses": [
+   "1) 복도·통로",
+   "2) (지리적) 회랑 지대·길목",
+   "3) (the corridors of power) 권력의 중심부"
+  ],
+  "etym": "이탈리아어 corridore(달리는 길) <- correre <- 라틴어 currere(달리다). '사람이 죽 달려 지나는 길'이 핵심. currere(달리다)는 current(흐름, 2536)·course(과정)·occur(일어나다)·recur(재발하다)·courier(택배원)·curriculum(2537)·excursion(소풍)의 뿌리.",
+  "deriv": "currere(달리다) -> corridore -> 'corridor(달리는 길)'. '건물의 복도(walk down the corridor)' -> 지리 '회랑 지대(a transport corridor)' -> 'the corridors of power(권력의 막후, 정부 고위층)'. 한국 학습자 핵심: currere(달리다) 대가족 — current(2536)·course·occur·recur·courier·curriculum(2537)·excursion·concur·incur! a long corridor(긴 복도), a hospital corridor(병원 복도), an air corridor(항공로). hallway(복도)·passage(통로)와 유의어.",
+  "syn": [
+   "hallway(복도)",
+   "passage(통로)",
+   "aisle(통로)"
+  ],
+  "anti": [],
+  "idiom": [
+   "the corridors of power(권력의 중심부)"
+  ],
+  "colloc": [
+   "a long corridor(긴 복도)",
+   "walk down the corridor(복도를 걷다)",
+   "a narrow corridor(좁은 통로)"
+  ],
+  "ex_add": "Her office is at the end of the corridor.  (corridor=복도)",
+  "ex_orig": "At several tables sat women, many with babies in arms, and children, while men were being served in one of the large corridors.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2510",
+  "hw": "council",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "함께 불러 모은 '협의회·의회'.",
+  "senses": [
+   "1) (지방) 의회·시의회",
+   "2) 협의회·심의회",
+   "3) 평의회·이사회"
+  ],
+  "etym": "라틴어 concilium(모임) = com-(함께) + calare(불러내다) -> '함께 불러 모음'. reconcile(화해시키다)·conciliate(달래다)가 같은 갈래. 한국 학습자가 자주 혼동하는 counsel(조언, consulere 뿌리)과는 어원이 다르다!",
+  "deriv": "com-(함께) + calare(부르다) -> concilium -> 'council(함께 모인 회의체)'. '시의회(the city council)' -> '협의회(the UN Security Council, 유엔 안전보장이사회)' -> '평의회'. 한국 학습자 핵심: council(협의회·의회, 명사)과 counsel(조언·변호인, consult 2487 뿌리)은 발음이 같고 뜻·철자가 달라 최고 빈출 혼동! a council member(의원), a town council(읍의회), a student council(학생회), a council estate(영 공영 주택 단지). committee(위원회, 2448)·board(이사회)와 유의어.",
+  "syn": [
+   "committee(위원회)",
+   "board(이사회)",
+   "assembly(의회)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a city council(시의회)",
+   "a student council(학생회)",
+   "a council of war(작전 회의)"
+  ],
+  "colloc": [
+   "a town council(읍의회)",
+   "a council member(의원)",
+   "the Security Council(안전보장이사회)"
+  ],
+  "ex_add": "The local council voted to build a new library.  (council=의회)",
+  "ex_orig": "Already, prior to the last Order in Council, the shipment of conditional contraband, especially foodstuffs, to Germany was practically impossible.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2511",
+  "hw": "county",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "행정 구역 '군(郡)·주(州)'.",
+  "senses": [
+   "1) (영) 주(州)·카운티",
+   "2) (미) 군(郡)",
+   "3) (the county) 군민·주민"
+  ],
+  "etym": "라틴어 comitatus(백작의 관할지) <- comes/comit-(동행자·백작). 옛날 '백작(count)이 다스리던 영지'가 county. comes(동행자)는 count(백작)·viscount(자작)·concomitant(수반하는)의 뿌리.",
+  "deriv": "comes(백작) -> comitatus -> 'county(백작령)'. (영) '주(Yorkshire 등)' / (미) 주(state) 아래 '군(郡)'. 한국 학습자 핵심: county(군·주, 행정 구역)와 country(나라/시골, 2... )를 철자·뜻에서 꼭 구별! a county council(주의회), county lines(영 마약 밀매망), the county fair(군민 축제). 미국 행정 단위: state(주) > county(군) > city/town(시·읍). nobleman count(백작)와 한 어원! district(구역)·region(지역)과 유의어.",
+  "syn": [
+   "district(구)",
+   "region(지역)",
+   "province(주)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a county fair(군민 축제)",
+   "the home counties(런던 주변 주들)"
+  ],
+  "colloc": [
+   "a county council(주의회)",
+   "a rural county(시골 군)",
+   "county lines(주 경계)"
+  ],
+  "ex_add": "Yorkshire is the largest county in England.  (county=주)",
+  "ex_orig": "Many of the peasants in the back counties hardly believed the war was a reality.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2512",
+  "hw": "courage",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "심장에서 나오는 '용기·담력'.",
+  "senses": [
+   "1) 용기·담력",
+   "2) 배짱·기개",
+   "3) (도덕적) 용기"
+  ],
+  "etym": "라틴어 cor(심장) -> 고대 프랑스어 corage(마음·용기) -> 'courage'. '심장(cor)에서 우러나는 기운'이 핵심. cor(심장)는 core(중심, 2506)·cordial(다정한)·record(마음에 새기다)·accord(마음을 맞춤)·encourage(용기를 북돋다)·discourage(낙담시키다)의 뿌리.",
+  "deriv": "cor(심장) -> corage -> 'courage'. '심장에서 나오는 힘 -> 용기·담력(show great courage)'. 한국 학습자 핵심: cor(심장) 가족 — core(2506)·cordial·record·accord·discord·encourage·discourage·courageous! Dutch courage(술김의 만용), have the courage to do(~할 용기를 내다), pluck up/summon courage(용기를 내다), courage of one's convictions(소신을 밀고 나갈 용기). bravery(용감함)·valor(용맹)와 유의어. 반대 cowardice(비겁).",
+  "syn": [
+   "bravery(용감함)",
+   "valor(용맹)",
+   "nerve(배짱)"
+  ],
+  "anti": [
+   "cowardice(비겁)",
+   "fear(두려움)",
+   "timidity(소심)"
+  ],
+  "idiom": [
+   "pluck up courage(용기를 내다)",
+   "Dutch courage(술김의 객기)",
+   "the courage of one's convictions(소신을 지킬 용기)"
+  ],
+  "colloc": [
+   "show courage(용기를 보이다)",
+   "great courage(대단한 용기)",
+   "take courage(용기를 내다)"
+  ],
+  "ex_add": "It took great courage to admit his mistake in public.  (courage=용기)",
+  "ex_orig": "For what is to love Poland but to love liberty, to feel a deep sympathy with misfortune and to admire courage and combative enthusiasm?",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2513",
+  "hw": "coverage",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "덮는 범위 -> '보도 / 보장 범위 / 도달 범위'.",
+  "senses": [
+   "1) (언론) 보도·취재",
+   "2) (보험) 보장 (범위)",
+   "3) (통신) 도달 범위·서비스 권역"
+  ],
+  "etym": "cover(덮다) + -age. cover는 라틴어 cooperire = co-(완전히) + operire(덮다). '덮어 미치는 정도'가 핵심. operire(덮다)는 cover·discover(덮개를 벗기다->발견하다)·recover(되덮다->회복하다)·overt(열린)의 뿌리.",
+  "deriv": "cooperire(덮다) -> cover -> 'coverage(덮는 범위)'. '언론이 덮어 다룸 -> 보도(media coverage, 언론 보도)' -> 보험이 '덮어 주는 범위 -> 보장(insurance coverage)' -> 신호가 '덮는 범위 -> 통신 권역(network coverage)'. 한국 학습자 핵심: operire(덮다) 가족 — cover·discover(발견하다)·recover(회복하다)·overt(공공연한)·covert(은밀한)! news coverage(뉴스 보도), live coverage(생중계), full coverage(전면 보장), extensive coverage(폭넓은 보도). reporting(보도)과 유의어.",
+  "syn": [
+   "reporting(보도)",
+   "protection(보장)",
+   "reach(도달 범위)"
+  ],
+  "anti": [
+   "blackout(보도 통제)"
+  ],
+  "idiom": [
+   "media coverage(언론 보도)",
+   "live coverage(생중계)",
+   "full coverage(전면 보장)"
+  ],
+  "colloc": [
+   "news coverage(뉴스 보도)",
+   "insurance coverage(보험 보장)",
+   "extensive coverage(폭넓은 취재)"
+  ],
+  "ex_add": "The election received extensive coverage in the press.  (coverage=보도)",
+  "ex_orig": "Demokraten's coverage of Gudbrandsdalen soon ended, and in southern Østerdalen a new labour newspaper, Arbeiderblad, was set up in 1915.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "2514",
+  "hw": "cowboy",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "소를 모는 '카우보이' / (영) 엉터리 업자.",
+  "senses": [
+   "1) 카우보이·목동",
+   "2) (영, 구어) 엉터리 업자·돌팔이",
+   "3) 무모하게 막 나가는 사람"
+  ],
+  "etym": "cow(소, 고대 영어 cu) + boy(소년). '소(cow) 떼를 모는 젊은이'가 글자 그대로의 뜻. 미국 서부 개척 시대의 목동에서 비롯됐다.",
+  "deriv": "cow(소) + boy(소년) -> 'cowboy'. '소 떼를 모는 목동(a rodeo cowboy)' -> 미국 서부의 상징 -> (영) 비유 '규정을 무시하는 엉터리 업자(cowboy builders, 날림 건축업자)'. 한국 학습자 핵심: 영국 영어에서 cowboy는 '엉터리·날림으로 일하는 업자'라는 부정적 뜻이 있다! a cowboy hat(카우보이 모자), play cowboys and Indians(서부극 놀이를 하다), a cowboy outfit(영 엉터리 회사). cattle(소 떼)·ranch(목장)와 함께 쓰인다.",
+  "syn": [
+   "herder(목동)",
+   "cowhand(목장 일꾼)"
+  ],
+  "anti": [],
+  "idiom": [
+   "cowboy builders(영, 날림 건축업자)",
+   "cowboys and Indians(서부극 놀이)"
+  ],
+  "colloc": [
+   "a cowboy hat(카우보이 모자)",
+   "a rodeo cowboy(로데오 카우보이)",
+   "the Wild West cowboy(서부의 카우보이)"
+  ],
+  "ex_add": "As a boy, he dreamed of becoming a cowboy.  (cowboy=카우보이)",
+  "ex_orig": "One night in New Mexico a cowboy sang to me, in typical cowboy music.",
+  "ex_src": "PROJECT GUTENBERG #21723"
+ },
+ {
+  "num": "2515",
+  "hw": "crack",
+  "pos": "v., n., adj.",
+  "cefr": "B2",
+  "core": "쩍 '금이 가다·깨다' / 탁 소리 / 갈라진 틈.",
+  "senses": [
+   "1) 금이 가다·갈라지다 / 깨뜨리다",
+   "2) 탁(쩍) 하는 소리 / 갈라진 틈",
+   "3) (문제를) 풀다 / 일류의(형용사)"
+  ],
+  "etym": "고대 영어 cracian(쩍 소리를 내다). 소리를 흉내 낸 의성어가 핵심으로, '쩍·탁' 하며 갈라지는 모습·소리를 함께 담는다.",
+  "deriv": "cracian(쩍 하다) -> 'crack'. '금이 가다·갈라지다(the glass cracked)' -> '탁 소리 / 갈라진 틈(a crack in the wall)' -> 비유 '문제를 깨다 -> 풀다(crack a code, 암호를 풀다)' / '일류의(a crack team, 정예 팀)'. 한국 학습자 핵심: crack a joke(농담을 던지다), crack down on(~을 엄중 단속하다), crack up(웃음을 터뜨리다/무너지다), at the crack of dawn(동틀 녘에), a fair crack of the whip(공정한 기회), get cracking(서둘러 시작하다). break(깨다)·split(쪼개다)과 유의어.",
+  "syn": [
+   "split(갈라지다)",
+   "snap(딱 부러지다)",
+   "fracture(균열)"
+  ],
+  "anti": [
+   "mend(고치다)",
+   "seal(봉하다)"
+  ],
+  "idiom": [
+   "crack down on(엄단하다)",
+   "crack up(웃음을 터뜨리다)",
+   "at the crack of dawn(동틀 녘에)",
+   "get cracking(서둘러 착수하다)"
+  ],
+  "colloc": [
+   "a crack in the wall(벽의 균열)",
+   "crack a code(암호를 풀다)",
+   "crack a joke(농담을 하다)"
+  ],
+  "ex_add": "A small crack appeared in the windshield.  (crack=균열)",
+  "ex_orig": "He is an awkward infant giant, The oak by the roots uptearing; He'll beat you till your backs are sore, And crack your crowns for daring.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2516",
+  "hw": "crash",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "쾅 '충돌·추락하다' / (시스템) 멈추다 / 폭락.",
+  "senses": [
+   "1) 충돌하다·추락하다 / 충돌·추락",
+   "2) (컴퓨터가) 갑자기 멈추다·다운되다",
+   "3) (시세가) 폭락하다 / 폭락"
+  ],
+  "etym": "중세 영어 crasshen(쾅 부서지다). '와장창 부딪는 소리'를 흉내 낸 의성어가 핵심. crack(2515)·smash와 같은 소리 계열 토박이말.",
+  "deriv": "crasshen(쾅 부서지다) -> 'crash'. '쾅 부딪다 -> 충돌·추락하다(the plane crashed)' -> 비유 '컴퓨터가 멈추다(my laptop crashed)' -> 시세가 '폭락하다(the market crashed)'. 한국 학습자 핵심: a car crash(자동차 충돌), a plane crash(비행기 추락), the stock market crash(주가 폭락), a crash course(속성 강좌), crash a party(불청객으로 끼어들다), crash out(곯아떨어지다). collide(충돌하다)·plummet(폭락하다)과 유의어. 의성어 crash-bang(쾅쾅).",
+  "syn": [
+   "collide(충돌하다)",
+   "smash(박살 나다)",
+   "plummet(폭락하다)"
+  ],
+  "anti": [
+   "soar(치솟다)",
+   "rise(오르다)"
+  ],
+  "idiom": [
+   "a crash course(속성 강좌)",
+   "crash a party(불청객으로 가다)",
+   "crash out(곯아떨어지다)"
+  ],
+  "colloc": [
+   "a car crash(자동차 사고)",
+   "a plane crash(비행기 추락)",
+   "a stock market crash(증시 폭락)"
+  ],
+  "ex_add": "The two cars crashed at the intersection.  (crash=충돌하다)",
+  "ex_orig": "They were all young men, whose laughter and jokes contrasted grimly with the terrible howl of the guns and the crash of the projectiles which were still falling in the town.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2517",
+  "hw": "creation",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "만들어 냄 -> '창조·창출·창작물'.",
+  "senses": [
+   "1) 창조·창출·만들어 냄",
+   "2) 창작물·작품",
+   "3) (the Creation) 천지창조"
+  ],
+  "etym": "라틴어 creare(낳다·만들어 내다)의 명사형 creatio. '없던 것을 새로 만들어 냄'이 핵심. creare는 create(창조하다)·creative(창의적인)·creativity(2518)·creature(2519)·recreation(휴양)·procreate(번식하다)의 뿌리.",
+  "deriv": "creare(만들어 내다) -> 'creation'. '창조·창출(job creation, 일자리 창출)' -> '창작물(her latest creation, 그녀의 최신 작품)' -> '천지창조'. 한국 학습자 핵심: creare(만들다) 가족 — create·creative·creativity(2518)·creature(2519)·recreation(레크리에이션=다시 만들어 냄=기분 전환)·procreate! the creation of(~의 창출), wealth creation(부의 창출), a work of creation(창작품). production(생산)과 유의어. 반대 destruction(파괴).",
+  "syn": [
+   "formation(형성)",
+   "production(생산)",
+   "invention(발명)"
+  ],
+  "anti": [
+   "destruction(파괴)",
+   "elimination(제거)"
+  ],
+  "idiom": [
+   "job creation(일자리 창출)",
+   "the creation of(~의 창출)"
+  ],
+  "colloc": [
+   "job creation(일자리 창출)",
+   "wealth creation(부의 창출)",
+   "the creation of(~의 형성)"
+  ],
+  "ex_add": "The new policy focuses on job creation.  (creation=창출)",
+  "ex_orig": "We hoped that the creation of a wonderful African empire might in the long run soothe French national feeling.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2518",
+  "hw": "creativity",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "새로 만들어 내는 '창의력·독창성'.",
+  "senses": [
+   "1) 창의력·독창성",
+   "2) 창조성·창작력",
+   "3) 기발함"
+  ],
+  "etym": "create(창조하다) -> creative(창의적인) -> '+ -ity'. 라틴어 creare(만들어 내다) 뿌리. '없던 것을 떠올려 만들어 내는 힘'이 핵심. creation(2517)·creature(2519)와 한 가족.",
+  "deriv": "creare(만들다) -> creative -> 'creativity'. '창의력·독창성(encourage creativity, 창의력을 북돋다)' -> '창작력'. 한국 학습자 핵심: creativity(창의력, 추상 능력)와 creation(2517, 창조 행위·창작물)을 구별! creare 가족 — create·creative·creation(2517)·creature(2519)·recreation·procreate! foster/stimulate creativity(창의력을 길러 주다/자극하다), artistic creativity(예술적 창의성), boundless creativity(무한한 창의력). originality(독창성)·imagination(상상력)과 유의어.",
+  "syn": [
+   "originality(독창성)",
+   "imagination(상상력)",
+   "inventiveness(창의성)"
+  ],
+  "anti": [
+   "conformity(획일성)",
+   "dullness(둔함)"
+  ],
+  "idiom": [
+   "foster creativity(창의력을 기르다)",
+   "stifle creativity(창의력을 억누르다)"
+  ],
+  "colloc": [
+   "encourage creativity(창의력을 북돋다)",
+   "artistic creativity(예술적 창의성)",
+   "boundless creativity(무한한 창의력)"
+  ],
+  "ex_add": "The job gives her plenty of scope for creativity.  (creativity=창의력)",
+  "ex_orig": "The rest is about how well technology, creativity, imagination and innovation are to present what is an eye - pleasing experience for viewers.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "2519",
+  "hw": "creature",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "만들어진 것 -> '생물·동물 / (~한) 사람'.",
+  "senses": [
+   "1) 생물·동물",
+   "2) (애정·연민의) ~한 사람·것",
+   "3) (창조된) 피조물"
+  ],
+  "etym": "라틴어 creatura(피조물) <- creare(만들어 내다). '창조주가 만들어 낸 것'이 핵심으로, 사람·동물 모두를 가리킨다. creation(2517)·creativity(2518)·create와 한 creare 가족.",
+  "deriv": "creare(만들다) -> creatura -> 'creature(만들어진 것)'. '생물·동물(living creatures)' -> 애정·연민조로 '~한 사람(the poor creature, 가엾은 것)' -> 종교 '피조물'. 한국 학습자 핵심: creare(만들다) 가족 — create·creation(2517)·creativity(2518)·recreation·procreate! a creature of habit(습관의 동물=늘 똑같이 사는 사람), creature comforts(생활의 편의), a sea creature(바다 생물), a mythical creature(신화 속 생물). being(존재)·animal(동물)과 유의어.",
+  "syn": [
+   "being(생물)",
+   "animal(동물)",
+   "organism(생명체)"
+  ],
+  "anti": [
+   "creator(창조자)"
+  ],
+  "idiom": [
+   "a creature of habit(습관에 매인 사람)",
+   "creature comforts(생활의 편의)"
+  ],
+  "colloc": [
+   "living creatures(살아 있는 생물)",
+   "a sea creature(바다 생물)",
+   "a strange creature(이상한 생물)"
+  ],
+  "ex_add": "Whales are among the largest creatures on Earth.  (creature=생물)",
+  "ex_orig": "I hope nobody will get the impression that I think we are a nation of angels under a Government of earthy and primeval creatures.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2520",
+  "hw": "credit",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "믿음 -> '신용·외상 / 공로·인정 / 학점'.",
+  "senses": [
+   "1) 신용·외상 거래·융자",
+   "2) 공로·인정·칭찬",
+   "3) (학교) 학점 / (the credits) 출연진 자막"
+  ],
+  "etym": "라틴어 credere(믿다)의 명사형 creditum(맡긴 것). '상대를 믿고 맡김'이 핵심. credere(믿다)는 credible(믿을 만한)·incredible(믿기 힘든)·credential(신임장)·creed(신조)·credulous(잘 속는)·accredit(인정하다)의 뿌리.",
+  "deriv": "credere(믿다) -> creditum -> 'credit'. '믿고 빌려줌 -> 신용·외상(buy on credit, 외상으로 사다)' -> '믿어 주는 공 -> 공로·인정(take the credit, 공을 차지하다)' -> 학교 '학점' / 영화 '엔딩 크레디트'. 한국 학습자 핵심: credere(믿다) 가족 — credible·incredible·credential·creed·credulous·credit card! give sb credit for(~을 인정해 주다), to one's credit(~에게 명예롭게도), a credit to(~의 자랑거리), credit sb with(~의 공으로 돌리다). 반대 debit(차변)·discredit(불신).",
+  "syn": [
+   "recognition(인정)",
+   "trust(신용)",
+   "acclaim(칭찬)"
+  ],
+  "anti": [
+   "debit(차변)",
+   "blame(비난)",
+   "discredit(불신)"
+  ],
+  "idiom": [
+   "take the credit(공을 차지하다)",
+   "give credit(공을 인정하다)",
+   "to one's credit(명예롭게도)",
+   "a credit to(~의 자랑)"
+  ],
+  "colloc": [
+   "a credit card(신용 카드)",
+   "take the credit(공로를 차지하다)",
+   "buy on credit(외상으로 사다)"
+  ],
+  "ex_add": "She deserves credit for finishing the project on time.  (credit=공로)",
+  "ex_orig": "No one knows--only those that have seen us could credit such a sight, and if I live for years may I never see such a sight again.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2521",
+  "hw": "crew",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "함께 일하는 '승무원·팀·반'.",
+  "senses": [
+   "1) (배·비행기) 승무원·선원",
+   "2) (촬영·작업) 팀·반",
+   "3) (구어) 패거리·무리"
+  ],
+  "etym": "고대 프랑스어 creue(증원·보충병) <- 라틴어 crescere(자라다·불어나다). '병력을 불린 증원대'에서 '함께 일하는 무리'로. crescere(자라다)는 increase·decrease·crescent(초승달)·concrete(2465)·recruit(신병)의 뿌리.",
+  "deriv": "crescere(불어나다) -> creue(증원대) -> 'crew'. '배의 승무원(the ship's crew)' -> '작업 팀(a film crew, 촬영팀)' -> 구어 '패거리'. 한국 학습자 핵심: crescere(자라다) 가족 — increase·decrease·crescent·concrete(2465)·recruit·crew! cabin crew(객실 승무원), a ground crew(지상 근무자), a camera crew(촬영팀), a crew cut(상고머리), a motley crew(오합지졸). team(팀)·staff(직원)과 유의어. 집합명사라 단·복수 취급 둘 다 가능.",
+  "syn": [
+   "team(팀)",
+   "staff(직원)",
+   "gang(작업반)"
+  ],
+  "anti": [
+   "passenger(승객)"
+  ],
+  "idiom": [
+   "cabin crew(객실 승무원)",
+   "a crew cut(상고머리)",
+   "a motley crew(오합지졸)"
+  ],
+  "colloc": [
+   "a film crew(촬영팀)",
+   "the ship's crew(배의 선원)",
+   "ground crew(지상 근무 요원)"
+  ],
+  "ex_add": "The entire crew worked through the night to finish filming.  (crew=팀)",
+  "ex_orig": "The tows were cast off by the battleships and the ladders taken in and the decks cleared for action, the crews going to general quarters.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2522",
+  "hw": "crisis",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "갈림길의 '위기·고비'.",
+  "senses": [
+   "1) 위기·중대 국면",
+   "2) (병의) 고비",
+   "3) 결정적 전환점"
+  ],
+  "etym": "그리스어 krisis(판가름·결정적 고비) <- krinein(가르다·판단하다). '운명이 판가름 나는 갈림길'이 핵심. krinein(가르다)은 critic(2524)·critical(2525)·criticism(2527)·criterion(2523)·hypocrite(위선자)의 뿌리. 복수형은 crises[크라이시즈].",
+  "deriv": "krinein(가르다) -> krisis -> 'crisis'. '판가름 나는 고비 -> 위기(an economic crisis)' -> 병의 '고비' -> '전환점'. 한국 학습자 핵심: 복수형 crises[krάɪsiːz] 철자·발음 주의! krinein(가르다) 대가족 — critic(2524)·critical(2525)·criticism(2527)·criticize(2528)·criterion(2523)·crisis·hypocrite! a financial crisis(금융 위기), a midlife crisis(중년의 위기), a crisis of confidence(신뢰의 위기), avert a crisis(위기를 모면하다). emergency(비상사태)와 유의어.",
+  "syn": [
+   "emergency(비상사태)",
+   "turning point(전환점)",
+   "catastrophe(파국)"
+  ],
+  "anti": [
+   "stability(안정)",
+   "calm(평온)"
+  ],
+  "idiom": [
+   "a midlife crisis(중년의 위기)",
+   "a crisis of confidence(신뢰의 위기)",
+   "a crisis point(위기 국면)"
+  ],
+  "colloc": [
+   "an economic crisis(경제 위기)",
+   "a financial crisis(금융 위기)",
+   "avert a crisis(위기를 피하다)"
+  ],
+  "ex_add": "The country is facing its worst economic crisis in decades.  (crisis=위기)",
+  "ex_orig": "the Berlin Cabinet, which might have been able to arrest the whole development of this crisis, seems to exercise no action on its ally.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2523",
+  "hw": "criterion",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "판단의 '기준·척도'.",
+  "senses": [
+   "1) (판단) 기준·척도",
+   "2) 표준·조건",
+   "3) (복수 criteria) 평가 기준들"
+  ],
+  "etym": "그리스어 kriterion(판단의 수단) <- krinein(가르다·판단하다). '가려내는(krinein) 잣대'가 핵심. crisis(2522)·critic(2524)·critical(2525)과 한 krinein 가족. 복수형은 criteria[크라이티어리어].",
+  "deriv": "krinein(가르다) -> kriterion -> 'criterion(가려내는 잣대)'. '판단 기준·척도(meet the criteria, 기준을 충족하다)'. 한국 학습자 핵심: 단수 criterion / 복수 criteria — 'The criteria are strict(기준들이 엄격하다)'처럼 복수 동사! (단복수 혼동 최고 빈출) krinein(가르다) 대가족 — crisis(2522)·critic(2524)·critical(2525)·criticism(2527)·criticize(2528)! the main criterion(주된 기준), selection criteria(선발 기준), satisfy the criteria(기준을 충족하다). standard(기준)·benchmark(기준점)과 유의어.",
+  "syn": [
+   "standard(기준)",
+   "benchmark(기준점)",
+   "measure(척도)"
+  ],
+  "anti": [],
+  "idiom": [
+   "meet the criteria(기준을 충족하다)",
+   "selection criteria(선발 기준)"
+  ],
+  "colloc": [
+   "the main criterion(주된 기준)",
+   "meet the criteria(기준을 충족하다)",
+   "strict criteria(엄격한 기준)"
+  ],
+  "ex_add": "Price is not the only criterion when choosing a school.  (criterion=기준)",
+  "ex_orig": "Might as between nations is the sole criterion of right.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2524",
+  "hw": "critic",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "가려 따지는 '비평가·비판자'.",
+  "senses": [
+   "1) (예술·문화) 비평가·평론가",
+   "2) 비판하는 사람·반대자",
+   "3) 흠을 잡는 사람"
+  ],
+  "etym": "그리스어 kritikos(판단할 줄 아는) <- krinein(가르다·판단하다). '좋고 나쁨을 가려내는 사람'이 핵심. crisis(2522)·criterion(2523)·critical(2525)과 한 krinein 가족.",
+  "deriv": "krinein(가르다) -> kritikos -> 'critic'. '예술을 가려 평하는 사람 -> 비평가(a film critic)' -> '정책을 비판하는 사람 -> 비판자(critics of the plan)'. 한국 학습자 핵심: critic(비평가, 사람)과 critique(비평·평론, 글/행위)와 criticism(2527, 비판)을 구별! krinein 대가족 — crisis(2522)·criterion(2523)·critical(2525)·criticism(2527)·criticize(2528)·hypocrite! a literary critic(문학 평론가), a harsh critic(혹독한 비판자), the critics(평단), silence the critics(비판을 잠재우다). reviewer(평론가)와 유의어.",
+  "syn": [
+   "reviewer(평론가)",
+   "commentator(논평가)",
+   "detractor(비방자)"
+  ],
+  "anti": [
+   "supporter(지지자)",
+   "admirer(찬미자)",
+   "fan(팬)"
+  ],
+  "idiom": [
+   "silence the critics(비판을 잠재우다)",
+   "a harsh critic(혹독한 비평가)"
+  ],
+  "colloc": [
+   "a film critic(영화 평론가)",
+   "a literary critic(문학 비평가)",
+   "a fierce critic(맹렬한 비판자)"
+  ],
+  "ex_add": "The film was praised by critics around the world.  (critic=비평가)",
+  "ex_orig": "Georg Brandes, Denmark's critic and man of letters, has lived in many European countries and spent the year 1886-87 in Russian Poland.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2525",
+  "hw": "critical",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "갈림길의 -> '비판적인 / 결정적인·위태로운'.",
+  "senses": [
+   "1) 비판적인·혹평하는",
+   "2) 대단히 중요한·결정적인",
+   "3) (병세가) 위독한·위기의"
+  ],
+  "etym": "그리스어 kritikos(판단하는) <- krinein(가르다). '가름이 필요한 -> 비판적인 / 갈림이 정해지는 -> 결정적인'으로 두 갈래. crisis(2522)·critic(2524)·criterion(2523)과 한 krinein 가족.",
+  "deriv": "krinein(가르다) -> 'critical'. '가려 따지는 -> 비판적인(critical of the government)' -> 운명이 갈리는 -> '결정적인·매우 중요한(a critical moment)' -> '병세가 위독한(in a critical condition)'. 한국 학습자 핵심: 세 뜻 모두 빈출 — be critical of(~을 비판하다), a critical factor(결정적 요인), critically ill(위독한)! krinein 대가족 — crisis(2522)·critic(2524)·criterion(2523)·criticism(2527)·criticize(2528)! critical thinking(비판적 사고), of critical importance(대단히 중요한). crucial(중대한, 2530)·vital(필수적인)과 유의어.",
+  "syn": [
+   "crucial(중대한)",
+   "vital(필수적인)",
+   "disapproving(비판적인)"
+  ],
+  "anti": [
+   "unimportant(중요치 않은)",
+   "complimentary(칭찬하는)",
+   "stable(안정된)"
+  ],
+  "idiom": [
+   "be critical of(~을 비판하다)",
+   "critical thinking(비판적 사고)",
+   "a critical condition(위독한 상태)"
+  ],
+  "colloc": [
+   "a critical factor(결정적 요인)",
+   "critically important(대단히 중요한)",
+   "highly critical(매우 비판적인)"
+  ],
+  "ex_add": "The next few days will be critical for the patient's recovery.  (critical=결정적인)",
+  "ex_orig": "No other portion of the battle line in either theatre has such great latent strength ready to be thrown in when the critical moment comes.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2526",
+  "hw": "critically",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'비판적으로 / 위태롭게·결정적으로'.",
+  "senses": [
+   "1) 비판적으로",
+   "2) 위독하게·심각하게",
+   "3) 결정적으로·대단히"
+  ],
+  "etym": "critical(2525) + -ly. 그리스어 krinein(가르다) 뿌리. '가려 따지듯 / 운명이 갈릴 만큼'이 핵심. crisis(2522)·critic(2524)·criticism(2527)과 한 krinein 가족.",
+  "deriv": "critical(2525) -> 'critically'. '비판적으로(view critically, 비판적으로 보다)' -> '위독하게(critically injured, 중상을 입은)' -> '대단히(critically important, 결정적으로 중요한)'. 한국 학습자 핵심: critically acclaimed(평단의 호평을 받은 — 영화·책 소개 단골 표현!), critically ill/injured(위독한/중상의), think critically(비판적으로 사고하다). krinein 대가족 — crisis(2522)·critic(2524)·critical(2525)·criticism(2527)·criticize(2528)! seriously(심각하게)·crucially(결정적으로)와 유의어.",
+  "syn": [
+   "seriously(심각하게)",
+   "crucially(결정적으로)",
+   "disapprovingly(비판적으로)"
+  ],
+  "anti": [
+   "mildly(가볍게)",
+   "approvingly(찬성하여)"
+  ],
+  "idiom": [
+   "critically acclaimed(평단의 호평을 받은)",
+   "critically ill(위독한)"
+  ],
+  "colloc": [
+   "critically acclaimed(평단의 찬사를 받은)",
+   "critically injured(중상을 입은)",
+   "think critically(비판적으로 생각하다)"
+  ],
+  "ex_add": "Her latest novel has been critically acclaimed.  (critically=비평가들에게)",
+  "ex_orig": "They were also directed to treat the evidence critically, and as far as possible satisfy themselves, by putting questions which arose out of the evidence, that the witnesses were speaking the truth.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2527",
+  "hw": "criticism",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "가려 따짐 -> '비판·비난 / 비평'.",
+  "senses": [
+   "1) 비판·비난",
+   "2) (예술) 비평·평론",
+   "3) 지적·흠잡기"
+  ],
+  "etym": "critic(비평가, 2524) + -ism. 그리스어 krinein(가르다·판단하다) 뿌리. '좋고 나쁨을 가려 따지는 일'이 핵심. crisis(2522)·criterion(2523)·critical(2525)과 한 krinein 가족.",
+  "deriv": "krinein(가르다) -> critic(2524) -> 'criticism'. '비판·비난(face criticism, 비판에 직면하다)' -> 예술 '비평·평론(literary criticism)' -> '지적'. 한국 학습자 핵심: criticism은 부정적 '비난'과 중립적 '평론' 둘 다! constructive criticism(건설적 비판), draw/attract criticism(비판을 사다), open to criticism(비판의 여지가 있는), fierce criticism(맹렬한 비판). krinein 대가족 — crisis(2522)·critic(2524)·critical(2525)·criticize(2528)! disapproval(반감)·censure(견책)와 유의어. 반대 praise(칭찬).",
+  "syn": [
+   "disapproval(반감)",
+   "censure(견책)",
+   "review(평론)"
+  ],
+  "anti": [
+   "praise(칭찬)",
+   "approval(찬성)",
+   "compliment(칭찬)"
+  ],
+  "idiom": [
+   "constructive criticism(건설적 비판)",
+   "open to criticism(비판의 여지가 있는)",
+   "draw criticism(비판을 사다)"
+  ],
+  "colloc": [
+   "face criticism(비판에 직면하다)",
+   "harsh criticism(혹독한 비판)",
+   "constructive criticism(건설적 비판)"
+  ],
+  "ex_add": "The plan has attracted widespread criticism.  (criticism=비판)",
+  "ex_orig": "A long acquaintance with both these men makes it hard for the present writer to give expression to such negative criticism as he is constrained to do.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2528",
+  "hw": "criticize",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "가려 따지다 -> '비판하다·비난하다'.",
+  "senses": [
+   "1) 비판하다·비난하다",
+   "2) 흠잡다·지적하다",
+   "3) (작품을) 평하다"
+  ],
+  "etym": "critic(비평가, 2524) + -ize. 그리스어 krinein(가르다·판단하다) 뿌리. '잘잘못을 가려 지적하다'가 핵심. crisis(2522)·critical(2525)·criticism(2527)과 한 krinein 가족. (영국식 criticise.)",
+  "deriv": "krinein(가르다) -> critic(2524) -> 'criticize'. '잘못을 지적하다 -> 비판·비난하다(criticize the decision)' -> '흠잡다' -> 작품을 '평하다'. 한국 학습자 핵심: criticize sb for V-ing(~했다고 ~를 비난하다), be heavily/widely criticized(심하게·널리 비판받다), criticize harshly(혹독하게 비판하다). krinein 대가족 — crisis(2522)·critic(2524)·critical(2525)·criticism(2527)·criterion(2523)! 영국식 철자 criticise. condemn(규탄하다)·denounce(비난하다)와 유의어. 반대 praise(칭찬하다)·commend(칭송하다).",
+  "syn": [
+   "condemn(규탄하다)",
+   "denounce(비난하다)",
+   "fault(흠잡다)"
+  ],
+  "anti": [
+   "praise(칭찬하다)",
+   "commend(칭송하다)",
+   "applaud(갈채하다)"
+  ],
+  "idiom": [
+   "criticize sb for(~을 ...라고 비난하다)",
+   "be widely criticized(널리 비판받다)"
+  ],
+  "colloc": [
+   "criticize the decision(결정을 비판하다)",
+   "heavily criticize(심하게 비판하다)",
+   "publicly criticize(공개적으로 비난하다)"
+  ],
+  "ex_add": "Reporters criticized the government for its slow response.  (criticize=비판하다)",
+  "ex_orig": "Reviewers praised Stefani's musical performances and stage presence, but criticizing the lack of material and the long costume changes.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "2529",
+  "hw": "crop",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "거둬들이는 '작물·수확물' / 짧게 자르다.",
+  "senses": [
+   "1) 농작물·수확(량)",
+   "2) (한 무리·한 해의) 무리·진(陣)",
+   "3) (동사) 짧게 자르다 / (crop up) 불쑥 생기다"
+  ],
+  "etym": "고대 영어 cropp(식물의 꼭대기·이삭·새의 모이주머니). '식물의 윗부분을 거둬들임'이 핵심. 토박이말로, '윗부분을 잘라 거둠'에서 '작물'과 '짧게 자르다' 두 뜻이 나왔다.",
+  "deriv": "cropp(이삭) -> 'crop'. '거둬들이는 작물·수확물(a good crop, 풍작)' -> '한 무리(this year's crop of graduates, 올해 졸업생들)' -> 동사 '짧게 자르다(cropped hair, 짧은 머리)·사진을 자르다(crop a photo)' -> 'crop up(불쑥 나타나다)'. 한국 학습자 핵심: cash crops(환금 작물), crop rotation(윤작), a bumper crop(대풍작), crop up(예기치 않게 발생하다 — 빈출 구동사!). harvest(수확)·yield(산출)와 유의어.",
+  "syn": [
+   "harvest(수확)",
+   "yield(산출)",
+   "produce(농산물)"
+  ],
+  "anti": [],
+  "idiom": [
+   "crop up(불쑥 생기다)",
+   "a bumper crop(대풍작)",
+   "the cream of the crop(최고 중의 최고)"
+  ],
+  "colloc": [
+   "a good crop(풍작)",
+   "cash crops(환금 작물)",
+   "crop failure(흉작)"
+  ],
+  "ex_add": "Heavy rain ruined this year's wheat crop.  (crop=작물)",
+  "ex_orig": "The dreary, icy night darkened over the desolate fields which in this war have seen their crops trampled and have been sown with dead men.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2530",
+  "hw": "crucial",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "갈림길(십자로)의 -> '결정적인·매우 중요한'.",
+  "senses": [
+   "1) 결정적인·매우 중요한",
+   "2) 중대한·핵심적인",
+   "3) (to/for) ~에 꼭 필요한"
+  ],
+  "etym": "라틴어 crux/cruc-(십자가·갈림길) -> crucialis. '여러 길이 만나는 십자로(crux)처럼 운명이 갈리는'이 핵심. crux(십자)는 crucify(십자가에 못 박다)·cross(십자·건너다)·crusade(십자군)·excruciating(극심한)·cruise(2531)의 뿌리.",
+  "deriv": "crux(십자로) -> 'crucial(갈림길의)'. '운명이 갈리는 -> 결정적인·매우 중요한(a crucial decision)' -> '(to/for) ~에 꼭 필요한(crucial to success)'. 한국 학습자 핵심: crux(십자) 가족 — crucify·cross·crusade·excruciating(견디기 힘든)·crux(핵심)·cruise(2531)! a crucial role(결정적 역할), absolutely crucial(절대적으로 중요한), crucial to/for(~에 결정적인), at a crucial moment(중대한 순간에). critical(중대한, 2525)·vital(필수적인)·essential(필수의)과 유의어. 반대 trivial(사소한).",
+  "syn": [
+   "vital(필수적인)",
+   "critical(중대한)",
+   "essential(필수의)"
+  ],
+  "anti": [
+   "trivial(사소한)",
+   "minor(사소한)",
+   "unimportant(중요치 않은)"
+  ],
+  "idiom": [
+   "a crucial role(결정적 역할)",
+   "crucial to(~에 결정적인)",
+   "at a crucial moment(중대한 순간에)"
+  ],
+  "colloc": [
+   "a crucial decision(중대한 결정)",
+   "absolutely crucial(절대적으로 중요한)",
+   "a crucial factor(결정적 요인)"
+  ],
+  "ex_add": "Getting enough sleep is crucial to good health.  (crucial=대단히 중요한)",
+  "ex_orig": "His message to the world as indicated by His teaching, and His life was an arraignment of the ancient regime as regards three crucial points.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2531",
+  "hw": "cruise",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "바다를 가로질러 '순항하다 / 유람선 여행'.",
+  "senses": [
+   "1) 유람선 여행·크루즈",
+   "2) 순항하다·천천히 돌아다니다",
+   "3) (일정 속도로) 巡행하다"
+  ],
+  "etym": "네덜란드어 kruisen(가로지르다·십자로 오가다) <- 라틴어 crux(십자가). '바다를 이리저리 가로질러 다님'이 핵심. crucial(2530)·cross·crusade와 한 crux(십자) 가족.",
+  "deriv": "crux(십자) -> kruisen(가로지르다) -> 'cruise'. '바다를 가로질러 다님 -> 유람선 여행(go on a cruise)·순항하다(the ship cruised along)' -> '일정 속도로 巡행하다(cruise at 500 mph)' -> 비유 '수월하게 나아가다(cruise to victory, 낙승하다)'. 한국 학습자 핵심: crux(십자) 가족 — crucial(2530)·cross·crusade·excruciating·cruiser(순양함)! a cruise ship(유람선), a cruise missile(순항 미사일), cruise control(정속 주행 장치), a luxury cruise(호화 유람). sail(항해하다)·voyage(여행)와 유의어.",
+  "syn": [
+   "sail(항해하다)",
+   "voyage(여행)",
+   "glide(미끄러지듯 가다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "cruise to victory(낙승하다)",
+   "cruise control(정속 주행 장치)"
+  ],
+  "colloc": [
+   "a cruise ship(유람선)",
+   "go on a cruise(크루즈 여행을 가다)",
+   "a cruise missile(순항 미사일)"
+  ],
+  "ex_add": "They spent their honeymoon on a Mediterranean cruise.  (cruise=유람선 여행)",
+  "ex_orig": "At first they were packed on a little steamer whose capacity was thirty people--there were 150 of them, and they cruised along the Mediterranean for a night and a day.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2532",
+  "hw": "cry",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "'울다 / 외치다 / 울음·외침'.",
+  "senses": [
+   "1) 울다·눈물을 흘리다",
+   "2) 외치다·소리치다(cry out)",
+   "3) 울음·외침 / (동물) 울음소리"
+  ],
+  "etym": "라틴어 quiritare(비명을 지르다·도움을 청해 외치다) -> 고대 프랑스어 crier -> 'cry'. 원래 '크게 외쳐 도움을 청함'이 본뜻이며, 거기서 '울다'로도 넓어졌다.",
+  "deriv": "quiritare(외치다) -> crier -> 'cry'. '외치다·소리치다(cry for help)' -> '울다(cry over the loss)' -> 명사 '외침·울음(a cry of pain)'. 한국 학습자 핵심: cry out(소리치다), cry over(~ 때문에 울다), a far cry from(~과 거리가 먼·딴판인), cry wolf(거짓으로 위급을 알리다), a shoulder to cry on(기댈 어깨), for crying out loud(원, 참내). a battle cry(함성), a cry for help(도움 요청). weep(흐느끼다)·sob(흐느껴 울다)/shout(외치다)와 유의어.",
+  "syn": [
+   "weep(흐느끼다)",
+   "sob(흐느껴 울다)",
+   "shout(외치다)"
+  ],
+  "anti": [
+   "laugh(웃다)",
+   "whisper(속삭이다)"
+  ],
+  "idiom": [
+   "a far cry from(~과 딴판인)",
+   "cry wolf(거짓 경보를 내다)",
+   "a shoulder to cry on(위로해 줄 사람)",
+   "cry out(소리치다)"
+  ],
+  "colloc": [
+   "cry for help(도움을 청해 외치다)",
+   "burst into tears and cry(울음을 터뜨리다)",
+   "a cry of pain(고통의 비명)"
+  ],
+  "ex_add": "She began to cry when she heard the sad news.  (cry=울다)",
+  "ex_orig": "Only thirty-four Intransigent Socialists refused to join in the cheers, even in the cry \"Viva Italia!\" and they were hooted and hissed.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2533",
+  "hw": "cue",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "행동의 '신호·단서' / (당구) 큐.",
+  "senses": [
+   "1) (행동을 시작하라는) 신호·계기",
+   "2) (연극) 큐·대사 신호",
+   "3) (당구) 큐 / 신호를 주다"
+  ],
+  "etym": "연극 대본에서 '여기서 시작'을 뜻하던 라틴어 quando(언제)의 약자 'q'를 발음한 데서 왔다는 설이 유력. (당구의 cue는 프랑스어 queue '꼬리' <- 라틴어 cauda에서 온 다른 낱말.) '행동을 촉발하는 신호'가 핵심.",
+  "deriv": "q(quando, 언제) -> 'cue(신호)'. '연극의 등장·대사 신호 -> 행동의 신호·계기(take a cue from, ~을 보고 따라 하다)' -> 동사 '신호를 주다(cue the music)'. 한국 학습자 핵심: on cue(마치 신호라도 받은 듯 때맞춰), right on cue(때맞춰 딱), take one's cue from(~을 본떠 행동하다), a visual cue(시각적 단서), social cues(사회적 신호). queue(줄, 영국식 '대기열')와 발음[kjuː]이 같아 혼동 주의! signal(신호)·hint(단서)와 유의어.",
+  "syn": [
+   "signal(신호)",
+   "hint(단서)",
+   "prompt(자극)"
+  ],
+  "anti": [],
+  "idiom": [
+   "on cue(신호에 맞춰)",
+   "right on cue(때맞춰 딱)",
+   "take a cue from(~을 본떠 행동하다)"
+  ],
+  "colloc": [
+   "a visual cue(시각적 단서)",
+   "social cues(사회적 신호)",
+   "miss a cue(신호를 놓치다)"
+  ],
+  "ex_add": "As if on cue, the rain started just as we left.  (on cue=때맞춰)",
+  "ex_orig": "He built each cue around \" small, repeating phrases \" - often, the only variety through a \" thinning of the texture for eight bars \".",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "2534",
+  "hw": "cure",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "보살펴 '낫게 하다·치료(법)'.",
+  "senses": [
+   "1) (병을) 낫게 하다·고치다",
+   "2) 치료(법)·해결책",
+   "3) (고기 등을) 절여 가공하다"
+  ],
+  "etym": "라틴어 cura(돌봄·보살핌) -> curare(돌보다). '병자를 보살펴(cura) 낫게 함'이 핵심. cura(돌봄)는 curious(2535)·accurate(정확한)·secure(안전한)·curator(큐레이터)·manicure·procure(조달하다)·sure(확실한)의 뿌리.",
+  "deriv": "cura(돌봄) -> 'cure'. '보살펴 낫게 하다(cure a disease)' -> 명사 '치료법·해결책(a cure for cancer)' -> '(고기를) 절여 보존하다(cured ham, 염장 햄)'. 한국 학습자 핵심: cura(돌봄) 가족 — curious(2535)·accurate(정확한=정성껏 돌본)·secure(안전한)·curator·manicure·procure·sure! cure A of B(A의 B를 고치다), there's no cure for(~에 대한 치료법은 없다), prevention is better than cure(예방이 치료보다 낫다). heal(낫게 하다)·treat(치료하다)/remedy(치료법)와 유의어 — treat는 '치료를 시도', cure는 '완치'.",
+  "syn": [
+   "heal(낫게 하다)",
+   "remedy(치료법)",
+   "treatment(치료)"
+  ],
+  "anti": [
+   "cause(원인이 되다)",
+   "worsen(악화시키다)",
+   "infect(감염시키다)"
+  ],
+  "idiom": [
+   "a cure for(~의 치료법)",
+   "prevention is better than cure(예방이 최선)",
+   "cure A of B(A의 B를 고치다)"
+  ],
+  "colloc": [
+   "find a cure(치료법을 찾다)",
+   "cure a disease(병을 치료하다)",
+   "a miracle cure(기적의 치료법)"
+  ],
+  "ex_add": "Scientists are still searching for a cure for the disease.  (cure=치료법)",
+  "ex_orig": "An officer, followed by a soldier, came to ask us where the cure was, and threatened to shoot us because we could not tell him.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2535",
+  "hw": "curious",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "마음이 쓰이는 -> '호기심 많은 / 기이한'.",
+  "senses": [
+   "1) 호기심이 강한·궁금해하는",
+   "2) 알고 싶어 하는·캐묻기 좋아하는",
+   "3) 기이한·신기한"
+  ],
+  "etym": "라틴어 curiosus(신경 쓰는·꼬치꼬치 캐는) <- cura(돌봄·관심). '관심(cura)을 많이 쏟는'이 핵심으로, '호기심 많은'과 '(주의를 끌 만큼) 기이한' 두 갈래로 갈렸다. cure(2534)·accurate·secure와 한 cura 가족.",
+  "deriv": "cura(관심) -> curiosus -> 'curious'. '관심이 많은 -> 호기심 많은(curious about, ~을 궁금해하는)' -> '캐묻기 좋아하는' -> 시선을 끌 만큼 '기이한(a curious smell, 묘한 냄새)'. 한국 학습자 핵심: cura(돌봄) 가족 — cure(2534)·accurate·secure·curator·curiosity! be curious about(~을 궁금해하다), curious to know(알고 싶어 하는), curiously(신기하게도/호기심으로), Curiosity killed the cat(지나친 호기심은 화를 부른다). inquisitive(꼬치꼬치 캐는)/strange(이상한)와 유의어. 반대 indifferent(무관심한).",
+  "syn": [
+   "inquisitive(캐묻기 좋아하는)",
+   "interested(관심 있는)",
+   "strange(기이한)"
+  ],
+  "anti": [
+   "indifferent(무관심한)",
+   "uninterested(흥미 없는)",
+   "ordinary(평범한)"
+  ],
+  "idiom": [
+   "Curiosity killed the cat(호기심이 화를 부른다)",
+   "be curious about(~을 궁금해하다)",
+   "a curious case(기이한 사례)"
+  ],
+  "colloc": [
+   "curious about(~에 호기심 있는)",
+   "naturally curious(천성적으로 호기심 많은)",
+   "a curious mixture(묘한 혼합)"
+  ],
+  "ex_add": "Children are naturally curious about the world around them.  (curious=호기심이 강한)",
+  "ex_orig": "It is curious, but true, that I believe Germany's own salvation depends upon her absolute defeat in this great war.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2536",
+  "hw": "current",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "흐르는 -> '현재의 / 흐름·해류·전류'.",
+  "senses": [
+   "1) 현재의·지금 통용되는",
+   "2) (물·공기의) 흐름·해류·기류",
+   "3) 전류 / (사상의) 흐름"
+  ],
+  "etym": "라틴어 currens(달리는·흐르는) <- currere(달리다·흐르다). '지금 흘러가고 있는'이 핵심. currere(달리다)는 corridor(복도, 2509)·curriculum(2537)·course(과정)·occur(일어나다)·recur(재발하다)·courier(급사)·excursion(소풍)의 뿌리.",
+  "deriv": "currere(흐르다) -> currens -> 'current'. '지금 흐르는 -> 현재의·통용되는(current events, 시사)' -> 물·전기의 '흐름(an ocean current 해류, an electric current 전류)'. 한국 학습자 핵심: currere(달리다) 대가족 — corridor(2509)·curriculum(2537)·course·occur·recur·courier·excursion·currency(통화)! current affairs(시사), the current situation(현 상황), against the current(흐름을 거슬러), alternating/direct current(교류/직류). present(현재의)와 유의어. 반대 past(과거의)·former(이전의).",
+  "syn": [
+   "present(현재의)",
+   "ongoing(진행 중인)",
+   "flow(흐름)"
+  ],
+  "anti": [
+   "past(과거의)",
+   "former(이전의)",
+   "obsolete(구식의)"
+  ],
+  "idiom": [
+   "current affairs(시사)",
+   "against the current(흐름을 거슬러)",
+   "go with the current(대세를 따르다)"
+  ],
+  "colloc": [
+   "the current situation(현 상황)",
+   "current events(시사)",
+   "an electric current(전류)"
+  ],
+  "ex_add": "The current owner bought the house ten years ago.  (current=현재의)",
+  "ex_orig": "In short, the central effect is a vast impairment of Europe's current income and of the capital from which her future income will flow.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2537",
+  "hw": "curriculum",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "거쳐 달리는 '교육 과정·커리큘럼'.",
+  "senses": [
+   "1) 교육 과정·이수 과정",
+   "2) (전체) 교과 과정",
+   "3) (curriculum vitae) 이력서"
+  ],
+  "etym": "라틴어 curriculum(달리기·경주로) <- currere(달리다). '학생이 처음부터 끝까지 달려 거치는 코스'가 핵심. current(2536)·corridor(2509)·course·occur와 한 currere 가족. 복수형은 curricula.",
+  "deriv": "currere(달리다) -> curriculum(달리는 코스) -> '교육 과정'. '학교 교과 과정(the school curriculum)' -> 라틴어 그대로 'curriculum vitae(인생의 달려온 길 = 이력서, 약자 CV)'. 한국 학습자 핵심: currere(달리다) 대가족 — current(2536)·corridor(2509)·course·occur·recur·excursion! curriculum vitae(CV, 이력서) — '인생(vitae)의 경주로(curriculum)'! the national curriculum(국가 교육 과정), the core curriculum(필수 교과), extra-curricular(과외의·정규 과목 외의). 복수 curricula 또는 curriculums. syllabus(강의 계획)와 구별 — curriculum이 더 넓은 과정.",
+  "syn": [
+   "syllabus(교과 과정)",
+   "program(과정)",
+   "course(과정)"
+  ],
+  "anti": [],
+  "idiom": [
+   "curriculum vitae(이력서, CV)",
+   "the national curriculum(국가 교육 과정)",
+   "extra-curricular(정규 과목 외의)"
+  ],
+  "colloc": [
+   "the school curriculum(학교 교육 과정)",
+   "the core curriculum(핵심 교과)",
+   "the national curriculum(국가 교육 과정)"
+  ],
+  "ex_add": "Computer science is now part of the school curriculum.  (curriculum=교육 과정)",
+  "ex_orig": "The school provides English National Curriculum () for literacy and and International Primary Curriculum (IPC) for other subjects.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "2538",
+  "hw": "curve",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "휜 '곡선·커브' / 휘다·구부러지다.",
+  "senses": [
+   "1) 곡선·만곡 / 커브",
+   "2) (도로의) 굽이",
+   "3) (동사) 휘다·구부러지다"
+  ],
+  "etym": "라틴어 curvus(굽은·휜) -> curvare(구부리다). '곧지 않고 휜'이 핵심. curved(2539)·curvature(만곡)가 가족이며, 라틴어 curvus가 그대로 살아 있는 낱말이다.",
+  "deriv": "curvus(휜) -> 'curve'. '곡선·커브(a sharp curve, 급커브)' -> '도로의 굽이' -> 동사 '휘다(the road curves to the left)' -> 그래프 '곡선(a learning curve, 학습 곡선)'. 한국 학습자 핵심: a learning curve(학습 곡선 — a steep learning curve는 '배우기 힘든 과정'!), ahead of the curve(시대를 앞서가는), behind the curve(시류에 뒤처진), throw sb a curveball(허를 찌르다·기습하다). bend(굽음)·arc(호)와 유의어. 반대 straight line(직선). curved(2539) 형용사.",
+  "syn": [
+   "bend(굽이)",
+   "arc(호)",
+   "bow(휘다)"
+  ],
+  "anti": [
+   "straight line(직선)",
+   "straighten(곧게 하다)"
+  ],
+  "idiom": [
+   "a learning curve(학습 곡선)",
+   "ahead of the curve(시류를 앞선)",
+   "throw a curveball(허를 찌르다)"
+  ],
+  "colloc": [
+   "a sharp curve(급커브)",
+   "a smooth curve(부드러운 곡선)",
+   "a learning curve(학습 곡선)"
+  ],
+  "ex_add": "The road curves sharply to the right ahead.  (curve=휘다)",
+  "ex_orig": "Julien practically due west for about a mile, whence it curved southwestward before turning north to the canal near Boesinghe.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2539",
+  "hw": "curved",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "휘어 있는 -> '곡선의·구부러진'.",
+  "senses": [
+   "1) 곡선의·구부러진",
+   "2) 만곡한·휜",
+   "3) 둥그스름한"
+  ],
+  "etym": "curve(곡선, 2538) + -ed. 라틴어 curvus(휜) 뿌리. '곧지 않고 휘어 있는' 상태가 핵심. curvature(만곡)와 한 가족.",
+  "deriv": "curvus(휜) -> curve(2538) -> 'curved(휘어 있는)'. '구부러진(a curved line)' -> '만곡한(a curved blade, 휜 칼날)' -> '둥그스름한(a curved screen, 곡면 화면)'. 한국 학습자 핵심: curved(휜)와 curvy(굴곡진·몸매가 굴곡 있는)를 구별! a curved surface(곡면), gently curved(완만히 휜), a curved roof(곡선형 지붕). bent(굽은)·rounded(둥근)와 유의어. 반대 straight(곧은)·flat(평평한). curve(2538) 가족.",
+  "syn": [
+   "bent(굽은)",
+   "rounded(둥근)",
+   "arched(아치형의)"
+  ],
+  "anti": [
+   "straight(곧은)",
+   "flat(평평한)",
+   "linear(직선의)"
+  ],
+  "idiom": [
+   "a curved line(곡선)"
+  ],
+  "colloc": [
+   "a curved surface(곡면)",
+   "a curved blade(휜 칼날)",
+   "gently curved(완만히 휜)"
+  ],
+  "ex_add": "The new TV has a curved screen for a wider view.  (curved=곡선의)",
+  "ex_orig": "Julien practically due west for about a mile, whence it curved southwestward before turning north to the canal near Boesinghe.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "2540",
+  "hw": "cute",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "'귀여운 / (미, 부정) 약삭빠른'.",
+  "senses": [
+   "1) 귀여운·깜찍한",
+   "2) 매력적인·섹시한(구어)",
+   "3) (미, 부정) 잔꾀를 부리는·약삭빠른"
+  ],
+  "etym": "acute(예리한, 라틴어 acutus '날카로운' <- acuere 날카롭게 하다)의 앞을 잘라낸 형태. 원래 '영리한·약삭빠른'이 본뜻이었다가 '깜찍한·귀여운'으로 부드러워졌다. acid(신)·acumen(통찰력)과 같은 ac-(날카로운) 갈래.",
+  "deriv": "acutus(날카로운) -> (a)cute. 본뜻 '영리한·약삭빠른' -> '깜찍한·귀여운(a cute puppy)' -> 구어 '매력적인(a cute guy)' -> (미국) 부정적 '잔꾀 부리는(Don't get cute with me, 까불지 마)'. 한국 학습자 핵심: cute의 뿌리는 acute(예리한)! 미국 구어에서 'get cute(잔머리를 굴리다)'처럼 부정적 뜻이 있음에 유의. cutie(귀염둥이), as cute as a button(매우 귀여운). acute(급성의/예리한)·acumen(예리함)이 친척. adorable(사랑스러운)·pretty(예쁜)와 유의어.",
+  "syn": [
+   "adorable(사랑스러운)",
+   "charming(매력적인)",
+   "pretty(예쁜)"
+  ],
+  "anti": [
+   "ugly(못생긴)",
+   "plain(수수한)",
+   "hideous(흉측한)"
+  ],
+  "idiom": [
+   "get cute(잔꾀를 부리다)",
+   "as cute as a button(아주 귀여운)"
+  ],
+  "colloc": [
+   "a cute puppy(귀여운 강아지)",
+   "a cute baby(귀여운 아기)",
+   "really cute(정말 귀여운)"
+  ],
+  "ex_add": "What a cute little kitten!  (cute=귀여운)",
+  "ex_orig": "Pink is the color of \" Bright Flight \", a song which is in a pop style and was written in a \" cute \" image in mind, while black is the color of \" L.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "2541",
+  "hw": "dairy",
+  "pos": "n., adj.",
+  "cefr": "B2",
+  "core": "젖을 다루는 '낙농(장)·유제품의'.",
+  "senses": [
+   "1) 낙농장·우유 가공장",
+   "2) 유제품의(형용사)",
+   "3) 유제품류"
+  ],
+  "etym": "중세 영어 deyerie <- 고대 영어 dæge(빵 반죽하는 하녀·젖 짜는 여인) + -ery(장소). '젖과 빵을 다루던 하녀(dæge)의 일터'가 핵심. lady(고대 영어 hlæfdige '빵 반죽하는 이')와도 먼 갈래.",
+  "deriv": "dæge(젖 짜는 여인) -> deyerie -> 'dairy(젖을 다루는 곳)'. '낙농장(work on a dairy farm)' -> 형용사 '유제품의(dairy products, 유제품)' -> '유제품류'. 한국 학습자 핵심: dairy(낙농·유제품)와 diary(일기, 2... )는 철자가 i 위치만 다른 최고 빈출 혼동 단어! dairy products(유제품), a dairy farm(낙농장), dairy-free(유제품을 뺀), the dairy industry(낙농업). milk(우유)·cheese(치즈)와 함께 쓰인다.",
+  "syn": [
+   "creamery(유가공장)"
+  ],
+  "anti": [],
+  "idiom": [
+   "dairy products(유제품)",
+   "dairy-free(유제품을 뺀)"
+  ],
+  "colloc": [
+   "a dairy farm(낙농장)",
+   "dairy products(유제품)",
+   "the dairy industry(낙농업)"
+  ],
+  "ex_add": "Milk, cheese, and butter are all dairy products.  (dairy=유제품의)",
+  "ex_orig": "Meanwhile, houses both wet market and dry market under one roof, providing fresh vegetables, fruits, fish, and dairy products.",
+  "ex_src": "WIKI"
  }
 ]
