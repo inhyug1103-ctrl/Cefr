@@ -1,0 +1,952 @@
+[
+ {
+  "num": "2892",
+  "hw": "incorrect",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "바르지 않은 -> '부정확한·틀린'.",
+  "senses": [
+   "1) 부정확한·틀린",
+   "2) (행동이) 옳지 않은·부적절한",
+   "3) 사실과 다른"
+  ],
+  "etym": "in-(부정) + correct(올바른). correct는 라틴어 corrigere = com-(완전히) + regere(곧게 이끌다·다스리다). '곧게(regere) 잡힌 것이 아닌'이 핵심. regere(이끌다)는 correct·direct(지시하다)·region(지역)·regular(규칙적인)·regime(체제)의 뿌리.",
+  "deriv": "in-(부정) + regere(곧게 하다) -> correct -> 'incorrect'. '바르지 않은 -> 부정확한·틀린(an incorrect answer, 틀린 답)'. 한국 학습자 핵심: regere(이끌다·곧게 하다) 갈래 — correct·direct·region·regular·regime·rectangle(직사각형)·rectify(바로잡다)! incorrect information(잘못된 정보), factually incorrect(사실과 다른), politically incorrect(정치적으로 부적절한), prove incorrect(틀린 것으로 드러나다). wrong(틀린)·inaccurate(부정확한)·erroneous(잘못된)와 유의어 — incorrect가 wrong보다 격식. 반대 correct(맞는)·accurate(정확한)·right(옳은).",
+  "syn": ["wrong(틀린)", "inaccurate(부정확한)", "erroneous(잘못된)"],
+  "anti": ["correct(맞는)", "accurate(정확한)", "right(옳은)"],
+  "idiom": ["factually incorrect(사실과 다른)", "politically incorrect(정치적으로 부적절한)"],
+  "colloc": ["an incorrect answer(틀린 답)", "incorrect information(잘못된 정보)", "factually incorrect(사실과 다른)"],
+  "ex_add": "Several of your answers were incorrect.  (incorrect=틀린)"
+ },
+ {
+  "num": "2893",
+  "hw": "increasingly",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "점점 더 -> '점점 더·갈수록'.",
+  "senses": [
+   "1) 점점 더·갈수록",
+   "2) 더욱더",
+   "3) 날이 갈수록"
+  ],
+  "etym": "increasing(증가하는) + -ly. increase는 라틴어 increscere = in-(위로) + crescere(자라다). '점점 자라나며(crescere)'가 핵심. crescere(자라다)는 decrease(2557)·concrete(2465)·crew(2521)·crescent(초승달)·recruit의 뿌리.",
+  "deriv": "in-(위로) + crescere(자라다) -> increase -> 'increasingly'. '점점 자라나 -> 점점 더·갈수록(increasingly important, 점점 더 중요한)'. 한국 학습자 핵심: crescere(자라다) 대가족 — increase·decrease(2557)·concrete(2465)·crew(2521)·crescent·recruit·crescendo! increasingly + 형용사/부사(increasingly difficult 점점 더 어려운, increasingly common 갈수록 흔한), become increasingly(점점 ~해지다), increasingly popular(갈수록 인기 있는). more and more(점점 더)·progressively(점진적으로)와 유의어. 반대 decreasingly(점점 덜)·less and less.",
+  "syn": ["more and more(점점 더)", "progressively(점진적으로)", "ever more(더욱더)"],
+  "anti": ["decreasingly(점점 덜)", "less and less(점점 덜)"],
+  "idiom": ["increasingly important(점점 더 중요한)", "become increasingly(점점 ~해지다)"],
+  "colloc": ["increasingly difficult(점점 더 어려운)", "increasingly popular(갈수록 인기 있는)", "increasingly common(점점 흔한)"],
+  "ex_add": "It is becoming increasingly difficult to find a job.  (increasingly=점점 더)"
+ },
+ {
+  "num": "2894",
+  "hw": "independence",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "매달리지 않음 -> '독립·자립'.",
+  "senses": [
+   "1) (국가의) 독립",
+   "2) (개인의) 자립·자주",
+   "3) 독립성·자율"
+  ],
+  "etym": "in-(부정) + dependence(의존). dependent(2576)는 de-(아래로) + pendere(매달리다). '아래로 매달리지(pendere) 않음'이 핵심. pendere(매달리다)는 depend·dependent(2576)·pendant·suspend·pension·expense(2709)의 뿌리.",
+  "deriv": "in-(부정) + pendere(매달리다) -> 'independence'. '매달리지 않음 -> 독립·자립(gain independence, 독립을 얻다)'. 한국 학습자 핵심: pendere(매달리다) 대가족 — depend·dependent(2576)·pendant·suspend·append·pension·expense(2709)·pending! Independence Day(독립기념일), gain/win independence(독립을 쟁취하다), declare independence(독립을 선언하다, 2553 declare), financial independence(경제적 자립), independence from(~으로부터의 독립). freedom(2781, 자유)·autonomy(자치)·self-reliance(자립)와 유의어. 반대 dependence(의존)·reliance(의존).",
+  "syn": ["autonomy(자치)", "freedom(자유)", "self-reliance(자립)"],
+  "anti": ["dependence(의존)", "reliance(의존)", "subjugation(예속)"],
+  "idiom": ["Independence Day(독립기념일)", "gain independence(독립을 얻다)", "declare independence(독립을 선언하다)"],
+  "colloc": ["gain independence(독립을 쟁취하다)", "financial independence(경제적 자립)", "independence from(~으로부터의 독립)"],
+  "ex_add": "The country gained independence in 1947.  (independence=독립)"
+ },
+ {
+  "num": "2895",
+  "hw": "index",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "가리키는 것 -> '색인·지수·지표 / 색인을 만들다'.",
+  "senses": [
+   "1) (책의) 색인",
+   "2) (경제) 지수·지표",
+   "3) (동사) 색인을 만들다 / 가리키는 것(척도)"
+  ],
+  "etym": "라틴어 index(집게손가락·가리키는 것) <- indicare(가리키다) = in-(향하여) + dicare(알리다). '가리켜 주는 것'이 핵심. dicare/dicere(말하다)는 indicate·indication(2896)·dictate(받아쓰게 하다)·predict(예언하다)·dedicate(바치다)의 뿌리. 복수형 indexes 또는 indices.",
+  "deriv": "in-(향하여) + dicare(알리다) -> index. '가리키는 것 -> (책의) 색인(look it up in the index)' -> '지수·지표(the price index, 물가 지수)' -> 동사 '색인하다'. 한국 학습자 핵심: dicere(말하다) 대가족 — indicate·indication(2896)·dictate·predict·dedicate·dictionary·verdict·contradict! 복수형 indexes(색인) / indices(지수, 수학·경제)! the cost-of-living index(생활비 지수), a price index(물가 지수), the index finger(집게손가락), an index of(~의 지표). guide(안내)·gauge(척도)와 유의어.",
+  "syn": ["indicator(지표)", "guide(안내)", "gauge(척도)"],
+  "anti": [],
+  "idiom": ["the index finger(집게손가락)", "a price index(물가 지수)", "an index of(~의 지표)"],
+  "colloc": ["look up in the index(색인에서 찾다)", "a price index(물가 지수)", "the stock index(주가 지수)"],
+  "ex_add": "You can find the topic listed in the index at the back.  (index=색인)"
+ },
+ {
+  "num": "2896",
+  "hw": "indication",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "가리켜 알림 -> '표시·징후·암시'.",
+  "senses": [
+   "1) 표시·징후·기미",
+   "2) 암시·시사",
+   "3) (계기의) 지시·표시값"
+  ],
+  "etym": "라틴어 indicare(가리키다)의 명사형 indicatio = in-(향하여) + dicare(알리다). index(2895)·indicate·dictate와 한 dicere(말하다) 갈래. '가리켜 알려 주는 것'이 핵심.",
+  "deriv": "in-(향하여) + dicare(알리다) -> indicate -> 'indication'. '가리켜 알림 -> 표시·징후(a clear indication, 분명한 징후)' -> '암시(give no indication, 전혀 내비치지 않다)'. 한국 학습자 핵심: dicere(말하다) 대가족 — index(2895)·indicate·dictate·predict·dedicate·dictionary·contradict·verdict·diction! an indication of(~의 표시·징후), give an indication(기미를 보이다), every indication(모든 정황), there is no indication that(~라는 징후가 없다). sign(징후)·signal(신호)·hint(암시)와 유의어. indicate(나타내다)·indicator(지표)가 가족.",
+  "syn": ["sign(징후)", "signal(신호)", "hint(암시)"],
+  "anti": [],
+  "idiom": ["an indication of(~의 징후)", "give no indication(전혀 내비치지 않다)", "every indication(모든 정황)"],
+  "colloc": ["a clear indication(분명한 징후)", "an indication of(~의 표시)", "give an indication(기미를 보이다)"],
+  "ex_add": "There was no indication that he was lying.  (indication=징후)"
+ },
+ {
+  "num": "2897",
+  "hw": "industrial",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "근면한 일의 -> '산업의·공업의'.",
+  "senses": [
+   "1) 산업의·공업의",
+   "2) 산업용의·공업용의",
+   "3) 산업이 발달한"
+  ],
+  "etym": "라틴어 industria(부지런함·근면) -> industry(산업) + -al. 본래 '부지런히 일함(industria)'에서 '산업'으로. industrious(근면한)·industry(산업)와 한 갈래. (industrial 산업의 / industrious 근면한 구별!)",
+  "deriv": "industria(근면) -> industry -> 'industrial'. '근면한 일의 -> 산업의·공업의(industrial production, 산업 생산)'. 한국 학습자 핵심: industrial(산업의)과 industrious(근면한)를 꼭 구별 — 철자가 비슷하나 뜻이 전혀 다름! the Industrial Revolution(산업 혁명), an industrial estate(공업 단지, 2683), industrial waste(산업 폐기물), industrial action(영, 쟁의 행위), heavy industry(중공업). industry(산업)·industrialize(산업화하다)·industrialization(산업화)이 가족. manufacturing(제조의)·commercial(상업의)과 유의어.",
+  "syn": ["manufacturing(제조의)", "commercial(상업의)"],
+  "anti": ["agricultural(농업의)", "domestic(가정의)"],
+  "idiom": ["the Industrial Revolution(산업 혁명)", "industrial action(쟁의 행위)", "an industrial estate(공업 단지)"],
+  "colloc": ["industrial production(산업 생산)", "industrial waste(산업 폐기물)", "the industrial sector(산업 부문)"],
+  "ex_add": "The city grew rapidly during the Industrial Revolution.  (industrial=산업의)"
+ },
+ {
+  "num": "2898",
+  "hw": "inevitable",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "피할 수 없는 -> '불가피한·필연적인'.",
+  "senses": [
+   "1) 피할 수 없는·불가피한",
+   "2) 필연적인·당연한",
+   "3) (the inevitable) 피할 수 없는 일"
+  ],
+  "etym": "라틴어 inevitabilis = in-(부정) + evitabilis(피할 수 있는) <- evitare = e-(밖으로) + vitare(피하다). '피할(vitare) 수 없는'이 핵심. vitare(피하다)는 inevitable·inevitably(2899)·unavoidable과 통하는 갈래.",
+  "deriv": "in-(부정) + vitare(피하다) -> 'inevitable'. '피할 수 없는 -> 불가피한·필연적인(an inevitable consequence, 필연적 결과)'. 한국 학습자 핵심: vitare(피하다) 갈래 — evitable(피할 수 있는, 드묾)·inevitable·inevitably(2899)! it is inevitable that(~은 불가피하다), the inevitable result(필연적 결과), accept the inevitable(불가피한 일을 받아들이다), almost inevitable(거의 불가피한). unavoidable(피할 수 없는)·inescapable(벗어날 수 없는)과 유의어. 반대 avoidable(피할 수 있는)·preventable(예방 가능한). inevitably(2899)가 부사.",
+  "syn": ["unavoidable(피할 수 없는)", "inescapable(벗어날 수 없는)", "certain(확실한)"],
+  "anti": ["avoidable(피할 수 있는)", "preventable(예방 가능한)"],
+  "idiom": ["it is inevitable that(~은 불가피하다)", "accept the inevitable(불가피한 일을 받아들이다)", "the inevitable result(필연적 결과)"],
+  "colloc": ["an inevitable consequence(필연적 결과)", "almost inevitable(거의 불가피한)", "the inevitable result(필연적 결과)"],
+  "ex_add": "With so little practice, defeat was inevitable.  (inevitable=불가피한)"
+ },
+ {
+  "num": "2899",
+  "hw": "inevitably",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'불가피하게·필연적으로·어김없이'.",
+  "senses": [
+   "1) 불가피하게·필연적으로",
+   "2) 어김없이·당연히",
+   "3) 결국"
+  ],
+  "etym": "inevitable(불가피한, 2898) + -ly. 라틴어 in-(부정) + vitare(피하다) 뿌리. '피할 수 없이'가 핵심. inevitable(2898)과 한 갈래.",
+  "deriv": "inevitable(2898) -> 'inevitably'. '피할 수 없이 -> 불가피하게·어김없이(inevitably, prices rose, 결국 물가가 올랐다)'. 한국 학습자 핵심: vitare(피하다) 갈래 — inevitable(2898)·evitable! inevitably leads to(필연적으로 ~으로 이어지다), almost inevitably(거의 어김없이), as inevitably happens(으레 그렇듯), inevitably, ~(결국·당연히 ~). 문장 부사로 '으레·결국'을 나타냄. unavoidably(불가피하게)·necessarily(필연적으로)·naturally(당연히)와 유의어. inevitable(2898) 가족. 반대 avoidably(피할 수 있게).",
+  "syn": ["unavoidably(불가피하게)", "necessarily(필연적으로)", "naturally(당연히)"],
+  "anti": ["avoidably(피할 수 있게)", "possibly(어쩌면)"],
+  "idiom": ["inevitably leads to(필연적으로 ~으로 이어지다)", "as inevitably happens(으레 그렇듯)"],
+  "colloc": ["inevitably lead to(필연적으로 ~으로 이어지다)", "almost inevitably(거의 어김없이)", "inevitably result in(결국 ~을 초래하다)"],
+  "ex_add": "Such a large project will inevitably face some delays.  (inevitably=불가피하게)"
+ },
+ {
+  "num": "2900",
+  "hw": "infection",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "안에 스며들게 함 -> '감염·전염(병)'.",
+  "senses": [
+   "1) 감염·전염",
+   "2) 감염증·전염병",
+   "3) (병균의) 침입"
+  ],
+  "etym": "라틴어 inficere = in-(안에) + facere(만들다·하다) -> '안에 병독을 만들어 넣음'. facere(만들다)는 infect(감염시키다)·effect(효과)·perfect(완벽한)·fact(사실)·factory(공장)의 거대한 뿌리.",
+  "deriv": "in-(안에) + facere(만들다) -> infect -> 'infection'. '안에 병독을 넣음 -> 감염·전염(a bacterial infection, 세균 감염)'. 한국 학습자 핵심: facere(만들다) 대가족 — infect·effect·perfect·fact·factory·efficient(2645)·defeat(2559)·affect! a viral/bacterial infection(바이러스·세균 감염), spread infection(감염을 퍼뜨리다), an ear infection(귀 염증), prevent infection(감염을 막다), infectious(전염성의). disease(질병)·contagion(전염)과 유의어 — infection은 '병원체 침입'. infect(감염시키다)·infectious(전염성의)가 가족.",
+  "syn": ["contagion(전염)", "disease(질병)", "contamination(오염)"],
+  "anti": ["immunity(면역)", "sterility(무균)"],
+  "idiom": ["a bacterial infection(세균 감염)", "spread infection(감염을 퍼뜨리다)", "prevent infection(감염을 예방하다)"],
+  "colloc": ["a viral infection(바이러스 감염)", "spread infection(감염을 확산시키다)", "prevent infection(감염을 막다)"],
+  "ex_add": "Wash your hands to reduce the risk of infection.  (infection=감염)"
+ },
+ {
+  "num": "2901",
+  "hw": "infer",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "끌어들여 추리하다 -> '추론하다·미루어 알다'.",
+  "senses": [
+   "1) 추론하다·추리하다",
+   "2) (정황으로) 미루어 알다",
+   "3) 함축하다(비표준)"
+  ],
+  "etym": "라틴어 inferre = in-(안으로) + ferre(나르다·가져오다) -> '결론을 안으로 끌어들임'. ferre(나르다)는 differ(2594)·refer·prefer·transfer·offer·suffer·confer·fertile의 거대한 뿌리.",
+  "deriv": "in-(안으로) + ferre(나르다) -> 'infer'. '끌어들여 추리하다 -> 추론하다(infer from the evidence, 증거로 미루어 추론하다)'. 한국 학습자 핵심: ferre(나르다) 대가족 — differ(2594)·refer·prefer·transfer·offer·suffer·confer·infer·circumference·conference·fertile! infer A from B(B에서 A를 추론하다), it can be inferred that(~을 추론할 수 있다), inference(추론). imply(2883, 말하는 이가 암시) vs infer(듣는 이가 추론) — 최고 빈출 혼동! 'The speaker implies, the listener infers'! deduce(연역하다)·conclude(결론짓다)·gather(짐작하다)와 유의어.",
+  "syn": ["deduce(추론하다)", "conclude(결론짓다)", "gather(짐작하다)"],
+  "anti": ["imply(암시하다)", "state(명시하다)"],
+  "idiom": ["infer from(~에서 추론하다)", "it can be inferred that(~을 추론할 수 있다)"],
+  "colloc": ["infer from(~으로부터 추론하다)", "reasonably infer(합리적으로 추론하다)", "infer meaning(의미를 추론하다)"],
+  "ex_add": "From his tone, I inferred that he was unhappy.  (infer=추론하다)"
+ },
+ {
+  "num": "2902",
+  "hw": "inflation",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "부풀어 오름 -> '물가 상승·인플레이션 / 팽창'.",
+  "senses": [
+   "1) (경제) 물가 상승·인플레이션",
+   "2) 통화 팽창",
+   "3) 부풀림·팽창"
+  ],
+  "etym": "라틴어 inflare = in-(안으로) + flare(불다) -> 명사형 inflatio -> '바람을 불어넣어 부풀림'. flare(불다)는 inflate(부풀리다)·deflate(공기를 빼다)·flatulent(가스 찬)·conflate(융합하다)의 뿌리.",
+  "deriv": "in-(안으로) + flare(불다) -> inflate -> 'inflation'. '부풀어 오름 -> (돈 가치가 떨어지고 물가가 부푸는) 인플레이션(rising inflation, 치솟는 물가)'. 한국 학습자 핵심: flare(불다) 갈래 — inflate(부풀리다)·deflate(수축시키다)·deflation(물가 하락)·flatulent! the inflation rate(물가 상승률), high/low inflation(높은/낮은 인플레), curb inflation(물가를 잡다), inflation is rising(물가가 오르고 있다), wage inflation(임금 상승). 경제 단원 핵심어 — inflation(물가 상승) ↔ deflation(물가 하락)! price rises(물가 상승)와 유의어.",
+  "syn": ["price rises(물가 상승)", "rising prices(가격 상승)"],
+  "anti": ["deflation(물가 하락)", "recession(경기 침체)"],
+  "idiom": ["the inflation rate(물가 상승률)", "curb inflation(물가를 억제하다)", "high inflation(고물가)"],
+  "colloc": ["rising inflation(치솟는 물가)", "the inflation rate(물가 상승률)", "curb inflation(인플레이션을 억제하다)"],
+  "ex_add": "High inflation is making everyday goods more expensive.  (inflation=물가 상승)"
+ },
+ {
+  "num": "2903",
+  "hw": "info",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "(구어) '정보'.",
+  "senses": [
+   "1) (구어) 정보(information의 줄임말)",
+   "2) 안내·자료",
+   "3) 정보 사항"
+  ],
+  "etym": "information(정보)의 비격식 줄임말. information은 라틴어 informare = in-(안에) + forma(모양) -> '머릿속에 형태를 잡아 줌'. inform(2904)·forma(format 2764)와 한 갈래. '알려 주는 내용'이 핵심.",
+  "deriv": "information -> 'info'. '정보(for more info, 더 자세한 정보는)'. 한국 학습자 핵심: info는 구어·비격식 — 격식 있는 글에서는 information을! information과 마찬가지로 불가산명사(much info, a piece of info)! contact info(연락처), info desk(안내 데스크), for more info(추가 정보는), travel info(여행 정보), the latest info(최신 정보). inform(2904)·information·informative(유익한)와 한 forma 갈래. data(자료)·details(세부 사항)와 유의어. (info는 표지판·웹사이트에서 흔함.)",
+  "syn": ["information(정보)", "data(자료)", "details(세부 사항)"],
+  "anti": [],
+  "idiom": ["for more info(더 자세한 정보는)", "an info desk(안내 데스크)", "contact info(연락처)"],
+  "colloc": ["contact info(연락처)", "for more info(추가 정보)", "travel info(여행 정보)"],
+  "ex_add": "Check the website for more info on the event.  (info=정보)"
+ },
+ {
+  "num": "2904",
+  "hw": "inform",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "마음에 형태를 잡아 주다 -> '알리다·통지하다 / 밀고하다'.",
+  "senses": [
+   "1) 알리다·통지하다(inform sb of/about)",
+   "2) (지식·견해에) 영향을 주다·뒷받침하다",
+   "3) (inform on/against) 밀고하다"
+  ],
+  "etym": "라틴어 informare = in-(안에) + forma(모양·형태) -> '마음속에 형태(forma)를 잡아 줌 -> 알려 줌'. forma(모양)는 form(형태)·format(2764)·formation(2765)·reform·uniform·transform의 거대한 뿌리.",
+  "deriv": "in-(안에) + forma(모양) -> 'inform'. '마음에 형태를 잡아 주다 -> 알리다(inform sb of the change)' -> '뒷받침하다(research that informs policy)' -> 'inform on(밀고하다)'. 한국 학습자 핵심: forma(모양) 대가족 — form·format(2764)·formation(2765)·reform·uniform·transform·inform·information·informative! inform sb of/about(~에게 ~을 알리다 — 빈출!), keep sb informed(~에게 계속 알려 주다), well-informed(잘 아는·정통한), inform on/against sb(~를 밀고하다). notify(통지하다)·tell(말하다)·advise(알리다)와 유의어. info(2903)·information이 가족.",
+  "syn": ["notify(통지하다)", "tell(알리다)", "advise(알리다)"],
+  "anti": ["conceal(숨기다)", "mislead(오도하다)"],
+  "idiom": ["inform sb of(~에게 ~을 알리다)", "keep sb informed(~에게 계속 알리다)", "well-informed(정통한)", "inform on(밀고하다)"],
+  "colloc": ["inform sb of(~에게 알리다)", "keep informed(계속 알려 주다)", "inform the police(경찰에 신고하다)"],
+  "ex_add": "Please inform us of any change in your address.  (inform=알리다)"
+ },
+ {
+  "num": "2905",
+  "hw": "infrastructure",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "밑에 깔린 구조 -> '기반 시설·사회 기반'.",
+  "senses": [
+   "1) (사회) 기반 시설(도로·전기·통신 등)",
+   "2) 하부 구조·기간 시설",
+   "3) (조직의) 기반 체계"
+  ],
+  "etym": "infra-(아래·밑) + structure(구조). structure는 라틴어 struere(쌓다·세우다). '밑(infra)에 깔아 세운 구조(struere)'가 핵심. struere(쌓다)는 construct(2485)·construction(2486)·destruction(2588)·instruct·structure의 뿌리.",
+  "deriv": "infra-(밑) + struere(쌓다) -> 'infrastructure'. '밑에 깔린 구조 -> 기반 시설(transport infrastructure, 교통 기반 시설)'. 한국 학습자 핵심: struere(쌓다) 대가족 — construct(2485)·construction(2486)·destruction(2588)·instruct·structure·obstruct! infra-(아래)는 infrared(적외선)·infrastructure! invest in infrastructure(기반 시설에 투자하다), build infrastructure(인프라를 구축하다), aging infrastructure(노후 기반 시설), digital infrastructure(디지털 인프라), critical infrastructure(핵심 기반 시설). framework(2778, 틀)·foundation(2774, 토대)과 유의어. 시사·경제 핵심어(콩글리시 '인프라'의 어원).",
+  "syn": ["framework(기반)", "foundation(토대)", "facilities(시설)"],
+  "anti": [],
+  "idiom": ["transport infrastructure(교통 기반 시설)", "aging infrastructure(노후 인프라)", "critical infrastructure(핵심 기반 시설)"],
+  "colloc": ["invest in infrastructure(기반 시설에 투자하다)", "transport infrastructure(교통 인프라)", "build infrastructure(인프라를 구축하다)"],
+  "ex_add": "The country needs to invest more in its infrastructure.  (infrastructure=기반 시설)"
+ },
+ {
+  "num": "2906",
+  "hw": "inhabitant",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "그곳에 사는 사람 -> '주민·거주자·서식 동물'.",
+  "senses": [
+   "1) 주민·거주자",
+   "2) (특정 지역의) 서식 동물",
+   "3) 토박이·터줏대감"
+  ],
+  "etym": "라틴어 inhabitare = in-(안에) + habitare(살다) <- habere(가지다·지니다) -> '~안에 머물러 사는 사람'. habere(가지다)는 habit(습관)·habitat(2829)·inhabit(거주하다)·exhibit(2702)·ability의 거대한 뿌리.",
+  "deriv": "in-(안에) + habitare(살다) -> inhabit -> 'inhabitant'. '그곳에 사는 사람 -> 주민·거주자(the inhabitants of the village, 마을 주민들)'. 한국 학습자 핵심: habere(가지다) 대가족 — habit·habitat(2829)·inhabit(거주하다)·exhibit(2702)·ability·disability(2597)·prohibit·enable(2663)! the inhabitants of(~의 주민들), local inhabitants(현지 주민), the earliest inhabitants(최초 거주민), original inhabitants(원주민). resident(거주자)·dweller(거주자)·citizen(2425, 시민)과 유의어. inhabit(거주하다)·habitat(2829, 서식지)이 가족.",
+  "syn": ["resident(거주자)", "dweller(거주자)", "occupant(점유자)"],
+  "anti": ["visitor(방문객)", "outsider(외지인)"],
+  "idiom": ["the inhabitants of(~의 주민들)", "local inhabitants(현지 주민)", "original inhabitants(원주민)"],
+  "colloc": ["local inhabitants(현지 주민)", "the inhabitants of(~의 거주민)", "the earliest inhabitants(최초 거주민)"],
+  "ex_add": "The island's inhabitants depend mostly on fishing.  (inhabitant=주민)"
+ },
+ {
+  "num": "2907",
+  "hw": "inherit",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "상속인이 되다 -> '물려받다·상속하다·유전되다'.",
+  "senses": [
+   "1) (재산·지위를) 물려받다·상속하다",
+   "2) (성질·체질을) 유전으로 물려받다",
+   "3) (전임자에게서) 떠안다·이어받다"
+  ],
+  "etym": "라틴어 inheritare = in-(안에) + heres/hered-(상속인) -> '상속인(heres)이 됨'. heres(상속인)는 heir(상속인)·heritage(유산)·hereditary(유전의)·inheritance(상속)의 뿌리.",
+  "deriv": "in-(안에) + heres(상속인) -> 'inherit'. '상속인이 되다 -> 물려받다(inherit a fortune, 재산을 물려받다)' -> '유전으로 물려받다(inherit blue eyes)' -> '떠안다(inherit problems)'. 한국 학습자 핵심: heres(상속인) 갈래 — heir(상속인, h 묵음 '에어')·heiress(여자 상속인)·heritage(유산)·hereditary(세습의)·inheritance(상속)! inherit A from B(B에게서 A를 물려받다), inherit money/property(돈·재산을 상속받다), inherit a trait(형질을 물려받다), an inherited disease(유전병). 반대 bequeath(물려주다)·disinherit(상속권을 박탈하다).",
+  "syn": ["be left(물려받다)", "succeed to(승계하다)", "come into(상속받다)"],
+  "anti": ["bequeath(물려주다)", "disinherit(상속권을 박탈하다)"],
+  "idiom": ["inherit A from B(B에게서 A를 물려받다)", "an inherited disease(유전병)"],
+  "colloc": ["inherit a fortune(재산을 물려받다)", "inherit from(~에게서 물려받다)", "inherit a trait(형질을 물려받다)"],
+  "ex_add": "She inherited the house from her grandmother.  (inherit=물려받다)"
+ },
+ {
+  "num": "2908",
+  "hw": "initial",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "들어가는 첫 -> '처음의·최초의 / 머리글자'.",
+  "senses": [
+   "1) 처음의·최초의·초기의",
+   "2) 머리글자·이니셜(명사)",
+   "3) (동사) 이니셜로 서명하다"
+  ],
+  "etym": "라틴어 initialis <- initium(시작) <- inire = in-(안으로) + ire(가다) -> '안으로 들어가기 시작함'. ire(가다)는 initiate(시작하다)·initiative(2910)·exit(2704)·transit·ambition의 뿌리.",
+  "deriv": "in-(안으로) + ire(가다) -> initium(시작) -> 'initial'. '들어가는 첫 -> 처음의·최초의(the initial stage, 초기 단계)' -> 명사 '머리글자(sign your initials)'. 한국 학습자 핵심: ire(가다) 갈래 — initiate(개시하다)·initiative(2910)·initially(2909)·exit(2704)·transit·ambition·circuit(2422)·perish! the initial stage/phase(초기 단계), an initial reaction(첫 반응), initial costs(초기 비용), one's initials(이름의 머리글자, John Smith -> J.S.). first(첫)·original(최초의)·preliminary(예비의)와 유의어. 반대 final(최종의)·last(마지막의). initially(2909)가 부사.",
+  "syn": ["first(첫)", "original(최초의)", "preliminary(예비의)"],
+  "anti": ["final(최종의)", "last(마지막의)", "subsequent(그다음의)"],
+  "idiom": ["the initial stage(초기 단계)", "one's initials(머리글자)", "an initial reaction(첫 반응)"],
+  "colloc": ["the initial stage(초기 단계)", "an initial reaction(첫 반응)", "initial costs(초기 비용)"],
+  "ex_add": "My initial reaction was one of shock.  (initial=처음의)"
+ },
+ {
+  "num": "2909",
+  "hw": "initially",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'처음에·초기에·당초'.",
+  "senses": [
+   "1) 처음에·초기에",
+   "2) 당초·애초에",
+   "3) 우선"
+  ],
+  "etym": "initial(처음의, 2908) + -ly. 라틴어 in-(안으로) + ire(가다) -> initium(시작) 뿌리. '시작 단계에서'가 핵심. initiate·initiative(2910)·exit(2704)와 한 ire 갈래.",
+  "deriv": "initial(2908) -> 'initially'. '처음에·당초(initially, I refused, 처음엔 거절했다)'. 한국 학습자 핵심: ire(가다) 갈래 — initial(2908)·initiate·initiative(2910)·exit(2704)·transit·ambition·circuit(2422)! initially, ~(처음엔 ~ — 뒤에 but으로 반전이 자주 옴: Initially I was nervous, but...), initially planned(애초에 계획된), initially reluctant(처음엔 꺼리던). at first(처음에)·originally(원래)·to begin with(우선)와 유의어. initial(2908) 가족. 반대 finally(마침내)·eventually(결국)·ultimately(궁극적으로).",
+  "syn": ["at first(처음에)", "originally(원래)", "to begin with(우선)"],
+  "anti": ["finally(마침내)", "eventually(결국)", "ultimately(궁극적으로)"],
+  "idiom": ["initially, ~(처음엔 ~)", "initially planned(애초 계획된)"],
+  "colloc": ["initially planned(처음에 계획된)", "initially reluctant(처음엔 꺼리던)", "initially thought(처음엔 생각했던)"],
+  "ex_add": "Initially, I didn't like the idea, but it grew on me.  (initially=처음에)"
+ },
+ {
+  "num": "2910",
+  "hw": "initiative",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "먼저 나섬 -> '주도권·진취성 / 새로운 시도'.",
+  "senses": [
+   "1) 주도(권)·솔선",
+   "2) 진취성·결단력·적극성",
+   "3) (문제 해결을 위한) 새로운 계획·구상"
+  ],
+  "etym": "라틴어 initiare(시작하다) <- initium(시작) <- in-(안으로) + ire(가다). '먼저 시작해 나서는 힘'이 핵심. initial(2908)·initially(2909)·initiate(개시하다)와 한 ire 갈래.",
+  "deriv": "in-(안으로) + ire(가다) -> initium -> 'initiative'. '먼저 나섬 -> 주도권(take the initiative, 주도하다)' -> '진취성(show initiative, 적극성을 보이다)' -> '새 구상(a peace initiative, 평화 구상)'. 한국 학습자 핵심: ire(가다) 갈래 — initial(2908)·initially(2909)·initiate·exit(2704)·transit·ambition·circuit(2422)! take the initiative(주도적으로 나서다 — 빈출!), on one's own initiative(자발적으로), use your initiative(알아서 하다), a government initiative(정부 시책), seize the initiative(주도권을 잡다). enterprise(진취성)·drive(추진력)·lead(주도)와 유의어.",
+  "syn": ["enterprise(진취성)", "drive(추진력)", "lead(주도)"],
+  "anti": ["apathy(무기력)", "passivity(수동성)"],
+  "idiom": ["take the initiative(주도적으로 나서다)", "on one's own initiative(자발적으로)", "use your initiative(알아서 하다)"],
+  "colloc": ["take the initiative(주도하다)", "show initiative(진취성을 보이다)", "a government initiative(정부 시책)"],
+  "ex_add": "She showed great initiative in solving the problem.  (initiative=진취성)"
+ },
+ {
+  "num": "2911",
+  "hw": "ink",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "글씨용 색액 -> '잉크 / 잉크로 쓰다'.",
+  "senses": [
+   "1) (글씨·인쇄용) 잉크",
+   "2) (오징어 등의) 먹물",
+   "3) (동사) 잉크로 쓰다 / (계약에) 서명하다"
+  ],
+  "etym": "그리스어 enkauston(태워 넣은 색액) = en-(안에) + kaiein(태우다) -> 라틴어 encaustum -> 'ink'. 본래 '불에 달궈 만든 보라색 잉크'에서. '글씨를 쓰는 색액'이 핵심.",
+  "deriv": "enkauston(태운 색액) -> 'ink'. '글씨용 잉크(written in ink, 잉크로 쓴)' -> '먹물' -> 동사 '서명하다(ink a deal, 계약에 서명하다)'. 한국 학습자 핵심: enkauston(태우다)은 encaustic(밀랍화)과 친척! a bottle of ink(잉크 한 병), in ink(잉크로, vs in pencil 연필로), an inkjet printer(잉크젯 프린터), red ink(적자·빨간 잉크), ink a contract(계약을 체결하다), spill ink(잉크를 쏟다). 비유 — '신문에 많이 다뤄지다'를 get a lot of ink! pen(펜)·dye(염료)와 관련.",
+  "syn": ["dye(염료)", "pigment(안료)"],
+  "anti": [],
+  "idiom": ["in ink(잉크로)", "red ink(적자)", "ink a deal(계약에 서명하다)"],
+  "colloc": ["a bottle of ink(잉크 한 병)", "written in ink(잉크로 쓴)", "an inkjet printer(잉크젯 프린터)"],
+  "ex_add": "Please fill out the form in black ink.  (ink=잉크)"
+ },
+ {
+  "num": "2912",
+  "hw": "inner",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "안쪽의 -> '내부의·안쪽의 / 내면의'.",
+  "senses": [
+   "1) 안쪽의·내부의",
+   "2) (마음) 내면의·은밀한",
+   "3) 핵심에 가까운·측근의"
+  ],
+  "etym": "고대 영어 innera(더 안쪽의) <- in(안)의 비교급. '더 안쪽에 있는'이 핵심. in(안)·inner·innermost(가장 깊은 곳의)·interior(내부)와 한 갈래. outer(바깥의)와 정반대 짝.",
+  "deriv": "in(안) -> innera -> 'inner'. '안쪽의 -> 내부의(the inner ear, 속귀)' -> '내면의(inner peace, 마음의 평화)' -> '측근의(the inner circle, 핵심 측근)'. 한국 학습자 핵심: inner(안쪽의) ↔ outer(바깥쪽의) 정반대 짝! inner peace(내적 평화), inner city(도심 빈민가), the inner circle(핵심 집단·측근), one's inner self(내면의 자아), inner strength(내면의 힘), inner workings(내부 작동 원리). internal(2935, 내부의)·interior(내부의)와 유의어. 반대 outer(바깥의)·external(2720, 외부의).",
+  "syn": ["internal(내부의)", "interior(안쪽의)", "inside(내부의)"],
+  "anti": ["outer(바깥의)", "external(외부의)", "outside(외부의)"],
+  "idiom": ["inner peace(마음의 평화)", "the inner circle(핵심 측근)", "inner city(도심 빈민가)", "inner strength(내면의 힘)"],
+  "colloc": ["the inner ear(속귀)", "inner peace(내적 평화)", "the inner circle(핵심 집단)"],
+  "ex_add": "She finally found inner peace through meditation.  (inner=내면의)"
+ },
+ {
+  "num": "2913",
+  "hw": "innovation",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "새롭게 함 -> '혁신·쇄신 / 새로운 것'.",
+  "senses": [
+   "1) 혁신·쇄신",
+   "2) 새로운 도입·신기술",
+   "3) 새 제도·새 방식"
+  ],
+  "etym": "라틴어 innovare = in-(안에) + novus(새로운) -> 명사형 innovatio -> '새것(novus)으로 바꿈'. novus(새로운)는 novel(소설·새로운)·novelty(참신함)·renovate(개조하다)·novice(초보자)·innovative(2914)의 뿌리.",
+  "deriv": "in-(안에) + novus(새로운) -> innovate -> 'innovation'. '새롭게 함 -> 혁신·쇄신(technological innovation, 기술 혁신)'. 한국 학습자 핵심: novus(새로운) 갈래 — novel(소설/새로운)·novelty(신기함)·renovate(개조하다)·novice(풋내기)·innovative(2914)·renewal(갱신)! technological innovation(기술 혁신), drive innovation(혁신을 추진하다), a major innovation(중대한 혁신), foster innovation(혁신을 촉진하다), innovation and creativity(혁신과 창의). invention(발명)·breakthrough(획기적 발전)와 유의어 — innovation은 '새로 도입·개선'. 반대 tradition(전통)·stagnation(정체).",
+  "syn": ["invention(발명)", "breakthrough(획기적 발전)", "novelty(참신함)"],
+  "anti": ["tradition(전통)", "stagnation(정체)", "convention(인습)"],
+  "idiom": ["technological innovation(기술 혁신)", "drive innovation(혁신을 이끌다)", "foster innovation(혁신을 촉진하다)"],
+  "colloc": ["technological innovation(기술 혁신)", "a major innovation(중대한 혁신)", "drive innovation(혁신을 추진하다)"],
+  "ex_add": "The company is known for its constant innovation.  (innovation=혁신)"
+ },
+ {
+  "num": "2914",
+  "hw": "innovative",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "새것을 들이는 -> '혁신적인·획기적인'.",
+  "senses": [
+   "1) 혁신적인·획기적인",
+   "2) 창의적인·참신한",
+   "3) 새로운 방식의"
+  ],
+  "etym": "innovate(혁신하다) + -ive. 라틴어 in-(안에) + novus(새로운) 뿌리. '새것(novus)을 들여 바꾸는'이 핵심. innovation(2913)·novel·renovate와 한 novus 갈래.",
+  "deriv": "in-(안에) + novus(새로운) -> innovate -> 'innovative'. '새것을 들이는 -> 혁신적인·획기적인(an innovative approach, 혁신적 접근)'. 한국 학습자 핵심: novus(새로운) 갈래 — novel(새로운)·novelty·renovate(개조하다)·novice(초보)·innovation(2913)! an innovative design(혁신적 디자인), highly innovative(매우 혁신적인), an innovative solution(획기적 해법), innovative technology(혁신 기술). creative(2... 창의적인)·groundbreaking(획기적인)·cutting-edge(최첨단의)와 유의어. 반대 conventional(2499, 인습적인)·traditional(전통적인)·outdated(구식의).",
+  "syn": ["groundbreaking(획기적인)", "creative(창의적인)", "cutting-edge(최첨단의)"],
+  "anti": ["conventional(인습적인)", "traditional(전통적인)", "outdated(구식의)"],
+  "idiom": ["an innovative approach(혁신적 접근)", "highly innovative(매우 혁신적인)"],
+  "colloc": ["an innovative design(혁신적 디자인)", "an innovative approach(혁신적 접근)", "innovative technology(혁신 기술)"],
+  "ex_add": "The school uses innovative teaching methods.  (innovative=혁신적인)"
+ },
+ {
+  "num": "2915",
+  "hw": "input",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "안에 넣음 -> '투입·입력 / 조언·기여 / 입력하다'.",
+  "senses": [
+   "1) 투입(물)·입력 (자료)",
+   "2) (조언·정보 등의) 기여·의견 제공",
+   "3) (동사) (데이터를) 입력하다"
+  ],
+  "etym": "in(안에) + put(놓다·넣다). '안으로(in) 넣음(put)'이 핵심. output(산출, out+put)과 정반대 짝. put(놓다)과 한 토박이 갈래.",
+  "deriv": "in(안에) + put(넣다) -> 'input'. '안에 넣음 -> 투입·입력(data input, 데이터 입력)' -> '의견·기여(value your input, 당신의 의견을 중시하다)' -> 동사 '입력하다(input the figures)'. 한국 학습자 핵심: input(투입, in-) ↔ output(산출, out-) 정반대! have an input into(~에 의견을 내다), value sb's input(~의 조언을 소중히 여기다), data input(자료 입력), sensory input(감각 입력), input and output(입출력). contribution(2494, 기여)·feedback(2739)과 유의어 — '의견·기여' 뜻이 회화에서 빈출! 반대 output(산출)·outcome(결과).",
+  "syn": ["contribution(기여)", "feedback(의견)", "data(자료)"],
+  "anti": ["output(산출)", "outcome(결과)"],
+  "idiom": ["have an input into(~에 의견을 내다)", "value sb's input(~의 의견을 중시하다)", "data input(데이터 입력)"],
+  "colloc": ["data input(데이터 입력)", "value your input(당신의 의견을 중시하다)", "user input(사용자 입력)"],
+  "ex_add": "We'd welcome your input on this project.  (input=의견)"
+ },
+ {
+  "num": "2916",
+  "hw": "inquiry",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "안을 캐물음 -> '문의·조사·탐구'.",
+  "senses": [
+   "1) 문의·질문",
+   "2) (공식) 조사·심리",
+   "3) 탐구·연구"
+  ],
+  "etym": "라틴어 inquirere = in-(안으로) + quaerere(찾다·구하다) -> '안을 파고들어 찾음'. quaerere(찾다)는 inquire(문의하다)·require(요구하다)·acquire(획득하다)·question(질문)·quest(탐구)·conquer(정복하다)의 뿌리. (영국식 enquiry.)",
+  "deriv": "in-(안으로) + quaerere(찾다) -> inquire -> 'inquiry'. '안을 캐물음 -> 문의(make an inquiry, 문의하다)' -> 공식 '조사·심리(a public inquiry, 공개 조사)' -> '탐구(scientific inquiry)'. 한국 학습자 핵심: quaerere(찾다) 대가족 — inquire·require·acquire·question·quest·conquer·request·query! make an inquiry(문의하다), launch an inquiry(조사에 착수하다), an inquiry into(~에 대한 조사), a line of inquiry(수사 방향). investigation(조사)·question(질문)·probe(조사)와 유의어. 영국식 enquiry(문의)/inquiry(공식 조사) 구별 경향.",
+  "syn": ["investigation(조사)", "question(질문)", "probe(조사)"],
+  "anti": ["answer(대답)", "reply(응답)"],
+  "idiom": ["make an inquiry(문의하다)", "launch an inquiry(조사에 착수하다)", "an inquiry into(~에 대한 조사)"],
+  "colloc": ["a public inquiry(공개 조사)", "make an inquiry(문의하다)", "an inquiry into(~에 대한 조사)"],
+  "ex_add": "The government launched an inquiry into the accident.  (inquiry=조사)"
+ },
+ {
+  "num": "2917",
+  "hw": "insert",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "안에 끼워 넣다 -> '삽입하다·넣다 / 삽입물'.",
+  "senses": [
+   "1) 끼워 넣다·삽입하다",
+   "2) (글·말을) 덧붙여 넣다",
+   "3) 삽입물·끼움 광고(명사)"
+  ],
+  "etym": "라틴어 inserere = in-(안에) + serere(엮다·이어 놓다) -> '안에 끼워 엮어 넣음'. serere(엮다)는 series(연속)·assert(주장하다)·desert(2583, 버리다)·exert(발휘하다)의 뿌리.",
+  "deriv": "in-(안에) + serere(엮다) -> 'insert'. '안에 끼워 넣다 -> 삽입하다(insert a coin, 동전을 넣다)' -> '덧붙여 넣다(insert a clause)' -> 명사 '삽입물·끼움 광고'. 한국 학습자 핵심: serere(엮다) 갈래 — series(연속물)·assert(단언하다)·desert(2583)·exert(행사하다)·insertion! 명사·동사 강세 다름(INsert 삽입물 / inSERT 넣다). insert A into B(A를 B에 끼우다), insert a card(카드를 넣다), insert a comment(주석을 달다). put in(넣다)·implant(심다)와 유의어. 반대 remove(제거하다)·extract(2... 빼내다)·delete(2564).",
+  "syn": ["put in(넣다)", "implant(심다)", "introduce(끼워 넣다)"],
+  "anti": ["remove(제거하다)", "extract(빼내다)", "delete(삭제하다)"],
+  "idiom": ["insert A into B(A를 B에 끼우다)", "insert a coin(동전을 넣다)"],
+  "colloc": ["insert a coin(동전을 넣다)", "insert into(~에 삽입하다)", "insert a card(카드를 넣다)"],
+  "ex_add": "Insert the key into the lock and turn it.  (insert=끼워 넣다)"
+ },
+ {
+  "num": "2918",
+  "hw": "insight",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "속을 들여다봄 -> '통찰(력)·이해·간파'.",
+  "senses": [
+   "1) 통찰력·꿰뚫어 보는 안목",
+   "2) (사물의 본질에 대한) 이해·식견",
+   "3) (insight into) ~에 대한 깊은 이해"
+  ],
+  "etym": "in(안) + sight(봄·시야, 고대 영어 gesiht). '속(in)을 꿰뚫어 봄(sight)'이 핵심. 중세 영어에서 '내적 통찰'을 뜻하게 됐다. sight(봄)·see(보다)와 한 토박이 갈래.",
+  "deriv": "in(안) + sight(봄) -> 'insight'. '속을 들여다봄 -> 통찰력·이해(deep insight, 깊은 통찰)' -> 'insight into(~에 대한 이해)'. 한국 학습자 핵심: insight into(~에 대한 통찰·이해 — 빈출!), gain insight(통찰을 얻다), provide insight(이해를 제공하다), valuable insights(귀중한 식견), a flash of insight(번뜩이는 통찰), keen insight(예리한 안목). understanding(이해)·perception(인식)·wisdom(지혜)과 유의어. insightful(통찰력 있는)이 형용사. sight(봄)·foresight(선견지명)·hindsight(뒤늦은 깨달음)와 갈래.",
+  "syn": ["understanding(이해)", "perception(인식)", "wisdom(지혜)"],
+  "anti": ["ignorance(무지)", "blindness(무지)"],
+  "idiom": ["insight into(~에 대한 통찰)", "gain insight(통찰을 얻다)", "a flash of insight(번뜩이는 통찰)"],
+  "colloc": ["gain insight(통찰을 얻다)", "deep insight(깊은 통찰)", "insight into(~에 대한 이해)"],
+  "ex_add": "The book offers valuable insights into human behavior.  (insight=통찰)"
+ },
+ {
+  "num": "2919",
+  "hw": "insist",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "딱 버티고 서다 -> '주장하다·고집하다·강력히 요구하다'.",
+  "senses": [
+   "1) (강하게) 주장하다·우기다",
+   "2) 고집하다·고수하다",
+   "3) (insist on) 강력히 요구하다"
+  ],
+  "etym": "라틴어 insistere = in-(위에) + sistere(서다) -> '한 자리에 딱 버티고 섬'. sistere(서다)는 consist(이루어지다)·persist(고집하다)·resist(저항하다)·assist(돕다)·exist(존재하다)·existence(2703)·consistent(2480)의 뿌리.",
+  "deriv": "in-(위에) + sistere(서다) -> 'insist'. '딱 버티고 서다 -> 강하게 주장하다(insist that S+V)' -> 'insist on(~을 고집·강력 요구하다)'. 한국 학습자 핵심: sistere(서다) 대가족 — consist·persist·resist·assist·exist·existence(2703)·consistent(2480)·insist! insist that S (should) V(~해야 한다고 주장하다 — 가정법 원형!), insist on V-ing(~을 고집하다), I insist(꼭 그러세요·사양 말고). demand(요구하다)·maintain(주장하다)·assert(단언하다)와 유의어. 반대 deny(2574, 부인하다)·yield(양보하다). insistent(고집하는)·insistence(주장)가 가족.",
+  "syn": ["demand(요구하다)", "maintain(주장하다)", "assert(단언하다)"],
+  "anti": ["deny(부인하다)", "yield(양보하다)", "concede(인정하다)"],
+  "idiom": ["insist on(~을 고집하다)", "insist that(~을 주장하다)", "I insist(꼭 그러세요)"],
+  "colloc": ["insist on(~을 고집하다)", "insist that(~을 주장하다)", "firmly insist(강력히 주장하다)"],
+  "ex_add": "She insisted on paying for the meal.  (insist on=~을 고집하다)"
+ },
+ {
+  "num": "2920",
+  "hw": "inspector",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "들여다보는 사람 -> '조사관·검사관·경위'.",
+  "senses": [
+   "1) 검사관·조사관·점검원",
+   "2) (경찰) 경위·감독관",
+   "3) 검표원·장학사"
+  ],
+  "etym": "라틴어 inspicere = in-(안을) + specere(보다) -> '안을 들여다봄' + -or(사람). specere(보다)는 inspect(점검하다)·spectacle(광경)·expect(expectation 2707)·respect(존경하다)·suspect(의심하다)·prospect(전망)의 거대한 뿌리.",
+  "deriv": "in-(안을) + specere(보다) -> inspect -> 'inspector'. '들여다보는 사람 -> 검사관·조사관(a health inspector, 위생 검사관)' -> 경찰 '경위'. 한국 학습자 핵심: specere(보다) 대가족 — inspect·spectacle·spectator·expect·expectation(2707)·respect·suspect·prospect·aspect·perspective·spectrum! a ticket inspector(검표원), a school inspector(장학사), a building inspector(건축 검사관), a police inspector(경위), a tax inspector(세무 조사관). examiner(시험관)·examiner·auditor(감사관)와 유의어. inspect(점검하다)·inspection(점검)이 가족.",
+  "syn": ["examiner(검사관)", "auditor(감사관)", "investigator(조사관)"],
+  "anti": [],
+  "idiom": ["a ticket inspector(검표원)", "a health inspector(위생 검사관)", "a police inspector(경위)"],
+  "colloc": ["a health inspector(위생 검사관)", "a ticket inspector(검표원)", "a school inspector(장학사)"],
+  "ex_add": "A health inspector visited the restaurant yesterday.  (inspector=검사관)"
+ },
+ {
+  "num": "2921",
+  "hw": "inspire",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "숨을 불어넣다 -> '영감을 주다·고무하다·불러일으키다'.",
+  "senses": [
+   "1) 영감을 주다·창작 의욕을 불어넣다",
+   "2) 고무하다·격려하다(inspire sb to do)",
+   "3) (감정을) 불러일으키다"
+  ],
+  "etym": "라틴어 inspirare = in-(안으로) + spirare(숨 쉬다) -> '안에 숨(영감)을 불어넣음'. spirare(숨 쉬다)는 conspiracy(2482)·spirit(정신)·expire(만료되다)·respire(호흡하다)·aspire(열망하다)·perspire(땀 흘리다)의 뿌리.",
+  "deriv": "in-(안으로) + spirare(숨 쉬다) -> 'inspire'. '숨을 불어넣다 -> 영감을 주다(inspire an artist)·고무하다(inspire sb to try)·불러일으키다(inspire confidence, 자신감을 불어넣다)'. 한국 학습자 핵심: spirare(숨) 대가족 — conspiracy(2482)·spirit·expire·respire·aspire·perspire·transpire·inspiration! inspire sb to do(~가 ...하도록 고무하다), be inspired by(~에서 영감을 받다), inspire confidence/hope/loyalty(자신감·희망·충성심을 불러일으키다), an inspiring story(감동적 이야기). motivate(동기를 주다)·encourage(2... 격려하다)와 유의어. 반대 discourage(2604, 낙담시키다).",
+  "syn": ["motivate(동기를 주다)", "encourage(고무하다)", "stimulate(자극하다)"],
+  "anti": ["discourage(낙담시키다)", "dishearten(맥 빠지게 하다)"],
+  "idiom": ["inspire sb to do(~를 고무하다)", "be inspired by(~에서 영감을 받다)", "inspire confidence(자신감을 불어넣다)"],
+  "colloc": ["inspire confidence(자신감을 불어넣다)", "be inspired by(~에서 영감을 받다)", "inspire others(남들을 고무하다)"],
+  "ex_add": "Her courage inspired everyone around her.  (inspire=고무하다)"
+ },
+ {
+  "num": "2922",
+  "hw": "install",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "자리에 앉히다 -> '설치하다 / (소프트웨어를) 깔다 / 취임시키다'.",
+  "senses": [
+   "1) (장비를) 설치하다·장착하다",
+   "2) (소프트웨어를) 설치하다·깔다",
+   "3) (사람을) 취임시키다·앉히다"
+  ],
+  "etym": "중세 라틴어 installare = in-(안에) + stallum(자리·마구간 칸) -> '제자리(stallum)에 앉힘'. stallum(자리)은 stall(매대·마구간 칸)·stable(마구간)과 한 갈래로, '정해진 자리에 들여놓음'이 핵심.",
+  "deriv": "in-(안에) + stallum(자리) -> 'install'. '자리에 앉히다 -> 설치하다(install equipment)·소프트웨어를 깔다(install an app)' -> '취임시키다(install a new president)'. 한국 학습자 핵심: stallum(자리) 갈래 — stall(노점/마구간 칸)·stable·installation(2923)! install software/an app(소프트웨어·앱을 설치하다), install a system(시스템을 설치하다), be installed as(~으로 취임하다), newly installed(새로 설치된). set up(설치하다)·fit(장착하다)·mount(설치하다)와 유의어. 반대 uninstall(제거하다)·remove(없애다). installation(2923)이 명사.",
+  "syn": ["set up(설치하다)", "fit(장착하다)", "mount(설치하다)"],
+  "anti": ["uninstall(제거하다)", "remove(없애다)", "dismantle(해체하다)"],
+  "idiom": ["install software(소프트웨어를 설치하다)", "be installed as(~으로 취임하다)"],
+  "colloc": ["install software(소프트웨어를 설치하다)", "install equipment(장비를 설치하다)", "newly installed(새로 설치된)"],
+  "ex_add": "You need to install the latest version of the app.  (install=설치하다)"
+ },
+ {
+  "num": "2923",
+  "hw": "installation",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "자리에 앉힘 -> '설치 / 설치 미술 / 취임'.",
+  "senses": [
+   "1) 설치·장착",
+   "2) (예술) 설치 작품·시설물",
+   "3) 취임(식) / 군사 시설"
+  ],
+  "etym": "install(설치하다, 2922)의 명사형. 중세 라틴어 in-(안에) + stallum(자리) 뿌리. '제자리에 앉히는 일·앉혀진 것'이 핵심. install(2922)·stall과 한 갈래.",
+  "deriv": "install(2922) -> 'installation'. '자리에 앉힘 -> 설치(the installation of new software)' -> 예술 '설치 작품(an art installation)' -> '취임 / 군사 시설(a military installation)'. 한국 학습자 핵심: install(2922)·stall(노점)과 한 stallum 갈래! software installation(소프트웨어 설치), an art installation(설치 미술), the installation process(설치 과정), a military installation(군사 시설), professional installation(전문 설치). setup(설치)·fitting(설치)과 유의어. install(2922)의 명사형으로 '설치 행위·설치물·작품' 모두.",
+  "syn": ["setup(설치)", "fitting(설치)", "assembly(조립)"],
+  "anti": ["removal(제거)", "uninstallation(제거)"],
+  "idiom": ["an art installation(설치 미술)", "a military installation(군사 시설)", "the installation process(설치 과정)"],
+  "colloc": ["software installation(소프트웨어 설치)", "an art installation(설치 작품)", "the installation process(설치 과정)"],
+  "ex_add": "The installation of the new system took two days.  (installation=설치)"
+ },
+ {
+  "num": "2924",
+  "hw": "instance",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "눈앞에 선 것 -> '사례·경우·실례'.",
+  "senses": [
+   "1) (구체적) 사례·경우·실례",
+   "2) (for instance) 예를 들어",
+   "3) (in the first instance) 우선·먼저"
+  ],
+  "etym": "라틴어 instantia(눈앞에 있음) <- instare = in-(위에·곁에) + stare(서다) -> '바로 곁에 서 있는 구체적인 것'. stare(서다)는 instant(2925)·constant(2483)·distant(2610)·circumstance(2423)·stable·status의 거대한 뿌리.",
+  "deriv": "in-(곁에) + stare(서다) -> 'instance'. '눈앞에 선 구체적 예 -> 사례·경우(in this instance, 이 경우)' -> 'for instance(예를 들어)'. 한국 학습자 핵심: stare(서다) 대가족 — instant(2925)·constant(2483)·distant(2610)·circumstance(2423)·stable·status·establish(2682)·estate(2683)! for instance(예를 들어 = for example), in many instances(여러 경우에), in the first instance(우선), an instance of(~의 사례). example(예)·case(경우)·occasion(경우)과 유의어. instant(2925, 즉각의)와 어원이 같지만 뜻이 다름 — instance는 '사례'!",
+  "syn": ["example(예)", "case(경우)", "occasion(경우)"],
+  "anti": [],
+  "idiom": ["for instance(예를 들어)", "in this instance(이 경우)", "in the first instance(우선)"],
+  "colloc": ["for instance(예를 들어)", "an instance of(~의 사례)", "in many instances(많은 경우에)"],
+  "ex_add": "There have been several instances of this problem.  (instance=사례)"
+ },
+ {
+  "num": "2925",
+  "hw": "instant",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "바로 곁에 닥친 -> '즉각적인·즉석의 / 순간'.",
+  "senses": [
+   "1) 즉각적인·즉시의",
+   "2) (식품이) 즉석의·인스턴트의",
+   "3) 순간·찰나(명사)"
+  ],
+  "etym": "라틴어 instans(바로 곁에 닥친) <- instare = in-(곁에) + stare(서다) -> '눈앞에 바싹 와 있는'. stare(서다)는 instance(2924)·constant(2483)·distant(2610)·circumstance(2423)·stable의 거대한 뿌리.",
+  "deriv": "in-(곁에) + stare(서다) -> 'instant'. '바로 닥친 -> 즉각적인(an instant success, 즉각적인 성공)' -> '즉석의(instant coffee, 인스턴트커피)' -> 명사 '순간(in an instant, 순식간에)'. 한국 학습자 핵심: stare(서다) 대가족 — instance(2924)·constant(2483)·distant(2610)·circumstance(2423)·stable·status·establish(2682)! instant coffee/noodles(인스턴트커피·라면), an instant hit(즉각적 히트), in an instant(순식간에), instant messaging(인스턴트 메시지), the instant (that)(~하자마자). immediate(즉각의)·prompt(즉각적인)와 유의어. instantly(2926)가 부사.",
+  "syn": ["immediate(즉각의)", "prompt(즉각적인)", "instantaneous(순간의)"],
+  "anti": ["delayed(지연된)", "gradual(점진적인)"],
+  "idiom": ["instant coffee(인스턴트커피)", "in an instant(순식간에)", "an instant hit(즉각적 히트)", "the instant that(~하자마자)"],
+  "colloc": ["instant coffee(인스턴트커피)", "an instant success(즉각적 성공)", "in an instant(순식간에)"],
+  "ex_add": "The song was an instant hit around the world.  (instant=즉각적인)"
+ },
+ {
+  "num": "2926",
+  "hw": "instantly",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'즉시·즉각·당장에'.",
+  "senses": [
+   "1) 즉시·즉각·당장",
+   "2) ~하자마자",
+   "3) 순식간에"
+  ],
+  "etym": "instant(즉각의, 2925) + -ly. 라틴어 in-(곁에) + stare(서다) 뿌리. '바로 그 순간에'가 핵심. instance(2924)·constant(2483)·distant(2610)와 한 stare 갈래.",
+  "deriv": "instant(2925) -> 'instantly'. '즉시·즉각(recognize instantly, 즉각 알아보다)'. 한국 학습자 핵심: stare(서다) 대가족 — instant(2925)·instance(2924)·constant(2483)·distant(2610)·circumstance(2423)·stable·establish(2682)! instantly recognizable(즉각 알아볼 수 있는), die instantly(즉사하다), instantly available(즉시 이용 가능한), almost instantly(거의 즉시). immediately(즉시)·at once(당장)·right away(곧바로)와 유의어. instant(2925) 가족. 반대 gradually(2820, 점차)·eventually(결국).",
+  "syn": ["immediately(즉시)", "at once(당장)", "right away(곧바로)"],
+  "anti": ["gradually(점차)", "eventually(결국)", "slowly(천천히)"],
+  "idiom": ["instantly recognizable(즉각 알아볼 수 있는)", "die instantly(즉사하다)"],
+  "colloc": ["recognize instantly(즉각 알아보다)", "instantly recognizable(즉각 알아볼 수 있는)", "react instantly(즉각 반응하다)"],
+  "ex_add": "She recognized him instantly, even after all those years.  (instantly=즉각)"
+ },
+ {
+  "num": "2927",
+  "hw": "institute",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "세워 둔 것 -> '연구소·기관 / 도입하다'.",
+  "senses": [
+   "1) 연구소·협회·(전문) 교육 기관",
+   "2) (동사) (제도·절차를) 도입하다·시작하다",
+   "3) (소송을) 제기하다"
+  ],
+  "etym": "라틴어 instituere = in-(안에) + statuere(세우다) <- stare(서다) -> '제도·기관을 세워 둠'. statuere/stare(세우다)는 institution(2928)·statute(법령)·constitute(구성하다)·substitute(대체하다)·status·stable의 거대한 뿌리.",
+  "deriv": "in-(안에) + statuere(세우다) -> 'institute'. '세워 둔 것 -> 연구소·기관(a research institute)' -> 동사 '(제도를) 도입하다(institute reforms, 개혁을 단행하다)·(소송을) 제기하다'. 한국 학습자 핵심: stare/statuere(세우다) 대가족 — institution(2928)·statute·constitute·substitute·destitute·status·statue·stable·establish(2682)! a research institute(연구소), institute proceedings(소송을 제기하다), institute changes(변화를 도입하다), the Institute of Technology(공과 대학). establish(2682, 설립하다)·introduce(도입하다)와 유의어.",
+  "syn": ["academy(학회)", "establish(설립하다)", "introduce(도입하다)"],
+  "anti": ["abolish(폐지하다)"],
+  "idiom": ["a research institute(연구소)", "institute proceedings(소송을 제기하다)", "institute reforms(개혁을 단행하다)"],
+  "colloc": ["a research institute(연구소)", "institute reforms(개혁을 도입하다)", "a scientific institute(과학 연구소)"],
+  "ex_add": "She works at a famous research institute.  (institute=연구소)"
+ },
+ {
+  "num": "2928",
+  "hw": "institution",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "세워진 것 -> '기관·제도 / 시설'.",
+  "senses": [
+   "1) (사회) 기관·단체(은행·대학 등)",
+   "2) (사회) 제도·관습",
+   "3) (보호·수용) 시설"
+  ],
+  "etym": "라틴어 instituere(세우다, 2927)의 명사형 institutio = in-(안에) + statuere(세우다) <- stare(서다). institute(2927)·statute·constitute와 한 stare 갈래. '굳게 세워진 기관·제도'가 핵심.",
+  "deriv": "in-(안에) + statuere(세우다) -> institute(2927) -> 'institution'. '세워진 것 -> 기관(a financial institution, 금융 기관)' -> '제도·관습(the institution of marriage, 결혼 제도)' -> '수용 시설(a mental institution)'. 한국 학습자 핵심: stare/statuere(세우다) 대가족 — institute(2927)·statute·constitute·substitute·status·establish(2682)·estate(2683)! a financial/educational institution(금융·교육 기관), a public institution(공공 기관), the institution of marriage(혼인 제도), institutional(제도적/기관의). organization(조직)·establishment(기관)·custom(관습)과 유의어.",
+  "syn": ["organization(조직)", "establishment(기관)", "custom(제도)"],
+  "anti": [],
+  "idiom": ["a financial institution(금융 기관)", "the institution of marriage(결혼 제도)"],
+  "colloc": ["a financial institution(금융 기관)", "an educational institution(교육 기관)", "a public institution(공공 기관)"],
+  "ex_add": "Banks and other financial institutions were affected.  (institution=기관)"
+ },
+ {
+  "num": "2929",
+  "hw": "insurance",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "확실히 해 둠 -> '보험 / 대비책'.",
+  "senses": [
+   "1) 보험·보험금·보험료",
+   "2) 보험 계약·보험업",
+   "3) (위험) 대비책·안전장치"
+  ],
+  "etym": "in-(강조) + sure(확실한) -> ensure(2668)/insure의 명사형. sure는 라틴어 securus = se-(없이) + cura(걱정) -> '걱정(cura) 없게 확실히 해 둠'. cura(돌봄)는 cure(2534)·curious(2535)·secure·ensure(2668)·accurate의 뿌리.",
+  "deriv": "cura(돌봄) -> sure -> insure -> 'insurance'. '확실히 대비해 둠 -> 보험(health insurance, 건강 보험)' -> '대비책(insurance against loss)'. 한국 학습자 핵심: cura(돌봄) 대가족 — cure(2534)·curious(2535)·secure·ensure(2668)·assure·accurate·sure! insure(보험에 들다)·ensure(2668, 보장하다)·assure(안심시키다)를 구별! take out insurance(보험에 가입하다), an insurance policy(보험 증권), car/life/health insurance(자동차·생명·건강 보험), an insurance claim(보험금 청구), insurance premiums(보험료). cover(보장)·assurance(보증)와 유의어.",
+  "syn": ["cover(보장)", "assurance(보증)", "protection(보호)"],
+  "anti": [],
+  "idiom": ["take out insurance(보험에 들다)", "an insurance policy(보험 증권)", "an insurance claim(보험금 청구)"],
+  "colloc": ["health insurance(건강 보험)", "take out insurance(보험에 가입하다)", "an insurance policy(보험 증권)"],
+  "ex_add": "Do you have travel insurance for your trip?  (insurance=보험)"
+ },
+ {
+  "num": "2930",
+  "hw": "integrate",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "온전히 하나로 -> '통합하다·융화시키다'.",
+  "senses": [
+   "1) (하나로) 통합하다·결합하다",
+   "2) (사회에) 융화시키다·어우러지게 하다",
+   "3) (인종 차별을 없애) 통합하다"
+  ],
+  "etym": "라틴어 integrare(온전하게 하다) <- integer(손대지 않은·온전한) = in-(부정) + tangere(만지다) -> '여럿을 하나의 온전한(integer) 전체로 만듦'. tangere(만지다)는 entire(2672)·integer(정수)·integrity(청렴)·intact(온전한)·tangible(유형의)·contact의 거대한 뿌리.",
+  "deriv": "integer(온전한) -> integrare -> 'integrate'. '온전히 하나로 -> 통합하다(integrate the systems)·융화시키다(integrate into society)'. 한국 학습자 핵심: tangere(만지다) 대가족 — entire(2672)·integer(정수)·integrity(고결)·intact(손상 없는)·tangible(유형의)·contact·tangent·contagious! integrate A into/with B(A를 B에 통합하다), integrate into society(사회에 동화되다), fully integrated(완전히 통합된), an integrated system(통합 시스템). combine(결합하다)·merge(합치다)·incorporate(2891)와 유의어. 반대 segregate(분리하다)·separate(나누다).",
+  "syn": ["combine(결합하다)", "merge(합치다)", "incorporate(통합하다)"],
+  "anti": ["segregate(분리하다)", "separate(나누다)", "isolate(고립시키다)"],
+  "idiom": ["integrate A into B(A를 B에 통합하다)", "integrate into society(사회에 융화되다)", "an integrated system(통합 시스템)"],
+  "colloc": ["integrate into(~에 통합되다)", "fully integrate(완전히 통합하다)", "integrate systems(시스템을 통합하다)"],
+  "ex_add": "Immigrants need help to integrate into their new community.  (integrate=융화시키다)"
+ },
+ {
+  "num": "2931",
+  "hw": "intended",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "마음을 뻗어 겨눈 -> '의도된·계획된 / 대상으로 삼은'.",
+  "senses": [
+   "1) 의도된·계획된",
+   "2) (intended for) ~을 위한·~을 대상으로 한",
+   "3) 작정한"
+  ],
+  "etym": "intend(의도하다)의 과거분사. intend는 라틴어 intendere = in-(향하여) + tendere(뻗다) -> '마음을 ~쪽으로 뻗어 겨눔'. tendere(뻗다)는 extend(2715)·intense(2932)·tension·pretend·attend·contend의 거대한 뿌리.",
+  "deriv": "in-(향하여) + tendere(뻗다) -> intend -> 'intended'. '마음을 뻗어 겨눈 -> 의도된(the intended result, 의도된 결과)' -> 'intended for(~을 위한)'. 한국 학습자 핵심: tendere(뻗다) 대가족 — extend(2715)·extension(2716)·intense(2932)·tension·pretend·attend·contend·intend·tendency! be intended for(~을 위한 것이다), be intended to do(~하려고 의도되다), the intended audience(목표 독자층), intended meaning(의도한 의미), the intended effect(의도한 효과). planned(계획된)·deliberate(2565, 의도적인)와 유의어. 반대 unintended(의도치 않은)·accidental(우연한).",
+  "syn": ["planned(계획된)", "deliberate(의도적인)", "designed(겨냥된)"],
+  "anti": ["unintended(의도치 않은)", "accidental(우연한)"],
+  "idiom": ["be intended for(~을 위한 것이다)", "be intended to do(~하려는 것이다)", "the intended audience(목표 독자)"],
+  "colloc": ["the intended result(의도된 결과)", "intended for(~을 위한)", "the intended audience(대상 독자)"],
+  "ex_add": "This book is intended for beginners.  (intended for=~을 위한)"
+ },
+ {
+  "num": "2932",
+  "hw": "intense",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "팽팽히 당겨진 -> '강렬한·격렬한·치열한'.",
+  "senses": [
+   "1) (정도가) 강렬한·극심한",
+   "2) 격렬한·치열한",
+   "3) (사람이) 진지하고 열정적인"
+  ],
+  "etym": "라틴어 intensus(팽팽히 당겨진) <- intendere = in-(향하여) + tendere(뻗다·당기다) -> '한껏 당겨져 팽팽한'. tendere(뻗다)는 extend(2715)·intended(2931)·tension(긴장)·pretend·attend의 거대한 뿌리.",
+  "deriv": "in-(향하여) + tendere(당기다) -> 'intense'. '팽팽히 당겨진 -> 강렬한(intense heat, 극심한 더위)·격렬한(intense competition, 치열한 경쟁)' -> '(사람이) 진지한(an intense young man)'. 한국 학습자 핵심: tendere(뻗다) 대가족 — extend(2715)·extension(2716)·intended(2931)·tension·pretend·attend·contend·tendency! intense(강렬한)와 intensive(집중적인)를 구별 — intense heat(강렬한 열) vs intensive care(집중 치료)! intense pressure(극심한 압박), intense pain(극심한 통증), intensity(강렬함). extreme(2722, 극심한)·fierce(맹렬한)와 유의어. 반대 mild(약한)·gentle(부드러운).",
+  "syn": ["extreme(극심한)", "fierce(맹렬한)", "acute(격심한)"],
+  "anti": ["mild(약한)", "gentle(부드러운)", "weak(약한)"],
+  "idiom": ["intense heat(극심한 더위)", "intense pressure(극심한 압박)", "intense competition(치열한 경쟁)"],
+  "colloc": ["intense heat(극심한 더위)", "intense pressure(극심한 압박)", "intense pain(극심한 통증)"],
+  "ex_add": "The competition for the job was intense.  (intense=치열한)"
+ },
+ {
+  "num": "2933",
+  "hw": "interact",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "서로 작용하다 -> '상호 작용하다·교류하다'.",
+  "senses": [
+   "1) 상호 작용하다·서로 영향을 주다",
+   "2) (사람과) 소통하다·교류하다",
+   "3) (시스템과) 상호 작동하다"
+  ],
+  "etym": "inter-(서로) + act(행하다). act는 라틴어 agere(하다·움직이다·몰다). '서로(inter) 작용을 주고받음(agere)'이 핵심. agere(하다)는 act(행동)·action(행동)·agent(행위자)·react(반응하다)·agenda(할 일)의 거대한 뿌리.",
+  "deriv": "inter-(서로) + agere(하다) -> 'interact'. '서로 작용하다 -> 상호 작용하다(interact with others, 남들과 교류하다)'. 한국 학습자 핵심: agere(하다·몰다) 대가족 — act·action·active·agent·react·agenda·agency·agile·navigate! interact with(~와 상호 작용/교류하다 — 빈출!), interact socially(사교적으로 교류하다), how molecules interact(분자들이 상호 작용하는 방식), interactive(상호 작용하는). communicate(소통하다)·engage(2665)와 유의어. interaction(2934)·interactive(쌍방향의)가 가족.",
+  "syn": ["communicate(소통하다)", "engage(교류하다)", "connect(연결되다)"],
+  "anti": ["ignore(무시하다)", "isolate(고립되다)"],
+  "idiom": ["interact with(~와 상호 작용하다)", "interact socially(사교적으로 교류하다)"],
+  "colloc": ["interact with(~와 교류하다)", "interact socially(사회적으로 교류하다)", "interact freely(자유로이 교류하다)"],
+  "ex_add": "Children learn by interacting with others.  (interact=교류하다)"
+ },
+ {
+  "num": "2934",
+  "hw": "interaction",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "서로 작용함 -> '상호 작용·교류'.",
+  "senses": [
+   "1) 상호 작용·상호 영향",
+   "2) (사람 간) 교류·소통",
+   "3) (시스템 간) 상호 작동"
+  ],
+  "etym": "interact(상호 작용하다, 2933)의 명사형. inter-(서로) + agere(하다) 뿌리. '서로 주고받는 작용'이 핵심. act·action·agent·react와 한 agere 갈래.",
+  "deriv": "inter-(서로) + agere(하다) -> interact(2933) -> 'interaction'. '서로 작용함 -> 상호 작용·교류(social interaction, 사회적 교류)'. 한국 학습자 핵심: agere(하다) 대가족 — act·action·active·agent·react·agenda·agency·interact(2933)·transaction! social interaction(사회적 상호 작용), human interaction(인간 상호 작용), the interaction between(~ 사이의 상호 작용), face-to-face interaction(대면 소통), drug interactions(약물 상호 작용). communication(소통)·exchange(교류)와 유의어. interact(2933)·interactive(쌍방향의)가 가족.",
+  "syn": ["communication(소통)", "exchange(교류)", "interplay(상호 작용)"],
+  "anti": ["isolation(고립)", "separation(분리)"],
+  "idiom": ["social interaction(사회적 교류)", "the interaction between(~ 사이의 상호 작용)"],
+  "colloc": ["social interaction(사회적 상호 작용)", "human interaction(인간 교류)", "face-to-face interaction(대면 소통)"],
+  "ex_add": "Social media has changed the way we interact.  (interaction=상호 작용)"
+ },
+ {
+  "num": "2935",
+  "hw": "internal",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "안쪽의 -> '내부의·체내의·국내의'.",
+  "senses": [
+   "1) 내부의·안쪽의",
+   "2) (몸) 체내의·내장의",
+   "3) 조직 내부의·국내의"
+  ],
+  "etym": "라틴어 internus(안쪽의) <- inter(안에). '안(inter)에 있는'이 핵심. internal과 internus는 inner(2912)·interior(내부)·intern(인턴)과 한 갈래. external(2720, 외부의)과 정반대 짝.",
+  "deriv": "inter(안) -> internus -> 'internal'. '안쪽의 -> 내부의(internal organs, 내장)' -> '조직 내부의(an internal investigation, 내부 조사)·국내의(internal affairs, 내정)'. 한국 학습자 핵심: internal(내부의) ↔ external(2720, 외부의) 정반대 짝! internal organs(내장 기관), internal affairs(내정·내부 문제), an internal email(사내 이메일), internal bleeding(내출혈), internal conflict(내적 갈등). inner(2912)·interior(내부의)·domestic(2624, 국내의)과 유의어. 반대 external(2720)·outer(2912 inner의 반대).",
+  "syn": ["inner(안쪽의)", "interior(내부의)", "domestic(국내의)"],
+  "anti": ["external(외부의)", "outer(바깥의)", "foreign(대외의)"],
+  "idiom": ["internal organs(내장)", "internal affairs(내정)", "internal bleeding(내출혈)"],
+  "colloc": ["internal organs(내장 기관)", "an internal investigation(내부 조사)", "internal affairs(내정)"],
+  "ex_add": "The company is conducting an internal investigation.  (internal=내부의)"
+ },
+ {
+  "num": "2936",
+  "hw": "interpret",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "뜻을 풀어 옮기다 -> '해석하다·통역하다'.",
+  "senses": [
+   "1) (뜻을) 해석하다·이해하다",
+   "2) 통역하다",
+   "3) (예술을) 자기 식으로 표현하다"
+  ],
+  "etym": "라틴어 interpretari(설명하다·번역하다) <- interpres(중개인·풀이하는 사람). '양쪽 사이(inter)에서 뜻을 풀어 옮김'이 핵심. interpretation(2937)·interpreter(통역사)가 가족.",
+  "deriv": "interpres(중개인) -> interpretari -> 'interpret'. '뜻을 풀어 옮기다 -> 해석하다(interpret the data)·통역하다(interpret for the visitors)'. 한국 학습자 핵심: interpret(통역, 말)과 translate(번역, 글)을 구별! interpret A as B(A를 B로 해석하다), interpret the results(결과를 해석하다), misinterpret(오해하다), an interpreter(통역사). interpretation(2937)·interpreter가 가족. explain(설명하다)·construe(해석하다)·decode(해독하다)와 유의어. 반대 misinterpret(잘못 해석하다).",
+  "syn": ["explain(설명하다)", "construe(해석하다)", "translate(통역하다)"],
+  "anti": ["misinterpret(오해하다)", "misread(잘못 읽다)"],
+  "idiom": ["interpret A as B(A를 B로 해석하다)", "interpret the data(데이터를 해석하다)"],
+  "colloc": ["interpret the data(데이터를 해석하다)", "interpret the results(결과를 해석하다)", "interpret A as B(A를 B로 해석하다)"],
+  "ex_add": "How should we interpret these results?  (interpret=해석하다)"
+ },
+ {
+  "num": "2937",
+  "hw": "interpretation",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "뜻풀이 -> '해석·통역 / 표현'.",
+  "senses": [
+   "1) 해석·이해·풀이",
+   "2) 통역",
+   "3) (예술의) 자기식 표현·연출"
+  ],
+  "etym": "interpret(해석하다, 2936)의 명사형 interpretatio <- interpres(중개인). '뜻을 풀어 옮긴 것'이 핵심. interpret(2936)·interpreter와 한 갈래.",
+  "deriv": "interpres(중개인) -> interpret(2936) -> 'interpretation'. '뜻풀이 -> 해석(open to interpretation, 해석의 여지가 있는)' -> 예술 '자기식 표현(her interpretation of the role, 그녀의 배역 해석)'. 한국 학습자 핵심: open to interpretation(해석하기 나름인 — 빈출!), a literal interpretation(문자 그대로의 해석), differing interpretations(엇갈리는 해석), the interpretation of(~의 해석), simultaneous interpretation(동시통역). explanation(설명)·rendering(표현)·reading(해석)과 유의어. interpret(2936)·interpreter(통역사)가 가족.",
+  "syn": ["explanation(설명)", "reading(해석)", "rendering(표현)"],
+  "anti": ["misinterpretation(오해)"],
+  "idiom": ["open to interpretation(해석의 여지가 있는)", "a literal interpretation(문자 그대로의 해석)"],
+  "colloc": ["open to interpretation(해석의 여지가 있는)", "a literal interpretation(문자적 해석)", "differing interpretations(엇갈리는 해석)"],
+  "ex_add": "The poem is open to many interpretations.  (interpretation=해석)"
+ },
+ {
+  "num": "2938",
+  "hw": "interrupt",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "사이를 끊다 -> '방해하다·가로막다·중단시키다'.",
+  "senses": [
+   "1) (말·일을) 가로막다·중단시키다",
+   "2) (대화에) 끼어들다",
+   "3) (흐름을) 끊다·차단하다"
+  ],
+  "etym": "라틴어 interrumpere = inter-(사이를) + rumpere(깨뜨리다) -> '사이를 깨뜨려 끊음'. rumpere(깨뜨리다)는 erupt(2680)·rupture(파열)·corrupt(부패한)·bankrupt(파산한)·abrupt(갑작스러운)·disrupt(붕괴시키다)의 뿌리.",
+  "deriv": "inter-(사이를) + rumpere(깨뜨리다) -> 'interrupt'. '사이를 끊다 -> 방해하다·가로막다(don't interrupt me)·중단시키다(interrupt the meeting)'. 한국 학습자 핵심: rumpere(깨뜨리다) 대가족 — erupt(2680)·rupture·corrupt·bankrupt·abrupt·disrupt·interrupt·incorruptible! Sorry to interrupt(끼어들어 죄송합니다), interrupt the flow(흐름을 끊다), keep interrupting(자꾸 끼어들다), interruption(중단). disturb(2616, 방해하다)·cut off(끊다)·break in(끼어들다)과 유의어. 반대 continue(계속하다)·proceed(진행하다).",
+  "syn": ["disturb(방해하다)", "cut off(끊다)", "break in(끼어들다)"],
+  "anti": ["continue(계속하다)", "proceed(진행하다)"],
+  "idiom": ["Sorry to interrupt(끼어들어 죄송합니다)", "interrupt the flow(흐름을 끊다)"],
+  "colloc": ["interrupt a meeting(회의를 중단시키다)", "constantly interrupt(끊임없이 방해하다)", "interrupt the flow(흐름을 끊다)"],
+  "ex_add": "Please don't interrupt me while I'm speaking.  (interrupt=가로막다)"
+ },
+ {
+  "num": "2939",
+  "hw": "interval",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "사이 -> '간격·사이 / (공연) 휴식 시간'.",
+  "senses": [
+   "1) (시간·공간의) 간격·사이",
+   "2) (영) (공연) 중간 휴식 시간",
+   "3) (음악) 음정"
+  ],
+  "etym": "라틴어 intervallum = inter-(사이에) + vallum(성벽·방벽) -> 본래 '두 성벽(vallum) 사이의 빈 공간'에서 '간격'으로. vallum(성벽)은 wall(벽)과 먼 갈래. '둘 사이의 빈 틈'이 핵심.",
+  "deriv": "inter-(사이) + vallum(성벽) -> 'interval'. '성벽 사이의 빈 공간 -> 간격·사이(at regular intervals, 일정한 간격으로)' -> (영) 공연 '휴식 시간(during the interval)'. 한국 학습자 핵심: vallum(성벽)은 wall(벽)과 먼 친척! at intervals(간간이), at regular intervals(일정한 간격으로), a short interval(짧은 간격), sunny intervals(이따금 맑음 — 영국 일기예보!), interval training(인터벌 트레이닝). gap(틈)·break(휴식)·pause(멈춤)와 유의어 — 영국 극장의 '인터미션'은 the interval! (미국은 intermission.)",
+  "syn": ["gap(간격)", "break(휴식)", "pause(중간 휴지)"],
+  "anti": [],
+  "idiom": ["at regular intervals(일정한 간격으로)", "at intervals(간간이)", "during the interval(휴식 시간에)"],
+  "colloc": ["at regular intervals(일정한 간격으로)", "a short interval(짧은 간격)", "at intervals(간간이)"],
+  "ex_add": "Buses run at 20-minute intervals during the day.  (interval=간격)"
+ },
+ {
+  "num": "2940",
+  "hw": "invade",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "쳐들어가다 -> '침략하다·침입하다·침해하다'.",
+  "senses": [
+   "1) 침략하다·쳐들어가다",
+   "2) (떼지어) 몰려들다·들이닥치다",
+   "3) (사생활·권리를) 침해하다"
+  ],
+  "etym": "라틴어 invadere = in-(안으로) + vadere(가다·나아가다) -> '안으로 쳐들어감'. vadere(가다)는 invasion(2941)·evade(피해 가다)·pervade(스며들다)·wade(헤치고 가다)의 뿌리.",
+  "deriv": "in-(안으로) + vadere(가다) -> 'invade'. '쳐들어가다 -> 침략하다(invade a country)' -> '몰려들다(tourists invade the town)' -> '침해하다(invade sb's privacy, 사생활을 침해하다)'. 한국 학습자 핵심: vadere(가다) 갈래 — invasion(2941)·evade(회피하다)·pervade(만연하다)·wade·evasion(회피)·pervasive(만연한)! invade privacy(사생활을 침해하다), invading forces(침략군), be invaded by(~의 침략을 받다). attack(공격하다)·overrun(침략하다)·encroach(침해하다)과 유의어. 반대 defend(2560, 방어하다)·withdraw(철수하다)·retreat(후퇴하다). invasion(2941)이 명사.",
+  "syn": ["attack(공격하다)", "overrun(침략하다)", "encroach(침해하다)"],
+  "anti": ["defend(방어하다)", "withdraw(철수하다)", "retreat(후퇴하다)"],
+  "idiom": ["invade privacy(사생활을 침해하다)", "invading forces(침략군)", "be invaded by(~의 침략을 받다)"],
+  "colloc": ["invade a country(나라를 침략하다)", "invade privacy(사생활을 침해하다)", "invading forces(침략군)"],
+  "ex_add": "The army invaded the neighboring country at dawn.  (invade=침략하다)"
+ },
+ {
+  "num": "2941",
+  "hw": "invasion",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "쳐들어옴 -> '침략·침입·침해'.",
+  "senses": [
+   "1) 침략·침공",
+   "2) (대규모) 침입·쇄도",
+   "3) (사생활·권리의) 침해"
+  ],
+  "etym": "라틴어 invadere(쳐들어가다, 2940)의 명사형 invasio = in-(안으로) + vadere(가다). invade(2940)·evade·pervade와 한 vadere 갈래. '안으로 쳐들어옴'이 핵심.",
+  "deriv": "in-(안으로) + vadere(가다) -> invade(2940) -> 'invasion'. '쳐들어옴 -> 침략·침공(a military invasion, 군사 침공)' -> '침입·쇄도' -> '침해(an invasion of privacy, 사생활 침해)'. 한국 학습자 핵심: vadere(가다) 갈래 — invade(2940)·evade(회피하다)·pervade(만연하다)·evasion(회피)·pervasive(만연한)·wade! a military invasion(군사 침공), an invasion of privacy(사생활 침해 — 빈출!), repel an invasion(침략을 격퇴하다), a full-scale invasion(전면 침공), the invasion of(~의 침략). attack(공격)·incursion(침입)·intrusion(침해)과 유의어. 반대 defense(2562, 방어)·withdrawal(철수).",
+  "syn": ["attack(공격)", "incursion(침입)", "intrusion(침해)"],
+  "anti": ["defense(방어)", "withdrawal(철수)", "retreat(후퇴)"],
+  "idiom": ["an invasion of privacy(사생활 침해)", "a military invasion(군사 침공)", "repel an invasion(침략을 격퇴하다)"],
+  "colloc": ["a military invasion(군사 침공)", "an invasion of privacy(사생활 침해)", "a full-scale invasion(전면 침공)"],
+  "ex_add": "Taking photos without permission is an invasion of privacy.  (invasion=침해)"
+ }
+]

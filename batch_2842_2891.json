@@ -1,0 +1,952 @@
+[
+ {
+  "num": "2842",
+  "hw": "hence",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "여기로부터 -> '그러므로 / 지금부터'.",
+  "senses": [
+   "1) 그러므로·따라서",
+   "2) (시간) 지금부터·이후로",
+   "3) 이런 까닭에"
+  ],
+  "etym": "중세 영어 hennes <- 고대 영어 heonan(여기로부터) + 부사 어미 -s. '여기(here)에서 비롯됨'이 핵심. thence(거기로부터)·whence(어디로부터)와 같은 방향 부사 짝.",
+  "deriv": "heonan(여기서) -> 'hence'. '여기로부터 -> 그러므로·따라서(prices rose, hence the protests)' -> 시간 '지금부터(two weeks hence, 2주 후)'. 한국 학습자 핵심: hence는 격식체 — therefore(그러므로)·thus(따라서)와 유의어이나 'hence + 명사구'로 자주 쓴다(hence the name, 그래서 그 이름이 붙었다)! thence(거기서부터)·whence(어디서부터)와 방향 부사 짝. consequently(2474)·so와도 유의어. 논설문에서 인과를 잇는 고급 부사. 반대 개념 없음.",
+  "syn": ["therefore(그러므로)", "thus(따라서)", "consequently(결과적으로)"],
+  "anti": [],
+  "idiom": ["hence the name(그래서 그 이름이)", "years hence(여러 해 후에)"],
+  "colloc": ["hence the(그래서 ~한)", "and hence(그리고 따라서)", "weeks hence(몇 주 후)"],
+  "ex_add": "The roads were icy; hence the accident.  (hence=그러므로)"
+ },
+ {
+  "num": "2843",
+  "hw": "herb",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "풀 -> '허브·약초·향초'.",
+  "senses": [
+   "1) (요리·약용) 허브·향초",
+   "2) 약초·약용 식물",
+   "3) 풀·초본 식물"
+  ],
+  "etym": "라틴어 herba(풀·초본). '줄기가 연한 풀'이 핵심. herbal(허브의)·herbivore(초식 동물)·herbicide(제초제)가 한 herba 갈래. (미국은 h 묵음 '어브', 영국은 '허브'로 발음.)",
+  "deriv": "herba(풀) -> 'herb'. '향이 나는 풀 -> 허브·향초(fresh herbs, 신선한 허브)' -> '약초(medicinal herbs)'. 한국 학습자 핵심: herba(풀) 갈래 — herbal(허브의, herbal tea 허브차)·herbivore(초식 동물, vs carnivore 육식)·herbicide(제초제)! 발음 — 미국식 [ɜːrb](h 묵음, '어브'), 영국식 [hɜːb]('허브')! cooking herbs(요리용 허브), herbs and spices(허브와 향신료), dried herbs(말린 허브). plant(식물)·spice(향신료)와 구별 — herb는 잎, spice는 씨·뿌리 위주.",
+  "syn": ["plant(식물)", "seasoning(양념풀)"],
+  "anti": [],
+  "idiom": ["herbal tea(허브차)", "herbs and spices(허브와 향신료)"],
+  "colloc": ["fresh herbs(신선한 허브)", "medicinal herbs(약초)", "dried herbs(말린 허브)"],
+  "ex_add": "She grows fresh herbs in her kitchen garden.  (herb=허브)"
+ },
+ {
+  "num": "2844",
+  "hw": "hesitate",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "달라붙어 멈칫하다 -> '망설이다·주저하다'.",
+  "senses": [
+   "1) 망설이다·주저하다",
+   "2) 머뭇거리다·멈칫하다",
+   "3) (hesitate to do) 선뜻 ~하지 못하다"
+  ],
+  "etym": "라틴어 haesitare(들러붙어 막히다·더듬다) <- haerere(들러붙다·달라붙다). '발이 들러붙어 나아가지 못함'이 핵심. haerere(붙다)는 adhere(들러붙다)·cohere(결합하다)·inherent(내재된)·hesitant(주저하는)의 뿌리.",
+  "deriv": "haerere(붙다) -> haesitare -> 'hesitate'. '들러붙어 멈칫하다 -> 망설이다(hesitate before answering)' -> 'hesitate to do(선뜻 ~하지 못하다)'. 한국 학습자 핵심: haerere(붙다) 갈래 — adhere(고수하다)·cohere(일관되다)·coherent(조리 있는)·inherent(내재된)·hesitant(주저하는)·adhesive(접착제)! Don't hesitate to ask(주저 말고 물어보세요 — 빈출 표현!), hesitate over(~을 두고 망설이다), without hesitation(주저 없이), hesitate about(~을 망설이다). pause(멈추다)·waver(흔들리다)·falter(머뭇거리다)와 유의어. 반대 proceed(진행하다)·rush(서두르다).",
+  "syn": ["pause(멈칫하다)", "waver(망설이다)", "falter(머뭇거리다)"],
+  "anti": ["proceed(진행하다)", "rush(서두르다)", "plunge(뛰어들다)"],
+  "idiom": ["Don't hesitate to(주저 말고 ~하세요)", "without hesitation(주저 없이)", "hesitate to do(선뜻 ~하지 못하다)"],
+  "colloc": ["hesitate before(~하기 전에 망설이다)", "hesitate to ask(묻기를 망설이다)", "briefly hesitate(잠시 머뭇거리다)"],
+  "ex_add": "Don't hesitate to call me if you need help.  (hesitate=주저하다)"
+ },
+ {
+  "num": "2845",
+  "hw": "hidden",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "숨겨진 -> '숨은·감춰진'.",
+  "senses": [
+   "1) 숨겨진·감춰진",
+   "2) 눈에 띄지 않는·잠재된",
+   "3) (의도가) 숨은·드러나지 않은"
+  ],
+  "etym": "hide(숨기다, 고대 영어 hydan)의 과거분사 hidden. '눈에 안 보이게 감춰진'이 핵심. hide(숨기다)·hideout(은신처)과 한 토박이 갈래. 과거형 hide-hid-hidden(불규칙).",
+  "deriv": "hydan(숨기다) -> hide -> 'hidden'. '숨겨진(a hidden treasure, 숨겨진 보물)' -> '잠재된(hidden talents, 숨은 재능)' -> '숨은 의도(a hidden agenda, 숨은 속셈)'. 한국 학습자 핵심: 과거형 hide-hid-hidden! a hidden agenda(숨은 속셈·꿍꿍이), hidden costs(숨은 비용), hidden meaning(숨은 뜻), well-hidden(잘 숨겨진), hidden from view(시야에서 가려진), hidden gem(숨은 명소·보석). concealed(감춰진)·secret(비밀의)·obscured(가려진)와 유의어. 반대 visible(보이는)·obvious(명백한)·exposed(드러난).",
+  "syn": ["concealed(감춰진)", "secret(비밀의)", "obscured(가려진)"],
+  "anti": ["visible(보이는)", "obvious(명백한)", "exposed(드러난)"],
+  "idiom": ["a hidden agenda(숨은 속셈)", "hidden costs(숨은 비용)", "a hidden gem(숨은 보석)"],
+  "colloc": ["a hidden treasure(숨겨진 보물)", "hidden talents(숨은 재능)", "a hidden agenda(숨은 속셈)"],
+  "ex_add": "The contract had several hidden costs.  (hidden=숨은)"
+ },
+ {
+  "num": "2846",
+  "hw": "high",
+  "pos": "adj., adv., n.",
+  "cefr": "B2",
+  "core": "높은 -> '높은·높이 / 고조·최고치'.",
+  "senses": [
+   "1) (위치·정도가) 높은",
+   "2) (지위·질이) 높은·고급의",
+   "3) (부사) 높이 / 최고치·절정(명사)"
+  ],
+  "etym": "고대 영어 heah(높은). 게르만 계열 토박이말로, '위로 솟은·정도가 큰'이 핵심. height(높이)·heighten(높이다)이 가족.",
+  "deriv": "heah(높은) -> 'high'. '높은(a high mountain)' -> '지위·질이 높은(high quality, 고급)·고조된(high spirits, 들뜬 기분)' -> 명사 '최고치(an all-time high, 사상 최고치)'. 한국 학습자 핵심: high(키·물건이 높은) vs tall(사람·나무가 큰) 구별! high hopes(큰 기대), high time(~할 때가 한참 지난), high and low(사방으로), high-end(고급의), an all-time high(사상 최고치), on a high(들떠서). high·height(높이)·heighten(높이다)이 가족. 반대 low(낮은). lofty(우뚝한)·elevated(높은)와 유의어.",
+  "syn": ["tall(높은)", "elevated(높은)", "lofty(우뚝한)"],
+  "anti": ["low(낮은)", "short(낮은)"],
+  "idiom": ["high hopes(큰 기대)", "high time(~할 때가 한참 지난)", "an all-time high(사상 최고치)", "high and low(사방으로)"],
+  "colloc": ["high quality(고품질)", "a high price(높은 가격)", "high standards(높은 기준)"],
+  "ex_add": "The shelf was too high for the child to reach.  (high=높은)"
+ },
+ {
+  "num": "2847",
+  "hw": "hilarious",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "포복절도하게 -> '아주 우스운·재미있는'.",
+  "senses": [
+   "1) 아주 우스운·포복절도할",
+   "2) 무척 재미있는",
+   "3) 떠들썩하게 즐거운"
+  ],
+  "etym": "라틴어 hilaris(명랑한·유쾌한) <- 그리스어 hilaros(즐거운). '배꼽 빠지게 즐거운'이 핵심. exhilarate(들뜨게 하다)·hilarity(유쾌함)가 한 hilaris 갈래.",
+  "deriv": "hilaros(즐거운) -> hilaris -> 'hilarious'. '포복절도하게 우스운(a hilarious joke, 포복절도할 농담)'. 한국 학습자 핵심: hilaris(명랑한) 갈래 — exhilarate(아주 신나게 하다)·exhilarating(아주 신나는)·hilarity(유쾌함)! absolutely hilarious(완전 웃긴), find sth hilarious(~을 무척 웃기다고 여기다), a hilarious story(포복절도할 이야기). funny(웃긴)보다 훨씬 강함 — comic(2443)·side-splitting(배꼽 빠지는)·uproarious(폭소를 자아내는)와 유의어. 반대 serious(진지한)·dull(2636, 지루한)·tragic(비극의).",
+  "syn": ["side-splitting(포복절도할)", "uproarious(폭소를 자아내는)", "comical(우스꽝스러운)"],
+  "anti": ["serious(진지한)", "dull(지루한)", "tragic(비극적인)"],
+  "idiom": ["absolutely hilarious(완전 웃긴)", "find sth hilarious(~을 무척 웃기다고 여기다)"],
+  "colloc": ["a hilarious joke(포복절도할 농담)", "absolutely hilarious(완전 웃긴)", "a hilarious story(웃긴 이야기)"],
+  "ex_add": "His impression of the teacher was absolutely hilarious.  (hilarious=아주 우스운)"
+ },
+ {
+  "num": "2848",
+  "hw": "hip",
+  "pos": "n., adj.",
+  "cefr": "B2",
+  "core": "엉덩이 -> '엉덩이·고관절 / (구어) 최신 유행의'.",
+  "senses": [
+   "1) 엉덩이·허리 옆 부분",
+   "2) 고관절·둔부",
+   "3) (구어) 최신 유행을 아는·세련된"
+  ],
+  "etym": "고대 영어 hype(엉덩이). 게르만 계열 토박이말로, '허리와 다리가 만나는 옆 부분'이 핵심. (형용사 '유행의' hip은 20세기 미국 속어 hep/hip에서 온 별개 갈래.)",
+  "deriv": "hype(엉덩이) -> 'hip'. '엉덩이·고관절(hip joint, 고관절)' -> 구어 '최신 유행을 아는(a hip neighborhood, 힙한 동네)'. 한국 학습자 핵심: hip(엉덩이/고관절)과 buttocks(둔부)·bottom(엉덩이)을 구별 — hip은 옆 골반! a hip replacement(고관절 치환술), hip-hop(힙합), shoot from the hip(즉흥적으로 행동·말하다), joined at the hip(붙어 다니는). 형용사 hip은 '힙한·세련된'(콩글리시 '힙하다'의 어원!) — trendy(유행하는)·cool(멋진)과 유의어. waist(허리)와 구별.",
+  "syn": ["buttock(둔부)", "(adj.) trendy(유행하는)", "(adj.) cool(멋진)"],
+  "anti": ["(adj.) unfashionable(촌스러운)"],
+  "idiom": ["shoot from the hip(즉흥적으로 행동하다)", "joined at the hip(붙어 다니는)", "hip-hop(힙합)"],
+  "colloc": ["a hip joint(고관절)", "a hip replacement(고관절 치환술)", "hands on hips(허리에 손을 얹고)"],
+  "ex_add": "She stood with her hands on her hips.  (hip=엉덩이)"
+ },
+ {
+  "num": "2849",
+  "hw": "hire",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "삯을 주고 쓰다 -> '고용하다 / (영) 빌리다·임차'.",
+  "senses": [
+   "1) 고용하다·채용하다",
+   "2) (영) (단기로) 빌리다·임차하다",
+   "3) (임)대료·임차(명사)"
+  ],
+  "etym": "고대 영어 hyrian(삯을 주고 고용하다) <- hyr(삯·임금). '값을 치르고 사람·물건을 씀'이 핵심. 게르만 계열 토박이말.",
+  "deriv": "hyr(삯) -> hyrian -> 'hire'. '삯을 주고 쓰다 -> 고용하다(hire a new worker)' -> (영) '빌리다(hire a car, 차를 빌리다)' -> 명사 '임차(for hire, 대여용)'. 한국 학습자 핵심: 미국 vs 영국 — 미국은 hire가 주로 '고용하다', 영국은 '단기로 빌리다(hire a car)'도 흔함(미국은 rent a car)! hire and fire(채용과 해고), a hired hand(고용된 일꾼), for hire(대여 중), hire purchase(영, 할부 구매). employ(고용하다)·rent(빌리다)·recruit(채용하다)와 유의어. 반대 fire(해고하다)·dismiss(2607)·lay off(정리해고하다).",
+  "syn": ["employ(고용하다)", "recruit(채용하다)", "rent(빌리다)"],
+  "anti": ["fire(해고하다)", "dismiss(해고하다)", "lay off(정리해고하다)"],
+  "idiom": ["hire and fire(채용과 해고)", "for hire(대여용)", "a hired hand(고용된 일꾼)"],
+  "colloc": ["hire a worker(직원을 고용하다)", "hire a car(차를 빌리다)", "hire staff(직원을 채용하다)"],
+  "ex_add": "The company plans to hire fifty new employees.  (hire=고용하다)"
+ },
+ {
+  "num": "2850",
+  "hw": "historian",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "역사를 연구·서술하는 '역사가'.",
+  "senses": [
+   "1) 역사가·사학자",
+   "2) (특정 분야) 역사 연구자",
+   "3) 사료 편찬자"
+  ],
+  "etym": "그리스어 historia(탐구·앎·기록) <- histor(아는 사람) -> 라틴어 historia -> '역사를 연구·기록하는 사람'. historia(탐구)는 history(역사)·historic(역사적인)·historical(역사상의)·story(이야기)의 뿌리.",
+  "deriv": "historia(탐구·기록) -> 'historian'. '역사를 연구하는 사람 -> 역사가(a noted historian, 저명한 역사가)'. 한국 학습자 핵심: historia(탐구) 갈래 — history(역사)·historic(역사적으로 중요한)·historical(역사에 관한)·story(이야기=history의 단축형!)·prehistoric(선사 시대의)! historic(역사적인=중대한, a historic moment)과 historical(역사상의=역사에 관한, a historical novel)을 꼭 구별! an art historian(미술 사학자), a military historian(군사 사학자). scholar(학자)·chronicler(연대기 작가)와 유의어.",
+  "syn": ["scholar(학자)", "chronicler(연대기 작가)"],
+  "anti": [],
+  "idiom": ["an art historian(미술 사학자)", "a military historian(군사 사학자)"],
+  "colloc": ["a noted historian(저명한 역사가)", "an art historian(미술 사학자)", "according to historians(역사가들에 따르면)"],
+  "ex_add": "Historians still debate the causes of the war.  (historian=역사가)"
+ },
+ {
+  "num": "2851",
+  "hw": "hold",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "쥐다·지니다 -> '잡다·유지하다·개최하다 / 장악'.",
+  "senses": [
+   "1) 잡다·쥐다·안다 / 담다·수용하다",
+   "2) (상태를) 유지하다·보유하다 / (행사를) 열다",
+   "3) (생각을) 품다·여기다 / 장악·보류(명사)"
+  ],
+  "etym": "고대 영어 haldan(붙잡다·지니다). 게르만 계열 토박이말로, '손에 쥐어 지니다'가 핵심. 과거형 hold-held-held(불규칙). holder(소유자)·holding(보유)이 가족.",
+  "deriv": "haldan(붙잡다) -> 'hold'. '잡다·쥐다(hold a pen)·담다(hold 100 people)' -> '유지하다(hold a record)·개최하다(hold a meeting)' -> '품다(hold a belief)' / 명사 '장악(get hold of)'. 한국 학습자 핵심: 과거형 hold-held-held! hold on(기다리다/버티다), hold back(억제하다/주저하다), hold up(지연시키다/강도질하다), get hold of(~을 손에 넣다/연락이 닿다), hold one's breath(숨을 죽이다), on hold(보류 중/통화 대기 중), hold true(유효하다). grasp(쥐다)·keep(유지하다)·conduct(열다)와 유의어. 반대 release(놓다)·drop(떨어뜨리다).",
+  "syn": ["grasp(쥐다)", "keep(유지하다)", "conduct(개최하다)"],
+  "anti": ["release(놓다)", "drop(떨어뜨리다)", "let go(놓아주다)"],
+  "idiom": ["hold on(기다리다/버티다)", "hold back(억제하다)", "get hold of(~을 손에 넣다)", "on hold(보류 중)"],
+  "colloc": ["hold a meeting(회의를 열다)", "hold a record(기록을 보유하다)", "hold hands(손을 잡다)"],
+  "ex_add": "The stadium can hold up to 60,000 people.  (hold=수용하다)"
+ },
+ {
+  "num": "2852",
+  "hw": "hollow",
+  "pos": "adj., n., v.",
+  "cefr": "B2",
+  "core": "속이 빈 -> '텅 빈·공허한 / 움푹한 곳'.",
+  "senses": [
+   "1) (속이) 빈·움푹한",
+   "2) 공허한·헛된·진심 없는",
+   "3) 우묵한 곳·구멍 / (동사) 속을 파내다"
+  ],
+  "etym": "고대 영어 holh(움푹한 곳·동굴) <- hol(구멍). '속이 비어 우묵함'이 핵심. hole(구멍)·hell(2840, 덮인 지하)과 먼 갈래.",
+  "deriv": "hol(구멍) -> holh -> 'hollow'. '속이 빈(a hollow tree, 속 빈 나무)' -> 비유 '공허한·헛된(a hollow victory, 헛된 승리·hollow words 빈말)' -> 명사 '우묵한 곳' -> 동사 '속을 파내다(hollow out)'. 한국 학습자 핵심: hole(구멍)과 한 갈래! a hollow voice(공허한 목소리), hollow words/promises(빈말·공약), ring hollow(공허하게 들리다), a hollow victory(상처뿐인 승리), hollow out(속을 파내다). empty(빈)·vacant(비어 있는)·meaningless(무의미한)와 유의어. 반대 solid(속이 찬)·full(가득 찬)·sincere(진심의).",
+  "syn": ["empty(빈)", "vacant(비어 있는)", "meaningless(공허한)"],
+  "anti": ["solid(속이 찬)", "full(가득 찬)", "sincere(진심의)"],
+  "idiom": ["ring hollow(공허하게 들리다)", "a hollow victory(상처뿐인 승리)", "hollow out(속을 파내다)"],
+  "colloc": ["a hollow tree(속 빈 나무)", "hollow words(빈말)", "a hollow sound(텅 빈 소리)"],
+  "ex_add": "The trophy felt like a hollow victory after such a poor game.  (hollow=공허한)"
+ },
+ {
+  "num": "2853",
+  "hw": "holy",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "온전한·거룩한 -> '신성한·성스러운'.",
+  "senses": [
+   "1) 신성한·성스러운",
+   "2) 거룩한·경건한",
+   "3) 종교적으로 숭배되는"
+  ],
+  "etym": "고대 영어 halig(거룩한) <- hal(온전한·건강한). '흠 없이 온전한(hal) -> 거룩한'이 핵심. hal(온전한)은 heal(낫게 하다, 2835)·health(건강)·whole(전체의)·hallow(신성시하다)의 뿌리!",
+  "deriv": "hal(온전한) -> halig -> 'holy'. '온전한 -> 신성한·성스러운(holy water, 성수)'. 한국 학습자 핵심: hal(온전한) 갈래 — heal(2835)·health·healthcare(2836)·whole(전체)·hallow(신성시하다)·Halloween(만성절 전야=hallowed eve)! the Holy Bible(성경), the Holy Spirit(성령), a holy place(성지), Holy cow!/Holy smoke!(이런·세상에!), holier-than-thou(독선적인). sacred(신성한)·divine(신의)·blessed(축복받은)와 유의어. 반대 unholy(불경한)·profane(세속의)·secular(세속적인).",
+  "syn": ["sacred(신성한)", "divine(신성한)", "blessed(축복받은)"],
+  "anti": ["unholy(불경한)", "profane(세속의)", "secular(세속적인)"],
+  "idiom": ["the Holy Bible(성경)", "Holy cow!(이런!)", "holier-than-thou(독선적인)", "the Holy Land(성지)"],
+  "colloc": ["holy water(성수)", "a holy place(성지)", "the Holy Spirit(성령)"],
+  "ex_add": "Pilgrims travel to the holy city every year.  (holy=신성한)"
+ },
+ {
+  "num": "2854",
+  "hw": "homeless",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "집이 없는 -> '노숙의·집 없는'.",
+  "senses": [
+   "1) 집이 없는·노숙하는",
+   "2) (the homeless) 노숙자들",
+   "3) 거처를 잃은"
+  ],
+  "etym": "home(집, 고대 영어 ham) + -less(~이 없는). '집(home)이 없는'이 핵심. -less는 hopeless(절망적인)·careless(부주의한)·useless(쓸모없는)의 부정 접미사.",
+  "deriv": "home(집) + -less(없는) -> 'homeless'. '집이 없는 -> 노숙의(homeless people, 노숙자)' -> 'the homeless(노숙자들)'. 한국 학습자 핵심: -less(없는) 무리 — hopeless·careless·useless·harmless(2833)·homeless! the homeless(노숙자 전체 = homeless people), make sb homeless(~를 집 잃게 하다), a homeless shelter(노숙인 쉼터), the homeless population(노숙 인구). 사회 단원 핵심어 — poverty(가난)·shelter(쉼터)와 함께! destitute(궁핍한)와 유의어. 반대 housed(거처가 있는). homelessness(노숙 문제)가 명사.",
+  "syn": ["destitute(궁핍한)", "displaced(거처를 잃은)"],
+  "anti": ["housed(거처가 있는)"],
+  "idiom": ["the homeless(노숙자들)", "a homeless shelter(노숙인 쉼터)"],
+  "colloc": ["homeless people(노숙자)", "make sb homeless(집을 잃게 하다)", "a homeless shelter(노숙인 쉼터)"],
+  "ex_add": "The charity provides meals for homeless people.  (homeless=집 없는)"
+ },
+ {
+  "num": "2855",
+  "hw": "honesty",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "정직함 -> '정직·솔직함'.",
+  "senses": [
+   "1) 정직·성실",
+   "2) 솔직함·진실성",
+   "3) 청렴"
+  ],
+  "etym": "라틴어 honestas(명예·고결) <- honos/honor(명예). honest(정직한)·honor(2857)·dishonest(2605)와 한 honor 갈래. '명예를 지키는 곧음'이 핵심.",
+  "deriv": "honor(명예) -> honest -> 'honesty'. '정직함 -> 정직·솔직(complete honesty, 완전한 솔직함)'. 한국 학습자 핵심: honor(명예) 갈래 — honest·honor(2857)·dishonest(2605)·honorable(명예로운)·honorary(명예직의)! Honesty is the best policy(정직이 최선의 방책 — 속담!), in all honesty(솔직히 말해서), with honesty(정직하게), brutal honesty(가차 없는 솔직함). integrity(청렴)·sincerity(진실성)·truthfulness(정직)와 유의어. 반대 dishonesty(부정직)·deceit(기만). honest(2... ) 가족.",
+  "syn": ["integrity(청렴)", "sincerity(진실성)", "truthfulness(정직)"],
+  "anti": ["dishonesty(부정직)", "deceit(기만)", "deception(속임)"],
+  "idiom": ["Honesty is the best policy(정직이 최선책)", "in all honesty(솔직히 말해)", "brutal honesty(가차 없는 솔직함)"],
+  "colloc": ["complete honesty(완전한 솔직함)", "in all honesty(솔직히 말해서)", "honesty and integrity(정직과 청렴)"],
+  "ex_add": "I admire her honesty, even when the truth is painful.  (honesty=정직)"
+ },
+ {
+  "num": "2856",
+  "hw": "honey",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "벌꿀 -> '꿀 / (호칭) 여보·자기'.",
+  "senses": [
+   "1) 꿀·벌꿀",
+   "2) (애칭) 여보·자기·얘야",
+   "3) 달콤함·감미로움"
+  ],
+  "etym": "고대 영어 hunig(꿀). 게르만 계열 토박이말로, '벌이 모은 달콤한 액'이 핵심. honeymoon(신혼여행=꿀 같은 달)·honeycomb(벌집)이 가족.",
+  "deriv": "hunig(꿀) -> 'honey'. '벌꿀(a jar of honey, 꿀 한 병)' -> 애정 호칭 '여보·자기(Hi, honey!)'. 한국 학습자 핵심: 애칭으로 honey/sweetheart/darling(자기·여보)! a honeymoon(신혼여행 — 어원: 결혼 직후 꿀 같은 한 달!), honeycomb(벌집), as sweet as honey(꿀처럼 달콤한), honeyed words(달콤한 말·감언). sweetheart(연인)·darling(자기)과 유의어(호칭). bee(벌)·hive(벌통)와 함께 쓰인다.",
+  "syn": ["(애칭) sweetheart(자기)", "(애칭) darling(여보)"],
+  "anti": [],
+  "idiom": ["a honeymoon(신혼여행)", "honeyed words(감언이설)", "as sweet as honey(꿀처럼 단)"],
+  "colloc": ["a jar of honey(꿀 한 병)", "honey and lemon(꿀과 레몬)", "pure honey(순수 꿀)"],
+  "ex_add": "She likes to put honey in her tea.  (honey=꿀)"
+ },
+ {
+  "num": "2857",
+  "hw": "honor",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "명예 -> '명예·영예·경의 / 존경하다·(약속을) 지키다'.",
+  "senses": [
+   "1) 명예·영예·자랑",
+   "2) 존경·경의 / (the honor) 영광",
+   "3) (동사) 존경하다·기리다 / (약속·계약을) 지키다"
+  ],
+  "etym": "라틴어 honos/honor(명예·영예). '높이 받드는 영예'가 핵심. honest(정직한)·honesty(2855)·dishonest(2605)·honorable(명예로운)·honorary(명예직의)가 한 honor 갈래. (영국식 honour.)",
+  "deriv": "honor(명예) -> 'honor'. '명예·영예(a great honor)' -> '경의·존경' -> 동사 '기리다(honor a hero)·(약속을) 지키다(honor a contract)'. 한국 학습자 핵심: 영국식 honour / 미국식 honor! honor(명예) 갈래 — honest·honesty(2855)·dishonest(2605)·honorable·honorary! in honor of(~을 기념하여), have the honor of V-ing(~하는 영광을 누리다), a guest of honor(주빈), honor a promise(약속을 지키다), code of honor(명예 규율). respect(존경)·esteem(존중)·glory(영광)와 유의어. 반대 disgrace(불명예)·shame(수치).",
+  "syn": ["respect(존경)", "esteem(존중)", "glory(영광)"],
+  "anti": ["disgrace(불명예)", "shame(수치)", "dishonor(불명예)"],
+  "idiom": ["in honor of(~을 기념하여)", "a guest of honor(주빈)", "honor a promise(약속을 지키다)", "code of honor(명예 규율)"],
+  "colloc": ["a great honor(큰 영예)", "in honor of(~을 기리며)", "honor a contract(계약을 이행하다)"],
+  "ex_add": "It is a great honor to receive this award.  (honor=영예)"
+ },
+ {
+  "num": "2858",
+  "hw": "hook",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "갈고리 -> '고리·낚싯바늘 / 걸다'.",
+  "senses": [
+   "1) 갈고리·고리·걸이",
+   "2) 낚싯바늘 / (권투) 훅",
+   "3) (동사) 걸다·낚다 / (관심을) 사로잡다"
+  ],
+  "etym": "고대 영어 hoc(갈고리). 게르만 계열 토박이말로, '구부러져 거는 도구'가 핵심. 노래·광고의 '귀에 꽂히는 후렴(hook)'도 '관심을 낚아 거는' 데서.",
+  "deriv": "hoc(갈고리) -> 'hook'. '갈고리·고리(hang on a hook)·낚싯바늘' -> 동사 '걸다·낚다(hook a fish)·사로잡다(hook the audience)'. 한국 학습자 핵심: off the hook(곤경에서 벗어난/전화기가 내려진), by hook or by crook(수단·방법을 가리지 않고), hook up(연결하다/만나다), hooked on(~에 푹 빠진·중독된), a sales hook(고객을 끄는 미끼), fall hook, line and sinker(완전히 속아 넘어가다). catch(걸다)·fasten(고정하다)과 유의어. 음악의 '훅(귀에 꽂히는 부분)'도 여기서!",
+  "syn": ["catch(걸쇠)", "hanger(걸이)", "snag(걸다)"],
+  "anti": ["unhook(고리를 풀다)"],
+  "idiom": ["off the hook(곤경에서 벗어난)", "by hook or by crook(무슨 수를 써서라도)", "hooked on(~에 푹 빠진)", "hook up(연결하다)"],
+  "colloc": ["a coat hook(외투걸이)", "a fish hook(낚싯바늘)", "hook up(연결하다)"],
+  "ex_add": "Hang your coat on the hook by the door.  (hook=고리)"
+ },
+ {
+  "num": "2859",
+  "hw": "hopefully",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "바라건대 -> '바라건대·잘되면 / 희망을 품고'.",
+  "senses": [
+   "1) 바라건대·잘되면(문장 부사)",
+   "2) 희망을 품고·기대하며",
+   "3) 가망 있게"
+  ],
+  "etym": "hopeful(희망적인) + -ly. hope(희망, 고대 영어 hopa) + -ful(가득한). '희망(hope)을 품고'가 핵심. hope·hopeful·hopeless가 한 갈래.",
+  "deriv": "hope(희망) -> hopeful -> 'hopefully'. 본래 '희망을 품고(wait hopefully)' -> 문장 부사 '바라건대·잘되면(Hopefully, it won't rain, 비가 안 오면 좋겠는데)'. 한국 학습자 핵심: 두 용법 — (1) 동사 수식 '희망을 품고'(look up hopefully), (2) 문장 첫머리 '바라건대'(Hopefully ~ = I hope that ~)! 후자가 회화에서 훨씬 흔함 — Hopefully we'll arrive on time(시간 맞춰 도착하면 좋겠다). with luck(운이 좋으면)·all being well(별일 없으면)과 유의어. hope·hopeful·hopeless가 가족. 반대 hopelessly(절망적으로).",
+  "syn": ["with luck(운이 좋으면)", "all being well(별일 없으면)", "expectantly(기대하며)"],
+  "anti": ["hopelessly(절망적으로)"],
+  "idiom": ["Hopefully, ~(바라건대 ~)", "wait hopefully(희망을 품고 기다리다)"],
+  "colloc": ["hopefully, ~(잘되면)", "look hopefully(희망에 차서 바라보다)", "wait hopefully(기대하며 기다리다)"],
+  "ex_add": "Hopefully, the weather will be nice this weekend.  (hopefully=바라건대)"
+ },
+ {
+  "num": "2860",
+  "hw": "host",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "손님을 맞는 주인 -> '주최자·진행자 / 주최하다'.",
+  "senses": [
+   "1) (손님을 맞는) 주인·주최자",
+   "2) (방송) 진행자·사회자 / (생물) 숙주",
+   "3) (동사) 주최하다·접대하다 / (a host of) 다수"
+  ],
+  "etym": "라틴어 hospes/hospit-(손님을 맞는 주인·손님). '손님을 맞이하는 사람'이 핵심. hospes(주인·손님)는 hospital(병원=손님을 맞는 곳)·hotel(호텔)·hospitality(환대)·hostage(인질)·hostel(여관)의 뿌리!",
+  "deriv": "hospes(주인) -> 'host'. '손님을 맞는 주인(a gracious host)' -> 방송 '진행자(a talk show host)·숙주' -> 동사 '주최하다(host the Olympics)' -> 'a host of(다수의)'. 한국 학습자 핵심: hospes(주인·손님) 대가족 — hospital(병원)·hotel·hospitality(환대)·hostage(인질)·hostel(유스호스텔)·hospice(호스피스)! host a party/event(파티·행사를 열다), the host country/city(개최국·개최 도시), a host of problems(많은 문제). guest(손님)와 짝! emcee(사회자)·organizer(주최자)와 유의어. 반대 guest(손님).",
+  "syn": ["organizer(주최자)", "presenter(진행자)", "emcee(사회자)"],
+  "anti": ["guest(손님)", "visitor(방문객)"],
+  "idiom": ["a host of(다수의)", "the host country(개최국)", "host an event(행사를 주최하다)"],
+  "colloc": ["host a party(파티를 열다)", "the host country(개최국)", "a talk show host(토크쇼 진행자)"],
+  "ex_add": "Brazil hosted the World Cup in 2014.  (host=주최하다)"
+ },
+ {
+  "num": "2861",
+  "hw": "household",
+  "pos": "n., adj.",
+  "cefr": "B2",
+  "core": "한집 식구 -> '가구·가정 / 가정용의'.",
+  "senses": [
+   "1) 가구·세대·한집 식구",
+   "2) 가정·집안",
+   "3) 가정의·가사의(형용사)"
+  ],
+  "etym": "house(집) + hold(쥠·지님, 2851). '한 집(house)에 거느린(hold) 식구'가 핵심. house(집)·hold(2851)와 한 토박이 갈래.",
+  "deriv": "house(집) + hold(2851) -> 'household'. '한집 식구 -> 가구·세대(a household of four, 4인 가구)' -> 형용사 '가정용의(household chores, 집안일)'. 한국 학습자 핵심: household은 인구·통계의 '가구(세대)' 단위 — average household income(가구 평균 소득)! a household name(누구나 아는 유명한 이름·것), household chores/tasks(집안일), household goods(2814, 가정용품), the head of the household(가장), a low-income household(저소득 가구). family(가족)와 구별 — household는 '한 집에 사는 단위'. domestic(2624, 가정의)과 유의어.",
+  "syn": ["family(가족)", "home(가정)"],
+  "anti": [],
+  "idiom": ["a household name(누구나 아는 이름)", "the head of the household(가장)", "household chores(집안일)"],
+  "colloc": ["household income(가구 소득)", "household chores(집안일)", "a household name(유명한 이름)"],
+  "ex_add": "The average household spends a lot on food.  (household=가구)"
+ },
+ {
+  "num": "2862",
+  "hw": "housing",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "집을 들임 -> '주택 (공급)·주거'.",
+  "senses": [
+   "1) 주택·주거 (시설)",
+   "2) 주택 공급·주거 정책",
+   "3) (기계의) 덮개·하우징"
+  ],
+  "etym": "house(집, 고대 영어 hus) + -ing. '집(house)을 제공함·집들 전체'가 핵심. house(집)와 한 토박이 갈래.",
+  "deriv": "house(집) -> 'housing'. '집을 들임 -> 주택·주거(affordable housing, 저렴한 주택)' -> '주택 공급(the housing market, 주택 시장)' -> 기계 '덮개(a housing for the motor)'. 한국 학습자 핵심: housing은 불가산명사 — much housing(O), a housing(X)! the housing market(주택 시장), affordable housing(서민용 주택), public housing(공공 주택), a housing shortage(주택난), housing prices(집값), a housing estate(영, 주택 단지, 2683). accommodation(숙소)·shelter(거처)와 유의어. 사회·경제 단원 핵심어.",
+  "syn": ["accommodation(숙소)", "shelter(거처)", "dwellings(주거)"],
+  "anti": [],
+  "idiom": ["the housing market(주택 시장)", "affordable housing(저렴한 주택)", "a housing shortage(주택난)"],
+  "colloc": ["the housing market(주택 시장)", "affordable housing(저렴한 주택)", "housing prices(집값)"],
+  "ex_add": "The city is facing a serious shortage of affordable housing.  (housing=주택)"
+ },
+ {
+  "num": "2863",
+  "hw": "humor",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "타고난 기질 -> '유머·익살 / 기분 / 비위를 맞추다'.",
+  "senses": [
+   "1) 유머·익살·해학",
+   "2) 기분·심기",
+   "3) (동사) 비위를 맞춰 주다"
+  ],
+  "etym": "라틴어 humor(수분·체액). 중세 의학의 '네 가지 체액(humors)이 기질·기분을 좌우한다'는 설에서 '기분 -> 유머'로! humor(체액)는 humid(습한)·humorous(2864)와 한 갈래. (영국식 humour.)",
+  "deriv": "humor(체액) -> '기질·기분 -> humor'. '유머·익살(a sense of humor, 유머 감각)' -> '기분(in good humor, 기분이 좋은)' -> 동사 '비위를 맞추다(humor a child)'. 한국 학습자 핵심: 옛 의학의 4체액설(피·점액·황담즙·흑담즙)이 기분을 좌우한다는 데서 '기분->유머'! humor(체액) 갈래 — humid(습한)·humorous(2864)·humidity(습도)! 영국식 humour. a sense of humor(유머 감각), good-humored(쾌활한), dry humor(시치미 떼는 유머), out of humor(기분이 언짢은). wit(재치)·comedy(2443)와 유의어.",
+  "syn": ["wit(재치)", "comedy(익살)", "mood(기분)"],
+  "anti": ["seriousness(진지함)", "gravity(엄숙함)"],
+  "idiom": ["a sense of humor(유머 감각)", "good-humored(쾌활한)", "dry humor(무미건조한 유머)", "out of humor(기분이 언짢은)"],
+  "colloc": ["a sense of humor(유머 감각)", "dry humor(건조한 유머)", "good humor(좋은 기분)"],
+  "ex_add": "She has a great sense of humor.  (humor=유머)"
+ },
+ {
+  "num": "2864",
+  "hw": "humorous",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "유머가 있는 -> '재미있는·익살스러운·해학적인'.",
+  "senses": [
+   "1) 재미있는·익살스러운",
+   "2) 해학적인·유머러스한",
+   "3) 우스운"
+  ],
+  "etym": "humor(유머, 2863) + -ous. 라틴어 humor(체액) 뿌리 — 4체액설에서 '기질·기분'으로 발전. humor(2863)·humid(습한)와 한 갈래.",
+  "deriv": "humor(2863) -> 'humorous'. '유머가 있는 -> 재미있는·익살스러운(a humorous story, 익살스러운 이야기)'. 한국 학습자 핵심: humorous(유머러스한)와 humerus(상완골, 뼈 이름)가 동음이라 영어권에서 말장난! humor(2863) 갈래 — humid(습한)·humidity(습도)·humorist(유머 작가)! a humorous remark(재치 있는 말), gently humorous(은근히 익살스러운), a humorous tone(해학적 어조). funny(웃긴)·witty(재치 있는)·comic(2443)·amusing(재미있는)과 유의어 — humorous는 '점잖게 재미있는' 어감. 반대 serious(진지한)·humorless(유머 없는)·solemn(엄숙한).",
+  "syn": ["funny(웃긴)", "witty(재치 있는)", "amusing(재미있는)"],
+  "anti": ["serious(진지한)", "humorless(유머 없는)", "solemn(엄숙한)"],
+  "idiom": ["a humorous remark(재치 있는 말)", "gently humorous(은근히 익살스러운)"],
+  "colloc": ["a humorous story(익살스러운 이야기)", "a humorous remark(재치 있는 말)", "lightly humorous(가볍게 익살스러운)"],
+  "ex_add": "His speech was both informative and humorous.  (humorous=익살스러운)"
+ },
+ {
+  "num": "2865",
+  "hw": "hunger",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "굶주림 -> '배고픔·기아 / 갈망'.",
+  "senses": [
+   "1) 배고픔·공복",
+   "2) 기아·굶주림",
+   "3) (hunger for) 갈망·열망 / 갈망하다"
+  ],
+  "etym": "고대 영어 hungor(굶주림). 게르만 계열 토박이말로, '먹을 것에 대한 절박한 욕구'가 핵심. hungry(배고픈)가 가족.",
+  "deriv": "hungor(굶주림) -> 'hunger'. '배고픔·기아(die of hunger, 굶어 죽다)' -> 비유 '갈망(a hunger for knowledge, 지식에 대 갈망)' -> 동사 '갈망하다(hunger for success)'. 한국 학습자 핵심: hunger for/after(~을 갈망하다), a hunger strike(단식 투쟁), satisfy one's hunger(허기를 채우다), world hunger(세계 기아 문제), pangs of hunger(허기), a hunger for power(권력욕). hungry(배고픈)가 형용사 — be hungry for(~을 갈망하다). starvation(굶주림)·famine(기근)·craving(갈망)과 유의어. 반대 fullness(포만)·satiety(포만감).",
+  "syn": ["starvation(굶주림)", "famine(기근)", "craving(갈망)"],
+  "anti": ["fullness(포만)", "satiety(포만감)"],
+  "idiom": ["a hunger strike(단식 투쟁)", "hunger for(~을 갈망하다)", "world hunger(세계 기아)"],
+  "colloc": ["die of hunger(굶어 죽다)", "satisfy hunger(허기를 채우다)", "a hunger for knowledge(지식욕)"],
+  "ex_add": "Millions of people suffer from hunger every day.  (hunger=굶주림)"
+ },
+ {
+  "num": "2866",
+  "hw": "hunt",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "쫓다 -> '사냥하다·뒤쫓다·찾다 / 사냥·수색'.",
+  "senses": [
+   "1) 사냥하다",
+   "2) (범인을) 뒤쫓다·수색하다",
+   "3) (hunt for) 샅샅이 찾다 / 사냥·탐색(명사)"
+  ],
+  "etym": "고대 영어 huntian(사냥하다). 게르만 계열 토박이말로, '먹잇감을 쫓아 잡음'이 핵심. hunter(사냥꾼)·hunting(2867)이 가족.",
+  "deriv": "huntian(사냥하다) -> 'hunt'. '사냥하다(hunt deer)' -> '뒤쫓다·수색하다(hunt a criminal)' -> 'hunt for(샅샅이 찾다, hunt for a job 일자리를 찾다)'. 한국 학습자 핵심: hunt for/down(~을 찾아다니다/끝까지 추적하다), a job hunt(구직 활동), a house hunt(집 구하기), a witch hunt(마녀사냥·부당한 박해), a bargain hunt(특가 사냥), a treasure hunt(보물찾기). chase(2417, 쫓다)·pursue(추구하다)·search(찾다)와 유의어. hunter(사냥꾼)·hunting(2867)이 가족.",
+  "syn": ["chase(쫓다)", "pursue(추적하다)", "search(찾다)"],
+  "anti": ["flee(달아나다)"],
+  "idiom": ["hunt for(~을 찾다)", "a witch hunt(마녀사냥)", "a job hunt(구직 활동)", "hunt down(끝까지 추적하다)"],
+  "colloc": ["hunt for a job(일자리를 찾다)", "hunt animals(동물을 사냥하다)", "a treasure hunt(보물찾기)"],
+  "ex_add": "Police are hunting for the missing child.  (hunt=수색하다)"
+ },
+ {
+  "num": "2867",
+  "hw": "hunting",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "사냥하기 -> '사냥 / ~ 찾기'.",
+  "senses": [
+   "1) 사냥·수렵",
+   "2) (~ hunting) ~ 찾기·구하기",
+   "3) 추적·탐색"
+  ],
+  "etym": "hunt(사냥하다, 2866) + -ing. 고대 영어 huntian(사냥하다) 뿌리. '먹잇감·목표를 쫓는 일'이 핵심. hunt(2866)·hunter(사냥꾼)와 한 갈래.",
+  "deriv": "hunt(2866) -> 'hunting'. '사냥하기 -> 사냥·수렵(go hunting, 사냥하러 가다)' -> 합성 '~ 찾기(job hunting 구직, house hunting 집 구하기)'. 한국 학습자 핵심: '~ hunting' 합성어가 매우 생산적 — job hunting(구직), house hunting(집 구하기), bargain hunting(특가 쇼핑), apartment hunting(집 알아보기), souvenir hunting(기념품 사냥)! go hunting(사냥 가다), big-game hunting(대형 동물 사냥), hunting season(사냥철), a hunting ground(사냥터). 동명사로 '~ 찾아다니기'! search(탐색)·pursuit(추구)과 유의어.",
+  "syn": ["search(탐색)", "pursuit(추구)", "hunt(사냥)"],
+  "anti": [],
+  "idiom": ["job hunting(구직)", "house hunting(집 구하기)", "bargain hunting(특가 쇼핑)", "go hunting(사냥하러 가다)"],
+  "colloc": ["go hunting(사냥하러 가다)", "job hunting(구직 활동)", "house hunting(집 구하기)"],
+  "ex_add": "We spent the weekend house hunting in the city.  (hunting=구하기)"
+ },
+ {
+  "num": "2868",
+  "hw": "hurt",
+  "pos": "v., adj., n.",
+  "cefr": "B2",
+  "core": "부딪혀 다치다 -> '다치게 하다·아프다·상처 주다'.",
+  "senses": [
+   "1) 다치게 하다·다치다·아프다",
+   "2) (감정을) 상하게 하다",
+   "3) 다친·상처받은(형용사) / 아픔(명사)"
+  ],
+  "etym": "고대 프랑스어 hurter(세게 부딪치다·충돌하다). '부딪쳐 상하게 함'이 핵심. 과거형 hurt-hurt-hurt(불변!). 신체적·정서적 아픔을 모두 아우른다.",
+  "deriv": "hurter(부딪치다) -> 'hurt'. '부딪혀 다치다 -> 다치게 하다(hurt one's knee)·아프다(my back hurts)' -> '감정을 상하게 하다(hurt sb's feelings)' -> 형용사 '상처받은(feel hurt)'. 한국 학습자 핵심: 과거형 hurt-hurt-hurt(불변 동사)! hurt sb's feelings(~의 감정을 상하게 하다 — 빈출!), get hurt(다치다), It won't hurt to try(밑져야 본전이다), where does it hurt?(어디가 아파요?), deeply hurt(깊이 상처받은). injure(부상시키다)·harm(2832, 해치다)·wound(상처 입히다)와 유의어. 반대 heal(2835, 낫게 하다)·comfort(2442, 위로하다).",
+  "syn": ["injure(부상시키다)", "harm(해치다)", "wound(상처 입히다)"],
+  "anti": ["heal(낫게 하다)", "comfort(위로하다)", "soothe(달래다)"],
+  "idiom": ["hurt sb's feelings(감정을 상하게 하다)", "It won't hurt to(~해도 손해 볼 것 없다)", "get hurt(다치다)"],
+  "colloc": ["hurt one's feelings(감정을 상하게 하다)", "badly hurt(심하게 다친)", "get hurt(다치다)"],
+  "ex_add": "I didn't mean to hurt your feelings.  (hurt=상처 주다)"
+ },
+ {
+  "num": "2869",
+  "hw": "hypothesis",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "밑에 깔아 둔 전제 -> '가설'.",
+  "senses": [
+   "1) (과학) 가설",
+   "2) 추정·전제",
+   "3) 가정"
+  ],
+  "etym": "그리스어 hypothesis = hypo-(아래에) + thesis(놓음·둠) -> '논증의 밑(hypo)에 깔아 두는(thesis) 전제'. hypo-(아래)는 hypodermic(피하의)·hypocrite(위선자), thesis(놓음)는 thesis(논제)·synthesis(종합)·antithesis(대조)의 뿌리. 복수형은 hypotheses.",
+  "deriv": "hypo-(아래) + thesis(놓음) -> 'hypothesis'. '밑에 깔아 둔 전제 -> 가설(test a hypothesis, 가설을 검증하다)'. 한국 학습자 핵심: 복수형 hypotheses[하이파써시즈] 주의! hypo-(아래) 갈래 — hypodermic(피하 주사의)·hypothermia(저체온증)·hypocrite(위선자) / thesis 갈래 — synthesis(합성)·antithesis(정반대)·thesis(논문)! formulate a hypothesis(가설을 세우다), test/prove a hypothesis(가설을 검증하다), a working hypothesis(잠정 가설), hypothetical(가설의). theory(이론)·assumption(가정)·conjecture(추측)와 유의어 — hypothesis는 '검증 전의 가설'.",
+  "syn": ["theory(이론)", "assumption(가정)", "conjecture(추측)"],
+  "anti": ["fact(사실)", "proof(증명)"],
+  "idiom": ["test a hypothesis(가설을 검증하다)", "a working hypothesis(잠정 가설)"],
+  "colloc": ["test a hypothesis(가설을 검증하다)", "formulate a hypothesis(가설을 세우다)", "support a hypothesis(가설을 뒷받침하다)"],
+  "ex_add": "Scientists designed an experiment to test the hypothesis.  (hypothesis=가설)"
+ },
+ {
+  "num": "2870",
+  "hw": "icon",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "본떠 그린 상 -> '상징적 인물·우상 / 아이콘'.",
+  "senses": [
+   "1) 우상·상징적 인물·아이콘",
+   "2) (컴퓨터) 아이콘",
+   "3) (종교) 성상·이콘"
+  ],
+  "etym": "그리스어 eikon(상·모습·닮은 것) <- eikenai(닮다). '본떠 그린 상(像)'이 핵심. iconic(상징적인)·iconoclast(우상 파괴자)·iconography(도상학)가 한 eikon 갈래.",
+  "deriv": "eikon(상) -> 'icon'. '본떠 그린 상 -> (종교) 성상' -> 비유 '상징적 인물·우상(a cultural icon, 문화적 아이콘)' -> 컴퓨터 '아이콘(click the icon)'. 한국 학습자 핵심: eikon(상) 갈래 — iconic(상징적인, an iconic image 상징적 이미지)·iconoclast(인습 타파자)·iconography! a fashion icon(패션 아이콘), a gay icon(성소수자의 우상), a style icon(스타일 아이콘), a desktop icon(바탕화면 아이콘), become an icon(상징이 되다). symbol(상징)·legend(전설적 인물)과 유의어. 콩글리시 '아이콘'과 거의 같은 의미!",
+  "syn": ["symbol(상징)", "legend(전설적 인물)", "idol(우상)"],
+  "anti": [],
+  "idiom": ["a cultural icon(문화적 아이콘)", "a fashion icon(패션 아이콘)", "a style icon(스타일 아이콘)"],
+  "colloc": ["a cultural icon(문화적 아이콘)", "a fashion icon(패션 아이콘)", "click the icon(아이콘을 클릭하다)"],
+  "ex_add": "She became a fashion icon in the 1960s.  (icon=아이콘)"
+ },
+ {
+  "num": "2871",
+  "hw": "ID",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "신원 증명 -> '신분증·신원 확인'.",
+  "senses": [
+   "1) 신분증(identity card)",
+   "2) 신원 확인·신원",
+   "3) (동사) 신원을 확인하다"
+  ],
+  "etym": "identity(신원)·identification(신원 확인)의 약자. 둘 다 라틴어 idem(같은·동일한)에서 — '그 사람과 동일함(idem)을 증명하는 것'이 핵심. identical(2873)·identity·identify와 한 idem 갈래.",
+  "deriv": "idem(같은) -> identity/identification -> 'ID'. '동일함을 증명 -> 신분증·신원 확인(show your ID, 신분증을 제시하다)'. 한국 학습자 핵심: idem(같은) 갈래 — identical(2873)·identity(정체성)·identify(확인하다)·ID! an ID card(신분증), a photo ID(사진이 있는 신분증), a fake ID(위조 신분증, 2730 fake), check sb's ID(신분증을 확인하다), an ID badge(출입증), an employee ID(사원증). 동사로 'ID the suspect(용의자의 신원을 확인하다)'도 구어에서 씀. identification(신원 확인)의 비격식 줄임말.",
+  "syn": ["identification(신원 확인)", "identity card(신분증)"],
+  "anti": [],
+  "idiom": ["an ID card(신분증)", "a fake ID(위조 신분증)", "a photo ID(사진 신분증)"],
+  "colloc": ["show ID(신분증을 보이다)", "an ID card(신분증)", "check ID(신분증을 확인하다)"],
+  "ex_add": "You need a valid ID to enter the building.  (ID=신분증)"
+ },
+ {
+  "num": "2872",
+  "hw": "ideal",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "마음에 그린 본 -> '이상적인 / 이상·전형'.",
+  "senses": [
+   "1) 이상적인·더없이 좋은",
+   "2) 관념적인·이상의",
+   "3) 이상·이상형·전형(명사)"
+  ],
+  "etym": "그리스어 idea(보이는 형상·본보기) <- idein(보다). '마음의 눈으로 본 완전한 본(本)'이 핵심. idea(생각)·idealism(이상주의)·ideology(이념)가 한 idea 갈래.",
+  "deriv": "idein(보다) -> idea(본) -> 'ideal'. '마음에 그린 본 -> 이상적인(an ideal solution, 이상적 해법)' -> 명사 '이상·이상형(live up to one's ideals, 이상을 실현하다)'. 한국 학습자 핵심: idea(보는 것) 갈래 — idea·idealism(이상주의)·idealist·ideology(이데올로기)·ideal! ideal for(~에 안성맞춤인), an ideal candidate(이상적인 후보), in an ideal world(이상적인 세상이라면), fall short of the ideal(이상에 못 미치다), idealize(이상화하다). perfect(완벽한)·perfect(완벽한)·model(전형)과 유의어. 반대 imperfect(불완전한)·realistic(현실적인).",
+  "syn": ["perfect(완벽한)", "model(전형적인)", "optimal(최적의)"],
+  "anti": ["imperfect(불완전한)", "unsuitable(부적합한)"],
+  "idiom": ["ideal for(~에 안성맞춤인)", "in an ideal world(이상적인 세상이라면)", "live up to one's ideals(이상을 실현하다)"],
+  "colloc": ["an ideal solution(이상적 해법)", "ideal for(~에 이상적인)", "an ideal candidate(이상적 후보)"],
+  "ex_add": "This quiet town is ideal for raising children.  (ideal=이상적인)"
+ },
+ {
+  "num": "2873",
+  "hw": "identical",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "똑같은 -> '동일한·똑같은'.",
+  "senses": [
+   "1) 동일한·똑같은",
+   "2) (identical twins) 일란성의",
+   "3) 일치하는"
+  ],
+  "etym": "라틴어 identicus <- idem(같은·동일한). '하나도 다르지 않고 같은(idem)'이 핵심. idem(같은)은 identity(정체성)·identify(확인하다)·ID(2871)의 뿌리.",
+  "deriv": "idem(같은) -> identicus -> 'identical'. '똑같은 -> 동일한(identical results, 동일한 결과)' -> 'identical twins(일란성 쌍둥이)'. 한국 학습자 핵심: idem(같은) 갈래 — identity(정체성)·identify(확인하다)·ID(2871)·identification·identifiable! identical to/with(~과 똑같은), virtually identical(거의 똑같은), almost identical(거의 동일한), identical twins(일란성 쌍둥이, vs fraternal twins 이란성). same(같은)·indistinguishable(분간 안 되는)·equivalent(2678)와 유의어 — identical은 '완전히 똑같은'. 반대 different(다른)·distinct(2611, 별개의).",
+  "syn": ["same(같은)", "indistinguishable(분간 안 되는)", "matching(일치하는)"],
+  "anti": ["different(다른)", "distinct(별개의)", "dissimilar(다른)"],
+  "idiom": ["identical twins(일란성 쌍둥이)", "identical to(~과 똑같은)", "virtually identical(거의 동일한)"],
+  "colloc": ["identical twins(일란성 쌍둥이)", "almost identical(거의 똑같은)", "identical to(~과 동일한)"],
+  "ex_add": "The two paintings looked almost identical.  (identical=똑같은)"
+ },
+ {
+  "num": "2874",
+  "hw": "illusion",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "마음을 갖고 놂 -> '착각·환상·환영'.",
+  "senses": [
+   "1) 착각·오해·환상",
+   "2) 환영·착시",
+   "3) 착시 현상"
+  ],
+  "etym": "라틴어 illudere = in-(향하여) + ludere(놀다·희롱하다)의 명사형 illusio -> '마음을 갖고 놀려 속임'. ludere(놀다)는 illusion·allude(넌지시 말하다)·delude(속이다)·elude(피하다)·ludicrous(터무니없는)·prelude(전주곡)의 뿌리.",
+  "deriv": "in-(향하여) + ludere(놀다) -> illusio -> 'illusion'. '마음을 갖고 놂 -> 착각·환상(be under an illusion, 착각하고 있다)' -> '착시·환영(an optical illusion, 착시)'. 한국 학습자 핵심: ludere(놀다) 갈래 — allude(암시하다)·delude(현혹하다)·elude(빠져나가다)·ludicrous(웃기는)·prelude(서곡)·collude(공모하다)! an optical illusion(착시), be under the illusion that(~라고 착각하다), have no illusions about(~에 대해 환상이 없다), shatter an illusion(환상을 깨다). delusion(망상)·fantasy(2732, 공상)와 유의어. 반대 reality(현실).",
+  "syn": ["delusion(망상)", "fantasy(공상)", "misconception(오해)"],
+  "anti": ["reality(현실)", "truth(진실)"],
+  "idiom": ["an optical illusion(착시)", "be under an illusion(착각하다)", "have no illusions about(~에 환상이 없다)"],
+  "colloc": ["an optical illusion(착시)", "create an illusion(착각을 일으키다)", "shatter an illusion(환상을 깨다)"],
+  "ex_add": "The mirrors create an illusion of a larger room.  (illusion=착각)"
+ },
+ {
+  "num": "2875",
+  "hw": "illustrate",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "환히 밝혀 보이다 -> '예를 들어 설명하다·삽화를 넣다'.",
+  "senses": [
+   "1) (예·도표로) 설명하다·예증하다",
+   "2) 삽화·도해를 넣다",
+   "3) (사실을) 잘 보여 주다·드러내다"
+  ],
+  "etym": "라틴어 illustrare = in-(안에) + lustrare(밝히다·비추다) <- lux(빛) -> '빛을 비춰 환히 밝힘'. lux/lustrare(빛)는 illustration(2876)·luster(광택)·illuminate(밝히다)·lucid(명료한)·lustrous(윤기 나는)의 뿌리.",
+  "deriv": "lux(빛) -> lustrare(밝히다) -> 'illustrate'. '환히 밝혀 보이다 -> 예를 들어 설명하다(illustrate a point with an example)·삽화를 넣다(an illustrated book)' -> '잘 보여 주다(this illustrates the problem)'. 한국 학습자 핵심: lux(빛) 갈래 — illustration(2876)·luster(광택)·illuminate(조명하다)·lucid(명쾌한)·lustrous(윤나는)·translucent(반투명한)! illustrate the point(요점을 예증하다), be illustrated with(~으로 삽화가 들어간), this clearly illustrates(이는 ~을 잘 보여 준다). demonstrate(2572, 입증하다)·exemplify(예시하다)와 유의어.",
+  "syn": ["demonstrate(예증하다)", "exemplify(예시하다)", "depict(묘사하다)"],
+  "anti": ["obscure(흐리게 하다)"],
+  "idiom": ["illustrate a point(요점을 예증하다)", "an illustrated book(삽화가 든 책)", "this illustrates(이는 ~을 보여 준다)"],
+  "colloc": ["illustrate the point(요점을 예시하다)", "clearly illustrate(분명히 보여 주다)", "illustrate with examples(예로 설명하다)"],
+  "ex_add": "Let me give an example to illustrate my point.  (illustrate=예를 들어 설명하다)"
+ },
+ {
+  "num": "2876",
+  "hw": "illustration",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "밝혀 보임 -> '삽화·도해 / 예시'.",
+  "senses": [
+   "1) 삽화·도해·그림",
+   "2) 예시·실례",
+   "3) 설명·예증"
+  ],
+  "etym": "라틴어 illustrare(밝히다, 2875)의 명사형 illustratio = in-(안에) + lustrare(비추다) <- lux(빛). illustrate(2875)·luster·illuminate와 한 lux 갈래. '환히 밝혀 보여 주는 것'이 핵심.",
+  "deriv": "lux(빛) -> illustrate(2875) -> 'illustration'. '밝혀 보임 -> 삽화·도해(a book with illustrations)' -> '예시·실례(by way of illustration, 예로서)'. 한국 학습자 핵심: lux(빛) 갈래 — illustrate(2875)·luster(광택)·illuminate·lucid(명쾌한)·lustrous·illustrator(삽화가)! a colorful illustration(다채로운 삽화), by way of illustration(예시로서), a clear illustration of(~의 명백한 사례), an illustration of how(~하는 방식의 예). example(예)·depiction(묘사)·diagram(도해)과 유의어. 두 뜻 — '그림 삽화'와 '예시'!",
+  "syn": ["example(예시)", "depiction(묘사)", "diagram(도해)"],
+  "anti": [],
+  "idiom": ["by way of illustration(예시로서)", "a clear illustration of(~의 명백한 사례)"],
+  "colloc": ["a colorful illustration(다채로운 삽화)", "a clear illustration(명확한 예시)", "book illustrations(책 삽화)"],
+  "ex_add": "The book is full of beautiful illustrations.  (illustration=삽화)"
+ },
+ {
+  "num": "2877",
+  "hw": "imagination",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "마음에 상을 그림 -> '상상(력)·창의력'.",
+  "senses": [
+   "1) 상상력·창의력",
+   "2) 상상·공상",
+   "3) 착각·억측"
+  ],
+  "etym": "라틴어 imaginari(마음에 그리다)의 명사형 imaginatio <- imago(상·이미지). '마음속에 상(imago)을 그려 냄'이 핵심. imago(상)는 image(이미지)·imagine(상상하다)·imaginative(상상력이 풍부한)의 뿌리.",
+  "deriv": "imago(상) -> imaginari -> 'imagination'. '마음에 상을 그림 -> 상상력·창의력(use your imagination, 상상력을 발휘하다)' -> '상상·공상' -> '억측(it's just your imagination, 네 착각일 뿐)'. 한국 학습자 핵심: imago(상) 갈래 — image(이미지)·imagine(상상하다)·imaginary(가상의)·imaginative(상상력 풍부한)·unimaginable(상상도 못 할)! a vivid imagination(생생한 상상력), capture the imagination(상상력을 사로잡다), beyond imagination(상상을 초월한), leave nothing to the imagination(노골적이다). creativity(2518, 창의력)·fantasy(2732)와 유의어. imaginary(상상의)/imaginative(창의적인) 구별!",
+  "syn": ["creativity(창의력)", "invention(창의)", "vision(상상)"],
+  "anti": ["reality(현실)", "fact(사실)"],
+  "idiom": ["use your imagination(상상력을 발휘하다)", "capture the imagination(상상력을 사로잡다)", "beyond imagination(상상을 초월한)"],
+  "colloc": ["a vivid imagination(생생한 상상력)", "use one's imagination(상상력을 발휘하다)", "a wild imagination(거침없는 상상력)"],
+  "ex_add": "Writing fiction requires a lot of imagination.  (imagination=상상력)"
+ },
+ {
+  "num": "2878",
+  "hw": "immigration",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "안으로 이주해 옴 -> '(국내로의) 이민 / 출입국 심사'.",
+  "senses": [
+   "1) (다른 나라에서) 이주해 옴·이민",
+   "2) 이민자 유입",
+   "3) 출입국 관리·입국 심사(대)"
+  ],
+  "etym": "라틴어 immigrare = in-(안으로) + migrare(이동하다) -> 명사형. '나라 안(in)으로 옮겨 옴(migrare)'이 핵심. migrare(이동하다)는 migrate(이주하다)·emigrate(이민 가다)·migrant(이주자)·migration(이주)의 뿌리.",
+  "deriv": "in-(안으로) + migrare(이동하다) -> 'immigration'. '안으로 이주해 옴 -> 이민(immigration policy, 이민 정책)' -> 공항의 '입국 심사(go through immigration, 입국 심사를 받다)'. 한국 학습자 핵심: migrare(이동) 갈래 — migrate(이주하다)·emigrate(타국으로 이민 가다)·immigrate(들어오다)·migrant(이주민)·migration(이동)! immigration(들어오는 이민, in-) ↔ emigration(나가는 이민, e-=밖으로)을 꼭 구별! illegal immigration(불법 이민), an immigration officer(출입국 심사관), immigration laws(이민법). 사회·시사 단원 핵심어. 반대 emigration(국외 이주).",
+  "syn": ["migration(이주)", "settlement(정착)"],
+  "anti": ["emigration(국외 이주)"],
+  "idiom": ["go through immigration(입국 심사를 받다)", "immigration policy(이민 정책)", "illegal immigration(불법 이민)"],
+  "colloc": ["immigration policy(이민 정책)", "illegal immigration(불법 이민)", "an immigration officer(출입국 관리관)"],
+  "ex_add": "Immigration has shaped the culture of this country.  (immigration=이민)"
+ },
+ {
+  "num": "2879",
+  "hw": "immune",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "의무를 면제받은 -> '면역의 / ~의 영향을 안 받는'.",
+  "senses": [
+   "1) (병에 대한) 면역의·면역이 된",
+   "2) (immune to) ~의 영향을 받지 않는",
+   "3) (immune from) ~을 면제받은"
+  ],
+  "etym": "라틴어 immunis = in-(부정) + munus(의무·봉사) -> '의무(munus)를 면제받은'. munus(의무)는 common(공동의 ← communis 2449)·commonly(2449)·community(공동체)·municipal(시의)의 뿌리. '책무에서 벗어난'이 핵심.",
+  "deriv": "in-(부정) + munus(의무) -> 'immune'. '의무를 면제받은 -> (병을) 면제받은 -> 면역의(immune to the virus)' -> 비유 '영향을 안 받는(immune to criticism, 비판에 흔들리지 않는)'. 한국 학습자 핵심: munus(의무·봉사) 갈래 — common·commonly(2449)·community·communicate·municipal·immune! the immune system(면역 체계), immune to(~에 면역이 된/끄떡없는), immune from prosecution(기소 면제), build immunity(면역력을 기르다). resistant(저항력 있는)·exempt(면제된)와 유의어. 반대 susceptible(취약한)·vulnerable(취약한).",
+  "syn": ["resistant(저항력 있는)", "exempt(면제된)", "protected(보호받는)"],
+  "anti": ["susceptible(취약한)", "vulnerable(취약한)", "prone(걸리기 쉬운)"],
+  "idiom": ["the immune system(면역 체계)", "immune to(~에 면역이 된)", "immune from prosecution(기소 면제)"],
+  "colloc": ["the immune system(면역계)", "immune to disease(병에 면역인)", "immune from(~을 면제받은)"],
+  "ex_add": "Once you've had the illness, you become immune to it.  (immune=면역의)"
+ },
+ {
+  "num": "2880",
+  "hw": "impatient",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "못 참는 -> '참을성 없는·조급한·안달하는'.",
+  "senses": [
+   "1) 참을성 없는·성급한",
+   "2) 짜증을 내는·안달하는",
+   "3) (impatient to do) 어서 ~하고 싶어 하는"
+  ],
+  "etym": "라틴어 impatiens = in-(부정) + patiens(참는) <- pati(견디다·겪다). '견디지(pati) 못하는'이 핵심. pati(견디다)는 patient(참을성 있는)·patience(인내)·passion(수난·열정)·compatible(양립하는)·passive(수동적인)의 뿌리.",
+  "deriv": "in-(부정) + pati(견디다) -> 'impatient'. '못 참는 -> 참을성 없는(get impatient, 안달하다)' -> 'impatient to do(어서 ~하고 싶어 하는)·impatient with(~에게 짜증 내는)'. 한국 학습자 핵심: pati(견디다·겪다) 갈래 — patient(참을성 있는/환자)·patience(인내)·passion(열정·수난)·compatible(호환되는)·passive(수동적인)·compassion(연민)! be impatient with(~에게 짜증 내다), impatient for(~을 몹시 기다리는), grow impatient(점점 조바심 내다), an impatient gesture(짜증스러운 몸짓). restless(안절부절못하는)·eager(2639)와 유의어. 반대 patient(참을성 있는)·calm(차분한).",
+  "syn": ["restless(안절부절못하는)", "edgy(초조한)", "eager(안달하는)"],
+  "anti": ["patient(참을성 있는)", "calm(차분한)", "tolerant(참을성 있는)"],
+  "idiom": ["impatient to do(어서 ~하고 싶어 하는)", "impatient with(~에게 짜증 내는)", "grow impatient(조바심 내다)"],
+  "colloc": ["get impatient(안달하다)", "impatient with(~에게 짜증 내는)", "impatient for(~을 몹시 기다리는)"],
+  "ex_add": "She was getting impatient with the slow service.  (impatient=참을성 없는)"
+ },
+ {
+  "num": "2881",
+  "hw": "implement",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "가득 채워 이행하다 -> '시행하다 / 도구'.",
+  "senses": [
+   "1) (계획·정책을) 시행하다·이행하다",
+   "2) (제도를) 실행에 옮기다",
+   "3) 도구·기구(명사)"
+  ],
+  "etym": "라틴어 implementum(채움) <- implere = in-(안에) + plere(채우다) -> '빈 곳을 채워 완수함'. plere(채우다)는 complete(완성하다·completion 2451)·supplement(보충)·plenty(풍부)·deplete(고갈시키다)의 뿌리.",
+  "deriv": "in-(안에) + plere(채우다) -> 'implement'. '채워 완수하다 -> 시행하다(implement a policy, 정책을 시행하다)' -> 명사 '일을 채워 주는 것 -> 도구(farm implements, 농기구)'. 한국 학습자 핵심: plere(채우다) 갈래 — complete·completion(2451)·complement(보완)·supplement(보충)·plenty·replete·deplete! 명사·동사 발음 살짝 다름(임플러먼트/임플러멘트). implement changes/reforms/a plan(변화·개혁·계획을 시행하다), fully implement(전면 시행하다), implementation(시행). carry out(수행하다)·execute(실행하다)·enforce(시행하다)와 유의어. 반대 abolish(폐지하다)·repeal(철폐하다).",
+  "syn": ["carry out(수행하다)", "execute(실행하다)", "enforce(시행하다)"],
+  "anti": ["abolish(폐지하다)", "repeal(철폐하다)"],
+  "idiom": ["implement a policy(정책을 시행하다)", "farm implements(농기구)", "fully implement(전면 시행하다)"],
+  "colloc": ["implement a plan(계획을 시행하다)", "implement changes(변화를 실행하다)", "implement reforms(개혁을 단행하다)"],
+  "ex_add": "The government will implement the new policy next year.  (implement=시행하다)"
+ },
+ {
+  "num": "2882",
+  "hw": "implication",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "안으로 접어 넣음 -> '함축·암시 / 영향 / 연루'.",
+  "senses": [
+   "1) (말 속의) 함축·암시·내포",
+   "2) (보통 복수) (예상되는) 영향·결과",
+   "3) 연루·관련됨"
+  ],
+  "etym": "라틴어 implicare = in-(안에) + plicare(접다)의 명사형 implicatio -> '안으로 접어 넣음 -> 속에 함축됨'. plicare(접다)는 imply(2883)·complicated(2453)·apply·display(2609)·exploit(2711)·explicit(명백한)의 거대한 뿌리.",
+  "deriv": "in-(안에) + plicare(접다) -> imply(2883) -> 'implication'. '안에 접어 넣음 -> 함축·암시(by implication, 함축적으로)' -> '예상되는 영향(the implications of the decision, 결정의 파장)' -> '연루'. 한국 학습자 핵심: plicare(접다) 대가족 — imply(2883)·complicated(2453)·apply·reply·display(2609)·exploit(2711)·explicit·complex(2452)·duplicate! the implications of(~의 영향), serious implications(심각한 파장), by implication(넌지시·함축적으로), have implications for(~에 영향을 미치다). consequence(결과)·suggestion(암시)과 유의어.",
+  "syn": ["consequence(결과)", "suggestion(암시)", "ramification(파급 효과)"],
+  "anti": ["statement(명시)"],
+  "idiom": ["by implication(함축적으로)", "the implications of(~의 영향)", "have implications for(~에 영향을 미치다)"],
+  "colloc": ["serious implications(심각한 영향)", "the implications of(~의 함의)", "policy implications(정책적 함의)"],
+  "ex_add": "The decision has serious implications for the economy.  (implication=영향)"
+ },
+ {
+  "num": "2883",
+  "hw": "imply",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "안으로 접어 넣다 -> '암시하다·함축하다·수반하다'.",
+  "senses": [
+   "1) (넌지시) 암시하다·내비치다",
+   "2) (말·사실이) 함축하다·의미하다",
+   "3) 당연히 수반하다"
+  ],
+  "etym": "라틴어 implicare = in-(안에) + plicare(접다) -> '뜻을 속에 접어 넣음'. implication(2882)·complicated(2453)·apply·display(2609)와 한 plicare 갈래. '겉으로 말하지 않고 속에 담음'이 핵심.",
+  "deriv": "in-(안에) + plicare(접다) -> 'imply'. '안에 접어 넣다 -> 암시하다(What are you implying?, 무슨 말을 하려는 거야?)·함축하다(silence implies consent, 침묵은 동의를 뜻한다)'. 한국 학습자 핵심: plicare(접다) 대가족 — implication(2882)·complicated(2453)·apply·reply·display(2609)·exploit(2711)·explicit·complex(2452)! imply that S+V(~을 암시하다), strongly imply(강하게 시사하다). imply(말하는 이가 암시) vs infer(2901, 듣는 이가 추론) — 자주 혼동! suggest(시사하다)·hint(넌지시 비치다)와 유의어. 반대 state(명시하다)·declare(2553).",
+  "syn": ["suggest(시사하다)", "hint(넌지시 비치다)", "indicate(나타내다)"],
+  "anti": ["state(명시하다)", "declare(분명히 말하다)", "specify(명시하다)"],
+  "idiom": ["What are you implying?(무슨 말이야?)", "imply that(~을 암시하다)", "imply consent(동의를 함축하다)"],
+  "colloc": ["imply that(~을 암시하다)", "strongly imply(강하게 시사하다)", "seem to imply(~을 시사하는 듯하다)"],
+  "ex_add": "Are you implying that I made a mistake?  (imply=암시하다)"
+ },
+ {
+  "num": "2884",
+  "hw": "impose",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "위에 얹어 놓다 -> '부과하다·강요하다 / 폐를 끼치다'.",
+  "senses": [
+   "1) (세금·벌을) 부과하다",
+   "2) (생각·규칙을) 강요하다",
+   "3) (impose on) 폐를 끼치다·신세 지다"
+  ],
+  "etym": "라틴어 imponere = in-(위에) + ponere(놓다) -> '위에 얹어 놓음'. ponere(놓다)는 compose(2455)·expose(2713)·component(2454)·deposit(2577)·propose·oppose·postpone의 거대한 뿌리.",
+  "deriv": "in-(위에) + ponere(놓다) -> 'impose'. '위에 얹어 놓다 -> (세금을) 부과하다(impose a tax)·강요하다(impose one's views)' -> 'impose on(폐를 끼치다)'. 한국 학습자 핵심: ponere(놓다) 대가족 — compose(2455)·expose(2713)·component(2454)·deposit(2577)·propose·oppose·postpone·impose! impose A on B(B에 A를 부과/강요하다 — 빈출!), impose a fine/ban/sanctions(벌금·금지·제재를 부과하다), impose on sb(~에게 폐를 끼치다), self-imposed(스스로 부과한). enforce(시행하다)·inflict(가하다)와 유의어. 반대 lift(해제하다)·remove(없애다).",
+  "syn": ["enforce(시행하다)", "inflict(가하다)", "levy(부과하다)"],
+  "anti": ["lift(해제하다)", "remove(없애다)", "abolish(폐지하다)"],
+  "idiom": ["impose A on B(B에 A를 부과하다)", "impose on sb(~에게 폐를 끼치다)", "self-imposed(스스로 부과한)"],
+  "colloc": ["impose a tax(세금을 부과하다)", "impose sanctions(제재를 가하다)", "impose restrictions(제한을 두다)"],
+  "ex_add": "The government imposed a new tax on imported goods.  (impose=부과하다)"
+ },
+ {
+  "num": "2885",
+  "hw": "impress",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "눌러 새기다 -> '깊은 인상을 주다·감명시키다'.",
+  "senses": [
+   "1) 깊은 인상을 주다·감명시키다",
+   "2) (마음에) 새기다·강조하다",
+   "3) (도장을) 찍다·눌러 새기다"
+  ],
+  "etym": "라틴어 imprimere = in-(안에·위에) + premere(누르다) -> '눌러 새겨 넣음'. premere(누르다)는 press(누르다)·express(짜내다->표현하다)·depress(depressed 2578)·compress(압축하다)·suppress(억누르다)·oppress(억압하다)의 거대한 뿌리.",
+  "deriv": "in-(안에) + premere(누르다) -> 'impress'. '마음에 눌러 새기다 -> 깊은 인상을 주다·감명시키다(impress the judges)' -> '(중요성을) 각인시키다(impress on sb)'. 한국 학습자 핵심: premere(누르다) 대가족 — press·express·depress(2578)·compress·suppress·oppress·impress·impression·imprint! be impressed by/with(~에 감명받다, 2886), impress on sb the importance of(~의 중요성을 강조하다), impressive(인상적인). 'print(인쇄)'도 imprimere에서 — 책의 imprint! 반대 disappoint(2600, 실망시키다)·underwhelm(시들하게 하다).",
+  "syn": ["amaze(감탄시키다)", "dazzle(눈부시게 하다)", "strike(깊은 인상을 주다)"],
+  "anti": ["disappoint(실망시키다)", "underwhelm(시들하게 하다)"],
+  "idiom": ["impress on sb(~에게 각인시키다)", "be impressed by(~에 감명받다)"],
+  "colloc": ["impress the audience(청중을 감명시키다)", "deeply impress(깊이 감동시키다)", "impress on(~에게 각인시키다)"],
+  "ex_add": "She impressed everyone with her excellent presentation.  (impress=감명시키다)"
+ },
+ {
+  "num": "2886",
+  "hw": "impressed",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "감명받은 -> '깊은 인상을 받은·감동한'.",
+  "senses": [
+   "1) 깊은 인상을 받은·감명받은",
+   "2) 감탄한·놀란",
+   "3) (be impressed by/with) ~에 감동한"
+  ],
+  "etym": "impress(감명시키다, 2885)의 과거분사. 라틴어 in-(안에) + premere(누르다) 뿌리. '마음에 깊이 눌러 새겨진' 상태가 핵심. press·express·depressed(2578)와 한 premere 갈래.",
+  "deriv": "in-(안에) + premere(누르다) -> impress(2885) -> 'impressed'. '마음에 새겨진 -> 감명받은(I was impressed by her speech)'. 한국 학습자 핵심: premere(누르다) 대가족 — press·express·depressed(2578)·depressing(2579)·compress·suppress·oppress·impress(2885)! impressed(사람이 감명받은)와 impressive(인상적인, 사물이)를 구별 — I'm impressed / It's impressive! be impressed by/with(~에 감명받다), deeply impressed(깊이 감동한), suitably impressed(꽤 감명받은), less than impressed(별로 감동하지 않은). amazed(놀란)·struck(감명받은)과 유의어. 반대 unimpressed(시큰둥한)·disappointed(2601).",
+  "syn": ["amazed(놀란)", "struck(감명받은)", "awed(경외하는)"],
+  "anti": ["unimpressed(시큰둥한)", "disappointed(실망한)"],
+  "idiom": ["be impressed by(~에 감명받다)", "less than impressed(별로 감동하지 않은)", "deeply impressed(깊이 감동한)"],
+  "colloc": ["deeply impressed(깊이 감동한)", "impressed by(~에 감명받은)", "suitably impressed(꽤 감명받은)"],
+  "ex_add": "I was really impressed by how well she handled the situation.  (impressed=감명받은)"
+ },
+ {
+  "num": "2887",
+  "hw": "incentive",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "마음을 부추기는 가락 -> '동기·장려책·유인'.",
+  "senses": [
+   "1) (행동을 부추기는) 동기·유인",
+   "2) 장려책·우대책·인센티브",
+   "3) 자극·격려"
+  ],
+  "etym": "라틴어 incentivum(가락을 돋우는 것) = in-(향하여) + canere(노래하다·연주하다) -> '흥을 돋워 부추김'. canere(노래하다)는 accent(억양)·chant(노래)·enchant(매혹하다)·incentive의 뿌리.",
+  "deriv": "in-(향하여) + canere(노래하다) -> 'incentive'. '흥을 돋워 부추김 -> 동기·유인(a financial incentive, 금전적 유인)' -> '장려책(tax incentives, 세금 우대)'. 한국 학습자 핵심: canere(노래) 갈래 — accent(악센트)·chant(구호)·enchant(매혹하다)·cant! an incentive to do(~할 동기), provide an incentive(유인을 제공하다), financial/tax incentives(금전적·세제 혜택), little incentive(별 유인이 없는), a strong incentive(강한 동기). motivation(동기)·stimulus(자극)·inducement(유인)과 유의어. 반대 disincentive(의욕을 꺾는 것)·deterrent(억제책).",
+  "syn": ["motivation(동기)", "stimulus(자극)", "inducement(유인책)"],
+  "anti": ["disincentive(저해 요인)", "deterrent(억제책)"],
+  "idiom": ["an incentive to do(~할 동기)", "tax incentives(세제 혜택)", "provide an incentive(유인을 주다)"],
+  "colloc": ["a financial incentive(금전적 유인)", "provide an incentive(동기를 부여하다)", "tax incentives(세금 우대책)"],
+  "ex_add": "Bonuses are an incentive to work harder.  (incentive=동기)"
+ },
+ {
+  "num": "2888",
+  "hw": "inch",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "12분의 1 -> '인치 / 조금씩 움직이다'.",
+  "senses": [
+   "1) 인치(길이 단위, 약 2.54cm)",
+   "2) 약간·조금",
+   "3) (동사) 조금씩 움직이다"
+  ],
+  "etym": "라틴어 uncia(12분의 1·작은 단위) -> 고대 영어 ynce -> 'inch'. '1피트의 12분의 1'이 핵심. 같은 uncia에서 ounce(온스, 무게 단위)도 나왔다 — 길이와 무게의 쌍둥이!",
+  "deriv": "uncia(12분의 1) -> 'inch'. '1피트의 12분의 1 -> 인치' -> 비유 '약간(not budge an inch, 한 치도 안 움직이다)' -> 동사 '조금씩 움직이다(inch forward)'. 한국 학습자 핵심: uncia에서 inch(길이)와 ounce(무게)가 갈라짐! every inch(구석구석/완전히), inch by inch(조금씩), give an inch(조금 양보하다), within an inch of(~의 일보 직전까지), an inch of(약간의). 길이 단위: inch < foot(12인치) < yard(3피트) < mile. 미터법 cm와 달라 환산 주의(1 inch ≈ 2.54cm)!",
+  "syn": ["bit(조금)", "smidgen(아주 조금)"],
+  "anti": ["mile(엄청난 거리)"],
+  "idiom": ["inch by inch(조금씩)", "every inch(구석구석)", "give an inch(조금 양보하다)", "within an inch of(~의 일보 직전)"],
+  "colloc": ["a few inches(몇 인치)", "inch by inch(조금씩)", "inch forward(조금씩 나아가다)"],
+  "ex_add": "The snow was several inches deep.  (inch=인치)"
+ },
+ {
+  "num": "2889",
+  "hw": "incident",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "일어난 일 -> '사건·일 / 분쟁'.",
+  "senses": [
+   "1) (특히 좋지 않은) 사건·일",
+   "2) (작은) 충돌·분쟁",
+   "3) 부수적 사건"
+  ],
+  "etym": "라틴어 incidere = in-(위에·안으로) + cadere(떨어지다)의 현재분사 incidens -> '닥쳐 떨어진 일'. cadere(떨어지다)는 coincidence(2436)·accident(사고)·casual(2403)·occasion(때)·decay(썩다)의 뿌리.",
+  "deriv": "in-(안으로) + cadere(떨어지다) -> 'incident'. '닥쳐 떨어진 일 -> 사건·일(a minor incident, 사소한 사건)' -> '충돌·분쟁(a border incident, 국경 분쟁)'. 한국 학습자 핵심: cadere(떨어지다) 대가족 — coincidence(2436)·accident·casual(2403)·occasion·decay·incident·incidental(부수적인)! without incident(별 탈 없이), a diplomatic incident(외교 분규), an isolated incident(단발성 사건), the incident occurred(사건이 발생했다). event(사건)·occurrence(발생)와 유의어 — incident는 보통 '문제성 있는' 사건. incidentally(그런데·말이 난 김에)가 부사.",
+  "syn": ["event(사건)", "occurrence(발생)", "episode(일화)"],
+  "anti": [],
+  "idiom": ["without incident(별 탈 없이)", "an isolated incident(단발성 사건)", "a diplomatic incident(외교 분규)"],
+  "colloc": ["a minor incident(사소한 사건)", "an isolated incident(단발성 사건)", "the incident occurred(사건이 발생하다)"],
+  "ex_add": "The whole journey passed without incident.  (incident=사건)"
+ },
+ {
+  "num": "2890",
+  "hw": "income",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "들어오는 것 -> '소득·수입'.",
+  "senses": [
+   "1) 소득·수입",
+   "2) 수익·벌이",
+   "3) 정기적 수입"
+  ],
+  "etym": "in(안으로) + come(오다). '안으로(in) 들어오는(come) 돈'이 핵심. 글자 그대로 '들어오는 것'으로, outgo·expense(2709, 나가는 돈)와 대비된다. come(오다)과 한 토박이 갈래.",
+  "deriv": "in(안으로) + come(오다) -> 'income(들어오는 것)'. '들어오는 돈 -> 소득·수입(a high income, 높은 소득)'. 한국 학습자 핵심: income(들어오는 돈) ↔ expenditure/expense(2709, 나가는 돈)! a low/high income(저/고소득), income tax(소득세), disposable income(가처분 소득), a steady income(안정적 수입), household income(가구 소득, 2861), a source of income(수입원), income inequality(소득 불평등). earnings(소득)·revenue(수입)·salary(급여)와 유의어 — income은 모든 수입의 총칭. 반대 expenditure(지출)·outgoings(지출).",
+  "syn": ["earnings(소득)", "revenue(수입)", "salary(급여)"],
+  "anti": ["expenditure(지출)", "expense(비용)", "outgoings(지출)"],
+  "idiom": ["income tax(소득세)", "disposable income(가처분 소득)", "a source of income(수입원)"],
+  "colloc": ["a high income(고소득)", "income tax(소득세)", "a steady income(안정적 수입)"],
+  "ex_add": "Most of their income comes from farming.  (income=소득)"
+ },
+ {
+  "num": "2891",
+  "hw": "incorporate",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "한 몸에 넣다 -> '포함하다·통합하다·법인화하다'.",
+  "senses": [
+   "1) 포함하다·통합하다·도입하다",
+   "2) (일부로) 짜 넣다·결합하다",
+   "3) 법인으로 만들다"
+  ],
+  "etym": "라틴어 incorporare = in-(안에) + corpus(몸·body) -> '한 몸(corpus) 안에 넣음'. corpus(몸)는 corporate(2507)·corporation(2508)·corpse(시체)·corps(군단)·corporal(육체의)의 뿌리.",
+  "deriv": "in-(안에) + corpus(몸) -> 'incorporate'. '한 몸에 넣다 -> 포함·통합하다(incorporate feedback, 의견을 반영하다)' -> 법률 '법인화하다(an incorporated company)'. 한국 학습자 핵심: corpus(몸) 갈래 — corporate(2507)·corporation(2508)·corpse·corps·corporal·incorporate! incorporate A into B(A를 B에 통합하다 — 빈출!), incorporate changes(변경을 반영하다), incorporate elements of(~의 요소를 담다). 미국 회사명 'Inc.'가 incorporated(법인의)! include(2... 포함하다)·integrate(2930)·merge(합치다)와 유의어. 반대 exclude(2699, 제외하다)·separate(분리하다).",
+  "syn": ["integrate(통합하다)", "include(포함하다)", "merge(합치다)"],
+  "anti": ["exclude(제외하다)", "separate(분리하다)", "remove(제거하다)"],
+  "idiom": ["incorporate A into B(A를 B에 통합하다)", "an incorporated company(법인)", "Inc.(주식회사)"],
+  "colloc": ["incorporate into(~에 통합하다)", "incorporate feedback(의견을 반영하다)", "incorporate elements(요소를 결합하다)"],
+  "ex_add": "We tried to incorporate everyone's ideas into the final plan.  (incorporate=통합하다)"
+ }
+]
