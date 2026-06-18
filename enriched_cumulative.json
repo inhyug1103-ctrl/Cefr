@@ -149475,5 +149475,1646 @@
   "ex_add": "After a lengthy debate, they reached a decision.  (lengthy=긴)",
   "ex_orig": "SIR: I hope you may see your way to publish the following somewhat lengthy statement on one of the burning questions of the day.",
   "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4342",
+  "hw": "lesbian",
+  "pos": "adj., n.",
+  "cefr": "C1",
+  "core": "레스보스(Lesbos) 섬에서 유래 -> '레즈비언·여성 동성애의'.",
+  "senses": [
+   "1) (n.) 레즈비언, 여성 동성애자",
+   "2) (adj.) 여성 동성애의"
+  ],
+  "etym": "그리스 에게해의 레스보스(Lesbos) 섬 + -ian(~의 사람) -> 'lesbian'. 이 섬에 살며 여성에 대한 사랑을 노래한 고대 여류 시인 사포(Sappho)에서 유래한 고유명사 기반 단어.",
+  "deriv": "Lesbos(섬 이름) -> 'lesbian'. 한국 학습자 핵심: 지명에서 온 단어 — lesbian(레스보스 섬)·marathon(마라톤 평원)·spartan(스파르타식의)·laconic(라코니아식 간결한)! 성소수자 어휘군 — lesbian(여성 동성애자)·gay(남성 동성애자)·bisexual(양성애자)·LGBT! the lesbian community(레즈비언 공동체). 고유명사 유래라는 점이 기억 포인트.",
+  "syn": [
+   "gay(동성애의)",
+   "homosexual(동성애의)"
+  ],
+  "anti": [
+   "heterosexual(이성애의)"
+  ],
+  "idiom": [],
+  "colloc": [
+   "lesbian community(레즈비언 공동체)",
+   "lesbian couple(레즈비언 커플)",
+   "gay and lesbian(게이와 레즈비언)"
+  ],
+  "ex_add": "The film features a lesbian couple.  (lesbian=레즈비언의)",
+  "ex_orig": "Other members of the squat include Bert, their ineffective leader, and a lesbian couple, the maternal, and Faye, her unstable and fragile partner.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4343",
+  "hw": "lesser",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "less의 비교급 -> '더 작은·덜한·하위의'.",
+  "senses": [
+   "1) (둘 중) 더 작은·덜 중요한",
+   "2) 하위의, 열등한"
+  ],
+  "etym": "고대 영어 læssa(더 적은, little의 비교급) + 비교급 어미 -er이 이중으로 붙은 형태 -> 'lesser'. less(더 적은)의 강조 비교급. '둘 중 정도가 덜한 쪽'이 핵심.",
+  "deriv": "less(더 적은) -> 'lesser'. 한국 학습자 핵심: little - less - least 변화에서 파생된 이중 비교급! the lesser of two evils(두 악 중 덜한 것·차악), to a lesser extent/degree(더 적은 정도로), lesser-known(덜 알려진), no lesser person than(다름 아닌 ~). 유의어 minor(작은)·secondary(부차적인)·inferior(열등한). 반대 greater(더 큰)·major(주요한).",
+  "syn": [
+   "minor(작은)",
+   "secondary(부차적인)",
+   "inferior(열등한)"
+  ],
+  "anti": [
+   "greater(더 큰)",
+   "major(주요한)"
+  ],
+  "idiom": [
+   "the lesser of two evils(차악)",
+   "to a lesser extent(더 적은 정도로)"
+  ],
+  "colloc": [
+   "lesser extent(더 적은 정도)",
+   "lesser-known(덜 알려진)",
+   "lesser degree(더 적은 정도)"
+  ],
+  "ex_add": "They chose the lesser of two evils.  (lesser=더 작은)",
+  "ex_orig": "On Time's high canopy the years are as stars great and small, some of lesser magnitude, some forever bright with the splendor of supreme human achievements;",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4344",
+  "hw": "lethal",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "죽음(letum)을 부르는 -> '치명적인·치사의'.",
+  "senses": [
+   "1) 치명적인, 죽음에 이르게 하는",
+   "2) (매우) 위험한, 파괴적인"
+  ],
+  "etym": "라틴어 letum(죽음) -> letalis -> 'lethal'. 그리스 신화의 망각의 강 Lethe(레테)와 연상되며 철자에 영향. '목숨을 앗는'이 핵심.",
+  "deriv": "letum(죽음) -> 'lethal'. 한국 학습자 핵심: 죽음·치명 어휘군 — lethal(치명적인)·fatal(치명적인, 4140)·deadly(치명적인)·mortal(죽을 운명의)·terminal(말기의)! a lethal dose(치사량), a lethal weapon(흉기), a lethal injection(독극물 주사·사형), potentially lethal(잠재적으로 치명적인). 유의어 deadly(치명적인)·fatal(치명적인)·mortal(치명적인). 반대 harmless(무해한)·nonlethal(비살상의).",
+  "syn": [
+   "deadly(치명적인)",
+   "fatal(치명적인)",
+   "mortal(치명적인)"
+  ],
+  "anti": [
+   "harmless(무해한)",
+   "nonlethal(비살상의)"
+  ],
+  "idiom": [
+   "a lethal dose(치사량)",
+   "a lethal weapon(흉기)"
+  ],
+  "colloc": [
+   "lethal dose(치사량)",
+   "lethal weapon(흉기)",
+   "lethal injection(독극물 주사)"
+  ],
+  "ex_add": "The snake's venom is lethal.  (lethal=치명적인)",
+  "ex_orig": "The Catechism teaches that \" someone who defends his life is not guilty of murder even if he is forced to deal his aggressor a lethal blow.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4345",
+  "hw": "liable",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "~에 묶여(ligare) 있는 -> '법적 책임이 있는·~하기 쉬운'.",
+  "senses": [
+   "1) (법적) 책임이 있는(liable for)",
+   "2) ~하기 쉬운, ~할 것 같은(liable to)",
+   "3) (~에) 걸리기 쉬운"
+  ],
+  "etym": "라틴어 ligare(묶다) -> 고대 프랑스어 lier(묶다) -> liable(묶여 있는). ligare(묶다)는 liability(책임)·ally(동맹, ad-에 묶다)·rely(의지하다)·oblige(의무 지우다)·league(연맹)의 공통 뿌리. '의무에 묶여 있는'이 핵심.",
+  "deriv": "ligare(묶다) -> 'liable'. 한국 학습자 핵심: ligare(묶다)계열 — ally(동맹)·alliance(동맹)·rely(의지하다)·oblige(강요하다)·league(연맹)·liaison(연락)·liable! 전치사 구별: liable FOR(~에 책임이 있는, 손해·비용)·liable TO(~하기 쉬운, 경향)! be liable for damages(손해를 배상할 책임이 있다), liable to break(부서지기 쉬운). 명사 liability(법적 책임·부채). 유의어 responsible(책임 있는)·prone(~하기 쉬운).",
+  "syn": [
+   "responsible(책임 있는)",
+   "accountable(책임 있는)",
+   "prone(~하기 쉬운)"
+  ],
+  "anti": [
+   "exempt(면제된)",
+   "immune(면역된)"
+  ],
+  "idiom": [
+   "liable for(~에 책임이 있는)",
+   "liable to(~하기 쉬운)"
+  ],
+  "colloc": [
+   "liable for damages(손해 배상 책임이 있는)",
+   "held liable(책임을 지는)",
+   "liable to change(변하기 쉬운)"
+  ],
+  "ex_add": "The company is liable for any damage.  (liable=책임이 있는)",
+  "ex_orig": "April 17--War Office announces that men between 18 and 50 of the untrained Landsturm will hereafter be liable for military service.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4346",
+  "hw": "liberal",
+  "pos": "adj., n.",
+  "cefr": "C1",
+  "core": "자유로운(liber) -> '진보적인·관대한·자유주의자'.",
+  "senses": [
+   "1) (adj.) 진보적인, 자유주의의",
+   "2) (adj.) 관대한, 너그러운; 후한",
+   "3) (n.) 자유주의자, 진보주의자"
+  ],
+  "etym": "라틴어 liber(자유로운) -> liberalis(자유민의·교양 있는) -> 'liberal'. liber(자유로운)는 liberty(자유, 4348)·liberate(해방하다)·liberation(해방, 4347)·deliver(배달하다, 자유롭게 풀어주다)의 공통 뿌리.",
+  "deriv": "liber(자유로운) -> 'liberal'. 한국 학습자 핵심: liber(자유)계열 — liberty(자유, 4348)·liberate(해방하다)·liberation(해방, 4347)·liberalism(자유주의)·deliver(전달하다)! liberal arts(교양 과목, 자유민의 학문), a liberal democracy(자유 민주주의), a liberal attitude(개방적 태도), liberal use of(~의 풍부한 사용). 유의어 progressive(진보적인)·tolerant(관용적인)·generous(관대한). 반대 conservative(보수적인)·strict(엄격한).",
+  "syn": [
+   "progressive(진보적인)",
+   "tolerant(관용적인)",
+   "generous(관대한)"
+  ],
+  "anti": [
+   "conservative(보수적인)",
+   "strict(엄격한)",
+   "narrow-minded(편협한)"
+  ],
+  "idiom": [
+   "liberal arts(교양 과목)",
+   "a liberal democracy(자유 민주주의)"
+  ],
+  "colloc": [
+   "liberal democracy(자유 민주주의)",
+   "liberal arts(교양 과목)",
+   "liberal attitude(개방적 태도)"
+  ],
+  "ex_add": "She holds liberal views on social issues.  (liberal=진보적인)",
+  "ex_orig": "have not renounced their aspirations; Russian Liberals in particular believe in self-government and the rule of law as firmly as ever.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4347",
+  "hw": "liberation",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "자유롭게(liber) 풀어줌 -> '해방·석방'.",
+  "senses": [
+   "1) 해방, 자유화",
+   "2) (억압으로부터의) 해방 운동"
+  ],
+  "etym": "라틴어 liber(자유로운) -> liberare(자유롭게 하다) -> liberation. liber(자유)는 liberal(4346)·liberty(4348)·liberate의 공통 뿌리. '속박에서 풀려남'이 핵심.",
+  "deriv": "liber(자유로운) -> liberate -> 'liberation'. 한국 학습자 핵심: liber(자유)계열 — liberal(진보적인, 4346)·liberty(자유, 4348)·liberate(해방하다)·liberation·deliver(배달하다)! women's liberation(여성 해방), national liberation(민족 해방), the liberation of(~의 해방), a liberation movement(해방 운동). 동사 liberate(해방하다). 유의어 freedom(자유)·emancipation(해방). 반대 oppression(억압)·enslavement(노예화).",
+  "syn": [
+   "freedom(자유)",
+   "emancipation(해방)",
+   "release(석방)"
+  ],
+  "anti": [
+   "oppression(억압)",
+   "enslavement(노예화)",
+   "captivity(속박)"
+  ],
+  "idiom": [
+   "women's liberation(여성 해방)"
+  ],
+  "colloc": [
+   "women's liberation(여성 해방)",
+   "national liberation(민족 해방)",
+   "liberation movement(해방 운동)"
+  ],
+  "ex_add": "The city celebrated its liberation from occupation.  (liberation=해방)",
+  "ex_orig": "The two Balkan wars were waged primarily for the same thing, since they were wars of liberation.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4348",
+  "hw": "liberty",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "자유로운(liber) 상태 -> '자유·해방'.",
+  "senses": [
+   "1) 자유, 자유권",
+   "2) (개인의) 자유, 권리",
+   "3) (지나친) 멋대로 함, 무례(take liberties)"
+  ],
+  "etym": "라틴어 liber(자유로운) -> libertas(자유) -> 고대 프랑스어 liberte -> 'liberty'. liber(자유)는 liberal(4346)·liberation(4347)·liberate의 공통 뿌리. 미국 자유의 여신상(Statue of Liberty)의 그 liberty.",
+  "deriv": "liber(자유로운) -> 'liberty'. 한국 학습자 핵심: liber(자유)계열 — liberal(4346)·liberation(4347)·liberty·liberate! freedom(일상적·일반적 자유)과 liberty(권리로서의·정치적 자유) 뉘앙스 구별! at liberty to(~할 자유가 있는), civil liberties(시민의 자유권), take the liberty of(외람되이 ~하다), take liberties with(~을 함부로 다루다). 유의어 freedom(자유)·independence(독립). 반대 captivity(속박)·oppression(억압).",
+  "syn": [
+   "freedom(자유)",
+   "independence(독립)",
+   "autonomy(자율)"
+  ],
+  "anti": [
+   "captivity(속박)",
+   "oppression(억압)",
+   "tyranny(폭정)"
+  ],
+  "idiom": [
+   "at liberty to(~할 자유가 있는)",
+   "take liberties with(~을 함부로 다루다)",
+   "civil liberties(시민의 자유권)"
+  ],
+  "colloc": [
+   "civil liberty(시민의 자유)",
+   "individual liberty(개인의 자유)",
+   "at liberty(자유로운)"
+  ],
+  "ex_add": "They fought for liberty and justice.  (liberty=자유)",
+  "ex_orig": "For what is to love Poland but to love liberty, to feel a deep sympathy with misfortune and to admire courage and combative enthusiasm?",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4349",
+  "hw": "lifelong",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "평생(life) 내내 긴(long) -> '평생의·일생의'.",
+  "senses": [
+   "1) 평생의, 일생에 걸친",
+   "2) 평생 지속되는"
+  ],
+  "etym": "life(삶) + long(긴)의 합성어 -> 'lifelong'. '인생 전체에 걸친'이 핵심. life와 long 모두 게르만 뿌리.",
+  "deriv": "life(삶) + long(긴) -> 'lifelong'. 한국 학습자 핵심: life 합성어 — lifelong(평생의)·lifetime(일생)·lifestyle(생활 방식)·lifespan(수명)·lifeline(생명선)! long 합성어 — lifelong·long-term(장기의)·long-standing(오래된, 4362)·longtime(오랜, 4363)! a lifelong dream(평생의 꿈), a lifelong friend(평생 친구), lifelong learning(평생 학습), a lifelong commitment(평생의 헌신). 유의어 perpetual(영구적인)·permanent(영구적인).",
+  "syn": [
+   "perpetual(영구적인)",
+   "permanent(영속적인)",
+   "enduring(지속되는)"
+  ],
+  "anti": [
+   "temporary(일시적인)",
+   "brief(짧은)"
+  ],
+  "idiom": [
+   "a lifelong dream(평생의 꿈)",
+   "lifelong learning(평생 학습)"
+  ],
+  "colloc": [
+   "lifelong dream(평생의 꿈)",
+   "lifelong friend(평생 친구)",
+   "lifelong learning(평생 학습)"
+  ],
+  "ex_add": "Becoming a doctor was her lifelong dream.  (lifelong=평생의)",
+  "ex_orig": "Two threads that run through a sizeable proportion of his books are Australia and cricket; the latter was also a lifelong passion.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4350",
+  "hw": "likelihood",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "~할 법한(likely) 정도 -> '가능성·공산'.",
+  "senses": [
+   "1) 가능성, 개연성",
+   "2) ~할 공산, 그럴듯함"
+  ],
+  "etym": "likely(~할 것 같은, 고대 노르드어 likligr) + -hood(상태·정도)의 결합 -> 'likelihood'. like(~같은)에서 likely가 파생. '~할 것 같은 정도'가 핵심.",
+  "deriv": "likely(~할 것 같은) + -hood(상태) -> 'likelihood'. 한국 학습자 핵심: -hood(상태·신분) 접미사 — likelihood(가능성)·childhood(어린 시절)·neighborhood(이웃)·brotherhood(형제애)·adulthood(성인기)! in all likelihood(십중팔구), the likelihood of(~의 가능성), increase the likelihood(가능성을 높이다), a strong likelihood(높은 가능성). 유의어 probability(확률)·chance(가능성)·possibility(가능성). 반대 unlikelihood(가능성 없음).",
+  "syn": [
+   "probability(확률)",
+   "chance(가능성)",
+   "possibility(가능성)"
+  ],
+  "anti": [
+   "improbability(가능성 없음)"
+  ],
+  "idiom": [
+   "in all likelihood(십중팔구)"
+  ],
+  "colloc": [
+   "likelihood of(~의 가능성)",
+   "increase the likelihood(가능성을 높이다)",
+   "strong likelihood(높은 가능성)"
+  ],
+  "ex_add": "There is little likelihood of rain today.  (likelihood=가능성)",
+  "ex_orig": "The likelihood of a genuine panic is lessened by the fact that every one recognizes the real cause of the disturbance and that insolvency is not suspected.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4351",
+  "hw": "limb",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "몸통에서 뻗은 부분 -> '팔다리·큰 가지'.",
+  "senses": [
+   "1) (팔·다리 등의) 사지(四肢)",
+   "2) (나무의) 큰 가지"
+  ],
+  "etym": "고대 영어 lim(팔다리·가지) -> 'limb'. 끝의 b는 묵음(climb·thumb처럼)으로 후대에 추가됨. '몸통에서 뻗어 나온 부분'이 핵심.",
+  "deriv": "lim(팔다리) -> 'limb'. 한국 학습자 핵심: 묵음 b — limb [lɪm]·climb·thumb·comb·bomb·tomb! 신체 어휘군 — limb(사지)·torso(몸통)·trunk(몸통·나무 줄기)! out on a limb(고립무원의 위태로운 처지에), risk life and limb(목숨을 걸다), an artificial limb(의수·의족), the upper/lower limbs(상지/하지). 유의어 appendage(부속지). 발음 함정이 핵심 출제 포인트.",
+  "syn": [
+   "arm(팔)",
+   "leg(다리)",
+   "branch(가지)"
+  ],
+  "anti": [
+   "torso(몸통)"
+  ],
+  "idiom": [
+   "out on a limb(고립무원의 처지에)",
+   "risk life and limb(목숨을 걸다)"
+  ],
+  "colloc": [
+   "artificial limb(의수·의족)",
+   "upper limb(상지)",
+   "lose a limb(사지를 잃다)"
+  ],
+  "ex_add": "He lost a limb in the accident.  (limb=사지)",
+  "ex_orig": "Dear heart, dear heart, come to my bed, My arms are warm and sweet!\" \"Alack for you, my love,\" he said, \"My limbs would wet the sheet.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4352",
+  "hw": "linear",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "선(linea) 모양의 -> '직선의·선형의'.",
+  "senses": [
+   "1) 선의, 직선의",
+   "2) (전개가) 일직선의, 순차적인",
+   "3) (수학) 1차의, 선형의"
+  ],
+  "etym": "라틴어 linea(실·선, linum 아마실) -> linearis -> 'linear'. linea(선)는 line(선)·lineage(혈통)·delineate(윤곽을 그리다)·lining(안감)의 공통 뿌리. '선을 따라 늘어선'이 핵심.",
+  "deriv": "linea(선) -> 'linear'. 한국 학습자 핵심: linea(선)계열 — line(선)·lineage(혈통·계보)·delineate(윤곽을 그리다)·outline(개요)·lineup(라인업, 4353)·linear! a linear relationship(선형 관계), linear thinking(직선적 사고), a linear sequence(순차적 배열), nonlinear(비선형의). 수학·과학 지문 빈출. 반대 nonlinear(비선형의)·circular(순환적인).",
+  "syn": [
+   "straight(직선의)",
+   "sequential(순차적인)"
+  ],
+  "anti": [
+   "nonlinear(비선형의)",
+   "circular(순환적인)"
+  ],
+  "idiom": [
+   "a linear relationship(선형 관계)"
+  ],
+  "colloc": [
+   "linear relationship(선형 관계)",
+   "linear thinking(직선적 사고)",
+   "linear sequence(순차적 배열)"
+  ],
+  "ex_add": "The data shows a linear relationship.  (linear=선형의)",
+  "ex_orig": "Behind the Magdalen is a standing figure in blue and red robes, with linear rosary beads in one hand and a walking stick in the other.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4353",
+  "hw": "lineup",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "줄지어(line up) 세운 것 -> '출연진·라인업·진용'.",
+  "senses": [
+   "1) (행사·공연의) 출연진, 프로그램 구성",
+   "2) (스포츠) 선수 명단, 진용",
+   "3) (경찰의) 용의자 정렬, 줄 세우기"
+  ],
+  "etym": "동사구 line up(일렬로 세우다)의 명사화 -> 'lineup'. line은 라틴어 linea(선)에서 유래. '한 줄로 늘어놓은 것'이 핵심.",
+  "deriv": "line(선) + up(위로 정렬) -> 'lineup'. 한국 학습자 핵심: 동사구 -> 명사 — line up -> lineup, set up -> setup, check in -> checkin! linea(선)계열 — line·linear(4352)·lineup! a star-studded lineup(화려한 출연진), the starting lineup(선발 라인업), a lineup of speakers(연사 명단), today's lineup(오늘의 프로그램). 유의어 roster(명단)·cast(출연진).",
+  "syn": [
+   "roster(명단)",
+   "cast(출연진)",
+   "selection(선발)"
+  ],
+  "anti": [],
+  "idiom": [
+   "the starting lineup(선발 라인업)"
+  ],
+  "colloc": [
+   "star-studded lineup(화려한 출연진)",
+   "starting lineup(선발 라인업)",
+   "impressive lineup(인상적인 라인업)"
+  ],
+  "ex_add": "The festival has an impressive lineup this year.  (lineup=출연진)",
+  "ex_orig": "Townsend assembled his Strapping Young Lad bandmates to record it, the only time this lineup was featured on a Devin Townsend album.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4354",
+  "hw": "linger",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "떠나지 않고 오래 남다 -> '오래 머물다·서성이다'.",
+  "senses": [
+   "1) (예상보다) 오래 머물다, 떠나지 못하다",
+   "2) (감정·냄새가) 가시지 않고 남다",
+   "3) 꾸물거리다, 미적거리다"
+  ],
+  "etym": "고대 영어 lengan(길게 하다·지체하다, lang 긴) -> 중세 영어 lengeren -> 'linger'. long·length·lengthy(4341)와 같은 뿌리. '시간을 길게 끌며 남다'가 핵심.",
+  "deriv": "lengan(길게 끌다) -> 'linger'. 한국 학습자 핵심: long(긴)계열 — long·length·lengthy(4341)·linger(오래 머물다)·prolong(연장하다)! linger on(계속 남아 있다), a lingering smell(가시지 않는 냄새), a lingering doubt(가시지 않는 의심), linger over(~을 천천히 즐기다). 유의어 remain(남다)·dawdle(꾸물거리다)·persist(지속되다). 반대 leave(떠나다)·rush(서두르다).",
+  "syn": [
+   "remain(남다)",
+   "dawdle(꾸물거리다)",
+   "persist(지속되다)"
+  ],
+  "anti": [
+   "leave(떠나다)",
+   "rush(서두르다)",
+   "hurry(서두르다)"
+  ],
+  "idiom": [
+   "linger on(계속 남아 있다)",
+   "linger over(~을 천천히 즐기다)"
+  ],
+  "colloc": [
+   "linger on(계속 남다)",
+   "lingering smell(가시지 않는 냄새)",
+   "lingering doubt(가시지 않는 의심)"
+  ],
+  "ex_add": "The smell of smoke lingered in the room.  (linger=가시지 않고 남다)",
+  "ex_orig": "Those of its victims who do not succumb on the field and who can be brought into hospital suffer acutely, and in a large proportion of cases die a painful and lingering death.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4355",
+  "hw": "listing",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "목록(list)에 올림 -> '목록·등재·명단'.",
+  "senses": [
+   "1) 목록, 일람표",
+   "2) (목록에) 등재, 등록",
+   "3) (부동산·주식) 매물·상장 정보"
+  ],
+  "etym": "중세 영어 liste(가장자리·테두리·목록) -> list + -ing -> 'listing'. '한 줄로 나열한 목록'이 핵심. 게르만 뿌리.",
+  "deriv": "list(목록) -> 'listing'. 한국 학습자 핵심: list(목록·열거하다)·listing(등재·목록)! a job listing(채용 공고), a property listing(부동산 매물 정보), a stock exchange listing(증시 상장), a directory listing(디렉터리 목록). 유의어 catalog(목록)·index(색인)·register(등록). 동음 주의: listing(목록)≠listening(듣기)! 발음 구별 출제.",
+  "syn": [
+   "catalog(목록)",
+   "index(색인)",
+   "register(등록)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a job listing(채용 공고)"
+  ],
+  "colloc": [
+   "job listing(채용 공고)",
+   "property listing(부동산 매물)",
+   "stock listing(주식 상장)"
+  ],
+  "ex_add": "I found the apartment through an online listing.  (listing=매물 정보)",
+  "ex_orig": "Yes,\" said Captain Turner, \"owing to the listing of the ship.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4356",
+  "hw": "liter",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "부피의 미터법 단위 -> '리터'.",
+  "senses": [
+   "1) 리터(부피 단위, 미국식 liter / 영국식 litre)"
+  ],
+  "etym": "그리스어 litra(무게 단위) -> 프랑스어 litre -> 'liter'. 미터법 도량형 단위. 미국식 liter, 영국식 litre 철자 차이.",
+  "deriv": "litra(단위) -> 'liter'. 한국 학습자 핵심: 미국식 -er / 영국식 -re 철자 — liter/litre·meter/metre·center/centre·theater/theatre·fiber/fibre(4143)! 미터법 단위군 — liter(부피)·meter(길이)·gram(무게)! a liter of water(물 1리터), per liter(리터당), fuel consumption in liters(리터 단위 연료 소비). 과학·실생활 빈출.",
+  "syn": [],
+  "anti": [],
+  "idiom": [
+   "a liter of(1리터의 ~)"
+  ],
+  "colloc": [
+   "a liter of water(물 1리터)",
+   "per liter(리터당)",
+   "two liters(2리터)"
+  ],
+  "ex_add": "The bottle holds two liters of water.  (liter=리터)",
+  "ex_orig": "Later, when Tucker and Archer attempt to talk them into fighting against the Klingons, Tessic tell them to take their 200 liters and leave.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4357",
+  "hw": "literacy",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "글자(littera)를 읽고 쓰는 능력 -> '읽고 쓰는 능력·소양'.",
+  "senses": [
+   "1) 읽고 쓰는 능력, 식자력",
+   "2) (특정 분야의) 소양, 활용 능력(digital literacy)"
+  ],
+  "etym": "라틴어 littera(글자·문자) -> literatus(글을 아는) -> literacy. littera(글자)는 literature(문학)·literal(문자 그대로의)·literary(문학의)·illiterate(문맹의)·obliterate(지우다)의 공통 뿌리.",
+  "deriv": "littera(글자) -> 'literacy'. 한국 학습자 핵심: littera(글자)계열 — literature(문학)·literal(문자 그대로의)·literary(문학의)·illiterate(문맹의, il-부정)·obliterate(말살하다)·literacy! 정반대 짝: literacy(식자력) ↔ illiteracy(문맹)! digital literacy(디지털 소양), media literacy(미디어 문해력), financial literacy(금융 이해력), the literacy rate(문해율). 유의어 education(교육). 반대 illiteracy(문맹).",
+  "syn": [
+   "education(교육)",
+   "proficiency(능숙함)"
+  ],
+  "anti": [
+   "illiteracy(문맹)"
+  ],
+  "idiom": [
+   "digital literacy(디지털 소양)",
+   "media literacy(미디어 문해력)"
+  ],
+  "colloc": [
+   "literacy rate(문해율)",
+   "digital literacy(디지털 소양)",
+   "financial literacy(금융 이해력)"
+  ],
+  "ex_add": "The program aims to improve adult literacy.  (literacy=문해력)",
+  "ex_orig": "Van der Weyden's placement of the Magdalen in an interior scene reflects the increasing literacy of domestic or in the mid - 15th century.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4358",
+  "hw": "liver",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "몸의 간 -> '간(장)'.",
+  "senses": [
+   "1) (해부) 간, 간장",
+   "2) (요리) 간(식재료)"
+  ],
+  "etym": "고대 영어 lifer(간) -> 'liver'. 게르만 뿌리로 '몸의 큰 장기'. 옛날 간을 생명·감정의 중심으로 여긴 데서 '살다(live)'와 연상되기도 함.",
+  "deriv": "lifer(간) -> 'liver'. 한국 학습자 핵심: 장기 어휘군 — liver(간)·kidney(신장, 4321)·lung(폐)·heart(심장)·stomach(위)! 의학 용어는 따로 — hepatic(간의, hepar 간)·hepatitis(간염)·renal(신장의)! liver disease(간 질환), liver function(간 기능), liver cancer(간암). 동음 주의: liver(간)와 live+r(사는 사람)은 별개! the liver detoxifies the body(간이 해독한다).",
+  "syn": [],
+  "anti": [],
+  "idiom": [
+   "liver disease(간 질환)"
+  ],
+  "colloc": [
+   "liver disease(간 질환)",
+   "liver function(간 기능)",
+   "liver cancer(간암)"
+  ],
+  "ex_add": "Excessive drinking can damage the liver.  (liver=간)",
+  "ex_orig": "For forty-five minutes the battle in the air lasted--6,000 feet up--revolver against machine gun, ending only when Luchs was shot through the lungs and liver.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4359",
+  "hw": "lobby",
+  "pos": "n., v.",
+  "cefr": "C1",
+  "core": "건물의 현관 홀·로비 활동 -> '로비·압력 활동(하다)'.",
+  "senses": [
+   "1) (n.) (건물의) 로비, 현관 홀",
+   "2) (n.) (정치) 압력 단체, 로비 단체",
+   "3) (v.) 압력을 넣다, 로비하다"
+  ],
+  "etym": "중세 라틴어 lobia(수도원의 회랑·복도) -> 'lobby'. 영국 의회의 복도(lobby)에서 의원에게 청탁하던 데서 '압력을 넣다'라는 정치적 의미가 생김. '대기·교섭이 이뤄지는 공간'이 핵심.",
+  "deriv": "lobia(회랑) -> 'lobby'. 한국 학습자 핵심: 장소 -> 정치 활동으로 의미 확장(의회 복도에서 청탁) — lobby(로비·압력 활동)·lobbyist(로비스트)! a hotel lobby(호텔 로비), lobby for/against(~에 찬성/반대 로비를 하다), a powerful lobby(강력한 압력 단체), the gun lobby(총기 옹호 단체). 유의어 pressure group(압력 단체)·campaign(운동하다).",
+  "syn": [
+   "pressure group(압력 단체)",
+   "campaign(운동하다)",
+   "foyer(로비)"
+  ],
+  "anti": [],
+  "idiom": [
+   "lobby for(~에 찬성 로비를 하다)"
+  ],
+  "colloc": [
+   "hotel lobby(호텔 로비)",
+   "lobby for(~을 위해 로비하다)",
+   "powerful lobby(강력한 압력 단체)"
+  ],
+  "ex_add": "Activists lobbied for stricter gun laws.  (lobby=로비하다)",
+  "ex_orig": "To ensure the Sarajevo show was not canceled, Sacirbey appeared at many of the band's preceding shows to lobby on behalf of the city.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4360",
+  "hw": "log",
+  "pos": "n., v.",
+  "cefr": "C1",
+  "core": "통나무·항해 기록 -> '통나무·일지·기록(하다)·접속'.",
+  "senses": [
+   "1) (n.) 통나무, 장작",
+   "2) (n.) (항해·운행) 일지, 기록",
+   "3) (v.) 기록하다; log in/out 접속하다/접속을 끊다"
+  ],
+  "etym": "중세 영어 logge(통나무)에서 유래 -> 'log'. 옛날 배의 속도를 통나무 조각(log)을 물에 던져 측정하고 그 결과를 일지(logbook)에 적은 데서 '기록·일지'라는 뜻이 파생. '통나무 -> 항해 기록 -> 기록'으로 의미 확장.",
+  "deriv": "logge(통나무) -> 'log'. 한국 학습자 핵심: 통나무 -> 기록으로 의미 확장(통나무로 속도 재고 일지에 적음)! log in/log on(로그인하다), log out/log off(로그아웃하다), a logbook(일지), keep a log(기록을 남기다), sleep like a log(세상모르고 자다). 유의어 record(기록)·journal(일지)·register(등록하다). IT 시대 빈출.",
+  "syn": [
+   "record(기록)",
+   "journal(일지)",
+   "register(등록하다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "log in(로그인하다)",
+   "sleep like a log(세상모르고 자다)"
+  ],
+  "colloc": [
+   "log in(로그인하다)",
+   "keep a log(기록을 남기다)",
+   "log data(데이터를 기록하다)"
+  ],
+  "ex_add": "Please log in with your password.  (log in=로그인하다)",
+  "ex_orig": "The freaks of the shells were as inexplicable as those of a great fire that destroys everything in a house except a piano and a mantelpiece with its bric-a-brac, or a flood that carries away a log",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4361",
+  "hw": "logic",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "말·이성(logos)의 학문 -> '논리(학)'.",
+  "senses": [
+   "1) 논리, 논리학",
+   "2) (행동·주장의) 타당성, 이치",
+   "3) (컴퓨터) 논리 회로"
+  ],
+  "etym": "그리스어 logos(말·이성·이치) -> logike(추론의 기술) -> 라틴어 logica -> 'logic'. logos(말·이성)는 logical(논리적인)·logo(로고)·-logy(학문, biology·psychology)·dialogue(대화)·apology(사과)의 공통 뿌리.",
+  "deriv": "logos(말·이성) -> 'logic'. 한국 학습자 핵심: logos(말·이성)계열 거대군 — logical(논리적인)·logo(상징)·dialogue(대화)·monologue(독백)·apology(사과)·-logy(biology 생물학·psychology 심리학·ideology 이념, 4235)! the logic of(~의 논리), defy logic(이치에 맞지 않다), flawed logic(잘못된 논리), by that logic(그 논리대로라면). 형용사 logical(논리적인). 반대 illogic(비논리).",
+  "syn": [
+   "reasoning(추론)",
+   "rationale(논리)"
+  ],
+  "anti": [
+   "illogic(비논리)",
+   "irrationality(불합리)"
+  ],
+  "idiom": [
+   "defy logic(이치에 맞지 않다)",
+   "by that logic(그 논리대로라면)"
+  ],
+  "colloc": [
+   "the logic of(~의 논리)",
+   "flawed logic(잘못된 논리)",
+   "sound logic(타당한 논리)"
+  ],
+  "ex_add": "There's no logic in his argument.  (logic=논리)",
+  "ex_orig": "President of Princeton University; author of works on logic and philosophy.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4362",
+  "hw": "long-standing",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "오래(long) 서 있던(standing) -> '오래된·오랫동안 지속된'.",
+  "senses": [
+   "1) 오래 지속된, 오랜",
+   "2) 다년간의, 누적된"
+  ],
+  "etym": "long(긴) + standing(서 있는, stand의 분사)의 합성어 -> 'long-standing'. '오랫동안 그 자리에 서 있어 온'이 핵심. stand는 게르만 뿌리.",
+  "deriv": "long(긴) + standing(서 있는) -> 'long-standing'. 한국 학습자 핵심: long- 합성 형용사 — long-standing(오래된)·long-term(장기의)·long-lasting(오래가는)·longtime(오랜, 4363)·lifelong(평생의, 4349)! a long-standing tradition(오랜 전통), a long-standing dispute(오랜 분쟁), a long-standing relationship(오랜 관계). 유의어 enduring(지속되는)·established(확립된). 반대 recent(최근의)·new(새로운).",
+  "syn": [
+   "enduring(지속되는)",
+   "established(확립된)",
+   "longtime(오랜)"
+  ],
+  "anti": [
+   "recent(최근의)",
+   "new(새로운)",
+   "brief(짧은)"
+  ],
+  "idiom": [
+   "a long-standing tradition(오랜 전통)"
+  ],
+  "colloc": [
+   "long-standing tradition(오랜 전통)",
+   "long-standing dispute(오랜 분쟁)",
+   "long-standing relationship(오랜 관계)"
+  ],
+  "ex_add": "They have a long-standing rivalry.  (long-standing=오래된)",
+  "ex_orig": "This German view of the worthlessness of international agreements was not a cause of the present war, because it was not fully evident to Europe, although familiar and of long standing in Germany;",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4363",
+  "hw": "longtime",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "오랜(long) 시간(time)의 -> '오랜·다년간의'.",
+  "senses": [
+   "1) 오랜, 다년간의",
+   "2) 오랫동안 ~해 온"
+  ],
+  "etym": "long(긴) + time(시간)의 합성어 -> 'longtime'. '오랜 세월에 걸친'이 핵심. 명사 앞에서만 쓰는 한정 형용사.",
+  "deriv": "long(긴) + time(시간) -> 'longtime'. 한국 학습자 핵심: long- 합성군 — longtime(오랜)·long-standing(오래된, 4362)·long-term(장기의)·lifelong(평생의, 4349)·long-lasting(오래가는)! a longtime friend(오랜 친구), a longtime fan(오랜 팬), a longtime resident(오래 거주한 주민), a longtime member(오랜 회원). 명사 앞에서만! 유의어 longstanding(오래된)·old(오랜). 반대 new(새로운)·recent(최근의).",
+  "syn": [
+   "longstanding(오래된)",
+   "old(오랜)",
+   "veteran(고참의)"
+  ],
+  "anti": [
+   "new(새로운)",
+   "recent(최근의)"
+  ],
+  "idiom": [
+   "a longtime friend(오랜 친구)"
+  ],
+  "colloc": [
+   "longtime friend(오랜 친구)",
+   "longtime resident(오래 거주한 주민)",
+   "longtime fan(오랜 팬)"
+  ],
+  "ex_add": "He is a longtime friend of the family.  (longtime=오랜)",
+  "ex_orig": "Tarantino was a longtime fan of \" Ozploitation \" films and had even dedicated his film Kill Bill to Brian Trenchard - Smith's work.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4364",
+  "hw": "loom",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "어렴풋이 거대하게 다가오다 -> '어렴풋이 나타나다·(위협이) 다가오다'.",
+  "senses": [
+   "1) (불길하게) 어렴풋이 나타나다, 다가오다",
+   "2) (위협·위험이) 곧 닥치다",
+   "3) (n.) 베틀, 직기"
+  ],
+  "etym": "동사 loom(어렴풋이 나타나다)은 16세기 항해 용어(저지대 독일어 lōmen 천천히 움직이다)에서 유래. 명사 loom(베틀)은 고대 영어 geloma(도구)에서 온 별개 어원. 동철이의어.",
+  "deriv": "lōmen(천천히 다가오다) -> 'loom'(나타나다). 한국 학습자 핵심: 보통 부정적 어감 — 위협·위험·마감이 다가올 때! loom large(크게 다가오다·중요하게 부각되다), a looming crisis(다가오는 위기), a looming deadline(임박한 마감), loom on the horizon(곧 닥칠 듯하다, 4224 horizon). 동음이의: loom(베틀)은 별개. 유의어 approach(다가오다)·threaten(위협하다)·impend(임박하다).",
+  "syn": [
+   "approach(다가오다)",
+   "threaten(위협하다)",
+   "impend(임박하다)"
+  ],
+  "anti": [
+   "recede(물러나다)",
+   "fade(사라지다)"
+  ],
+  "idiom": [
+   "loom large(크게 부각되다)",
+   "loom on the horizon(곧 닥칠 듯하다)"
+  ],
+  "colloc": [
+   "looming crisis(다가오는 위기)",
+   "looming deadline(임박한 마감)",
+   "loom large(크게 다가오다)"
+  ],
+  "ex_add": "A financial crisis loomed on the horizon.  (loom=다가오다)",
+  "ex_orig": "Europe is a loom on whose earthen framework demiurgic forces like Frederick the Great, Bismarck, and Napoleon once wove the texture of European civilization.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4365",
+  "hw": "loop",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "고리 모양으로 돈 것 -> '고리·순환·(코드의)루프'.",
+  "senses": [
+   "1) 고리, 둥근 모양",
+   "2) (반복) 순환, 루프",
+   "3) (컴퓨터) 반복문, 루프"
+  ],
+  "etym": "중세 영어 loup(고리·올가미, 어원 불확실)에서 유래 -> 'loop'. '한 바퀴 돌아 다시 만나는 고리'가 핵심. 스코틀랜드어/게일어 기원설이 있음.",
+  "deriv": "loup(고리) -> 'loop'. 한국 학습자 핵심: 고리 -> 반복 순환으로 비유 확장 — an infinite loop(무한 루프), a feedback loop(피드백 순환)! in the loop(정보를 공유받는·소식통 안에 있는), out of the loop(소외된·소식에 어두운), keep someone in the loop(~에게 계속 정보를 주다), loop around(고리처럼 돌다). 유의어 circle(원)·ring(고리)·coil(감은 것).",
+  "syn": [
+   "circle(원)",
+   "ring(고리)",
+   "coil(감은 것)"
+  ],
+  "anti": [],
+  "idiom": [
+   "in the loop(정보를 공유받는)",
+   "out of the loop(소식에 어두운)",
+   "keep someone in the loop(계속 정보를 주다)"
+  ],
+  "colloc": [
+   "feedback loop(피드백 순환)",
+   "infinite loop(무한 루프)",
+   "in the loop(정보를 공유받는)"
+  ],
+  "ex_add": "Please keep me in the loop on this project.  (loop=정보 공유)",
+  "ex_orig": "As this latter road simply loops the railroad between these two points, the entire Russian Carpathian line may be considered to have been supplied by the lateral railroad from Sanok to Jaslo.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4366",
+  "hw": "loyalty",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "법(legalis)에 충실함 -> '충성·충실'.",
+  "senses": [
+   "1) 충성(심), 충실",
+   "2) (브랜드·고객) 충성도, 단골 의식"
+  ],
+  "etym": "라틴어 legalis(법적인, lex 법) -> 고대 프랑스어 loial/leal(법에 충실한) -> loyal + -ty -> 'loyalty'. 흥미롭게도 loyal과 legal(합법적인)은 같은 lex(법) 어원에서 갈라진 이중어(doublet)! '법·약속에 충실함'이 핵심.",
+  "deriv": "lex(법) -> legalis -> loyal -> 'loyalty'. 한국 학습자 핵심: loyal과 legal은 어원 쌍둥이(둘 다 lex 법)! lex(법)계열 — legal·legitimate(4340)·legislation(4337)·legacy(4335)·loyalty! brand loyalty(브랜드 충성도), customer loyalty(고객 충성도), loyalty to(~에 대한 충성), a loyalty program(단골 적립 프로그램), divided loyalties(분열된 충성심). 유의어 allegiance(충성)·faithfulness(충실). 반대 betrayal(배신)·disloyalty(불충).",
+  "syn": [
+   "allegiance(충성)",
+   "faithfulness(충실)",
+   "devotion(헌신)"
+  ],
+  "anti": [
+   "betrayal(배신)",
+   "disloyalty(불충)",
+   "treachery(반역)"
+  ],
+  "idiom": [
+   "brand loyalty(브랜드 충성도)",
+   "divided loyalties(분열된 충성심)"
+  ],
+  "colloc": [
+   "customer loyalty(고객 충성도)",
+   "brand loyalty(브랜드 충성도)",
+   "loyalty to(~에 대한 충성)"
+  ],
+  "ex_add": "He showed great loyalty to his team.  (loyalty=충성)",
+  "ex_orig": "The real catastrophe for the diplomacy of Berlin was not India's loyalty and the vigorous uprising of the young dominions, but the dying down of Ulster mutiny.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4367",
+  "hw": "machinery",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "기계(machine)들의 집합 -> '기계류·기구·조직'.",
+  "senses": [
+   "1) (집합적) 기계류, 기계 장치",
+   "2) (조직의) 기구, 체제(the machinery of government)"
+  ],
+  "etym": "그리스어 mechane(장치·고안) -> 라틴어 machina -> machine + -ery(집합) -> 'machinery'. mechane(장치)는 machine(기계)·mechanic(정비공)·mechanism(기제)·mechanical(기계적인)의 공통 뿌리.",
+  "deriv": "mechane(장치) -> machine -> 'machinery'. 한국 학습자 핵심: mechane(장치)계열 — machine(기계)·mechanic(정비공)·mechanism(작동 원리)·mechanical(기계적인)·machinery! -ery(집합) 접미사 — machinery(기계류)·jewelry(보석류)·scenery(경치)·bakery(빵집)! 불가산 명사 주의: machinery는 셀 수 없음! heavy machinery(중장비), agricultural machinery(농기계), the machinery of government(정부 기구). 유의어 equipment(장비)·apparatus(기구).",
+  "syn": [
+   "equipment(장비)",
+   "apparatus(기구)",
+   "mechanism(기제)"
+  ],
+  "anti": [],
+  "idiom": [
+   "the machinery of government(정부 기구)"
+  ],
+  "colloc": [
+   "heavy machinery(중장비)",
+   "agricultural machinery(농기계)",
+   "industrial machinery(산업 기계)"
+  ],
+  "ex_add": "The factory installed new machinery.  (machinery=기계류)",
+  "ex_orig": "Also twenty establishments of the metal working (fine machinery) industry with 11,000 employes had to curtail their volume of business.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4368",
+  "hw": "magical",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "마법(magic)의 -> '마법의·황홀한'.",
+  "senses": [
+   "1) 마법의, 마술적인",
+   "2) 황홀한, 신비로운, 매혹적인"
+  ],
+  "etym": "그리스어 magos(마법사·페르시아 사제) -> magikos(마법의) -> 라틴어 magicus -> magic + -al -> 'magical'. magos(마법사)는 magic(마법)·magician(마술사)·magus(동방박사)의 공통 뿌리.",
+  "deriv": "magos(마법사) -> magic -> 'magical'. 한국 학습자 핵심: magos(마법)계열 — magic(마법)·magician(마술사)·magical·magi/magus(동방박사)! 두 뜻 구별: ① 마법의(magical powers) ② 황홀한·환상적인(a magical evening, 비유적)! a magical moment(황홀한 순간), a magical experience(마법 같은 경험), a magical kingdom(마법의 왕국, 4322 kingdom). 유의어 enchanting(매혹적인)·spellbinding(넋을 빼는)·wondrous(경이로운). 어원 magos≠대문자 Magi.",
+  "syn": [
+   "enchanting(매혹적인)",
+   "spellbinding(넋을 빼는)",
+   "wondrous(경이로운)"
+  ],
+  "anti": [
+   "ordinary(평범한)",
+   "mundane(일상적인)"
+  ],
+  "idiom": [
+   "a magical moment(황홀한 순간)"
+  ],
+  "colloc": [
+   "magical moment(황홀한 순간)",
+   "magical experience(마법 같은 경험)",
+   "magical powers(마법의 힘)"
+  ],
+  "ex_add": "The evening had a magical quality.  (magical=황홀한)",
+  "ex_orig": "the AI can be customized to behave in various ways, such as adjusting their aggression level, and balancing magical and physical attacks.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4369",
+  "hw": "magnetic",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "자석(magnet)의 -> '자기의·끌어당기는'.",
+  "senses": [
+   "1) 자석의, 자기의, 자성의",
+   "2) (사람을) 끌어당기는, 매력적인"
+  ],
+  "etym": "고대 그리스 마그네시아(Magnesia) 지방에서 나던 자철석(magnes lithos 마그네시아의 돌) -> magnet + -ic -> 'magnetic'. 지명에서 유래한 단어. '쇠를 끌어당기는 힘 -> 사람을 끄는 매력'으로 의미 확장.",
+  "deriv": "Magnesia(지명) -> magnet -> 'magnetic'. 한국 학습자 핵심: 지명 유래 + 비유 확장 — 자석의 인력 -> 사람의 매력! magnet(자석)·magnetic·magnetism(자기·매력)·magnetize(자화하다)! a magnetic field(자기장), a magnetic personality(사람을 끄는 매력적 성격), magnetic north(자북). magnitude(크기, 4370)·magnify(확대)와는 어원이 다름(이쪽은 magnus 큰)! 유의어 charismatic(카리스마 있는)·captivating(매혹적인).",
+  "syn": [
+   "attractive(끌어당기는)",
+   "charismatic(카리스마 있는)",
+   "captivating(매혹적인)"
+  ],
+  "anti": [
+   "repellent(밀어내는)",
+   "off-putting(불쾌한)"
+  ],
+  "idiom": [
+   "a magnetic field(자기장)",
+   "a magnetic personality(매력적인 성격)"
+  ],
+  "colloc": [
+   "magnetic field(자기장)",
+   "magnetic personality(매력적인 성격)",
+   "magnetic force(자력)"
+  ],
+  "ex_add": "She has a magnetic personality.  (magnetic=끌어당기는)",
+  "ex_orig": "He, along with his expedition, made the first ascent of Mount and the discovery of the approximate location of the South Magnetic Pole.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4370",
+  "hw": "magnitude",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "큰(magnus) 정도 -> '규모·중요도·진도'.",
+  "senses": [
+   "1) (엄청난) 규모, 크기",
+   "2) 중요성, 중대함",
+   "3) (지진의) 규모, (별의) 광도"
+  ],
+  "etym": "라틴어 magnus(큰) -> magnitudo(크기) -> 'magnitude'. magnus(큰)는 magnify(확대하다)·magnificent(웅장한)·major(주요한)·maximum(최대)·magnate(거물)의 공통 뿌리.",
+  "deriv": "magnus(큰) -> 'magnitude'. 한국 학습자 핵심: magnus(큰)계열 거대군 — magnify(확대하다)·magnificent(장엄한)·major(주요한)·majority(다수)·maximum(최대, 4388 maximize)·magnate(거물)·magnitude! the magnitude of the problem(문제의 심각성), an earthquake of magnitude 7(규모 7의 지진), the sheer magnitude(엄청난 규모), of the first magnitude(최고로 중요한). 유의어 scale(규모)·extent(정도)·importance(중요성).",
+  "syn": [
+   "scale(규모)",
+   "extent(정도)",
+   "importance(중요성)"
+  ],
+  "anti": [
+   "insignificance(하찮음)",
+   "triviality(사소함)"
+  ],
+  "idiom": [
+   "of the first magnitude(최고로 중요한)"
+  ],
+  "colloc": [
+   "the magnitude of(~의 규모)",
+   "sheer magnitude(엄청난 규모)",
+   "earthquake magnitude(지진 규모)"
+  ],
+  "ex_add": "They underestimated the magnitude of the disaster.  (magnitude=규모)",
+  "ex_orig": "On Time's high canopy the years are as stars great and small, some of lesser magnitude, some forever bright with the splendor of supreme human achievements;",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4371",
+  "hw": "mainland",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "주된(main) 땅(land) -> '본토'.",
+  "senses": [
+   "1) (섬·반도에 대비되는) 본토",
+   "2) (adj.) 본토의"
+  ],
+  "etym": "main(주된·큰) + land(땅)의 합성어 -> 'mainland'. main은 고대 영어 mægen(힘·주된)에서 유래. '섬이 아닌 주가 되는 큰 땅덩어리'가 핵심.",
+  "deriv": "main(주된) + land(땅) -> 'mainland'. 한국 학습자 핵심: main 합성어 — mainland(본토)·mainstream(주류, 4372)·mainstay(중심·기둥)! land 합성어 — mainland·homeland(4222)·landlord(4323)·wetland(습지)! the Chinese mainland(중국 본토), travel to the mainland(본토로 가다), mainland Europe(유럽 대륙). 반대 island(섬)·peninsula(반도). 유의어 continent(대륙).",
+  "syn": [
+   "continent(대륙)"
+  ],
+  "anti": [
+   "island(섬)",
+   "peninsula(반도)"
+  ],
+  "idiom": [
+   "the Chinese mainland(중국 본토)"
+  ],
+  "colloc": [
+   "mainland Europe(유럽 대륙)",
+   "mainland China(중국 본토)",
+   "travel to the mainland(본토로 가다)"
+  ],
+  "ex_add": "Ferries connect the island to the mainland.  (mainland=본토)",
+  "ex_orig": "The invasions in 250 years of political fragmentation in Burma and the rise of Tai - Shan states throughout mainland Southeast Asia.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4372",
+  "hw": "mainstream",
+  "pos": "n., adj.",
+  "cefr": "C1",
+  "core": "주된(main) 흐름(stream) -> '주류·대세(의)'.",
+  "senses": [
+   "1) (n.) (the mainstream) 주류, 대세",
+   "2) (adj.) 주류의, 대중적인",
+   "3) (v.) 주류에 편입시키다"
+  ],
+  "etym": "main(주된) + stream(흐름·물줄기)의 합성어 -> 'mainstream'. '강의 주된 물줄기'에서 '사회·문화의 지배적 흐름'으로 비유 확장. stream은 게르만 뿌리.",
+  "deriv": "main(주된) + stream(흐름) -> 'mainstream'. 한국 학습자 핵심: main 합성어 — mainstream(주류)·mainland(본토, 4371)·mainstay(버팀목)! 강의 본류 -> 사회의 대세 비유! mainstream media(주류 언론), mainstream culture(주류 문화), enter the mainstream(주류에 편입되다), go mainstream(대중화되다). 유의어 conventional(전통적인)·dominant(지배적인). 반대 fringe(주변부)·alternative(대안적인)·marginal(주변적인, 4381).",
+  "syn": [
+   "conventional(전통적인)",
+   "dominant(지배적인)",
+   "prevailing(우세한)"
+  ],
+  "anti": [
+   "fringe(주변부)",
+   "alternative(대안적인)",
+   "marginal(주변적인)"
+  ],
+  "idiom": [
+   "go mainstream(대중화되다)",
+   "enter the mainstream(주류에 편입되다)"
+  ],
+  "colloc": [
+   "mainstream media(주류 언론)",
+   "mainstream culture(주류 문화)",
+   "mainstream society(주류 사회)"
+  ],
+  "ex_add": "The idea has now entered the mainstream.  (mainstream=주류)",
+  "ex_orig": "The fashion line made a runway debut in the spring collection of 2004 and achieved mainstream success at New York Fashion Week in 2005.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4373",
+  "hw": "maintenance",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "손(manu)으로 잡아(tenere) 유지함 -> '유지·정비·부양'.",
+  "senses": [
+   "1) (시설·기계의) 유지, 보수, 정비",
+   "2) (상태의) 유지, 지속",
+   "3) (이혼 후) 부양비, 양육비"
+  ],
+  "etym": "라틴어 manu tenere(손으로 잡다, manus 손 + tenere 잡다) -> 고대 프랑스어 maintenir -> maintain + -ance -> 'maintenance'. manus(손)는 manual·manage·manufacture의 뿌리, tenere(잡다)는 contain·retain·tenant의 뿌리.",
+  "deriv": "manus(손) + tenere(잡다) -> maintain -> 'maintenance'. 한국 학습자 핵심: manus(손)계열 — manual(수동의)·manage(관리하다)·manufacture(제조)·manipulate(4377)·manuscript(4379)·maintenance! tenere(잡다)계열 — contain(포함하다)·retain(보유하다)·sustain(지탱하다)·tenant(세입자)·maintain! routine maintenance(정기 정비), maintenance costs(유지비), low maintenance(관리가 적게 드는). 동사 maintain(유지하다). 유의어 upkeep(유지)·preservation(보존).",
+  "syn": [
+   "upkeep(유지)",
+   "preservation(보존)",
+   "servicing(정비)"
+  ],
+  "anti": [
+   "neglect(방치)",
+   "disrepair(황폐)"
+  ],
+  "idiom": [
+   "routine maintenance(정기 정비)",
+   "low maintenance(관리가 적게 드는)"
+  ],
+  "colloc": [
+   "routine maintenance(정기 정비)",
+   "maintenance costs(유지비)",
+   "regular maintenance(정기 점검)"
+  ],
+  "ex_add": "The building requires regular maintenance.  (maintenance=유지보수)",
+  "ex_orig": "Great Britain, the power most interested in the maintenance of Belgian neutrality, seems to have had considerable apprehension about it.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4374",
+  "hw": "mandate",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "손(manus)에 쥐여 주는(dare) 명령 -> '권한·위임·지시'.",
+  "senses": [
+   "1) (선거로 얻은) 권한, 위임",
+   "2) 명령, 지시",
+   "3) (v.) 명령하다, 의무화하다"
+  ],
+  "etym": "라틴어 manus(손) + dare(주다) -> mandare(손에 맡기다·위임하다) -> mandatum(위임) -> 'mandate'. manus(손)는 manual·manage의 뿌리, dare(주다)는 donate(기부하다)·data(주어진 것)·tradition(전해 줌)의 뿌리.",
+  "deriv": "manus(손) + dare(주다) -> 'mandate'. 한국 학습자 핵심: dare(주다)계열 — donate(기부하다)·data(자료)·tradition(전통)·command(명령, 4xxx)·demand(요구)·recommend(추천)·mandate! manus(손)계열 — manual·manage·mandatory(4375)·mandate! a clear mandate(분명한 권한), a popular mandate(국민의 위임), have a mandate to(~할 권한이 있다). 유의어 authority(권한)·directive(지시)·command(명령).",
+  "syn": [
+   "authority(권한)",
+   "directive(지시)",
+   "command(명령)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a popular mandate(국민의 위임)",
+   "have a mandate to(~할 권한이 있다)"
+  ],
+  "colloc": [
+   "clear mandate(분명한 권한)",
+   "popular mandate(국민의 위임)",
+   "electoral mandate(선거를 통한 권한)"
+  ],
+  "ex_add": "The new government has a clear mandate for reform.  (mandate=권한)",
+  "ex_orig": "The mandate of each Government in regard to the conclave is the affair of that Government, and it is the affair of no other Government.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4375",
+  "hw": "mandatory",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "손(manus)에 맡겨 명령된(dare) -> '의무적인·강제적인'.",
+  "senses": [
+   "1) 의무적인, 강제적인",
+   "2) 필수의, 법으로 정해진"
+  ],
+  "etym": "라틴어 manus(손) + dare(주다) -> mandare(위임하다·명령하다) -> mandatorius -> 'mandatory'. mandate(4374)와 같은 manus+dare 뿌리. '반드시 따라야 하는 명령의'가 핵심.",
+  "deriv": "manus(손) + dare(주다) -> mandate -> 'mandatory'. 한국 학습자 핵심: mandate(권한·명령, 4374)·mandatory(의무적인)! 정반대 짝: mandatory(의무적인) ↔ optional(선택적인)·voluntary(자발적인)! mandatory attendance(의무 출석), mandatory retirement(정년퇴직), a mandatory requirement(필수 요건), make it mandatory(의무화하다). 유의어 compulsory(의무적인)·obligatory(의무적인)·required(필수의). 반대 optional(선택적인)·voluntary(자발적인).",
+  "syn": [
+   "compulsory(의무적인)",
+   "obligatory(의무적인)",
+   "required(필수의)"
+  ],
+  "anti": [
+   "optional(선택적인)",
+   "voluntary(자발적인)",
+   "discretionary(임의의)"
+  ],
+  "idiom": [
+   "mandatory attendance(의무 출석)"
+  ],
+  "colloc": [
+   "mandatory requirement(필수 요건)",
+   "mandatory retirement(정년퇴직)",
+   "make it mandatory(의무화하다)"
+  ],
+  "ex_add": "Wearing a seatbelt is mandatory.  (mandatory=의무적인)",
+  "ex_orig": "The title track and the song \" Mandatory Suicide \" have received various cover interpretations, particularly on Slayer tribute albums.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4376",
+  "hw": "manifest",
+  "pos": "v., adj.",
+  "cefr": "C1",
+  "core": "손(manus)에 잡힐 듯 드러내다 -> '명백히 드러내다·명백한'.",
+  "senses": [
+   "1) (v.) (감정·증상을) 분명히 드러내다, 나타내다",
+   "2) (adj.) 명백한, 분명한",
+   "3) (n.) 적하 목록, 승객 명단"
+  ],
+  "etym": "라틴어 manifestus(손으로 잡힌·뚜렷한, manus 손 + -festus 잡힌) -> manifestare -> 'manifest'. manus(손)는 manual·manage·manuscript(4379)의 뿌리. '손에 잡히듯 뚜렷이 드러남'이 핵심.",
+  "deriv": "manus(손) + festus(잡힌) -> 'manifest'. 한국 학습자 핵심: manus(손)계열 — manual·manage·manufacture·manipulate(4377)·manuscript(4379)·maintenance(4373)·manifest! manifest itself(스스로 드러나다), manifest in(~로 나타나다), make manifest(분명히 하다), a manifest error(명백한 오류). 명사 manifestation(징후·발현). 유의어(동사) display(드러내다)·exhibit(보이다); (형용사) obvious(명백한)·evident(분명한).",
+  "syn": [
+   "display(드러내다)",
+   "reveal(드러내다)",
+   "obvious(명백한)"
+  ],
+  "anti": [
+   "conceal(숨기다)",
+   "hidden(숨겨진)",
+   "latent(잠재된)"
+  ],
+  "idiom": [
+   "manifest itself(스스로 드러나다)",
+   "make manifest(분명히 하다)"
+  ],
+  "colloc": [
+   "manifest itself(스스로 드러나다)",
+   "manifest in(~로 나타나다)",
+   "manifest symptoms(증상을 드러내다)"
+  ],
+  "ex_add": "Stress can manifest itself in physical symptoms.  (manifest=드러나다)",
+  "ex_orig": "Some hold that moral considerations must be subordinated either to military necessity or so-called manifest destiny.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4377",
+  "hw": "manipulate",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "손(manus)으로 능숙히 다루다 -> '조종하다·조작하다'.",
+  "senses": [
+   "1) (교묘하게) 조종하다, 부리다",
+   "2) (사실·데이터를) 조작하다",
+   "3) (기계·도구를) 능숙하게 다루다"
+  ],
+  "etym": "라틴어 manus(손) -> manipulus(한 줌·한 다발) -> manipulare(손으로 다루다) -> 'manipulate'. manus(손)는 manual(수동의)·manage(관리하다)·manuscript(4379)·manufacture(제조하다)의 공통 뿌리.",
+  "deriv": "manus(손) + -pulus(채우다) -> 'manipulate'. 한국 학습자 핵심: manus(손)계열 총정리 — manual(수동의·설명서)·manage(관리하다)·manufacture(손으로 만들다->제조)·manuscript(손으로 쓴->원고, 4379)·manifest(4376)·manipulate! 부정적 어감 흔함: manipulate people(사람을 조종하다), manipulate data(데이터를 조작하다), manipulate the market(시장을 조작하다). 명사 manipulation(4378). 유의어 control(통제하다)·exploit(이용하다)·rig(조작하다).",
+  "syn": [
+   "control(통제하다)",
+   "exploit(이용하다)",
+   "rig(조작하다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "manipulate the market(시장을 조작하다)"
+  ],
+  "colloc": [
+   "manipulate people(사람을 조종하다)",
+   "manipulate data(데이터를 조작하다)",
+   "manipulate the system(체제를 악용하다)"
+  ],
+  "ex_add": "He tried to manipulate public opinion.  (manipulate=조종하다)",
+  "ex_orig": "The vi editor also follows this convention; thus, it is relatively easy to manipulate (jump over, copy,) whole sentences in both and vi.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4378",
+  "hw": "manipulation",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "손(manus)으로 다룸 -> '조종·조작'.",
+  "senses": [
+   "1) (교묘한) 조종, 부추김",
+   "2) (데이터·사실의) 조작",
+   "3) (능숙한) 취급, 조작"
+  ],
+  "etym": "라틴어 manus(손) -> manipulus(한 줌) -> manipulate(조종하다, 4377) + -ion -> 'manipulation'. manus(손)가 핵심 뿌리. '손으로 교묘히 다룸'이 핵심.",
+  "deriv": "manus(손) -> manipulate -> 'manipulation'. 한국 학습자 핵심: manus(손)계열 명사 — manipulation(조작)·manufacture(제조)·manuscript(원고, 4379)! genetic manipulation(유전자 조작), market manipulation(시장 조작), media manipulation(언론 조작), psychological manipulation(심리적 조종), data manipulation(데이터 처리). 유의어 control(통제)·exploitation(착취)·distortion(왜곡).",
+  "syn": [
+   "control(통제)",
+   "exploitation(착취)",
+   "distortion(왜곡)"
+  ],
+  "anti": [],
+  "idiom": [
+   "market manipulation(시장 조작)"
+  ],
+  "colloc": [
+   "genetic manipulation(유전자 조작)",
+   "market manipulation(시장 조작)",
+   "media manipulation(언론 조작)"
+  ],
+  "ex_add": "The scandal involved manipulation of financial data.  (manipulation=조작)",
+  "ex_orig": "Nonetheless, in some case, digital manipulation was necessary to properly simulate puckering in the exact proper location on the video.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4379",
+  "hw": "manuscript",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "손(manus)으로 쓴(scribere) 글 -> '원고·필사본'.",
+  "senses": [
+   "1) (출판 전) 원고",
+   "2) (인쇄술 이전의) 필사본, 손으로 쓴 문서"
+  ],
+  "etym": "라틴어 manus(손) + scribere/scriptus(쓰다) -> manuscriptus(손으로 쓴) -> 'manuscript'. manus(손)는 manual·manage의 뿌리, scribere(쓰다)는 describe(묘사하다)·script(대본)·subscribe(구독하다)·prescribe(처방하다)의 뿌리.",
+  "deriv": "manus(손) + scribere(쓰다) -> 'manuscript'. 한국 학습자 핵심: scribere(쓰다)계열 거대군 — describe(묘사하다)·script(대본)·subscribe(구독하다)·prescribe(처방하다)·inscribe(새기다)·transcript(필기록)·manuscript! manus(손)계열 — manual·manuscript·manufacture·manipulate(4377)! submit a manuscript(원고를 제출하다), an ancient manuscript(고대 필사본), an unpublished manuscript(미출간 원고). 유의어 script(원고)·document(문서).",
+  "syn": [
+   "script(원고)",
+   "document(문서)",
+   "text(원문)"
+  ],
+  "anti": [
+   "printed edition(인쇄본)"
+  ],
+  "idiom": [
+   "submit a manuscript(원고를 제출하다)"
+  ],
+  "colloc": [
+   "submit a manuscript(원고를 제출하다)",
+   "ancient manuscript(고대 필사본)",
+   "original manuscript(원본 원고)"
+  ],
+  "ex_add": "She submitted her manuscript to a publisher.  (manuscript=원고)",
+  "ex_orig": "While the observation records for seven years were published, the balance data in a manuscript form was preserved in the Vatican Library.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4380",
+  "hw": "march",
+  "pos": "n., v.",
+  "cefr": "C1",
+  "core": "발맞춰 나아가다 -> '행진(하다)·행군'.",
+  "senses": [
+   "1) (v.) 행진하다, 행군하다",
+   "2) (v.) (단호히) 성큼성큼 걷다",
+   "3) (n.) 행진, 행군; (시위) 행진; 행진곡"
+  ],
+  "etym": "고대 프랑스어 marchier(밟다·걷다, 게르만어 markon 경계를 밟다) -> 'march'. '발을 맞춰 밟으며 나아가다'가 핵심. 달 March(3월)는 군신 Mars에서 온 별개 어원.",
+  "deriv": "marchier(걷다) -> 'march'. 한국 학습자 핵심: 동음이의 — march(행진, 일반 명사)와 March(3월, 군신 Mars 유래, 대문자)! march on(계속 행진하다), a protest march(항의 행진·시위), march in protest(항의하며 행진하다), the march of time/progress(시간/진보의 행진). 유의어 parade(행진)·walk(걷다)·stride(성큼 걷다). a funeral march(장송곡, 4176 funeral).",
+  "syn": [
+   "parade(행진)",
+   "stride(성큼 걷다)",
+   "walk(걷다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "the march of time(세월의 흐름)",
+   "march on(계속 나아가다)"
+  ],
+  "colloc": [
+   "protest march(항의 행진)",
+   "march on(계속 행진하다)",
+   "march forward(앞으로 행진하다)"
+  ],
+  "ex_add": "Thousands marched in protest against the war.  (march=행진하다)",
+  "ex_orig": "April 10--Government has handed to Germany a note of protest on the sinking in March of the Dutch steamship Medea by a German submarine.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4381",
+  "hw": "marginal",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "가장자리(margo)의 -> '미미한·주변적인·한계의'.",
+  "senses": [
+   "1) 미미한, 그다지 중요하지 않은",
+   "2) 주변부의, 변두리의",
+   "3) (경제) 한계의(marginal cost 한계 비용)"
+  ],
+  "etym": "라틴어 margo/marginis(가장자리·여백) -> marginalis -> 'marginal'. margo(가장자리)는 margin(여백·차이·이윤)·marginalize(소외시키다)·emarginate의 공통 뿌리. '중심에서 벗어난 가장자리의'가 핵심.",
+  "deriv": "margo(가장자리) -> margin -> 'marginal'. 한국 학습자 핵심: margo(가장자리)계열 — margin(여백·이윤·차이)·marginal·marginalize(소외시키다)! a marginal difference(미미한 차이), marginal improvement(근소한 개선), a marginal group(소외 집단), marginal cost(한계 비용, 경제 빈출). 부사 marginally(아주 조금). 유의어 negligible(무시할 만한)·minor(사소한)·peripheral(주변적인). 반대 central(중심의)·significant(중요한).",
+  "syn": [
+   "negligible(무시할 만한)",
+   "minor(사소한)",
+   "peripheral(주변적인)"
+  ],
+  "anti": [
+   "central(중심의)",
+   "significant(중요한)",
+   "substantial(상당한)"
+  ],
+  "idiom": [
+   "marginal cost(한계 비용)"
+  ],
+  "colloc": [
+   "marginal difference(미미한 차이)",
+   "marginal improvement(근소한 개선)",
+   "marginal cost(한계 비용)"
+  ],
+  "ex_add": "The change had only a marginal effect.  (marginal=미미한)",
+  "ex_orig": "The marginal references in this report indicate the particular deposition or depositions on which the statements made in the text are based.[A]",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4382",
+  "hw": "marine",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "바다(mare)의 -> '바다의·해양의'.",
+  "senses": [
+   "1) 바다의, 해양의",
+   "2) 선박의, 해운의",
+   "3) (n.) 해병대원"
+  ],
+  "etym": "라틴어 mare(바다) -> marinus(바다의) -> 'marine'. mare(바다)는 maritime(해양의)·submarine(잠수함, sub-아래)·marina(정박지)·mariner(선원)의 공통 뿌리.",
+  "deriv": "mare(바다) -> 'marine'. 한국 학습자 핵심: mare(바다)계열 — maritime(해양의)·submarine(잠수함, 바다 아래)·marina(요트 정박지)·mariner(뱃사람)·marine! marine life(해양 생물), marine ecosystem(해양 생태계), marine biology(해양 생물학), the Marine Corps(해병대). aquatic(물의)과 구분: marine은 특히 바다. 유의어 maritime(해양의)·nautical(항해의). 반대 terrestrial(육지의).",
+  "syn": [
+   "maritime(해양의)",
+   "nautical(항해의)",
+   "oceanic(대양의)"
+  ],
+  "anti": [
+   "terrestrial(육지의)",
+   "freshwater(민물의)"
+  ],
+  "idiom": [
+   "marine life(해양 생물)",
+   "the Marine Corps(해병대)"
+  ],
+  "colloc": [
+   "marine life(해양 생물)",
+   "marine ecosystem(해양 생태계)",
+   "marine biology(해양 생물학)"
+  ],
+  "ex_add": "Pollution threatens marine life.  (marine=해양의)",
+  "ex_orig": "Probably our merchant marine can be developed more successfully for this South American trade than it could for the European trade.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4383",
+  "hw": "marketplace",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "시장(market)이 서는 장소(place) -> '시장·장터·경제계'.",
+  "senses": [
+   "1) 장터, 시장",
+   "2) (the marketplace) (경쟁의 장으로서의) 시장, 상업계",
+   "3) (개념의) 경쟁의 장(the marketplace of ideas)"
+  ],
+  "etym": "market(시장, 라틴어 mercatus 거래, merx 상품) + place(장소, 라틴어 platea 넓은 길)의 합성어 -> 'marketplace'. merx(상품)는 merchant(상인)·commerce(상업)·merchandise(상품)의 뿌리.",
+  "deriv": "market(시장) + place(장소) -> 'marketplace'. 한국 학습자 핵심: merx(상품·거래)계열 — market(시장)·merchant(상인)·commerce(상업)·merchandise(상품)·mercenary(용병)! compete in the marketplace(시장에서 경쟁하다), the global marketplace(세계 시장), the marketplace of ideas(사상의 자유 경쟁). 유의어 market(시장)·bazaar(시장). 추상적 '경쟁의 장' 의미가 출제 포인트.",
+  "syn": [
+   "market(시장)",
+   "bazaar(시장)",
+   "commerce(상업)"
+  ],
+  "anti": [],
+  "idiom": [
+   "the marketplace of ideas(사상의 자유 경쟁)"
+  ],
+  "colloc": [
+   "global marketplace(세계 시장)",
+   "competitive marketplace(경쟁 시장)",
+   "online marketplace(온라인 장터)"
+  ],
+  "ex_add": "The product failed in the marketplace.  (marketplace=시장)",
+  "ex_orig": "Construction of the facility triggered a significant growth in development of a marketplace, hotels and restaurants in downtown Napa.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4384",
+  "hw": "mask",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "얼굴을 가리는 것 -> '가면·마스크·가리다'.",
+  "senses": [
+   "1) 가면, 마스크, 복면",
+   "2) (감정을 가리는) 거짓 표정, 위장",
+   "3) (v.) 가리다, 감추다, 숨기다"
+  ],
+  "etym": "아랍어 maskharah(광대·익살) 또는 중세 라틴어 masca(가면·마녀) -> 이탈리아어 maschera -> 'mask'. '얼굴을 덮어 가리는 것'이 핵심.",
+  "deriv": "masca(가면) -> 'mask'. 한국 학습자 핵심: 물리적 가면 -> 감정 위장으로 비유 확장! mascara(마스카라, 눈을 가리는 화장품)도 같은 뿌리! wear a mask(마스크를 쓰다·본심을 감추다), a mask of indifference(무관심을 가장한 표정), mask one's feelings(감정을 감추다), drop the mask(가면을 벗다·본심을 드러내다). 유의어 disguise(변장)·conceal(숨기다)·cover(가리다). 반대 reveal(드러내다)·expose(노출하다).",
+  "syn": [
+   "disguise(변장)",
+   "conceal(숨기다)",
+   "cover(가리다)"
+  ],
+  "anti": [
+   "reveal(드러내다)",
+   "expose(노출하다)"
+  ],
+  "idiom": [
+   "wear a mask(본심을 감추다)",
+   "drop the mask(본심을 드러내다)"
+  ],
+  "colloc": [
+   "wear a mask(마스크를 쓰다)",
+   "mask one's feelings(감정을 감추다)",
+   "face mask(얼굴 마스크)"
+  ],
+  "ex_add": "He tried to mask his disappointment.  (mask=감추다)",
+  "ex_orig": "9 a powerful screen of cavalry masking the general advance of the First and Second German Armies was thrown forward into the provinces of Brabant and Limburg.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4385",
+  "hw": "massacre",
+  "pos": "n., v.",
+  "cefr": "C1",
+  "core": "대량으로 도살함 -> '대학살(하다)'.",
+  "senses": [
+   "1) (n.) 대학살, 집단 살육",
+   "2) (v.) 대량 학살하다",
+   "3) (v., 구어) (경기에서) 참패시키다"
+  ],
+  "etym": "고대 프랑스어 macacre/massacre(도살장·학살, 어원 불확실)에서 유래 -> 'massacre'. '무방비 상태의 다수를 도살하듯 죽임'이 핵심. 발음 [mǽsəkər] '매서커'.",
+  "deriv": "massacre(도살) -> 'massacre'. 한국 학습자 핵심: 발음·철자 함정 — massacre [mǽsəkər] '매서커'(끝이 -cre)! 대량 죽음 어휘군 — massacre(대학살)·genocide(집단 학살, 4182)·slaughter(도살·대량 학살)·carnage(대학살)! commit a massacre(학살을 저지르다), a brutal massacre(잔혹한 학살), the scene of the massacre(학살 현장). 유의어 slaughter(도살)·carnage(대학살)·bloodbath(피의 살육).",
+  "syn": [
+   "slaughter(도살)",
+   "carnage(대학살)",
+   "bloodbath(피의 살육)"
+  ],
+  "anti": [],
+  "idiom": [
+   "commit a massacre(학살을 저지르다)"
+  ],
+  "colloc": [
+   "brutal massacre(잔혹한 학살)",
+   "commit a massacre(학살을 저지르다)",
+   "massacre of civilians(민간인 학살)"
+  ],
+  "ex_add": "Hundreds died in the massacre.  (massacre=대학살)",
+  "ex_orig": "26--British, French, and Russians in Jerusalem are imprisoned and their homes looted; massacre feared; Italian Consul asks for warships.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4386",
+  "hw": "mathematical",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "배움(mathema)의 학문인 수학의 -> '수학의·수학적인'.",
+  "senses": [
+   "1) 수학의, 수학적인",
+   "2) (계산이) 정밀한, 엄밀한"
+  ],
+  "etym": "그리스어 manthanein(배우다) -> mathema(배운 것·학문) -> mathematikos(배움을 좋아하는) -> 'mathematical'. mathema(배움)는 mathematics(수학)·polymath(박식가, poly-여럿)의 공통 뿌리. 고대 그리스에서 수학이 곧 '배워야 할 학문'이었음.",
+  "deriv": "mathema(배움) -> 'mathematical'. 한국 학습자 핵심: mathema(배움)계열 — mathematics(수학)·math(수학)·mathematician(수학자)·polymath(박식가)·mathematical! 어원이 '배움 자체'라는 점이 흥미로운 기억 포인트. a mathematical formula(수학 공식, 4162 formula), mathematical model(수학적 모델), mathematical ability(수리 능력), with mathematical precision(수학적 정밀함으로). 유의어 numerical(수치의)·arithmetic(산술의).",
+  "syn": [
+   "numerical(수치의)",
+   "arithmetic(산술의)",
+   "computational(계산의)"
+  ],
+  "anti": [],
+  "idiom": [
+   "with mathematical precision(수학적 정밀함으로)"
+  ],
+  "colloc": [
+   "mathematical formula(수학 공식)",
+   "mathematical model(수학적 모델)",
+   "mathematical ability(수리 능력)"
+  ],
+  "ex_add": "The theory rests on a mathematical model.  (mathematical=수학적인)",
+  "ex_orig": "The trench to which I finally came at midnight was that in almost the mathematical centre of the Guzow positions.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4387",
+  "hw": "mature",
+  "pos": "adj., v.",
+  "cefr": "C1",
+  "core": "잘 익은(maturus) -> '성숙한·익은·만기가 된'.",
+  "senses": [
+   "1) (adj.) 성숙한, 어른스러운",
+   "2) (adj.) (과일·치즈가) 익은; (계약이) 만기가 된",
+   "3) (v.) 성숙하다, 익다, 만기가 되다"
+  ],
+  "etym": "라틴어 maturus(익은·때가 무르익은) -> maturare(익다) -> 'mature'. maturus(익은)는 premature(조숙한·시기상조의, pre-앞서)·maturity(성숙)의 공통 뿌리. '때가 무르익어 완성됨'이 핵심.",
+  "deriv": "maturus(익은) -> 'mature'. 한국 학습자 핵심: 정반대·파생 — mature(성숙한) ↔ immature(미성숙한, im-부정) / premature(조숙한·시기상조의, pre-앞서)! 명사 maturity(성숙·만기). a mature attitude(성숙한 태도), mature cheese(숙성 치즈), the bond matures in 2030(채권이 2030년에 만기가 된다). 유의어 grown-up(어른스러운)·ripe(익은)·developed(발달한). 반대 immature(미숙한)·childish(유치한).",
+  "syn": [
+   "grown-up(어른스러운)",
+   "ripe(익은)",
+   "developed(성숙한)"
+  ],
+  "anti": [
+   "immature(미숙한)",
+   "childish(유치한)",
+   "unripe(설익은)"
+  ],
+  "idiom": [
+   "a mature attitude(성숙한 태도)"
+  ],
+  "colloc": [
+   "mature attitude(성숙한 태도)",
+   "fully mature(완전히 성숙한)",
+   "mature into(~로 성장하다)"
+  ],
+  "ex_add": "She is very mature for her age.  (mature=성숙한)",
+  "ex_orig": "With this fund Russian merchants are depositing money for their matured notes.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4388",
+  "hw": "maximize",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "최대(maximus)로 만들다 -> '극대화하다'.",
+  "senses": [
+   "1) 최대화하다, 극대화하다",
+   "2) (창을) 최대 크기로 키우다"
+  ],
+  "etym": "라틴어 maximus(가장 큰, magnus 큰의 최상급) + -ize(만들다) -> 'maximize'. magnus(큰)는 magnitude(4370)·magnify·major·maximum의 공통 뿌리. '최대치로 끌어올리다'가 핵심.",
+  "deriv": "maximus(가장 큰) -> 'maximize'. 한국 학습자 핵심: magnus(큰)계열 — magnify(확대)·magnitude(규모, 4370)·major(주요한)·maximum(최대)·maximize! 정반대 짝: maximize(극대화하다) ↔ minimize(최소화하다)! -ize(~화하다) 접미사 — maximize·minimize·realize·organize·optimize! maximize profit(이익을 극대화하다), maximize efficiency(효율을 극대화하다), maximize potential(잠재력을 최대화하다). 유의어 optimize(최적화하다)·increase(늘리다). 반대 minimize(최소화하다).",
+  "syn": [
+   "optimize(최적화하다)",
+   "increase(늘리다)",
+   "boost(증대시키다)"
+  ],
+  "anti": [
+   "minimize(최소화하다)",
+   "reduce(줄이다)"
+  ],
+  "idiom": [
+   "maximize profit(이익을 극대화하다)"
+  ],
+  "colloc": [
+   "maximize profit(이익을 극대화하다)",
+   "maximize efficiency(효율을 극대화하다)",
+   "maximize potential(잠재력을 최대화하다)"
+  ],
+  "ex_add": "The strategy aims to maximize profits.  (maximize=극대화하다)",
+  "ex_orig": "The stored data can be used to maximize the chance that the best channel to link with a given partner will be chosen first.",
+  "ex_src": "NEWS-EXCERPT"
+ },
+ {
+  "num": "4389",
+  "hw": "meaningful",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "의미(meaning)로 가득한 -> '의미 있는·뜻깊은'.",
+  "senses": [
+   "1) 의미 있는, 중요한",
+   "2) 뜻깊은, 진지한",
+   "3) (표정·몸짓이) 의미심장한"
+  ],
+  "etym": "mean(의미하다, 고대 영어 mænan) -> meaning(의미) + -ful(가득 찬) -> 'meaningful'. '의미가 충분히 담긴'이 핵심.",
+  "deriv": "mean(의미하다) -> meaning -> 'meaningful'. 한국 학습자 핵심: 정반대 짝 — meaningful(의미 있는) ↔ meaningless(무의미한, -less 없음)! -ful/-less 대조 — meaningful/meaningless·helpful/helpless·hopeful(4223)/hopeless·useful/useless! a meaningful relationship(의미 있는 관계), meaningful change(실질적 변화), a meaningful glance(의미심장한 시선, 4184 glance). 유의어 significant(중요한)·substantial(상당한)·profound(깊은). 반대 meaningless(무의미한)·trivial(사소한).",
+  "syn": [
+   "significant(중요한)",
+   "substantial(상당한)",
+   "profound(깊은)"
+  ],
+  "anti": [
+   "meaningless(무의미한)",
+   "trivial(사소한)",
+   "empty(공허한)"
+  ],
+  "idiom": [
+   "a meaningful relationship(의미 있는 관계)"
+  ],
+  "colloc": [
+   "meaningful relationship(의미 있는 관계)",
+   "meaningful change(실질적 변화)",
+   "meaningful dialogue(의미 있는 대화)"
+  ],
+  "ex_add": "They had a meaningful conversation.  (meaningful=의미 있는)",
+  "ex_orig": "A primary framework takes an individual's experience or an aspect of a scene that would originally be meaningless and makes it meaningful.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4390",
+  "hw": "meantime",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "그 중간(mean) 시간(time) -> '그동안·그사이'.",
+  "senses": [
+   "1) (in the meantime) 그동안에, 그사이에",
+   "2) 그러는 동안"
+  ],
+  "etym": "mean(중간의, 라틴어 medianus 가운데의) + time(시간)의 합성어 -> 'meantime'. mean(중간)은 medium(중간)·median(중앙값)·intermediate(4299)와 같은 뿌리. '두 시점 사이의 중간 시간'이 핵심.",
+  "deriv": "mean(중간) + time(시간) -> 'meantime'. 한국 학습자 핵심: 동의 표현 — in the meantime = meanwhile(그동안에)! mean이 '중간'을 뜻하는 가족 — mean(평균·중간)·median(중앙값)·medium(중간)·intermediate(중급, 4299)! 동음 주의: mean(의미하다/비열한/평균)의 다의성! in the meantime(그동안에), for the meantime(당분간). 유의어 meanwhile(그동안)·in the interim(그사이, 4297).",
+  "syn": [
+   "meanwhile(그동안)",
+   "interim(그사이)"
+  ],
+  "anti": [],
+  "idiom": [
+   "in the meantime(그동안에)",
+   "for the meantime(당분간)"
+  ],
+  "colloc": [
+   "in the meantime(그동안에)",
+   "for the meantime(당분간)"
+  ],
+  "ex_add": "The bus comes soon; in the meantime, let's wait here.  (in the meantime=그동안에)",
+  "ex_orig": "In the meantime the National Security League feels impelled to call public attention to our deplorable condition of unpreparedness.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4391",
+  "hw": "medieval",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "중간(medium) 시대(aevum)의 -> '중세의'.",
+  "senses": [
+   "1) 중세의, 중세 시대의",
+   "2) (구어) 매우 구식의, 시대에 뒤떨어진"
+  ],
+  "etym": "라틴어 medium(가운데) + aevum(시대·나이) -> medi aevum(중간 시대) -> medieval. medium(가운데)은 mediate(중재하다)·intermediate(4299)·median의 뿌리, aevum(시대)은 eternal(영원한, 4xxx)·age·ever의 뿌리. 고대와 근대 '사이' 시대.",
+  "deriv": "medium(가운데) + aevum(시대) -> 'medieval'. 한국 학습자 핵심: medium(가운데)계열 — medium(매체·중간)·median(중앙값)·mediate(중재하다)·intermediate(중급, 4299)·Mediterranean(지중해)·medieval! aevum(시대)계열 — eternal(영원한)·age(나이)·coeval(같은 시대의)! medieval times(중세 시대), medieval Europe(중세 유럽), a medieval castle(중세의 성), medieval history(중세사). 유의어 archaic(고대의). 반대 modern(현대의)·contemporary(현대의).",
+  "syn": [
+   "archaic(고대의)",
+   "old(옛)"
+  ],
+  "anti": [
+   "modern(현대의)",
+   "contemporary(현대의)"
+  ],
+  "idiom": [
+   "medieval times(중세 시대)"
+  ],
+  "colloc": [
+   "medieval times(중세 시대)",
+   "medieval Europe(중세 유럽)",
+   "medieval castle(중세의 성)"
+  ],
+  "ex_add": "The town has a beautiful medieval castle.  (medieval=중세의)",
+  "ex_orig": "It was given this status on 12 May 1970 and has been listed because it is \" a late Medieval church of exceptionally simple character \".",
+  "ex_src": "WIKI"
  }
 ]
