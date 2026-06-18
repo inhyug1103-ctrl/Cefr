@@ -1,0 +1,952 @@
+[
+ {
+  "num": "2242",
+  "hw": "accommodate",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "'치수에 꼭 맞춰' 수용하다·맞춰 주다.",
+  "senses": [
+   "1) 수용하다·(인원을) 들이다",
+   "2) (요구에) 맞춰 주다·부응하다",
+   "3) 숙박시키다"
+  ],
+  "etym": "라틴어 accommodare = ad(~에) + com(함께) + modus(치수·정도). '치수에 맞춤'이 핵심. ad-(~로)가 c 앞에서 ac-로 동화. modus(치수) 뿌리로 mode(방식)·modify(고치다)·moderate(알맞은)가 묶인다.",
+  "deriv": "ad(~에) + modus(치수) -> 'accommodate'. '수용하다(accommodate 200 guests)' -> '맞춰 주다(accommodate your needs)' -> '숙박시키다'. ad-가 ac-로 동화(ad+com -> accom). modus(치수) 뿌리로 mode·modify·moderate와 묶인다. accommodation(2243)이 명사. 한국 학습자: 철자 최다 오답 — accommodate(c 두 개, m 두 개!). accommodate A's needs(A의 요구를 들어주다). 'ad- 동화' 첫 예 — ad가 뒤 자음에 맞춰 ac-로 바뀜.",
+  "syn": ["house(수용하다)", "hold(수용하다)", "cater to(부응하다)"],
+  "anti": ["reject(거부하다)", "exclude(배제하다)"],
+  "idiom": ["accommodate someone's needs(요구에 맞추다)", "happy to accommodate(기꺼이 편의를 봐주다)"],
+  "colloc": ["accommodate guests(손님을 수용하다)", "accommodate needs(요구에 부응하다)", "easily accommodate(쉽게 수용하다)"],
+  "ex_add": "The hotel can accommodate up to 500 guests.  (accommodate=수용하다)"
+ },
+ {
+  "num": "2243",
+  "hw": "accommodation",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "묵을 '거처' = 숙박 시설.",
+  "senses": [
+   "1) 숙박 시설·거처",
+   "2) 수용 공간",
+   "3) (격식) 합의·절충"
+  ],
+  "etym": "accommodate(맞춰 주다, 라틴어 ad + modus 치수)의 명사형. modus(치수) 뿌리로 accommodate(2242)·mode·moderate와 묶인다.",
+  "deriv": "accommodate(수용하다) -> 'accommodation'. '숙박(find accommodation)' -> '수용 공간' -> '절충(reach an accommodation)'. modus(치수) 뿌리. 한국 학습자: 영국식 accommodation은 불가산명사(an accommodation X). 미국식은 accommodations(복수)로도. student accommodation(학생 기숙사), holiday accommodation(휴가 숙소), provide accommodation(숙소를 제공하다). 철자 c·m 둘씩 주의(2242와 동일). lodging·housing과 유의어.",
+  "syn": ["lodging(숙소)", "housing(주거)", "quarters(거처)"],
+  "anti": [],
+  "idiom": ["student accommodation(학생 숙소)", "reach an accommodation(절충에 이르다)"],
+  "colloc": ["find accommodation(숙소를 구하다)", "temporary accommodation(임시 거처)", "overnight accommodation(1박 숙소)"],
+  "ex_add": "The price includes flights and accommodation.  (accommodation=숙박)"
+ },
+ {
+  "num": "2244",
+  "hw": "accompany",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "'빵을 함께 나누듯' 곁에 따라가다 = 동행하다.",
+  "senses": [
+   "1) 동행하다·~와 함께 가다",
+   "2) (~에) 수반되다·딸리다",
+   "3) (음악) 반주하다"
+  ],
+  "etym": "고대 프랑스어 accompagnier = ad(~로) + companion(동무). companion은 라틴어 com(함께) + panis(빵) — '빵을 함께 먹는 사이'. company(회사·동행)·companion(동무)·panis(빵)가 한 뿌리. ad-가 ac-로 동화.",
+  "deriv": "ad + companion(빵 나누는 이) -> 'accompany'. '동행하다(accompany someone)' -> '수반되다(thunder accompanied by lightning)' -> '반주하다'. panis(빵) 뿌리로 company·companion과 묶인다 — '함께 빵 먹는 사이'가 동행. accompaniment(반주)가 명사. 한국 학습자: be accompanied by(~을 동반하다·~가 따라붙다), accompany는 전치사 없이 바로 목적어(accompany *with* X). company(1)·companion(동무)과 한 가족.",
+  "syn": ["go with(동행하다)", "escort(호위하다)", "come with(딸리다)"],
+  "anti": ["leave(떠나다)", "abandon(버리다)"],
+  "idiom": ["be accompanied by(~을 동반하다)", "accompanied by(~가 따라붙은)"],
+  "colloc": ["accompany someone(~와 동행하다)", "accompanied by(~을 동반한)", "must be accompanied(동반되어야 한다)"],
+  "ex_add": "Children must be accompanied by an adult.  (be accompanied by=~을 동반하다)"
+ },
+ {
+  "num": "2245",
+  "hw": "accomplish",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "끝까지 '꽉 채워' 해내다 = 성취하다.",
+  "senses": [
+   "1) (목표를) 성취하다·해내다",
+   "2) (일을) 완수하다·이루다",
+   "3) 달성하다"
+  ],
+  "etym": "고대 프랑스어 acomplir = ad(완전히) + complere(채우다) = com(완전히) + plere(채우다). '끝까지 채워 완성함'이 핵심. ad-가 ac-로 동화. plere(채우다) 뿌리로 complete(완성하다)·supply(공급, 2134)·plenty(풍부, 1948)가 묶인다.",
+  "deriv": "ad + complere(채우다) -> 'accomplish'. '성취하다(accomplish a goal)'. plere(채우다) 뿌리로 complete·supply·plenty와 묶인다 — 같은 plere를 supply에서 봤음. accomplishment(성취·업적)·accomplished(기량이 뛰어난)가 파생. 한국 학습자: accomplish a task/goal(과업·목표를 달성하다), mission accomplished(임무 완수), an accomplished pianist(기량이 뛰어난 피아니스트). achieve(1478)와 유의어 — accomplish는 '계획한 일을 완수'에 방점.",
+  "syn": ["achieve(달성하다)", "complete(완수하다)", "fulfill(이루다)"],
+  "anti": ["fail(실패하다)", "abandon(포기하다)"],
+  "idiom": ["mission accomplished(임무 완수)", "accomplish a goal(목표를 달성하다)"],
+  "colloc": ["accomplish a task(과업을 완수하다)", "accomplish a goal(목표를 이루다)", "successfully accomplish(성공적으로 해내다)"],
+  "ex_add": "She accomplished her goal of running a marathon.  (accomplish=성취하다)"
+ },
+ {
+  "num": "2246",
+  "hw": "account",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "'헤아려 셈한' 계좌·장부 -> 설명·이유.",
+  "senses": [
+   "1) 계좌·거래 계정",
+   "2) 설명·진술·기술",
+   "3) (회계) 장부 / (account for) 설명하다·차지하다"
+  ],
+  "etym": "고대 프랑스어 acont = ad(~로) + conter(세다) < 라틴어 computare(셈하다). '헤아려 셈함'이 핵심. ad-가 ac-로 동화. computare 뿌리로 count(세다, 1625)·compute(계산하다)가 묶인다.",
+  "deriv": "ad + computare(셈하다) -> 'account'. '계좌(a bank account)' -> '설명(an eyewitness account, 목격담)' -> 'account for(~을 설명하다·차지하다)'. computare 뿌리로 count(1625)·compute와 묶인다. accountant(회계사, 2247)·accountable(책임 있는)이 파생. 한국 학습자: account for(~을 설명하다 / ~을 차지하다, account for 30%), take ~ into account(~을 고려하다), on account of(~ 때문에), on no account(절대 안 됨). bank account(은행 계좌).",
+  "syn": ["record(기록)", "report(설명)", "ledger(장부)"],
+  "anti": [],
+  "idiom": ["account for(~을 설명하다·차지하다)", "take into account(고려하다)", "on account of(~ 때문에)", "on no account(결코 ~안 됨)"],
+  "colloc": ["bank account(은행 계좌)", "detailed account(상세한 설명)", "take into account(고려하다)"],
+  "ex_add": "We must take the cost into account.  (take into account=고려하다)"
+ },
+ {
+  "num": "2247",
+  "hw": "accountant",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "셈·장부를 맡는 사람 = 회계사.",
+  "senses": [
+   "1) 회계사·경리",
+   "2) 회계 담당자",
+   "3) 세무 대리인"
+  ],
+  "etym": "account(셈하다, 라틴어 computare 셈하다) + -ant(~하는 사람). computare 뿌리로 account(2246)·count(1625)·compute와 묶인다.",
+  "deriv": "account(셈) -> 'accountant(회계사)'. computare 뿌리로 count·account와 묶인다. -ant(행위자: assistant, applicant, accountant)가 붙은 직업명. 한국 학습자: a chartered accountant(공인회계사, 영국 CA), a certified public accountant(공인회계사, 미국 CPA), a tax accountant(세무사). accounting(회계학)·accountancy(회계 업무)가 관련어. -ant/-ent 행위자 접미사 무리. account(2246)와 짝.",
+  "syn": ["bookkeeper(부기 담당자)", "auditor(회계 감사인)"],
+  "anti": [],
+  "idiom": ["a chartered accountant(공인회계사)", "a certified public accountant(미국 공인회계사 CPA)"],
+  "colloc": ["chartered accountant(공인회계사)", "tax accountant(세무사)", "hire an accountant(회계사를 고용하다)"],
+  "ex_add": "Our accountant handles all the company's taxes.  (accountant=회계사)"
+ },
+ {
+  "num": "2248",
+  "hw": "accuracy",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "꼼꼼히 '정성 들인' 정확함·정밀도.",
+  "senses": [
+   "1) 정확(성)·정확도",
+   "2) 정밀함",
+   "3) 적중률"
+  ],
+  "etym": "라틴어 accuratus(공들인) = ad(~에) + cura(주의·정성). '정성을 다해 꼼꼼히 함'이 핵심. ad-가 ac-로 동화. cura(돌봄) 뿌리로 cure(치료)·secure(안전한)·security(보안, 2068)·curious(궁금한)가 묶인다.",
+  "deriv": "ad(~에) + cura(정성) -> accurate -> 'accuracy'. '정확성(with great accuracy)'. cura(돌봄) 뿌리로 cure·secure·security(2068)·curious와 묶인다 — 같은 cura를 security에서 봤음. accurate(정확한, 2249)가 형용사. 한국 학습자: accuracy(정확성)와 precision(정밀성)의 미묘한 차이 — accuracy는 '참값에 가까움', precision은 '일관됨'. with accuracy(정확하게), pinpoint accuracy(정밀 적중). cura(정성)가 정확함의 어원.",
+  "syn": ["precision(정밀성)", "correctness(정확함)", "exactness(엄밀함)"],
+  "anti": ["inaccuracy(부정확)", "error(오류)"],
+  "idiom": ["with accuracy(정확하게)", "pinpoint accuracy(정밀 적중)", "a high degree of accuracy(높은 정확도)"],
+  "colloc": ["high accuracy(높은 정확도)", "improve accuracy(정확도를 높이다)", "accuracy and speed(정확성과 속도)"],
+  "ex_add": "The machine measures with great accuracy.  (accuracy=정확성)"
+ },
+ {
+  "num": "2249",
+  "hw": "accurate",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "꼼꼼히 '공들여' 정확한·틀림없는.",
+  "senses": [
+   "1) 정확한·틀림없는",
+   "2) 정밀한",
+   "3) (조준이) 명중하는"
+  ],
+  "etym": "라틴어 accuratus = ad(~에) + cura(정성). '정성껏 공들인'이 핵심. cura(돌봄) 뿌리로 accuracy(2248)·cure·secure·security(2068)와 묶인다.",
+  "deriv": "ad + cura(정성) -> 'accurate'. '정확한(accurate measurements)'. cura(돌봄) 뿌리로 accuracy·security·cure와 묶인다. accurately(정확히, 2250)가 부사. 한국 학습자: accurate(정확한)와 correct(맞는)·exact(엄밀한)·precise(정밀한)의 결 차이. an accurate description(정확한 묘사), highly accurate(매우 정확한), accurate to within(~ 오차 범위 내로 정확한). inaccurate(부정확한)가 반의. accuracy(명사)/accurate(형용사)/accurately(부사) 가족.",
+  "syn": ["correct(맞는)", "precise(정밀한)", "exact(엄밀한)"],
+  "anti": ["inaccurate(부정확한)", "wrong(틀린)", "imprecise(부정확한)"],
+  "idiom": ["accurate to within(~ 이내로 정확한)", "an accurate account(정확한 설명)"],
+  "colloc": ["accurate information(정확한 정보)", "highly accurate(매우 정확한)", "accurate measurement(정확한 측정)"],
+  "ex_add": "Make sure your figures are accurate.  (accurate=정확한)"
+ },
+ {
+  "num": "2250",
+  "hw": "accurately",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "공들여 틀림없이 = 정확하게.",
+  "senses": [
+   "1) 정확하게·틀림없이",
+   "2) 정밀하게",
+   "3) 제대로·있는 그대로"
+  ],
+  "etym": "accurate(정확한, 라틴어 ad + cura 정성) + -ly. cura(돌봄) 뿌리로 accuracy(2248)·accurate(2249)·security(2068)와 묶인다.",
+  "deriv": "accurate(정확한) -> 'accurately'. '정확하게(accurately predict, 정확히 예측하다)'. cura(정성) 뿌리. 한국 학습자: accurately describe/measure/predict/reflect(정확히 묘사/측정/예측/반영하다), more accurately(더 정확히 말하면). correctly(올바르게)·precisely(정밀하게)와 유의어. accuracy/accurate/accurately 가족으로 정리. inaccurately(부정확하게)가 반의.",
+  "syn": ["correctly(올바르게)", "precisely(정밀하게)", "exactly(정확히)"],
+  "anti": ["inaccurately(부정확하게)", "wrongly(틀리게)"],
+  "idiom": ["more accurately(더 정확히 말하면)", "accurately reflect(정확히 반영하다)"],
+  "colloc": ["accurately describe(정확히 묘사하다)", "accurately measure(정확히 측정하다)", "accurately predict(정확히 예측하다)"],
+  "ex_add": "It's hard to accurately predict the weather.  (accurately=정확하게)"
+ },
+ {
+  "num": "2251",
+  "hw": "accuse",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "잘못의 '책임을 씌워' 비난·고발하다.",
+  "senses": [
+   "1) 비난하다·탓하다",
+   "2) 고발하다·기소하다",
+   "3) (accuse of) ~의 혐의를 씌우다"
+  ],
+  "etym": "라틴어 accusare = ad(~로) + causa(이유·소송). '소송 거리를 들이댐'이 핵심. ad-가 ac-로 동화. causa(원인·소송) 뿌리로 cause(원인)·excuse(변명)·because(~ 때문에)가 묶인다.",
+  "deriv": "ad + causa(소송) -> 'accuse'. '비난하다·고발하다(accuse him of lying)'. causa(원인) 뿌리로 cause·excuse·because와 묶인다. accusation(비난·고발)·the accused(피고인)가 파생. 한국 학습자 핵심: accuse A of B(A를 B의 혐의로 비난/고발하다, of + 명사/동명사!). be accused of(~의 혐의를 받다), the accused(피고인). blame A for B(B로 A를 탓하다)와 전치사 구별 — accuse는 of. defend(변호하다)가 반의.",
+  "syn": ["blame(탓하다)", "charge(고발하다)", "indict(기소하다)"],
+  "anti": ["defend(변호하다)", "exonerate(무죄를 입증하다)"],
+  "idiom": ["accuse A of B(A를 B의 혐의로 비난하다)", "the accused(피고인)", "be accused of(~의 혐의를 받다)"],
+  "colloc": ["accuse of(~의 혐의로 비난하다)", "falsely accuse(누명을 씌우다)", "accuse someone of theft(절도로 고발하다)"],
+  "ex_add": "They accused him of stealing the money.  (accuse A of B=A를 B의 혐의로 비난하다)"
+ },
+ {
+  "num": "2252",
+  "hw": "acknowledge",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "사실임을 '알고 있다고' 인정하다·받았음을 알리다.",
+  "senses": [
+   "1) (사실을) 인정하다·시인하다",
+   "2) (받았음을) 알리다·확인하다",
+   "3) (공로를) 인정하다·감사를 표하다"
+  ],
+  "etym": "ac(=ad, ~로) + knowledge(앎). '알고 있음을 드러냄'이 핵심. know(알다)·knowledge(지식)와 한 가족. ad-가 ac-로 동화. (knowledge의 k는 묵음.)",
+  "deriv": "ad + knowledge(앎) -> 'acknowledge'. '인정하다(acknowledge a mistake)' -> '수령을 알리다(acknowledge receipt, 받았음을 확인하다)' -> '공로를 인정하다'. know(알다) 뿌리. acknowledgement(인정·감사)가 명사. 한국 학습자: acknowledge that ~(~을 인정하다), acknowledge V-ing(~했음을 인정하다), be widely acknowledged as(~로 널리 인정받다), acknowledge receipt(수령 확인). admit(1484)과 유의어. 철자 주의 — ac-know-ledge(k 묵음).",
+  "syn": ["admit(인정하다)", "recognize(인정하다)", "concede(시인하다)"],
+  "anti": ["deny(부인하다)", "ignore(무시하다)"],
+  "idiom": ["acknowledge receipt(수령을 확인하다)", "widely acknowledged(널리 인정받는)", "acknowledge defeat(패배를 인정하다)"],
+  "colloc": ["acknowledge a mistake(실수를 인정하다)", "widely acknowledged(널리 인정되는)", "acknowledge that(~을 인정하다)"],
+  "ex_add": "He acknowledged that he had made a mistake.  (acknowledge that ~=~을 인정하다)"
+ },
+ {
+  "num": "2253",
+  "hw": "acquire",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "구해서 '손에 넣다' = 습득·취득하다.",
+  "senses": [
+   "1) (지식·기술을) 습득하다·익히다",
+   "2) (재산·기업을) 취득하다·인수하다",
+   "3) 얻다·획득하다"
+  ],
+  "etym": "라틴어 acquirere = ad(~에 더해) + quaerere(구하다·찾다). '구해서 보태 가짐'이 핵심. ad-가 ac-로 동화. quaerere(구하다) 뿌리로 require(2039)·request(2038)·question·inquire가 묶인다.",
+  "deriv": "ad + quaerere(구하다) -> 'acquire'. 지식 '습득하다(acquire a skill)' -> 기업 '인수하다(acquire a company)'. quaerere(구하다) 뿌리로 require·request·question과 묶인다 — 같은 quaerere를 require·request에서 봤음. acquisition(습득·인수)·acquired(후천적인)가 파생. 한국 학습자: acquire a taste for(~을 좋아하게 되다), an acquired taste(차차 좋아지는 것), acquire knowledge(지식을 얻다). obtain·gain과 유의어이나 acquire가 더 격식. 발음 /əˈkwaɪə/.",
+  "syn": ["obtain(얻다)", "gain(획득하다)", "attain(습득하다)"],
+  "anti": ["lose(잃다)", "sell(매각하다)", "give up(포기하다)"],
+  "idiom": ["acquire a taste for(~을 좋아하게 되다)", "an acquired taste(차츰 좋아지는 것)", "acquire knowledge(지식을 습득하다)"],
+  "colloc": ["acquire a skill(기술을 습득하다)", "acquire a company(회사를 인수하다)", "acquire knowledge(지식을 얻다)"],
+  "ex_add": "It takes time to acquire a new language.  (acquire=습득하다)"
+ },
+ {
+  "num": "2254",
+  "hw": "acre",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "땅 넓이 단위 '에이커' (약 4,047㎡).",
+  "senses": [
+   "1) 에이커(넓이 단위)",
+   "2) (acres of) 드넓은 ~",
+   "3) 경작지"
+  ],
+  "etym": "고대 영어 æcer(밭·경작지). 본래 '소 한 마리가 하루에 갈 수 있는 밭'에서 넓이 단위로. 라틴어 ager(밭)·agriculture(농업, 2274)와 한 뿌리. '갈아 놓은 들'이 핵심.",
+  "deriv": "æcer(밭) -> 'acre'. 단위 '에이커' -> 'acres of(드넓은, acres of land)'. ager(밭) 뿌리로 agriculture(2274)·agrarian(농업의)과 묶인다. 한국 학습자: 1 acre ≈ 4,047㎡ ≈ 1,224평. acres of(끝없이 펼쳐진), God's acre(교회 묘지), a hundred-acre farm(100에이커 농장). 미터법의 hectare(헥타르, 10,000㎡)와 함께 넓이 단위. agriculture(2274)와 어원 ager(밭)로 묶임.",
+  "syn": ["plot(부지)", "land(토지)"],
+  "anti": [],
+  "idiom": ["acres of(드넓은)", "God's acre(교회 묘지)"],
+  "colloc": ["several acres(여러 에이커)", "acres of land(드넓은 땅)", "ten-acre farm(10에이커 농장)"],
+  "ex_add": "They own a hundred acres of farmland.  (acre=에이커)"
+ },
+ {
+  "num": "2255",
+  "hw": "activate",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "'작동하게 만들어' 활성화·작동시키다.",
+  "senses": [
+   "1) 작동시키다·가동하다",
+   "2) (기능·계정을) 활성화하다",
+   "3) (화학·생물) 활성화시키다"
+  ],
+  "etym": "active(활동적인) + -ate. active < 라틴어 actus < agere(하다·움직이다). '움직이게 만듦'이 핵심. agere(하다) 뿌리로 act(행동, 1479)·agent(대리인, 1489)·agenda(2272)·agency(2271)·react가 묶인다.",
+  "deriv": "agere(하다) -> active -> 'activate'. '작동시키다(activate the alarm)' -> '활성화하다(activate your account)'. agere(하다) 뿌리로 act(1479)·agent(1489)·agenda(2272)·agency(2271)와 묶인다 — 거대한 agere 가족. activation(활성화)이 명사. 한국 학습자: activate an account/card(계정·카드를 활성화하다), activate a feature(기능을 켜다). deactivate(비활성화하다)가 반의. agere 가족이 이 배치에 집중됨(activate/actual/agency/agenda).",
+  "syn": ["trigger(작동시키다)", "switch on(켜다)", "turn on(가동하다)"],
+  "anti": ["deactivate(비활성화하다)", "switch off(끄다)"],
+  "idiom": ["activate an account(계정을 활성화하다)", "activate the alarm(경보를 작동시키다)"],
+  "colloc": ["activate a feature(기능을 활성화하다)", "activate the system(시스템을 가동하다)", "automatically activate(자동으로 작동하다)"],
+  "ex_add": "Press this button to activate the alarm.  (activate=작동시키다)"
+ },
+ {
+  "num": "2256",
+  "hw": "actual",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "실제로 '벌어지는' = 실제의·사실상의.",
+  "senses": [
+   "1) 실제의·현실의",
+   "2) 사실상의·정확히 말하면",
+   "3) (the actual) 바로 그~"
+  ],
+  "etym": "라틴어 actualis < actus < agere(하다·움직이다). '실제로 행해지는'이 핵심. agere(하다) 뿌리로 act(1479)·agent(1489)·activate(2255)·agency(2271)가 묶인다.",
+  "deriv": "agere(하다) -> actualis -> 'actual'. '실제의(the actual cost, 실제 비용)' -> '사실상의'. agere 뿌리로 act·activate·agency와 묶인다. actually(실제로, 사실은)가 부사. 한국 학습자 핵심 주의: actual/actually는 '현재의(X)'가 아니라 '실제의·사실은'! 현재는 current(1636)/present. in actual fact(실제로는), the actual figure(실제 수치). real(실재의)과 유의어이나 actual은 '예상·말과 대비되는 실제'에 방점.",
+  "syn": ["real(실제의)", "genuine(진짜의)", "true(참된)"],
+  "anti": ["imaginary(상상의)", "theoretical(이론상의)", "potential(잠재적인)"],
+  "idiom": ["in actual fact(실제로는)", "the actual thing(실물)"],
+  "colloc": ["actual cost(실제 비용)", "actual number(실제 수치)", "in actual fact(사실은)"],
+  "ex_add": "The actual cost was higher than the estimate.  (actual=실제의)"
+ },
+ {
+  "num": "2257",
+  "hw": "adapt",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "상황에 '꼭 맞게' 적응·각색하다.",
+  "senses": [
+   "1) (~에) 적응하다·맞추다",
+   "2) 개조하다·조정하다",
+   "3) (작품을) 각색하다"
+  ],
+  "etym": "라틴어 adaptare = ad(~에) + aptus(꼭 맞는). '~에 꼭 맞춤'이 핵심. aptus(맞는) 뿌리로 apt(적절한)·attitude(태도, 1517)·aptitude(소질)가 묶인다.",
+  "deriv": "ad(~에) + aptus(맞는) -> 'adapt'. '적응하다(adapt to change)' -> '개조하다(adapt a tool)' -> '각색하다(adapt a novel for film)'. aptus(맞는) 뿌리로 apt·attitude(1517)·aptitude와 묶인다 — 같은 aptus를 attitude에서 봤음. adaptation(적응·각색)·adaptable(적응력 있는)이 파생. 한국 학습자: adapt to(~에 적응하다, 자동사), adapt A for/to B(A를 B에 맞게 고치다). adopt(채택하다, 2265)와 철자 혼동 주의 — adapt(맞추다)/adopt(택하다)! adaptor(어댑터)도.",
+  "syn": ["adjust(조정하다)", "modify(수정하다)", "acclimatize(적응시키다)"],
+  "anti": ["resist(거부하다)"],
+  "idiom": ["adapt to(~에 적응하다)", "adapt A for B(A를 B에 맞게 고치다)", "adapt or die(적응 못 하면 도태된다)"],
+  "colloc": ["adapt to change(변화에 적응하다)", "adapt quickly(빨리 적응하다)", "adapt a novel(소설을 각색하다)"],
+  "ex_add": "Animals must adapt to their environment.  (adapt to=~에 적응하다)"
+ },
+ {
+  "num": "2258",
+  "hw": "addiction",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "끊지 못하게 '얽매인' 중독.",
+  "senses": [
+   "1) 중독·의존",
+   "2) (~ 없이는 못 사는) 탐닉",
+   "3) 인이 박임"
+  ],
+  "etym": "라틴어 addicere = ad(~에게) + dicere(말하다·선고하다). 본래 '~에게 넘겨주도록 선고함 -> 얽매임'이 핵심. dicere(말하다) 뿌리로 dictate(받아쓰게 하다)·predict(예언하다)·indicate(1813)가 묶인다.",
+  "deriv": "ad + dicere(선고하다) -> addict -> 'addiction'. '중독(drug addiction)' -> '탐닉(addiction to social media)'. dicere(말하다) 뿌리로 dictate·predict·indicate와 묶인다. addict(중독자)·addictive(중독성의)·addicted(중독된)가 파생. 한국 학습자: addiction to(~ 중독), be addicted to(~에 중독되다), drug/alcohol addiction(약물/알코올 중독), a highly addictive drug(중독성 강한 약물). -ed/-ive — addicted(중독된, 사람)/addictive(중독성의, 대상).",
+  "syn": ["dependence(의존)", "habit(습관)", "craving(갈망)"],
+  "anti": ["abstinence(절제)", "recovery(회복)"],
+  "idiom": ["addiction to(~에 대한 중독)", "feed an addiction(중독을 부추기다)", "kick an addiction(중독을 끊다)"],
+  "colloc": ["drug addiction(약물 중독)", "alcohol addiction(알코올 중독)", "overcome addiction(중독을 극복하다)"],
+  "ex_add": "He sought help for his gambling addiction.  (addiction=중독)"
+ },
+ {
+  "num": "2259",
+  "hw": "additional",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "기존에 '더 보탠' = 추가의·부가적인.",
+  "senses": [
+   "1) 추가의·부가적인",
+   "2) 여분의·별도의",
+   "3) 그 밖의"
+  ],
+  "etym": "addition(추가, 1481) + -al. addition < 라틴어 ad(~에) + dare(주다). '더 보태 줌'이 핵심. dare(주다) 뿌리로 add(더하다)·addition(1481)·data·donate(1667)·editor(1682)가 묶인다.",
+  "deriv": "ad + dare(주다) -> addition -> 'additional'. '추가의(additional cost, 추가 비용)'. dare(주다) 뿌리로 add·addition(1481)·data·donate와 묶인다 — 같은 dare를 addition·donate에서 봤음. additionally(게다가, 2260)가 부사. 한국 학습자: additional information/cost/charge(추가 정보/비용/요금), at no additional cost(추가 비용 없이), require additional(추가로 필요로 하다). extra(여분의, 1725)와 유의어이나 additional이 더 격식. add/addition/additional/additionally 가족.",
+  "syn": ["extra(추가의)", "supplementary(보충의)", "further(추가의)"],
+  "anti": ["fewer(더 적은)", "no extra(추가 없는)"],
+  "idiom": ["at no additional cost(추가 비용 없이)", "additional information(추가 정보)"],
+  "colloc": ["additional cost(추가 비용)", "additional information(추가 정보)", "additional support(추가 지원)"],
+  "ex_add": "There is no additional charge for delivery.  (additional=추가의)"
+ },
+ {
+  "num": "2260",
+  "hw": "additionally",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "그 위에 더하여 = 게다가·추가로.",
+  "senses": [
+   "1) 게다가·더욱이",
+   "2) 추가로·덧붙여",
+   "3) 그 밖에"
+  ],
+  "etym": "additional(추가의, 라틴어 ad + dare 주다) + -ly. dare(주다) 뿌리로 addition(1481)·additional(2259)·donate(1667)와 묶인다.",
+  "deriv": "additional(추가의) -> 'additionally'. 문장 연결 'Additionally, ~(게다가)' -> '추가로'. dare(주다) 뿌리. 한국 학습자: additionally는 정보를 덧붙이는 격식 연결어 — moreover·furthermore·in addition(1481)과 유의어. 보통 문두에서 새 정보를 추가. Additionally, the price includes tax(게다가 가격에 세금이 포함된다). 글쓰기에서 논점을 더할 때 자주. add/addition/additional/additionally 가족 완성.",
+  "syn": ["moreover(게다가)", "furthermore(더욱이)", "in addition(덧붙여)"],
+  "anti": [],
+  "idiom": ["additionally, ~(게다가)", "in addition(덧붙여)"],
+  "colloc": ["additionally provide(추가로 제공하다)", "additionally require(추가로 요구하다)", "additionally offer(덧붙여 제공하다)"],
+  "ex_add": "Additionally, all guests receive a free drink.  (additionally=게다가)"
+ },
+ {
+  "num": "2261",
+  "hw": "address",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "'~로 곧장 향하게' 함 -> 주소·연설 / 다루다.",
+  "senses": [
+   "1) 주소 / 이메일 주소",
+   "2) 연설·강연",
+   "3) (동사) (문제를) 다루다·(~에게) 말을 걸다·연설하다"
+  ],
+  "etym": "고대 프랑스어 adresser = ad(~로) + dresser(곧게 하다·향하게 하다) < 라틴어 directus(곧은). '~로 곧장 향하게 함'이 핵심. directus 뿌리로 direct(1658)·dress(1670)가 묶인다. ad-가 그대로 유지(d 앞).",
+  "deriv": "ad + directus(곧은) -> 'address'. '주소(home address)' -> '연설(give an address)' -> 동사 '문제를 다루다(address the issue)·~에게 말하다(address the audience)'. directus 뿌리로 direct·dress와 묶인다. 한국 학습자: address가 '주소·연설·다루다·말 걸다' 다의어. address an issue/problem(문제를 다루다, deal with), the keynote address(기조연설), forms of address(호칭). 발음 — 명사 미국식 /ˈædres/, 동사 /əˈdres/.",
+  "syn": ["tackle(다루다)", "speech(연설)", "deal with(처리하다)"],
+  "anti": ["ignore(무시하다)", "avoid(회피하다)"],
+  "idiom": ["address an issue(문제를 다루다)", "a keynote address(기조연설)", "forms of address(경칭·호칭)"],
+  "colloc": ["home address(집 주소)", "address a problem(문제를 다루다)", "public address(공개 연설)"],
+  "ex_add": "The government must address the housing crisis.  (address=다루다)"
+ },
+ {
+  "num": "2262",
+  "hw": "adequate",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "필요에 '맞먹을' 만큼 = 충분한·적절한.",
+  "senses": [
+   "1) (필요를 채울 만큼) 충분한",
+   "2) 적절한·알맞은",
+   "3) 그런대로 괜찮은"
+  ],
+  "etym": "라틴어 adaequatus = ad(~에) + aequus(같은·고른). '필요에 맞먹는'이 핵심. aequus(고른) 뿌리로 equal(같은)·equally(1707)·equator(적도)·equation(방정식)이 묶인다.",
+  "deriv": "ad(~에) + aequus(같은) -> 'adequate'. '충분한(adequate supplies)' -> '적절한(adequate for the task)'. aequus(고른) 뿌리로 equal·equally(1707)·equation과 묶인다 — 같은 aequus를 equally에서 봤음. adequately(적절히, 2263)가 부사. 한국 학습자: adequate for(~에 충분한), adequate to V, more than adequate(차고 넘치는). enough보다 격식이고 '딱 필요한 만큼'의 뉘앙스(때로 '그저 그런'). inadequate(불충분한)가 반의. sufficient와 유의어.",
+  "syn": ["sufficient(충분한)", "enough(충분한)", "satisfactory(만족스러운)"],
+  "anti": ["inadequate(불충분한)", "insufficient(부족한)"],
+  "idiom": ["adequate for(~에 충분한)", "more than adequate(차고 넘치는)"],
+  "colloc": ["adequate supply(충분한 공급)", "adequate funding(충분한 자금)", "barely adequate(겨우 충분한)"],
+  "ex_add": "The lighting in here is not adequate for reading.  (adequate=충분한)"
+ },
+ {
+  "num": "2263",
+  "hw": "adequately",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "필요에 맞먹게 = 충분히·적절히.",
+  "senses": [
+   "1) 충분히·넉넉하게",
+   "2) 적절히·제대로",
+   "3) 그런대로"
+  ],
+  "etym": "adequate(충분한, 라틴어 ad + aequus 같은) + -ly. aequus(고른) 뿌리로 adequate(2262)·equal·equally(1707)와 묶인다.",
+  "deriv": "adequate(충분한) -> 'adequately'. '충분히(adequately prepared, 충분히 준비된)'. aequus(고른) 뿌리. 한국 학습자: adequately + 과거분사(adequately funded/trained/equipped, 충분히 자금/훈련/장비가 갖춰진), not adequately(제대로 ~ 못한). sufficiently·properly(1992)와 유의어. inadequately(불충분하게)가 반의. adequate/adequately 가족. 격식체로 '제대로·충분히'.",
+  "syn": ["sufficiently(충분히)", "properly(제대로)", "satisfactorily(만족스럽게)"],
+  "anti": ["inadequately(불충분하게)", "poorly(부실하게)"],
+  "idiom": ["adequately prepared(충분히 준비된)", "adequately funded(충분히 지원받는)"],
+  "colloc": ["adequately funded(충분히 자금 지원되는)", "adequately trained(제대로 훈련된)", "not adequately(제대로 ~못한)"],
+  "ex_add": "The team was not adequately prepared for the game.  (adequately=충분히)"
+ },
+ {
+  "num": "2264",
+  "hw": "adjust",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "'딱 맞게' 바로잡다·조절하다 -> 적응하다.",
+  "senses": [
+   "1) 조절하다·조정하다·바로잡다",
+   "2) (~에) 적응하다·익숙해지다",
+   "3) (수치를) 조정하다"
+  ],
+  "etym": "고대 프랑스어 ajuster = ad(~에) + juste(정확한) < 라틴어 justus(올바른). '올바르게 맞춤'이 핵심. justus(올바른) 뿌리로 just(정당한)·justice(정의)·adjust·injure(1819)가 묶인다.",
+  "deriv": "ad(~에) + justus(올바른) -> 'adjust'. '조절하다(adjust the volume)' -> '적응하다(adjust to a new job)'. justus(올바른) 뿌리로 just·justice·injure와 묶인다. adjustment(조정)·adjustable(조절 가능한)이 파생. 한국 학습자: adjust to(~에 적응하다, 자동사), adjust A to B(A를 B에 맞추다), make adjustments(조정하다), adjust accordingly(그에 맞춰 조정하다). adapt(2257)와 유의어 — adjust는 '미세 조정', adapt는 '근본적 적응'. adapt(맞추다)/adopt(택하다)/adjust(조절하다) 셋 구별.",
+  "syn": ["modify(수정하다)", "regulate(조절하다)", "adapt(적응하다)"],
+  "anti": ["leave(그대로 두다)", "maintain(유지하다)"],
+  "idiom": ["adjust to(~에 적응하다)", "make adjustments(조정하다)", "adjust accordingly(그에 맞게 조정하다)"],
+  "colloc": ["adjust the temperature(온도를 조절하다)", "adjust to change(변화에 적응하다)", "easily adjust(쉽게 조정하다)"],
+  "ex_add": "It took her a while to adjust to city life.  (adjust to=~에 적응하다)"
+ },
+ {
+  "num": "2265",
+  "hw": "adopt",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "골라서 '제 것으로 택하다' -> 입양하다.",
+  "senses": [
+   "1) (방법·태도를) 채택하다·취하다",
+   "2) 입양하다",
+   "3) (안건을) 채택·승인하다"
+  ],
+  "etym": "라틴어 adoptare = ad(~로) + optare(고르다·바라다). '골라서 받아들임'이 핵심. optare(고르다) 뿌리로 option(선택)·opt(택하다)·optional(선택의)이 묶인다.",
+  "deriv": "ad + optare(고르다) -> 'adopt'. '채택하다(adopt a method)' -> '입양하다(adopt a child)' -> '승인하다(adopt a resolution)'. optare(고르다) 뿌리로 option·opt·optional과 묶인다. adoption(채택·입양)·adopted(입양된)·adoptive(입양한)가 파생. 한국 학습자 핵심: adopt(채택·입양하다)와 adapt(맞추다·적응하다, 2257)를 철자 때문에 혼동! adopt an approach(접근법을 취하다), adopt a child(아이를 입양하다), an adopted son(양자). adapt/adopt/adjust 셋을 함께 정리.",
+  "syn": ["take up(채택하다)", "embrace(받아들이다)", "take in(입양하다)"],
+  "anti": ["reject(거부하다)", "abandon(버리다)"],
+  "idiom": ["adopt an approach(접근법을 취하다)", "adopt a stance(입장을 취하다)", "an adopted child(입양아)"],
+  "colloc": ["adopt a method(방법을 채택하다)", "adopt a child(아이를 입양하다)", "adopt a policy(정책을 채택하다)"],
+  "ex_add": "The company adopted a new marketing strategy.  (adopt=채택하다)"
+ },
+ {
+  "num": "2266",
+  "hw": "advance",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "'앞으로 나아감' = 전진·발전 / 미리.",
+  "senses": [
+   "1) (동사) 전진하다·발전시키다",
+   "2) (n.) 진전·발전·약진",
+   "3) (형) 사전의·선불의 / (in advance) 미리"
+  ],
+  "etym": "고대 프랑스어 avancier < 라틴어 abante = ab(~로부터) + ante(앞). '앞으로 나아감'이 핵심. advanced(고급의, 1485)·advantage(이점)·ante(앞)가 같은 뿌리. (어두 ad-는 후대에 잘못 붙은 것.)",
+  "deriv": "ab + ante(앞) -> 'advance'. 동사 '전진하다(advance toward)·발전시키다(advance science)' -> 명사 '진전(medical advances)' -> 'in advance(미리)·an advance(선금)'. advanced(1485)·advantage와 묶인다. advancement(발전)이 파생. 한국 학습자: in advance(미리, book in advance 미리 예약하다), advance notice/payment(사전 통지/선불), make advances(진척을 보이다·수작을 걸다), advance warning(사전 경고). 명사·동사 같은 형태(강세 동일).",
+  "syn": ["progress(진전)", "proceed(나아가다)", "development(발전)"],
+  "anti": ["retreat(후퇴)", "decline(쇠퇴)", "delay(지연)"],
+  "idiom": ["in advance(미리)", "advance notice(사전 통지)", "make advances(진전을 보이다·수작 걸다)"],
+  "colloc": ["technological advance(기술 발전)", "in advance(미리)", "advance payment(선불)"],
+  "ex_add": "Please book your tickets in advance.  (in advance=미리)"
+ },
+ {
+  "num": "2267",
+  "hw": "affair",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "'해야 할 일' = 일·사건 / 불륜 관계.",
+  "senses": [
+   "1) 일·사건·문제",
+   "2) (affairs) 업무·정세·사정",
+   "3) 불륜·정사"
+  ],
+  "etym": "고대 프랑스어 afaire = a(~을) + faire(하다) < 라틴어 facere(하다). 'to do(할 일)'가 한 단어로 굳음. facere(하다) 뿌리로 fact(사실)·affair·effect·perfect·factory가 묶인다.",
+  "deriv": "a + faire(하다) -> 'affair(할 일 -> 일·사건)'. '일·사건(a strange affair)' -> 'affairs(업무·정세: current affairs 시사)' -> '불륜(have an affair)'. facere(하다) 뿌리로 fact·effect·affair와 묶인다 — '해야 할 일'이 affair. 한국 학습자: current affairs(시사), foreign affairs(외교), state affairs(국정), a love affair(연애·정사), have an affair(바람피우다), that's my affair(내 일이다). business·matter와 유의어(일 뜻). '불륜' 뜻이 빈출.",
+  "syn": ["matter(일)", "event(사건)", "liaison(밀회)"],
+  "anti": [],
+  "idiom": ["current affairs(시사)", "have an affair(불륜을 저지르다)", "a state of affairs(사태·정세)", "foreign affairs(외교)"],
+  "colloc": ["love affair(연애)", "current affairs(시사 문제)", "family affair(집안일)"],
+  "ex_add": "She's interested in current affairs and politics.  (affairs=시사·정세)"
+ },
+ {
+  "num": "2268",
+  "hw": "affordable",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "감당할 만한 = 가격이 알맞은·저렴한.",
+  "senses": [
+   "1) (가격을) 감당할 수 있는·알맞은",
+   "2) 저렴한·합리적인",
+   "3) 부담 없는"
+  ],
+  "etym": "afford(여유가 있다, 1487) + -able. afford < 고대 영어 geforðian(이루다·해내다) < forð(앞으로). '감당해 낼 수 있는'이 핵심. forth(앞으로)와 한 가족.",
+  "deriv": "afford(여유가 있다, 1487) -> 'affordable(감당할 만한)'. '가격이 알맞은(affordable housing, 저렴한 주택)'. 한국 학습자: affordable(가격이 합리적인, 긍정적)과 cheap(싼, 때로 '싸구려' 부정적, 1574)의 뉘앙스 차이 — affordable이 더 점잖음. affordable prices(부담 없는 가격), an affordable option(저렴한 선택지), make ~ affordable(~을 저렴하게 만들다). afford(1487)/affordable/affordability 가족. unaffordable(감당 못 할)이 반의. expensive(비싼)가 반의 개념.",
+  "syn": ["reasonable(합리적인)", "inexpensive(비싸지 않은)", "budget(저가의)"],
+  "anti": ["expensive(비싼)", "unaffordable(감당 못 할)", "pricey(값비싼)"],
+  "idiom": ["affordable housing(저렴한 주택)", "affordable prices(합리적 가격)"],
+  "colloc": ["affordable price(저렴한 가격)", "affordable housing(저렴한 주택)", "more affordable(더 저렴한)"],
+  "ex_add": "The store offers good quality at affordable prices.  (affordable=가격이 알맞은)"
+ },
+ {
+  "num": "2269",
+  "hw": "afterward",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "그 일 '뒤에' = 나중에·그 후에.",
+  "senses": [
+   "1) 나중에·그 후에",
+   "2) 그러고 나서",
+   "3) 이후로"
+  ],
+  "etym": "after(뒤에) + -ward(~쪽으로, 방향 접미사). '뒤쪽으로(시간상 후에)'가 핵심. toward·forward·backward(1526)와 같은 -ward 계열. 영국식은 afterwards(-s 붙음).",
+  "deriv": "after + -ward -> 'afterward(s)'. '나중에(shortly afterward, 곧이어)'. -ward(방향) 무리 — toward·forward·backward(1526)·afterward. 한국 학습자: afterward(미국)/afterwards(영국, -s) 둘 다 가능. soon/shortly afterward(곧이어), long afterward(한참 뒤에). after(전치사·접속사, ~ 후에)와 달리 afterward는 부사(단독으로). later(나중에)·subsequently와 유의어. before/beforehand(미리)가 반의.",
+  "syn": ["later(나중에)", "subsequently(그 후에)", "then(그러고 나서)"],
+  "anti": ["beforehand(미리)", "previously(이전에)", "earlier(먼저)"],
+  "idiom": ["shortly afterward(곧이어)", "soon afterward(곧)", "long afterward(한참 후에)"],
+  "colloc": ["shortly afterward(곧이어)", "immediately afterward(바로 뒤에)", "years afterward(여러 해 뒤에)"],
+  "ex_add": "We had dinner and went for a walk afterward.  (afterward=그 후에)"
+ },
+ {
+  "num": "2270",
+  "hw": "aged",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "①나이가 '~세인' ②나이 많은·노령의.",
+  "senses": [
+   "1) (aged + 숫자) ~세의·나이가 ~인",
+   "2) 나이 든·노령의",
+   "3) (술·치즈가) 숙성된"
+  ],
+  "etym": "age(나이, 1488) + -ed. age < 라틴어 aetas < aevum(일생). '나이가 든'이 핵심. age(1488)·aging(노화)과 한 가족. 발음이 두 가지 — '~세의'는 /eɪdʒd/(1음절), '노령의'는 /ˈeɪdʒɪd/(2음절)!",
+  "deriv": "age(나이) -> 'aged'. ① '~세의(a boy aged ten, 열 살 소년)' ② '노령의(the aged, 노인들)' ③ '숙성된(aged cheese)'. 한국 학습자 핵심: 발음 구별! aged 10(/eɪdʒd/, 10세의)과 an aged man(/ˈeɪdʒɪd/, 늙은 남자)은 발음이 다름. the aged(노인들, the + 형용사), aged care(노인 돌봄), well-aged(잘 숙성된). age(명사·동사)/aged(형용사) 가족. middle-aged(중년의).",
+  "syn": ["elderly(연로한)", "old(나이 든)", "matured(숙성된)"],
+  "anti": ["young(젊은)", "youthful(젊은)"],
+  "idiom": ["the aged(노인들)", "aged care(노인 복지)", "well-aged(잘 숙성된)"],
+  "colloc": ["aged 10(10세의)", "middle-aged(중년의)", "the aged(노인층)"],
+  "ex_add": "The class is for children aged five to seven.  (aged=~세의)"
+ },
+ {
+  "num": "2271",
+  "hw": "agency",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "남을 대신해 '일을 처리하는' 대행사·기관.",
+  "senses": [
+   "1) 대행사·대리점",
+   "2) (정부) 기관·청",
+   "3) (격식) 작용·힘 / 주체성"
+  ],
+  "etym": "라틴어 agentia < agere(하다·행하다). '일을 행하는 곳'이 핵심. agere(하다) 뿌리로 act(1479)·agent(대리인, 1489)·agenda(2272)·activate(2255)·actual(2256)이 묶인다.",
+  "deriv": "agere(하다) -> agent -> 'agency'. '대행사(an advertising agency, 광고 대행사)' -> '정부 기관(a government agency)' -> '작용(human agency, 인간의 행위 주체성)'. agere 뿌리로 act·agent(1489)·agenda·activate와 묶인다 — agere 가족 집결. 한국 학습자: a travel agency(여행사), a news agency(통신사), a government agency(정부 기관), an estate agency(부동산 중개소, 영국). agent(대리인, 1489)와 짝 — agency는 그 '회사·기관'.",
+  "syn": ["bureau(국·사무소)", "firm(회사)", "organization(기관)"],
+  "anti": [],
+  "idiom": ["a travel agency(여행사)", "a government agency(정부 기관)", "free agency(자유계약 신분)"],
+  "colloc": ["travel agency(여행사)", "advertising agency(광고 대행사)", "government agency(정부 기관)"],
+  "ex_add": "She booked the trip through a travel agency.  (agency=대행사)"
+ },
+ {
+  "num": "2272",
+  "hw": "agenda",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "'해야 할 일들' = 안건·의제 -> 속셈.",
+  "senses": [
+   "1) 의제·안건 목록",
+   "2) (해결할) 과제·우선 사항",
+   "3) (숨은) 속셈·의도"
+  ],
+  "etym": "라틴어 agenda(행해져야 할 일들, agere의 동형사 복수). '해야 할 것들'이 핵심. agere(하다) 뿌리로 act(1479)·agent(1489)·agency(2271)·activate(2255)가 묶인다.",
+  "deriv": "agere(하다) -> 'agenda(할 일들)'. 회의 '안건(top of the agenda, 최우선 안건)' -> '과제(the political agenda)' -> '속셈(a hidden agenda, 숨은 의도)'. agere 뿌리로 act·agent·agency와 묶인다 — agere 가족(activate/actual/agency/agenda)이 한 배치에 모임. 한국 학습자: on the agenda(의제에 올라 있는), a hidden agenda(숨은 속셈), set the agenda(의제를 정하다·주도권을 쥐다), top of the agenda(최우선 과제). 원래 복수형이나 단수 취급.",
+  "syn": ["schedule(일정)", "program(계획)", "priorities(우선 사항)"],
+  "anti": [],
+  "idiom": ["a hidden agenda(숨은 속셈)", "on the agenda(의제에 오른)", "set the agenda(주도권을 잡다)", "top of the agenda(최우선 사항)"],
+  "colloc": ["political agenda(정치적 의제)", "on the agenda(의제에 올라)", "hidden agenda(숨은 의도)"],
+  "ex_add": "The first item on the agenda is the budget.  (agenda=의제)"
+ },
+ {
+  "num": "2273",
+  "hw": "aggressive",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "'들이대며' 공격적인·적극적인.",
+  "senses": [
+   "1) 공격적인·호전적인",
+   "2) 저돌적인·적극적인",
+   "3) (병·종양이) 악성의·급속한"
+  ],
+  "etym": "라틴어 aggredi = ad(~로) + gradi(걷다·나아가다, < gradus 걸음). '~를 향해 들이댐'이 핵심. ad-가 g 앞에서 ag-로 동화. gradus(걸음) 뿌리로 grade·gradual·progress·graduate(1773)·ingredient(1818)이 묶인다.",
+  "deriv": "ad + gradi(나아가다) -> 'aggressive'. '공격적인(aggressive behavior)' -> '적극적인(aggressive marketing, 공격적 마케팅)' -> 의학 '악성의(aggressive cancer)'. gradus(걸음) 뿌리로 grade·progress·graduate(1773)·ingredient(1818)과 묶인다 — 같은 gradus를 graduate·ingredient에서 봤음. aggression(공격성)이 명사. 한국 학습자: aggressive가 '공격적인'(부정)과 '적극적·진취적인'(중립~긍정, 비즈니스)으로 양면. ad- 동화 ag-(ad+g).",
+  "syn": ["hostile(적대적인)", "forceful(저돌적인)", "assertive(적극적인)"],
+  "anti": ["passive(소극적인)", "peaceful(평화로운)", "gentle(온순한)"],
+  "idiom": ["aggressive behavior(공격적 행동)", "aggressive marketing(공격적 마케팅)"],
+  "colloc": ["aggressive behavior(공격적 행동)", "highly aggressive(매우 공격적인)", "aggressive style(저돌적 스타일)"],
+  "ex_add": "The dog became aggressive when approached.  (aggressive=공격적인)"
+ },
+ {
+  "num": "2274",
+  "hw": "agriculture",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "땅을 갈아 짓는 '농업'.",
+  "senses": [
+   "1) 농업·농경",
+   "2) 농학",
+   "3) 영농"
+  ],
+  "etym": "라틴어 agricultura = ager(밭·들) + cultura(경작) < colere(가꾸다). '밭을 가꿈'이 핵심. ager(밭) 뿌리로 acre(에이커, 2254)·agrarian이, colere(가꾸다) 뿌리로 cultivate·culture·cultural(1633)·colony가 묶인다.",
+  "deriv": "ager(밭) + cultura(경작) -> 'agriculture'. '농업(modern agriculture)'. ager(밭) 뿌리로 acre(2254)와, colere(가꾸다) 뿌리로 cultivate·cultural(1633)·colony와 묶인다 — 두 어근이 다 재등장. agricultural(농업의)이 형용사. 한국 학습자: agriculture(농업)·industry(공업)·commerce(상업)의 산업 분류. organic agriculture(유기농업), the Department of Agriculture(농무부). farming(농사, 일상어)과 유의어이나 agriculture가 격식·학술.",
+  "syn": ["farming(농사)", "cultivation(경작)", "husbandry(영농)"],
+  "anti": ["industry(공업)"],
+  "idiom": ["modern agriculture(현대 농업)", "the Department of Agriculture(농무부)"],
+  "colloc": ["modern agriculture(현대 농업)", "organic agriculture(유기 농업)", "agriculture industry(농업 부문)"],
+  "ex_add": "Agriculture is the country's main industry.  (agriculture=농업)"
+ },
+ {
+  "num": "2275",
+  "hw": "aid",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "곁에서 '거들어 줌' = 원조·도움 -> 돕다.",
+  "senses": [
+   "1) 원조·지원(금)·구호",
+   "2) 도움·보조 (수단)",
+   "3) (동사) 돕다·거들다"
+  ],
+  "etym": "고대 프랑스어 aide < 라틴어 adjutare = ad(~에) + juvare(돕다). '곁에서 거들어 줌'이 핵심. juvare(돕다) 뿌리로 adjutant(부관)가 있고, aid·aide(보좌관)가 한 가족.",
+  "deriv": "ad + juvare(돕다) -> 'aid'. 명사 '원조(foreign aid, 대외 원조)·보조 수단(a hearing aid, 보청기)' -> 동사 '돕다(aid recovery)'. aide(보좌관)·first aid(응급처치)가 관련. 한국 학습자: foreign/humanitarian aid(대외/인도적 원조), first aid(응급처치), a hearing aid(보청기), come/go to someone's aid(~을 도우러 가다), in aid of(~을 돕기 위해), a teaching aid(교구). help(돕다, 일상)보다 aid가 격식·제도적 지원. with the aid of(~의 도움으로).",
+  "syn": ["help(도움)", "assistance(원조)", "support(지원)"],
+  "anti": ["hindrance(방해)", "obstruction(저해)"],
+  "idiom": ["first aid(응급처치)", "come to someone's aid(돕다)", "in aid of(~을 위해)", "with the aid of(~의 도움으로)"],
+  "colloc": ["foreign aid(대외 원조)", "financial aid(재정 지원)", "first aid(응급처치)"],
+  "ex_add": "The government sent aid to the flood victims.  (aid=원조)"
+ },
+ {
+  "num": "2276",
+  "hw": "AIDS",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "면역 결핍으로 생기는 후천성 면역결핍증.",
+  "senses": [
+   "1) 에이즈(후천성 면역결핍증)",
+   "2) HIV로 인한 면역 결핍 질환",
+   "3) (형용사적) 에이즈 관련의"
+  ],
+  "etym": "Acquired Immune Deficiency Syndrome(후천성 면역결핍 증후군)의 머리글자를 딴 두문자어(acronym). acquire(습득하다, 2253)·immune(면역의)·deficiency(결핍)·syndrome(증후군)의 첫 글자.",
+  "deriv": "머리글자어 -> 'AIDS'. 한국 학습자: AIDS는 한 단어처럼 발음(/eɪdz/), HIV(원인 바이러스, Human Immunodeficiency Virus)와 구별 — HIV에 감염되면 AIDS로 진행될 수 있음. AIDS awareness(에이즈 인식), an AIDS patient(에이즈 환자), the AIDS epidemic(에이즈 유행). 두문자어 무리 — AIDS·NASA·radar처럼 단어로 읽는 것과 IT(2)·HIV처럼 글자로 읽는 것 구별. Acquired의 acquire(2253)와 연결.",
+  "syn": ["HIV/AIDS(에이즈)"],
+  "anti": [],
+  "idiom": ["AIDS awareness(에이즈 인식 제고)", "the AIDS epidemic(에이즈 확산)"],
+  "colloc": ["AIDS patient(에이즈 환자)", "AIDS research(에이즈 연구)", "HIV/AIDS(에이즈)"],
+  "ex_add": "Scientists are working hard to find a cure for AIDS.  (AIDS=에이즈)"
+ },
+ {
+  "num": "2277",
+  "hw": "aircraft",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "하늘을 나는 '항공기' (단·복수 동형).",
+  "senses": [
+   "1) 항공기(비행기·헬기 등 통칭)",
+   "2) (군용) 항공기",
+   "3) 비행체"
+  ],
+  "etym": "air(공기·하늘) + craft(탈것·배·기술). '하늘을 다니는 탈것'이 핵심. craft가 '배·탈것'을 뜻함(spacecraft, hovercraft). air(공기)·craft(기술·배)의 합성어.",
+  "deriv": "air + craft -> 'aircraft'. 한국 학습자 핵심: aircraft는 단수·복수가 같은 형태(one aircraft, two aircraft — aircrafts는 틀림!). craft도 '탈것' 뜻일 땐 불변(spacecraft, hovercraft). an aircraft carrier(항공모함), military aircraft(군용기), commercial aircraft(여객기). airplane/plane(비행기)보다 aircraft가 헬기·비행선까지 아우르는 통칭. -craft 무리 — aircraft·spacecraft·witchcraft(마법).",
+  "syn": ["airplane(비행기)", "plane(비행기)", "flying machine(비행체)"],
+  "anti": [],
+  "idiom": ["an aircraft carrier(항공모함)", "military aircraft(군용기)"],
+  "colloc": ["military aircraft(군용기)", "commercial aircraft(상업용 항공기)", "aircraft carrier(항공모함)"],
+  "ex_add": "Several aircraft were grounded by the storm.  (aircraft=항공기, 단복수 동형)"
+ },
+ {
+  "num": "2278",
+  "hw": "alarm",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "'무기를 들라!'는 경보 -> 놀람·경보기.",
+  "senses": [
+   "1) 경보(기)·자명종",
+   "2) 놀람·불안·경악",
+   "3) (동사) 놀라게 하다·불안하게 하다"
+  ],
+  "etym": "이탈리아어 all'arme!(무기를 들라!) = alle(~로) + arme(무기). 본래 적 출현 시 외치던 '비상 호령'에서 '경보·놀람'으로. arms(무기, 2309)·army·armed(2308)와 한 arma(무기) 뿌리.",
+  "deriv": "all'arme(무기를 들라) -> 'alarm'. '경보기(a fire alarm)·자명종(an alarm clock)' -> '놀람(in alarm, 놀라서)' -> 동사 '놀라게 하다(alarming news)'. arma(무기) 뿌리로 arms(2309)·army·armed(2308)와 묶인다 — 경보가 '무기를 들라!'에서. alarming(걱정스러운)·alarmed(놀란)·alarmist(공포 조장자)가 파생. 한국 학습자: an alarm clock(알람 시계), raise the alarm(경보를 울리다·위험을 알리다), a false alarm(헛경보), set an alarm(알람을 맞추다). -ed/-ing — alarmed(놀란)/alarming(걱정스러운).",
+  "syn": ["warning(경보)", "fright(놀람)", "frighten(놀라게 하다)"],
+  "anti": ["calm(안심시키다)", "reassure(안심시키다)"],
+  "idiom": ["raise the alarm(경보를 울리다)", "a false alarm(헛경보)", "alarm bells ring(경종이 울리다)", "set an alarm(알람을 맞추다)"],
+  "colloc": ["fire alarm(화재경보기)", "alarm clock(자명종)", "cause alarm(불안을 야기하다)"],
+  "ex_add": "The fire alarm went off in the middle of the night.  (alarm=경보기)"
+ },
+ {
+  "num": "2279",
+  "hw": "alongside",
+  "pos": "prep., adv.",
+  "cefr": "B2",
+  "core": "'~ 옆에 나란히' / ~와 함께.",
+  "senses": [
+   "1) ~ 옆에·나란히",
+   "2) ~와 함께·동시에",
+   "3) ~와 더불어 (협력)"
+  ],
+  "etym": "along(~을 따라) + side(옆). '옆을 따라 나란히'가 핵심. along(~을 따라)·side(옆)의 합성어. 본래 배가 '뱃전에 나란히 댐(come alongside)'에서.",
+  "deriv": "along + side -> 'alongside'. 위치 '~ 옆에(park alongside the curb)' -> 비유 '~와 함께(work alongside colleagues, 동료와 함께 일하다)'. 한국 학습자: alongside(~와 나란히/함께)는 전치사·부사 둘 다. work alongside(~와 협력하다), alongside each other(나란히), come alongside(옆에 대다). beside(~ 옆에, 단순 위치)보다 alongside는 '나란히·협력'의 뉘앙스. together with·next to와 유의어. side by side(나란히)와 통함.",
+  "syn": ["beside(~ 옆에)", "next to(~ 옆에)", "together with(~와 함께)"],
+  "anti": ["apart from(~와 떨어져)"],
+  "idiom": ["work alongside(~와 함께 일하다)", "alongside each other(나란히)", "come alongside(옆에 대다)"],
+  "colloc": ["work alongside(나란히 일하다)", "stand alongside(나란히 서다)", "alongside others(다른 이들과 함께)"],
+  "ex_add": "She worked alongside some of the best chefs in the world.  (alongside=~와 함께)"
+ },
+ {
+  "num": "2280",
+  "hw": "alter",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "'다른' 것으로 바꾸다 = 고치다·변경하다.",
+  "senses": [
+   "1) 바꾸다·변경하다·고치다",
+   "2) (옷을) 수선하다",
+   "3) 달라지다·변하다"
+  ],
+  "etym": "라틴어 alterare < alter(둘 중 다른 하나). '다른 것으로 만듦'이 핵심. alter(다른) 뿌리로 alternative(대안, 1496)·alternate(번갈아 하다)·alien(외계의)·else가 묶인다.",
+  "deriv": "alter(다른) -> 'alter(바꾸다)'. '변경하다(alter the plan)' -> 옷 '수선하다(alter a dress)' -> '달라지다'. alter(다른) 뿌리로 alternative(1496)·alternate·alien과 묶인다 — 같은 alter를 alternative에서 봤음. alteration(변경·수선)이 명사. 한국 학습자 주의: alter(바꾸다, 동사)와 altar(제단, 명사)는 발음이 같음! drastically alter(크게 바꾸다), alter slightly(약간 고치다). change보다 격식이고 '부분 수정'의 뉘앙스. unalterable(바꿀 수 없는).",
+  "syn": ["change(바꾸다)", "modify(수정하다)", "amend(고치다)"],
+  "anti": ["keep(유지하다)", "preserve(보존하다)", "maintain(그대로 두다)"],
+  "idiom": ["alter course(진로를 바꾸다)", "alter the facts(사실을 왜곡하다)"],
+  "colloc": ["alter the plan(계획을 변경하다)", "significantly alter(크게 바꾸다)", "alter a dress(옷을 수선하다)"],
+  "ex_add": "Nothing can alter the fact that he lied.  (alter=바꾸다)"
+ },
+ {
+  "num": "2281",
+  "hw": "altogether",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'모두 합쳐' = 완전히 / 전체적으로.",
+  "senses": [
+   "1) 완전히·전적으로",
+   "2) 모두 합쳐·총",
+   "3) 전체적으로 보아"
+  ],
+  "etym": "all(모두) + together(함께). '모두 합쳐'가 핵심. all·together(1761 gather와 관련)의 합성어. (한 단어 altogether와 두 단어 all together는 뜻이 다름.)",
+  "deriv": "all + together -> 'altogether'. '완전히(stop altogether, 완전히 멈추다)' -> '총(altogether $50, 모두 합쳐 50달러)' -> '전체적으로(Altogether, it was a success)'. 한국 학습자 핵심 구별: altogether(한 단어, 부사 '완전히·총')와 all together(두 단어, '다 같이/한데 모여': sing all together 다 같이 노래하다)는 뜻이 다름! not altogether(전적으로 ~인 건 아닌), in the altogether(알몸으로, 구어). completely·entirely·in total과 유의어.",
+  "syn": ["completely(완전히)", "entirely(전적으로)", "in total(총)"],
+  "anti": ["partially(부분적으로)", "partly(일부)"],
+  "idiom": ["not altogether(전적으로 ~은 아닌)", "altogether different(완전히 다른)", "in the altogether(알몸으로)"],
+  "colloc": ["altogether different(완전히 다른)", "stop altogether(완전히 멈추다)", "altogether too(지나치게)"],
+  "ex_add": "There were ten people there altogether.  (altogether=모두 합쳐)"
+ },
+ {
+  "num": "2282",
+  "hw": "ambitious",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "이루려 '발로 뛰는' 야심 찬·의욕적인.",
+  "senses": [
+   "1) 야심 찬·포부가 큰",
+   "2) (계획이) 야심적인·원대한",
+   "3) 출세욕이 강한"
+  ],
+  "etym": "라틴어 ambitiosus < ambitio(돌아다님·야망) = amb(둘레로) + ire(가다). 고대 로마에서 '표를 얻으러 돌아다님'에서. ambition(야망, 1498)과 한 뿌리. ire(가다) 뿌리로 exit·sudden(2128)·transit가 묶인다.",
+  "deriv": "ambition(야망, 1498) -> 'ambitious(야심 찬)'. 사람 '포부가 큰(an ambitious student)' -> 계획 '원대한(an ambitious plan)'. ire(가다) 뿌리로 ambition·exit·transit와 묶인다. 한국 학습자: ambitious가 사람(야심 찬, 긍정적)과 계획(야심적이나 무리할 수도)에 양면. overly ambitious(지나치게 욕심부린), ambitious for(~을 열망하는). 한국어 '야심'은 부정적이나 영어 ambitious는 칭찬으로 자주(1498 ambition 참고). ambition(명사)/ambitious(형용사) 짝.",
+  "syn": ["aspiring(포부 있는)", "driven(의욕적인)", "go-getting(적극적인)"],
+  "anti": ["unambitious(야심 없는)", "modest(소박한)", "lazy(게으른)"],
+  "idiom": ["overly ambitious(과욕을 부린)", "ambitious for(~을 열망하는)"],
+  "colloc": ["ambitious plan(야심 찬 계획)", "highly ambitious(매우 야심 찬)", "ambitious goal(원대한 목표)"],
+  "ex_add": "She's an ambitious young lawyer.  (ambitious=야심 찬)"
+ },
+ {
+  "num": "2283",
+  "hw": "ambulance",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "환자를 옮기는 '구급차'.",
+  "senses": [
+   "1) 구급차·앰뷸런스",
+   "2) (군) 야전 병원차",
+   "3) 응급 후송 차량"
+  ],
+  "etym": "프랑스어 hôpital ambulant(이동 병원) < 라틴어 ambulare(걷다·돌아다니다). '이동하는 병원(야전 병원)'에서 '구급차'로. amble(느긋이 걷다)·preamble(서문)·ambulatory(보행의)가 같은 ambulare(걷다) 뿌리.",
+  "deriv": "ambulare(걷다·이동하다) -> 'ambulance'. '구급차(call an ambulance)'. ambulare(걷다) 뿌리로 amble·preamble·somnambulist(몽유병자)와 묶인다 — 구급차가 '이동(걸어 다니는) 병원'에서. 한국 학습자: call an ambulance(구급차를 부르다), an ambulance crew(구급대원), by ambulance(구급차로), an ambulance siren(구급차 사이렌). 긴급 차량 무리 — ambulance(구급차)/fire engine(소방차)/police car(경찰차). 발음 /ˈæmbjələns/.",
+  "syn": ["emergency vehicle(응급 차량)"],
+  "anti": [],
+  "idiom": ["call an ambulance(구급차를 부르다)", "an ambulance crew(구급대)", "ambulance chaser(사고 환자를 노리는 변호사)"],
+  "colloc": ["call an ambulance(구급차를 부르다)", "ambulance crew(구급대원)", "by ambulance(구급차로)"],
+  "ex_add": "Someone call an ambulance — he's hurt!  (ambulance=구급차)"
+ },
+ {
+  "num": "2284",
+  "hw": "amount",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "양·액수가 '위로 쌓여 이르는' 합계.",
+  "senses": [
+   "1) (불가산의) 양·액수",
+   "2) 총액·총량",
+   "3) (동사) (amount to) 합계 ~이 되다·~에 이르다"
+  ],
+  "etym": "고대 프랑스어 amonter(올라가다) = a(~로) + mont(산) < 라틴어 mons(산). '산처럼 쌓여 올라감'이 핵심. mons(산) 뿌리로 mountain(산)·mount(오르다)·surmount(극복하다)가 묶인다.",
+  "deriv": "a + mont(산) -> 'amount'. 명사 '양·액수(a large amount of money)' -> 동사 'amount to(합계 ~이 되다·~나 다름없다)'. mons(산) 뿌리로 mountain·mount와 묶인다 — '산처럼 쌓인 양'. 한국 학습자 핵심: amount of + 불가산명사(amount of water/money)와 number of + 가산명사 복수(number of people)를 구별! a large/small amount of(많은/적은 양), amount to(~에 이르다·~나 마찬가지다: It amounts to a betrayal). any amount of(얼마든지).",
+  "syn": ["quantity(양)", "sum(액수)", "total(총계)"],
+  "anti": [],
+  "idiom": ["amount to(~에 이르다·~나 다름없다)", "a large amount of(많은 양의)", "no amount of(아무리 ~해도)", "any amount of(얼마든지)"],
+  "colloc": ["large amount(많은 양)", "amount of money(액수)", "total amount(총액)"],
+  "ex_add": "A huge amount of food was wasted at the party.  (amount of=~의 양, 불가산)"
+ },
+ {
+  "num": "2285",
+  "hw": "amusing",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "웃음을 자아내 '재미있는·우스운' (원인의 성질).",
+  "senses": [
+   "1) 재미있는·웃기는",
+   "2) 즐거움을 주는",
+   "3) (반어) 어이없는"
+  ],
+  "etym": "amuse(즐겁게 하다)의 현재분사. amuse < 고대 프랑스어 amuser = a(~로) + muser(멍하니 바라보다). '넋을 빼며 즐겁게 함'이 핵심. amusement(오락)·muse(사색하다)와 한 가족.",
+  "deriv": "amuse(즐겁게 하다) -> 'amusing(재미있는)'. -ing는 원인의 성질(an amusing story, 재미있는 이야기), -ed는 사람 감정(amused, 즐거워하는). 한국 학습자 -ed/-ing 구별 — 사물·상황엔 -ing, 사람 마음엔 -ed. amusement(오락·놀이공원)가 명사 — an amusement park(놀이공원). highly amusing(아주 재미있는), find it amusing(재미있다고 여기다), mildly amusing(그저 그런). funny(웃기는)와 유의어이나 amusing이 다소 점잖음. boring(지루한)이 반의.",
+  "syn": ["entertaining(재미있는)", "funny(웃기는)", "diverting(즐거운)"],
+  "anti": ["boring(지루한)", "dull(따분한)", "tedious(지겨운)"],
+  "idiom": ["find it amusing(재미있어하다)", "highly amusing(아주 재미있는)", "mildly amusing(그저 그런)"],
+  "colloc": ["amusing story(재미있는 이야기)", "highly amusing(아주 웃기는)", "an amusing anecdote(재미있는 일화)"],
+  "ex_add": "He told an amusing story about his trip.  (amusing=재미있는, 원인의 성질)"
+ },
+ {
+  "num": "2286",
+  "hw": "analyst",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "잘게 '풀어 헤쳐' 분석하는 사람 = 분석가.",
+  "senses": [
+   "1) 분석가·애널리스트",
+   "2) 평론가·해설가",
+   "3) (정신) 분석의"
+  ],
+  "etym": "analyze(분석하다) + -ist. analyze < 그리스어 analysis = ana(완전히) + lysis(풂) < lyein(풀다). '풀어 헤치는 사람'이 핵심. analysis(분석, 1499)·paralysis(마비)·catalyst(촉매)가 같은 lysis(풂) 뿌리.",
+  "deriv": "analysis(분석, 1499) -> 'analyst(분석가)'. lysis(풂) 뿌리로 analysis·analyze·paralysis와 묶인다. 한국 학습자: a financial analyst(금융 분석가), a systems analyst(시스템 분석가), a political analyst(정치 평론가), a data analyst(데이터 분석가). -ist 행위자 접미사(scientist, artist, analyst). analysis(1499, 분석)/analyze(분석하다)/analyst(분석가)/analytical(분석적인) 가족. analyst와 analysis 철자 끝 구별(-st/-sis).",
+  "syn": ["examiner(검토자)", "commentator(해설가)", "expert(전문가)"],
+  "anti": [],
+  "idiom": ["a financial analyst(금융 분석가)", "a systems analyst(시스템 분석가)"],
+  "colloc": ["financial analyst(금융 분석가)", "political analyst(정치 평론가)", "data analyst(데이터 분석가)"],
+  "ex_add": "Analysts predict the economy will recover soon.  (analyst=분석가)"
+ },
+ {
+  "num": "2287",
+  "hw": "ancestor",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "앞서 '먼저 간' 조상·선조.",
+  "senses": [
+   "1) 조상·선조",
+   "2) (동식물의) 원종·조상",
+   "3) (사물의) 원형·전신"
+  ],
+  "etym": "라틴어 antecessor = ante(앞에) + cedere(가다). '앞서 간 이'가 핵심. cedere(가다) 뿌리로 ancestor·access(1477)·proceed·precede·successfully(2127)가 묶인다. ante-(앞)는 advance(2266)의 그 ante.",
+  "deriv": "ante(앞) + cedere(가다) -> 'ancestor'. '조상(our ancestors, 우리 조상)' -> 생물 '원종' -> '원형'. cedere(가다) 뿌리로 access·proceed·precede와 묶인다 — 같은 cedere를 access·successfully에서 봤음. ancestral(조상의)·ancestry(혈통)가 파생. 한국 학습자: distant ancestors(먼 조상), trace one's ancestors(조상을 추적하다), a common ancestor(공통 조상). descendant(후손)가 반의 — ancestor(앞서 간 이)/descendant(아래로 내려간 이). forefather와 유의어.",
+  "syn": ["forefather(선조)", "forebear(조상)", "predecessor(전신)"],
+  "anti": ["descendant(후손)", "offspring(자손)"],
+  "idiom": ["a common ancestor(공통 조상)", "trace one's ancestors(조상을 추적하다)", "distant ancestors(먼 조상)"],
+  "colloc": ["distant ancestor(먼 조상)", "common ancestor(공통 조상)", "ancestor worship(조상 숭배)"],
+  "ex_add": "Her ancestors came from Ireland.  (ancestor=조상)"
+ },
+ {
+  "num": "2288",
+  "hw": "anger",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "속을 '죄어드는' 분노·화.",
+  "senses": [
+   "1) 분노·화·노여움",
+   "2) (동사) 화나게 하다",
+   "3) 격분"
+  ],
+  "etym": "고대 노르드어 angr(슬픔·괴로움) < 라틴어 angere(조이다·괴롭히다). '마음을 조이는 격한 감정'이 핵심. angere(조이다) 뿌리로 anxiety(불안, 2295)·anxious(2296)·anguish(고뇌)가 묶인다.",
+  "deriv": "angere(조이다) -> 'anger'. '분노(burning with anger, 분노로 들끓는)' -> 동사 '화나게 하다'. angere(조이다) 뿌리로 anxiety(2295)·anxious(2296)·anguish와 묶인다 — 분노와 불안이 '조임'이라는 한 뿌리. angry(화난)가 형용사. 한국 학습자: in anger(홧김에), an outburst of anger(분노의 폭발), control one's anger(화를 다스리다), anger management(분노 조절). rage(격노)·fury(격분)가 더 강함. anger(명사)/angry(형용사) 짝.",
+  "syn": ["rage(격노)", "fury(분노)", "outrage(격분)"],
+  "anti": ["calm(평온)", "peace(평화)", "contentment(만족)"],
+  "idiom": ["in anger(홧김에)", "anger management(분노 조절)", "burning with anger(분노로 들끓는)", "an outburst of anger(분노 폭발)"],
+  "colloc": ["express anger(분노를 표출하다)", "control anger(화를 다스리다)", "public anger(대중의 분노)"],
+  "ex_add": "She could barely control her anger.  (anger=분노)"
+ },
+ {
+  "num": "2289",
+  "hw": "angle",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "두 선이 만나 '꺾인' 각도 -> 관점.",
+  "senses": [
+   "1) (수학) 각·각도",
+   "2) 모서리·귀퉁이",
+   "3) 관점·시각·접근법"
+  ],
+  "etym": "라틴어 angulus(모퉁이·각). '꺾여 만나는 모서리'가 핵심. angle·angular(각진)·rectangle(직사각형)·triangle(삼각형)이 같은 angulus(각) 뿌리.",
+  "deriv": "angulus(각) -> 'angle'. 수학 '각도(a right angle, 직각)' -> '모서리' -> 비유 '관점(look at it from a different angle, 다른 각도로 보다)'. angulus(각) 뿌리로 triangle·rectangle·angular와 묶인다. 한국 학습자: a right angle(직각, 90°), from every angle(모든 각도에서), a new angle on(~에 대한 새로운 시각), at an angle(비스듬히), the camera angle(카메라 앵글). 도형 무리 — triangle(3각)/rectangle(직사각)/angle(각). perspective·viewpoint와 유의어(관점 뜻).",
+  "syn": ["corner(모서리)", "perspective(관점)", "viewpoint(시각)"],
+  "anti": [],
+  "idiom": ["from a different angle(다른 각도에서)", "a right angle(직각)", "at an angle(비스듬히)", "a new angle on(~에 대한 새 시각)"],
+  "colloc": ["right angle(직각)", "camera angle(카메라 앵글)", "from every angle(모든 각도에서)"],
+  "ex_add": "Let's look at the problem from a different angle.  (angle=관점)"
+ },
+ {
+  "num": "2290",
+  "hw": "animation",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "그림에 '생기를 불어넣어' 움직이게 한 애니메이션 -> 활기.",
+  "senses": [
+   "1) 애니메이션·만화 영화",
+   "2) 동영상 제작 기법",
+   "3) 활기·생기"
+  ],
+  "etym": "라틴어 animatio < animare(생기를 불어넣다) < anima(숨·생명·영혼). '생명을 불어넣음'이 핵심. anima(영혼) 뿌리로 animal(동물)·animate(활기를 주다)·unanimous(만장일치의)가 묶인다.",
+  "deriv": "anima(숨·생명) -> animate -> 'animation'. '애니메이션(computer animation)' -> '활기(talk with animation, 활기차게 말하다)'. anima(영혼) 뿌리로 animal·animate·unanimous와 묶인다 — animal(숨 쉬는 것)·animation(생기 불어넣기)가 한 뿌리. animated(만화로 된·활기찬)·animator(애니메이터)가 파생. 한국 학습자: computer animation(컴퓨터 애니메이션), an animated film(애니메이션 영화), suspended animation(가사 상태·동면), with animation(활기차게). anima(생명)가 핵심.",
+  "syn": ["cartoon(만화)", "liveliness(활기)", "vitality(생기)"],
+  "anti": ["lifelessness(생기 없음)"],
+  "idiom": ["computer animation(컴퓨터 애니메이션)", "suspended animation(가사 상태)", "with animation(활기 있게)"],
+  "colloc": ["computer animation(컴퓨터 애니메이션)", "3D animation(3D 애니메이션)", "stop-motion animation(스톱모션 애니메이션)"],
+  "ex_add": "The film uses stunning computer animation.  (animation=애니메이션)"
+ },
+ {
+  "num": "2291",
+  "hw": "anniversary",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "'해마다 돌아오는' 기념일.",
+  "senses": [
+   "1) 기념일·기념제",
+   "2) 결혼기념일",
+   "3) (사건의) 주기"
+  ],
+  "etym": "라틴어 anniversarius = annus(해·년) + versus(돌아온, < vertere 돌다). '해마다 돌아오는 날'이 핵심. annus(해) 뿌리로 annual(연례의, 2292)·annually(2293)가, vertere(돌다) 뿌리로 version(2202)·convert·reverse가 묶인다.",
+  "deriv": "annus(해) + vertere(돌다) -> 'anniversary'. '기념일(a wedding anniversary, 결혼기념일)'. annus(해) 뿌리로 annual(2292)·annually(2293)와 묶인다 — annus(해) 가족이 연달아 등장. vertere(돌다) 뿌리로 version과도 연결. 한국 학습자: a wedding anniversary(결혼기념일), the 50th anniversary(50주년), mark/celebrate an anniversary(기념일을 기리다), a silver/golden anniversary(은혼식/금혼식). annus(해) + vertere(돌다) = '해마다 돌아옴'.",
+  "syn": ["jubilee(기념제)", "commemoration(기념)"],
+  "anti": [],
+  "idiom": ["a wedding anniversary(결혼기념일)", "a golden anniversary(금혼식)", "mark an anniversary(기념일을 기리다)"],
+  "colloc": ["wedding anniversary(결혼기념일)", "50th anniversary(50주년)", "celebrate an anniversary(기념일을 축하하다)"],
+  "ex_add": "They celebrated their 25th wedding anniversary.  (anniversary=기념일)"
+ }
+]

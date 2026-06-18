@@ -1,0 +1,952 @@
+[
+ {
+  "num": "2292",
+  "hw": "annual",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "'해마다' 한 번씩의 = 연례의·연간의.",
+  "senses": [
+   "1) 매년의·연례의",
+   "2) 한 해의·연간의",
+   "3) (식물) 한해살이의"
+  ],
+  "etym": "라틴어 annualis < annus(해·년). '해마다 되풀이되는'이 핵심. annus(해) 뿌리로 anniversary(기념일, 2291)·annually(2293)·biennial(2년마다의)·per annum(연간)이 묶인다.",
+  "deriv": "annus(해) -> 'annual'. '연례의(an annual event, 연례행사)' -> '연간의(annual income, 연간 소득)' -> 식물 '한해살이의'. annus(해) 뿌리로 anniversary(2291)·annually(2293)와 묶인다 — annus 가족 연속. annually(매년, 2293)가 부사. 한국 학습자: annual income/salary(연봉), an annual report(연례 보고서), an annual leave(연차 휴가), an annual checkup(연례 건강검진). 식물 — annual(한해살이)/perennial(여러해살이). 주기 형용사 — daily(1640)/weekly/monthly/annual.",
+  "syn": ["yearly(매년의)", "once-a-year(연 1회의)"],
+  "anti": ["daily(매일의)", "monthly(매월의)", "perennial(다년생의)"],
+  "idiom": ["an annual event(연례행사)", "annual leave(연차 휴가)", "per annum(연간)"],
+  "colloc": ["annual report(연례 보고서)", "annual income(연간 소득)", "annual event(연례행사)"],
+  "ex_add": "The company holds an annual meeting every spring.  (annual=연례의)"
+ },
+ {
+  "num": "2293",
+  "hw": "annually",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "해마다·일 년에 한 번씩.",
+  "senses": [
+   "1) 매년·해마다",
+   "2) 연간·연 단위로",
+   "3) 일 년에 한 번"
+  ],
+  "etym": "annual(연례의, 라틴어 annus 해) + -ly. annus(해) 뿌리로 annual(2292)·anniversary(2291)와 묶인다.",
+  "deriv": "annual(연례의) -> 'annually'. '매년(held annually, 매년 열리는)·연간(earn ... annually, 연간 ~을 벌다)'. annus(해) 뿌리. 한국 학습자: 주기 부사 — daily(매일)/weekly(매주)/monthly(매달)/annually(매년). paid annually(연 단위로 지급되는), occur annually(매년 일어나다), $50,000 annually(연 5만 달러). yearly와 동의어. annual/annually/anniversary가 annus(해)로 묶이는 가족.",
+  "syn": ["yearly(매년)", "every year(해마다)", "per year(연간)"],
+  "anti": ["daily(매일)", "monthly(매월)"],
+  "idiom": ["held annually(매년 열리는)", "paid annually(연 단위로 지급되는)"],
+  "colloc": ["occur annually(매년 발생하다)", "held annually(매년 개최되는)", "updated annually(매년 갱신되는)"],
+  "ex_add": "The festival is held annually in July.  (annually=매년)"
+ },
+ {
+  "num": "2294",
+  "hw": "anticipate",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "미리 '앞당겨 잡아' 예상·대비하다.",
+  "senses": [
+   "1) 예상하다·예측하다",
+   "2) 기대하다·고대하다",
+   "3) 미리 대비하다·앞질러 처리하다"
+  ],
+  "etym": "라틴어 anticipare = ante(미리) + capere(잡다). '미리 앞질러 잡음'이 핵심. capere(잡다) 뿌리로 acceptable(2240)·receipt(2014)·except(1712)·capture·participate(1928)가 묶인다. ante-(앞)는 ancestor(2287)·advance(2266)의 그 ante.",
+  "deriv": "ante(미리) + capere(잡다) -> 'anticipate'. '예상하다(anticipate problems)' -> '고대하다(eagerly anticipate)' -> '미리 대비하다'. capere(잡다) 뿌리로 acceptable·receipt·except·participate와 묶인다 — 같은 capere를 acceptable·receipt에서 봤음. anticipation(기대·예상)이 명사. 한국 학습자: anticipate + 목적어/V-ing/that절(anticipate *to do*는 틀림!), as anticipated(예상대로), eagerly anticipate(몹시 기대하다), anticipate problems(문제를 예상하다). expect(1717)보다 격식 — anticipate는 '예상하고 대비'까지.",
+  "syn": ["expect(예상하다)", "foresee(예견하다)", "await(기다리다)"],
+  "anti": ["recall(회상하다)"],
+  "idiom": ["as anticipated(예상대로)", "eagerly anticipate(몹시 기대하다)", "anticipate problems(문제를 예상하다)"],
+  "colloc": ["anticipate problems(문제를 예상하다)", "eagerly anticipate(고대하다)", "widely anticipated(널리 예상되는)"],
+  "ex_add": "We anticipate a large turnout for the event.  (anticipate=예상하다)"
+ },
+ {
+  "num": "2295",
+  "hw": "anxiety",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "마음을 '죄어드는' 불안·걱정.",
+  "senses": [
+   "1) 불안·걱정·근심",
+   "2) (의학) 불안 장애",
+   "3) (anxiety to V) 갈망·열망"
+  ],
+  "etym": "라틴어 anxietas < anxius < angere(조이다·괴롭히다). '마음을 죄는 불안'이 핵심. angere(조이다) 뿌리로 anger(분노, 2288)·anxious(2296)·anguish(고뇌)가 묶인다.",
+  "deriv": "angere(조이다) -> anxious -> 'anxiety'. '불안(feel anxiety)' -> 의학 '불안 장애(an anxiety disorder)' -> '갈망(anxiety to please, 잘 보이려는 열망)'. angere(조이다) 뿌리로 anger(2288)·anxious(2296)·anguish와 묶인다 — 같은 angere를 anger에서 봤음. 한국 학습자: anxiety about/over(~에 대한 불안), separation anxiety(분리 불안), anxiety disorder(불안 장애), relieve anxiety(불안을 덜다), a source of anxiety(불안의 원인). worry(걱정)보다 anxiety가 더 깊고 막연한 불안. anxious(형용사, 2296)와 짝.",
+  "syn": ["worry(걱정)", "unease(불안)", "apprehension(우려)"],
+  "anti": ["calm(평온)", "relief(안도)", "ease(편안함)"],
+  "idiom": ["an anxiety disorder(불안 장애)", "separation anxiety(분리 불안)", "a source of anxiety(불안의 원인)"],
+  "colloc": ["cause anxiety(불안을 유발하다)", "feel anxiety(불안을 느끼다)", "anxiety about(~에 대한 불안)"],
+  "ex_add": "Exams are a major source of anxiety for students.  (anxiety=불안)"
+ },
+ {
+  "num": "2296",
+  "hw": "anxious",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "마음이 '죄어 와' 불안한·간절한.",
+  "senses": [
+   "1) 불안한·걱정하는",
+   "2) (anxious about) ~을 염려하는",
+   "3) (anxious to V) 몹시 ~하고 싶어 하는"
+  ],
+  "etym": "라틴어 anxius < angere(조이다). '마음이 죄어 오는'이 핵심. angere(조이다) 뿌리로 anxiety(2295)·anger(2288)·anguish가 묶인다.",
+  "deriv": "angere(조이다) -> 'anxious'. '불안한(anxious about the future)' -> '간절한(anxious to help, 돕고 싶어 하는)'. angere 뿌리로 anxiety(2295)·anger·anguish와 묶인다. anxiously(불안하게)가 부사. 한국 학습자 핵심: anxious about(~을 걱정하는, 불안)과 anxious to V/for(~을 간절히 바라는, 열망) 두 뜻! be anxious to please(잘 보이려 안달하다). worried(걱정하는, 1471)·nervous(긴장한)와 유의어. eager(열망하는)와도 통함(anxious to). anxiety(명사)/anxious(형용사) 짝.",
+  "syn": ["worried(걱정하는)", "nervous(불안한)", "eager(간절한)"],
+  "anti": ["calm(차분한)", "relaxed(느긋한)", "carefree(태평한)"],
+  "idiom": ["anxious about(~을 걱정하는)", "anxious to V(몹시 ~하고 싶은)", "anxious for(~을 갈망하는)"],
+  "colloc": ["anxious about(~에 대해 불안한)", "increasingly anxious(점점 불안해하는)", "anxious to please(잘 보이려 애쓰는)"],
+  "ex_add": "She was anxious about her exam results.  (anxious about=~을 걱정하는)"
+ },
+ {
+  "num": "2297",
+  "hw": "apology",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "잘못을 '되받아 해명하는' 사과.",
+  "senses": [
+   "1) 사과·사죄",
+   "2) 해명·변명",
+   "3) (an apology for) 형편없는 ~"
+  ],
+  "etym": "그리스어 apologia = apo(떨어져·되받아) + logos(말). 본래 '변론·해명'. apologize(사과하다, 1506)·logic(논리)·dialogue(대화)가 같은 logos(말) 뿌리.",
+  "deriv": "apo + logos(말) -> 'apology'. '사과(make an apology)' -> '변명' -> 'an apology for(형편없는 ~: an apology for a meal 식사라고 할 수도 없는 것)'. logos(말) 뿌리로 apologize(1506)·logic·dialogue와 묶인다. 한국 학습자: make/offer an apology(사과하다), owe someone an apology(~에게 사과해야 한다), a letter of apology(사과 편지), no apology necessary(사과할 것 없다). apologize(동사, 1506)/apology(명사) 짝. 발음 /əˈpɒlədʒi/.",
+  "syn": ["regret(유감 표명)", "excuse(변명)"],
+  "anti": ["insult(모욕)"],
+  "idiom": ["make an apology(사과하다)", "owe someone an apology(~에게 사과할 일이 있다)", "an apology for(형편없는 ~)"],
+  "colloc": ["public apology(공개 사과)", "formal apology(공식 사과)", "owe an apology(사과해야 하다)"],
+  "ex_add": "I think you owe her an apology.  (owe an apology=사과해야 한다)"
+ },
+ {
+  "num": "2298",
+  "hw": "apparent",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "겉으로 '훤히 드러나는' = 명백한 / 겉보기의.",
+  "senses": [
+   "1) 분명한·명백한",
+   "2) 겉보기의·외견상의",
+   "3) (~인 것 같은) 표면상의"
+  ],
+  "etym": "라틴어 apparens < apparere = ad(~로) + parere(나타나다·보이다). '눈앞에 나타남'이 핵심. ad-가 ap-로 동화. parere(나타나다) 뿌리로 appear(나타나다)·apparently(2299)·transparent(투명한)가 묶인다.",
+  "deriv": "ad + parere(나타나다) -> 'apparent'. '명백한(for no apparent reason, 뚜렷한 이유 없이)' -> '겉보기의(apparent calm, 겉으로의 평온)'. parere(나타나다) 뿌리로 appear·apparently(2299)·transparent와 묶인다. 한국 학습자 주의: apparent가 '명백한'(it became apparent)과 '겉보기의'(apparent vs real, 실제와 다른 외견) 두 뜻 — 후자는 '실제론 아닐 수도'. it is apparent that(~은 분명하다), for no apparent reason(까닭 없이). obvious(1907)·evident와 유의어. appear/apparent/apparently 가족.",
+  "syn": ["obvious(분명한)", "evident(명백한)", "seeming(겉보기의)"],
+  "anti": ["unclear(불분명한)", "hidden(숨겨진)", "real(실제의)"],
+  "idiom": ["for no apparent reason(뚜렷한 이유 없이)", "it is apparent that(~은 명백하다)", "apparent vs real(외견상 vs 실제)"],
+  "colloc": ["apparent reason(명백한 이유)", "become apparent(분명해지다)", "apparent contradiction(겉보기 모순)"],
+  "ex_add": "It soon became apparent that he was lying.  (apparent=분명한)"
+ },
+ {
+  "num": "2299",
+  "hw": "apparently",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "보아하니·듣자 하니 = 외견상·~인 듯하다.",
+  "senses": [
+   "1) (듣기로는) ~인 것 같다·~라고 한다",
+   "2) 보아하니·외견상",
+   "3) 분명히"
+  ],
+  "etym": "apparent(명백한·겉보기의, 라틴어 ad + parere 나타나다) + -ly. parere(나타나다) 뿌리로 apparent(2298)·appear·transparent와 묶인다.",
+  "deriv": "apparent(겉보기의) -> 'apparently'. 한국 학습자 핵심: apparently는 '내가 직접 본 건 아니지만 들으니/보아하니 ~인 듯'이라는 전언·추정 부사로 매우 자주 — Apparently, they're getting married(듣자 하니 둘이 결혼한대). '명백히'(= clearly)보다 '~라고 한다'는 뉘앙스가 훨씬 흔함! apparently not(아닌 것 같다), apparently so(그런 것 같다). 직접 확인 안 한 정보를 전할 때. seemingly와 유의어. appear/apparent/apparently 가족.",
+  "syn": ["seemingly(보아하니)", "evidently(보기에)", "supposedly(~라고 한다)"],
+  "anti": ["definitely(확실히)", "certainly(틀림없이)"],
+  "idiom": ["apparently not(아닌 것 같다)", "apparently so(그런 듯하다)"],
+  "colloc": ["apparently true(사실인 듯한)", "apparently not(아닌 모양인)", "apparently random(무작위인 듯한)"],
+  "ex_add": "Apparently, they're moving to Canada next year.  (apparently=듣자 하니)"
+ },
+ {
+  "num": "2300",
+  "hw": "appeal",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "마음을 '~로 몰아' 호소함 -> 매력 / 항소.",
+  "senses": [
+   "1) 호소·간청 / 호소하다",
+   "2) 매력·끄는 힘 / 마음을 끌다",
+   "3) (법) 항소(하다)"
+  ],
+  "etym": "라틴어 appellare = ad(~로) + pellere(몰다·치다). '~로 마음을 몰아감'이 핵심. ad-가 ap-로 동화. pellere(몰다) 뿌리로 push(밀다, 2000)·compel(강요하다)·expel(쫓아내다)·repel(밀어내다)이 묶인다.",
+  "deriv": "ad + pellere(몰다) -> 'appeal'. '호소하다(appeal for help)' -> '마음을 끌다(appeal to young people)' -> 법률 '항소하다'. pellere(몰다) 뿌리로 compel·expel·repel·push와 묶인다. appealing(매력적인)이 파생. 한국 학습자: appeal to(~에게 호소하다 / ~의 마음을 끌다, 두 뜻!), appeal for(~을 호소하다), wide appeal(폭넓은 매력), make an appeal(호소하다·항소하다), have appeal(매력이 있다). -ed/-ing — appealing(매력적인, 대상).",
+  "syn": ["plea(간청)", "attraction(매력)", "request(호소)"],
+  "anti": ["repel(질색하게 하다)"],
+  "idiom": ["appeal to(~에게 호소하다·마음을 끌다)", "appeal for(~을 호소하다)", "have appeal(매력이 있다)", "wide appeal(폭넓은 인기)"],
+  "colloc": ["wide appeal(폭넓은 매력)", "appeal for help(도움을 호소하다)", "popular appeal(대중적 매력)"],
+  "ex_add": "The design appeals to young customers.  (appeal to=~의 마음을 끌다)"
+ },
+ {
+  "num": "2301",
+  "hw": "applicant",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "어딘가에 '자신을 갖다 붙여' 지원하는 사람 = 지원자.",
+  "senses": [
+   "1) 지원자·신청자",
+   "2) 응모자·출원인",
+   "3) 후보자"
+  ],
+  "etym": "apply(지원하다) + -ant. apply < 라틴어 applicare = ad(~에) + plicare(접다·붙이다). '~에 갖다 붙임'이 핵심. plicare(접다) 뿌리로 application(지원, 1507)·employ(고용, 1695)·imply(함축하다)·complicate가 묶인다.",
+  "deriv": "ad + plicare(붙이다) -> apply -> 'applicant'. '지원자(a job applicant)'. plicare(접다) 뿌리로 application(1507)·apply·employ·imply와 묶인다 — 같은 plicare를 application·employ에서 봤음. -ant 행위자 접미사(assistant, accountant, applicant). 한국 학습자: a job applicant(입사 지원자), a successful applicant(합격자), screen applicants(지원자를 심사하다). apply(지원하다)/application(지원, 1507)/applicant(지원자) 가족. candidate(후보, 1560)와 유의어.",
+  "syn": ["candidate(후보자)", "entrant(응모자)", "petitioner(신청인)"],
+  "anti": [],
+  "idiom": ["a job applicant(입사 지원자)", "a successful applicant(합격자)"],
+  "colloc": ["job applicant(입사 지원자)", "successful applicant(합격한 지원자)", "screen applicants(지원자를 거르다)"],
+  "ex_add": "There were over a hundred applicants for the job.  (applicant=지원자)"
+ },
+ {
+  "num": "2302",
+  "hw": "approach",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "'가까이 다가감' = 접근 / 접근법.",
+  "senses": [
+   "1) (동사) 다가가다·접근하다",
+   "2) (문제에) 접근하다·다루다",
+   "3) (n.) 접근(법)·방식 / 진입로"
+  ],
+  "etym": "후기 라틴어 appropiare = ad(~로) + prope(가까운). '가까이 감'이 핵심. ad-가 ap-로 동화. prope(가까운) 뿌리로 approximately(대략, 1510)·proximity(근접)가 묶인다.",
+  "deriv": "ad + prope(가까운) -> 'approach'. 동사 '다가가다(approach the door)·문제에 접근하다(approach a problem)' -> 명사 '접근법(a new approach)'. prope(가까운) 뿌리로 approximately(1510)·proximity와 묶인다 — 같은 prope를 approximately에서 봤음. 한국 학습자: approach는 타동사라 전치사 없이(approach *to* the city는 틀림! approach the city), an approach to(~에 대한 접근법, 명사일 땐 to), a fresh approach(새로운 방식), easy to approach(가까이하기 쉬운). method·way와 유의어(방식 뜻).",
+  "syn": ["method(방법)", "come near(다가가다)", "tackle(다루다)"],
+  "anti": ["retreat(물러나다)", "avoid(피하다)", "leave(떠나다)"],
+  "idiom": ["an approach to(~에 대한 접근법)", "a fresh approach(새로운 방식)", "approachable(가까이하기 쉬운)"],
+  "colloc": ["new approach(새 접근법)", "approach a problem(문제에 접근하다)", "practical approach(실용적 방식)"],
+  "ex_add": "We need a fresh approach to this problem.  (approach=접근법)"
+ },
+ {
+  "num": "2303",
+  "hw": "appropriate",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "상황에 '제 것처럼 꼭 맞는' = 적절한.",
+  "senses": [
+   "1) 적절한·알맞은·타당한",
+   "2) (상황·격식에) 어울리는",
+   "3) (동사) 도용하다·전용하다"
+  ],
+  "etym": "라틴어 appropriare = ad(~로) + proprius(자기 자신의·고유한). '~에 꼭 맞게 제 것으로 함'이 핵심. ad-가 ap-로 동화. proprius(고유한) 뿌리로 proper(적절한, 1991)·property(재산, 1993)가 묶인다.",
+  "deriv": "ad + proprius(고유한) -> 'appropriate'. 형용사 '적절한(appropriate behavior)' -> 동사 '도용하다(/əˈproʊprieɪt/)'. proprius(고유한) 뿌리로 proper(1991)·property(1993)와 묶인다 — 같은 proprius를 proper에서 봤음. appropriately(적절히, 2304)가 부사. 한국 학습자: appropriate for/to(~에 적절한), as appropriate(상황에 맞게), where appropriate(해당되는 경우). 형용사(/əˈproʊpriət/)와 동사(/-eɪt/) 발음이 다름! proper(1991)와 유의어. inappropriate(부적절한)가 반의.",
+  "syn": ["suitable(알맞은)", "proper(적절한)", "fitting(어울리는)"],
+  "anti": ["inappropriate(부적절한)", "unsuitable(맞지 않는)"],
+  "idiom": ["appropriate for(~에 적절한)", "as appropriate(상황에 맞게)", "where appropriate(해당되는 경우에)"],
+  "colloc": ["appropriate behavior(적절한 행동)", "appropriate for(~에 알맞은)", "deemed appropriate(적절하다고 여겨지는)"],
+  "ex_add": "That joke wasn't appropriate for the occasion.  (appropriate for=~에 적절한)"
+ },
+ {
+  "num": "2304",
+  "hw": "appropriately",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "상황에 꼭 맞게 = 적절히·알맞게.",
+  "senses": [
+   "1) 적절히·알맞게",
+   "2) 상황에 어울리게",
+   "3) 격식에 맞게"
+  ],
+  "etym": "appropriate(적절한, 라틴어 ad + proprius 고유한) + -ly. proprius(고유한) 뿌리로 appropriate(2303)·proper(1991)·property(1993)와 묶인다.",
+  "deriv": "appropriate(적절한) -> 'appropriately'. '적절히(dress appropriately, 상황에 맞게 입다)·알맞게(respond appropriately)'. proprius(고유한) 뿌리. 한국 학습자: appropriately dressed(상황에 맞게 차려입은), respond appropriately(적절히 대응하다), appropriately named(이름값 하는·딱 맞게 이름 붙은). properly(제대로, 1992)·suitably와 유의어. inappropriately(부적절하게)가 반의. appropriate/appropriately 가족. behave appropriately(예의에 맞게 행동하다).",
+  "syn": ["suitably(알맞게)", "properly(제대로)", "fittingly(어울리게)"],
+  "anti": ["inappropriately(부적절하게)", "wrongly(잘못)"],
+  "idiom": ["appropriately dressed(상황에 맞게 차려입은)", "appropriately named(이름값 하는)"],
+  "colloc": ["appropriately dressed(적절히 차려입은)", "respond appropriately(적절히 대응하다)", "behave appropriately(예의 바르게 행동하다)"],
+  "ex_add": "Please dress appropriately for the interview.  (appropriately=상황에 맞게)"
+ },
+ {
+  "num": "2305",
+  "hw": "approval",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "'좋다고 인정함' = 승인·찬성.",
+  "senses": [
+   "1) 승인·허가·결재",
+   "2) 찬성·인정",
+   "3) 호감·긍정적 평가"
+  ],
+  "etym": "approve(승인하다) + -al. approve < 라틴어 approbare = ad(~로) + probare(좋다고 입증하다) < probus(좋은). '좋다고 인정함'이 핵심. probare(입증하다) 뿌리로 prove(1996)·approve(2306)·probable(있음 직한)이 묶인다.",
+  "deriv": "ad + probare(입증하다) -> approve -> 'approval'. '승인(seek approval, 승인을 구하다)' -> '찬성(a nod of approval, 동의의 끄덕임)'. probare(입증하다) 뿌리로 prove(1996)·approve(2306)·probable과 묶인다 — 같은 probare를 prove에서 봤음. 한국 학습자: seek/get approval(승인을 구하다/받다), give one's approval(승인하다), subject to approval(승인을 조건으로), an approval rating(지지율), a seal of approval(인증·인정). disapproval(반대)이 반의. approve(2306)와 짝.",
+  "syn": ["consent(동의)", "authorization(허가)", "endorsement(지지)"],
+  "anti": ["disapproval(반대)", "rejection(거부)", "objection(이의)"],
+  "idiom": ["seek approval(승인을 구하다)", "a seal of approval(인증)", "an approval rating(지지율)", "subject to approval(승인을 조건으로)"],
+  "colloc": ["official approval(공식 승인)", "seek approval(승인을 받다)", "approval rating(지지율)"],
+  "ex_add": "The plan needs approval from the committee.  (approval=승인)"
+ },
+ {
+  "num": "2306",
+  "hw": "approve",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "'좋다고 입증·인정해' 승인하다·찬성하다.",
+  "senses": [
+   "1) 승인하다·허가하다·결재하다",
+   "2) (approve of) ~을 좋게 여기다·찬성하다",
+   "3) 인가하다"
+  ],
+  "etym": "라틴어 approbare = ad(~로) + probare(좋다고 입증하다) < probus(좋은). '좋다고 인정함'이 핵심. probare(입증하다) 뿌리로 prove(1996)·approval(2305)·probable·probation이 묶인다.",
+  "deriv": "ad + probare(입증하다) -> 'approve'. '승인하다(approve the plan)' -> 'approve of(~을 좋게 여기다)'. probare(입증하다) 뿌리로 prove(1996)·approval(2305)·probable과 묶인다. 한국 학습자 핵심 구별: approve + 목적어(공식 승인: approve the budget)와 approve of(~을 마음에 들어하다·찬성: I don't approve of smoking)! approved by(~의 승인을 받은), a doctor-approved method. disapprove(반대하다)가 반의. approve(동사)/approval(명사, 2305) 짝.",
+  "syn": ["authorize(허가하다)", "endorse(지지하다)", "consent(동의하다)"],
+  "anti": ["disapprove(반대하다)", "reject(거부하다)", "veto(거부권을 행사하다)"],
+  "idiom": ["approve of(~을 찬성하다·좋게 여기다)", "approved by(~의 승인을 받은)"],
+  "colloc": ["approve a plan(계획을 승인하다)", "approve of(~을 찬성하다)", "officially approve(공식 승인하다)"],
+  "ex_add": "Her parents don't approve of her new boyfriend.  (approve of=~을 좋게 여기다)"
+ },
+ {
+  "num": "2307",
+  "hw": "arise",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "(문제·상황이) '생겨나다·일어나다'.",
+  "senses": [
+   "1) (문제·기회가) 생기다·발생하다",
+   "2) (~에서) 비롯되다",
+   "3) (격식) 일어서다·떠오르다"
+  ],
+  "etym": "a(위로) + rise(오르다, 고대 영어 rīsan). '위로 솟아 생겨남'이 핵심. rise(오르다)·raise(올리다, 2009)·arouse(불러일으키다)와 한 가족. arise-arose-arisen(불규칙).",
+  "deriv": "a + rise(오르다) -> 'arise'. '발생하다(problems arise)' -> 'arise from(~에서 비롯되다)'. rise·raise(2009)·arouse와 묶인다. arise-arose-arisen. 한국 학습자: arise는 주로 추상적 발생(문제·기회·의문이 생기다)에, rise는 물리적 상승(해가 뜨다)에. should the need arise(필요하다면), arise from/out of(~에서 생기다), a problem arises(문제가 생기다). raise(타동사)/rise(자동사)/arise(자동사, 추상)를 함께 정리. occur(1910)와 유의어.",
+  "syn": ["occur(일어나다)", "emerge(생겨나다)", "come up(생기다)"],
+  "anti": ["disappear(사라지다)", "subside(가라앉다)"],
+  "idiom": ["arise from(~에서 비롯되다)", "should the need arise(필요할 경우)", "as the occasion arises(기회가 생기는 대로)"],
+  "colloc": ["problems arise(문제가 발생하다)", "arise from(~에서 비롯되다)", "questions arise(의문이 생기다)"],
+  "ex_add": "Problems may arise if we don't plan carefully.  (arise=발생하다)"
+ },
+ {
+  "num": "2308",
+  "hw": "armed",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "무기를 '갖춘' = 무장한 / ~으로 무장한.",
+  "senses": [
+   "1) 무장한·무기를 든",
+   "2) (the armed forces) 군의·군대의",
+   "3) (armed with) ~을 갖춘"
+  ],
+  "etym": "arm(무장시키다, 라틴어 arma 무기)의 과거분사. arma(무기) 뿌리로 arms(무기, 2309)·army(군대)·armor(갑옷)·alarm(경보, 2278)이 묶인다.",
+  "deriv": "arma(무기) -> arm(무장시키다) -> 'armed(무장한)'. '무장한(an armed robber, 무장 강도)' -> 'the armed forces(군대)' -> 'armed with(~을 갖춘: armed with facts)'. arma(무기) 뿌리로 arms(2309)·army·alarm(2278)과 묶인다 — 같은 arma를 alarm에서 봤음. 한국 학습자: armed robbery(무장 강도), the armed forces(군대), armed conflict(무력 충돌), armed with(~으로 무장한·~을 갖춘, 비유로도). unarmed(비무장의)가 반의. arm(팔/무장시키다)/arms(무기)/armed(무장한)/army(군대) 가족.",
+  "syn": ["armed forces(군)", "equipped(갖춘)"],
+  "anti": ["unarmed(비무장의)", "defenseless(무방비의)"],
+  "idiom": ["the armed forces(군대)", "armed with(~으로 무장한)", "armed and dangerous(무장하여 위험한)", "armed to the teeth(완전 무장한)"],
+  "colloc": ["armed robbery(무장 강도)", "armed forces(군대)", "armed conflict(무력 충돌)"],
+  "ex_add": "The bank was robbed by an armed man.  (armed=무장한)"
+ },
+ {
+  "num": "2309",
+  "hw": "arms",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "전쟁에 쓰는 '무기·병기' (복수).",
+  "senses": [
+   "1) 무기·병기·군비",
+   "2) (the arms) 무력·전투",
+   "3) 문장(紋章)"
+  ],
+  "etym": "라틴어 arma(무기·도구). '싸움 도구'가 핵심. arma(무기) 뿌리로 armed(2308)·army(군대)·armor(갑옷)·alarm(2278)·armament(군비)이 묶인다. (신체 부위 arm(팔)은 별개 어원.)",
+  "deriv": "arma(무기) -> 'arms'. '무기·군비(the arms trade, 무기 거래)' -> '무력(take up arms, 무기를 들다)' -> '문장'. arma 뿌리로 armed(2308)·army·alarm(2278)과 묶인다. 한국 학습자: 무기 뜻의 arms는 항상 복수, 신체 arm(팔)의 복수와 형태 같으나 별개. take up arms(무기를 들다·맞서 싸우다), an arms race(군비 경쟁), bear arms(무기를 소지하다), up in arms(분개한), a call to arms(전투 소집). weapon(2215, 개별 무기)과 유의어이나 arms는 집합·군비. armed(2308)와 짝.",
+  "syn": ["weapons(무기)", "armaments(군비)", "munitions(군수품)"],
+  "anti": [],
+  "idiom": ["take up arms(무기를 들다)", "an arms race(군비 경쟁)", "up in arms(격분한)", "a call to arms(전투 소집)", "lay down one's arms(무기를 내려놓다)"],
+  "colloc": ["arms trade(무기 거래)", "arms race(군비 경쟁)", "bear arms(무기를 소지하다)"],
+  "ex_add": "The two nations agreed to reduce their arms.  (arms=무기·군비)"
+ },
+ {
+  "num": "2310",
+  "hw": "arrow",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "활로 쏘는 '화살' -> 화살표.",
+  "senses": [
+   "1) 화살",
+   "2) 화살표(→)",
+   "3) 화살 모양의 것"
+  ],
+  "etym": "고대 영어 arwe(화살). 라틴어 arcus(활)와 먼 친척. '활로 쏘는 가는 막대'가 핵심. bow and arrow(활과 화살)로 짝지어 다님.",
+  "deriv": "'화살(shoot an arrow)' -> '화살표(follow the arrows, 화살표를 따라가다)'. 한국 학습자: a bow and arrow(활과 화살), an arrow key(방향키), straight as an arrow(아주 곧은·정직한), the arrow of time(시간의 화살, 물리), shoot an arrow(화살을 쏘다). bow(활)와 짝. 화살표 →는 영어로 arrow. Cupid's arrow(큐피드의 화살, 사랑). target(과녁)을 향해 쏘는 것.",
+  "syn": ["dart(다트)", "shaft(화살대)", "pointer(화살표)"],
+  "anti": [],
+  "idiom": ["a bow and arrow(활과 화살)", "straight as an arrow(아주 곧은)", "the arrow of time(시간의 화살)"],
+  "colloc": ["shoot an arrow(화살을 쏘다)", "bow and arrow(활과 화살)", "arrow key(방향키)"],
+  "ex_add": "Follow the arrows to the exit.  (arrow=화살표)"
+ },
+ {
+  "num": "2311",
+  "hw": "artificial",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "사람이 '기술로 만든' = 인공의 / 꾸민.",
+  "senses": [
+   "1) 인공의·인조의",
+   "2) 인위적인·부자연스러운",
+   "3) (감정이) 꾸민·거짓의"
+  ],
+  "etym": "라틴어 artificialis < artificium = ars(기술·예술) + facere(만들다). '기술로 만든'이 핵심. ars(예술) 뿌리로 art·artistic(2312)·artwork(2313)·artisan이, facere(만들다) 뿌리로 fact·effect·affair(2267)·factory가 묶인다.",
+  "deriv": "ars(기술) + facere(만들다) -> 'artificial'. '인공의(artificial light, 인공조명)' -> '인위적인(an artificial smile, 억지웃음)'. ars(예술) 뿌리로 art·artistic·artwork와, facere(만들다) 뿌리로 fact·affair·factory와 묶인다 — 두 어근 다 재등장. 한국 학습자: artificial intelligence(인공지능 AI), artificial flowers(조화), artificial sweetener(인공 감미료), an artificial smile(가식적 미소). natural(자연의)·genuine(진짜의)이 반의. synthetic(합성의)·man-made(인공의)와 유의어.",
+  "syn": ["synthetic(합성의)", "man-made(인공의)", "fake(가짜의)"],
+  "anti": ["natural(자연의)", "genuine(진짜의)", "real(실제의)"],
+  "idiom": ["artificial intelligence(인공지능)", "an artificial smile(억지웃음)", "artificial flowers(조화)"],
+  "colloc": ["artificial intelligence(인공지능)", "artificial light(인공조명)", "artificial flavor(인공 향료)"],
+  "ex_add": "The room was lit by artificial light.  (artificial=인공의)"
+ },
+ {
+  "num": "2312",
+  "hw": "artistic",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "예술에 관한 / 예술적 재능이 있는.",
+  "senses": [
+   "1) 예술의·예술적인",
+   "2) 예술적 재능이 있는·심미안이 있는",
+   "3) 미적인·세련된"
+  ],
+  "etym": "art(예술) + -istic. art < 라틴어 ars(기술·예술). '예술에 관한'이 핵심. ars(예술) 뿌리로 artist(예술가)·artistic·artwork(2313)·artificial(2311)·artisan(장인)이 묶인다.",
+  "deriv": "ars(예술) -> art -> 'artistic'. '예술적인(artistic talent, 예술적 재능)' -> '심미안이 있는(an artistic person)'. ars(예술) 뿌리로 art·artist·artwork·artificial과 묶인다. artistically(예술적으로)가 부사. 한국 학습자: artistic talent/ability(예술적 재능), artistic freedom(예술적 자유), the artistic director(예술 감독), artistic license(예술적 파격·창작의 자유). art(예술)/artist(예술가)/artistic(예술적인)/artistry(예술성) 가족. artificial(인공의, 2311)과 어원 ars로 묶임.",
+  "syn": ["creative(창의적인)", "aesthetic(미적인)", "imaginative(상상력이 풍부한)"],
+  "anti": ["unartistic(예술성 없는)", "tasteless(미적 감각이 없는)"],
+  "idiom": ["artistic license(예술적 파격)", "artistic freedom(예술적 자유)", "artistic talent(예술적 재능)"],
+  "colloc": ["artistic talent(예술적 재능)", "artistic style(예술적 양식)", "highly artistic(매우 예술적인)"],
+  "ex_add": "She comes from a very artistic family.  (artistic=예술적 재능이 있는)"
+ },
+ {
+  "num": "2313",
+  "hw": "artwork",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "예술 작품 = 미술품 / (인쇄용) 도판.",
+  "senses": [
+   "1) 미술품·예술 작품",
+   "2) (책·앨범의) 삽화·도판",
+   "3) (집합적) 미술 작품들"
+  ],
+  "etym": "art(예술) + work(작품). '예술로 만든 작품'이 핵심. art < 라틴어 ars(예술). ars(예술) 뿌리로 art·artist·artistic(2312)·artificial(2311)이 묶인다.",
+  "deriv": "art + work -> 'artwork'. '미술품(original artwork)' -> 책·앨범의 '도판(album artwork, 앨범 표지 그림)'. ars(예술) 뿌리로 art·artistic·artificial과 묶인다. 한국 학습자: artwork는 보통 불가산(또는 집합) — 개별 작품은 a work of art/a piece of art. cover artwork(표지 그림), original artwork(원작 미술품), digital artwork(디지털 작품). artwork(작품물)과 artist(작가)·artistic(예술적인)을 가족으로. work of art(예술 작품)와 유의어.",
+  "syn": ["art(미술)", "illustration(삽화)", "a work of art(예술품)"],
+  "anti": [],
+  "idiom": ["a work of art(예술 작품)", "cover artwork(표지 도안)", "original artwork(원작 미술품)"],
+  "colloc": ["original artwork(원작 미술품)", "digital artwork(디지털 작품)", "album artwork(앨범 표지)"],
+  "ex_add": "The gallery displays artwork by local artists.  (artwork=미술품)"
+ },
+ {
+  "num": "2314",
+  "hw": "ashamed",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "잘못·창피함에 '부끄러운'.",
+  "senses": [
+   "1) 부끄러운·창피한",
+   "2) (ashamed of) ~을 부끄러워하는",
+   "3) (ashamed to V) 부끄러워서 ~ 못 하는"
+  ],
+  "etym": "a(강조) + shame(부끄러움, 고대 영어 sceamu)의 과거분사형. '수치심에 휩싸인'이 핵심. shame(수치)·shameful(수치스러운)·shameless(뻔뻔한)와 한 가족.",
+  "deriv": "shame(부끄러움) -> 'ashamed(부끄러운)'. 'be ashamed of(~을 부끄러워하다)' -> 'ashamed to V(부끄러워서 ~ 못 하다)'. shame(수치)·shameful·shameless와 묶인다. 한국 학습자 핵심 구별: ashamed(도덕적 부끄러움·양심의 가책, 잘못을 했을 때)와 embarrassed(사회적 민망함·당혹, 실수로 창피할 때, 1691)는 다름! be ashamed of oneself(스스로 부끄럽다), ashamed to admit(인정하기 부끄러운), nothing to be ashamed of(부끄러울 것 없는). proud(자랑스러운, 1995)가 반의.",
+  "syn": ["embarrassed(창피한)", "guilty(가책을 느끼는)", "humiliated(굴욕적인)"],
+  "anti": ["proud(자랑스러운)", "shameless(뻔뻔한)"],
+  "idiom": ["be ashamed of(~을 부끄러워하다)", "ashamed to admit(인정하기 부끄러운)", "nothing to be ashamed of(부끄러울 것 없는)", "ashamed of oneself(스스로 부끄러운)"],
+  "colloc": ["ashamed of(~을 부끄러워하는)", "deeply ashamed(몹시 부끄러운)", "feel ashamed(부끄러움을 느끼다)"],
+  "ex_add": "You should be ashamed of your behavior.  (be ashamed of=~을 부끄러워하다)"
+ },
+ {
+  "num": "2315",
+  "hw": "aside",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'한쪽 옆으로' 비켜·따로.",
+  "senses": [
+   "1) 한쪽으로·옆으로",
+   "2) (따로) 떼어 두고·제쳐 두고",
+   "3) (aside from) ~을 제외하고 / (n.) 방백"
+  ],
+  "etym": "a(~로) + side(옆). '옆쪽으로'가 핵심. side(옆)와 한 가족. alongside(2279)·beside의 그 side.",
+  "deriv": "a + side(옆) -> 'aside'. '옆으로(step aside, 옆으로 비키다)' -> '따로 떼어(set aside, 따로 두다)' -> 'aside from(~을 제외하고)'. 한국 학습자: set/put aside(따로 떼어 두다·제쳐 두다), step aside(비켜서다·물러나다), brush aside(무시하다), joking aside(농담은 그만하고), aside from(~ 외에는, = apart from 1505). 명사 aside는 연극의 '방백' 또는 '여담'. side(옆)·alongside(2279)와 가족.",
+  "syn": ["to one side(옆으로)", "apart(따로)", "away(비켜)"],
+  "anti": ["together(한데)", "in the way(앞을 막고)"],
+  "idiom": ["set aside(따로 두다·제쳐 두다)", "step aside(비켜서다)", "aside from(~을 제외하고)", "joking aside(농담은 그만하고)", "brush aside(무시하다)"],
+  "colloc": ["step aside(옆으로 비키다)", "set aside(따로 떼어 두다)", "put aside(제쳐 두다)"],
+  "ex_add": "Let's set aside some money for the trip.  (set aside=따로 떼어 두다)"
+ },
+ {
+  "num": "2316",
+  "hw": "aspect",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "어떤 대상을 '바라본' 한 측면·면.",
+  "senses": [
+   "1) 측면·국면·양상",
+   "2) (문제의) 한 면",
+   "3) (건물의) 방향·전망 / (문법) 상(相)"
+  ],
+  "etym": "라틴어 aspectus < aspicere = ad(~로) + specere(보다). '~을 바라봄'이 핵심. ad-가 a-로. specere(보다) 뿌리로 respect(2042)·inspect·expect(1717)·prospect가 묶인다.",
+  "deriv": "ad + specere(보다) -> 'aspect'. '측면(every aspect of life, 삶의 모든 면)' -> 건물 '방향(a south-facing aspect)' -> 문법 '상'. specere(보다) 뿌리로 respect(2042)·inspect·expect·prospect와 묶인다 — 같은 specere를 respect에서 봤음. 한국 학습자: every aspect of(~의 모든 면), a key aspect(핵심 측면), the positive aspects(긍정적 측면들), in all aspects(모든 면에서). side·facet과 유의어(측면 뜻). specere(보다) 가족.",
+  "syn": ["side(측면)", "facet(국면)", "feature(특징)"],
+  "anti": [],
+  "idiom": ["every aspect of(~의 모든 면)", "a key aspect(핵심 측면)", "in all aspects(모든 면에서)"],
+  "colloc": ["important aspect(중요한 측면)", "every aspect(모든 면)", "positive aspect(긍정적 측면)"],
+  "ex_add": "We discussed every aspect of the plan.  (aspect=측면)"
+ },
+ {
+  "num": "2317",
+  "hw": "assess",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "'곁에 앉아' 값·정도를 가늠하다 = 평가하다.",
+  "senses": [
+   "1) (가치·정도를) 평가하다·가늠하다",
+   "2) (세금·금액을) 산정하다",
+   "3) 사정하다·판단하다"
+  ],
+  "etym": "라틴어 assidere = ad(곁에) + sedere(앉다). 본래 '판사 곁에 앉아 세액을 정함'에서 '평가하다'로. ad-가 as-로 동화. sedere(앉다) 뿌리로 session(회기)·sediment(침전물)·reside(거주하다)·president가 묶인다.",
+  "deriv": "ad + sedere(앉다) -> 'assess'. '평가하다(assess the damage)' -> 세금을 '산정하다'. sedere(앉다) 뿌리로 session·reside·president와 묶인다. assessment(평가, 2318)·assessor(평가자)가 파생. 한국 학습자: assess the situation/risk/damage(상황·위험·피해를 평가하다), assess whether(~인지 판단하다). evaluate(평가하다)와 유의어 — assess는 '재서 가늠'에 방점. sedere(앉다) 가족(session/reside). assess(2317)/assessment(2318) 짝.",
+  "syn": ["evaluate(평가하다)", "gauge(가늠하다)", "appraise(평가하다)"],
+  "anti": [],
+  "idiom": ["assess the situation(상황을 가늠하다)", "assess the damage(피해를 산정하다)", "assess the risk(위험을 평가하다)"],
+  "colloc": ["assess the damage(피해를 평가하다)", "carefully assess(신중히 평가하다)", "assess performance(성과를 평가하다)"],
+  "ex_add": "Doctors will assess his condition tomorrow.  (assess=평가하다)"
+ },
+ {
+  "num": "2318",
+  "hw": "assessment",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "값·정도를 가늠한 '평가·사정'.",
+  "senses": [
+   "1) 평가·사정",
+   "2) (학업) 평가·과제 평가",
+   "3) (세금·금액) 산정"
+  ],
+  "etym": "assess(평가하다, 라틴어 ad + sedere 앉다) + -ment. sedere(앉다) 뿌리로 assess(2317)·session·reside와 묶인다.",
+  "deriv": "assess(평가하다) -> 'assessment'. '평가(a risk assessment, 위험 평가)' -> 학업 '평가(continuous assessment, 상시 평가)' -> 세금 '산정'. sedere(앉다) 뿌리. 한국 학습자: a risk/needs/damage assessment(위험·요구·피해 평가), continuous assessment(과정 평가, 시험 외 과제 등), a fair assessment(공정한 평가), self-assessment(자기 평가). evaluation(평가)과 유의어. assess(동사, 2317)/assessment(명사) 짝. -ment 명사화 접미사.",
+  "syn": ["evaluation(평가)", "appraisal(사정)", "judgment(판단)"],
+  "anti": [],
+  "idiom": ["a risk assessment(위험 평가)", "continuous assessment(상시 평가)", "self-assessment(자기 평가)"],
+  "colloc": ["risk assessment(위험 평가)", "fair assessment(공정한 평가)", "make an assessment(평가하다)"],
+  "ex_add": "The teacher made a fair assessment of my work.  (assessment=평가)"
+ },
+ {
+  "num": "2319",
+  "hw": "asset",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "도움이 되는 '값진 것' = 자산·강점.",
+  "senses": [
+   "1) 자산·재산",
+   "2) 유용한 것·강점·인재",
+   "3) (the assets) 보유 자산"
+  ],
+  "etym": "고대 프랑스어 asez(충분히) < 라틴어 ad satis(충분할 만큼). 본래 '빚을 갚기에 충분한 재산'에서. ad-가 a-로. satis(충분한) 뿌리로 satisfy(만족시키다)·satisfaction(만족)·saturate(흠뻑 적시다)가 묶인다.",
+  "deriv": "ad satis(충분히) -> 'asset'. '자산(financial assets, 금융 자산)' -> '강점·인재(a great asset to the team, 팀의 큰 보탬)'. satis(충분한) 뿌리로 satisfy·satisfaction과 묶인다. 한국 학습자: assets and liabilities(자산과 부채), a valuable asset(소중한 자산·인재), fixed/liquid assets(고정/유동 자산), an asset to(~에게 보탬이 되는 사람/것). liability(부채·골칫거리)가 반의. '돈'뿐 아니라 '도움 되는 사람·자질'도 asset.",
+  "syn": ["resource(자원)", "advantage(강점)", "property(재산)"],
+  "anti": ["liability(부채·골칫거리)", "burden(짐)"],
+  "idiom": ["an asset to(~에게 보탬이 되는)", "assets and liabilities(자산과 부채)", "a valuable asset(귀중한 자산)"],
+  "colloc": ["valuable asset(귀중한 자산)", "financial assets(금융 자산)", "fixed assets(고정 자산)"],
+  "ex_add": "Her language skills are a real asset to the company.  (asset=강점·자산)"
+ },
+ {
+  "num": "2320",
+  "hw": "assign",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "'표시해 정해' 맡기다·배정하다.",
+  "senses": [
+   "1) (일·역할을) 맡기다·배정하다",
+   "2) (자리·번호를) 할당하다·지정하다",
+   "3) (사람을) 파견하다·임명하다"
+  ],
+  "etym": "라틴어 assignare = ad(~에게) + signare(표시하다) < signum(표). '~에게 표시해 정해 줌'이 핵심. ad-가 as-로 동화. signum(표) 뿌리로 sign·signal(2087)·assignment(1513)·design·signature가 묶인다.",
+  "deriv": "ad + signare(표시하다) -> 'assign'. 일을 '맡기다(assign a task)' -> 번호를 '할당하다(assign a number)' -> 사람을 '파견하다(assign someone to a project)'. signum(표) 뿌리로 sign·signal(2087)·assignment(1513)·design과 묶인다 — 같은 signum을 signal·assignment에서 봤음. 한국 학습자: assign A to B(A를 B에 배정하다), assign a task to someone(누구에게 일을 맡기다), be assigned to(~에 배정되다). assignment(과제·임무, 1513)와 짝. allocate(할당하다)와 유의어.",
+  "syn": ["allocate(할당하다)", "designate(지정하다)", "delegate(위임하다)"],
+  "anti": [],
+  "idiom": ["assign A to B(A를 B에 배정하다)", "be assigned to(~에 배정되다)", "assign a task(일을 맡기다)"],
+  "colloc": ["assign a task(과업을 맡기다)", "assign responsibility(책임을 부여하다)", "randomly assign(무작위로 배정하다)"],
+  "ex_add": "The teacher assigned us a difficult project.  (assign=맡기다)"
+ },
+ {
+  "num": "2321",
+  "hw": "assistance",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "곁에 '서서 거들어 줌' = 도움·지원.",
+  "senses": [
+   "1) 도움·원조·지원",
+   "2) (기술·금전) 보조",
+   "3) 조력"
+  ],
+  "etym": "assist(돕다, 라틴어 assistere = ad 곁에 + sistere 서다)의 명사형. sistere(서다) 뿌리로 assist(1514)·consist(1612)·resist·insist·persist가 묶인다.",
+  "deriv": "ad + sistere(서다) -> assist -> 'assistance'. '도움(financial assistance, 재정 지원)'. sistere(서다) 뿌리로 assist(1514)·consist(1612)·resist·insist와 묶인다 — 같은 sistere를 assist·consist에서 봤음. 한국 학습자: with the assistance of(~의 도움으로), come to someone's assistance(~을 도우러 가다), financial/technical assistance(재정/기술 지원), be of assistance(도움이 되다, Can I be of assistance? 도와드릴까요?). help(도움, 일상)보다 격식. assist(동사, 1514)/assistance(명사)/assistant(조수) 가족 — assistance(도움)와 assistant(조수, 사람) 철자 구별!",
+  "syn": ["help(도움)", "aid(원조)", "support(지원)"],
+  "anti": ["hindrance(방해)", "obstruction(저해)"],
+  "idiom": ["with the assistance of(~의 도움으로)", "come to someone's assistance(돕다)", "be of assistance(도움이 되다)"],
+  "colloc": ["financial assistance(재정 지원)", "technical assistance(기술 지원)", "provide assistance(도움을 제공하다)"],
+  "ex_add": "Can I be of any assistance?  (be of assistance=도움이 되다)"
+ },
+ {
+  "num": "2322",
+  "hw": "associate",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "'동무로 엮어' 연관 짓다·어울리다.",
+  "senses": [
+   "1) (~와) 연관 짓다·결부시키다",
+   "2) (associate with) ~와 어울리다·교제하다",
+   "3) (n.) 동료·준회원"
+  ],
+  "etym": "라틴어 associare = ad(~로) + socius(동료·동무). '동무로 엮음'이 핵심. ad-가 as-로 동화. socius(동료) 뿌리로 social(사회의)·society(사회)·sociable(사교적인)·associated(2323)·association(2324)이 묶인다.",
+  "deriv": "ad + socius(동무) -> 'associate'. '연관 짓다(associate A with B)' -> '어울리다(associate with)' -> 명사 '동료(a business associate)'. socius(동료) 뿌리로 social·society·associated(2323)·association(2324)과 묶인다 — socius 가족 집결. 한국 학습자: associate A with B(A를 B와 연관 짓다), be associated with(~과 관련되다, 2323), associate with(~와 어울리다). 발음 — 동사 /əˈsoʊʃieɪt/, 명사 /əˈsoʊʃiət/. social(사회의)과 한 뿌리.",
+  "syn": ["link(연결하다)", "connect(결부시키다)", "mix with(어울리다)"],
+  "anti": ["dissociate(분리하다)", "separate(떼어 놓다)"],
+  "idiom": ["associate A with B(A를 B와 연관 짓다)", "associate with(~와 어울리다)", "a business associate(사업 동료)"],
+  "colloc": ["associate with(~과 연관 짓다·어울리다)", "closely associate(밀접히 연관시키다)", "associate the smell(냄새를 연상하다)"],
+  "ex_add": "Most people associate the color red with danger.  (associate A with B=A를 B와 연관 짓다)"
+ },
+ {
+  "num": "2323",
+  "hw": "associated",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "동무로 엮여 '관련된·딸린'.",
+  "senses": [
+   "1) (be associated with) ~과 관련된",
+   "2) 연관된·결부된",
+   "3) 제휴한·부속의"
+  ],
+  "etym": "associate(연관 짓다, 라틴어 ad + socius 동료)의 과거분사. socius(동료) 뿌리로 associate(2322)·association(2324)·social과 묶인다.",
+  "deriv": "associate(연관 짓다) -> 'associated(관련된)'. 'be associated with(~과 관련되다)' -> '딸린(associated costs, 부대 비용)'. socius(동료) 뿌리. 한국 학습자: be associated with(~과 관련되다·결부되다, 빈출 수동 구문 — smoking is associated with cancer), closely associated with(~과 밀접한), associated risks/costs(관련된 위험/비용). related(2021)·connected와 유의어. associate(2322)/associated/association(2324) 가족. 'Associated Press(AP 통신)'.",
+  "syn": ["related(관련된)", "connected(연결된)", "linked(이어진)"],
+  "anti": ["unrelated(무관한)", "separate(별개의)"],
+  "idiom": ["be associated with(~과 관련되다)", "closely associated(밀접히 연관된)", "associated costs(부대 비용)"],
+  "colloc": ["associated with(~과 관련된)", "closely associated(밀접히 관련된)", "associated risks(관련 위험)"],
+  "ex_add": "Smoking is associated with many health problems.  (associated with=~과 관련된)"
+ },
+ {
+  "num": "2324",
+  "hw": "association",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "동무로 엮인 '모임·연관'.",
+  "senses": [
+   "1) 협회·단체·연합",
+   "2) 연관·관련(성)",
+   "3) (마음속) 연상"
+  ],
+  "etym": "associate(연관 짓다, 라틴어 ad + socius 동료)의 명사형. socius(동료) 뿌리로 associate(2322)·associated(2323)·social·society와 묶인다.",
+  "deriv": "associate(엮다) -> 'association'. '협회(a trade association, 업계 단체)' -> '연관(an association between A and B)' -> '연상(word association, 단어 연상)'. socius(동료) 뿌리로 social·society와 묶인다. 한국 학습자: in association with(~와 제휴하여), an association with(~과의 관련), a housing/trade association(주택/업계 협회), free association(자유 연상). socius(동료) 가족(social/society/associate/associated/association) 완성. organization·society와 유의어(단체 뜻).",
+  "syn": ["organization(단체)", "connection(연관)", "society(협회)"],
+  "anti": ["dissociation(분리)"],
+  "idiom": ["in association with(~와 제휴하여)", "an association with(~과의 관련)", "free association(자유 연상)"],
+  "colloc": ["trade association(업계 단체)", "close association(밀접한 관련)", "in association with(~와 공동으로)"],
+  "ex_add": "He has a long association with the company.  (association=관련)"
+ },
+ {
+  "num": "2325",
+  "hw": "assume",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "근거 없이 '받아들여' 가정하다 -> (역할을) 떠맡다.",
+  "senses": [
+   "1) (당연히) 가정하다·추정하다",
+   "2) (책임·역할을) 맡다·떠안다",
+   "3) (태도를) 취하다·가장하다"
+  ],
+  "etym": "라틴어 assumere = ad(~로) + sumere(취하다). '받아들여 가짐'이 핵심. ad-가 as-로 동화. sumere(취하다) 뿌리로 consume(소비하다, 1613)·presume(추정하다)·resume(재개하다)·assumption(2326)이 묶인다.",
+  "deriv": "ad + sumere(취하다) -> 'assume'. '가정하다(assume that ~)' -> '떠맡다(assume responsibility)' -> '가장하다(assume an air of, ~인 체하다)'. sumere(취하다) 뿌리로 consume(1613)·presume·resume와 묶인다 — 같은 sumere를 consume에서 봤음. assumption(가정, 2326)이 명사. 한국 학습자: assume (that)절(~라고 가정하다), assume responsibility(책임을 떠맡다), let's assume(~라고 치자), assuming (that)(~라고 가정하면). suppose(1392)와 유의어. assume(2325)/assumption(2326) 짝.",
+  "syn": ["suppose(가정하다)", "presume(추정하다)", "take on(떠맡다)"],
+  "anti": ["know(확실히 알다)", "verify(확인하다)"],
+  "idiom": ["assume that ~(~라고 가정하다)", "assume responsibility(책임을 떠맡다)", "assuming that(~라고 가정하면)", "let's assume(~라고 치자)"],
+  "colloc": ["assume that(~라고 가정하다)", "wrongly assume(잘못 추정하다)", "assume control(통제권을 떠맡다)"],
+  "ex_add": "I assume you've already heard the news.  (assume that ~=~라고 추정하다)"
+ },
+ {
+  "num": "2326",
+  "hw": "assumption",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "근거 없이 받아들인 '가정·추정'.",
+  "senses": [
+   "1) 가정·추정·억측",
+   "2) (책임의) 인수·떠맡음",
+   "3) 당연시함"
+  ],
+  "etym": "assume(가정하다, 라틴어 ad + sumere 취하다)의 명사형. sumere(취하다) 뿌리로 assume(2325)·consume(1613)·presume·resume와 묶인다.",
+  "deriv": "assume(가정하다) -> 'assumption'. '가정(make an assumption)' -> '인수'. sumere(취하다) 뿌리. 한국 학습자: make an assumption(가정하다), on the assumption that(~라는 가정하에), a false/wrong assumption(잘못된 가정), challenge an assumption(통념에 의문을 제기하다), a safe assumption(타당한 추정). assume(동사, 2325)/assumption(명사) 짝. presumption(추정)과 유의어. -tion 명사화. 통념·전제를 가리킬 때 자주.",
+  "syn": ["supposition(가정)", "presumption(추정)", "premise(전제)"],
+  "anti": ["certainty(확실성)", "fact(사실)"],
+  "idiom": ["make an assumption(가정하다)", "on the assumption that(~라는 전제하에)", "a false assumption(잘못된 가정)", "challenge an assumption(통념에 도전하다)"],
+  "colloc": ["make an assumption(가정하다)", "false assumption(잘못된 가정)", "underlying assumption(밑바탕에 깔린 전제)"],
+  "ex_add": "We're working on the assumption that prices will rise.  (assumption=가정)"
+ },
+ {
+  "num": "2327",
+  "hw": "assure",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "'확실하다고' 장담해 안심시키다.",
+  "senses": [
+   "1) (~에게) 장담하다·확언하다",
+   "2) 안심시키다·확신시키다",
+   "3) 보장하다·확실하게 하다"
+  ],
+  "etym": "고대 프랑스어 asseurer = ad(~에게) + securus(걱정 없는·확실한) = se(없이) + cura(걱정). '걱정 없게 해 줌'이 핵심. ad-가 as-로. securus 뿌리로 sure(확신하는)·surely(2136)·secure·security(2068)·insure가 묶인다.",
+  "deriv": "ad + securus(확실한) -> 'assure'. '장담하다(I assure you ~)' -> '안심시키다(assure someone)'. securus(걱정 없는) 뿌리로 sure·surely(2136)·security(2068)·insure와 묶인다 — 같은 securus를 surely·security에서 봤음. assurance(확언·보증)·assured(확신하는)가 파생. 한국 학습자 핵심: assure(~에게 장담하다, 사람 목적어)·ensure(반드시 ~하게 하다, 사물·일)·insure(보험을 들다) 셋 구별! rest assured(안심하세요), I can assure you(장담컨대). securus 가족.",
+  "syn": ["reassure(안심시키다)", "guarantee(보장하다)", "promise(확언하다)"],
+  "anti": ["worry(걱정시키다)", "alarm(불안하게 하다)"],
+  "idiom": ["rest assured(안심하세요)", "I assure you(장담하건대)", "assure someone of(~에게 ~을 확언하다)"],
+  "colloc": ["assure someone(~를 안심시키다)", "I can assure you(장담컨대)", "assure of safety(안전을 보장하다)"],
+  "ex_add": "I can assure you that everything is fine.  (assure=장담하다)"
+ },
+ {
+  "num": "2328",
+  "hw": "astonishing",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "'벼락 맞은 듯' 깜짝 놀랄 만큼 놀라운.",
+  "senses": [
+   "1) 깜짝 놀랄·믿기 힘든",
+   "2) 경이로운·대단한",
+   "3) 어처구니없는"
+  ],
+  "etym": "astonish(놀라게 하다)의 현재분사. astonish < 고대 프랑스어 estoner < 라틴어 ex(밖으로) + tonare(천둥치다). '천둥에 맞은 듯 멍해지게 함'이 핵심. tonare(천둥) 뿌리로 thunder(천둥)·stun(아연케 하다)·detonate(폭발시키다)가 묶인다.",
+  "deriv": "ex + tonare(천둥치다) -> astonish -> 'astonishing'. '깜짝 놀랄(an astonishing discovery)'. tonare(천둥) 뿌리로 thunder·stun·detonate와 묶인다 — '천둥처럼 충격을 줌'. -ing(원인)/-ed(감정) — astonishing(놀라운, 대상)/astonished(놀란, 사람). 한국 학습자: astonishingly(놀랍게도), an astonishing amount(엄청난 양), find it astonishing(놀랍다고 여기다). amazing(2)·astounding과 유의어이나 astonishing이 더 강함. astonish/astonishing/astonished 가족.",
+  "syn": ["amazing(놀라운)", "astounding(경악스러운)", "staggering(엄청난)"],
+  "anti": ["unremarkable(평범한)", "ordinary(보통의)"],
+  "idiom": ["an astonishing amount(엄청난 양)", "astonishingly enough(놀랍게도)", "find it astonishing(놀랍게 여기다)"],
+  "colloc": ["astonishing discovery(놀라운 발견)", "absolutely astonishing(정말 놀라운)", "astonishing speed(놀라운 속도)"],
+  "ex_add": "The team made an astonishing comeback.  (astonishing=깜짝 놀랄 만한)"
+ },
+ {
+  "num": "2329",
+  "hw": "athletic",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "운동에 능한 '탄탄한·운동의'.",
+  "senses": [
+   "1) (몸이) 탄탄한·체격이 좋은",
+   "2) 운동을 잘하는·운동선수다운",
+   "3) 운동 경기의·체육의"
+  ],
+  "etym": "그리스어 athletikos < athletes(경기자) < athlon(상·경기). '상을 걸고 겨루는 경기에 관한'이 핵심. athlete(운동선수)·athletics(육상 경기·체육)가 같은 athlon 뿌리.",
+  "deriv": "athlon(경기) -> athlete -> 'athletic'. 몸 '탄탄한(an athletic build, 탄탄한 체격)' -> '운동을 잘하는(athletic ability)' -> '체육의(athletic events)'. athlete(운동선수)·athletics(육상)가 파생. 한국 학습자: athletic build(탄탄한 체격), athletic ability(운동 능력), athletic shoes(운동화), an athletic scholarship(체육 특기 장학금). athlete(/ˈæθliːt/, 선수)·athletic(/æθˈletɪk/, 운동의)·athletics(육상) 가족 — 강세 이동 주의. fit·sporty와 유의어.",
+  "syn": ["fit(탄탄한)", "muscular(근육질의)", "sporty(운동을 잘하는)"],
+  "anti": ["unfit(허약한)", "sedentary(앉아만 있는)"],
+  "idiom": ["an athletic build(탄탄한 체격)", "athletic ability(운동 능력)", "an athletic scholarship(체육 장학금)"],
+  "colloc": ["athletic build(탄탄한 체격)", "athletic ability(운동 능력)", "athletic performance(운동 능력)"],
+  "ex_add": "He has a lean, athletic build.  (athletic=탄탄한)"
+ },
+ {
+  "num": "2330",
+  "hw": "attachment",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "단단히 '붙임' = 첨부물·부착물 / 애착.",
+  "senses": [
+   "1) (이메일) 첨부 파일",
+   "2) 부착물·부속품",
+   "3) 애착·정·유대"
+  ],
+  "etym": "attach(붙이다, 1516) + -ment. attach < 고대 프랑스어 atachier = a(~에) + tache(말뚝). '말뚝에 매어 둠'이 핵심. attack(공격, '말뚝을 박다')과 친척.",
+  "deriv": "attach(붙이다, 1516) -> 'attachment'. 디지털 '첨부 파일(an email attachment)' -> '부속품(a vacuum attachment)' -> '애착(an emotional attachment, 정서적 유대)'. 한국 학습자: an email attachment(이메일 첨부), open an attachment(첨부 파일을 열다), an attachment to(~에 대한 애착), form an attachment(정이 들다). attach(동사, 1516)/attachment(명사) 짝. -ment 명사화. '첨부물'(물리)과 '애착'(감정) 두 갈래 — 둘 다 '붙음'에서. bond·affection과 유의어(애착 뜻).",
+  "syn": ["accessory(부속품)", "bond(유대)", "affection(애정)"],
+  "anti": ["detachment(무심함·분리)"],
+  "idiom": ["an email attachment(이메일 첨부)", "an attachment to(~에 대한 애착)", "form an attachment(정이 들다)"],
+  "colloc": ["email attachment(이메일 첨부)", "emotional attachment(정서적 애착)", "open an attachment(첨부 파일을 열다)"],
+  "ex_add": "I've sent the report as an email attachment.  (attachment=첨부 파일)"
+ },
+ {
+  "num": "2331",
+  "hw": "attempt",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "이루려 '시도해 봄' = 시도(하다).",
+  "senses": [
+   "1) 시도·기도(企圖)",
+   "2) (동사) 시도하다·꾀하다",
+   "3) (생명·기록에 대한) 노림·도전"
+  ],
+  "etym": "라틴어 attemptare = ad(~로) + temptare(시험하다·꾀다). '~을 향해 해 봄'이 핵심. ad-가 at-로 동화. temptare(시험하다) 뿌리로 tempt(유혹하다)·temptation(유혹)·tentative(시험적인)가 묶인다.",
+  "deriv": "ad + temptare(시험하다) -> 'attempt'. 명사 '시도(make an attempt)' -> 동사 '시도하다(attempt to V)'. temptare 뿌리로 tempt·temptation과 묶인다. 한국 학습자: attempt to V(~하려고 시도하다, attempt *doing*도 가능하나 to V가 흔함), make an attempt at/to(~을 시도하다), a failed attempt(실패한 시도), an assassination attempt(암살 기도), in an attempt to V(~하려는 노력으로). try(시도하다, 일상)보다 격식. a first attempt(첫 시도).",
+  "syn": ["try(시도하다)", "endeavor(노력)", "effort(시도)"],
+  "anti": ["give up(포기하다)", "abandon(단념하다)"],
+  "idiom": ["make an attempt(시도하다)", "attempt to V(~하려 시도하다)", "in an attempt to(~하려는 노력으로)", "a failed attempt(실패한 시도)"],
+  "colloc": ["make an attempt(시도하다)", "failed attempt(실패한 시도)", "attempt to escape(탈출을 시도하다)"],
+  "ex_add": "She made an attempt to break the world record.  (attempt=시도)"
+ },
+ {
+  "num": "2332",
+  "hw": "attorney",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "법적으로 '대리하도록 지명된' 사람 = 변호사·대리인.",
+  "senses": [
+   "1) (미국) 변호사",
+   "2) 법정 대리인",
+   "3) (power of attorney) 위임받은 대리인"
+  ],
+  "etym": "고대 프랑스어 atorne(지명된 자) < atorner = a(~로) + torner(돌리다·향하게 하다) < 라틴어 tornare(돌리다). '~을 대신하도록 지명된 사람'이 핵심. tornare(돌리다) 뿌리로 turn(돌다)·tour(2169)·return이 묶인다.",
+  "deriv": "a + torner(향하게 하다) -> 'attorney'. 미국 '변호사(a defense attorney, 피고 측 변호사)' -> '대리인(power of attorney, 위임장)'. tornare(돌리다) 뿌리로 turn·tour(2169)와 묶인다. 한국 학습자: attorney는 미국식 '변호사'(영국은 solicitor/barrister, 일반은 lawyer 2). a district attorney(지방 검사, DA), an attorney general(법무장관·검찰총장), power of attorney(위임권). lawyer(법률가, 통칭)와 유의어. 발음 /əˈtɜːni/.",
+  "syn": ["lawyer(변호사)", "counsel(변호인)", "advocate(변호사)"],
+  "anti": ["client(의뢰인)"],
+  "idiom": ["a defense attorney(피고 측 변호사)", "power of attorney(위임권)", "a district attorney(지방 검사)", "attorney general(법무장관)"],
+  "colloc": ["defense attorney(변호인)", "district attorney(지방 검사)", "hire an attorney(변호사를 선임하다)"],
+  "ex_add": "You should consult an attorney before signing.  (attorney=변호사)"
+ },
+ {
+  "num": "2333",
+  "hw": "audio",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "'듣는' 소리에 관한 = 음성의·오디오의.",
+  "senses": [
+   "1) 음성의·소리의·오디오의",
+   "2) 녹음의·음향의",
+   "3) (n.) 음성·음향"
+  ],
+  "etym": "라틴어 audire(듣다)에서. '듣는 것에 관한'이 핵심. audire(듣다) 뿌리로 audience(청중)·audible(들리는)·auditorium(강당)·audit(회계 감사)이 묶인다.",
+  "deriv": "audire(듣다) -> 'audio'. '음성의(audio recording, 음성 녹음)' -> 명사 '음향(poor audio, 나쁜 음질)'. audire(듣다) 뿌리로 audience·audible·auditorium·audit과 묶인다. 한국 학습자 핵심 대비: audio(소리·음성)와 video(영상). an audio file/recording(음성 파일/녹음), audio equipment(음향 장비), audiovisual(시청각의 AV). audio-(소리) 접두사로 audiobook(오디오북). audire(듣다) 가족 — audience(청중)와 묶어 기억.",
+  "syn": ["sound(음향)", "acoustic(음향의)"],
+  "anti": ["video(영상의)", "visual(시각의)"],
+  "idiom": ["an audio recording(음성 녹음)", "audiovisual(시청각의)", "audio equipment(음향 기기)"],
+  "colloc": ["audio file(음성 파일)", "audio recording(음성 녹음)", "audio quality(음질)"],
+  "ex_add": "The audio quality of the recording was poor.  (audio=음성의)"
+ },
+ {
+  "num": "2334",
+  "hw": "awareness",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "알아차리고 있음 = 인식·자각.",
+  "senses": [
+   "1) 인식·자각·의식",
+   "2) (문제에 대한) 관심·경각심",
+   "3) 분별력"
+  ],
+  "etym": "aware(아는, 1525) + -ness. aware < 고대 영어 gewær(경계하는) < wær(주의). '알아차림'이 핵심. wary(경계하는)·beware(조심하다)·warn(2210)과 한 가족.",
+  "deriv": "aware(아는, 1525) -> 'awareness(인식)'. '인식(raise awareness, 인식을 높이다)' -> '경각심(public awareness, 대중의 경각심)'. wær(주의) 뿌리로 aware·wary·beware·warn(2210)과 묶인다. 한국 학습자: raise awareness of/about(~에 대한 인식을 높이다), public awareness(대중의 인식), environmental awareness(환경 의식), self-awareness(자기 인식), a lack of awareness(인식 부족). aware(형용사, 1525)/awareness(명사) 짝. -ness 추상명사화. consciousness와 유의어.",
+  "syn": ["consciousness(의식)", "knowledge(인지)", "recognition(인식)"],
+  "anti": ["ignorance(무지)", "unawareness(인식 부족)"],
+  "idiom": ["raise awareness(인식을 높이다)", "public awareness(대중의 인식)", "self-awareness(자기 인식)", "a lack of awareness(인식 부족)"],
+  "colloc": ["public awareness(대중 인식)", "raise awareness(인식을 제고하다)", "environmental awareness(환경 의식)"],
+  "ex_add": "The campaign aims to raise awareness of climate change.  (awareness=인식)"
+ },
+ {
+  "num": "2335",
+  "hw": "awkward",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "'거꾸로 비틀린' = 어색한·곤란한·서투른.",
+  "senses": [
+   "1) 어색한·거북한",
+   "2) (다루기) 곤란한·까다로운",
+   "3) 서투른·어설픈"
+  ],
+  "etym": "고대 노르드어 afugr(거꾸로 된·뒤틀린) + -ward(~쪽으로). '뒤로 비틀린'이 핵심. -ward(방향)는 toward·backward(1526)의 그 접미사. '방향이 어긋나 서투름'.",
+  "deriv": "afugr(거꾸로) + -ward -> 'awkward'. '어색한(an awkward silence, 어색한 침묵)' -> '곤란한(an awkward question)' -> '서투른(awkward movements)'. 한국 학습자: an awkward silence(어색한 침묵), feel awkward(거북하다), an awkward situation(난처한 상황), an awkward age(어중간한 나이), socially awkward(사교성이 떨어지는). 발음 /ˈɔːkwəd/. clumsy(서툰)·embarrassing(난처한, 1692)과 유의어. graceful(우아한)·comfortable(편안한)이 반의. 철자 주의(awk-ward).",
+  "syn": ["uncomfortable(거북한)", "clumsy(서투른)", "embarrassing(난처한)"],
+  "anti": ["comfortable(편안한)", "graceful(우아한)", "smooth(매끄러운)"],
+  "idiom": ["an awkward silence(어색한 침묵)", "an awkward situation(난처한 상황)", "the awkward age(사춘기·어중간한 나이)"],
+  "colloc": ["awkward silence(어색한 침묵)", "feel awkward(어색하다)", "awkward situation(곤란한 상황)"],
+  "ex_add": "There was an awkward silence after his question.  (awkward=어색한)"
+ },
+ {
+  "num": "2336",
+  "hw": "back",
+  "pos": "n., adv., adj., v.",
+  "cefr": "B2",
+  "core": "몸·사물의 '뒤' -> 뒤로 / 후원하다.",
+  "senses": [
+   "1) (n.) 등·뒤·뒷면",
+   "2) (부사) 뒤로·되돌려",
+   "3) (동사) 후원하다·뒷받침하다 / (형) 뒤쪽의"
+  ],
+  "etym": "고대 영어 bæc(등). 게르만어 계열. '몸의 뒤·뒤쪽'이 핵심. aback·backward(1526)·background이 한 가족.",
+  "deriv": "'등(turn one's back)' -> 부사 '뒤로(go back)·되돌려(give back)' -> 동사 '후원하다(back a plan)' -> 형용사 '뒤쪽의(the back door)'. backward(1526)·background이 파생. 한국 학습자: back up(후진하다·뒷받침하다·백업하다), back down(물러서다), behind one's back(없는 데서·몰래), turn one's back on(~을 외면하다), back and forth(앞뒤로), get back(돌아오다), back someone up(~을 지지하다). 명사·부사·동사·형용사 4품사 다의어. front(앞)가 반의.",
+  "syn": ["rear(뒤)", "support(후원하다)", "reverse(되돌리다)"],
+  "anti": ["front(앞)", "forward(앞으로)", "face(앞면)"],
+  "idiom": ["back up(뒷받침하다·백업하다)", "back down(물러서다)", "behind one's back(몰래)", "turn one's back on(~을 저버리다)", "back and forth(앞뒤로)"],
+  "colloc": ["go back(돌아가다)", "back a plan(계획을 지지하다)", "the back door(뒷문)"],
+  "ex_add": "Several investors agreed to back the project.  (back=후원하다)"
+ },
+ {
+  "num": "2337",
+  "hw": "bacteria",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "맨눈에 안 보이는 '세균' (복수).",
+  "senses": [
+   "1) 세균·박테리아",
+   "2) (유익·유해) 미생물",
+   "3) (단수 bacterium) 세균 하나"
+  ],
+  "etym": "그리스어 bakterion(작은 막대기) < bakteria(지팡이). 최초 발견된 세균이 '막대 모양'이어서 붙은 이름. '작은 막대 모양 미생물'이 핵심.",
+  "deriv": "bakterion(작은 막대) -> 'bacteria'. 한국 학습자 핵심: bacteria는 복수형! 단수는 bacterium(라틴어식). Bacteria are ~(복수 동사), one bacterium(단수). harmful/beneficial bacteria(유해/유익균), gut bacteria(장내 세균), kill bacteria(세균을 죽이다). virus(바이러스, 1450)와 구별 — 세균은 스스로 증식, 바이러스는 숙주 필요. -um/-a 복수 무리(bacterium/bacteria, datum/data, medium/media). microbe·germ과 유의어.",
+  "syn": ["germs(세균)", "microbes(미생물)", "microorganisms(미생물)"],
+  "anti": [],
+  "idiom": ["harmful bacteria(유해균)", "beneficial bacteria(유익균)", "gut bacteria(장내 세균)"],
+  "colloc": ["harmful bacteria(유해 세균)", "kill bacteria(세균을 죽이다)", "bacteria grow(세균이 증식하다)"],
+  "ex_add": "Some bacteria are actually good for your health.  (bacteria=세균, 복수)"
+ },
+ {
+  "num": "2338",
+  "hw": "badge",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "신분·소속을 나타내는 '배지·휘장'.",
+  "senses": [
+   "1) 배지·휘장·명찰",
+   "2) (경찰) 신분증·배지",
+   "3) (비유) 상징·표시"
+  ],
+  "etym": "중세 영어 bage(문장·표지). 어원이 확실치 않으나 '소속·신분을 나타내는 표'가 핵심. 기사·길드의 '식별 표지'에서.",
+  "deriv": "'식별 표지' -> '배지(a name badge, 명찰)' -> 경찰 '신분 배지' -> 비유 '상징(a badge of honor, 명예의 표시)'. 한국 학습자: a name badge(이름표), a police badge(경찰 배지), a badge of honor/pride(자랑스러운 표시), wear a badge(배지를 달다), earn a badge(배지를 따다, 스카우트). a merit badge(공로 배지). emblem·insignia와 유의어. 소속·성취를 드러내는 표.",
+  "syn": ["emblem(표장)", "insignia(휘장)", "pin(배지)"],
+  "anti": [],
+  "idiom": ["a badge of honor(명예의 표시)", "wear it as a badge(자랑스러운 표시로 여기다)", "a name badge(명찰)"],
+  "colloc": ["name badge(명찰)", "police badge(경찰 배지)", "wear a badge(배지를 달다)"],
+  "ex_add": "All staff must wear a name badge.  (badge=명찰)"
+ },
+ {
+  "num": "2339",
+  "hw": "balanced",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "양쪽이 고르게 '균형 잡힌'.",
+  "senses": [
+   "1) 균형 잡힌·조화로운",
+   "2) (시각이) 공정한·치우치지 않은",
+   "3) 안정된"
+  ],
+  "etym": "balance(균형, 1528)의 과거분사. balance < 라틴어 bilanx = bi(둘) + lanx(저울 접시). '두 접시가 고른'이 핵심. bilanx(두 저울) 뿌리로 balance(1528)와 묶인다.",
+  "deriv": "balance(균형, 1528) -> 'balanced(균형 잡힌)'. '균형 잡힌(a balanced diet, 균형 잡힌 식단)' -> 시각이 '공정한(a balanced view)'. bi-(둘) + lanx(저울) 뿌리. 한국 학습자: a balanced diet(균형 잡힌 식단), a balanced view/approach(균형 잡힌 시각/접근), well-balanced(균형이 잘 잡힌), emotionally balanced(정서적으로 안정된). balance(명사·동사, 1528)/balanced(형용사) 짝. unbalanced(불균형한)·biased(편향된)가 반의. fair·even과 유의어.",
+  "syn": ["even(고른)", "fair(공정한)", "well-rounded(원만한)"],
+  "anti": ["unbalanced(불균형한)", "biased(편향된)", "one-sided(일방적인)"],
+  "idiom": ["a balanced diet(균형 잡힌 식단)", "a balanced view(공정한 시각)", "well-balanced(균형 잡힌)"],
+  "colloc": ["balanced diet(균형 잡힌 식단)", "balanced approach(균형 잡힌 접근)", "well balanced(균형이 잘 잡힌)"],
+  "ex_add": "A balanced diet is important for good health.  (balanced=균형 잡힌)"
+ },
+ {
+  "num": "2340",
+  "hw": "ballet",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "춤으로 이야기하는 '발레'.",
+  "senses": [
+   "1) 발레(무용)",
+   "2) 발레단·발레 작품",
+   "3) 발레 공연"
+  ],
+  "etym": "프랑스어 ballet < 이탈리아어 balletto(작은 춤) < ballare(춤추다) < 후기 라틴어 ballare. '춤'이 핵심. ballare(춤추다) 뿌리로 ball(무도회)·ballerina(발레리나)·ballroom(무도장)이 묶인다.",
+  "deriv": "ballare(춤추다) -> balletto(작은 춤) -> 'ballet'. '발레(classical ballet)'. ballare(춤추다) 뿌리로 ball(무도회)·ballerina·ballroom과 묶인다 — ball(무도회)과 ballet이 한 뿌리. 한국 학습자: 발음 주의 — 프랑스어 차용이라 끝 t 묵음 /ˈbæleɪ/. a ballet dancer(발레 무용수), a ballet company(발레단), classical ballet(고전 발레), ballet shoes(토슈즈). ballerina(여성 발레 무용수)와 가족. 발음 /ˈbæleɪ/(미), /ˈbæleɪ/(영) — 끝 t 안 들림.",
+  "syn": ["dance(무용)", "classical dance(고전 무용)"],
+  "anti": [],
+  "idiom": ["a ballet dancer(발레 무용수)", "classical ballet(고전 발레)", "ballet shoes(발레 슈즈)"],
+  "colloc": ["classical ballet(고전 발레)", "ballet dancer(발레 무용수)", "ballet company(발레단)"],
+  "ex_add": "She has studied ballet since she was four.  (ballet=발레)"
+ },
+ {
+  "num": "2341",
+  "hw": "balloon",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "공기·가스로 부푼 '풍선·기구'.",
+  "senses": [
+   "1) 풍선",
+   "2) 열기구",
+   "3) (동사) 부풀다·급증하다"
+  ],
+  "etym": "이탈리아어 ballone(큰 공) < balla(공) + -one(큰). '큰 공'이 핵심. ball(공)과 한 뿌리. (앞의 ballet과는 어원이 다름 — ballet은 춤, balloon은 공.)",
+  "deriv": "balla(공) + -one(큰) -> 'balloon(큰 공 -> 풍선)'. '풍선(blow up a balloon, 풍선을 불다)' -> '열기구(a hot-air balloon)' -> 동사 '급증하다(costs ballooned, 비용이 폭증하다)'. ball(공) 뿌리. 한국 학습자: blow up/inflate a balloon(풍선을 불다), a hot-air balloon(열기구), a balloon bursts/pops(풍선이 터지다), when the balloon goes up(사달이 나면). 비유 동사 '급증하다'(balloon)도. ballet(2340, 춤)과 철자 비슷하나 어원 다름 — balloon은 ball(공) 가족.",
+  "syn": ["inflatable(부풀릴 수 있는 것)"],
+  "anti": [],
+  "idiom": ["a hot-air balloon(열기구)", "when the balloon goes up(위기가 닥치면)", "go down like a lead balloon(완전히 외면당하다)"],
+  "colloc": ["blow up a balloon(풍선을 불다)", "hot-air balloon(열기구)", "balloon bursts(풍선이 터지다)"],
+  "ex_add": "The children played with colorful balloons.  (balloon=풍선)"
+ }
+]
