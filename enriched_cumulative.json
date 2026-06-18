@@ -166040,5 +166040,1676 @@
   "ex_add": "He saved money, thereby reducing his debt.  (thereby=그렇게 함으로써)",
   "ex_orig": "It is England whose fault has extended the present war into a world war, and has thereby endangered our joint culture.",
   "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4842",
+  "hw": "thought-provoking",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "생각(thought)을 불러일으키는(provoke) -> '생각을 자극하는'.",
+  "senses": [
+   "1) 생각을 불러일으키는, 시사하는 바가 많은",
+   "2) 깊이 생각하게 만드는"
+  ],
+  "etym": "thought(생각, think의 명사형) + provoking(유발하는, 라틴어 provocare 불러내다, 4582 provoke)의 합성어 -> 'thought-provoking'. provocare(불러내다)는 provoke(4582)·vocation(천직)·invoke(4308)와 같은 vocare(부르다) 뿌리.",
+  "deriv": "thought + provoke(4582) -> 'thought-provoking'. 한국 학습자 핵심: -provoking 합성 — thought-provoking(생각을 자극하는)·anxiety-provoking(불안을 유발하는)! thought 합성 — thought-provoking·thoughtful(사려 깊은, 4843)·thoughtless(경솔한)! a thought-provoking question(생각을 자극하는 질문), a thought-provoking film(시사하는 바가 많은 영화), deeply thought-provoking(매우 생각을 자극하는). 유의어 stimulating(자극적인)·intriguing(흥미로운, 4304)·challenging(도전적인). 반대 dull(따분한)·boring(지루한).",
+  "syn": [
+   "stimulating(자극적인)",
+   "intriguing(흥미로운)",
+   "challenging(생각하게 만드는)"
+  ],
+  "anti": [
+   "dull(따분한)",
+   "boring(지루한)",
+   "mindless(생각 없는)"
+  ],
+  "idiom": [
+   "a thought-provoking question(생각을 자극하는 질문)"
+  ],
+  "colloc": [
+   "thought-provoking question(생각을 자극하는 질문)",
+   "thought-provoking film(시사적인 영화)",
+   "deeply thought-provoking(매우 생각을 자극하는)"
+  ],
+  "ex_add": "The documentary was deeply thought-provoking.  (thought-provoking=생각을 자극하는)",
+  "ex_orig": "Ghost Wedding by David Park review - a thought-provoking novel about the power of the past.",
+  "ex_src": "NEWS-GUARDIAN"
+ },
+ {
+  "num": "4843",
+  "hw": "thoughtful",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "생각(thought)으로 가득한 -> '사려 깊은·배려하는'.",
+  "senses": [
+   "1) 사려 깊은, 신중한",
+   "2) (남을) 배려하는, 자상한",
+   "3) 생각에 잠긴"
+  ],
+  "etym": "thought(생각, think 생각하다의 명사형) + -ful(가득 찬) -> 'thoughtful'. think(생각하다)는 thank(감사, 4836 thankfully)와 같은 게르만 뿌리. '생각이 깊은·남을 생각하는'이 핵심.",
+  "deriv": "thought + -ful -> 'thoughtful'. 한국 학습자 핵심: 정반대 짝 — thoughtful(사려 깊은) ↔ thoughtless(경솔한·배려 없는)! think/thought 가족 — think·thought·thoughtful·thoughtless·thought-provoking(4842)·thankful(4836, 어원 친족)! a thoughtful gift(정성 어린 선물), a thoughtful gesture(배려 깊은 행동), a thoughtful person(사려 깊은 사람), thoughtful and considerate(사려 깊고 배려하는). 유의어 considerate(배려하는)·caring(자상한)·attentive(세심한); reflective(사색적인). 반대 thoughtless(경솔한)·inconsiderate(배려 없는).",
+  "syn": [
+   "considerate(배려하는)",
+   "caring(자상한)",
+   "reflective(사색적인)"
+  ],
+  "anti": [
+   "thoughtless(경솔한)",
+   "inconsiderate(배려 없는)",
+   "careless(부주의한)"
+  ],
+  "idiom": [
+   "a thoughtful gesture(배려 깊은 행동)"
+  ],
+  "colloc": [
+   "thoughtful gift(정성 어린 선물)",
+   "thoughtful gesture(배려 깊은 행동)",
+   "thoughtful person(사려 깊은 사람)"
+  ],
+  "ex_add": "It was very thoughtful of you to call.  (thoughtful=사려 깊은)",
+  "ex_orig": "The thoughtful observer, however, should look beyond the immediate occasion of this world conflict and try to understand its underlying causes.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4844",
+  "hw": "thread",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "꼬아 만든 실 -> '실·맥락·(온라인) 스레드'.",
+  "senses": [
+   "1) 실, 가닥",
+   "2) (이야기의) 맥락, 줄거리",
+   "3) (온라인) 게시물 묶음, 스레드"
+  ],
+  "etym": "고대 영어 þræd(꼬아 만든 것·실, þrawan 비틀다)에서 -> 'thread'. throw(던지다)·throng(군중)과 친족. '비틀어 꼰 가는 실'이 핵심. 비유로 '이야기를 이어 주는 맥락'.",
+  "deriv": "þræd(꼰 실) -> 'thread'. 한국 학습자 핵심: 비유 확장 — 실 -> 이야기의 맥락! lose the thread(맥락을 놓치다), the common thread(공통된 맥락), a thread of(한 가닥의 ~), hang by a thread(위태롭다·풍전등화), needle and thread(바늘과 실). 온라인: a discussion thread(토론 스레드). 유의어(실) yarn(실)·strand(가닥, 4770); (맥락) theme(주제)·storyline(줄거리). 'hang by a thread'(위태롭다)가 핵심 비유.",
+  "syn": [
+   "yarn(실)",
+   "strand(가닥)",
+   "theme(맥락)"
+  ],
+  "anti": [],
+  "idiom": [
+   "hang by a thread(위태롭다)",
+   "lose the thread(맥락을 놓치다)",
+   "a common thread(공통된 맥락)"
+  ],
+  "colloc": [
+   "lose the thread(맥락을 놓치다)",
+   "common thread(공통된 맥락)",
+   "hang by a thread(위태롭다)"
+  ],
+  "ex_add": "His life hung by a thread after the accident.  (thread=실)",
+  "ex_orig": "When seen under an electron microscope, they resemble balls of tangled thread and are dense of distribution for the protein coilin.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4845",
+  "hw": "threshold",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "문지방·들어서는 지점 -> '문턱·문지방·한계점'.",
+  "senses": [
+   "1) 문지방, 문턱",
+   "2) (시작의) 문턱, 발단",
+   "3) (반응의) 한계점, 역치"
+  ],
+  "etym": "고대 영어 þerscold(문지방, þrescan 밟다·타작하다)에서 -> 'threshold'. 곡식을 밟아 타작하던 문간에서 유래. '들어서는 경계 지점'이 핵심.",
+  "deriv": "þerscold(문지방) -> 'threshold'. 한국 학습자 핵심: 발음 [θréʃhoʊld] '쓰레숄드'! 비유 빈출 — on the threshold of(~의 문턱에서·~을 앞두고), cross the threshold(문턱을 넘다·새 단계로 들어서다), a pain threshold(통증 한계점), a threshold of(~의 한계점), a low threshold(낮은 역치). 두 어감: ① 문턱(물리·시작) ② 한계점(과학·역치)! 유의어(문턱) doorstep(문간)·entrance(입구); (한계점) limit(한계)·boundary(경계). 'on the threshold of'(~의 문턱에서)가 핵심.",
+  "syn": [
+   "doorstep(문간)",
+   "limit(한계)",
+   "boundary(경계)"
+  ],
+  "anti": [],
+  "idiom": [
+   "on the threshold of(~의 문턱에서)",
+   "cross the threshold(문턱을 넘다)"
+  ],
+  "colloc": [
+   "on the threshold of(~의 문턱에서)",
+   "pain threshold(통증 한계점)",
+   "cross the threshold(문턱을 넘다)"
+  ],
+  "ex_add": "They stood on the threshold of a new era.  (threshold=문턱)",
+  "ex_orig": "They were on the threshold of a house, one on the top of the other, as if they had been shot down, one after the other, as they tried to escape.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4846",
+  "hw": "thrilled",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "꿰뚫는(thyrlian) 전율을 느낀 -> '매우 신난·황홀한'.",
+  "senses": [
+   "1) 아주 신이 난, 황홀한",
+   "2) 매우 기쁜, 감격한"
+  ],
+  "etym": "고대 영어 þyrlian(꿰뚫다·구멍을 뚫다, þyrel 구멍) -> thrill(전율시키다) + -ed -> 'thrilled'. nostril(콧구멍, nose+thrill)과 친족. '짜릿함이 몸을 꿰뚫는 듯한'이 핵심.",
+  "deriv": "þyrlian(꿰뚫다) -> thrill -> 'thrilled'. 한국 학습자 핵심: 감정 -ed/-ing 구별 — thrilled(신이 난, 사람) vs thrilling(짜릿한, 사물)! thrill(전율)·thrilled·thrilling·thriller(스릴러)! be thrilled to do(~하게 되어 매우 기쁘다), be thrilled with(~에 매우 만족하다), thrilled to bits(엄청 기쁜), absolutely thrilled(정말 신난). 유의어 delighted(기쁜)·ecstatic(황홀한)·overjoyed(매우 기쁜)·elated(들뜬). 반대 disappointed(실망한)·dismayed(낙담한). 감정 형용사 빈출.",
+  "syn": [
+   "delighted(기쁜)",
+   "ecstatic(황홀한)",
+   "overjoyed(매우 기쁜)"
+  ],
+  "anti": [
+   "disappointed(실망한)",
+   "dismayed(낙담한)",
+   "unimpressed(시큰둥한)"
+  ],
+  "idiom": [
+   "thrilled to bits(엄청 기쁜)",
+   "be thrilled to do(~하게 되어 매우 기쁘다)"
+  ],
+  "colloc": [
+   "thrilled to do(~하게 되어 기쁜)",
+   "thrilled with(~에 매우 만족한)",
+   "absolutely thrilled(정말 신난)"
+  ],
+  "ex_add": "She was thrilled to win the prize.  (thrilled=매우 신난)",
+  "ex_orig": "Orlando was thrilled by the song's production; his idea was to make a rap record in a British accent.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4847",
+  "hw": "thrive",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "잘 자라 번성하다 -> '번창하다·잘 자라다'.",
+  "senses": [
+   "1) 번창하다, 번성하다",
+   "2) (생물이) 잘 자라다, 무성하다",
+   "3) (역경 속에) 잘 헤쳐 나가다(thrive on)"
+  ],
+  "etym": "고대 노르드어 þrifask(잘 자라다·번성하다, þrifa 움켜쥐다)에서 -> 'thrive'. '잘 붙잡아 번성함'이 핵심. 불규칙 thrive-throve-thriven(또는 규칙 thrived).",
+  "deriv": "þrifask(번성하다) -> 'thrive'. 한국 학습자 핵심: thrive on(~을 즐기다·~덕에 잘 자라다, thrive on challenges 도전을 즐기다)! businesses thrive(사업이 번창하다), plants thrive(식물이 무성하다), a thriving economy(번창하는 경제), thrive in(~에서 번성하다). 유의어 flourish(번창하다, 4157)·prosper(번영하다)·boom(호황을 누리다). 반대 wither(시들다)·decline(쇠퇴하다)·struggle(고전하다). flourish(4157)와 거의 동의. 'a thriving ~'(번창하는) 형태 빈출.",
+  "syn": [
+   "flourish(번창하다)",
+   "prosper(번영하다)",
+   "boom(호황을 누리다)"
+  ],
+  "anti": [
+   "wither(시들다)",
+   "decline(쇠퇴하다)",
+   "struggle(고전하다)"
+  ],
+  "idiom": [
+   "thrive on(~을 즐기다)"
+  ],
+  "colloc": [
+   "businesses thrive(사업이 번창하다)",
+   "thriving economy(번창하는 경제)",
+   "thrive in(~에서 번성하다)"
+  ],
+  "ex_add": "The business thrived during the boom.  (thrive=번창하다)",
+  "ex_orig": "For since the eagle's not a bird that thrives within a cage, One kind o' hears with sympathy his screams of baffled rage.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4848",
+  "hw": "tide",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "때맞춰(tid 시간) 드나드는 물 -> '조수·흐름·풍조'.",
+  "senses": [
+   "1) 조수, 조류",
+   "2) (여론·사건의) 흐름, 추세, 풍조",
+   "3) (v.) tide over 어려움을 넘기게 하다"
+  ],
+  "etym": "고대 영어 tid(시간·때)에서 -> 'tide'. time(시간)과 같은 게르만 뿌리. '때맞춰 드나드는 바닷물'이 핵심. 비유로 '사건의 흐름'.",
+  "deriv": "tid(시간) -> 'tide'. 한국 학습자 핵심: 어원이 time(시간)과 한 뿌리(조수는 때맞춰 듦)! 비유 빈출 — turn the tide(전세를 뒤집다), the tide turns(상황이 바뀌다), go against the tide(시류를 거스르다), a rising tide(높아지는 흐름), tide over(어려운 고비를 넘기다)! high tide(만조)·low tide(간조). 유의어(흐름) current(흐름)·trend(추세)·wave(물결). 'turn the tide'(전세를 뒤집다)가 핵심 비유. 시사 지문 빈출.",
+  "syn": [
+   "current(흐름)",
+   "trend(추세)",
+   "wave(물결)"
+  ],
+  "anti": [],
+  "idiom": [
+   "turn the tide(전세를 뒤집다)",
+   "go against the tide(시류를 거스르다)",
+   "tide over(고비를 넘기다)"
+  ],
+  "colloc": [
+   "turn the tide(전세를 뒤집다)",
+   "high tide(만조)",
+   "rising tide(높아지는 흐름)"
+  ],
+  "ex_add": "The victory turned the tide of the war.  (tide=흐름)",
+  "ex_orig": "Let the great Russian tide of sympathy rise to its aid, without a previous agreement, without a previous organization.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4849",
+  "hw": "tighten",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "팽팽하게(tight) 만들다 -> '조이다·강화하다'.",
+  "senses": [
+   "1) 단단히 죄다, 팽팽하게 하다",
+   "2) (규제·통제를) 강화하다",
+   "3) 긴축하다"
+  ],
+  "etym": "고대 영어 þiht(촘촘한·튼튼한) -> tight(팽팽한) + -en(동사화) -> 'tighten'. '느슨한 것을 팽팽하게 죔'이 핵심. 게르만 뿌리.",
+  "deriv": "tight(팽팽한) + -en -> 'tighten'. 한국 학습자 핵심: -en(~하게 만들다) 동사화 — tighten(조이다)·strengthen(강화하다)·widen(넓히다)·heighten(고조시키다, 4217)·shorten(줄이다)·loosen(풀다)! 정반대 짝: tighten(조이다) ↔ loosen(느슨하게 하다)! tighten security(보안을 강화하다), tighten regulations(규제를 강화하다), tighten one's belt(허리띠를 졸라매다·긴축하다), tighten up(단단히 조이다). 유의어 strengthen(강화하다)·secure(고정하다)·constrict(조이다). 반대 loosen(풀다)·relax(완화하다)·ease(완화하다).",
+  "syn": [
+   "strengthen(강화하다)",
+   "secure(고정하다)",
+   "constrict(조이다)"
+  ],
+  "anti": [
+   "loosen(느슨하게 하다)",
+   "relax(완화하다)",
+   "ease(완화하다)"
+  ],
+  "idiom": [
+   "tighten one's belt(허리띠를 졸라매다)"
+  ],
+  "colloc": [
+   "tighten security(보안을 강화하다)",
+   "tighten regulations(규제를 강화하다)",
+   "tighten one's belt(긴축하다)"
+  ],
+  "ex_add": "The government tightened security at airports.  (tighten=강화하다)",
+  "ex_orig": "That money's hold on our country might be tightened and made more sure;",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4850",
+  "hw": "timber",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "집 지을 나무 재목 -> '목재·재목·수목'.",
+  "senses": [
+   "1) (건축용) 목재, 재목",
+   "2) (벌목용) 수목, 삼림",
+   "3) (비유) (사람의) 자질, 됨됨이"
+  ],
+  "etym": "고대 영어 timber(건축 재목·건물)에서 -> 'timber'. 원래 '집을 짓다'는 뜻에서 '집 지을 나무'로 의미가 좁혀짐. 게르만 뿌리. '건축에 쓰는 켜낸 나무'가 핵심.",
+  "deriv": "timber(재목) -> 'timber'. 한국 학습자 핵심: 나무 관련 어휘 구별 — timber(목재, 영국/건축용)·lumber(목재, 미국)·wood(나무·목재)·log(통나무, 4360)·plank(널빤지)! a timber frame(목조 골조), timber production(목재 생산), a timber merchant(목재상, 4398 merchant), softwood/hardwood timber(연재/경재). 벌목할 때 'Timber!'(나무 넘어간다!) 외침. 유의어 lumber(목재)·wood(나무). 비유로 '자질'(of fine timber 훌륭한 자질의).",
+  "syn": [
+   "lumber(목재)",
+   "wood(나무)",
+   "logs(통나무)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a timber frame(목조 골조)"
+  ],
+  "colloc": [
+   "timber frame(목조 골조)",
+   "timber production(목재 생산)",
+   "timber merchant(목재상)"
+  ],
+  "ex_add": "The house has a timber frame.  (timber=목재)",
+  "ex_orig": "We leveled our forests for timber, and just scratched the top soil of the land for corn.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4851",
+  "hw": "timely",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "때(time)에 맞는 -> '시기적절한·때맞춘'.",
+  "senses": [
+   "1) 시기적절한, 때맞춘",
+   "2) 적시의, 알맞은 때의"
+  ],
+  "etym": "time(시간·때) + -ly(형용사화) -> 'timely'. time(시간)은 tide(조수, 4848)와 같은 게르만 뿌리. '딱 맞는 때에 일어나는'이 핵심. -ly가 형용사를 만드는 드문 경우(보통은 부사).",
+  "deriv": "time(때) + -ly -> 'timely'. 한국 학습자 핵심: -ly가 형용사인 예외 — timely(시기적절한)·friendly(친절한)·lovely(사랑스러운)·costly(비싼)·orderly(질서 정연한)! a timely reminder(시기적절한 알림, 4631 reminder), a timely intervention(때맞춘 개입, 4302), in a timely manner/fashion(시기적절하게), timely action(때맞춘 조치). 유의어 opportune(시기적절한)·well-timed(때맞춘)·prompt(즉각적인). 반대 untimely(때 이른·시기가 나쁜)·belated(뒤늦은). 'in a timely manner'가 핵심 표현.",
+  "syn": [
+   "opportune(시기적절한)",
+   "well-timed(때맞춘)",
+   "prompt(즉각적인)"
+  ],
+  "anti": [
+   "untimely(때 이른)",
+   "belated(뒤늦은)",
+   "overdue(기한이 지난)"
+  ],
+  "idiom": [
+   "in a timely manner(시기적절하게)"
+  ],
+  "colloc": [
+   "timely reminder(시기적절한 알림)",
+   "timely intervention(때맞춘 개입)",
+   "in a timely manner(시기적절하게)"
+  ],
+  "ex_add": "The warning came at a timely moment.  (timely=시기적절한)",
+  "ex_orig": "A timely word from the German Chancellor would have saved the flower of the youth of Germany and Austria from perishing.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4852",
+  "hw": "tobacco",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "담배 식물·연초 -> '담배'.",
+  "senses": [
+   "1) 담배, 연초",
+   "2) 담배 식물"
+  ],
+  "etym": "스페인어 tabaco(담뱃잎, 카리브 원주민 타이노어 또는 아랍어 기원)에서 -> 'tobacco'. 신대륙에서 유럽으로 전해진 담배를 가리키는 말. 외래어 차용.",
+  "deriv": "tabaco(담뱃잎) -> 'tobacco'. 한국 학습자 핵심: 철자 함정 — tobacco(c 두 개, b 하나)! 신대륙 유래 외래어군 — tobacco(담배)·tomato(토마토)·potato(감자)·chocolate(초콜릿)·hammock(해먹)! the tobacco industry(담배 산업), tobacco use(담배 사용), chew tobacco(씹는 담배를 피우다), a tobacco company(담배 회사), pipe tobacco(파이프 담배). 유의어 cigarettes(담배)·nicotine(니코틴). 보건·산업 지문 빈출. 발음 [təbǽkoʊ].",
+  "syn": [
+   "cigarettes(담배)",
+   "nicotine(니코틴)"
+  ],
+  "anti": [],
+  "idiom": [
+   "the tobacco industry(담배 산업)"
+  ],
+  "colloc": [
+   "tobacco industry(담배 산업)",
+   "tobacco use(담배 사용)",
+   "tobacco company(담배 회사)"
+  ],
+  "ex_add": "The tobacco industry faces strict regulations.  (tobacco=담배)",
+  "ex_orig": "Only the poorer grades of tobacco have been taxed 100 per cent. ad valorem, while the higher grades have been taxed at a lower rate.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4853",
+  "hw": "tolerance",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "견뎌(tolerare) 받아들임 -> '관용·내성·허용 오차'.",
+  "senses": [
+   "1) 관용, 아량, 포용",
+   "2) (약물·고통에 대한) 내성",
+   "3) (공학) 허용 오차"
+  ],
+  "etym": "라틴어 tolerare(견디다·참다) -> tolerantia -> 'tolerance'. tolerare(견디다)는 tolerate(참다, 4854)·tolerant(관대한)·intolerable(견딜 수 없는)의 공통 뿌리. atlas(짊어진 거인)와도 먼 뿌리(tol- 들다·참다). '참고 받아들이는 마음·정도'가 핵심.",
+  "deriv": "tolerare(견디다) -> 'tolerance'. 한국 학습자 핵심: tolerare(견디다)계열 — tolerate(참다·용인하다, 4854)·tolerant(관대한)·tolerance·intolerant(편협한)·intolerable(견딜 수 없는)! religious tolerance(종교적 관용), zero tolerance(무관용 원칙), a high tolerance for(~에 대한 높은 내성), drug tolerance(약물 내성), tolerance toward(~에 대한 관용). 동사 tolerate(4854). 유의어(관용) acceptance(수용)·open-mindedness(개방성); (내성) resistance(내성, 4649). 반대 intolerance(편협)·prejudice(편견, 4535).",
+  "syn": [
+   "acceptance(수용)",
+   "open-mindedness(개방성)",
+   "forbearance(인내)"
+  ],
+  "anti": [
+   "intolerance(편협)",
+   "prejudice(편견)",
+   "bigotry(편협)"
+  ],
+  "idiom": [
+   "zero tolerance(무관용 원칙)",
+   "religious tolerance(종교적 관용)"
+  ],
+  "colloc": [
+   "religious tolerance(종교적 관용)",
+   "zero tolerance(무관용 원칙)",
+   "high tolerance(높은 내성)"
+  ],
+  "ex_add": "The school has zero tolerance for bullying.  (tolerance=관용)",
+  "ex_orig": "The consistent, systematic lying of the German press, or the grotesque blasphemies of the Kaiser, can be met by us with contemptuous tolerance.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4854",
+  "hw": "tolerate",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "견뎌(tolerare) 받아들이다 -> '참다·용인하다'.",
+  "senses": [
+   "1) (싫은 것을) 참다, 견디다",
+   "2) 용인하다, 너그럽게 봐주다",
+   "3) (약물·환경에) 내성을 갖다"
+  ],
+  "etym": "라틴어 tolerare(견디다·참다) -> 'tolerate'. tolerance(관용, 4853)·tolerant(관대한)·intolerable(참을 수 없는)과 같은 tolerare(견디다) 뿌리. '싫어도 참고 받아들임'이 핵심.",
+  "deriv": "tolerare(견디다) -> 'tolerate'. 한국 학습자 핵심: tolerare(견디다)계열 — tolerance(관용, 4853)·tolerant(관대한)·intolerant(편협한)·tolerable(참을 만한)·intolerable(견딜 수 없는)·tolerate! cannot tolerate(참을 수 없다), tolerate behavior(행동을 용인하다), well tolerated(잘 견디는·부작용이 적은), tolerate differences(차이를 받아들이다). 형용사 tolerable(견딜 만한). 유의어 endure(견디다)·put up with(참다)·bear(참다)·stand(참다). 반대 oppose(반대하다)·reject(거부하다, 4624).",
+  "syn": [
+   "endure(견디다)",
+   "put up with(참다)",
+   "bear(참다)"
+  ],
+  "anti": [
+   "oppose(반대하다)",
+   "reject(거부하다)",
+   "prohibit(금지하다)"
+  ],
+  "idiom": [
+   "cannot tolerate(참을 수 없다)"
+  ],
+  "colloc": [
+   "cannot tolerate(참을 수 없다)",
+   "tolerate behavior(행동을 용인하다)",
+   "tolerate differences(차이를 받아들이다)"
+  ],
+  "ex_add": "I can't tolerate such rudeness.  (tolerate=참다)",
+  "ex_orig": "It is my firm belief that nowhere in the world, from this time on, will any form of government be tolerated which does not set men free to develop in this fashion.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4855",
+  "hw": "toll",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "걷는 통행세·대가 -> '통행료·사상자 수·피해'.",
+  "senses": [
+   "1) 통행료, 사용료",
+   "2) (사고·재해의) 사상자 수, 희생",
+   "3) (누적된) 피해, 손실(take a toll)"
+  ],
+  "etym": "고대 영어 toll(세금·관세, 그리스어 telos 세금에서)에서 -> 'toll'. '지나가며 내는 세금'에서 '치르는 대가·희생'으로 의미 확장. '대가로 치러지는 것'이 핵심.",
+  "deriv": "toll(통행세) -> 'toll'. 한국 학습자 핵심: 비유 빈출 — take a toll (on)(~에 피해를 주다·악영향을 미치다, 매우 빈출!), take its toll(타격을 주다), the death toll(사망자 수), a toll road(유료 도로), a toll booth(요금소)! the toll of the war(전쟁의 희생). 유의어(통행료) fee(요금)·charge(요금); (사상자) casualties(사상자). 'take a toll on'(~에 타격을 주다)·'death toll'(사망자 수)이 핵심. 동음: toll(종을 울리다)은 별개.",
+  "syn": [
+   "fee(요금)",
+   "charge(요금)",
+   "casualties(사상자)"
+  ],
+  "anti": [],
+  "idiom": [
+   "take a toll on(~에 피해를 주다)",
+   "the death toll(사망자 수)"
+  ],
+  "colloc": [
+   "take a toll on(~에 피해를 주다)",
+   "death toll(사망자 수)",
+   "toll road(유료 도로)"
+  ],
+  "ex_add": "The long hours took a toll on his health.  (take a toll=피해를 주다)",
+  "ex_orig": "If we had not repealed the Panama Canal Tolls Exemption act last June they would not have come to us as they are doing now.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4856",
+  "hw": "top",
+  "pos": "n., adj., v.",
+  "cefr": "C1",
+  "core": "꼭대기 -> '꼭대기·최고의'; (동사)'능가하다·정상에 오르다'.",
+  "senses": [
+   "1) (n.) 꼭대기, 정상 (일상 A2)",
+   "2) (adj.) 최고의, 최상위의 (A2)",
+   "3) (v.) ~을 능가하다; 정상을 차지하다; ~위에 얹다"
+  ],
+  "etym": "고대 영어 top(꼭대기·정상)에서 -> 'top'. 게르만 뿌리로 '맨 위'가 핵심. 동사 top은 '꼭대기에 도달하다·꼭대기를 차지하다'로 발전.",
+  "deriv": "top(꼭대기) -> 'top'. 한국 학습자 핵심: 명사·형용사(A2)는 쉽지만 동사(C1)가 빈출! top the charts(차트 1위를 하다), top the list(목록 맨 위에 오르다), top expectations(기대를 능가하다), be topped with(~으로 덮이다·얹히다), to top it all (off)(설상가상으로·게다가)! top off(가득 채우다·마무리하다). 유의어(능가하다) surpass(능가하다)·exceed(초과하다)·beat(이기다). 'top the charts'(차트 1위)·'to top it off'(게다가)가 핵심.",
+  "syn": [
+   "surpass(능가하다)",
+   "exceed(초과하다)",
+   "beat(이기다)"
+  ],
+  "anti": [
+   "bottom(바닥)",
+   "trail(뒤처지다)"
+  ],
+  "idiom": [
+   "top the charts(차트 1위를 하다)",
+   "to top it off(게다가)",
+   "top off(마무리하다)"
+  ],
+  "colloc": [
+   "top the charts(차트 1위를 하다)",
+   "top the list(목록 맨 위에 오르다)",
+   "topped with(~으로 덮인)"
+  ],
+  "ex_add": "The song topped the charts for weeks.  (top=1위를 하다)",
+  "ex_orig": "The prisoners were then taken up to the top of the hill outside Dinant and compelled to stay there till 8 o'clock in the morning.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4857",
+  "hw": "torture",
+  "pos": "n., v.",
+  "cefr": "C1",
+  "core": "비틀어(torquere) 고통을 줌 -> '고문(하다)·고통'.",
+  "senses": [
+   "1) (n.) 고문",
+   "2) (n.) (극심한) 고통, 고뇌",
+   "3) (v.) 고문하다; 몹시 괴롭히다"
+  ],
+  "etym": "라틴어 torquere(비틀다) -> tortura(비틂·고통) -> 'torture'. torquere(비틀다)는 torment(고통)·distort(왜곡하다, dis-비틀어)·contort(뒤틀다)·extort(강탈하다)·torque(회전력)의 공통 뿌리. '몸을 비틀어 고통을 줌'이 핵심.",
+  "deriv": "torquere(비틀다) -> 'torture'. 한국 학습자 핵심: torquere(비틀다)계열 — torment(고통·괴롭히다)·distort(왜곡하다)·contort(뒤틀다)·extort(강탈하다)·retort(반박하다)·torque(회전력)·torture! ban torture(고문을 금지하다), under torture(고문을 받아), psychological torture(심리적 고문), torture victims(고문 피해자), pure torture(완전 고역). 유의어 torment(괴롭히다)·agony(극심한 고통)·anguish(고뇌). 인권·역사 지문 빈출.",
+  "syn": [
+   "torment(괴롭히다)",
+   "agony(극심한 고통)",
+   "anguish(고뇌)"
+  ],
+  "anti": [
+   "comfort(위안)",
+   "relief(안도)"
+  ],
+  "idiom": [
+   "under torture(고문을 받아)",
+   "pure torture(완전 고역)"
+  ],
+  "colloc": [
+   "ban torture(고문을 금지하다)",
+   "under torture(고문을 받아)",
+   "torture victims(고문 피해자)"
+  ],
+  "ex_add": "The prisoners were subjected to torture.  (torture=고문)",
+  "ex_orig": "There is the horrible story in a responsible Dutch paper, told by an eyewitness, of the torture of three British wounded prisoners in Landen Station on Oct.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4858",
+  "hw": "toss",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "가볍게 던지다 -> '던지다·내던지다·뒤척이다'.",
+  "senses": [
+   "1) (가볍게) 던지다, 휙 던지다",
+   "2) (동전을) 던지다(toss a coin)",
+   "3) (고개를) 홱 젖히다; (몸을) 뒤척이다"
+  ],
+  "etym": "스칸디나비아어 기원(노르웨이 방언 tossa 흩뿌리다)으로 추정 -> 'toss'. '가볍게 위로 던져 올림'이 핵심.",
+  "deriv": "tossa(흩뿌리다) -> 'toss'. 한국 학습자 핵심: 던지기 동사 구별 — toss(가볍게 휙 던지다)·throw(던지다)·hurl(세게 내던지다)·fling(홱 던지다)·cast(던지다)! toss a coin(동전을 던지다·동전 던지기로 정하다), toss and turn(잠을 못 자고 뒤척이다), toss aside(휙 내던지다·무시하다), toss a salad(샐러드를 버무리다). 유의어 throw(던지다)·flip(휙 던지다)·chuck(휙 던지다). 'toss and turn'(뒤척이다)·'toss a coin'(동전 던지기)이 핵심.",
+  "syn": [
+   "throw(던지다)",
+   "flip(휙 던지다)",
+   "chuck(휙 던지다)"
+  ],
+  "anti": [
+   "catch(받다)"
+  ],
+  "idiom": [
+   "toss a coin(동전 던지기로 정하다)",
+   "toss and turn(잠 못 자고 뒤척이다)",
+   "toss aside(휙 내던지다)"
+  ],
+  "colloc": [
+   "toss a coin(동전을 던지다)",
+   "toss and turn(뒤척이다)",
+   "toss aside(휙 내던지다)"
+  ],
+  "ex_add": "He tossed the ball to his friend.  (toss=던지다)",
+  "ex_orig": "Seeing Ned Flanders get it wrong is great, but the show - is a toss - up between Borgnine's great self - deprecating role, the ironic, and the.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4859",
+  "hw": "total",
+  "pos": "adj., n., v.",
+  "cefr": "C1",
+  "core": "전체(totus)의 -> '전체의·합계'; (동사)'합계가 ~가 되다'.",
+  "senses": [
+   "1) (adj.) 전체의, 총-; 완전한 (B1)",
+   "2) (n.) 합계, 총계 (B1)",
+   "3) (v.) 합계가 ~가 되다; 완전히 부수다"
+  ],
+  "etym": "라틴어 totus(전체의·모든) -> totalis -> 'total'. totus(전체)는 total·totally(완전히)·totality(전체)의 뿌리. '하나도 빠짐없는 전부'가 핵심.",
+  "deriv": "totus(전체) -> 'total'. 한국 학습자 핵심: 명사·형용사(B1)는 쉽지만 동사(C1)가 빈출! 동사 두 뜻: ① 합계가 ~가 되다(sales totaled $1M 매출이 100만 달러에 달했다) ② (미국 구어) 차를 완전히 망가뜨리다(total a car)! in total(총합으로), a total of(총 ~), grand total(총계). 부사 totally(완전히), 명사 totality(전체). 유의어(합계) sum(합계)·aggregate(총계); (완전한) complete(완전한)·entire(전체의). 동사 용법이 핵심 출제.",
+  "syn": [
+   "sum(합계)",
+   "aggregate(총계)",
+   "amount to(합계가 되다)"
+  ],
+  "anti": [
+   "partial(부분적인)",
+   "part(부분)"
+  ],
+  "idiom": [
+   "in total(총합으로)",
+   "a total of(총 ~)"
+  ],
+  "colloc": [
+   "a total of(총 ~)",
+   "in total(총합으로)",
+   "total amount(총액)"
+  ],
+  "ex_add": "Sales totaled over a million dollars.  (total=합계가 되다)",
+  "ex_orig": "Surely we may be good Samaritans without a total disregard of our own interests and a blindness to opportunity verging on impotency.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4860",
+  "hw": "toxic",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "화살독(toxikon)의 -> '유독한·해로운'.",
+  "senses": [
+   "1) 유독한, 독성의",
+   "2) (관계·환경이) 해로운, 유해한(a toxic relationship)"
+  ],
+  "etym": "그리스어 toxikon(화살에 바르는 독, toxon 활) -> 라틴어 toxicum -> 'toxic'. toxikon(화살독)은 toxin(독소)·intoxicate(취하게 하다, 독을 넣다)·detox(해독)·antitoxin(항독소)의 공통 뿌리. 어원이 '활·화살의 독'!",
+  "deriv": "toxikon(화살독) -> 'toxic'. 한국 학습자 핵심: 어원이 '활(toxon)에 바른 독'! toxikon계열 — toxin(독소)·toxic·intoxicate(취하게 하다)·detox(해독하다)·antitoxin(항독소)·toxicology(독성학)! toxic chemicals(유독 화학물질), toxic waste(유독 폐기물), toxic fumes(유독 가스), a toxic relationship(해로운 관계), toxic masculinity(유해한 남성성). 비유 빈출: '해로운'(관계·환경). 명사 toxin(독소)·toxicity(독성). 유의어 poisonous(유독한)·harmful(해로운)·noxious(유해한). 반대 harmless(무해한)·safe(안전한).",
+  "syn": [
+   "poisonous(유독한)",
+   "harmful(해로운)",
+   "noxious(유해한)"
+  ],
+  "anti": [
+   "harmless(무해한)",
+   "safe(안전한)",
+   "nontoxic(무독성의)"
+  ],
+  "idiom": [
+   "a toxic relationship(해로운 관계)",
+   "toxic waste(유독 폐기물)"
+  ],
+  "colloc": [
+   "toxic chemicals(유독 화학물질)",
+   "toxic waste(유독 폐기물)",
+   "toxic relationship(해로운 관계)"
+  ],
+  "ex_add": "The factory released toxic chemicals.  (toxic=유독한)",
+  "ex_orig": "In the decades leading up to World War II, mining operations contaminated the River in Japan with cadmium and traces of other toxic metals.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4861",
+  "hw": "trace",
+  "pos": "v., n.",
+  "cefr": "C1",
+  "core": "끌고 간(trahere) 자국 -> '추적하다·자취·미량'.",
+  "senses": [
+   "1) (v.) 추적하다, 기원을 찾다",
+   "2) (v.) (본을) 베끼다, 따라 그리다",
+   "3) (n.) 자취, 흔적; 극소량"
+  ],
+  "etym": "라틴어 trahere(끌다) -> tractus(끌린 자국) -> 고대 프랑스어 tracier -> 'trace'. trahere(끌다)는 track(자국)·trail(자취, 4863)·trailer(4864)·portray(묘사하다, 4524)·retreat(후퇴, 4655)·extract(추출하다)의 공통 뿌리.",
+  "deriv": "trahere(끌다) -> tractus -> 'trace'. 한국 학습자 핵심: trahere(끌다)계열 거대군 — track(자국)·trail(4863)·trailer(4864)·portray(4524)·retreat(4655)·extract·contract·attract·trace! trace back to(~까지 거슬러 올라가다), trace the origin(기원을 추적하다), without a trace(흔적도 없이), a trace of(약간의 ~, a trace of sarcasm 약간의 비꼼), disappear without a trace(흔적 없이 사라지다). 유의어(추적) track(추적하다)·follow(따라가다); (흔적) sign(흔적)·hint(기미, 4221). 다의 빈출.",
+  "syn": [
+   "track(추적하다)",
+   "follow(따라가다)",
+   "hint(기미)"
+  ],
+  "anti": [],
+  "idiom": [
+   "trace back to(~까지 거슬러 올라가다)",
+   "without a trace(흔적도 없이)",
+   "a trace of(약간의 ~)"
+  ],
+  "colloc": [
+   "trace back to(~까지 거슬러 올라가다)",
+   "trace the origin(기원을 추적하다)",
+   "without a trace(흔적도 없이)"
+  ],
+  "ex_add": "The custom can be traced back to ancient times.  (trace=거슬러 올라가다)",
+  "ex_orig": "The gradual introduction of the policy of terrorism has been ably traced by perhaps the highest French authority on international law, Prof.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4862",
+  "hw": "trademark",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "상거래(trade)의 표시(mark) -> '상표·트레이드마크·특징'.",
+  "senses": [
+   "1) (등록) 상표, 트레이드마크",
+   "2) (특정인의) 특징, 트레이드마크",
+   "3) (adj.) 특유의, 트레이드마크인"
+  ],
+  "etym": "trade(상거래, 중세 저지대 독일어 trade 발자국·경로) + mark(표시)의 합성어 -> 'trademark'. '상품을 식별하는 표시'가 핵심. mark는 게르만 뿌리(경계·표시).",
+  "deriv": "trade(상거래) + mark(표시) -> 'trademark'. 한국 학습자 핵심: 지식재산권 묶음 — trademark(상표권, 상표)·patent(특허, 발명, 4496)·copyright(저작권, 저작물)·intellectual property(지적 재산, 4288)! a registered trademark(등록 상표), trademark infringement(상표권 침해), a trademark symbol(상표 기호 ™), his trademark smile(그의 트레이드마크인 미소). 비유: '특유의 특징'! 유의어 brand(브랜드)·logo(로고)·hallmark(특징). 비즈니스·법 지문 빈출.",
+  "syn": [
+   "brand(브랜드)",
+   "logo(로고)",
+   "hallmark(특징)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a registered trademark(등록 상표)"
+  ],
+  "colloc": [
+   "registered trademark(등록 상표)",
+   "trademark infringement(상표권 침해)",
+   "trademark smile(트레이드마크인 미소)"
+  ],
+  "ex_add": "The logo is a registered trademark.  (trademark=상표)",
+  "ex_orig": "When Garth Ennis took over writing, he included his trademark representation of racism and religious, as well his depictions of the War.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4863",
+  "hw": "trail",
+  "pos": "n., v.",
+  "cefr": "C1",
+  "core": "끌려간(trahere) 자취 -> '오솔길·자취·뒤쫓다·뒤처지다'.",
+  "senses": [
+   "1) (n.) (산길) 오솔길, 등산로",
+   "2) (n.) 자취, 흔적, 자국",
+   "3) (v.) 뒤쫓다; (질질) 끌(리)다; (경기에서) 뒤지다"
+  ],
+  "etym": "라틴어 trahere(끌다) -> 고대 프랑스어 trailler(끌다) -> 'trail'. trahere(끌다)는 trace(추적, 4861)·trailer(4864)·track(자국)·portray(4524)·retreat(4655)의 공통 뿌리. '끌려 생긴 자국·길'이 핵심.",
+  "deriv": "trahere(끌다) -> 'trail'. 한국 학습자 핵심: trahere(끌다)계열 — trace(추적·흔적, 4861)·trailer(예고편·견인차, 4864)·track(자국)·portray(4524)·retreat(4655)·trail! a hiking trail(등산로), a nature trail(자연 산책로), on the trail of(~을 뒤쫓아), blaze a trail(새 길을 개척하다), trail behind(뒤처지다), a trail of destruction(파괴의 흔적). 유의어(길) path(길, 4497)·track(길); (뒤쫓다) follow(따라가다)·track(추적하다). 'blaze a trail'(선구자가 되다)이 핵심 비유.",
+  "syn": [
+   "path(길)",
+   "track(길)",
+   "follow(뒤쫓다)"
+  ],
+  "anti": [
+   "lead(앞서다)"
+  ],
+  "idiom": [
+   "on the trail of(~을 뒤쫓아)",
+   "blaze a trail(새 길을 개척하다)",
+   "trail behind(뒤처지다)"
+  ],
+  "colloc": [
+   "hiking trail(등산로)",
+   "nature trail(자연 산책로)",
+   "trail behind(뒤처지다)"
+  ],
+  "ex_add": "We followed the hiking trail up the mountain.  (trail=오솔길)",
+  "ex_orig": "O Great White Spirit who rideth On the wings of the Winter gale, Though thy children's faith abideth, Alas! they have lost the trail.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4864",
+  "hw": "trailer",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "끌고 가는(trahere) 것 -> '트레일러·예고편'.",
+  "senses": [
+   "1) (차량) 트레일러, 견인차",
+   "2) (영화·프로그램) 예고편",
+   "3) (미국) 이동식 주택"
+  ],
+  "etym": "라틴어 trahere(끌다) -> trail(끌다, 4863) + -er -> 'trailer'. trahere(끌다)는 trace(4861)·trail(4863)·track의 공통 뿌리. '뒤에 끌려가는 것'에서 '본편 뒤에 붙여 보여 주던 예고편'으로 의미 확장.",
+  "deriv": "trahere(끌다) -> trail -> 'trailer'. 한국 학습자 핵심: trahere(끌다)계열 — trace(4861)·trail(4863)·trailer·track·portray(4524)! 어원: 예고편(trailer)은 원래 본편 '뒤에(trail) 붙여' 상영한 데서! a movie trailer(영화 예고편), a trailer for(~의 예고편), a trailer park(이동식 주택 단지), a truck trailer(트럭 트레일러). 유의어(예고편) preview(예고편)·teaser(티저). 영화·차량 빈출.",
+  "syn": [
+   "preview(예고편)",
+   "teaser(티저)",
+   "caravan(이동식 주택)"
+  ],
+  "anti": [
+   "feature(본편)"
+  ],
+  "idiom": [
+   "a movie trailer(영화 예고편)"
+  ],
+  "colloc": [
+   "movie trailer(영화 예고편)",
+   "trailer for(~의 예고편)",
+   "trailer park(이동식 주택 단지)"
+  ],
+  "ex_add": "The movie trailer looks exciting.  (trailer=예고편)",
+  "ex_orig": "April 15--Three hospital trains, each consisting of an automobile with two trailers, have been presented to the Military Commander at Frankfort-on-Main as a gift \"from friends of Germany in the United States\"; Mme.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4865",
+  "hw": "transaction",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "가로질러(trans) 일을 처리함(agere) -> '거래·처리'.",
+  "senses": [
+   "1) (상)거래, 매매",
+   "2) (업무) 처리, 취급",
+   "3) (전산) 트랜잭션"
+  ],
+  "etym": "라틴어 trans-(가로질러·서로) + agere(행하다·이끌다) -> transigere(처리하다) -> transactio -> 'transaction'. agere(행하다)는 act(행동)·agent(대리인)·agenda(의제)·react(반응하다)의 공통 뿌리. '쌍방이 주고받아 일을 처리함'이 핵심.",
+  "deriv": "trans-(서로) + agere(행하다) -> transact -> 'transaction'. 한국 학습자 핵심: trans-(가로질러·넘어)계열 — transaction·transfer(이동)·transform(변형, 4867)·transit(이동, 4868)·transmit(전송, 4869)·transparent(투명한, 4871)·translate(번역하다)! agere(행하다)계열 — act·agent·agenda·react! a financial transaction(금융 거래), a business transaction(상거래), a cash transaction(현금 거래), complete a transaction(거래를 완료하다). 동사 transact(거래하다). 유의어 deal(거래)·exchange(교환)·trade(거래). 경제·금융 빈출.",
+  "syn": [
+   "deal(거래)",
+   "exchange(교환)",
+   "trade(거래)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a financial transaction(금융 거래)"
+  ],
+  "colloc": [
+   "financial transaction(금융 거래)",
+   "business transaction(상거래)",
+   "complete a transaction(거래를 완료하다)"
+  ],
+  "ex_add": "The bank records every transaction.  (transaction=거래)",
+  "ex_orig": "This double transaction is in essence one--a barter of present income in the form of our wheat to Europe for future income in the form of investment securities.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4866",
+  "hw": "transcript",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "가로질러(trans) 베껴 쓴(scribere) 것 -> '필기록·성적 증명서'.",
+  "senses": [
+   "1) (말·녹음의) 글로 옮긴 기록, 녹취록",
+   "2) (학교) 성적 증명서",
+   "3) 사본, 등본"
+  ],
+  "etym": "라틴어 trans-(가로질러·옮겨) + scribere(쓰다) -> transcribere(옮겨 적다) -> transcriptum -> 'transcript'. scribere(쓰다)는 describe(묘사하다)·subscribe(구독하다, 4778)·prescribe(처방하다, 4540)·manuscript(원고, 4379)·inscribe(새기다)의 공통 뿌리.",
+  "deriv": "trans-(옮겨) + scribere(쓰다) -> transcribe -> 'transcript'. 한국 학습자 핵심: scribere(쓰다)계열 거대군 — describe(묘사)·subscribe(구독, 4778)·prescribe(처방, 4540)·manuscript(원고, 4379)·inscribe(새기다)·transcript! an academic transcript(학업 성적 증명서), a court transcript(법정 기록), a transcript of(~의 기록), request a transcript(성적 증명서를 요청하다). 동사 transcribe(받아쓰다·옮겨 적다), 명사 transcription(필기). 유의어 record(기록)·copy(사본). 학업·법정 빈출.",
+  "syn": [
+   "record(기록)",
+   "copy(사본)",
+   "transcription(필기록)"
+  ],
+  "anti": [],
+  "idiom": [
+   "an academic transcript(성적 증명서)"
+  ],
+  "colloc": [
+   "academic transcript(성적 증명서)",
+   "court transcript(법정 기록)",
+   "transcript of(~의 기록)"
+  ],
+  "ex_add": "You need to submit your academic transcript.  (transcript=성적 증명서)",
+  "ex_orig": "Great Britain, therefore, made two new treaties, one with France and one with Prussia (quoted and discussed in Boston Evening Transcript, Oct.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4867",
+  "hw": "transformation",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "형태(forma)를 가로질러(trans) 바꿈 -> '변형·변모·대변혁'.",
+  "senses": [
+   "1) (완전한) 변형, 변모, 탈바꿈",
+   "2) 대변혁, 큰 변화"
+  ],
+  "etym": "라틴어 trans-(넘어·바꿔) + forma(형태) -> transformare(형태를 바꾸다) -> transform + -ation -> 'transformation'. forma(형태)는 form(형태)·formula(공식, 4162)·reform(개혁, 4614)·conform(따르다)·formulate(4163)의 공통 뿌리.",
+  "deriv": "trans-(바꿔) + forma(형태) -> transform -> 'transformation'. 한국 학습자 핵심: forma(형태)계열 거대군 — form(형태)·formula(4162)·formulate(4163)·reform(개혁, 4614)·conform(순응)·transform(변형)·transformation! trans-계열 — transaction(4865)·transcript(4866)·transformation·transit(4868)·transmission(4869)! a complete transformation(완전한 변모), digital transformation(디지털 전환), undergo a transformation(변모를 겪다), a dramatic transformation(극적인 변화). 동사 transform(변형하다). 유의어 conversion(전환)·metamorphosis(변태)·change(변화). 반대 stagnation(정체).",
+  "syn": [
+   "conversion(전환)",
+   "metamorphosis(변태)",
+   "change(변화)"
+  ],
+  "anti": [
+   "stagnation(정체)",
+   "preservation(보존)"
+  ],
+  "idiom": [
+   "a complete transformation(완전한 변모)",
+   "digital transformation(디지털 전환)"
+  ],
+  "colloc": [
+   "complete transformation(완전한 변모)",
+   "digital transformation(디지털 전환)",
+   "undergo a transformation(변모를 겪다)"
+  ],
+  "ex_add": "The city underwent a dramatic transformation.  (transformation=변모)",
+  "ex_orig": "In fact, the war and the Home Rule bill together have produced such a transformation in the Irish-American nature as I, for one, never expected and never hoped to see.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4868",
+  "hw": "transit",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "가로질러(trans) 감(ire) -> '환승·운송·통과'.",
+  "senses": [
+   "1) 운송, 수송; 환승",
+   "2) (대중) 교통 (체계)(public transit)",
+   "3) 통과, 횡단; (천체의) 통과"
+  ],
+  "etym": "라틴어 trans-(가로질러) + ire/it-(가다) -> transire(건너가다) -> transitus -> 'transit'. ire(가다)는 exit(출구)·initiate(시작하다, 4265)·transition(이행)·ambition(야망)·circuit(순회)의 공통 뿌리.",
+  "deriv": "trans-(가로질러) + ire(가다) -> 'transit'. 한국 학습자 핵심: ire/it(가다)계열 — exit(출구)·initiate(4265)·initial(처음의)·transition(이행)·ambition(야망)·circuit(순회)·transit! public transit(대중교통, 미국), mass transit(대중교통), in transit(운송 중인·이동 중인), a transit visa(통과 비자), rapid transit(고속 교통). 명사 transition(이행·전환). 유의어 transport(운송)·transportation(교통)·passage(통과). 교통·운송 지문 빈출.",
+  "syn": [
+   "transport(운송)",
+   "transportation(교통)",
+   "passage(통과)"
+  ],
+  "anti": [],
+  "idiom": [
+   "in transit(운송 중인)",
+   "public transit(대중교통)",
+   "mass transit(대중교통)"
+  ],
+  "colloc": [
+   "public transit(대중교통)",
+   "in transit(운송 중인)",
+   "mass transit(대중교통)"
+  ],
+  "ex_add": "The goods were damaged in transit.  (transit=운송)",
+  "ex_orig": "What did it contain, and why was it not published under the date of its arrival instead of the letter which had been delayed in transit?",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4869",
+  "hw": "transmission",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "가로질러(trans) 보냄(mittere) -> '전송·전염·전달·변속기'.",
+  "senses": [
+   "1) (신호·정보의) 전송, 송신",
+   "2) (질병의) 전염, 전파",
+   "3) (자동차의) 변속기, 트랜스미션"
+  ],
+  "etym": "라틴어 trans-(가로질러·건너) + mittere(보내다) -> transmittere(건너보내다) -> transmissio -> 'transmission'. mittere(보내다)는 mission(임무)·missile(미사일, 4419)·submission(제출, 4777)·permit(허락하다)·dismiss(해고하다)의 공통 뿌리.",
+  "deriv": "trans-(건너) + mittere(보내다) -> transmit -> 'transmission'. 한국 학습자 핵심: mittere(보내다)계열 거대군 — mission(임무)·missile(4419)·submission(4777)·permit·dismiss·commit·emit·premise(4538)·transmission! data transmission(데이터 전송), disease transmission(질병 전파), the transmission of(~의 전달), live transmission(생중계). 동사 transmit(전송하다·전염시키다). 유의어(전송) broadcast(방송)·dispatch(발송); (전염) spread(확산)·contagion(전염). 통신·의학·기계 다방면.",
+  "syn": [
+   "broadcast(방송)",
+   "spread(확산)",
+   "dispatch(발송)"
+  ],
+  "anti": [
+   "reception(수신)"
+  ],
+  "idiom": [
+   "data transmission(데이터 전송)",
+   "disease transmission(질병 전파)"
+  ],
+  "colloc": [
+   "data transmission(데이터 전송)",
+   "disease transmission(질병 전파)",
+   "transmission of(~의 전달)"
+  ],
+  "ex_add": "The disease spreads through human transmission.  (transmission=전파)",
+  "ex_orig": "the Bank of France releases $1,000,000 gold to the Bank of England for transmission to New York to assist in steadying exchange;",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4870",
+  "hw": "transparency",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "가로질러(trans) 비쳐 보임(parere) -> '투명성·투명함'.",
+  "senses": [
+   "1) (제도·운영의) 투명성, 공개성",
+   "2) (물질의) 투명도",
+   "3) (영사용) 투명 슬라이드"
+  ],
+  "etym": "라틴어 trans-(가로질러) + parere(나타나다·보이다) -> transparere(꿰뚫어 보이다) -> transparent(투명한, 4871) + -cy -> 'transparency'. parere(나타나다)는 appear(나타나다)·apparent(명백한)·parent(부모, 4489, 다른 갈래)와 연결되는 뿌리.",
+  "deriv": "trans-(가로질러) + parere(나타나다) -> transparent -> 'transparency'. 한국 학습자 핵심: parere(나타나다)계열 — appear(나타나다)·apparent(명백한)·transparent(투명한, 4871)·transparency! 비유 빈출: 제도의 '투명성'! financial transparency(재정 투명성), greater transparency(더 큰 투명성), transparency in government(정부의 투명성), demand transparency(투명성을 요구하다). 형용사 transparent(4871). 유의어(투명성) openness(개방성)·clarity(명료성)·accountability(책임성). 반대 secrecy(비밀주의)·opacity(불투명).",
+  "syn": [
+   "openness(개방성)",
+   "clarity(명료성)",
+   "accountability(책임성)"
+  ],
+  "anti": [
+   "secrecy(비밀주의)",
+   "opacity(불투명)"
+  ],
+  "idiom": [
+   "financial transparency(재정 투명성)"
+  ],
+  "colloc": [
+   "financial transparency(재정 투명성)",
+   "greater transparency(더 큰 투명성)",
+   "transparency in government(정부의 투명성)"
+  ],
+  "ex_add": "The public demands greater transparency.  (transparency=투명성)",
+  "ex_orig": "Saprang denied that there was any lack of transparency in the request for financial support. claimed that the equipment should only have cost 30 million baht, not 800 million baht.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4871",
+  "hw": "transparent",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "가로질러(trans) 비쳐 보이는(parere) -> '투명한·명백한'.",
+  "senses": [
+   "1) 투명한, 비쳐 보이는",
+   "2) (의도가) 빤히 보이는, 속이 들여다보이는",
+   "3) (제도가) 투명한, 공개적인"
+  ],
+  "etym": "라틴어 trans-(가로질러) + parere(나타나다·보이다) -> transparere(꿰뚫어 보이다) -> 'transparent'. transparency(투명성, 4870)와 같은 parere(나타나다) 뿌리. '건너편이 비쳐 보이는'이 핵심.",
+  "deriv": "trans-(가로질러) + parere(나타나다) -> 'transparent'. 한국 학습자 핵심: parere(나타나다)계열 — appear(나타나다)·apparent(명백한)·transparency(4870)·transparent! 세 뜻: ① 투명한(transparent glass 투명 유리) ② 빤히 보이는(a transparent lie 빤한 거짓말) ③ 투명한·공개적인(a transparent process 투명한 과정)! 정반대: transparent(투명한) ↔ opaque(불투명한)! 유의어(투명한) clear(맑은)·see-through(비치는); (명백한) obvious(명백한). 반대 opaque(불투명한)·murky(흐릿한). 과학·제도 양쪽 빈출.",
+  "syn": [
+   "clear(맑은)",
+   "see-through(비치는)",
+   "obvious(명백한)"
+  ],
+  "anti": [
+   "opaque(불투명한)",
+   "murky(흐릿한)",
+   "secretive(비밀스러운)"
+  ],
+  "idiom": [
+   "a transparent lie(빤한 거짓말)"
+  ],
+  "colloc": [
+   "transparent glass(투명 유리)",
+   "transparent process(투명한 과정)",
+   "transparent lie(빤한 거짓말)"
+  ],
+  "ex_add": "The company aims to be fully transparent.  (transparent=투명한)",
+  "ex_orig": "Her lips are painted with a shades of, white and red which are mixed into each other to give a transparent look at the edges.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4872",
+  "hw": "trauma",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "마음·몸의 상처(trauma) -> '정신적 외상·트라우마·외상'.",
+  "senses": [
+   "1) (정신적) 충격, 외상, 트라우마",
+   "2) (신체적) 외상, 부상",
+   "3) (충격적) 경험"
+  ],
+  "etym": "그리스어 trauma(상처·부상)에서 -> 'trauma'. 의학에서 '신체 외상'을, 심리학에서 '정신적 외상'을 가리킨다. traumatic(충격적인)·traumatize(정신적 충격을 주다)가 가족. '깊이 남은 상처'가 핵심.",
+  "deriv": "trauma(상처) -> 'trauma'. 한국 학습자 핵심: 복수 traumas/traumata! trauma·traumatic(대단히 충격적인)·traumatize(정신적 충격을 주다)·post-traumatic(외상 후의, PTSD 외상 후 스트레스 장애)! childhood trauma(어린 시절의 트라우마), emotional trauma(정서적 외상), suffer trauma(외상을 입다), deal with trauma(트라우마를 극복하다), head trauma(머리 외상). 유의어(정신적) shock(충격)·distress(고통); (신체적) injury(부상)·wound(상처). 심리·의학 지문 빈출.",
+  "syn": [
+   "shock(충격)",
+   "distress(고통)",
+   "injury(부상)"
+  ],
+  "anti": [
+   "healing(치유)",
+   "recovery(회복)"
+  ],
+  "idiom": [
+   "childhood trauma(어린 시절의 트라우마)",
+   "post-traumatic(외상 후의)"
+  ],
+  "colloc": [
+   "childhood trauma(어린 시절의 트라우마)",
+   "emotional trauma(정서적 외상)",
+   "suffer trauma(외상을 입다)"
+  ],
+  "ex_add": "She is still dealing with childhood trauma.  (trauma=트라우마)",
+  "ex_orig": "While electrical injuries primarily result in burns, they may also cause fractures or secondary to blunt force trauma or muscle.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4873",
+  "hw": "treaty",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "끌어다(trahere) 협의한 것 -> '조약·협정'.",
+  "senses": [
+   "1) (국가 간) 조약, 협정",
+   "2) (공식) 맹약"
+  ],
+  "etym": "라틴어 tractare(다루다·협의하다, trahere 끌다의 반복형) -> 고대 프랑스어 traité -> 'treaty'. tractare(다루다)는 treat(다루다·대접하다)·treatment(처리)·treatise(논문)와 같은 trahere(끌다) 뿌리. '서로 협의해 다룬 결과물'이 핵심.",
+  "deriv": "tractare(다루다) -> 'treaty'. 한국 학습자 핵심: trahere->tractare(끌다->다루다)계열 — treat(다루다·대접하다)·treatment(처리·치료)·treatise(논문)·trace(4861)·trail(4863)·treaty! sign a treaty(조약을 체결하다), a peace treaty(평화 조약), ratify a treaty(조약을 비준하다), a trade treaty(통상 조약), under the treaty(조약에 따라). 유의어 agreement(협정)·pact(협약)·accord(협정)·convention(협약). 외교·역사 지문 빈출.",
+  "syn": [
+   "agreement(협정)",
+   "pact(협약)",
+   "accord(협정)"
+  ],
+  "anti": [],
+  "idiom": [
+   "sign a treaty(조약을 체결하다)",
+   "a peace treaty(평화 조약)"
+  ],
+  "colloc": [
+   "sign a treaty(조약을 체결하다)",
+   "peace treaty(평화 조약)",
+   "ratify a treaty(조약을 비준하다)"
+  ],
+  "ex_add": "The two nations signed a peace treaty.  (treaty=조약)",
+  "ex_orig": "Or does this treaty mean the faith of a nation that will die rather than break its word, given before the tribunal of civilized States?",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4874",
+  "hw": "tremendous",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "떨릴(tremere) 만큼 엄청난 -> '엄청난·굉장한'.",
+  "senses": [
+   "1) 엄청난, 막대한",
+   "2) 굉장한, 대단한, 훌륭한"
+  ],
+  "etym": "라틴어 tremere(떨다·전율하다) -> tremendus(떨게 하는·무시무시한) -> 'tremendous'. tremere(떨다)는 tremble(떨다)·tremor(떨림·진동)·tremulous(떨리는)의 공통 뿌리. 원래 '두려워 떨릴 만큼'에서 '엄청난'으로 의미 확장(긍정으로도).",
+  "deriv": "tremere(떨다) -> tremendus -> 'tremendous'. 한국 학습자 핵심: tremere(떨다)계열 — tremble(떨다)·tremor(떨림·미진)·tremulous(떨리는)·tremendous! 어원이 '떨릴 만큼'(전율적인 크기)! a tremendous amount(엄청난 양), tremendous success(대성공), tremendous effort(엄청난 노력), a tremendous impact(막대한 영향). 부사 tremendously(엄청나게). 유의어 enormous(거대한)·immense(막대한, 4239)·huge(거대한)·great(대단한). 반대 tiny(작은)·negligible(미미한, 4411). 정도가 큼을 강조.",
+  "syn": [
+   "enormous(거대한)",
+   "immense(막대한)",
+   "huge(거대한)"
+  ],
+  "anti": [
+   "tiny(작은)",
+   "negligible(미미한)",
+   "minimal(최소의)"
+  ],
+  "idiom": [
+   "a tremendous amount(엄청난 양)"
+  ],
+  "colloc": [
+   "tremendous amount(엄청난 양)",
+   "tremendous success(대성공)",
+   "tremendous effort(엄청난 노력)"
+  ],
+  "ex_add": "The team made a tremendous effort.  (tremendous=엄청난)",
+  "ex_orig": "We passed down through the long line of slowly moving transports amid tremendous cheering, and were played out of the bay by the French warships.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4875",
+  "hw": "tribal",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "부족(tribus)의 -> '부족의·종족의'.",
+  "senses": [
+   "1) 부족의, 종족의",
+   "2) (집단 간) 파벌적인, 편 가르는"
+  ],
+  "etym": "라틴어 tribus(부족, 고대 로마의 3개 부족 -> tri- 셋) -> tribalis -> 'tribal'. tribus(부족)는 tribe(부족)·tribute(공물, 4876)·contribute(기여하다)·attribute(~의 탓으로 돌리다)·distribute(분배하다)의 공통 뿌리.",
+  "deriv": "tribus(부족) -> tribe -> 'tribal'. 한국 학습자 핵심: tribus(부족)계열 — tribe(부족)·tribal·tribute(공물·찬사, 4876)·contribute(기여하다)·attribute(~의 탓)·distribute(분배하다)! 어원: tribus는 로마의 3개(tri-) 부족! tribal society(부족 사회), tribal warfare(부족 간 전쟁), tribal customs(부족 관습), tribal leaders(부족 지도자). 비유: '파벌적인'(tribal politics 편 가르기 정치). 유의어 ethnic(종족의)·clan(씨족의). 인류학·사회 지문 빈출.",
+  "syn": [
+   "ethnic(종족의)",
+   "indigenous(토착의)",
+   "clan(씨족의)"
+  ],
+  "anti": [],
+  "idiom": [
+   "tribal warfare(부족 간 전쟁)"
+  ],
+  "colloc": [
+   "tribal society(부족 사회)",
+   "tribal customs(부족 관습)",
+   "tribal leaders(부족 지도자)"
+  ],
+  "ex_add": "The region has many tribal communities.  (tribal=부족의)",
+  "ex_orig": "But Christ came to the world in God's name to universalize this narrow tribal idea of God, proclaiming peace on earth and good will to men.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4876",
+  "hw": "tribute",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "부족(tribus)에 바치던 것 -> '공물·찬사·헌사'.",
+  "senses": [
+   "1) 찬사, 헌사, 경의",
+   "2) (역사) 공물, 조공",
+   "3) (~을 보여 주는) 증거(a tribute to)"
+  ],
+  "etym": "라틴어 tribuere(할당하다·바치다, tribus 부족) -> tributum(바친 것) -> 'tribute'. tribuere(나눠 주다)는 contribute(기여하다, con-함께)·attribute(~의 탓으로, ad-에)·distribute(분배하다, dis-나눠)·tribal(부족의, 4875)의 공통 뿌리.",
+  "deriv": "tribuere(바치다·할당하다) -> 'tribute'. 한국 학습자 핵심: tribuere(나눠 주다)계열 — contribute(기여하다)·contribution(기여)·attribute(~의 탓으로 돌리다·속성)·distribute(분배하다)·distribution(분배)·tribe(부족, 4875)·tribute! pay tribute to(~에게 경의를 표하다, 빈출!), a fitting tribute(걸맞은 헌사), a tribute to(~을 보여 주는 증거), a heartfelt tribute(진심 어린 찬사). 유의어 homage(경의)·praise(칭찬)·acknowledgment(감사). 'pay tribute to'(경의를 표하다)가 핵심.",
+  "syn": [
+   "homage(경의)",
+   "praise(칭찬)",
+   "acknowledgment(인정)"
+  ],
+  "anti": [
+   "criticism(비난)",
+   "insult(모욕)"
+  ],
+  "idiom": [
+   "pay tribute to(~에게 경의를 표하다)",
+   "a tribute to(~을 보여 주는 증거)"
+  ],
+  "colloc": [
+   "pay tribute to(~에게 경의를 표하다)",
+   "fitting tribute(걸맞은 헌사)",
+   "heartfelt tribute(진심 어린 찬사)"
+  ],
+  "ex_add": "They paid tribute to the fallen soldiers.  (tribute=경의)",
+  "ex_orig": "It would not be right to close even this account without a word of tribute to the auxiliary services.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4877",
+  "hw": "trigger",
+  "pos": "v., n.",
+  "cefr": "C1",
+  "core": "방아쇠를 당기다 -> '유발하다·방아쇠·계기'.",
+  "senses": [
+   "1) (v.) 유발하다, 촉발하다",
+   "2) (n.) (총의) 방아쇠",
+   "3) (n.) (반응을 일으키는) 계기, 도화선"
+  ],
+  "etym": "네덜란드어 trekker(당기는 것, trekken 당기다)에서 -> 'trigger'. '당겨서 발사를 일으키는 장치'에서 '어떤 일을 촉발하다'로 비유 확장. '방아쇠를 당기듯 반응을 일으킴'이 핵심.",
+  "deriv": "trekken(당기다) -> trekker -> 'trigger'. 한국 학습자 핵심: 비유 '유발하다'가 핵심 빈출 — trigger a reaction(반응을 유발하다), trigger memories(기억을 불러일으키다), trigger an alarm(경보를 작동시키다), trigger a crisis(위기를 촉발하다)! pull the trigger(방아쇠를 당기다·결단을 내리다), a trigger for(~의 계기), a trigger warning(민감 내용 사전 경고). 유의어 cause(야기하다)·spark(촉발하다, 4740)·set off(일으키다)·prompt(유발하다)·provoke(유발하다, 4582). 'trigger'(촉발하다)는 매우 빈번.",
+  "syn": [
+   "cause(야기하다)",
+   "spark(촉발하다)",
+   "set off(일으키다)"
+  ],
+  "anti": [
+   "prevent(막다)",
+   "suppress(억누르다)"
+  ],
+  "idiom": [
+   "pull the trigger(방아쇠를 당기다)",
+   "a trigger for(~의 계기)",
+   "a trigger warning(사전 경고)"
+  ],
+  "colloc": [
+   "trigger a reaction(반응을 유발하다)",
+   "trigger memories(기억을 불러일으키다)",
+   "trigger a crisis(위기를 촉발하다)"
+  ],
+  "ex_add": "The news triggered a wave of protests.  (trigger=촉발하다)",
+  "ex_orig": "Construction of the facility triggered a significant growth in development of a marketplace, hotels and restaurants in downtown Napa.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4878",
+  "hw": "trio",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "셋(tri)으로 된 무리 -> '3인조·삼중주'.",
+  "senses": [
+   "1) 3인조, 세 사람(것)",
+   "2) (음악) 삼중주(단), 삼중창"
+  ],
+  "etym": "이탈리아어 trio(셋, 라틴어 tres 셋) -> 'trio'. tres(셋)는 triple(세 배의)·triangle(삼각형)·tricycle(세발자전거)·tripod(삼각대)·trilogy(3부작)의 공통 뿌리. duo(둘)의 본을 따른 음악 용어.",
+  "deriv": "tres(셋) -> 'trio'. 한국 학습자 핵심: tres(셋)계열 — triple(세 배)·triangle(삼각형)·tricycle(세발자전거)·tripod(삼각대)·trilogy(3부작)·trinity(삼위일체)·trio! 인원수 어휘 — solo(독주, 4733)·duo/duet(2인조)·trio(3인조)·quartet(4중주)·quintet(5중주)! a jazz trio(재즈 3인조), a piano trio(피아노 삼중주), the trio of(세 명·세 가지의 ~), a trio of friends(세 친구). 유의어 threesome(3인조)·triad(3개조). 음악·집단 빈출.",
+  "syn": [
+   "threesome(3인조)",
+   "triad(3개조)"
+  ],
+  "anti": [
+   "solo(독주)",
+   "duo(2인조)"
+  ],
+  "idiom": [
+   "a jazz trio(재즈 3인조)"
+  ],
+  "colloc": [
+   "jazz trio(재즈 3인조)",
+   "piano trio(피아노 삼중주)",
+   "trio of(세 명의 ~)"
+  ],
+  "ex_add": "The jazz trio performed all night.  (trio=3인조)",
+  "ex_orig": "The trio consult with Jones again, but learn that he never actually killed anyone, having been imprisoned for the film Snow Falling on.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4879",
+  "hw": "triumph",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "개선 행진 -> '대승리·큰 성취·승리감'.",
+  "senses": [
+   "1) (큰) 승리, 대성공",
+   "2) 승리감, 환희",
+   "3) (v.) 승리하다, 이기다(triumph over)"
+  ],
+  "etym": "라틴어 triumphus(개선식·승전 행진, 그리스어 thriambos 바쿠스 찬가에서) -> 'triumph'. 고대 로마에서 승리한 장군의 개선 행진을 가리킨 데서 유래. '큰 승리와 그 환희'가 핵심.",
+  "deriv": "triumphus(개선식) -> 'triumph'. 한국 학습자 핵심: triumph(대승리)·triumphant(의기양양한)·triumphantly(승리감에 차서)! a great triumph(대승리), a triumph over adversity(역경을 이긴 승리), triumph over(~을 이기다·극복하다), in triumph(의기양양하게), a personal triumph(개인적 쾌거). 유의어 victory(승리)·success(성공)·conquest(정복). 반대 defeat(패배)·failure(실패)·disaster(재앙). prevail(이기다, 4549)·prosper(번영, 4576)와 의미 연결. 격식·문어체.",
+  "syn": [
+   "victory(승리)",
+   "success(성공)",
+   "conquest(정복)"
+  ],
+  "anti": [
+   "defeat(패배)",
+   "failure(실패)",
+   "disaster(재앙)"
+  ],
+  "idiom": [
+   "triumph over(~을 이기다)",
+   "in triumph(의기양양하게)"
+  ],
+  "colloc": [
+   "great triumph(대승리)",
+   "triumph over adversity(역경을 이긴 승리)",
+   "personal triumph(개인적 쾌거)"
+  ],
+  "ex_add": "The victory was a triumph for the whole team.  (triumph=대승리)",
+  "ex_orig": "So well have my people defended-- So well have they prospered through striving-- Today her triumph New England speaks In the mantling calm that envelops all.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4880",
+  "hw": "trophy",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "적을 패주시킨(tropaion) 전리품 -> '트로피·전리품'.",
+  "senses": [
+   "1) (우승) 트로피, 우승컵",
+   "2) 전리품, 노획물",
+   "3) (사냥의) 박제 기념물"
+  ],
+  "etym": "그리스어 tropaion(적을 돌려세운 곳에 세운 전승 기념물, tropē 돌림·패주) -> 라틴어 trophaeum -> 'trophy'. tropē(돌림)는 tropic(회귀선)·trope(비유)와 친족. '적을 패주시킨 증표'가 핵심.",
+  "deriv": "tropaion(전승 기념물) -> 'trophy'. 한국 학습자 핵심: 어원이 '적을 돌려세운(패주시킨) 기념물'! tropē(돌림)계열 — tropic(열대·회귀선)·trophy! win a trophy(트로피를 차지하다), lift the trophy(우승컵을 들어 올리다), a trophy cabinet(트로피 진열장), a trophy wife(전리품 같은 아내, 과시용 아내). 유의어 award(상)·prize(상)·cup(우승컵). 스포츠 빈출. 동음 주의 없음.",
+  "syn": [
+   "award(상)",
+   "prize(상)",
+   "cup(우승컵)"
+  ],
+  "anti": [],
+  "idiom": [
+   "lift the trophy(우승컵을 들어 올리다)",
+   "a trophy wife(과시용 아내)"
+  ],
+  "colloc": [
+   "win a trophy(트로피를 차지하다)",
+   "lift the trophy(우승컵을 들어 올리다)",
+   "trophy cabinet(트로피 진열장)"
+  ],
+  "ex_add": "The team lifted the trophy after the final.  (trophy=트로피)",
+  "ex_orig": "Federer met Hewitt at six of the Grand Slam tournaments in which he lifted the trophy, including all five of his between 2004 and 2005.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4881",
+  "hw": "troubled",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "휘저어져(turbare) 어지러운 -> '곤란한·불안한·문제 많은'.",
+  "senses": [
+   "1) 걱정스러운, 불안한",
+   "2) 문제가 많은, 골치 아픈",
+   "3) (지역·시기가) 혼란스러운"
+  ],
+  "etym": "라틴어 turbare(휘젓다·혼란시키다, turba 군중·소란) -> 고대 프랑스어 trubler -> trouble + -ed -> 'troubled'. turbare(휘젓다)는 disturb(방해하다)·turbulent(격동의)·turbine(터빈)·perturb(불안하게 하다)의 공통 뿌리.",
+  "deriv": "turbare(휘젓다) -> trouble -> 'troubled'. 한국 학습자 핵심: turbare(휘젓다)계열 — trouble(문제·괴롭히다)·disturb(방해하다)·turbulent(격동의·난기류의)·turbine(터빈)·perturb(불안하게 하다)·troubled! a troubled childhood(불우한 어린 시절), a troubled marriage(불화가 잦은 결혼), troubled times(혼란한 시기), deeply troubled(매우 불안한), a troubled region(분쟁 지역). 유의어 distressed(괴로워하는)·anxious(불안한)·turbulent(격동의). 반대 untroubled(평온한)·calm(평온한)·stable(안정된).",
+  "syn": [
+   "distressed(괴로워하는)",
+   "anxious(불안한)",
+   "turbulent(격동의)"
+  ],
+  "anti": [
+   "untroubled(평온한)",
+   "calm(평온한)",
+   "stable(안정된)"
+  ],
+  "idiom": [
+   "a troubled childhood(불우한 어린 시절)",
+   "troubled times(혼란한 시기)"
+  ],
+  "colloc": [
+   "troubled childhood(불우한 어린 시절)",
+   "troubled times(혼란한 시기)",
+   "deeply troubled(매우 불안한)"
+  ],
+  "ex_add": "He had a troubled childhood.  (troubled=불우한)",
+  "ex_orig": "Out of the troubled waters of our present relations with Germany may thus come a great and, we may hope, a lasting good.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4882",
+  "hw": "trustee",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "신탁(trust)받은 사람 -> '수탁자·이사·관재인'.",
+  "senses": [
+   "1) (재산·기관의) 수탁자, 관재인",
+   "2) (대학·재단의) 이사, 평의원"
+  ],
+  "etym": "trust(신뢰·신탁, 고대 노르드어 traust 신뢰) + -ee(받는 사람) -> 'trustee'. trust(신뢰)는 true(참된)·truth(진실)와 같은 게르만 뿌리. '믿고 맡긴 것을 관리하도록 위임받은 사람'이 핵심.",
+  "deriv": "trust(신탁) + -ee(피동작주) -> 'trustee'. 한국 학습자 핵심: -ee(~받는 사람) 접미사 — trustee(수탁자)·employee(피고용인)·nominee(피지명인, 4447)·interviewee(면접 받는 사람)·payee(수취인)! trust 가족 — trust·trustee·trustworthy(믿을 만한)·distrust(불신)·entrust(맡기다)! a board of trustees(이사회), a university trustee(대학 이사), appoint a trustee(수탁자를 임명하다), act as trustee(수탁자 역할을 하다). 유의어 custodian(관리인)·administrator(관리자)·guardian(보호자). 법·기관 운영 빈출.",
+  "syn": [
+   "custodian(관리인)",
+   "administrator(관리자)",
+   "guardian(보호자)"
+  ],
+  "anti": [
+   "beneficiary(수익자)"
+  ],
+  "idiom": [
+   "a board of trustees(이사회)"
+  ],
+  "colloc": [
+   "board of trustees(이사회)",
+   "university trustee(대학 이사)",
+   "appoint a trustee(수탁자를 임명하다)"
+  ],
+  "ex_add": "She was appointed as a trustee of the foundation.  (trustee=이사)",
+  "ex_orig": "We are trustees for what I venture to say is the greatest heritage that any nation ever had, the love of justice and righteousness and human liberty.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4883",
+  "hw": "tuition",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "가르쳐(tueri) 줌 -> '수업·등록금·개인 지도'.",
+  "senses": [
+   "1) (대학) 등록금, 수업료",
+   "2) 교습, 수업, 개인 지도"
+  ],
+  "etym": "라틴어 tueri(지켜보다·돌보다·가르치다) -> tuitio(보호·돌봄) -> 'tuition'. tueri(돌보다)는 tutor(가정교사)·tutorial(개별 지도)·intuition(직관, 안을 들여다봄)의 공통 뿌리. '가르쳐 돌봐 줌 -> 그 대가'가 핵심.",
+  "deriv": "tueri(돌보다·가르치다) -> 'tuition'. 한국 학습자 핵심: tueri(돌보다·가르치다)계열 — tutor(가정교사)·tutorial(개별 지도·튜토리얼)·intuition(직관)·tuition! 미국: tuition(등록금) = tuition fees(영국). 학비 어휘 — tuition(등록금)·scholarship(장학금)·fee(수업료)! pay tuition(등록금을 내다), tuition fees(수업료), rising tuition(오르는 등록금), free tuition(무상 교육), private tuition(개인 교습, 영국). 유의어 schooling(학비)·fees(수업료). 교육 지문 빈출.",
+  "syn": [
+   "schooling(학비)",
+   "instruction(교습)",
+   "fees(수업료)"
+  ],
+  "anti": [],
+  "idiom": [
+   "pay tuition(등록금을 내다)"
+  ],
+  "colloc": [
+   "pay tuition(등록금을 내다)",
+   "tuition fees(수업료)",
+   "rising tuition(오르는 등록금)"
+  ],
+  "ex_add": "College tuition has risen sharply.  (tuition=등록금)",
+  "ex_orig": "Prior to his Britain's Got Talent appearances, he attended Trinity School, and later received tuition from a personal tutor.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4884",
+  "hw": "tumor",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "부어오른(tumere) 덩이 -> '종양'.",
+  "senses": [
+   "1) (의학) 종양, 종기",
+   "2) 비정상적 세포 덩어리"
+  ],
+  "etym": "라틴어 tumere(붓다·부풀다) -> tumor(부어오름) -> 'tumor'(미국식)/tumour(영국식). tumere(붓다)는 tumult(소란, 들끓음)·tumultuous(떠들썩한)와 친족. '비정상적으로 부어오른 덩어리'가 핵심.",
+  "deriv": "tumere(붓다) -> 'tumor'. 한국 학습자 핵심: 미국식 tumor / 영국식 tumour 철자! tumere(붓다)계열 — tumult(소동·소란)·tumultuous(떠들썩한)·tumor! 의학 어휘 — tumor(종양)·cancer(암)·benign tumor(양성 종양)·malignant tumor(악성 종양)! a brain tumor(뇌종양), remove a tumor(종양을 제거하다), a malignant tumor(악성 종양), detect a tumor(종양을 발견하다). 유의어 growth(혹·종양)·lump(덩어리)·mass(덩어리). 의학 지문 빈출.",
+  "syn": [
+   "growth(혹)",
+   "lump(덩어리)",
+   "mass(덩어리)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a brain tumor(뇌종양)",
+   "a malignant tumor(악성 종양)"
+  ],
+  "colloc": [
+   "brain tumor(뇌종양)",
+   "malignant tumor(악성 종양)",
+   "remove a tumor(종양을 제거하다)"
+  ],
+  "ex_add": "The surgeon removed the brain tumor.  (tumor=종양)",
+  "ex_orig": "Rarely, the first sign of leukemia may be the development of a solid leukemic mass or tumor outside of the bone marrow, called a.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4885",
+  "hw": "turnout",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "나온(turn out) 사람 수 -> '참가자 수·투표율'.",
+  "senses": [
+   "1) (행사) 참가자 수, 참석 인원",
+   "2) (선거) 투표율",
+   "3) 생산량, 산출"
+  ],
+  "etym": "동사구 turn out(나타나다·모습을 드러내다)의 명사화 -> 'turnout'. turn(돌다, 라틴어 tornare)이 핵심. '얼마나 많은 사람이 (나와서) 모였는가'가 핵심.",
+  "deriv": "turn out(나오다) -> 'turnout'. 한국 학습자 핵심: 동사구 -> 명사 — turn out -> turnout, turn over -> turnover(4886), break out -> breakout! turn(돌다) 합성 — turnout·turnover(4886)·turning point(전환점)·turnaround(회복·전환)! a high turnout(높은 참가율·투표율), voter turnout(투표율), a low turnout(저조한 참석), a good turnout(많은 참석). 유의어(참석) attendance(참석)·crowd(군중). 선거·행사 통계 빈출. turnover(4886, 매출·이직률)와 구별!",
+  "syn": [
+   "attendance(참석)",
+   "crowd(군중)",
+   "participation(참여)"
+  ],
+  "anti": [],
+  "idiom": [
+   "voter turnout(투표율)",
+   "a high turnout(높은 참가율)"
+  ],
+  "colloc": [
+   "voter turnout(투표율)",
+   "high turnout(높은 참가율)",
+   "low turnout(저조한 참석)"
+  ],
+  "ex_add": "Voter turnout was very high this year.  (turnout=투표율)",
+  "ex_orig": "Peach Bowl officials pronounced themselves pleased with both the turnout for the game and the action on the field.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4886",
+  "hw": "turnover",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "돌고 도는(turn over) 양 -> '매출액·이직률·회전율'.",
+  "senses": [
+   "1) (기업) 총매출액, 거래액",
+   "2) (직원) 이직률, 교체율",
+   "3) (재고의) 회전율"
+  ],
+  "etym": "동사구 turn over(뒤집다·돌리다)의 명사화 -> 'turnover'. turn(돌다, 라틴어 tornare 돌리다)이 핵심. '한 바퀴 돌아 바뀌는 양·횟수'가 핵심.",
+  "deriv": "turn over(뒤집다) -> 'turnover'. 한국 학습자 핵심: 동사구 -> 명사 — turn over -> turnover, turn out -> turnout(4885)! 세 뜻: ① 매출액(annual turnover 연 매출) ② 이직률(staff turnover 직원 이직률, high turnover 높은 이직률) ③ 회전율(inventory turnover 재고 회전율)! turn(돌다) 합성 — turnover·turnout(4885)·turning point·turnaround! 유의어(매출) revenue(수입)·sales(매출); (이직) attrition(자연 감소). 경영·경제 지문 빈출. turnout(4885, 참가자 수)과 혼동 주의!",
+  "syn": [
+   "revenue(수입)",
+   "sales(매출)",
+   "attrition(이직)"
+  ],
+  "anti": [],
+  "idiom": [
+   "staff turnover(직원 이직률)",
+   "annual turnover(연 매출)"
+  ],
+  "colloc": [
+   "annual turnover(연 매출)",
+   "staff turnover(직원 이직률)",
+   "high turnover(높은 이직률)"
+  ],
+  "ex_add": "The company has a high staff turnover.  (turnover=이직률)",
+  "ex_orig": "Although Florida the Crimson Tide in total offense 281 to 273 yards, their three turnovers resulted in 21 Alabama points.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4887",
+  "hw": "twist",
+  "pos": "v., n.",
+  "cefr": "C1",
+  "core": "비비 꼬다 -> '비틀다·왜곡하다·반전'.",
+  "senses": [
+   "1) (v.) 비틀다, 돌리다, 꼬다",
+   "2) (v.) (사실을) 왜곡하다",
+   "3) (n.) 뒤틀림; (예상 밖의) 반전, 전환"
+  ],
+  "etym": "고대 영어 -twist(두 가닥, two 둘에서)에서 -> 'twist'. twine(꼬다)·twin(쌍둥이)·between(사이)과 친족. '두 가닥을 서로 비벼 꼼'이 핵심.",
+  "deriv": "two(둘) -> twist. 한국 학습자 핵심: two(둘)계열 — twin(쌍둥이)·twine(꼰 실)·between(사이)·twist! 비유 빈출 — twist someone's words(말을 왜곡하다), a plot twist(반전), an unexpected twist(예상 밖의 전환), twist someone's arm(강요하다·설득하다), a twist of fate(운명의 장난)! twist and turn(구불구불하다). 유의어(비틀다) wind(감다)·coil(감다); (왜곡) distort(왜곡하다)·misrepresent(잘못 전하다). '반전(a twist)'·'twist one's arm'(설득하다)이 핵심.",
+  "syn": [
+   "wind(감다)",
+   "distort(왜곡하다)",
+   "turn(돌리다)"
+  ],
+  "anti": [
+   "straighten(곧게 하다)",
+   "untwist(풀다)"
+  ],
+  "idiom": [
+   "a plot twist(반전)",
+   "twist someone's arm(강요하다)",
+   "a twist of fate(운명의 장난)"
+  ],
+  "colloc": [
+   "plot twist(반전)",
+   "twist someone's words(말을 왜곡하다)",
+   "unexpected twist(예상 밖의 전환)"
+  ],
+  "ex_add": "The movie has a surprising twist at the end.  (twist=반전)",
+  "ex_orig": "The No Man's Land between the trenches was heaped with men tangled and twisted in death or writhing with wounds which unmercifully let them live.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4888",
+  "hw": "unconstitutional",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "헌법(constitution)에 맞지 않는(un) -> '위헌의'.",
+  "senses": [
+   "1) 위헌의, 헌법에 위배되는"
+  ],
+  "etym": "un-(부정) + constitutional(헌법의)의 결합 -> 'unconstitutional'. constitution은 라틴어 constituere(세우다, con-함께 + statuere 세우다)에서 유래. statuere(세우다)는 statue(조각상)·institute(설립, 4277)·substitute(대체, 4783)·destitute(궁핍한)의 공통 뿌리.",
+  "deriv": "un-(부정) + statuere(세우다) -> constitution -> 'unconstitutional'. 한국 학습자 핵심: statuere(세우다)계열 — statue(조각상)·institute(4277)·constitute(구성하다)·constitution(헌법)·substitute(4783)·destitute(궁핍한)·unconstitutional! un-(부정) 접두사 — unconstitutional·unfair·unable·unaware! declare unconstitutional(위헌으로 선언하다), rule unconstitutional(위헌 판결을 내리다), an unconstitutional law(위헌적 법률). 정반대: constitutional(합헌의) ↔ unconstitutional(위헌의)! 유의어 illegal(불법의)·unlawful(위법의). 법·정치 지문 빈출.",
+  "syn": [
+   "illegal(불법의)",
+   "unlawful(위법의)",
+   "illegitimate(불법의)"
+  ],
+  "anti": [
+   "constitutional(합헌의)",
+   "lawful(합법의)"
+  ],
+  "idiom": [
+   "declare unconstitutional(위헌으로 선언하다)"
+  ],
+  "colloc": [
+   "declare unconstitutional(위헌으로 선언하다)",
+   "rule unconstitutional(위헌 판결을 내리다)",
+   "unconstitutional law(위헌적 법률)"
+  ],
+  "ex_add": "The court ruled the law unconstitutional.  (unconstitutional=위헌의)",
+  "ex_orig": "In November 2008, the government abandoned its attempts to ban Scientology, after finding insufficient evidence of illegal or unconstitutional activity.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4889",
+  "hw": "undergraduate",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "학위(graduate) 아래(under)의 학생 -> '학부생·대학생'.",
+  "senses": [
+   "1) (대)학부생, 학사 과정 학생",
+   "2) (adj.) 학부의, 학사 과정의"
+  ],
+  "etym": "under(아래) + graduate(졸업생·학위 소지자, 라틴어 gradus 단계·걸음)의 결합 -> 'undergraduate'. gradus(단계)는 grade(등급)·gradual(점진적인)·graduate(졸업하다)·progress(진보)·degree(학위)의 공통 뿌리. '아직 학위를 받기 전 단계의 학생'이 핵심.",
+  "deriv": "under + gradus(단계) -> graduate -> 'undergraduate'. 한국 학습자 핵심: gradus(단계·걸음)계열 — grade(등급)·gradual(점진적인)·graduate(졸업하다)·progress(진보)·degree(학위)·undergraduate! 학위 단계: undergraduate(학부생) -> graduate/postgraduate(대학원생) -> doctorate(박사)! 줄임말 undergrad! an undergraduate degree(학사 학위), an undergraduate student(학부생), undergraduate courses(학부 과정). 정반대: undergraduate(학부) ↔ postgraduate/graduate(대학원). 유의어 student(학생). 교육 지문 빈출.",
+  "syn": [
+   "student(학생)",
+   "undergrad(학부생)"
+  ],
+  "anti": [
+   "postgraduate(대학원생)",
+   "graduate(대학원생)"
+  ],
+  "idiom": [
+   "an undergraduate degree(학사 학위)"
+  ],
+  "colloc": [
+   "undergraduate degree(학사 학위)",
+   "undergraduate student(학부생)",
+   "undergraduate courses(학부 과정)"
+  ],
+  "ex_add": "She is an undergraduate studying biology.  (undergraduate=학부생)",
+  "ex_orig": "Polish undergraduates killed an old Jew in the Sliska Street in Warsaw.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4890",
+  "hw": "underlying",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "아래에(under) 깔려(lie) 있는 -> '근본적인·기저의'.",
+  "senses": [
+   "1) 근본적인, 근원적인, 기저의",
+   "2) (겉으로 드러나지 않고) 밑에 깔린"
+  ],
+  "etym": "under(아래) + lying(누워 있는, lie 눕다의 분사)의 결합 -> 'underlying'. lie(눕다·놓여 있다)는 게르만 뿌리. '표면 아래에 깔려 바탕이 되는'이 핵심.",
+  "deriv": "under + lie(눕다) -> 'underlying'. 한국 학습자 핵심: under- 합성 형용사 — underlying(근본적인)·underground(지하의)·undergraduate(학부생, 4889)·underestimate(과소평가하다)·underprivileged(혜택 받지 못한)! the underlying cause(근본 원인), an underlying assumption(기본 전제, 4538 premise), underlying problems(근본적 문제), the underlying message(저변에 깔린 메시지). 유의어 fundamental(근본적인)·basic(기본적인)·root(근원적인). 반대 superficial(피상적인)·apparent(겉으로 드러난). 학술·분석 빈출.",
+  "syn": [
+   "fundamental(근본적인)",
+   "basic(기본적인)",
+   "root(근원적인)"
+  ],
+  "anti": [
+   "superficial(피상적인)",
+   "apparent(겉으로 드러난)",
+   "surface(표면의)"
+  ],
+  "idiom": [
+   "the underlying cause(근본 원인)"
+  ],
+  "colloc": [
+   "underlying cause(근본 원인)",
+   "underlying assumption(기본 전제)",
+   "underlying problems(근본적 문제)"
+  ],
+  "ex_add": "We must address the underlying cause of the problem.  (underlying=근본적인)",
+  "ex_orig": "Some of the underlying causes of the horrible catastrophe the American people are now watching from afar are commercial and economic.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4891",
+  "hw": "undermine",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "아래에(under) 굴을 파(mine) 무너뜨리다 -> '약화시키다·훼손하다'.",
+  "senses": [
+   "1) (서서히) 약화시키다, 훼손하다",
+   "2) (기반을) 몰래 침식하다, 무너뜨리다"
+  ],
+  "etym": "under(아래) + mine(갱도를 파다, 4413 mining)의 결합 -> 'undermine'. 성벽 아래에 굴을 파 무너뜨리던 공성전에서 유래. '밑을 파서 토대를 서서히 무너뜨림'이 핵심.",
+  "deriv": "under + mine(굴을 파다) -> 'undermine'. 한국 학습자 핵심: mine(광산·갱도를 파다, 4413 mining)에서! 어원: 성벽 아래 굴을 파 무너뜨림(공성전)! undermine confidence(자신감을 약화시키다), undermine authority(권위를 훼손하다), undermine efforts(노력을 약화시키다), seriously undermine(심각하게 훼손하다), undermine trust(신뢰를 무너뜨리다). 유의어 weaken(약화시키다)·erode(침식하다)·sabotage(방해하다)·subvert(전복하다). 반대 strengthen(강화하다)·bolster(강화하다)·reinforce(보강하다). 'undermine'(서서히 약화)는 매우 빈번.",
+  "syn": [
+   "weaken(약화시키다)",
+   "erode(침식하다)",
+   "sabotage(방해하다)"
+  ],
+  "anti": [
+   "strengthen(강화하다)",
+   "bolster(강화하다)",
+   "reinforce(보강하다)"
+  ],
+  "idiom": [
+   "undermine confidence(자신감을 약화시키다)"
+  ],
+  "colloc": [
+   "undermine confidence(자신감을 약화시키다)",
+   "undermine authority(권위를 훼손하다)",
+   "undermine efforts(노력을 약화시키다)"
+  ],
+  "ex_add": "The scandal undermined public trust in the government.  (undermine=약화시키다)",
+  "ex_orig": "In submarine warfare the Germans may be superior to the British, but in undermining the latter are superior to the former.",
+  "ex_src": "NEWS-NYT-1915"
  }
 ]
