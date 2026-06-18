@@ -1,0 +1,952 @@
+[
+ {
+  "num": "1842",
+  "hw": "lack",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "있어야 할 것이 '모자람·없음' -> ~이 없다.",
+  "senses": [
+   "1) 부족·결핍",
+   "2) (동사) ~이 없다·결여하다",
+   "3) (for lack of) ~이 없어서"
+  ],
+  "etym": "중세 저지 독일어 lak(부족·결함)에서. '있어야 할 것의 빠짐'이 핵심. lacking(부족한)이 파생.",
+  "deriv": "'모자람' -> 명사 '부족(a lack of money)' -> 동사 '~이 없다(lack confidence, 자신감이 없다)'. 한국 학습자 핵심: 동사 lack은 전치사 없이 바로 목적어(lack *of* X), 명사 lack은 a lack of로! lacking in(~이 부족한), for lack of(~의 부족으로), no lack of(~이 부족하지 않은). there's no lack of(~은 얼마든지 있다). want·shortage와 유의어.",
+  "syn": ["shortage(부족)", "absence(부재)", "want(결핍)"],
+  "anti": ["abundance(풍부)", "plenty(많음)", "surplus(잉여)"],
+  "idiom": ["for lack of(~이 없어서)", "lacking in(~이 부족한)", "no lack of(~이 부족하지 않은)"],
+  "colloc": ["lack of sleep(수면 부족)", "lack confidence(자신감이 없다)", "complete lack(완전한 결여)"],
+  "ex_add": "The project failed for lack of funding.  (for lack of=~이 없어서)"
+ },
+ {
+  "num": "1843",
+  "hw": "lay",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "무언가를 '눕혀 놓다·깔다' (타동사).",
+  "senses": [
+   "1) 놓다·눕히다·깔다",
+   "2) (알을) 낳다",
+   "3) (계획·기초를) 세우다·마련하다"
+  ],
+  "etym": "고대 영어 lecgan(놓다). lie(눕다)의 사역형 — '눕게 만들다'가 lay. lie-lay-lain(눕다)과 lay-laid-laid(놓다)가 헷갈리는 이유가 이 사역 관계.",
+  "deriv": "'눕혀 놓다(lay the book on the table)' -> 새가 '알을 낳다(lay eggs)' -> 기초를 '놓다(lay the foundation)'. lay-laid-laid(규칙적). 한국 학습자 최악의 함정: lay(눕히다, 타동사, 목적어 필요)와 lie(눕다, 자동사, 목적어 없음)! 게다가 lie(눕다)의 과거형이 lay라 더 헷갈림. lay off(해고하다), lay out(배치하다·설명하다), lay down(내려놓다·정하다). 1852 lie 참고.",
+  "syn": ["place(놓다)", "set(두다)", "put down(내려놓다)"],
+  "anti": ["lift(들어 올리다)", "pick up(집어 들다)"],
+  "idiom": ["lay off(해고하다)", "lay out(배치하다)", "lay down the law(엄하게 명령하다)", "lay the table(상을 차리다)"],
+  "colloc": ["lay eggs(알을 낳다)", "lay the foundation(기초를 다지다)", "lay bricks(벽돌을 쌓다)"],
+  "ex_add": "She laid the baby gently on the bed.  (lay=눕히다, 타동사 — laid가 과거형)"
+ },
+ {
+  "num": "1844",
+  "hw": "layer",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "위에 '깔아 쌓은' 한 겹·층.",
+  "senses": [
+   "1) (켜켜이 쌓인) 층·겹",
+   "2) 막·도포층",
+   "3) (조직의) 계층"
+  ],
+  "etym": "lay(놓다·깔다, 고대 영어 lecgan) + -er(~하는 것). '깔아 놓은 것'이 핵심. lay(1843)와 한 가족.",
+  "deriv": "lay(깔다) -> '깔린 것(층)'. 물리적 '층(a layer of dust, 먼지 한 켜)' -> 추상 '계층(layers of management, 여러 관리 계층)'. lay(놓다) 뿌리. layered(여러 겹의)·multilayer(다층의)가 파생. 한국 학습자: the ozone layer(오존층), a layer of(~한 켜), in layers(켜켜이), peel back the layers(겹겹이 벗기다). layer cake(켜켜이 쌓은 케이크).",
+  "syn": ["coat(도포층)", "tier(단)", "stratum(지층)"],
+  "anti": [],
+  "idiom": ["the ozone layer(오존층)", "layer upon layer(켜켜이)", "peel back the layers(겹을 벗기다)"],
+  "colloc": ["thin layer(얇은 층)", "top layer(맨 위층)", "a layer of snow(눈 한 켜)"],
+  "ex_add": "Wear several thin layers to stay warm.  (layer=겹·층)"
+ },
+ {
+  "num": "1845",
+  "hw": "lead",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "앞장서서 '이끌다' -> 선두·주도.",
+  "senses": [
+   "1) 이끌다·인도하다",
+   "2) (lead to) ~로 이어지다·초래하다",
+   "3) (n.) 선두·우세 / 단서 / 주연"
+  ],
+  "etym": "고대 영어 lædan(이끌다·데려가다). '길을 앞서 감'이 핵심. leader(지도자)·leading(주도하는)이 파생. (금속 lead /led/는 어원이 다른 동음이의어 — 고대 영어 lēad.)",
+  "deriv": "'앞서 이끌다(lead a team)' -> 길이 '이어지다(This road leads to town)' -> 결과를 '초래하다(lead to success)' -> 명사 '선두(in the lead)·단서(a hot lead)·주연(play the lead)'. lead-led-led. leader·leadership·leading(1846)이 파생. 한국 학습자: lead to + 명사(~로 이어지다), take the lead(주도하다·앞서다), follow someone's lead(~을 본받다). 현재형 /liːd/ vs 과거형 led /led/(금속 lead와 동음).",
+  "syn": ["guide(인도하다)", "head(이끌다)", "result in(~을 초래하다)"],
+  "anti": ["follow(따르다)", "trail(뒤처지다)"],
+  "idiom": ["lead to(~로 이어지다)", "take the lead(앞서다·주도하다)", "follow someone's lead(~을 따르다)", "lead the way(앞장서다)"],
+  "colloc": ["lead a team(팀을 이끌다)", "lead to problems(문제를 일으키다)", "in the lead(선두에)"],
+  "ex_add": "Eating too much sugar can lead to health problems.  (lead to=~로 이어지다)"
+ },
+ {
+  "num": "1846",
+  "hw": "leading",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "앞장서 이끄는 = '선두의·가장 중요한'.",
+  "senses": [
+   "1) 선두의·일류의·주도적인",
+   "2) 가장 중요한·주연의",
+   "3) (leading question) 유도 질문의"
+  ],
+  "etym": "lead(이끌다, 고대 영어 lædan)의 현재분사. '앞서 이끄는'이 핵심. lead(1845)·leader와 한 가족.",
+  "deriv": "lead(이끌다) -> 'leading(선두의)'. '일류의(a leading expert, 일류 전문가)' -> 주연 'the leading role(주연)' -> 'leading question(답을 유도하는 질문)'. lead(이끌다) 뿌리. 한국 학습자: leading이 '선두·일류·주도적'을 두루 뜻함. a leading role(주역), leading brand(선도 브랜드), the leading cause of(~의 주요 원인), play a leading part(주된 역할을 하다). top·foremost와 유의어.",
+  "syn": ["top(최고의)", "foremost(으뜸가는)", "principal(주요한)"],
+  "anti": ["minor(사소한)", "secondary(부차적인)", "trailing(뒤처지는)"],
+  "idiom": ["leading role(주연)", "leading question(유도 신문)", "leading edge(최첨단)"],
+  "colloc": ["leading expert(일류 전문가)", "leading cause(주요 원인)", "leading brand(선도 브랜드)"],
+  "ex_add": "She is a leading expert in artificial intelligence.  (leading=일류의)"
+ },
+ {
+  "num": "1847",
+  "hw": "leaf",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "나무의 '잎' -> 잎처럼 얇은 한 장.",
+  "senses": [
+   "1) 잎·나뭇잎",
+   "2) (책의) 한 장(앞뒤 2면)",
+   "3) (금·은의) 박(箔)"
+  ],
+  "etym": "고대 영어 lēaf(잎). 게르만어 계열(독일어 Laub). '얇고 납작한 것'이 핵심. 복수형은 leaves(f->ves). leaflet(전단지, '작은 잎')이 파생.",
+  "deriv": "'나뭇잎' -> 책의 '한 장(낱장)' -> 'gold leaf(금박)'. 복수형 leaves(leaf->leaves, knife->knives처럼 -f가 -ves로). 한국 학습자: turn over a new leaf(마음을 고쳐먹다·새 출발하다, 책장을 넘기듯), take a leaf out of someone's book(~을 본받다), leaf through(책장을 휙휙 넘기다). leaflet(전단). autumn leaves(낙엽), a leaf falls(잎이 진다).",
+  "syn": ["foliage(잎 전체)", "frond(양치류 잎)", "page(쪽)"],
+  "anti": [],
+  "idiom": ["turn over a new leaf(새사람이 되다)", "take a leaf out of someone's book(~을 본받다)", "leaf through(휙휙 넘겨보다)"],
+  "colloc": ["green leaf(푸른 잎)", "fallen leaves(낙엽)", "tea leaves(찻잎)"],
+  "ex_add": "The leaves turn red and gold in autumn.  (leaf=잎, 복수 leaves)"
+ },
+ {
+  "num": "1848",
+  "hw": "leather",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "짐승 가죽을 무두질한 '가죽'.",
+  "senses": [
+   "1) 가죽·피혁",
+   "2) (형용사적) 가죽으로 만든",
+   "3) 가죽 제품"
+  ],
+  "etym": "고대 영어 leþer(가죽). 게르만어 계열(독일어 Leder). '무두질한 짐승 가죽'이 핵심. leathery(가죽 같은)가 파생.",
+  "deriv": "'무두질한 가죽' -> 'a leather jacket(가죽 재킷)'. leathery(질긴·가죽 같은)가 형용사. 한국 학습자: leather(가공한 가죽, 제품용)와 skin(살가죽)·hide(원피, 큰 짐승의 가죽)·fur(털가죽)의 구별. genuine leather(천연 가죽), faux/fake leather(인조 가죽), leather goods(가죽 제품). hell for leather(전속력으로)라는 관용구도.",
+  "syn": ["hide(원피)", "skin(가죽)"],
+  "anti": ["synthetic(합성 소재)"],
+  "idiom": ["hell for leather(전속력으로)", "genuine leather(천연 가죽)"],
+  "colloc": ["leather jacket(가죽 재킷)", "soft leather(부드러운 가죽)", "leather shoes(가죽 구두)"],
+  "ex_add": "He bought a genuine leather wallet.  (leather=가죽)"
+ },
+ {
+  "num": "1849",
+  "hw": "legal",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "법에 '맞는·관한' = 합법의·법률의.",
+  "senses": [
+   "1) 합법의·법에 맞는",
+   "2) 법률의·법적인",
+   "3) 법으로 정해진"
+  ],
+  "etym": "라틴어 legalis < lex(법, 속격 legis). '법에 따른'이 핵심. illegal(불법의, 1801의 짝)·legislate(입법하다)·legitimate(정당한)·loyal(충성스러운)이 같은 lex(법) 뿌리.",
+  "deriv": "lex(법) -> 'legal(합법의·법률의)'. '합법의(perfectly legal)' -> '법률의(legal advice, 법률 자문)'. lex(법) 뿌리로 illegal·legislate·legitimate와 묶인다(1801 illegal과 짝). legally(법적으로)·legality(합법성)·legalize(합법화하다)가 파생. 한국 학습자: legal(합법의)과 illegal(불법의, il-=부정), legal(법률의)과 lawful(적법한)의 미묘한 결. take legal action(법적 조치를 취하다), legal system(법체계), the legal age(법정 연령).",
+  "syn": ["lawful(적법한)", "legitimate(정당한)", "judicial(사법의)"],
+  "anti": ["illegal(불법의)", "unlawful(위법의)", "criminal(범죄의)"],
+  "idiom": ["take legal action(법적 조치를 취하다)", "legal age(법정 연령)", "legal aid(법률 구조)"],
+  "colloc": ["legal advice(법률 자문)", "legal system(법체계)", "legal rights(법적 권리)"],
+  "ex_add": "You should get legal advice before signing the contract.  (legal=법률의)"
+ },
+ {
+  "num": "1850",
+  "hw": "leisure",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "'허락된 자유 시간' = 여가·한가함.",
+  "senses": [
+   "1) 여가·자유 시간",
+   "2) 한가함·여유",
+   "3) (형용사적) 여가의"
+  ],
+  "etym": "고대 프랑스어 leisir < 라틴어 licere(허락되다). '해도 되는(허락된) 시간'이 핵심. license(허가)·licit(합법의)·illicit(불법의)이 같은 licere(허락되다) 뿌리.",
+  "deriv": "'허락된 시간' -> '여가(leisure time)'. licere(허락되다) 뿌리로 license와 묶인다. leisurely(느긋한·느긋하게)가 파생. 한국 학습자: at leisure(한가로이), at one's leisure(편할 때 천천히), a leisure activity(여가 활동), leisure time(여가 시간). 발음 — 영국식 /ˈleʒə/, 미국식 /ˈliːʒər/. work(일)와 대비되는 '쉼·놀이'.",
+  "syn": ["free time(자유 시간)", "recreation(여가)", "relaxation(휴식)"],
+  "anti": ["work(일)", "labor(노동)", "toil(고역)"],
+  "idiom": ["at leisure(한가로이)", "at one's leisure(편한 때에)", "a lady of leisure(한가한 사람)"],
+  "colloc": ["leisure time(여가 시간)", "leisure activity(여가 활동)", "leisure center(여가 시설)"],
+  "ex_add": "He spends his leisure time painting.  (leisure=여가)"
+ },
+ {
+  "num": "1851",
+  "hw": "length",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "긴 정도 = '길이' / 지속 시간.",
+  "senses": [
+   "1) 길이",
+   "2) (시간의) 길이·기간",
+   "3) (수영장·경주의) 한 길이 / 정도"
+  ],
+  "etym": "long(긴, 고대 영어 lang) + -th(추상명사 접미사). '긴 정도'가 핵심. strong-strength, wide-width, deep-depth처럼 형용사 + th. long(길다)과 한 가족(a->e 모음 변화).",
+  "deriv": "long(긴) -> 'length(길이)'. 공간 '길이(the length of the room)' -> 시간 '기간(the length of the meeting)' -> 수영장 '한 바퀴'. -th 추상명사 무리: long-length, strong-strength, wide-width. lengthy(긴)·lengthen(늘이다)이 파생. 한국 학습자: at length(마침내·상세히), go to great lengths (to V)(~하려고 무진 애쓰다), the length of(~의 길이), at arm's length(거리를 두고). full-length(전신의·장편의).",
+  "syn": ["distance(거리)", "duration(지속 기간)", "extent(범위)"],
+  "anti": ["width(폭)", "brevity(짧음)"],
+  "idiom": ["at length(상세히·마침내)", "go to great lengths(온갖 노력을 하다)", "at arm's length(일정 거리를 두고)"],
+  "colloc": ["full length(전체 길이)", "length and width(길이와 폭)", "shoulder length(어깨까지 오는 길이)"],
+  "ex_add": "The bridge is over two kilometers in length.  (length=길이)"
+ },
+ {
+  "num": "1852",
+  "hw": "lie",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "①(몸을) '눕다·놓여 있다' ②거짓말하다 (서로 다른 두 단어).",
+  "senses": [
+   "1) (lie1) 눕다·누워 있다·놓여 있다",
+   "2) (lie1) (장소가) 위치하다",
+   "3) (lie2) 거짓말하다 / 거짓말"
+  ],
+  "etym": "두 개의 동음이의어: lie1(눕다)는 고대 영어 licgan, lie2(거짓말하다)는 고대 영어 lyge(거짓). 철자는 같지만 뿌리가 다름. lie1(눕다)의 사역형이 lay(눕히다, 1843).",
+  "deriv": "①lie(눕다, 자동사)는 lie-lay-lain(불규칙), 진행형 lying. ②lie(거짓말하다)는 lie-lied-lied(규칙), 진행형 lying. 한국 학습자 최대 함정: lie(눕다, 목적어 없음)/lay(눕히다, 목적어 있음)/lie(거짓말하다) 삼중 혼동! 게다가 lie(눕다)의 과거가 lay라 더 헷갈림. lie down(눕다), lie ahead(앞에 놓여 있다), the truth lies in(진실은 ~에 있다), lie low(몸을 숨기다), white lie(선의의 거짓말).",
+  "syn": ["recline(눕다)", "rest(놓이다)", "deceive(속이다)"],
+  "anti": ["stand(서다)", "rise(일어나다)", "tell the truth(사실을 말하다)"],
+  "idiom": ["lie down(눕다)", "lie ahead(앞에 놓여 있다)", "lie low(몸을 숨기다)", "white lie(선의의 거짓말)", "lie through one's teeth(새빨간 거짓말을 하다)"],
+  "colloc": ["lie on the bed(침대에 눕다)", "lie in the sun(햇볕에 누워 있다)", "tell a lie(거짓말하다)"],
+  "ex_add": "I need to lie down for a while.  (lie=눕다, 자동사 — lay/lain이 변화형)"
+ },
+ {
+  "num": "1853",
+  "hw": "like",
+  "pos": "prep., conj., v.",
+  "cefr": "B1",
+  "core": "①'~와 비슷한(같은 모습)' ②좋아하다 (한 뿌리에서 갈림).",
+  "senses": [
+   "1) (전치사) ~와 같은·~처럼",
+   "2) (동사) 좋아하다",
+   "3) (구어 접속사) ~인 것처럼"
+  ],
+  "etym": "고대 영어 līc(몸·모습)에서. '같은 모습의 -> ~ 같은'이 전치사 like, '마음에 드는 모습 -> 좋아하다'가 동사 like. body의 옛말과 한 뿌리 — alike·likely·likeness가 친척.",
+  "deriv": "līc(모습) -> 전치사 '~ 같은(like a bird)' / 동사 '좋아하다(I like it)'. 같은 뿌리에서 두 갈래. likely(~할 것 같은)·likeness(닮음)·alike(비슷한)·dislike(싫어하다)가 파생. 한국 학습자: like(전치사, ~처럼) + 명사 vs as(접속사, ~하듯) + 절. would like to V(~하고 싶다), feel like V-ing(~하고 싶다), look like(~처럼 보이다), like this(이렇게), nothing like(전혀 다른). 구어에서 like를 군말(filler)로도.",
+  "syn": ["similar to(~와 비슷한)", "enjoy(즐기다)", "such as(~ 같은)"],
+  "anti": ["unlike(~와 달리)", "dislike(싫어하다)", "hate(싫어하다)"],
+  "idiom": ["would like to V(~하고 싶다)", "feel like V-ing(~하고 싶다)", "look like(~처럼 보이다)", "like father, like son(부전자전)", "nothing like(전혀 ~ 같지 않은)"],
+  "colloc": ["just like(꼭 ~처럼)", "like this(이런 식으로)", "something like(대략 ~쯤)"],
+  "ex_add": "She sings like a professional.  (like=~처럼, 전치사)"
+ },
+ {
+  "num": "1854",
+  "hw": "limit",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "더 못 넘는 '경계선·한계' -> 제한하다.",
+  "senses": [
+   "1) 한계·한도·제한",
+   "2) (the limits) (지역의) 경계",
+   "3) (동사) 제한하다·한정하다"
+  ],
+  "etym": "라틴어 limes(경계·국경, 속격 limitem). '넘지 못하는 경계'가 핵심. limit·eliminate(없애다, '경계 밖으로 내보냄')·preliminary(예비의, '문턱 앞의')가 같은 limes(경계) 뿌리.",
+  "deriv": "'경계선' -> '한계(a speed limit, 속도 제한)' -> 동사 '제한하다(limit access)'. limes(경계) 뿌리로 eliminate·preliminary와 묶인다. limited(한정된)·limitation(제약)·limitless(무한한)가 파생. 한국 학습자: limit A to B(A를 B로 제한하다), within limits(어느 정도까지), off limits(출입 금지), push the limits(한계를 밀어붙이다), there's a limit to(~에는 한계가 있다). the sky's the limit(한계가 없다).",
+  "syn": ["boundary(경계)", "restriction(제한)", "cap(상한)"],
+  "anti": ["freedom(자유)", "infinity(무한)"],
+  "idiom": ["off limits(출입 금지의)", "within limits(어느 정도)", "push the limits(한계에 도전하다)", "the sky's the limit(한계란 없다)"],
+  "colloc": ["speed limit(속도 제한)", "age limit(연령 제한)", "time limit(제한 시간)"],
+  "ex_add": "There's a limit to how much I can help.  (a limit to=~에 대한 한계)"
+ },
+ {
+  "num": "1855",
+  "hw": "lip",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "입을 둘러싼 '입술' -> 그릇의 가장자리.",
+  "senses": [
+   "1) 입술",
+   "2) (그릇·절벽의) 가장자리·테두리",
+   "3) (구어) 건방진 말대꾸"
+  ],
+  "etym": "고대 영어 lippa(입술). 라틴어 labium(입술)과 먼 친척. '입의 가장자리 살'이 핵심. lipstick(립스틱)이 합성어.",
+  "deriv": "'입술' -> 그릇의 '가장자리(the lip of a cup)' -> 구어 '말대꾸(none of your lip!, 말대꾸하지 마)'. lipstick(립스틱), lip balm(입술 보호제), lip-read(입 모양을 읽다). 한국 학습자: bite one's lip(입술을 깨물다·참다), my lips are sealed(비밀을 지키겠다), pay lip service(입에 발린 말을 하다), keep a stiff upper lip(내색하지 않다), on everyone's lips(모두의 입에 오르내리는). read my lips(내 말 잘 들어).",
+  "syn": ["edge(가장자리)", "rim(테두리)", "brim(언저리)"],
+  "anti": [],
+  "idiom": ["bite one's lip(입술을 깨물며 참다)", "my lips are sealed(입을 꼭 다물겠다)", "pay lip service(말로만 하다)", "keep a stiff upper lip(꿋꿋이 견디다)"],
+  "colloc": ["upper lip(윗입술)", "dry lips(마른 입술)", "lip balm(립밤)"],
+  "ex_add": "She bit her lip nervously before answering.  (bite one's lip=입술을 깨물다·참다)"
+ },
+ {
+  "num": "1856",
+  "hw": "liquid",
+  "pos": "n., adj.",
+  "cefr": "B1",
+  "core": "흐르는 '액체' / 액체 상태의.",
+  "senses": [
+   "1) (n.) 액체",
+   "2) (형) 액체의·액상의",
+   "3) (자산이) 현금화하기 쉬운"
+  ],
+  "etym": "라틴어 liquidus < liquere(흐르다·녹다). '흐르는 상태'가 핵심. liquor(독한 술)·liquefy(액화하다)·liquidate(청산하다)가 같은 liquere(흐르다) 뿌리.",
+  "deriv": "'흐르는 것' -> 명사 '액체(a clear liquid)' -> 형용사 '액체의(liquid soap)' -> 경제 '현금화 쉬운(liquid assets, 유동 자산)'. liquere(흐르다) 뿌리로 liquor·liquefy와 묶인다. 한국 학습자: 물질의 세 상태 — solid(고체)/liquid(액체)/gas(기체)를 묶어 기억. liquid form(액체 형태), liquid diet(유동식), washing-up liquid(주방 세제, 영국). liquidity(유동성).",
+  "syn": ["fluid(유체)", "solution(용액)"],
+  "anti": ["solid(고체)", "gas(기체)", "frozen(언)"],
+  "idiom": ["liquid assets(유동 자산)", "liquid gold(액체 황금, 귀한 액체)"],
+  "colloc": ["clear liquid(맑은 액체)", "liquid form(액체 형태)", "liquid soap(물비누)"],
+  "ex_add": "Water is a liquid at room temperature.  (liquid=액체)"
+ },
+ {
+  "num": "1857",
+  "hw": "literature",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "글자로 쓰인 예술 = '문학' / (분야의) 문헌.",
+  "senses": [
+   "1) 문학(작품)",
+   "2) (특정 분야의) 문헌·자료",
+   "3) (제품) 안내 책자"
+  ],
+  "etym": "라틴어 litteratura < littera(글자). '글자로 쓰인 것'이 핵심. letter(글자·편지)·literal(글자 그대로의)·literacy(읽고 쓰는 능력)·literate(글을 아는)가 같은 littera(글자) 뿌리.",
+  "deriv": "littera(글자) -> 'literature(문학)'. 예술 '문학(English literature)' -> 학술 '문헌(the scientific literature, 과학 문헌)' -> '안내 책자(product literature)'. littera(글자) 뿌리로 letter·literal·literacy와 묶인다. 한국 학습자: literature(문학/문헌)와 literacy(문해력)를 철자 때문에 혼동 주의. classic literature(고전 문학), a review of the literature(선행 연구 검토). 발음 /ˈlɪtrətʃə/.",
+  "syn": ["writing(문헌)", "works(작품)", "texts(텍스트)"],
+  "anti": [],
+  "idiom": ["a body of literature(축적된 문헌)", "review the literature(문헌을 검토하다)"],
+  "colloc": ["classic literature(고전 문학)", "modern literature(현대 문학)", "scientific literature(과학 문헌)"],
+  "ex_add": "She majored in English literature at university.  (literature=문학)"
+ },
+ {
+  "num": "1858",
+  "hw": "live",
+  "pos": "v., adj.",
+  "cefr": "B1",
+  "core": "①'살다·살아가다'(/lɪv/) ②살아 있는·생방송의(/laɪv/).",
+  "senses": [
+   "1) (동사 /lɪv/) 살다·거주하다·생활하다",
+   "2) (형용사 /laɪv/) 살아 있는·생방송의",
+   "3) (형용사) 전류가 흐르는·실황의"
+  ],
+  "etym": "고대 영어 libban/lifian(살다). life(삶)·alive(살아 있는)·living(생활)이 한 가족. 형용사 live는 alive의 앞이 떨어져 나간 형태. '목숨을 이어 감'이 핵심.",
+  "deriv": "동사 live /lɪv/(살다) -> 형용사 live /laɪv/(살아 있는). 한국 학습자 핵심: 동사 live(/lɪv/, 살다)와 형용사 live(/laɪv/, 생방송의·살아 있는)는 발음이 다름! live broadcast(생방송), a live concert(라이브 공연), live up to(기대에 부응하다), live on(~을 먹고 살다·계속 살다), live through(겪어 내다), live and let live(서로 너그럽게). lively(활기찬)·living(1859)·alive와 한 가족.",
+  "syn": ["reside(거주하다)", "exist(존재하다)", "alive(살아 있는)"],
+  "anti": ["die(죽다)", "dead(죽은)", "recorded(녹화된)"],
+  "idiom": ["live up to(기대에 부응하다)", "live on(계속 살다·~으로 연명하다)", "live through(겪어 내다)", "live and let live(서로 너그럽게 살다)"],
+  "colloc": ["live abroad(외국에 살다)", "live music(라이브 음악)", "live broadcast(생방송)"],
+  "ex_add": "The concert was broadcast live on TV.  (live /laɪv/=생방송의)"
+ },
+ {
+  "num": "1859",
+  "hw": "living",
+  "pos": "adj., n.",
+  "cefr": "B1",
+  "core": "살아 있는 / 살아가는 데 필요한 '생계'.",
+  "senses": [
+   "1) (형) 살아 있는·현존하는",
+   "2) (n.) 생계·벌이",
+   "3) (n.) 생활·삶의 방식"
+  ],
+  "etym": "live(살다, 고대 영어 libban) + -ing. life·alive와 한 가족. '살아 있음·살아감'이 핵심.",
+  "deriv": "live(살다) -> 'living'. 형용사 '살아 있는(living things, 생물)' -> 명사 '생계(make a living, 생계를 꾸리다)' -> '생활(the cost of living, 생활비)'. 한국 학습자: make a living(먹고살다), earn a living(생계를 벌다), living standards(생활 수준), the living(산 자들, the + 형용사), living room(거실), within living memory(현세대가 기억하는 한). dead(죽은)가 반의. 동사 live(1858)와 한 가족.",
+  "syn": ["alive(살아 있는)", "livelihood(생계)", "existence(생존)"],
+  "anti": ["dead(죽은)", "extinct(멸종한)", "lifeless(생명 없는)"],
+  "idiom": ["make a living(생계를 꾸리다)", "the living(산 사람들)", "the cost of living(생활비)", "scare the living daylights out of(혼비백산하게 하다)"],
+  "colloc": ["living thing(생물)", "earn a living(생계를 벌다)", "living conditions(생활 여건)"],
+  "ex_add": "He makes a living by writing novels.  (make a living=생계를 꾸리다)"
+ },
+ {
+  "num": "1860",
+  "hw": "local",
+  "pos": "adj., n.",
+  "cefr": "B1",
+  "core": "그 '고장에 속한' = 지역의·현지의.",
+  "senses": [
+   "1) 지역의·현지의·동네의",
+   "2) (the locals) 현지인·주민",
+   "3) (병·통증이) 국부의"
+  ],
+  "etym": "라틴어 localis < locus(장소·자리). '한 장소에 매인'이 핵심. locate(위치시키다, 1861)·location(위치, 1863)·locomotive(기관차)·locus가 같은 locus(장소) 뿌리.",
+  "deriv": "locus(장소) -> 'local(지역의)'. '현지의(local news, 지역 뉴스)' -> 명사 'the locals(현지인)' -> 의학 '국부의(local anesthetic, 국소 마취)'. locus(장소) 뿌리로 locate·location과 묶인다(1861·1862·1863과 한 가족). locally(현지에서)가 부사. 한국 학습자: local(지역의)·regional(지방의, 더 넓은)·national(전국의)·global(전 세계의, 1770)의 규모 차이. local time(현지 시각), local government(지방 정부), go local(현지화하다).",
+  "syn": ["regional(지방의)", "neighborhood(동네의)", "native(현지의)"],
+  "anti": ["national(전국의)", "global(전 세계의)", "foreign(외국의)"],
+  "idiom": ["the locals(현지 주민)", "local color(지방색)", "go local(현지에 맞추다)"],
+  "colloc": ["local news(지역 뉴스)", "local government(지방 정부)", "local time(현지 시각)"],
+  "ex_add": "We ate at a small local restaurant.  (local=현지의)"
+ },
+ {
+  "num": "1861",
+  "hw": "locate",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "'자리를 잡게 하다·자리를 찾아내다'.",
+  "senses": [
+   "1) (위치를) 찾아내다·알아내다",
+   "2) ~에 두다·자리 잡게 하다",
+   "3) (be located) 위치하다"
+  ],
+  "etym": "라틴어 locare < locus(장소). '장소에 놓다'가 핵심. local(지역의, 1860)·location(위치, 1863)·locus·locomotive가 같은 locus(장소) 뿌리.",
+  "deriv": "locus(장소) -> 'locate(자리 잡게 하다·찾아내다)'. '위치를 찾다(locate the source)' -> '두다(locate the factory near the port)' -> 수동 'be located(위치하다)'. locus(장소) 뿌리로 local·location과 묶인다. located(1862)·location(1863)이 파생. 한국 학습자: locate는 '찾아내다(find)'와 '위치시키다' 둘 다. be located in/on/at(~에 위치하다)이 가장 흔한 쓰임. relocate(이전하다), dislocate(탈구시키다).",
+  "syn": ["find(찾다)", "pinpoint(정확히 찾다)", "situate(위치시키다)"],
+  "anti": ["lose(잃다)", "misplace(잘못 두다)"],
+  "idiom": ["be located in(~에 위치하다)", "locate the problem(문제의 소재를 찾다)"],
+  "colloc": ["locate a building(건물의 위치를 찾다)", "easily locate(쉽게 찾아내다)", "locate the source(근원을 찾아내다)"],
+  "ex_add": "Rescuers used dogs to locate the missing hikers.  (locate=위치를 찾아내다)"
+ },
+ {
+  "num": "1862",
+  "hw": "located",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "어떤 자리에 '놓여 있는' = 위치한.",
+  "senses": [
+   "1) (be located) ~에 위치한",
+   "2) 자리 잡은",
+   "3) 입지한"
+  ],
+  "etym": "locate(자리 잡게 하다, 라틴어 locare < locus 장소)의 과거분사. locus(장소) 뿌리로 local·locate·location과 묶인다.",
+  "deriv": "locate(위치시키다) -> 'located(위치한)'. 거의 항상 be located + 전치사로 쓰임. locus(장소) 뿌리. 한국 학습자: be located in(나라·도시 안에)/on(도로·해안에)/at(특정 지점에)/near(근처에). conveniently located(위치가 편리한), centrally located(중심부에 있는), be situated와 같은 뜻. The hotel is located in the city center(호텔은 도심에 있다).",
+  "syn": ["situated(위치한)", "positioned(자리 잡은)", "placed(놓인)"],
+  "anti": [],
+  "idiom": ["be located in/on/at(~에 위치하다)", "conveniently located(위치가 편리한)", "centrally located(중심부에 위치한)"],
+  "colloc": ["located in(~에 위치한)", "conveniently located(편리하게 위치한)", "ideally located(입지가 이상적인)"],
+  "ex_add": "The hotel is conveniently located near the station.  (be located near=~ 근처에 위치하다)"
+ },
+ {
+  "num": "1863",
+  "hw": "location",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "있는 '자리·위치' -> 촬영 현장.",
+  "senses": [
+   "1) 위치·장소",
+   "2) 소재지·입지",
+   "3) (영화) 야외 촬영지·로케이션"
+  ],
+  "etym": "locate(자리 잡게 하다, 라틴어 locare < locus 장소)의 명사형. locus(장소) 뿌리로 local·locate·located와 묶인다.",
+  "deriv": "locate(위치시키다) -> 명사 'location'. '위치(a central location)' -> '소재지(the location of the office)' -> 영화 'on location(야외 촬영 중인)'. locus(장소) 뿌리. 한국 학습자: location(특정 위치·장소)과 place(장소 일반)·site(부지·현장)의 결 차이. prime location(요지), filmed on location(현지 촬영된), GPS location(GPS 위치). 부동산 격언 'Location, location, location(중요한 건 입지다)'.",
+  "syn": ["place(장소)", "site(부지)", "spot(지점)"],
+  "anti": [],
+  "idiom": ["on location(야외 촬영 중인)", "prime location(노른자 입지)", "location, location, location(입지가 전부다)"],
+  "colloc": ["central location(중심부 위치)", "ideal location(이상적 위치)", "exact location(정확한 위치)"],
+  "ex_add": "The shop is in a great location near the park.  (location=위치)"
+ },
+ {
+  "num": "1864",
+  "hw": "lonely",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "혼자라서 '외로운' / 인적 드문.",
+  "senses": [
+   "1) 외로운·쓸쓸한",
+   "2) (장소가) 인적 드문·한적한",
+   "3) 고독한"
+  ],
+  "etym": "lone(혼자의) + -ly. lone은 alone(혼자)의 앞 a-가 떨어진 형태이고, alone은 all + one(전부 하나 = 오롯이 혼자). '홀로인 데서 오는 쓸쓸함'이 핵심.",
+  "deriv": "alone(혼자) -> lone(혼자의) -> 'lonely(외로운)'. one(하나) 뿌리 — '오롯이 하나'. 감정 '외로운(feel lonely)' -> 장소 '인적 드문(a lonely road)'. loneliness(외로움)가 명사. 한국 학습자 핵심 구별: lonely(외로운, 감정)와 alone(혼자인, 상태, 중립)은 다름 — alone은 외롭지 않을 수도 있음. a lonely heart(외로운 사람), the lonely(외로운 이들). solitary와 유의어.",
+  "syn": ["lonesome(외로운)", "solitary(고독한)", "isolated(고립된)"],
+  "anti": ["sociable(사교적인)", "crowded(붐비는)", "accompanied(동반된)"],
+  "idiom": ["a lonely heart(고독한 사람)", "the lonely hearts club(독신자 모임)"],
+  "colloc": ["feel lonely(외로움을 느끼다)", "lonely life(외로운 삶)", "lonely road(인적 드문 길)"],
+  "ex_add": "She felt lonely after moving to a new city.  (lonely=외로운)"
+ },
+ {
+  "num": "1865",
+  "hw": "loss",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "가졌던 것을 '잃음' = 상실·손실.",
+  "senses": [
+   "1) 분실·상실·잃음",
+   "2) (사업) 손실·적자",
+   "3) (가까운 이의) 죽음·사별"
+  ],
+  "etym": "고대 영어 los(파괴·상실). lose(잃다)·lost(잃은)와 한 가족. '잃어 없어짐'이 핵심.",
+  "deriv": "lose(잃다) -> 명사 'loss'. '상실(weight loss, 체중 감량)' -> 사업 '손실(make a loss, 적자를 보다)' -> '사별(a great loss)'. 한국 학습자: lose(동사)/loss(명사)/lost(과거·형용사) 구별. at a loss(어쩔 줄 몰라·손해를 보고), a loss for words(말문이 막힌), cut one's losses(손절하다), profit and loss(손익), job losses(실직). win(승리)·gain(이득)이 반의.",
+  "syn": ["deprivation(상실)", "deficit(적자)", "damage(손해)"],
+  "anti": ["gain(이득)", "profit(이익)", "win(승리)"],
+  "idiom": ["at a loss(당황하여·손해를 보고)", "a loss for words(말문이 막힌)", "cut one's losses(손실을 줄이고 그만두다)", "dead loss(전혀 쓸모없는 것)"],
+  "colloc": ["weight loss(체중 감소)", "financial loss(재정적 손실)", "heavy loss(큰 손실)"],
+  "ex_add": "I'm at a loss to explain what happened.  (at a loss=어쩔 줄 모르는)"
+ },
+ {
+  "num": "1866",
+  "hw": "luxury",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "분에 넘치게 '호사스러운' 사치(품).",
+  "senses": [
+   "1) 사치·호화로움",
+   "2) 사치품·고급품",
+   "3) 좀처럼 누리기 힘든 호사"
+  ],
+  "etym": "라틴어 luxuria(과도함·방종) < luxus(사치·과잉). '도를 넘은 풍족'이 핵심. luxuriant(무성한)·luxurious(호화로운)·deluxe(고급의)가 같은 luxus 뿌리.",
+  "deriv": "luxus(사치) -> 'luxury(사치)'. '호화로움(live in luxury)' -> '사치품(a luxury car, 고급차)' -> 'a luxury(좀처럼 못 누리는 호사, Sleep is a luxury)'. luxurious(호화로운)·luxuriate(흠뻑 즐기다)가 파생. 한국 학습자: luxury(명사·형용사적 수식, luxury hotel)와 luxurious(형용사, 호화로운)의 구별. live in the lap of luxury(호화롭게 살다), a luxury item(사치품), affordable luxury(부담 없는 호사). necessity(필수품)가 반의.",
+  "syn": ["extravagance(사치)", "opulence(호화)", "indulgence(호사)"],
+  "anti": ["necessity(필수품)", "poverty(빈곤)", "austerity(검소)"],
+  "idiom": ["live in luxury(호화롭게 살다)", "in the lap of luxury(더없이 호사스럽게)", "a luxury one can't afford(누릴 수 없는 호사)"],
+  "colloc": ["luxury car(고급 승용차)", "luxury hotel(특급 호텔)", "pure luxury(완전한 호사)"],
+  "ex_add": "Having free time is a luxury for busy parents.  (luxury=좀처럼 못 누리는 호사)"
+ },
+ {
+  "num": "1867",
+  "hw": "mad",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "제정신이 아닌 '미친' -> 몹시 화난·열광하는.",
+  "senses": [
+   "1) 미친·정신 나간",
+   "2) (구어) 몹시 화난",
+   "3) (mad about/keen) ~에 열광하는"
+  ],
+  "etym": "고대 영어 gemǣd(제정신이 아닌). '정신이 나간'이 핵심. madness(광기)·madden(미치게 하다)·madly(미친 듯이)가 파생.",
+  "deriv": "'미친(go mad)' -> 미국 구어 '화난(mad at someone)' -> '열광하는(mad about K-pop)' -> '터무니없는(a mad idea)'. 한국 학습자: mad가 영국에선 '미친', 미국에선 '화난'으로 자주 — be mad at(~에게 화나다, 미국)/be angry with. like mad(미친 듯이), drive someone mad(미치게 하다), mad about(~에 푹 빠진), as mad as a hatter(완전히 미친). crazy·insane과 유의어.",
+  "syn": ["crazy(미친)", "insane(정신 나간)", "furious(격노한)"],
+  "anti": ["sane(제정신의)", "calm(차분한)", "rational(이성적인)"],
+  "idiom": ["like mad(미친 듯이)", "drive someone mad(미치게 하다)", "mad about(~에 열광하는)", "mad as a hatter(완전히 돈)"],
+  "colloc": ["go mad(미치다·격분하다)", "mad at(~에게 화난)", "mad rush(정신없는 혼잡)"],
+  "ex_add": "Don't be mad at me — it was an accident.  (mad at=~에게 화난, 미국 구어)"
+ },
+ {
+  "num": "1868",
+  "hw": "magic",
+  "pos": "n., adj.",
+  "cefr": "B1",
+  "core": "초자연적 힘으로 부리는 '마법' -> 마술 / 신기한.",
+  "senses": [
+   "1) 마법·마술",
+   "2) (형) 마법의·마술의",
+   "3) 신기한 매력·마력"
+  ],
+  "etym": "그리스어 magike(마법) < magos(고대 페르시아의 사제 '마기'). 동방박사(the Magi)가 같은 magos 뿌리. '사제의 신비한 술법'이 핵심.",
+  "deriv": "magos(마기 사제) -> 'magic(마법)'. '마법(black magic, 흑마술)' -> 형용사 '마법의(a magic wand, 요술 지팡이)' -> '신기한 매력(the magic of cinema)'. magical(마법 같은)·magician(마술사)이 파생. 한국 학습자: magic word(요술 같은 말 / 부탁할 때의 'please'), as if by magic(마법처럼), work like magic(신기하게 잘 듣다), there's no magic formula(특효 비법은 없다). magic이 형용사로도(a magic moment, 마법 같은 순간).",
+  "syn": ["sorcery(마법)", "wizardry(마술)", "enchantment(마력)"],
+  "anti": ["reality(현실)"],
+  "idiom": ["like magic(마법처럼)", "work like magic(신통하게 듣다)", "as if by magic(마법처럼)", "the magic word(부탁할 때 쓰는 말, please)"],
+  "colloc": ["black magic(흑마술)", "magic trick(마술)", "magic spell(주문)"],
+  "ex_add": "The fireworks created a sense of magic in the night sky.  (magic=마법 같은 분위기)"
+ },
+ {
+  "num": "1869",
+  "hw": "mainly",
+  "pos": "adv.",
+  "cefr": "B1",
+  "core": "대부분·주로 = 가장 큰 비중으로.",
+  "senses": [
+   "1) 주로·대개",
+   "2) 대부분은",
+   "3) 거의"
+  ],
+  "etym": "main(주된, 고대 영어 mægen 힘·세력) + -ly. 본래 '힘껏'에서 '주로'로. '가장 큰 힘이 실린 쪽으로'가 핵심. main(주된)·mainland(본토)와 한 가족.",
+  "deriv": "main(주된) -> 부사 'mainly(주로)'. '주로(mainly because, 주로 ~ 때문에)'. 한국 학습자: mainly(주로, 대부분)·mostly(대부분)·largely(대체로)·chiefly(주로)가 유의어. mainly because of(주로 ~ 때문에), mainly due to. main이 형용사 '주된'(the main reason, 주된 이유). mainstream(주류), the main thing(가장 중요한 것). primarily와도 유의.",
+  "syn": ["mostly(대부분)", "largely(대체로)", "primarily(주로)"],
+  "anti": ["partly(부분적으로)", "occasionally(가끔)", "slightly(약간)"],
+  "idiom": ["mainly because(주로 ~ 때문에)", "mainly due to(주로 ~ 탓에)"],
+  "colloc": ["mainly because(주로 ~ 때문에)", "consist mainly of(주로 ~으로 구성되다)", "mainly used(주로 쓰이는)"],
+  "ex_add": "The audience was mainly made up of students.  (mainly=주로)"
+ },
+ {
+  "num": "1870",
+  "hw": "management",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "조직·일을 '손으로 다루어' 꾸려 감 = 경영·관리(진).",
+  "senses": [
+   "1) 경영·관리·운영",
+   "2) (the management) 경영진·운영진",
+   "3) (문제의) 처리·대처"
+  ],
+  "etym": "manage < 이탈리아어 maneggiare(말을 다루다·부리다) < 라틴어 manus(손). '손으로 다룸'이 핵심. manual(수동의·설명서)·manipulate(조종하다)·manufacture(제조)·manuscript(원고)가 같은 manus(손) 뿌리.",
+  "deriv": "manus(손) -> manage(다루다·해내다) -> 'management(경영)'. '관리(time management, 시간 관리)' -> 'the management(경영진)' -> '대처(crisis management, 위기관리)'. manus(손) 뿌리로 manual·manipulate·manufacture와 묶인다. manager(관리자)가 파생. 한국 학습자: under new management(새 경영진하에), senior management(고위 경영진), management style(경영 방식). manage to V(가까스로 ~해내다)도 핵심.",
+  "syn": ["administration(행정)", "supervision(감독)", "leadership(경영진)"],
+  "anti": ["staff(직원)", "workforce(노동자)", "labor(노동)"],
+  "idiom": ["under new management(새 경영진 체제로)", "senior management(고위 경영진)", "crisis management(위기관리)"],
+  "colloc": ["good management(훌륭한 경영)", "time management(시간 관리)", "management team(경영팀)"],
+  "ex_add": "Good time management is key to success.  (management=관리)"
+ },
+ {
+  "num": "1871",
+  "hw": "market",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "물건을 사고파는 '시장' -> 수요·판로 / 내다 팔다.",
+  "senses": [
+   "1) 시장·장터",
+   "2) 시장(수요)·판로·증시",
+   "3) (동사) (광고로) 내다 팔다·판촉하다"
+  ],
+  "etym": "라틴어 mercatus(거래·장) < merx(상품). '상품을 거래하는 곳'이 핵심. merchant(상인)·commerce(상업, 1596)·mercy(자비)·merchandise(상품)가 같은 merx(상품) 뿌리.",
+  "deriv": "merx(상품) -> 'market(시장)'. 장소 '시장(a farmers' market)' -> 추상 '수요·판로(the job market, 취업 시장)' -> 동사 '판촉하다(market a product)'. merx(상품) 뿌리로 merchant·commerce와 묶인다. marketing(1872)·marketplace가 파생. 한국 학습자: on the market(시판 중인), in the market for(~을 사려는), market share(시장 점유율), stock market(증시), black market(암시장), corner the market(시장을 독점하다).",
+  "syn": ["marketplace(장터)", "bazaar(시장)", "demand(수요)"],
+  "anti": [],
+  "idiom": ["on the market(시판 중인)", "in the market for(~을 사려고 하는)", "corner the market(시장을 독점하다)", "a buyer's market(매수자 우위 시장)"],
+  "colloc": ["stock market(주식 시장)", "market share(시장 점유율)", "free market(자유 시장)"],
+  "ex_add": "Their house has been on the market for months.  (on the market=시장에 나온)"
+ },
+ {
+  "num": "1872",
+  "hw": "marketing",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "상품을 시장에 '내다 파는' 활동 = 마케팅.",
+  "senses": [
+   "1) 마케팅·시장 거래 활동",
+   "2) 판촉·홍보",
+   "3) 마케팅 부서"
+  ],
+  "etym": "market(시장, 라틴어 merx 상품) + -ing(활동). merx(상품) 뿌리로 market·merchant·commerce와 묶인다.",
+  "deriv": "market(시장에 내다 팔다) -> 'marketing(마케팅)'. '판촉(a marketing campaign, 마케팅 캠페인)' -> 부서 '마케팅팀'. merx(상품) 뿌리. 한국 학습자: marketing(시장 분석·판촉 전반)과 advertising(광고, 더 좁음·유료 매체)·sales(판매)·promotion(판촉)의 구별. digital marketing(디지털 마케팅), marketing strategy(마케팅 전략), viral marketing(입소문 마케팅), word-of-mouth marketing(구전 마케팅).",
+  "syn": ["promotion(판촉)", "advertising(광고)", "publicity(홍보)"],
+  "anti": [],
+  "idiom": ["marketing strategy(마케팅 전략)", "viral marketing(바이럴 마케팅)", "word of mouth(입소문)"],
+  "colloc": ["digital marketing(디지털 마케팅)", "marketing campaign(마케팅 캠페인)", "marketing department(마케팅 부서)"],
+  "ex_add": "The company spent millions on marketing the new phone.  (marketing=마케팅·판촉)"
+ },
+ {
+  "num": "1873",
+  "hw": "marriage",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "부부가 되는 '결혼' -> 혼인 상태 / 결합.",
+  "senses": [
+   "1) 결혼·혼인",
+   "2) 결혼 생활·부부 관계",
+   "3) (비유) 결합·융합"
+  ],
+  "etym": "고대 프랑스어 mariage < 라틴어 maritare(혼인시키다) < maritus(남편). marry(결혼하다)·marital(결혼의)·marriageable(혼기의)이 같은 maritus 뿌리. -age는 명사형.",
+  "deriv": "marry(결혼하다) -> 'marriage(결혼)'. 의식·제도 '결혼(propose marriage, 청혼하다)' -> 상태 '결혼 생활(a happy marriage)' -> 비유 '결합(a marriage of art and technology)'. maritus 뿌리로 marital·marry와 묶인다. 한국 학습자 핵심: marriage(혼인 상태·제도)와 wedding(결혼식, 행사, 1458)을 구별! ask for someone's hand in marriage(청혼하다), arranged marriage(중매결혼), marriage certificate(혼인 증명서). divorce(이혼)가 반의.",
+  "syn": ["wedlock(혼인)", "matrimony(결혼 생활)", "union(결합)"],
+  "anti": ["divorce(이혼)", "separation(별거)", "single life(독신)"],
+  "idiom": ["marriage of convenience(편의를 위한 결혼)", "ask for someone's hand in marriage(청혼하다)", "a marriage made in heaven(천생연분)"],
+  "colloc": ["happy marriage(행복한 결혼)", "arranged marriage(중매결혼)", "marriage proposal(청혼)"],
+  "ex_add": "They have a long and happy marriage.  (marriage=결혼 생활)"
+ },
+ {
+  "num": "1874",
+  "hw": "meanwhile",
+  "pos": "adv.",
+  "cefr": "B1",
+  "core": "그 사이에·한편으로 (동시에 다른 일이 진행됨).",
+  "senses": [
+   "1) 그동안에·그사이",
+   "2) (이야기 전환) 한편(으로는)",
+   "3) (그때까지) 그러는 동안"
+  ],
+  "etym": "mean(중간의, 고대 프랑스어 meien < 라틴어 medius 가운데) + while(동안). 본래 '그 중간 시간 동안'. medius(가운데) 뿌리로 medium·immediate(1803)·middle과 묶인다. while(~하는 동안)과 합성.",
+  "deriv": "mean(중간) + while(동안) -> 'meanwhile(그사이)'. 시간 '그동안에(Meanwhile, I'll cook)' -> 대조 '한편으로는(Prices rose; meanwhile, wages fell)'. medius(가운데) 뿌리. 한국 학습자: in the meantime(그동안에, meanwhile과 같은 뜻)도 함께. meanwhile, back at ~(한편 ~에서는, 이야기 전환). 두 사건의 동시성 또는 대조를 이어 주는 연결 부사.",
+  "syn": ["meantime(그동안)", "in the interim(그사이에)", "simultaneously(동시에)"],
+  "anti": [],
+  "idiom": ["in the meantime(그동안에)", "meanwhile, back at ~(한편 ~에서는)"],
+  "colloc": ["meanwhile, ~(그사이에)", "meanwhile in(한편 ~에서는)"],
+  "ex_add": "You set the table; meanwhile, I'll finish cooking.  (meanwhile=그사이에)"
+ },
+ {
+  "num": "1875",
+  "hw": "measure",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "크기·양을 '재다' -> 척도 / (대응) 조치.",
+  "senses": [
+   "1) (치수·양을) 재다·측정하다",
+   "2) (n.) 척도·단위·정도",
+   "3) (n.) 조치·대책"
+  ],
+  "etym": "라틴어 mensura(잼·치수) < metiri(재다). '재서 가늠함'이 핵심. dimension(치수)·immense(엄청난, '잴 수 없는')·measurement가 같은 metiri(재다) 뿌리.",
+  "deriv": "metiri(재다) -> 'measure(재다)'. 동사 '측정하다(measure the length)' -> 명사 '척도(a measure of success)' -> '조치(take measures, 조치를 취하다)'. metiri(재다) 뿌리로 dimension·immense와 묶인다. measurement(측정·치수)·measurable(잴 수 있는)이 파생. 한국 학습자: take measures (to V)(~하기 위한 조치를 취하다)에서 measure가 '대책'을 뜻함에 주의. measure up (to)(기대에 부응하다), beyond measure(헤아릴 수 없이), made to measure(맞춤의), for good measure(덤으로).",
+  "syn": ["gauge(측정하다)", "assess(가늠하다)", "step(조치)"],
+  "anti": [],
+  "idiom": ["take measures(조치를 취하다)", "measure up to(~에 부응하다)", "beyond measure(헤아릴 수 없이)", "for good measure(덤으로)"],
+  "colloc": ["measure carefully(신중히 재다)", "safety measures(안전 조치)", "a measure of(어느 정도의)"],
+  "ex_add": "The government took measures to reduce pollution.  (take measures=조치를 취하다)"
+ },
+ {
+  "num": "1876",
+  "hw": "mental",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "'마음·정신'에 관한 = 정신적인.",
+  "senses": [
+   "1) 정신의·마음의",
+   "2) 머릿속으로 하는·암산의",
+   "3) (구어) 제정신이 아닌"
+  ],
+  "etym": "라틴어 mentalis < mens(마음·정신, 속격 mentis). '마음에 속한'이 핵심. mention(언급하다, 1877)·comment(논평, 1595)·mind(마음)·mentor(스승)가 같은 mens(마음) 뿌리.",
+  "deriv": "mens(마음) -> 'mental(정신의)'. '정신의(mental health, 정신 건강)' -> '암산의(mental arithmetic, 암산)' -> 구어 '미친(That's mental!)'. mens(마음) 뿌리로 mention·comment·mind와 묶인다. mentally(정신적으로)·mentality(사고방식)가 파생. 한국 학습자: mental health(정신 건강), mental illness(정신 질환), make a mental note(마음에 새겨 두다). physical(신체의)과 대비. 영국 구어로 mental은 '미친'(가벼운 비속어).",
+  "syn": ["psychological(심리적인)", "cognitive(인지의)", "intellectual(지적인)"],
+  "anti": ["physical(신체의)", "bodily(육체의)"],
+  "idiom": ["mental health(정신 건강)", "make a mental note(잘 새겨 두다)", "mental block(심리적 장벽)"],
+  "colloc": ["mental health(정신 건강)", "mental illness(정신 질환)", "mental effort(정신적 노력)"],
+  "ex_add": "Regular exercise improves both physical and mental health.  (mental=정신의)"
+ },
+ {
+  "num": "1877",
+  "hw": "mention",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "마음에 떠올려 '잠깐 말하다' = 언급하다.",
+  "senses": [
+   "1) 언급하다·말하다",
+   "2) (이름을) 거론하다",
+   "3) (n.) 언급·거론"
+  ],
+  "etym": "라틴어 mentio(부름·언급) < mens(마음). '마음에 떠올려 말함'이 핵심. mental(정신의, 1876)·comment(논평)·mind(마음)가 같은 mens(마음) 뿌리.",
+  "deriv": "mens(마음) -> 'mention(언급하다)'. '언급하다(mention the problem)' -> 명사 '언급(make no mention of)'. mens(마음) 뿌리로 mental·comment와 묶인다. 한국 학습자: mention + 목적어/that절/V-ing(mention *about* X는 틀림!). not to mention(~은 말할 것도 없고), Don't mention it(천만에요), worth mentioning(언급할 만한), as mentioned above(위에서 언급했듯). honorable mention(가작·장려상).",
+  "syn": ["refer to(언급하다)", "bring up(꺼내다)", "note(말하다)"],
+  "anti": ["omit(빠뜨리다)", "ignore(언급 안 하다)"],
+  "idiom": ["not to mention(~은 말할 것도 없고)", "Don't mention it(천만에요)", "worth mentioning(언급할 가치가 있는)"],
+  "colloc": ["briefly mention(간단히 언급하다)", "mention the name(이름을 거론하다)", "fail to mention(언급하지 않다)"],
+  "ex_add": "She didn't mention that she was leaving.  (mention that ~=~라고 언급하다)"
+ },
+ {
+  "num": "1878",
+  "hw": "mess",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "뒤죽박죽 '엉망인 상태' -> 엉망으로 만들다.",
+  "senses": [
+   "1) 엉망진창·어수선함",
+   "2) 곤경·골치 아픈 상황",
+   "3) (동사) 엉망으로 만들다 / (군대) 식당"
+  ],
+  "etym": "고대 프랑스어 mes(상에 차린 한 접시 음식) < 라틴어 missus(내놓은 것) < mittere(보내다·놓다). 본래 '차려 낸 음식'에서 '뒤섞인 음식 -> 뒤죽박죽'으로. admit·commit·mission이 같은 mittere(보내다) 뿌리. (군대 '식당' mess가 본뜻에 가까움.)",
+  "deriv": "'차려 낸 음식 -> 뒤섞임' -> '엉망(in a mess)' -> '곤경(get into a mess)' -> 동사 '엉망으로 만들다(mess up)'. mittere(보내다) 뿌리로 admit·commit과 묶인다. messy(지저분한)가 형용사. 한국 학습자: mess up(망치다), mess around/about(빈둥대다·장난치다), mess with(~을 건드리다·괴롭히다), make a mess(어지르다), a mess of(엉망인). What a mess!(엉망이네!).",
+  "syn": ["muddle(혼란)", "chaos(무질서)", "clutter(어수선함)"],
+  "anti": ["order(정돈)", "tidiness(말끔함)", "neatness(깔끔함)"],
+  "idiom": ["mess up(망치다)", "mess around(빈둥거리다)", "mess with(~을 건드리다)", "make a mess(어질러 놓다)", "a mess of(엉망인)"],
+  "colloc": ["complete mess(완전 엉망)", "clean up the mess(난장판을 치우다)", "in a mess(엉망인 상태로)"],
+  "ex_add": "Sorry about the mess — I haven't cleaned up yet.  (mess=어질러진 상태)"
+ },
+ {
+  "num": "1879",
+  "hw": "mild",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "강하지 않고 '순한·온화한'.",
+  "senses": [
+   "1) (날씨가) 온화한·포근한",
+   "2) (맛·정도가) 순한·약한",
+   "3) (성격이) 부드러운·온순한"
+  ],
+  "etym": "고대 영어 milde(부드러운·자비로운). '거칠거나 강하지 않은'이 핵심. mildly(약간)·mildness가 파생. 게르만어 계열.",
+  "deriv": "'부드러운' -> 날씨 '온화한(a mild winter)' -> 맛 '순한(a mild curry)' -> 성격 '온순한(a mild manner)' -> 정도 '가벼운(a mild cold, 가벼운 감기)'. mildly(약간·부드럽게)가 부사. 한국 학습자: mild는 날씨(포근한)·맛(안 매운)·증상(가벼운)·성격(온화한)을 두루. to put it mildly(좋게 말해서), a mild case of(가벼운 ~), mild-mannered(온화한). hot/spicy(매운)·severe(심한)·harsh(혹독한)가 반의.",
+  "syn": ["gentle(부드러운)", "moderate(온건한)", "bland(자극 없는)"],
+  "anti": ["severe(심한)", "harsh(혹독한)", "spicy(매운)"],
+  "idiom": ["to put it mildly(좋게 말해서)", "mild-mannered(온순한)", "a mild case of(가벼운 ~)"],
+  "colloc": ["mild weather(온화한 날씨)", "mild flavor(순한 맛)", "mild symptoms(가벼운 증상)"],
+  "ex_add": "The weather has been unusually mild this winter.  (mild=온화한)"
+ },
+ {
+  "num": "1880",
+  "hw": "mine",
+  "pos": "pron., n.",
+  "cefr": "B1",
+  "core": "①'나의 것' ②(땅을 파는) 광산·지뢰 (서로 다른 두 단어).",
+  "senses": [
+   "1) (소유대명사) 나의 것",
+   "2) (n.) 광산 / 지뢰",
+   "3) (n.) (정보의) 보고 (a mine of information)"
+  ],
+  "etym": "①mine(나의 것)은 고대 영어 mīn(나의). ②mine(광산)은 고대 프랑스어 mine(광맥)에서. 철자만 같은 동음이의어. ①은 my·me와, ②는 miner(광부)·mineral(광물)과 한 가족.",
+  "deriv": "①my(나의) -> mine(나의 것, 명사 없이 단독). ②'광맥' -> '광산(a coal mine)' -> '지뢰(a land mine)' -> 비유 '보고(a mine of information, 정보의 보고)' -> 동사 '채굴하다'. 한국 학습자: ①소유대명사 mine(= my + 명사: This is mine)과 ②광산/지뢰 mine을 구별. a friend of mine(내 친구 하나), mineral(광물)·miner(광부)는 ②에서. a gold mine(노다지), mine field(지뢰밭·위험투성이).",
+  "syn": ["my own(나의 것)", "pit(갱)", "quarry(채석장)"],
+  "anti": ["yours(너의 것)", "theirs(그들의 것)"],
+  "idiom": ["a friend of mine(내 친구)", "a gold mine(노다지·돈벌이)", "a mine of information(정보의 보고)", "a minefield(지뢰밭·난관투성이)"],
+  "colloc": ["coal mine(탄광)", "land mine(지뢰)", "it's mine(그건 내 거야)"],
+  "ex_add": "That book is mine, not yours.  (mine=나의 것, 소유대명사)"
+ },
+ {
+  "num": "1881",
+  "hw": "mix",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "여러 가지를 '한데 섞다' -> 혼합·뒤섞임.",
+  "senses": [
+   "1) 섞다·혼합하다·섞이다",
+   "2) (사람과) 어울리다",
+   "3) (n.) 혼합(물)·배합"
+  ],
+  "etym": "라틴어 miscere(섞다)의 과거분사 mixtus에서 역형성. '한데 섞음'이 핵심. mixture(혼합물, 1882)·miscellaneous(잡다한)·mixed가 같은 miscere(섞다) 뿌리.",
+  "deriv": "miscere(섞다) -> 'mix(섞다)'. '섞다(mix the ingredients)' -> 사람과 '어울리다(mix with new people)' -> 명사 '혼합(a cake mix, 케이크 믹스)'. miscere(섞다) 뿌리로 mixture·miscellaneous와 묶인다. mixed(혼합된)·mixer(믹서)가 파생. 한국 학습자: mix A with B(A를 B와 섞다), mix up(헷갈리다·뒤섞다), mix up A with B(A를 B와 혼동하다), a mixed bag(좋고 나쁨이 섞인 것), mix and match(섞어 맞추다).",
+  "syn": ["blend(섞다)", "combine(결합하다)", "mingle(어울리다)"],
+  "anti": ["separate(분리하다)", "divide(나누다)", "sort(가려내다)"],
+  "idiom": ["mix up(혼동하다·뒤섞다)", "mix and match(섞어 맞추다)", "a mixed bag(천차만별의 것)", "mix it up(변화를 주다)"],
+  "colloc": ["mix ingredients(재료를 섞다)", "mix well(잘 섞다)", "mix with people(사람들과 어울리다)"],
+  "ex_add": "Mix the flour and sugar together in a bowl.  (mix=섞다)"
+ },
+ {
+  "num": "1882",
+  "hw": "mixture",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "여러 가지가 섞인 '혼합물·섞임'.",
+  "senses": [
+   "1) 혼합물·섞은 것",
+   "2) (감정·요소의) 뒤섞임",
+   "3) 배합·조합"
+  ],
+  "etym": "라틴어 mixtura < miscere(섞다). '섞인 것'이 핵심. mix(1881)·miscellaneous(잡다한)와 같은 miscere(섞다) 뿌리.",
+  "deriv": "mix(섞다) -> 명사 'mixture'. 물질 '혼합물(a mixture of oil and water)' -> 추상 '뒤섞임(a mixture of joy and fear, 기쁨과 두려움이 섞인 감정)'. miscere(섞다) 뿌리로 mix와 한 가족. 한국 학습자: mixture(섞은 결과물)와 mix(동사·믹스 가루)·blend(고르게 섞은 혼합)의 결 차이. a strange mixture of(묘하게 섞인), cough mixture(기침약, 영국). compound(화합물)·solution(용액)과 화학적으로 구별.",
+  "syn": ["blend(혼합물)", "combination(조합)", "compound(화합물)"],
+  "anti": ["element(단일 요소)", "pure substance(순물질)"],
+  "idiom": ["a mixture of(~의 혼합)", "a strange mixture(묘한 뒤섞임)"],
+  "colloc": ["a mixture of(~의 혼합물)", "even mixture(고른 혼합)", "smooth mixture(매끄러운 반죽)"],
+  "ex_add": "I felt a mixture of excitement and fear.  (a mixture of=~이 뒤섞인 것)"
+ },
+ {
+  "num": "1883",
+  "hw": "mood",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "그때그때의 '기분·심기' -> 분위기.",
+  "senses": [
+   "1) 기분·심기",
+   "2) (좋지 않은) 기분·심술",
+   "3) (장소의) 분위기 / (문법) 법(法)"
+  ],
+  "etym": "고대 영어 mōd(마음·정신·용기). 본래 '마음 상태'가 '일시적 기분'으로 좁아짐. moody(기분 변화가 심한)가 파생. (문법의 mood는 라틴어 modus '방식'과 혼동되어 합쳐짐.)",
+  "deriv": "'마음 상태' -> '기분(in a good mood)' -> '언짢음(be in a mood, 심통이 나 있다)' -> 장소의 '분위기(the mood of the film)'. moody(변덕스러운·시무룩한)가 파생. 한국 학습자: in a good/bad mood(기분이 좋은/나쁜), in the mood for(~할 기분이 나는), mood swings(감정 기복), not in the mood(그럴 기분이 아닌). atmosphere(장소의 분위기, 1515)와 유의어이나 mood는 사람 기분에 더 가까움.",
+  "syn": ["temper(기분)", "humor(기분)", "atmosphere(분위기)"],
+  "anti": [],
+  "idiom": ["in a good/bad mood(기분이 좋은/나쁜)", "in the mood for(~할 기분이 나는)", "mood swings(감정 기복)", "in no mood for(~할 기분이 아닌)"],
+  "colloc": ["good mood(좋은 기분)", "change of mood(기분 전환)", "festive mood(축제 분위기)"],
+  "ex_add": "I'm not in the mood for jokes right now.  (in the mood for=~할 기분이 나는)"
+ },
+ {
+  "num": "1884",
+  "hw": "move",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "위치·마음을 '움직이다' -> 이사 / 조치.",
+  "senses": [
+   "1) 움직이다·옮기다·이동하다",
+   "2) 이사하다·전근하다",
+   "3) 감동시키다 / (n.) 조치·수·이동"
+  ],
+  "etym": "라틴어 movere(움직이다). '위치·상태를 바꿈'이 핵심. motion(움직임)·emotion(감정, 1694)·remove(치우다)·motive(동기)·motor(모터)가 같은 movere(움직이다) 뿌리.",
+  "deriv": "movere(움직이다) -> 'move'. 물리 '움직이다(move the chair)' -> '이사하다(move to a new city)' -> 마음을 '감동시키다(a moving story)' -> 명사 '조치(make a move)·수'. movere(움직이다) 뿌리로 motion·emotion·remove·motive와 묶인다. movement(움직임)·moving(감동적인)·movable(이동식)이 파생. 한국 학습자: move on(다음으로 넘어가다·잊고 나아가다), move in/out(이사 들어오다/나가다), move over(자리를 옮기다), get a move on(서두르다), make a move(행동에 나서다).",
+  "syn": ["shift(옮기다)", "relocate(이전하다)", "touch(감동시키다)"],
+  "anti": ["stay(머무르다)", "stop(멈추다)", "remain(그대로 있다)"],
+  "idiom": ["move on(넘어가다·잊다)", "move in(이사 오다)", "get a move on(서두르다)", "make a move(나서다·자리를 뜨다)", "on the move(이동 중인)"],
+  "colloc": ["move forward(앞으로 나아가다)", "move house(이사하다)", "deeply moved(깊이 감동받은)"],
+  "ex_add": "We're moving to a bigger apartment next month.  (move=이사하다)"
+ },
+ {
+  "num": "1885",
+  "hw": "mud",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "물과 흙이 섞인 '진흙'.",
+  "senses": [
+   "1) 진흙·진창",
+   "2) 흙탕",
+   "3) (비유) 비방·중상"
+  ],
+  "etym": "중세 저지 독일어 mudde(진흙)에서. '질척한 흙'이 핵심. muddy(진흙투성이의)가 파생. 게르만어 계열.",
+  "deriv": "'진흙' -> 'muddy(진흙투성이의·흐린)' -> 비유 '비방(sling mud, 진흙탕 싸움을 하다)'. 한국 학습자: muddy water(흙탕물), stuck in the mud(진창에 빠진·고리타분한), one's name is mud(평판이 땅에 떨어진), drag someone's name through the mud(명예를 더럽히다), clear as mud(전혀 이해가 안 되는, 반어). mud bath(머드 목욕), mudslide(이류·산사태).",
+  "syn": ["mire(진창)", "sludge(진흙)", "muck(오물)"],
+  "anti": [],
+  "idiom": ["one's name is mud(평판이 나쁜)", "drag through the mud(명예를 더럽히다)", "sling mud(중상하다)", "clear as mud(도무지 모를)"],
+  "colloc": ["thick mud(진흙탕)", "covered in mud(진흙투성이의)", "mud puddle(흙탕 웅덩이)"],
+  "ex_add": "After the rain, the field was covered in mud.  (mud=진흙)"
+ },
+ {
+  "num": "1886",
+  "hw": "murder",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "사람을 고의로 '죽임' = 살인 -> 살해하다.",
+  "senses": [
+   "1) 살인·살해",
+   "2) (동사) 살해하다",
+   "3) (구어) 몹시 힘든 일 / 망쳐 놓다"
+  ],
+  "etym": "고대 영어 morþor(살인). 라틴어 mors/mortem(죽음)과 한 인도유럽 뿌리. mortal(죽을 운명의)·mortgage(저당, '죽음의 담보')·immortal(불멸의)이 같은 mort-(죽음) 뿌리.",
+  "deriv": "mort-(죽음) -> 'murder(살인)'. '살인(commit murder)' -> 동사 '살해하다' -> 구어 '몹시 힘든 일(The traffic was murder)·망치다(murder a song)'. mort-(죽음) 뿌리로 mortal·immortal과 묶인다. murderer(살인자)·murderous(살의에 찬)가 파생. 한국 학습자: murder(고의 살인)와 manslaughter(과실 치사)·homicide(살인 일반, 법률)·kill(죽이다, 일반)의 구별. get away with murder(나쁜 짓을 하고도 무사하다), scream blue murder(고래고래 소리치다).",
+  "syn": ["kill(죽이다)", "slay(살해하다)", "homicide(살인)"],
+  "anti": [],
+  "idiom": ["get away with murder(나쁜 짓을 하고도 벌받지 않다)", "scream blue murder(악을 쓰다)", "murder mystery(추리물)"],
+  "colloc": ["commit murder(살인을 저지르다)", "murder case(살인 사건)", "attempted murder(살인 미수)"],
+  "ex_add": "He was charged with murder.  (murder=살인)"
+ },
+ {
+  "num": "1887",
+  "hw": "muscle",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "몸을 움직이는 '근육' -> 힘·완력.",
+  "senses": [
+   "1) 근육",
+   "2) (비유) 힘·영향력·완력",
+   "3) (muscle in) 비집고 끼어들다"
+  ],
+  "etym": "라틴어 musculus('작은 쥐') < mus(쥐). 알통이 움직이는 모양이 '작은 쥐'가 꿈틀대는 것 같다 하여 붙은 이름. mouse(쥐)·mussel(홍합, 쥐 모양)이 같은 mus(쥐) 뿌리. 흥미로운 어원!",
+  "deriv": "'작은 쥐(알통)' -> '근육(build muscle)' -> 비유 '힘·영향력(financial muscle, 자금력)'. mus(쥐) 뿌리로 mouse·mussel과 묶인다 — 알통이 쥐를 닮아서! muscular(근육질의)가 형용사. 한국 학습자: muscle의 c는 묵음 /ˈmʌsl/. pull/strain a muscle(근육을 삐다), flex one's muscles(힘을 과시하다), not move a muscle(꼼짝도 안 하다), muscle memory(근육 기억). 어원(작은 쥐)을 알면 철자가 외워진다.",
+  "syn": ["sinew(힘줄)", "strength(힘)", "power(완력)"],
+  "anti": ["weakness(허약)"],
+  "idiom": ["flex one's muscles(힘을 과시하다)", "not move a muscle(미동도 않다)", "muscle in on(억지로 끼어들다)", "put some muscle into(힘을 쓰다)"],
+  "colloc": ["build muscle(근육을 키우다)", "pull a muscle(근육을 삐다)", "muscle pain(근육통)"],
+  "ex_add": "He pulled a muscle while lifting the heavy box.  (pull a muscle=근육을 삐다)"
+ },
+ {
+  "num": "1888",
+  "hw": "musical",
+  "pos": "adj., n.",
+  "cefr": "B1",
+  "core": "음악의·음악적인 -> 노래극 뮤지컬.",
+  "senses": [
+   "1) 음악의·음악적인",
+   "2) 음악에 재능 있는·음악을 좋아하는",
+   "3) (n.) 뮤지컬(노래·춤이 있는 극)"
+  ],
+  "etym": "music(음악) + -al. music < 그리스어 mousike(무사 여신들의 기예) < Mousa(무사, 예술의 여신). museum(박물관, '무사의 신전')·muse(영감)가 같은 Mousa 뿌리.",
+  "deriv": "music(음악) -> 'musical(음악의)'. 형용사 '음악적인(a musical instrument, 악기)' -> '음악에 소질 있는(a musical family)' -> 명사 '뮤지컬(a Broadway musical)'. Mousa(여신) 뿌리로 museum·muse와 묶인다. musically(음악적으로)·musician(음악가)이 파생. 한국 학습자: musical instrument(악기), musical chairs(의자 앉기 게임·잦은 자리바꿈), a hit musical(흥행 뮤지컬). music이 '음악'(불가산 명사).",
+  "syn": ["melodic(선율적인)", "tuneful(곡조가 아름다운)"],
+  "anti": ["tone-deaf(음치인)", "unmusical(음악적이지 않은)"],
+  "idiom": ["musical chairs(자리 빼앗기 게임·잦은 인사이동)", "a musical instrument(악기)"],
+  "colloc": ["musical instrument(악기)", "musical talent(음악적 재능)", "hit musical(인기 뮤지컬)"],
+  "ex_add": "She comes from a very musical family.  (musical=음악에 재능 있는)"
+ },
+ {
+  "num": "1889",
+  "hw": "mystery",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "도무지 알 수 없는 '수수께끼·신비'.",
+  "senses": [
+   "1) 수수께끼·불가사의",
+   "2) 신비·비밀",
+   "3) (장르) 추리물·미스터리"
+  ],
+  "etym": "그리스어 mysterion(비밀 의식) < mystes(입교자) < myein(눈·입을 닫다). '입을 다물고 숨긴 비밀'이 핵심. mystic(신비주의자)·mystify(어리둥절하게 하다)가 같은 myein 뿌리.",
+  "deriv": "myein(입을 닫다) -> 'mystery(수수께끼)'. '불가사의(an unsolved mystery)' -> '신비(the mystery of life)' -> 장르 '추리물(a murder mystery)'. mysterious(신비한)·mystify(혼란시키다)·mystic이 파생. 한국 학습자: a mystery to(~에게 수수께끼인, It's a mystery to me 도무지 모르겠다), shrouded in mystery(베일에 싸인), solve a mystery(수수께끼를 풀다). puzzle·enigma와 유의어. mysterious(형용사)와 짝.",
+  "syn": ["puzzle(수수께끼)", "enigma(불가사의)", "riddle(난제)"],
+  "anti": ["certainty(확실함)", "clarity(명확함)"],
+  "idiom": ["a mystery to(~에게 수수께끼인)", "shrouded in mystery(수수께끼에 싸인)", "solve a mystery(미스터리를 풀다)"],
+  "colloc": ["unsolved mystery(미해결 수수께끼)", "complete mystery(완전한 수수께끼)", "murder mystery(살인 추리물)"],
+  "ex_add": "How the pyramids were built remains a mystery.  (mystery=수수께끼)"
+ },
+ {
+  "num": "1890",
+  "hw": "nail",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "박는 '못' / 손발의 '손톱·발톱'.",
+  "senses": [
+   "1) 못",
+   "2) 손톱·발톱",
+   "3) (동사) 못으로 박다 / (구어) 딱 해내다·잡다"
+  ],
+  "etym": "고대 영어 nægl(손톱·못). 손톱과 못이 본래 한 단어 — 둘 다 '단단하고 뾰족한 것'. 게르만어 계열(독일어 Nagel). '단단한 끝'이 핵심.",
+  "deriv": "'단단한 끝' -> '손톱(nail polish, 매니큐어)'과 '못(hammer a nail)'으로 한 단어가 두 뜻 -> 동사 '못 박다' -> 구어 '딱 해내다(nail the exam)·체포하다'. 한국 학습자: 손톱과 못이 같은 단어임을 '단단하고 뾰족함'으로 이해. bite one's nails(손톱을 물어뜯다·초조해하다), hit the nail on the head(정곡을 찌르다), nail down(확정 짓다), a nail in the coffin(파멸을 앞당기는 것), tooth and nail(필사적으로).",
+  "syn": ["spike(대못)", "tack(압정)", "claw(발톱)"],
+  "anti": [],
+  "idiom": ["hit the nail on the head(정곡을 찌르다)", "bite one's nails(손톱을 물어뜯다·조마조마하다)", "nail down(확정하다)", "a nail in the coffin(파멸의 한 원인)", "fight tooth and nail(이를 악물고 싸우다)"],
+  "colloc": ["hammer a nail(못을 박다)", "nail polish(매니큐어)", "fingernail(손톱)"],
+  "ex_add": "You hit the nail on the head with that comment.  (hit the nail on the head=정곡을 찌르다)"
+ },
+ {
+  "num": "1891",
+  "hw": "narrative",
+  "pos": "n., adj.",
+  "cefr": "B1",
+  "core": "겪은 일을 '알려 풀어낸' 이야기·서술.",
+  "senses": [
+   "1) 이야기·서사",
+   "2) (사건의) 서술·기술",
+   "3) (형) 이야기체의·서술의"
+  ],
+  "etym": "라틴어 narrare(이야기하다) < gnarus(아는). 본래 '아는 것을 들려줌'. narrate(이야기하다)·narrator(화자)가 같은 뿌리. gnarus(아는)는 ignore(1800)·know와도 연결 — '알다'에서 갈라진 친척.",
+  "deriv": "narrare(이야기하다) -> 'narrative(서사)'. '이야기(a gripping narrative)' -> '서술' -> 형용사 '이야기체의(narrative style)'. narrate(서술하다)·narrator(서술자)가 파생. gnarus(아는) 뿌리로 ignore·know와 먼 친척. 한국 학습자: narrative(짜임새 있는 이야기·서사)와 story(이야기 일반)·plot(줄거리)의 결 차이. a personal narrative(자전적 서사), the dominant narrative(지배적 담론), first-person narrative(1인칭 서술).",
+  "syn": ["story(이야기)", "account(서술)", "tale(이야기)"],
+  "anti": [],
+  "idiom": ["the dominant narrative(지배적 서사)", "first-person narrative(1인칭 시점)", "change the narrative(담론을 바꾸다)"],
+  "colloc": ["personal narrative(개인 서사)", "compelling narrative(흡인력 있는 이야기)", "narrative structure(서사 구조)"],
+  "ex_add": "The novel has a gripping narrative that keeps you reading.  (narrative=서사·이야기)"
+ }
+]
