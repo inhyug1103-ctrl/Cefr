@@ -1,0 +1,952 @@
+[
+ {
+  "num": "2042",
+  "hw": "respect",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "'되돌아볼' 만큼 높이 봄 = 존경 / ~의 점·측면.",
+  "senses": [
+   "1) 존경·경의",
+   "2) (동사) 존경하다·존중하다",
+   "3) (in ~ ) (~의) 점·측면 / 배려"
+  ],
+  "etym": "라틴어 respicere = re(다시·뒤로) + specere(보다). '되돌아봄 -> 우러러봄'이 핵심. spectacle(구경거리)·inspect(검사하다)·prospect(전망)·expect(기대하다, 1717)·despite(~에도, 1650)가 같은 specere(보다) 뿌리.",
+  "deriv": "re(다시) + specere(보다) -> 'respect'. '존경(earn respect)' -> 동사 '존중하다(respect the rules)' -> '점·측면(in this respect, 이 점에서)'. specere(보다) 뿌리로 inspect·prospect·expect·despite와 묶인다. respectful(공손한)·respectable(존경할 만한)이 파생. 한국 학습자: respect for(~에 대한 존경), with respect to(~에 관하여), in many respects(여러 면에서), pay one's respects(경의를 표하다), with all due respect(외람되지만). disrespect(무례)가 반의.",
+  "syn": ["esteem(존중)", "admire(존경하다)", "regard(경의)"],
+  "anti": ["disrespect(무례)", "contempt(경멸)", "scorn(멸시)"],
+  "idiom": ["with respect to(~에 관하여)", "in many respects(여러 면에서)", "with all due respect(외람되지만)", "pay one's respects(경의를 표하다)"],
+  "colloc": ["respect for(~에 대한 존경)", "earn respect(존경을 받다)", "mutual respect(상호 존중)"],
+  "ex_add": "Students should show respect for their teachers.  (respect for=~에 대한 존경)"
+ },
+ {
+  "num": "2043",
+  "hw": "responsibility",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "기대에 '응해 맹세한' 의무 = 책임·책무.",
+  "senses": [
+   "1) 책임·책무",
+   "2) 맡은 일·담당",
+   "3) 책임감"
+  ],
+  "etym": "라틴어 respondere = re(되받아) + spondere(맹세하다·약속하다). '되받아 약속함 = 책임짐'이 핵심. respond(응답하다)·sponsor(후원자)·spouse(배우자, '서약한 이')·correspond(일치하다)가 같은 spondere(맹세하다) 뿌리.",
+  "deriv": "spondere(맹세하다) -> respond -> 'responsibility'. '책임(take responsibility)' -> '맡은 일(my responsibilities)' -> '책임감'. spondere(맹세하다) 뿌리로 respond·sponsor·spouse와 묶인다. responsible(책임 있는, 2044)이 형용사. 한국 학습자: take responsibility for(~에 대한 책임을 지다), a sense of responsibility(책임감), accept/bear responsibility(책임을 지다), claim responsibility(범행을 자처하다). 발음 주의 — 6음절 /rɪˌspɒnsəˈbɪləti/.",
+  "syn": ["duty(의무)", "obligation(책무)", "accountability(책임)"],
+  "anti": ["irresponsibility(무책임)"],
+  "idiom": ["take responsibility for(~에 책임을 지다)", "a sense of responsibility(책임감)", "claim responsibility(범행을 자처하다)"],
+  "colloc": ["take responsibility(책임을 지다)", "personal responsibility(개인적 책임)", "share responsibility(책임을 나누다)"],
+  "ex_add": "You must take responsibility for your own actions.  (take responsibility for=~에 책임을 지다)"
+ },
+ {
+  "num": "2044",
+  "hw": "responsible",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "맡은 일에 '응해 책임지는' / 믿음직한.",
+  "senses": [
+   "1) (responsible for) ~에 책임이 있는·담당하는",
+   "2) (원인) ~의 원인이 되는",
+   "3) 책임감 있는·믿음직한"
+  ],
+  "etym": "라틴어 respondere = re(되받아) + spondere(맹세하다). responsibility(책임, 2043)와 한 뿌리. spondere(맹세하다) 뿌리로 respond·sponsor와 묶인다. '되받아 약속하는'이 핵심.",
+  "deriv": "respond -> 'responsible'. 'be responsible for(~을 책임지다·~의 원인이다)' -> 성격 '책임감 있는(a responsible adult)'. spondere(맹세하다) 뿌리. responsibly(책임감 있게)가 부사. 한국 학습자 핵심: be responsible for(~을 담당하다 / ~의 원인이다, 두 뜻), hold someone responsible(~에게 책임을 묻다), responsible to(~에게 보고 의무가 있는). irresponsible(무책임한)이 반의. responsible for + 명사/동명사.",
+  "syn": ["accountable(책임 있는)", "in charge(담당하는)", "reliable(믿음직한)"],
+  "anti": ["irresponsible(무책임한)", "careless(부주의한)"],
+  "idiom": ["be responsible for(~을 책임지다·~의 원인이다)", "hold responsible(책임을 묻다)", "responsible to(~에게 보고하는)"],
+  "colloc": ["responsible for(~을 책임지는)", "fully responsible(전적으로 책임지는)", "responsible behavior(책임 있는 행동)"],
+  "ex_add": "Who is responsible for this mess?  (responsible for=~에 책임이 있는)"
+ },
+ {
+  "num": "2045",
+  "hw": "result",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "어떤 일에서 '튀어나온' 결과 -> ~의 결과로 생기다.",
+  "senses": [
+   "1) 결과·성과·결실",
+   "2) (시험·경기) 성적·결과",
+   "3) (동사) (result in/from) ~을 초래하다/~에서 비롯되다"
+  ],
+  "etym": "라틴어 resultare = re(되받아) + salire(뛰다). '튀어 되돌아 나옴'이 핵심. salire(뛰다) 뿌리로 salient(두드러진)·assault(습격)·somersault(공중제비)·result가 묶인다.",
+  "deriv": "re(되받아) + salire(뛰다) -> 'result'. 명사 '결과(the end result)' -> 동사 'result in(~을 초래하다)·result from(~에서 비롯되다)'. salire(뛰다) 뿌리로 salient·assault와 묶인다. 한국 학습자 핵심: result in(원인 -> 결과: Hard work resulted in success)과 result from(결과 <- 원인: Success resulted from hard work)의 방향 차이! as a result (of)(~의 결과로), get results(성과를 내다), with the result that(그 결과 ~). cause(원인)가 짝.",
+  "syn": ["outcome(결과)", "consequence(귀결)", "effect(영향)"],
+  "anti": ["cause(원인)", "origin(근원)"],
+  "idiom": ["result in(~을 초래하다)", "result from(~에서 비롯되다)", "as a result(그 결과)", "get results(성과를 내다)"],
+  "colloc": ["end result(최종 결과)", "test results(시험 결과)", "result in failure(실패로 이어지다)"],
+  "ex_add": "The accident resulted in serious injuries.  (result in=~을 초래하다)"
+ },
+ {
+  "num": "2046",
+  "hw": "retire",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "일선에서 '뒤로 물러나다' = 은퇴하다.",
+  "senses": [
+   "1) 은퇴하다·퇴직하다",
+   "2) (경기에서) 기권·물러나다",
+   "3) (격식) 잠자리에 들다·물러가다"
+  ],
+  "etym": "프랑스어 retirer = re(뒤로) + tirer(끌다·당기다). '뒤로 물러남'이 핵심. tirer(당기다)는 영어 tier·attire와 관련. '직무에서 발을 뺌'.",
+  "deriv": "re(뒤로) + tirer(당기다) -> 'retire'. '은퇴하다(retire at 65)' -> 경기 '기권하다' -> 격식 '잠자리에 들다(retire for the night)'. retired(은퇴한, 2047)·retirement(은퇴)·retiree(은퇴자)가 파생. 한국 학습자: retire from(~에서 은퇴하다), retire as(~ 자리에서 물러나다), be due to retire(은퇴 예정이다), take early retirement(조기 퇴직하다). resign(사직하다)은 도중 그만둠, retire는 정년·고령으로 일을 마침.",
+  "syn": ["step down(물러나다)", "leave work(퇴직하다)", "withdraw(물러나다)"],
+  "anti": ["start work(취업하다)", "join(입사하다)"],
+  "idiom": ["retire from(~에서 은퇴하다)", "take early retirement(조기 은퇴하다)", "retire for the night(잠자리에 들다)"],
+  "colloc": ["retire early(조기 은퇴하다)", "retire from work(은퇴하다)", "plan to retire(은퇴를 계획하다)"],
+  "ex_add": "My father plans to retire next year.  (retire=은퇴하다)"
+ },
+ {
+  "num": "2047",
+  "hw": "retired",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "일에서 물러난 = '은퇴한·퇴직한'.",
+  "senses": [
+   "1) 은퇴한·퇴직한",
+   "2) 정년퇴직 후의",
+   "3) (the retired) 은퇴자들"
+  ],
+  "etym": "retire(은퇴하다, 프랑스어 re(뒤로) + tirer 당기다)의 과거분사. '뒤로 물러난' 상태. retire(2046)·retirement와 한 가족.",
+  "deriv": "retire(은퇴하다) -> 'retired(은퇴한)'. '퇴직한(a retired teacher)' -> 'the retired(은퇴자들)'. 한국 학습자: retired(은퇴한, 상태)와 retiring(은퇴하는·내성적인, 두 뜻!)을 구별 — retiring은 -ing이지만 '내성적인(a retiring personality)' 뜻도. a retired colonel(예비역 대령), retired life(은퇴 생활), semi-retired(반쯤 은퇴한). working(현역의)이 반의.",
+  "syn": ["former(전직의)", "ex-(전~)", "emeritus(명예~)"],
+  "anti": ["working(현역의)", "active(현직의)", "employed(재직 중인)"],
+  "idiom": ["a retired person(은퇴자)", "semi-retired(반쯤 은퇴한)"],
+  "colloc": ["retired teacher(은퇴한 교사)", "newly retired(갓 은퇴한)", "retired couple(은퇴한 부부)"],
+  "ex_add": "My neighbor is a retired police officer.  (retired=은퇴한)"
+ },
+ {
+  "num": "2048",
+  "hw": "revise",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "'다시 보고' 고치다 -> (영) 복습하다.",
+  "senses": [
+   "1) 수정하다·개정하다",
+   "2) (생각·견해를) 바꾸다",
+   "3) (영국) 복습하다·시험공부하다"
+  ],
+  "etym": "라틴어 revisere = re(다시) + visere(자세히 보다, < videre 보다). '다시 들여다봄'이 핵심. vision(시야)·advise(조언하다, 1486)·supervise(감독하다)·visible(보이는)이 같은 videre(보다) 뿌리.",
+  "deriv": "re(다시) + videre(보다) -> 'revise'. '수정하다(revise a draft)' -> 생각을 '바꾸다(revise an opinion)' -> 영국 '복습하다(revise for exams)'. videre(보다) 뿌리로 vision·advise·supervise와 묶인다. revision(수정·복습)이 명사. 한국 학습자: revise가 미국·영국 공통으로 '수정하다', 영국에서만 '시험 복습하다'(미국은 review/study). a revised edition(개정판), revise downwards(하향 조정하다).",
+  "syn": ["edit(편집하다)", "amend(개정하다)", "review(복습하다)"],
+  "anti": ["keep(그대로 두다)", "maintain(유지하다)"],
+  "idiom": ["revise an opinion(견해를 바꾸다)", "a revised edition(개정판)", "revise for exams(시험공부하다)"],
+  "colloc": ["revise a draft(초안을 수정하다)", "revise the plan(계획을 수정하다)", "thoroughly revise(전면 개정하다)"],
+  "ex_add": "I need to revise this essay before submitting it.  (revise=수정하다)"
+ },
+ {
+  "num": "2049",
+  "hw": "ring",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "①둥근 '고리·반지' ②종이 '울리다'·전화하다 (두 단어).",
+  "senses": [
+   "1) (ring1) 반지·고리·원형 / 경기장(링)",
+   "2) (ring2) (종·벨이) 울리다",
+   "3) (ring2) (영) 전화하다 / (n.) 전화 한 통"
+  ],
+  "etym": "①ring(고리)은 고대 영어 hring(둥근 것). ②ring(울리다)은 고대 영어 hringan(소리 내다, 의성어). 철자만 같은 동음이의어. ②는 ring-rang-rung(불규칙), ①의 동사(둘러싸다)는 ring-ringed.",
+  "deriv": "①'둥근 고리' -> '반지(a wedding ring)' -> '경기장(a boxing ring)' -> 동사 '둘러싸다'. ②'울리다(The phone rang)' -> 영국 '전화하다(ring me later)' -> 명사 'give a ring(전화하다)'. 한국 학습자: ring2는 ring-rang-rung. ring a bell(어디서 들어 본 듯하다, 1538), ring true(진실로 들리다), give someone a ring(전화하다, 영국), ringtone(벨소리). 결혼반지·복싱 링·전화벨이 한 철자.",
+  "syn": ["band(고리)", "circle(원)", "phone(전화하다)"],
+  "anti": [],
+  "idiom": ["ring a bell(들어 본 듯하다)", "ring true(그럴듯하게 들리다)", "give someone a ring(전화하다)", "run rings around(훨씬 앞서다)"],
+  "colloc": ["wedding ring(결혼반지)", "ring the bell(벨을 울리다)", "phone rings(전화벨이 울리다)"],
+  "ex_add": "The phone rang three times before she answered.  (ring=울리다, rang/rung 변화)"
+ },
+ {
+  "num": "2050",
+  "hw": "risk",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "나쁜 일이 생길 '위험(을 무릅쓰다)'.",
+  "senses": [
+   "1) 위험·위험 요소",
+   "2) (동사) 위험을 무릅쓰다·~을 걸다",
+   "3) (보험) 위험 대상"
+  ],
+  "etym": "이탈리아어 risco/rischio(위험). 어원이 확실치 않으나 항해의 '암초를 헤쳐 감'에서 왔다는 설이 유력. '닥칠 수 있는 위험'이 핵심. risky(위험한)가 파생.",
+  "deriv": "'위험' -> 명사 '위험(at risk, 위험에 처한)' -> 동사 '무릅쓰다(risk one's life)'. risky(위험한)가 형용사. 한국 학습자 핵심: risk V-ing(~할 위험을 무릅쓰다, 동명사!), at risk(위험에 처한), take a risk(모험을 하다), run the risk of(~할 위험이 있다), at the risk of(~을 무릅쓰고), high-risk(고위험). danger(눈앞의 위험)와 달리 risk는 '확률적 위험·감수'. worth the risk(감수할 가치가 있는).",
+  "syn": ["danger(위험)", "hazard(위험 요소)", "gamble(걸다)"],
+  "anti": ["safety(안전)", "security(보안)", "certainty(확실성)"],
+  "idiom": ["at risk(위험에 처한)", "take a risk(위험을 무릅쓰다)", "run the risk of(~할 위험을 감수하다)", "at the risk of(~을 무릅쓰고)"],
+  "colloc": ["high risk(고위험)", "health risk(건강 위험)", "risk of failure(실패 위험)"],
+  "ex_add": "He risked his life to save the child.  (risk=무릅쓰다)"
+ },
+ {
+  "num": "2051",
+  "hw": "robot",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "사람 대신 '일하는' 기계 = 로봇.",
+  "senses": [
+   "1) 로봇·자동 기계",
+   "2) (비유) 기계처럼 움직이는 사람",
+   "3) 산업용 로봇"
+  ],
+  "etym": "체코어 robota(고된 노동·부역). 1920년 카렐 차페크의 희곡 'R.U.R.'에서 '인조 노동자'를 가리키며 처음 등장. '강제 노동'이 어원 — 로봇은 본래 '일하는 존재'.",
+  "deriv": "robota(노동) -> 'robot'. '로봇(an industrial robot)' -> 비유 '기계 같은 사람(work like a robot)'. robotic(로봇 같은)·robotics(로봇 공학)가 파생. 한국 학습자: robot의 어원이 '노동·부역'임을 알면 흥미롭다. a robot vacuum(로봇 청소기), robotic arm(로봇 팔), industrial robot(산업용 로봇). 발음 — 미국 /ˈroʊbɑːt/, 영국 /ˈrəʊbɒt/. AI·automation(자동화)과 함께 기술 어휘.",
+  "syn": ["machine(기계)", "automaton(자동인형)", "android(인간형 로봇)"],
+  "anti": ["human(인간)"],
+  "idiom": ["like a robot(기계처럼)", "a robot vacuum(로봇 청소기)"],
+  "colloc": ["industrial robot(산업용 로봇)", "robot arm(로봇 팔)", "build a robot(로봇을 만들다)"],
+  "ex_add": "The factory uses robots to assemble cars.  (robot=로봇)"
+ },
+ {
+  "num": "2052",
+  "hw": "roll",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "바퀴처럼 '굴리다·구르다' -> 둘둘 말다 / 둥근 것.",
+  "senses": [
+   "1) 구르다·굴리다",
+   "2) 둘둘 말다·말리다",
+   "3) (n.) 두루마리·둥근 빵 / 명단"
+  ],
+  "etym": "라틴어 rotulus(작은 바퀴) < rota(바퀴). '바퀴처럼 돎'이 핵심. rotate(회전하다)·round(둥근)·control(통제, 원래 '대조 명부')·role(역할)이 같은 rota(바퀴) 뿌리.",
+  "deriv": "rota(바퀴) -> 'roll'. '구르다(roll down the hill)' -> '둘둘 말다(roll up a carpet)' -> 명사 '두루마리(a roll of paper)·명단(call the roll, 출석을 부르다)'. rota(바퀴) 뿌리로 rotate·round·control과 묶인다. 한국 학습자: roll up(말아 올리다·소매를 걷다), roll over(뒤척이다·이월하다), on a roll(승승장구하는), rock and roll(로큰롤), a roll call(점호). a bread roll(둥근 빵).",
+  "syn": ["turn(돌다)", "spin(회전하다)", "wind(감다)"],
+  "anti": ["unroll(펴다)", "unfold(펼치다)"],
+  "idiom": ["roll up(말아 올리다)", "on a roll(잘나가는)", "roll out(출시하다·펼치다)", "be rolling in it(돈이 넘쳐 나다)", "get the ball rolling(일을 시작하다)"],
+  "colloc": ["roll a ball(공을 굴리다)", "roll of paper(종이 두루마리)", "drum roll(드럼 연타)"],
+  "ex_add": "The ball rolled across the floor.  (roll=구르다)"
+ },
+ {
+  "num": "2053",
+  "hw": "romantic",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "사랑·낭만이 가득한 = 낭만적인.",
+  "senses": [
+   "1) 낭만적인·연애의",
+   "2) (분위기가) 로맨틱한",
+   "3) 공상적인·비현실적인 / (예술의) 낭만주의의"
+  ],
+  "etym": "Rome(로마) -> Romance(로망스어·연애담). 중세에 로마에서 갈라진 속어(프랑스어 등)로 쓰인 '기사·연애 모험담(romance)'에서. '로망스 같은'이 핵심. romance(연애·로맨스)가 명사.",
+  "deriv": "Rome(로마) -> romance(연애담) -> 'romantic(낭만적인)'. 연애 '로맨틱한(a romantic dinner)' -> 공상 '비현실적인(romantic ideals)' -> 예술 '낭만주의의(the Romantic poets)'. romance(연애)·romantically가 파생. 한국 학습자: romantic(연애의·낭만적)과 romance(연애·로맨스 소설). a romantic relationship(연인 관계), a hopeless romantic(어쩔 수 없는 낭만주의자), Romance languages(로망스어, 라틴어에서 갈린 프랑스·스페인·이탈리아어). realistic(현실적인)이 일부 반의.",
+  "syn": ["loving(애정 어린)", "idealistic(이상주의적인)", "dreamy(공상적인)"],
+  "anti": ["unromantic(낭만 없는)", "realistic(현실적인)", "practical(실용적인)"],
+  "idiom": ["a hopeless romantic(못 말리는 낭만주의자)", "Romance languages(로망스어군)", "a romantic getaway(낭만적 여행)"],
+  "colloc": ["romantic relationship(연애 관계)", "romantic dinner(낭만적 저녁)", "romantic comedy(로맨틱 코미디)"],
+  "ex_add": "They had a romantic dinner by candlelight.  (romantic=낭만적인)"
+ },
+ {
+  "num": "2054",
+  "hw": "rope",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "여러 가닥을 꼰 굵은 '밧줄'.",
+  "senses": [
+   "1) 밧줄·로프",
+   "2) (the ropes) 요령·내막",
+   "3) (동사) 밧줄로 묶다·꾀어들이다"
+  ],
+  "etym": "고대 영어 rāp(밧줄). 게르만어 계열(독일어 Reep). '꼬아 만든 굵은 줄'이 핵심. stirrup(등자, '오르는 밧줄')에 흔적이 남음.",
+  "deriv": "'밧줄' -> 'the ropes(요령, 뱃사람이 밧줄 다루는 법에서)' -> 동사 'rope in(끌어들이다)'. 한국 학습자: learn/know the ropes(요령을 익히다·꿰뚫다, 항해에서 밧줄 다루기), show someone the ropes(일을 가르쳐 주다), on the ropes(궁지에 몰린, 권투에서 로프에 몰림), at the end of one's rope(한계에 다다른), jump rope(줄넘기). cord(가는 줄)·string(끈)보다 굵음.",
+  "syn": ["cord(줄)", "cable(케이블)", "line(줄)"],
+  "anti": [],
+  "idiom": ["learn the ropes(요령을 배우다)", "show someone the ropes(일을 가르쳐 주다)", "on the ropes(궁지에 몰린)", "at the end of one's rope(인내심의 한계에 이른)"],
+  "colloc": ["thick rope(굵은 밧줄)", "tie a rope(밧줄을 묶다)", "climbing rope(등반용 로프)"],
+  "ex_add": "It takes a few weeks to learn the ropes in a new job.  (learn the ropes=요령을 익히다)"
+ },
+ {
+  "num": "2055",
+  "hw": "rough",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "표면이 '거친' -> 대강의·험한.",
+  "senses": [
+   "1) (표면이) 거친·울퉁불퉁한",
+   "2) 대략의·대강의",
+   "3) 힘든·험한·난폭한"
+  ],
+  "etym": "고대 영어 rūh(털이 많은·거친). 게르만어 계열(독일어 rauh). '매끄럽지 않은'이 핵심. roughly(대략·거칠게)·roughen(거칠게 하다)이 파생. gh는 묵음 /rʌf/.",
+  "deriv": "'거친(rough skin)' -> '대강의(a rough estimate, 대략적 추정)' -> '힘든(a rough day)·난폭한(rough play)'. roughly(대략·거칠게)가 부사. 한국 학습자: rough의 gh는 /f/ 발음(/rʌf/) — tough·enough처럼. a rough idea(대략적 생각), rough and ready(투박하지만 쓸 만한), rough it(불편을 견디며 지내다), a rough patch(힘든 시기), take the rough with the smooth(좋을 때나 나쁠 때나 받아들이다). smooth(매끄러운, 2099)가 반의.",
+  "syn": ["coarse(거친)", "approximate(대략의)", "harsh(험한)"],
+  "anti": ["smooth(매끄러운)", "exact(정확한)", "gentle(부드러운)"],
+  "idiom": ["a rough idea(대략적인 생각)", "rough and ready(투박해도 쓸 만한)", "rough it(불편을 감수하다)", "a rough patch(힘든 시기)"],
+  "colloc": ["rough surface(거친 표면)", "rough estimate(대략적 추정)", "rough draft(초고)"],
+  "ex_add": "Can you give me a rough estimate of the cost?  (rough=대략의)"
+ },
+ {
+  "num": "2056",
+  "hw": "row",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "①가지런한 '줄·열' ②노를 '젓다' ③(영) 말다툼.",
+  "senses": [
+   "1) (row1) 줄·열·좌석 줄",
+   "2) (row2 /roʊ/) (동사) 노를 젓다",
+   "3) (row3 /raʊ/) (영) 말다툼·소동"
+  ],
+  "etym": "①row(줄)은 고대 영어 rāw(열). ②row(노 젓다)는 고대 영어 rōwan. ③row(말다툼, /raʊ/)는 18세기 어원 불명. 셋 다 철자가 같으나 ③은 발음이 다름.",
+  "deriv": "①'줄(the front row, 맨 앞줄)' -> '연속(three days in a row, 사흘 연속)'. ②'노를 젓다(row a boat)'. ③영국 구어 '말다툼(have a row)'. 한국 학습자: ①②는 /roʊ/, ③은 /raʊ/(now와 같은 운). in a row(연달아·일렬로), a front-row seat(특등석·가까이서 보는 자리), Death Row(사형수 감방). ②는 paddle(외날 노로 젓다)과 구별 — row는 양날 노.",
+  "syn": ["line(줄)", "rank(열)", "quarrel(말다툼)"],
+  "anti": [],
+  "idiom": ["in a row(연달아·일렬로)", "a front-row seat(가까이서 보는 자리)", "a hard row to hoe(힘든 일)", "have a row(말다툼하다)"],
+  "colloc": ["front row(앞줄)", "back row(뒷줄)", "row a boat(보트를 젓다)"],
+  "ex_add": "Our team has won three games in a row.  (in a row=연달아)"
+ },
+ {
+  "num": "2057",
+  "hw": "royal",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "왕에 관한 = 왕의·왕실의 -> 당당한·성대한.",
+  "senses": [
+   "1) 왕의·왕실의·국왕의",
+   "2) 왕족의",
+   "3) 당당한·성대한 / (the royals) 왕족"
+  ],
+  "etym": "고대 프랑스어 roial < 라틴어 regalis < rex(왕, 속격 regis). '왕에게 속한'이 핵심. regal(제왕다운)·reign(통치)·regent(섭정)·rule(2058)·regular(2018)가 같은 rex/regere(왕·다스리다) 뿌리.",
+  "deriv": "rex(왕) -> 'royal(왕의)'. '왕실의(the royal family, 왕실)' -> 명사 'the royals(왕족)' -> 비유 '성대한(a royal welcome, 융숭한 환대)'. rex/regere 뿌리로 regal·reign·rule(2058)·regular와 묶인다 — royal과 rule이 한 뿌리! royalty(왕족·인세)가 파생. 한국 학습자: the royal family(왕실), a royal wedding(왕실 결혼), royal blue(군청색), the royal we(군주의 위엄 있는 '우리'). regal(격식)과 동의어.",
+  "syn": ["regal(제왕의)", "kingly(왕다운)", "imperial(황실의)"],
+  "anti": ["common(평민의)", "ordinary(보통의)"],
+  "idiom": ["the royal family(왕실)", "a royal welcome(융숭한 환대)", "the royal we(위엄의 우리)", "royalty(왕족·인세)"],
+  "colloc": ["royal family(왕실)", "royal palace(왕궁)", "royal wedding(왕실 결혼식)"],
+  "ex_add": "The royal family appeared on the balcony.  (royal=왕실의)"
+ },
+ {
+  "num": "2058",
+  "hw": "rule",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "따라야 할 '규칙' -> 다스리다·지배하다.",
+  "senses": [
+   "1) 규칙·규정",
+   "2) 통상의 관례·원칙",
+   "3) (동사) 다스리다·지배하다 / 판결하다"
+  ],
+  "etym": "라틴어 regula(자·기준) < regere(이끌다·다스리다). '곧게 이끄는 기준'이 핵심. royal(왕의, 2057)·regular(규칙적인, 2018)·direct(곧은, 1658)·region(지역)이 같은 regere(다스리다) 뿌리.",
+  "deriv": "regere(다스리다) -> 'rule'. '규칙(break the rules)' -> '관례(as a rule, 대체로)' -> 동사 '다스리다(rule a country)·판결하다(the court ruled)'. regere 뿌리로 royal·regular·direct·region과 묶인다 — rule과 royal이 형제어. ruler(통치자·자)가 파생. 한국 학습자: as a rule(통상·대체로), rule out(배제하다), rule of thumb(어림법), bend the rules(융통성을 발휘하다), break the rules(규칙을 어기다), the exception that proves the rule(예외가 규칙을 증명한다).",
+  "syn": ["regulation(규정)", "govern(다스리다)", "principle(원칙)"],
+  "anti": ["exception(예외)", "obey(복종하다)"],
+  "idiom": ["as a rule(대체로)", "rule out(배제하다)", "rule of thumb(경험 법칙)", "bend the rules(규칙을 융통성 있게 적용하다)"],
+  "colloc": ["break the rules(규칙을 어기다)", "follow the rules(규칙을 따르다)", "rule a country(나라를 다스리다)"],
+  "ex_add": "As a rule, I don't lend money to friends.  (as a rule=대체로)"
+ },
+ {
+  "num": "2059",
+  "hw": "safety",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "해를 입지 않는 '안전(함)'.",
+  "senses": [
+   "1) 안전·무사함",
+   "2) 안전성·안전 장치",
+   "3) (the ~) 안전한 곳"
+  ],
+  "etym": "safe(안전한) + -ty. safe < 라틴어 salvus(다치지 않은·온전한). '온전히 무사한'이 핵심. save(구하다)·salvage(구조)·salvation(구원)·salute(인사)가 같은 salvus(온전한) 뿌리.",
+  "deriv": "salvus(온전한) -> safe(안전한) -> 'safety(안전)'. '무사함(reach safety)' -> '안전 장치(a safety pin, 안전핀)'. salvus 뿌리로 save·salvage·salvation과 묶인다. 한국 학습자: for safety('s sake)(안전을 위해), safety first(안전 제일), in the safety of(~의 안전한 품에서), a safety net(안전망), road safety(교통안전). danger(위험)가 반의. safe(형용사)/safety(명사) 짝.",
+  "syn": ["security(안전)", "protection(보호)", "well-being(안녕)"],
+  "anti": ["danger(위험)", "risk(위험)", "hazard(위험 요소)"],
+  "idiom": ["safety first(안전 제일)", "a safety net(안전망)", "for safety's sake(안전을 위해)", "there's safety in numbers(여럿이면 안전하다)"],
+  "colloc": ["road safety(교통안전)", "safety measures(안전 조치)", "public safety(공공 안전)"],
+  "ex_add": "The safety of the passengers is our top priority.  (safety=안전)"
+ },
+ {
+  "num": "2060",
+  "hw": "sail",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "돛을 달고 '배로 나아가다' -> 돛·항해.",
+  "senses": [
+   "1) 항해하다·배로 가다",
+   "2) (배를) 몰다·출항하다",
+   "3) (n.) 돛 / (비유) 미끄러지듯 나아가다"
+  ],
+  "etym": "고대 영어 segl(돛). 게르만어 계열(독일어 Segel). '바람을 받는 천(돛)'이 핵심. sailor(선원, 2061)·sailing(항해)이 파생.",
+  "deriv": "'돛' -> 동사 '항해하다(sail across the ocean)' -> 비유 '미끄러지듯 나아가다(sail through the exam, 시험을 가뿐히 통과하다)'. sailor(선원, 2061)·sailing(항해)·sailboat(돛단배)가 파생. 한국 학습자: set sail(출항하다), sail through(가뿐히 해내다·통과하다), plain sailing(순조로운 진행), sail close to the wind(아슬아슬하게 굴다), take the wind out of someone's sails(기를 꺾다). 발음 sail = sale(판매)과 동음.",
+  "syn": ["cruise(항해하다)", "navigate(항해하다)", "voyage(항해)"],
+  "anti": ["dock(정박하다)", "anchor(닻을 내리다)"],
+  "idiom": ["set sail(출항하다)", "sail through(가뿐히 통과하다)", "plain sailing(순조로운 일)", "sail close to the wind(위험을 무릅쓰다)"],
+  "colloc": ["sail a boat(배를 몰다)", "set sail(출항하다)", "sail around the world(세계 일주 항해를 하다)"],
+  "ex_add": "They sailed across the Atlantic in three weeks.  (sail=항해하다)"
+ },
+ {
+  "num": "2061",
+  "hw": "sailor",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "배를 타고 일하는 사람 = 선원·뱃사람.",
+  "senses": [
+   "1) 선원·뱃사람",
+   "2) 해군 병사·수병",
+   "3) 요트를 모는 사람"
+  ],
+  "etym": "sail(항해하다, 고대 영어 segl 돛) + -or(~하는 사람). sail(2060)과 한 가족. '돛배를 다루는 사람'이 핵심.",
+  "deriv": "sail(항해하다) -> 'sailor(선원)'. '뱃사람(an experienced sailor)' -> 해군 '수병'. 한국 학습자: a good/bad sailor(배멀미를 안 하는/하는 사람), a sailor suit(세일러복), sailors' knots(선원 매듭). seaman·mariner와 유의어. -or 행위자 접미사(actor, sailor, tailor). 직업 무리 — captain(선장)·crew(선원들)·sailor(선원).",
+  "syn": ["seaman(선원)", "mariner(뱃사람)", "seafarer(항해자)"],
+  "anti": ["landlubber(뭍사람)"],
+  "idiom": ["a good sailor(뱃멀미를 안 하는 사람)", "a sailor suit(세일러복)"],
+  "colloc": ["experienced sailor(노련한 선원)", "young sailor(젊은 선원)", "sailor's life(뱃사람의 삶)"],
+  "ex_add": "The old sailor told stories of his voyages.  (sailor=선원)"
+ },
+ {
+  "num": "2062",
+  "hw": "sand",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "잘게 부서진 돌가루 '모래'.",
+  "senses": [
+   "1) 모래",
+   "2) (the sands) 모래밭·사장",
+   "3) (동사) 사포로 문지르다"
+  ],
+  "etym": "고대 영어 sand(모래). 게르만어 계열(독일어 Sand). '잘게 부서진 알갱이'가 핵심. sandy(모래투성이의)·sandpaper(사포)가 파생.",
+  "deriv": "'모래' -> 'the sands(모래밭)' -> 동사 '사포질하다(sand the wood)'. sandy(모래의)·sandcastle(모래성)·sandpaper(사포)가 파생. 한국 학습자: bury one's head in the sand(현실을 외면하다, 타조처럼), the sands of time(흘러가는 세월), build on sand(모래 위에 짓다·기반이 부실하다), a sandbar(모래톱). quicksand(유사), sandstorm(모래폭풍).",
+  "syn": ["grit(잔모래)", "grains(모래알)"],
+  "anti": [],
+  "idiom": ["bury one's head in the sand(현실을 외면하다)", "the sands of time(세월)", "build on sand(불안정한 기반 위에 세우다)", "a line in the sand(넘지 말아야 할 선)"],
+  "colloc": ["fine sand(고운 모래)", "golden sand(금빛 모래)", "grain of sand(모래 한 알)"],
+  "ex_add": "The children built a castle in the sand.  (sand=모래)"
+ },
+ {
+  "num": "2063",
+  "hw": "scan",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "쭉 '훑어보다' -> 정밀 촬영·판독하다.",
+  "senses": [
+   "1) (빠르게) 훑어보다·살피다",
+   "2) 자세히 살펴보다·정밀 검사하다",
+   "3) (기계로) 스캔하다·판독하다"
+  ],
+  "etym": "라틴어 scandere(기어오르다·운율을 따지다). 본래 시의 '운율을 한 음절씩 짚어 봄'에서 '훑어봄'으로. ascend(오르다)·descend(내려가다)·scale과 먼 친척.",
+  "deriv": "'운율을 짚다 -> 훑다' -> 빠르게 '훑어보다(scan the headlines)' -> 꼼꼼히 '살피다(scan the horizon)' -> 기계로 '스캔하다(scan a document)'. scanner(스캐너)가 파생. 한국 학습자: scan이 '대충 훑다'(skim과 유의)와 '정밀 검사하다·스캔하다'(brain scan, 뇌 정밀 촬영) 상반된 듯한 두 뜻 — 둘 다 '쭉 짚어 봄'. scan through(훑어보다), a barcode scanner(바코드 스캐너), a CT scan(CT 촬영). skim(대충 읽다)과 유의.",
+  "syn": ["skim(훑어보다)", "examine(살피다)", "scrutinize(정밀 검사하다)"],
+  "anti": ["pore over(정독하다)"],
+  "idiom": ["scan through(훑어보다)", "scan the horizon(수평선을 살피다)"],
+  "colloc": ["scan a document(문서를 스캔하다)", "quickly scan(재빨리 훑어보다)", "brain scan(뇌 정밀 검사)"],
+  "ex_add": "She scanned the page for the key information.  (scan=훑어보다)"
+ },
+ {
+  "num": "2064",
+  "hw": "scientific",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "과학에 바탕을 둔 = 과학의·과학적인.",
+  "senses": [
+   "1) 과학의·과학에 관한",
+   "2) 과학적인·체계적인",
+   "3) 정밀한·엄밀한"
+  ],
+  "etym": "science(과학) + -ific. science < 라틴어 scientia(앎) < scire(알다). '앎에 바탕을 둔'이 핵심. conscience(양심, '함께 앎')·conscious(의식하는)·omniscient(전지의)가 같은 scire(알다) 뿌리.",
+  "deriv": "scire(알다) -> science(과학) -> 'scientific(과학적인)'. '과학의(scientific research)' -> '체계적인(a scientific approach)'. scire(알다) 뿌리로 conscience·conscious와 묶인다. scientifically(과학적으로)·scientist(과학자)가 파생. 한국 학습자: scientific method(과학적 방법), scientific evidence(과학적 증거), scientific community(과학계). science(명사)/scientific(형용사)/scientist(사람) 가족. unscientific(비과학적인)이 반의.",
+  "syn": ["systematic(체계적인)", "methodical(질서정연한)", "empirical(실증적인)"],
+  "anti": ["unscientific(비과학적인)", "intuitive(직관적인)"],
+  "idiom": ["scientific method(과학적 방법론)", "scientific evidence(과학적 증거)"],
+  "colloc": ["scientific research(과학 연구)", "scientific discovery(과학적 발견)", "scientific approach(과학적 접근)"],
+  "ex_add": "There's no scientific evidence to support that claim.  (scientific=과학적인)"
+ },
+ {
+  "num": "2065",
+  "hw": "script",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "'써 둔 글' = 대본·각본 / 문자.",
+  "senses": [
+   "1) (영화·연극) 대본·각본",
+   "2) 손으로 쓴 글씨·필기체",
+   "3) 문자·서체 / (컴퓨터) 스크립트"
+  ],
+  "etym": "라틴어 scriptum(쓰인 것) < scribere(쓰다). '써 놓은 것'이 핵심. describe(묘사하다)·prescribe(처방하다)·subscribe(구독하다)·manuscript(원고)·describe가 같은 scribere(쓰다) 뿌리.",
+  "deriv": "scribere(쓰다) -> 'script'. 영상 '대본(a movie script)' -> '필기체(elegant script)' -> '문자(Arabic script)' -> 컴퓨터 '스크립트'. scribere 뿌리로 describe·prescribe·subscribe·manuscript와 묶인다. 한국 학습자: script(대본·문자)와 scribble(휘갈겨 쓰다)·scribe(필경사)가 한 가족. write a script(대본을 쓰다), stick to the script(대본대로 하다·정해진 대로 하다), go off script(즉흥적으로 벗어나다). subscript/superscript(아래/위 첨자).",
+  "syn": ["screenplay(영화 각본)", "text(원문)", "handwriting(필체)"],
+  "anti": [],
+  "idiom": ["stick to the script(정해진 대로 하다)", "go off script(즉흥적으로 벗어나다)", "flip the script(상황을 뒤집다)"],
+  "colloc": ["movie script(영화 대본)", "write a script(대본을 쓰다)", "original script(원본 대본)"],
+  "ex_add": "The actors memorized their lines from the script.  (script=대본)"
+ },
+ {
+  "num": "2066",
+  "hw": "sculpture",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "돌·금속을 '깎아 빚은' 조각(작품).",
+  "senses": [
+   "1) 조각(작품)",
+   "2) 조각 예술",
+   "3) (동사) 조각하다"
+  ],
+  "etym": "라틴어 sculptura < sculpere(깎다·새기다). '깎아 새김'이 핵심. sculptor(조각가)·sculpt(조각하다)가 파생.",
+  "deriv": "sculpere(깎다) -> 'sculpture(조각)'. 작품 '조각상(a marble sculpture, 대리석 조각)' -> 예술 '조각 (분야)'. sculptor(조각가)·sculpt(조각하다)가 파생. 한국 학습자: sculpture(조각·조각상)와 statue(입상, 2117)·carving(새김 작품)의 결 차이 — sculpture는 매체·기법 폭이 넓음. an ice sculpture(얼음 조각), a bronze sculpture(청동 조각). painting(회화)·sculpture(조각)가 미술의 두 갈래.",
+  "syn": ["statue(조각상)", "carving(조각품)", "figure(상)"],
+  "anti": [],
+  "idiom": ["a piece of sculpture(조각 작품 한 점)", "an ice sculpture(얼음 조각)"],
+  "colloc": ["modern sculpture(현대 조각)", "bronze sculpture(청동 조각)", "marble sculpture(대리석 조각)"],
+  "ex_add": "The museum displays sculptures from ancient Greece.  (sculpture=조각)"
+ },
+ {
+  "num": "2067",
+  "hw": "secondary",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "첫째에 '뒤따르는' = 부차적인·이차의 / 중등의.",
+  "senses": [
+   "1) 부차적인·이차적인",
+   "2) 중등의 (secondary school)",
+   "3) 파생적인·간접적인"
+  ],
+  "etym": "라틴어 secundarius < secundus(둘째의) < sequi(뒤따르다). '뒤따라오는 둘째'가 핵심. second(둘째)·sequence(순서)·consequence(귀결, 1611)·subsequent(다음의)가 같은 sequi(따르다) 뿌리.",
+  "deriv": "sequi(따르다) -> secundus(둘째) -> 'secondary'. '부차적인(of secondary importance, 부차적 중요성)' -> '중등의(secondary education, 중등 교육)'. sequi(따르다) 뿌리로 second·sequence·consequence와 묶인다. 한국 학습자: secondary school(중·고등학교, 영국), secondary importance(부차적 중요성), secondary source(2차 자료), be secondary to(~보다 부차적이다). primary(주된, 1979)가 반의 — primary/secondary 짝.",
+  "syn": ["minor(부차적인)", "subordinate(종속적인)", "lesser(덜 중요한)"],
+  "anti": ["primary(주된)", "main(주요한)", "principal(으뜸의)"],
+  "idiom": ["secondary school(중등학교)", "of secondary importance(부차적인)", "be secondary to(~보다 덜 중요하다)"],
+  "colloc": ["secondary education(중등 교육)", "secondary source(2차 자료)", "secondary effect(부차적 효과)"],
+  "ex_add": "For her, money is secondary to happiness.  (secondary to=~보다 부차적인)"
+ },
+ {
+  "num": "2068",
+  "hw": "security",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "'걱정 없는' 상태 = 보안·안전·안정.",
+  "senses": [
+   "1) 보안·경비",
+   "2) 안전·안정(감)",
+   "3) 담보 / (securities) 유가증권"
+  ],
+  "etym": "라틴어 securitas < securus = se(없이) + cura(걱정·돌봄). '걱정이 없음'이 핵심. secure(안전한)·sure(확신하는, 2136 surely)·curious(궁금한)·cure(치료)가 같은 cura(돌봄) 뿌리.",
+  "deriv": "se(없이) + cura(걱정) -> 'security'. '보안(airport security, 공항 보안)' -> '안정감(job security, 고용 안정)' -> 금융 '담보·증권'. cura(돌봄) 뿌리로 secure·sure·cure와 묶인다. 한국 학습자: national security(국가 안보), job security(고용 안정), a sense of security(안정감), security guard(경비원), social security(사회 보장). insecurity(불안)가 반의. secure(형용사)/security(명사) 짝.",
+  "syn": ["safety(안전)", "protection(보호)", "stability(안정)"],
+  "anti": ["insecurity(불안)", "danger(위험)", "vulnerability(취약성)"],
+  "idiom": ["a sense of security(안정감)", "job security(고용 안정)", "a false sense of security(헛된 안도감)"],
+  "colloc": ["national security(국가 안보)", "security guard(경비원)", "tight security(삼엄한 경비)"],
+  "ex_add": "Airport security has become much stricter.  (security=보안)"
+ },
+ {
+  "num": "2069",
+  "hw": "seed",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "식물이 싹트는 '씨앗' -> 근원·계기.",
+  "senses": [
+   "1) 씨·씨앗·종자",
+   "2) (비유) (~의) 씨앗·발단",
+   "3) (스포츠) 시드 배정 선수"
+  ],
+  "etym": "고대 영어 sǣd(씨). sow(씨를 뿌리다)와 한 게르만 뿌리. '뿌려 싹트는 알갱이'가 핵심. seedling(묘목)·seedy(씨가 많은·허름한)가 파생.",
+  "deriv": "'씨앗' -> 비유 '발단(the seeds of doubt, 의심의 씨앗)' -> 스포츠 '시드(the top seed, 1번 시드)'. sow(뿌리다)와 한 가족. 한국 학습자: plant the seeds of(~의 씨앗을 뿌리다), go to seed(씨가 맺히다·쇠퇴하다), a seedy area(허름한 동네), sow the seeds of(~의 발단을 만들다). seedless(씨 없는, seedless grapes 씨 없는 포도). 토너먼트의 seed(강팀을 분산 배치한 순위).",
+  "syn": ["grain(낟알)", "kernel(알맹이)", "germ(싹·근원)"],
+  "anti": [],
+  "idiom": ["plant the seeds of(~의 씨앗을 뿌리다)", "go to seed(쇠락하다)", "sow the seeds of(~의 발단이 되다)"],
+  "colloc": ["plant a seed(씨를 심다)", "sunflower seed(해바라기씨)", "seeds of doubt(의심의 씨앗)"],
+  "ex_add": "Plant the seeds about two centimeters deep.  (seed=씨앗)"
+ },
+ {
+  "num": "2070",
+  "hw": "sensible",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "분별 있게 '느껴 판단하는' = 분별 있는·현명한.",
+  "senses": [
+   "1) 분별 있는·합리적인·현명한",
+   "2) (옷·신발이) 실용적인",
+   "3) (격식) 알아챌 만한"
+  ],
+  "etym": "라틴어 sensibilis < sentire(느끼다·분별하다). '잘 느껴 판단하는'이 핵심. sense(감각·분별)·sensitive(민감한)·sentiment(정서)·consent(동의)가 같은 sentire(느끼다) 뿌리.",
+  "deriv": "sentire(느끼다) -> sense(분별) -> 'sensible(분별 있는)'. '현명한(a sensible decision)' -> 옷 '실용적인(sensible shoes)'. sentire 뿌리로 sense·sensitive·sentiment·consent와 묶인다. 한국 학습자 최다 혼동: sensible(분별 있는, 판단력)과 sensitive(민감한, 감수성)는 전혀 다름! a sensible choice(현명한 선택) vs a sensitive issue(민감한 사안). be sensible about(~에 대해 분별 있게 굴다). foolish(어리석은)가 반의.",
+  "syn": ["reasonable(합리적인)", "wise(현명한)", "practical(실용적인)"],
+  "anti": ["foolish(어리석은)", "silly(어리석은)", "irrational(비이성적인)"],
+  "idiom": ["a sensible decision(현명한 결정)", "be sensible about(~에 분별 있게 대처하다)"],
+  "colloc": ["sensible choice(현명한 선택)", "sensible advice(분별 있는 조언)", "perfectly sensible(아주 합리적인)"],
+  "ex_add": "It would be sensible to book the tickets early.  (sensible=현명한)"
+ },
+ {
+  "num": "2071",
+  "hw": "separate",
+  "pos": "adj., v.",
+  "cefr": "B1",
+  "core": "따로 '떼어 놓은' = 별개의 -> 분리하다.",
+  "senses": [
+   "1) (형) 별개의·따로 떨어진",
+   "2) (동사) 분리하다·갈라놓다",
+   "3) (동사) 헤어지다·갈라서다"
+  ],
+  "etym": "라틴어 separare = se(따로·떨어져) + parare(갖추다·마련하다). '따로 떼어 놓음'이 핵심. parare(갖추다) 뿌리로 prepare(준비하다)·repair(수리하다, 2034)·apparatus가 묶인다. se-(따로)는 secure·select의 그 접두사.",
+  "deriv": "se(따로) + parare(갖추다) -> 'separate'. 형용사 '별개의(a separate issue)' -> 동사 '분리하다(separate the eggs)·헤어지다(They separated)'. parare 뿌리로 prepare·repair와 묶인다. separation(분리)·separately(따로)가 파생. 한국 학습자: 형용사 separate(/ˈseprət/)와 동사 separate(/ˈsepəreɪt/)의 발음 차이! separate A from B(A를 B에서 분리하다), go separate ways(각자의 길을 가다). 철자 주의 — sep-A-rate(par 아님). join(합치다)이 반의.",
+  "syn": ["distinct(별개의)", "divide(나누다)", "split(쪼개다)"],
+  "anti": ["join(합치다)", "combine(결합하다)", "together(함께의)"],
+  "idiom": ["go their separate ways(각자의 길을 가다)", "separate A from B(A를 B와 분리하다)", "separate the wheat from the chaff(옥석을 가리다)"],
+  "colloc": ["separate rooms(따로 떨어진 방)", "keep separate(따로 두다)", "separate into groups(여러 그룹으로 나누다)"],
+  "ex_add": "Please keep these documents separate from the others.  (separate=별개의)"
+ },
+ {
+  "num": "2072",
+  "hw": "seriously",
+  "pos": "adv.",
+  "cefr": "B1",
+  "core": "가볍지 않게 '진지하게·심각하게'.",
+  "senses": [
+   "1) 진지하게·진심으로",
+   "2) 심각하게·중하게",
+   "3) (문장 첫머리) 정말이지·진담인데"
+  ],
+  "etym": "serious(진지한) + -ly. serious < 라틴어 serius(무거운·진지한). '무게 있게'가 핵심. seriousness(심각성)가 파생.",
+  "deriv": "serius(진지한) -> serious -> 'seriously'. '진지하게(take it seriously, 진지하게 받아들이다)' -> '심각하게(seriously injured, 중상을 입은)' -> 문두 'Seriously?(진짜야?)'. 한국 학습자: take ~ seriously(~을 진지하게 여기다), seriously ill(중병의), Seriously?(설마·진심?, 놀람·의심), seriously consider(진지하게 고려하다). 회화에서 Seriously로 놀람·강조를 자주 표현. serious(형용사)/seriously(부사) 짝. casually(가볍게)가 반의.",
+  "syn": ["earnestly(진지하게)", "gravely(심각하게)", "genuinely(진심으로)"],
+  "anti": ["casually(가볍게)", "jokingly(농담으로)", "lightly(가볍게)"],
+  "idiom": ["take seriously(진지하게 받아들이다)", "Seriously?(진심이야?)", "seriously injured(중상을 입은)"],
+  "colloc": ["take seriously(진지하게 여기다)", "seriously consider(진지하게 고려하다)", "seriously ill(중병의)"],
+  "ex_add": "You need to take this problem seriously.  (take ~ seriously=~을 진지하게 여기다)"
+ },
+ {
+  "num": "2073",
+  "hw": "servant",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "남을 '시중드는' 사람 = 하인·고용인.",
+  "senses": [
+   "1) 하인·고용인·종",
+   "2) (공직) 공무원 (civil servant)",
+   "3) (비유) ~에 봉사하는 것"
+  ],
+  "etym": "라틴어 servire(섬기다·시중들다) < servus(노예). '섬기는 사람'이 핵심. serve(봉사하다)·service(서비스)·deserve(받을 만하다)·slave(노예, 2095)와 의미상 연결되는 servus(노예) 뿌리.",
+  "deriv": "servire(섬기다) -> 'servant'. '하인(a loyal servant)' -> 공직 'civil servant(공무원)' -> 비유 '봉사하는 것'. servire/servus 뿌리로 serve·service·deserve와 묶인다 — slave(2095)도 종살이 어휘로 연결. 한국 학습자: a civil servant(공무원, 국가에 '봉사하는 사람'), a public servant(공복), Money is a good servant but a bad master(돈은 좋은 종이지만 나쁜 주인이다). master(주인)가 반의.",
+  "syn": ["attendant(시중드는 이)", "domestic(가사 도우미)", "helper(하인)"],
+  "anti": ["master(주인)", "employer(고용주)"],
+  "idiom": ["civil servant(공무원)", "public servant(공복)", "a faithful servant(충직한 종)"],
+  "colloc": ["loyal servant(충실한 하인)", "civil servant(공무원)", "household servant(가사 하인)"],
+  "ex_add": "She works as a civil servant for the government.  (servant=공무원)"
+ },
+ {
+  "num": "2074",
+  "hw": "set",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "어떤 자리에 '놓아 고정하다' -> 정하다·차리다 / 한 벌.",
+  "senses": [
+   "1) 놓다·두다·차리다",
+   "2) (값·시간을) 정하다 / (해가) 지다",
+   "3) (n.) 한 벌·세트 / (영화) 세트장"
+  ],
+  "etym": "고대 영어 settan(앉히다·놓다). sit(앉다)의 사역형 — '앉게 만들다'가 set. seat(좌석)·settle(자리 잡다)과 한 게르만 뿌리. '자리에 놓음'이 핵심.",
+  "deriv": "sit(앉다)의 사역 -> 'set(놓다)'. '놓다(set the vase down)' -> '정하다(set a date)' -> 해가 '지다(The sun sets)' -> 명사 '한 벌(a set of tools)'. set-set-set(불변). setting(배경, 2075)이 파생. 한국 학습자: set up(설치하다·세우다), set off(출발하다·유발하다), set out(착수하다·내놓다), set about(시작하다), all set(준비 완료), set in stone(확정된), set the table(상을 차리다). 다의어의 끝판왕.",
+  "syn": ["place(놓다)", "fix(정하다)", "group(한 벌)"],
+  "anti": ["rise(뜨다)", "remove(치우다)"],
+  "idiom": ["set up(설치하다)", "set off(출발하다·유발하다)", "set out(착수하다)", "all set(준비된)", "set in stone(불변의)"],
+  "colloc": ["set a date(날짜를 정하다)", "set the table(상을 차리다)", "a set of rules(일련의 규칙)"],
+  "ex_add": "Let's set a date for the next meeting.  (set=정하다)"
+ },
+ {
+  "num": "2075",
+  "hw": "setting",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "무대·이야기가 '놓인' 배경·환경 / (기계) 설정.",
+  "senses": [
+   "1) (이야기·사건의) 배경·무대",
+   "2) 환경·장소",
+   "3) (기계의) 설정(값) / 한 벌의 식기"
+  ],
+  "etym": "set(놓다, 고대 영어 settan) + -ing. set(2074)과 한 가족. '놓인 자리·배경'이 핵심.",
+  "deriv": "set(놓다) -> 'setting'. 이야기의 '배경(the setting of the novel)' -> '환경(a beautiful setting)' -> 기계 '설정(privacy settings, 개인정보 설정)'. set(2074)과 한 가족. 한국 학습자: setting이 소설·영화의 '배경(시공간)'과 기기의 '설정(settings)' 두 갈래. the perfect setting(완벽한 무대), default settings(기본 설정), in a clinical setting(임상 환경에서), a place setting(1인분 상차림). background(배경)와 유의어이나 setting은 '무대 전체'.",
+  "syn": ["background(배경)", "environment(환경)", "surroundings(주변)"],
+  "anti": [],
+  "idiom": ["the perfect setting(완벽한 무대)", "default settings(기본 설정)", "a place setting(1인분 식탁 세팅)"],
+  "colloc": ["natural setting(자연 환경)", "story setting(이야기 배경)", "change the settings(설정을 바꾸다)"],
+  "ex_add": "The novel is set in a rural setting in the 1800s.  (setting=배경)"
+ },
+ {
+  "num": "2076",
+  "hw": "sex",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "남녀를 '나눈' 구분 = 성(性)·성별.",
+  "senses": [
+   "1) 성별·암수",
+   "2) 성(性)·성생활",
+   "3) (생물) 성"
+  ],
+  "etym": "라틴어 sexus(성별). '둘로 나뉜 것(남/여)'으로 보아 secare(자르다)와 연결 짓기도. '나뉜 성'이 핵심. sexual(성의, 2077)·sexism(성차별)이 파생.",
+  "deriv": "sexus(성별) -> 'sex'. 구분 '성별(the opposite sex, 이성)' -> '성·성생활' -> 생물 '암수'. sexual(성의, 2077)·sexuality(성)·sexism(성차별)이 파생. 한국 학습자: sex(생물학적 성)와 gender(사회·문화적 성)의 구별이 현대 영어에서 중요. the opposite sex(이성), the fair sex(여성, 구식), sex education(성교육), single-sex school(남/녀 분리 학교). 설문 등에서 Sex: M/F(성별).",
+  "syn": ["gender(성별)", "intercourse(성관계)"],
+  "anti": [],
+  "idiom": ["the opposite sex(이성)", "the fair sex(여성)", "single-sex(남녀 분리의)"],
+  "colloc": ["the opposite sex(이성)", "sex education(성교육)", "both sexes(양성)"],
+  "ex_add": "The form asks for your name, age, and sex.  (sex=성별)"
+ },
+ {
+  "num": "2077",
+  "hw": "sexual",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "성(性)에 관한 = 성의·성적인.",
+  "senses": [
+   "1) 성의·성적인",
+   "2) 생식의·암수의",
+   "3) 성별의"
+  ],
+  "etym": "sex(성, 라틴어 sexus) + -ual. sex(2076)와 한 가족. '성에 관한'이 핵심.",
+  "deriv": "sex(성) -> 'sexual'. '성적인(sexual attraction, 성적 끌림)' -> 생물 '생식의(sexual reproduction, 유성 생식)'. sexually(성적으로)·sexuality(성적 취향)가 파생. 한국 학습자: sexual harassment(성희롱), sexual orientation(성적 지향), sexual equality(양성평등), sexual reproduction(유성 생식) vs asexual reproduction(무성 생식). sex(명사)/sexual(형용사) 짝. 사회·생물 양쪽 빈출어.",
+  "syn": ["erotic(성애의)", "reproductive(생식의)", "carnal(육체의)"],
+  "anti": ["asexual(무성의)", "platonic(정신적인)"],
+  "idiom": ["sexual harassment(성희롱)", "sexual orientation(성적 지향)", "sexual equality(양성평등)"],
+  "colloc": ["sexual attraction(성적 끌림)", "sexual harassment(성희롱)", "sexual relationship(성관계)"],
+  "ex_add": "The company has a strict policy against sexual harassment.  (sexual=성적인)"
+ },
+ {
+  "num": "2078",
+  "hw": "shake",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "좌우·위아래로 '흔들다·떨다'.",
+  "senses": [
+   "1) 흔들다·흔들리다",
+   "2) (몸이) 떨리다·동요하다",
+   "3) (n.) 흔듦 / 셰이크 음료"
+  ],
+  "etym": "고대 영어 sceacan(흔들다). 게르만어 계열. '진동시킴'이 핵심. shake-shook-shaken(불규칙). shaky(떨리는)·milkshake(밀크셰이크)가 파생.",
+  "deriv": "'흔들다(shake hands, 악수하다)' -> 몸이 '떨리다(shake with fear)' -> 명사 '셰이크'. shake-shook-shaken. shaky(불안정한)가 파생. 한국 학습자: shake hands(악수하다), shake one's head(고개를 젓다, no의 표시), shake off(떨쳐 내다), be shaken(충격받다), shake up(개편하다·동요시키다), in two shakes(곧·금방), no great shakes(별것 아닌). nod(고개를 끄덕이다, yes)와 대비.",
+  "syn": ["tremble(떨다)", "quiver(떨리다)", "wobble(흔들리다)"],
+  "anti": ["steady(안정시키다)", "still(가만히 있다)"],
+  "idiom": ["shake hands(악수하다)", "shake off(떨쳐 버리다)", "shake up(개편하다)", "no great shakes(대단찮은)", "in two shakes(눈 깜짝할 사이에)"],
+  "colloc": ["shake hands(악수하다)", "shake one's head(고개를 젓다)", "shake violently(심하게 흔들리다)"],
+  "ex_add": "They shook hands and introduced themselves.  (shake hands=악수하다)"
+ },
+ {
+  "num": "2079",
+  "hw": "share",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "한 몫씩 '나누어' 가지다·함께 쓰다.",
+  "senses": [
+   "1) 함께 쓰다·공유하다",
+   "2) 나누다·분담하다",
+   "3) (n.) 몫·지분 / (주식) 주(株)"
+  ],
+  "etym": "고대 영어 scearu(자른 부분·몫) < sceran(자르다). '잘라 나눈 몫'이 핵심. shear(가위질하다)·share·shore와 관련. '베어 나눔'.",
+  "deriv": "'잘라 나눈 몫' -> 동사 '공유하다(share a room)·나누다(share the cost)' -> 명사 '몫(my share)·주식(buy shares)'. shear(자르다)와 한 가족. 한국 학습자: share A with B(B와 A를 공유하다), do one's share(제 몫을 하다), the lion's share(가장 큰 몫), a fair share(정당한 몫), market share(시장 점유율), share price(주가). SNS의 share(공유하기). 명사로 '주식(stocks/shares)'도.",
+  "syn": ["divide(나누다)", "split(분담하다)", "portion(몫)"],
+  "anti": ["keep(독차지하다)", "hoard(쌓아 두다)"],
+  "idiom": ["the lion's share(가장 큰 몫)", "do one's share(제 몫을 하다)", "a fair share(정당한 몫)", "share and share alike(똑같이 나누다)"],
+  "colloc": ["share a room(방을 함께 쓰다)", "share information(정보를 공유하다)", "market share(시장 점유율)"],
+  "ex_add": "Would you like to share a pizza?  (share=함께 먹다·나누다)"
+ },
+ {
+  "num": "2080",
+  "hw": "sharp",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "끝이 '날카로운' -> 급격한·예리한·또렷한.",
+  "senses": [
+   "1) 날카로운·뾰족한",
+   "2) (변화가) 급격한·가파른",
+   "3) (머리·감각이) 예리한 / 또렷한 / (시간) 정각"
+  ],
+  "etym": "고대 영어 scearp(날카로운). 게르만어 계열(독일어 scharf). '베일 듯 날선'이 핵심. sharpen(날카롭게 하다)·sharply(날카롭게)가 파생.",
+  "deriv": "'날카로운(a sharp knife)' -> 변화 '급격한(a sharp rise, 급등)' -> 두뇌 '예리한(a sharp mind)' -> 시간 '정각(at 3 o'clock sharp)'. sharpen(갈다)·sharply(급격히)가 파생. 한국 학습자: sharp가 '날카로운'뿐 아니라 '급격한(a sharp drop)·예리한(sharp eyes)·정각(9 a.m. sharp)·(음악) 샵(#)'까지. a sharp tongue(독설), look sharp(서두르다·맵시 있다), sharp practice(부정한 수법). blunt/dull(무딘)이 반의.",
+  "syn": ["keen(예리한)", "abrupt(급격한)", "acute(날카로운)"],
+  "anti": ["blunt(무딘)", "dull(둔한)", "gradual(완만한)"],
+  "idiom": ["a sharp tongue(독설가)", "look sharp(서둘러)", "at ... sharp(정각 ~에)", "sharp practice(부정 행위)"],
+  "colloc": ["sharp knife(날카로운 칼)", "sharp rise(급등)", "sharp mind(예리한 두뇌)"],
+  "ex_add": "There was a sharp increase in prices last month.  (sharp=급격한)"
+ },
+ {
+  "num": "2081",
+  "hw": "shelf",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "물건을 올려놓는 '선반'.",
+  "senses": [
+   "1) 선반·책꽂이 칸",
+   "2) (상점) 진열대",
+   "3) (지질) 대륙붕·암붕"
+  ],
+  "etym": "중세 저지 독일어 schelf(선반). 게르만어 계열. '평평하게 댄 판'이 핵심. 복수형은 shelves(f->ves). shelve(선반에 얹다·보류하다)가 동사.",
+  "deriv": "'선반' -> 상점 '진열대(on the shelf)' -> 지질 'the continental shelf(대륙붕)'. 복수형 shelves(leaf->leaves처럼 -f->-ves). shelve(보류하다)·bookshelf(책장)가 파생. 한국 학습자: on the shelf(진열된·보류된·시집 못 간), off the shelf(기성품의·즉시 구입 가능한), shelf life(유통 기한), stack the shelves(선반에 채우다). 복수 shelves 철자 주의. bookshelf(책장).",
+  "syn": ["ledge(선반)", "rack(선반)", "stand(받침대)"],
+  "anti": [],
+  "idiom": ["off the shelf(기성품의)", "on the shelf(보류된·노처녀의)", "shelf life(유통 기한)"],
+  "colloc": ["top shelf(맨 위 칸)", "bookshelf(책장)", "supermarket shelf(슈퍼마켓 진열대)"],
+  "ex_add": "Could you put these books back on the shelf?  (shelf=선반, 복수 shelves)"
+ },
+ {
+  "num": "2082",
+  "hw": "shell",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "겉을 단단히 감싼 '껍데기·껍질' -> 포탄.",
+  "senses": [
+   "1) (조개·달걀·견과의) 껍데기·껍질",
+   "2) (건물의) 골조·외피",
+   "3) 포탄·탄피 / (동사) 껍질을 까다·포격하다"
+  ],
+  "etym": "고대 영어 sciell(껍데기). scale(비늘)·skull(두개골)·shale(혈암)과 한 게르만 뿌리. '얇고 단단한 겉껍질'이 핵심.",
+  "deriv": "'껍데기(an egg shell)' -> 건물 '골조' -> 군사 '포탄(an artillery shell)' -> 동사 '껍질을 까다(shell peas)'. shellfish(조개류·갑각류)·seashell(조가비)이 파생. 한국 학습자: come out of one's shell(마음을 열다·수줍음을 벗다), retreat into one's shell(움츠러들다), a shell of one's former self(예전 모습을 잃은 사람), shell out(거금을 내다, 구어). nutshell(견과 껍데기) -> in a nutshell(요컨대).",
+  "syn": ["casing(껍데기)", "husk(껍질)", "crust(외피)"],
+  "anti": ["core(알맹이)", "kernel(속)"],
+  "idiom": ["come out of one's shell(마음을 열다)", "in a nutshell(요컨대)", "shell out(거금을 쓰다)", "a shell of one's former self(예전 같지 않은 사람)"],
+  "colloc": ["egg shell(달걀 껍데기)", "sea shell(조가비)", "hard shell(단단한 껍데기)"],
+  "ex_add": "The turtle hid inside its shell.  (shell=껍데기)"
+ },
+ {
+  "num": "2083",
+  "hw": "shine",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "빛을 내거나 받아 '빛나다·비추다'.",
+  "senses": [
+   "1) 빛나다·반짝이다",
+   "2) (빛을) 비추다",
+   "3) (재능이) 두각을 나타내다 / 윤내다"
+  ],
+  "etym": "고대 영어 scinan(빛나다). 게르만어 계열(독일어 scheinen). '빛을 발함'이 핵심. shiny(반짝이는, 2084)·sheen(광택)이 파생. shine-shone-shone(빛나다) / shine-shined(윤내다).",
+  "deriv": "'빛나다(The sun shines)' -> '비추다(shine a light)' -> 비유 '두각을 나타내다(She shines at math)'. shiny(반짝이는, 2084)가 형용사. 한국 학습자: shine의 두 변화형 — '빛나다'는 shone, '구두를 닦다'는 shined. rain or shine(비가 오나 날이 개나), take a shine to(~이 마음에 들다), shine through(잘 드러나다), make hay while the sun shines(기회를 놓치지 마라). sunshine(햇빛).",
+  "syn": ["glow(빛나다)", "gleam(반짝이다)", "sparkle(반짝거리다)"],
+  "anti": ["dim(어두워지다)", "fade(흐려지다)"],
+  "idiom": ["rain or shine(날씨에 상관없이)", "take a shine to(~을 좋아하게 되다)", "shine through(잘 드러나다)", "make hay while the sun shines(기회를 살리다)"],
+  "colloc": ["sun shines(해가 비치다)", "shine brightly(밝게 빛나다)", "shine a light(빛을 비추다)"],
+  "ex_add": "The sun was shining brightly all day.  (shine=빛나다)"
+ },
+ {
+  "num": "2084",
+  "hw": "shiny",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "반들반들 '빛나는·윤이 나는'.",
+  "senses": [
+   "1) 빛나는·반짝이는",
+   "2) 윤이 나는·광택 있는",
+   "3) (새것처럼) 번쩍이는"
+  ],
+  "etym": "shine(빛나다, 고대 영어 scinan) + -y(형용사형). shine(2083)과 한 가족. '빛을 반사해 반들거리는'이 핵심.",
+  "deriv": "shine(빛나다) -> 'shiny(반짝이는)'. 'shiny hair(윤기 나는 머리), a shiny new car(번쩍이는 새 차)'. shine(2083)과 짝. 한국 학습자: shiny(반들반들 빛나는)와 bright(밝은)·glossy(광택지 같은)·sparkling(반짝이는)의 결 차이. shiny shoes(반짝이는 구두), a shiny surface(반들거리는 표면). dull/matte(광택 없는)가 반의. shiny가 새것·깨끗함의 인상을 줌.",
+  "syn": ["glossy(광택 있는)", "gleaming(반짝이는)", "polished(윤낸)"],
+  "anti": ["dull(칙칙한)", "matte(무광의)", "dim(흐릿한)"],
+  "idiom": ["shiny and new(번쩍이는 새것의)", "a shiny new toy(반짝이는 새 장난감)"],
+  "colloc": ["shiny hair(윤기 나는 머리카락)", "shiny surface(반들거리는 표면)", "bright and shiny(밝고 반짝이는)"],
+  "ex_add": "She has long, shiny black hair.  (shiny=윤기 나는)"
+ },
+ {
+  "num": "2085",
+  "hw": "shy",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "남 앞에서 '움츠러드는' = 수줍은·소심한.",
+  "senses": [
+   "1) 수줍은·부끄럼 타는",
+   "2) 소심한·겁 많은",
+   "3) (shy of/away) ~을 꺼리는·피하는"
+  ],
+  "etym": "고대 영어 sceoh(겁먹은·잘 놀라는). '쉽게 움츠러드는'이 핵심. shyness(수줍음)·shyly(수줍게)가 파생. eschew(피하다)와 먼 친척.",
+  "deriv": "'겁먹은' -> '수줍은(a shy child)' -> 'shy away from(~을 피하다)'. shyness(수줍음)가 명사. 한국 학습자: be shy of/about(~을 부끄러워하다), shy away from(~을 꺼려 피하다), camera-shy(카메라를 꺼리는), work-shy(일하기 싫어하는), once bitten, twice shy(자라 보고 놀란 가슴 솥뚜껑 보고 놀란다). outgoing(외향적인)·bold(대담한)이 반의. timid·bashful과 유의어.",
+  "syn": ["timid(소심한)", "bashful(수줍은)", "reserved(내성적인)"],
+  "anti": ["outgoing(외향적인)", "bold(대담한)", "confident(당당한)"],
+  "idiom": ["shy away from(~을 피하다)", "camera-shy(카메라를 꺼리는)", "once bitten, twice shy(한 번 데면 조심한다)", "work-shy(일을 기피하는)"],
+  "colloc": ["shy child(수줍은 아이)", "painfully shy(몹시 수줍은)", "shy smile(수줍은 미소)"],
+  "ex_add": "He was too shy to ask her name.  (shy=수줍은)"
+ },
+ {
+  "num": "2086",
+  "hw": "sight",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "눈으로 '봄' = 시력·시야 -> 광경·명소.",
+  "senses": [
+   "1) 시력·시야·봄",
+   "2) 광경·모습",
+   "3) (the sights) 명소·볼거리"
+  ],
+  "etym": "고대 영어 gesiht(봄·시각) < seon(보다). '보는 것·보이는 것'이 핵심. see(보다)·seer(예언자)와 한 게르만 뿌리.",
+  "deriv": "see(보다) -> 'sight'. '시력(lose one's sight)' -> '광경(a familiar sight)' -> 'the sights(명소, see the sights 관광하다)'. 한국 학습자: at first sight(첫눈에), in sight(보이는 곳에), out of sight(안 보이는), catch sight of(언뜻 보다), lose sight of(~을 놓치다·잊다), love at first sight(첫눈에 반함), sightseeing(관광), a sight for sore eyes(반가운 사람/것). 발음 sight = site(부지)·cite(인용)와 동음.",
+  "syn": ["vision(시력)", "view(광경)", "scene(장면)"],
+  "anti": ["blindness(실명)"],
+  "idiom": ["at first sight(첫눈에)", "out of sight(안 보이는)", "catch sight of(언뜻 보다)", "lose sight of(~을 잊다)", "love at first sight(첫눈에 반함)"],
+  "colloc": ["lose one's sight(시력을 잃다)", "common sight(흔한 광경)", "in sight(보이는 곳에)"],
+  "ex_add": "The mountains were a beautiful sight at sunset.  (sight=광경)"
+ },
+ {
+  "num": "2087",
+  "hw": "signal",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "뜻을 전하는 '신호' -> 신호를 보내다.",
+  "senses": [
+   "1) 신호·암시",
+   "2) (전파·전기) 신호",
+   "3) (동사) 신호를 보내다·나타내다"
+  ],
+  "etym": "라틴어 signalis < signum(표시·기호). '뜻을 알리는 표'가 핵심. sign(표시)·signature(서명)·design(설계)·assign(배정하다, 1513 assignment)·significant(중요한)이 같은 signum(표) 뿌리.",
+  "deriv": "signum(표) -> 'signal'. 명사 '신호(a warning signal)' -> 전파 '신호(a weak signal)' -> 동사 '신호하다(signal a turn)'. signum(표) 뿌리로 sign·signature·design·assign과 묶인다. 한국 학습자: send a signal(신호를 보내다), a signal of(~의 신호·징조), traffic signal(교통 신호), mixed signals(엇갈린 신호), a strong/weak signal(강한/약한 신호). sign(표지·징후)보다 signal은 '의도적으로 보내는 신호'.",
+  "syn": ["sign(신호)", "indication(징후)", "gesture(몸짓)"],
+  "anti": [],
+  "idiom": ["send a signal(신호를 보내다)", "mixed signals(엇갈린 신호)", "a warning signal(경고 신호)"],
+  "colloc": ["warning signal(경고 신호)", "weak signal(약한 신호)", "send a signal(신호를 보내다)"],
+  "ex_add": "The phone signal is very weak in the mountains.  (signal=신호)"
+ },
+ {
+  "num": "2088",
+  "hw": "silent",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "소리 없이 '조용한·말 없는'.",
+  "senses": [
+   "1) 조용한·고요한",
+   "2) 말이 없는·침묵하는",
+   "3) (글자가) 묵음의"
+  ],
+  "etym": "라틴어 silens < silere(조용하다·잠잠하다). '소리를 내지 않는'이 핵심. silence(침묵)·silently(조용히)가 파생.",
+  "deriv": "silere(조용하다) -> 'silent(조용한)'. '고요한(a silent room)' -> '말 없는(remain silent, 침묵을 지키다)' -> '묵음의(the silent k in knife)'. silence(침묵)·silently(조용히)가 파생. 한국 학습자: remain/keep silent(침묵을 지키다), fall silent(조용해지다), the silent treatment(말 안 하기·무시), a silent film(무성영화), silent letters(묵음, knife의 k·doubt의 b). loud·noisy(시끄러운)가 반의. quiet(조용한)보다 '소리가 전혀 없는'에 가까움.",
+  "syn": ["quiet(조용한)", "noiseless(소리 없는)", "speechless(말 없는)"],
+  "anti": ["loud(시끄러운)", "noisy(소란한)", "talkative(수다스러운)"],
+  "idiom": ["remain silent(침묵을 지키다)", "the silent treatment(말없이 무시하기)", "fall silent(조용해지다)", "silence is golden(침묵은 금이다)"],
+  "colloc": ["fall silent(조용해지다)", "silent prayer(묵상 기도)", "completely silent(완전히 고요한)"],
+  "ex_add": "The whole room fell silent when she entered.  (silent=조용한)"
+ },
+ {
+  "num": "2089",
+  "hw": "silly",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "철없이 '어리석은·우스꽝스러운'.",
+  "senses": [
+   "1) 어리석은·바보 같은",
+   "2) 유치한·우스꽝스러운",
+   "3) (정도가) 정신없을 만큼"
+  ],
+  "etym": "고대 영어 sǣlig(행복한·축복받은)에서. 놀랍게도 '복받은 -> 순진한 -> 어수룩한 -> 어리석은'으로 뜻이 정반대로 바뀐 단어! 의미 변화(악화)의 대표 사례. '천진해서 모자란'이 핵심.",
+  "deriv": "sǣlig(축복받은) -> 'silly(어리석은)' — 의미가 정반대로 추락한 흥미로운 예. '바보 같은(a silly mistake)' -> '유치한(silly games)' -> 강조 'bored silly(지루해 죽을 지경인)'. 한국 학습자: a silly question(바보 같은 질문), silly season(언론의 한산기·시시한 뉴스철), don't be silly(바보같이 굴지 마), the silly thing is(우스운 건), play silly(시치미 떼다). foolish·stupid와 유의어이나 silly가 더 가볍고 애교 섞임. sensible(분별 있는, 2070)이 반의.",
+  "syn": ["foolish(어리석은)", "stupid(멍청한)", "ridiculous(우스꽝스러운)"],
+  "anti": ["sensible(분별 있는)", "serious(진지한)", "wise(현명한)"],
+  "idiom": ["don't be silly(바보같이 굴지 마)", "the silly season(뉴스 한산기)", "bored silly(몹시 지루한)", "scared silly(겁에 질린)"],
+  "colloc": ["silly mistake(어이없는 실수)", "silly question(바보 같은 질문)", "look silly(우스워 보이다)"],
+  "ex_add": "Don't be silly — of course I'll help you.  (silly=바보 같은)"
+ },
+ {
+  "num": "2090",
+  "hw": "similarity",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "서로 '닮은' 점 = 유사성·공통점.",
+  "senses": [
+   "1) 유사성·비슷함",
+   "2) 공통점·닮은 점",
+   "3) 유사 정도"
+  ],
+  "etym": "similar(비슷한) + -ity. similar < 라틴어 similis(같은·닮은). '닮음'이 핵심. similar·simulate(흉내 내다)·assemble(모으다)·resemble(닮다)·simultaneous(동시의)가 같은 similis(같은) 뿌리.",
+  "deriv": "similis(닮은) -> similar -> 'similarity(유사성)'. '닮은 점(a striking similarity)' -> '공통점(similarities between A and B)'. similis 뿌리로 similar·resemble·assemble·simultaneous와 묶인다. 한국 학습자: similarity between A and B(A와 B의 유사점), bear a similarity to(~과 닮다), a close similarity(밀접한 유사성). difference(차이)가 반의. similar(형용사)/similarity(명사)/similarly(부사, 2091) 가족.",
+  "syn": ["resemblance(닮음)", "likeness(유사)", "parallel(유사점)"],
+  "anti": ["difference(차이)", "contrast(대조)", "dissimilarity(상이함)"],
+  "idiom": ["a striking similarity(놀라운 유사성)", "bear a similarity to(~과 닮다)", "similarities and differences(공통점과 차이점)"],
+  "colloc": ["close similarity(밀접한 유사성)", "striking similarity(현저한 유사점)", "similarity between(~ 사이의 유사성)"],
+  "ex_add": "There's a strong similarity between the two paintings.  (similarity between=~ 사이의 유사점)"
+ },
+ {
+  "num": "2091",
+  "hw": "similarly",
+  "pos": "adv.",
+  "cefr": "B1",
+  "core": "비슷하게 = '마찬가지로·이와 비슷하게'.",
+  "senses": [
+   "1) 비슷하게·유사하게",
+   "2) (문장 연결) 마찬가지로·같은 식으로",
+   "3) 똑같이"
+  ],
+  "etym": "similar(비슷한, 라틴어 similis 닮은) + -ly. similis 뿌리로 similar·similarity(2090)·resemble과 묶인다.",
+  "deriv": "similar(비슷한) -> 부사 'similarly(마찬가지로)'. '비슷하게(dressed similarly)' -> 문장 연결 'Similarly, ~(마찬가지로)'. similis 뿌리. 한국 학습자: similarly가 두 사례를 연결하는 부사로 자주 — Cats need exercise. Similarly, dogs need daily walks. likewise·in the same way와 유의어. similarly priced(비슷한 가격의), behave similarly(비슷하게 행동하다). differently(다르게)가 반의. similar/similarity/similarly 가족.",
+  "syn": ["likewise(마찬가지로)", "equally(똑같이)", "in the same way(같은 식으로)"],
+  "anti": ["differently(다르게)", "conversely(반대로)", "by contrast(대조적으로)"],
+  "idiom": ["similarly, ~(마찬가지로)", "in a similar way(비슷한 방식으로)"],
+  "colloc": ["similarly dressed(비슷하게 차려입은)", "behave similarly(비슷하게 행동하다)", "similarly priced(비슷한 가격의)"],
+  "ex_add": "Cats love warmth; similarly, dogs enjoy lying in the sun.  (similarly=마찬가지로)"
+ }
+]
