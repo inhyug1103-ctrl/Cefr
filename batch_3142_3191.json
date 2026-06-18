@@ -1,0 +1,952 @@
+[
+ {
+  "num": "3142",
+  "hw": "panic",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "목신이 일으킨 공포 -> '공황·공포 / 허둥대다'.",
+  "senses": [
+   "1) 공황·극심한 공포·당황",
+   "2) (시장의) 패닉·공황 상태",
+   "3) (동사) 공황 상태에 빠지다·허둥대다"
+  ],
+  "etym": "그리스 신화의 목신 Pan에서. 판(Pan)이 갑자기 나타나 사람·짐승에게 까닭 없는 공포(panikos)를 일으킨다고 믿은 데서. '갑작스러운 까닭 모를 공포'가 핵심.",
+  "deriv": "Pan(목신) -> panikos -> 'panic'. '판이 일으킨 공포 -> 공황·극심한 공포(in a panic, 공황 상태로)' -> 동사 '허둥대다(Don't panic!)'. 한국 학습자 핵심: 그리스 신 이름에서 온 유래어 — 판(Pan)의 갑작스러운 공포! a panic attack(공황 발작), in a panic(허둥지둥), panic buying(사재기), a panic button(비상 버튼·비상 수단), panic stations(비상사태), don't panic(당황하지 마). 동사 변화는 panic-panicked-panicking(c 뒤에 k 추가!). fear(공포)·alarm(경악)·terror(공포)와 유의어. 반대 calm(평온)·composure(침착).",
+  "syn": ["alarm(경악)", "fright(공포)", "hysteria(히스테리)"],
+  "anti": ["calm(평온)", "composure(침착)"],
+  "idiom": ["a panic attack(공황 발작)", "in a panic(허둥지둥)", "panic buying(사재기)", "don't panic(당황하지 마)"],
+  "colloc": ["a panic attack(공황 발작)", "in a panic(공황 상태로)", "panic buying(사재기)"],
+  "ex_add": "Don't panic — we still have plenty of time.  (panic=허둥대다)"
+ },
+ {
+  "num": "3143",
+  "hw": "parade",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "갖춰 내보임 -> '행진·퍼레이드 / 과시하다'.",
+  "senses": [
+   "1) 행진·퍼레이드·행렬",
+   "2) (동사) 행진하다·열을 지어 가다",
+   "3) 과시하다·내보이다"
+  ],
+  "etym": "라틴어 parare(준비하다·갖추다) -> 스페인어 parada(과시·정렬) -> 'parade'. '갖춰(parare) 줄 세워 내보임'이 핵심. parare(준비)는 prepare(준비하다)·repair(수리하다)·apparatus(장치)·preparation(3198)의 뿌리.",
+  "deriv": "parare(갖추다) -> parada -> 'parade'. '갖춰 내보임 -> 행진·퍼레이드(a victory parade, 우승 퍼레이드)' -> 동사 '행진하다·과시하다(parade one's wealth, 부를 과시하다)'. 한국 학습자 핵심: parare(준비) 갈래 — prepare·preparation(3198)·repair·apparatus·parade·rampart(성벽)! a military parade(군사 행진), a fashion parade(패션쇼), rain on sb's parade(~의 흥을 깨다), parade around(돌아다니며 과시하다), on parade(사열 중인). march(행진)·procession(행렬)·display(2609, 과시)와 유의어.",
+  "syn": ["march(행진)", "procession(행렬)", "display(과시)"],
+  "anti": [],
+  "idiom": ["a victory parade(우승 퍼레이드)", "rain on sb's parade(~의 흥을 깨다)", "on parade(사열 중인)"],
+  "colloc": ["a military parade(군사 행진)", "a victory parade(우승 행진)", "a fashion parade(패션쇼)"],
+  "ex_add": "Thousands lined the streets to watch the parade.  (parade=행진)"
+ },
+ {
+  "num": "3144",
+  "hw": "parallel",
+  "pos": "adj., n., v.",
+  "cefr": "B2",
+  "core": "나란히 곁에 -> '평행한·유사한 / 유사점·평행선'.",
+  "senses": [
+   "1) 평행한·나란한",
+   "2) 유사한·병행하는",
+   "3) 유사점·평행선 / 견줄 만한 것 / (동사) 필적하다"
+  ],
+  "etym": "그리스어 parallelos = para(곁에·나란히) + allelos(서로) -> '서로(allelos) 나란히(para)'. para(곁에)는 parallel·parable(우화)·paragraph(단락)·paradox(역설)·parameter의 뿌리.",
+  "deriv": "para(곁에) + allelos(서로) -> 'parallel'. '나란히 곁에 -> 평행한(parallel lines, 평행선)·유사한(a parallel case, 유사 사례)' -> 명사 '유사점(draw a parallel, 유사점을 짚다)'. 한국 학습자 핵심: para(곁에·나란히) 갈래 — parable(우화)·paragraph(단락)·paradox(역설)·paramedic(준의료인)·parameter·parasite(기생충)! parallel to/with(~과 평행한), draw a parallel between(~ 사이의 유사점을 보다), without parallel(견줄 데 없는), in parallel(병행하여), a parallel universe(평행 우주). similar(유사한)·comparable(견줄 만한)·analogous(유사한)와 유의어.",
+  "syn": ["similar(유사한)", "comparable(견줄 만한)", "analogous(유사한)"],
+  "anti": ["different(다른)", "divergent(갈라지는)"],
+  "idiom": ["draw a parallel(유사점을 짚다)", "without parallel(견줄 데 없는)", "in parallel(병행하여)", "a parallel universe(평행 우주)"],
+  "colloc": ["parallel lines(평행선)", "draw a parallel(유사점을 보다)", "run parallel to(~과 나란히 가다)"],
+  "ex_add": "There are interesting parallels between the two events.  (parallel=유사점)"
+ },
+ {
+  "num": "3145",
+  "hw": "part-time",
+  "pos": "adj., adv.",
+  "cefr": "B2",
+  "core": "시간의 일부만 -> '시간제의·파트타임의 / 시간제로'.",
+  "senses": [
+   "1) 시간제의·파트타임의",
+   "2) (부사) 시간제로·파트타임으로",
+   "3) 비상근의"
+  ],
+  "etym": "part(부분) + time(시간). part는 라틴어 pars/part-(부분). '근무 시간(time)의 일부(part)만 하는'이 핵심. pars(부분)는 part·partly(3148)·depart(2575)·portion(3182)·particle의 뿌리. full-time(2787, 전임의)과 정반대 짝.",
+  "deriv": "pars(부분) + time(시간) -> 'part-time'. '시간의 일부만 -> 시간제의(a part-time job, 시간제 일자리)' -> 부사 '시간제로(work part-time)'. 한국 학습자 핵심: part-time(시간제의) ↔ full-time(2787, 전임의) 정반대 짝! pars(부분) 갈래 — part·partly(3148)·partner(3149)·depart(2575)·portion(3182)·particle·apart·participate(3146)! a part-time job(아르바이트·시간제 일), a part-time student(시간제 학생), work part-time(파트타임으로 일하다), part-time work(시간제 근무). 명사 앞 하이픈(a part-time job) / 부사로 띄어 씀(work part time). 반대 full-time(2787, 전임의).",
+  "syn": ["temporary(임시의)", "casual(비정규의)"],
+  "anti": ["full-time(전임의)", "permanent(정규의)"],
+  "idiom": ["a part-time job(시간제 일자리)", "work part-time(시간제로 일하다)"],
+  "colloc": ["a part-time job(아르바이트)", "a part-time student(시간제 학생)", "work part-time(파트타임으로 일하다)"],
+  "ex_add": "She has a part-time job at a coffee shop.  (part-time=시간제의)"
+ },
+ {
+  "num": "3146",
+  "hw": "participant",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "한몫 잡는 사람 -> '참가자·참여자'.",
+  "senses": [
+   "1) 참가자·참여자",
+   "2) (연구·실험) 대상자",
+   "3) 관여자"
+  ],
+  "etym": "라틴어 participare = pars(부분) + capere(잡다) -> '한 부분(pars)을 잡아(capere) 나눠 가짐'. participation(3147)·participate(참가하다)·capable(2397)·capture(2399)와 한 capere 갈래.",
+  "deriv": "pars(부분) + capere(잡다) -> participate -> 'participant'. '한몫 잡는 사람 -> 참가자(study participants, 연구 참가자)'. 한국 학습자 핵심: capere(잡다) 대가족 — participation(3147)·participate(참가하다)·capable(2397)·capture(2399)·accept·perceive(3159)·concept(2462) / pars(부분) 갈래 — part·partner·portion(3182)·particle! an active participant(적극적 참가자), study participants(연구 대상자), a willing participant(자발적 참가자), participants in(~의 참가자). attendee(참석자)·member(구성원)·contributor(기여자)와 유의어. 반대 observer(3098, 관찰자)·spectator(구경꾼). participate(참가하다)·participation(3147)이 가족.",
+  "syn": ["attendee(참석자)", "member(참가자)", "contributor(기여자)"],
+  "anti": ["observer(관찰자)", "spectator(구경꾼)", "nonparticipant(불참자)"],
+  "idiom": ["an active participant(적극적 참가자)", "study participants(연구 대상자)", "a willing participant(자발적 참가자)"],
+  "colloc": ["an active participant(적극적 참가자)", "study participants(연구 참가자)", "participants in(~의 참가자)"],
+  "ex_add": "All participants must register before the event.  (participant=참가자)"
+ },
+ {
+  "num": "3147",
+  "hw": "participation",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "한몫 끼어듦 -> '참가·참여'.",
+  "senses": [
+   "1) 참가·참여",
+   "2) 가담·관여",
+   "3) (의사 결정) 동참"
+  ],
+  "etym": "라틴어 participare(한몫 가지다)의 명사형 = pars(부분) + capere(잡다). participant(3146)·participate·capable(2397)와 한 capere 갈래. '한 부분을 잡아 끼어듦'이 핵심.",
+  "deriv": "pars(부분) + capere(잡다) -> participate -> 'participation'. '한몫 끼어듦 -> 참가·참여(active participation, 적극적 참여)'. 한국 학습자 핵심: capere(잡다) 대가족 — participant(3146)·participate·capable(2397)·capture(2399)·perceive(3159)·perception(3160)·concept(2462) / pars(부분) 갈래 — part·partner·portion(3182)! active participation(적극적 참여), audience participation(관객 참여), participation in(~에의 참여), encourage participation(참여를 독려하다), voter participation(투표 참여). involvement(관여)·engagement(2665, 참여)·attendance(출석)와 유의어. 반대 abstention(기권)·withdrawal(불참).",
+  "syn": ["involvement(관여)", "engagement(참여)", "attendance(출석)"],
+  "anti": ["abstention(기권)", "withdrawal(불참)", "nonparticipation(불참여)"],
+  "idiom": ["active participation(적극적 참여)", "audience participation(관객 참여)", "participation in(~에의 참여)"],
+  "colloc": ["active participation(적극적 참여)", "participation in(~에의 참가)", "encourage participation(참여를 독려하다)"],
+  "ex_add": "The teacher encourages active participation in class.  (participation=참여)"
+ },
+ {
+  "num": "3148",
+  "hw": "partly",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "일부분 -> '부분적으로·어느 정도'.",
+  "senses": [
+   "1) 부분적으로·일부는",
+   "2) 어느 정도·다소",
+   "3) (partly because) 한편으로는 ~ 때문에"
+  ],
+  "etym": "part(부분, 라틴어 pars) + -ly. '일부(part)만큼만'이 핵심. pars(부분)는 part·part-time(3145)·partner(3149)·depart(2575)·portion(3182)·particle의 뿌리.",
+  "deriv": "pars(부분) -> part -> 'partly'. '일부분 -> 부분적으로·어느 정도(partly true, 일부는 맞는)'. 한국 학습자 핵심: pars(부분) 대가족 — part·part-time(3145)·partner(3149)·participant(3146)·depart(2575)·portion(3182)·particle·apart·party! partly because(한편으로는 ~ 때문에 — 빈출, 이유를 부분적으로 댈 때!), partly responsible(어느 정도 책임 있는), only partly(일부만), partly cloudy(부분적으로 흐린). partially(부분적으로)·in part(일부)·to some extent(2719, 어느 정도)와 유의어. 반대 wholly(전적으로)·entirely(2673, 완전히)·completely(완전히).",
+  "syn": ["partially(부분적으로)", "in part(일부)", "somewhat(다소)"],
+  "anti": ["wholly(전적으로)", "entirely(완전히)", "completely(완전히)"],
+  "idiom": ["partly because(한편으로는 ~ 때문에)", "partly true(일부는 맞는)", "partly cloudy(부분적으로 흐린)"],
+  "colloc": ["partly because(한편으로는 ~ 때문에)", "partly responsible(어느 정도 책임 있는)", "only partly(일부만)"],
+  "ex_add": "The accident was partly my fault.  (partly=부분적으로)"
+ },
+ {
+  "num": "3149",
+  "hw": "partnership",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "동반자 관계 -> '동반자 관계·협력 / 합자 회사'.",
+  "senses": [
+   "1) 동반자 관계·제휴·협력",
+   "2) (사업) 합자·동업 (관계)",
+   "3) 합명회사"
+  ],
+  "etym": "partner(동반자) + -ship(관계·신분). partner는 라틴어 partitio(나눔) <- pars(부분) -> '몫(pars)을 나누는 사람'. part·partly(3148)·depart(2575)와 한 pars 갈래. -ship은 membership(3030)·leadership(2969)의 접미사.",
+  "deriv": "pars(부분) -> partner -> 'partnership'. '동반자 관계 -> 협력·제휴(a business partnership, 사업 제휴)·합자 회사'. 한국 학습자 핵심: -ship(관계·신분) 무리 — membership(3030)·leadership(2969)·ownership(3135)·partnership·relationship·friendship! pars(부분) 갈래 — part·partner·partly(3148)·participant(3146)·portion(3182)! a strategic partnership(전략적 제휴), in partnership with(~와 협력하여), form a partnership(제휴를 맺다), a business partnership(동업), a civil partnership(시민 결합). alliance(동맹)·collaboration(협업)·cooperation(협력)과 유의어. partner(동반자)·part가 가족.",
+  "syn": ["alliance(동맹)", "collaboration(협업)", "cooperation(협력)"],
+  "anti": ["rivalry(경쟁)", "competition(경쟁)"],
+  "idiom": ["in partnership with(~와 협력하여)", "a strategic partnership(전략적 제휴)", "form a partnership(제휴를 맺다)"],
+  "colloc": ["a business partnership(사업 제휴)", "in partnership with(~와 협력하여)", "a strategic partnership(전략적 동반자 관계)"],
+  "ex_add": "The two companies formed a successful partnership.  (partnership=제휴)"
+ },
+ {
+  "num": "3150",
+  "hw": "passage",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "지나감 -> '통로·통행 / (글의) 한 구절 / (시간의) 흐름'.",
+  "senses": [
+   "1) 통로·복도 / 통행·통과",
+   "2) (글·음악의) 한 구절·악절",
+   "3) (시간의) 흐름·경과 / 항해"
+  ],
+  "etym": "라틴어 passus(걸음) <- pandere(펼치다) -> pass(지나가다) + -age. '지나가는(pass) 일·길'이 핵심. passus(걸음)는 pass·pace(3137)·passenger(승객)·passport(여권)의 뿌리.",
+  "deriv": "passus(걸음) -> pass -> 'passage'. '지나감 -> 통로(a narrow passage, 좁은 통로)·통행(safe passage, 안전 통행)' -> 글의 '한 구절(read the passage, 지문을 읽다)' -> '시간의 흐름(the passage of time)'. 한국 학습자 핵심: passus(걸음) 갈래 — pass·pace(3137)·passenger(승객)·passport(여권)·passage·trespass(침입하다)! read a passage(지문을 읽다 — 독해 시험 단골!), the passage of time(세월의 흐름), a secret passage(비밀 통로), a rite of passage(통과 의례). corridor(2509, 복도)·extract(발췌)·excerpt(발췌)와 유의어.",
+  "syn": ["corridor(복도)", "extract(발췌)", "excerpt(발췌)"],
+  "anti": [],
+  "idiom": ["the passage of time(세월의 흐름)", "a rite of passage(통과 의례)", "safe passage(안전 통행)"],
+  "colloc": ["read a passage(지문을 읽다)", "a narrow passage(좁은 통로)", "the passage of time(시간의 흐름)"],
+  "ex_add": "Read the following passage and answer the questions.  (passage=지문)"
+ },
+ {
+  "num": "3151",
+  "hw": "passionate",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "감정이 끓는 -> '열정적인·열렬한'.",
+  "senses": [
+   "1) 열정적인·열렬한",
+   "2) 격정적인·정열적인",
+   "3) (신념이) 강렬한"
+  ],
+  "etym": "라틴어 passio(겪음·수난) <- pati(견디다·겪다) + -ate. '감정을 겪어(pati) 끓어오르는'이 핵심. pati(겪다)는 passion(열정·수난)·patient(3155)·patience(3154)·impatient(2880)·compassion(연민)·passive(수동적인)의 뿌리.",
+  "deriv": "pati(겪다) -> passio -> passion -> 'passionate'. '감정이 끓는 -> 열정적인(a passionate speech, 열정적 연설)'. 한국 학습자 핵심: pati(겪다·견디다) 대가족 — passion(열정)·patient(3155)·patience(3154)·impatient(2880)·compassion(연민)·passive(수동적)·compatible(호환되는)! 흥미롭게도 passion(열정)과 patience(인내)가 같은 pati(겪다) 뿌리 — '겪어 내는 것'! be passionate about(~에 열정적이다), a passionate believer(열렬한 신봉자), a passionate kiss(격정적 키스). enthusiastic(2671, 열렬한)·fervent(열렬한)·ardent(열렬한)과 유의어. 반대 indifferent(무관심한)·apathetic(무기력한).",
+  "syn": ["enthusiastic(열렬한)", "fervent(열렬한)", "ardent(열정적인)"],
+  "anti": ["indifferent(무관심한)", "apathetic(무기력한)", "cold(냉담한)"],
+  "idiom": ["be passionate about(~에 열정적이다)", "a passionate believer(열렬한 신봉자)"],
+  "colloc": ["be passionate about(~에 열정적이다)", "a passionate speech(열정적 연설)", "a passionate believer(열렬한 신봉자)"],
+  "ex_add": "She is passionate about protecting the environment.  (passionate=열정적인)"
+ },
+ {
+  "num": "3152",
+  "hw": "password",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "통과시키는 말 -> '암호·비밀번호'.",
+  "senses": [
+   "1) (컴퓨터) 비밀번호·패스워드",
+   "2) 암호·군호",
+   "3) 통행 암호"
+  ],
+  "etym": "pass(통과하다) + word(말). '통과(pass)시켜 주는 말(word)'이 핵심. 본래 보초가 통과를 허락받기 위해 대던 '군호'에서. pass(passus 걸음)·passage(3150)와 한 갈래.",
+  "deriv": "pass(통과) + word(말) -> 'password'. '통과시키는 말 -> 암호·비밀번호(enter your password, 비밀번호를 입력하다)'. 한국 학습자 핵심: pass(통과하다)+word(말) — 옛날 군호에서 컴퓨터 비밀번호로! forget one's password(비밀번호를 잊다), reset a password(비밀번호를 재설정하다), a strong password(강력한 비밀번호), change your password(비밀번호를 바꾸다), enter the password(암호를 입력하다). passcode(암호)·PIN(개인 식별 번호)·code(암호)와 유의어. pass·word 합성어 — 디지털 시대 필수 어휘.",
+  "syn": ["passcode(암호)", "code(암호)", "PIN(개인 번호)"],
+  "anti": [],
+  "idiom": ["enter your password(비밀번호를 입력하다)", "reset a password(비밀번호를 재설정하다)", "a strong password(강력한 비밀번호)"],
+  "colloc": ["enter a password(비밀번호를 입력하다)", "forget a password(비밀번호를 잊다)", "change your password(비밀번호를 바꾸다)"],
+  "ex_add": "Please enter your username and password.  (password=비밀번호)"
+ },
+ {
+  "num": "3153",
+  "hw": "patch",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "기우는 헝겊 -> '조각·헝겊 / 작은 구역 / 깁다'.",
+  "senses": [
+   "1) (옷의) 헝겊 조각 / 안대·반창고",
+   "2) (땅·표면의) 작은 구역·부분",
+   "3) (동사) 깁다·때우다(patch up) / (시기) 한때"
+  ],
+  "etym": "중세 영어 patche(헝겊 조각). 어원이 불확실하나 '구멍을 메우는 작은 천 조각'이 핵심. piece(조각)와 발상이 통한다. patchwork(조각보)·patchy(군데군데의)가 가족.",
+  "deriv": "patche(조각) -> 'patch'. '기우는 헝겊 -> 조각·헝겊(an eye patch, 안대)' -> '작은 구역(a patch of grass, 풀밭 한 뙈기)' -> 동사 '깁다·때우다(patch up, 수선하다/화해하다)'. 한국 학습자 핵심: a vegetable patch(텃밭), a bald patch(대머리 부분), go through a bad/rough patch(힘든 시기를 겪다), patch things up(관계를 회복하다), a software patch(소프트웨어 패치), patchy(고르지 못한). piece(조각)·spot(자리)·mend(깁다)와 유의어. patchwork(짜깁기)·patchy가 가족.",
+  "syn": ["piece(조각)", "spot(자리)", "mend(깁다)"],
+  "anti": [],
+  "idiom": ["a rough patch(힘든 시기)", "patch things up(관계를 회복하다)", "a vegetable patch(텃밭)"],
+  "colloc": ["a patch of grass(풀밭 한 뙈기)", "an eye patch(안대)", "patch up(수선하다/화해하다)"],
+  "ex_add": "They're going through a rough patch in their marriage.  (patch=시기)"
+ },
+ {
+  "num": "3154",
+  "hw": "patience",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "참고 견딤 -> '인내·참을성'.",
+  "senses": [
+   "1) 인내·참을성",
+   "2) 끈기·끈질김",
+   "3) (영) 혼자 하는 카드놀이"
+  ],
+  "etym": "라틴어 patientia(견딤) <- pati(견디다·겪다). '괴로움을 겪어(pati) 참아 냄'이 핵심. pati(겪다)는 patient(3155)·passion(열정)·passionate(3151)·impatient(2880)·compassion(연민)의 뿌리.",
+  "deriv": "pati(견디다) -> patientia -> 'patience'. '참고 견딤 -> 인내·참을성(lose patience, 인내심을 잃다)'. 한국 학습자 핵심: pati(겪다·견디다) 대가족 — patient(3155)·passion(열정)·passionate(3151)·impatient(2880)·compassion(연민)·passive·compatible! patience와 passion이 같은 pati 뿌리 — '견뎌 내는 것'! Patience is a virtue(인내는 미덕), lose patience with(~에게 인내심을 잃다), run out of patience(참을성이 바닥나다), have patience(참다), try sb's patience(~의 인내심을 시험하다). tolerance(관용)·endurance(인내)·perseverance(끈기)와 유의어. 반대 impatience(조급함). patient(3155)가 가족.",
+  "syn": ["tolerance(관용)", "endurance(인내)", "perseverance(끈기)"],
+  "anti": ["impatience(조급함)", "intolerance(편협)"],
+  "idiom": ["Patience is a virtue(인내는 미덕)", "lose patience(인내심을 잃다)", "run out of patience(참을성이 바닥나다)", "try sb's patience(인내심을 시험하다)"],
+  "colloc": ["lose patience(인내심을 잃다)", "have patience(참을성이 있다)", "run out of patience(참을성이 바닥나다)"],
+  "ex_add": "Teaching young children requires a lot of patience.  (patience=인내)"
+ },
+ {
+  "num": "3155",
+  "hw": "patient",
+  "pos": "n., adj.",
+  "cefr": "B2",
+  "core": "참고 견디는 -> '환자 / 참을성 있는'.",
+  "senses": [
+   "1) 환자(명사)",
+   "2) 참을성 있는·인내심 있는(형용사)",
+   "3) 끈기 있는"
+  ],
+  "etym": "라틴어 patiens(견디는·앓는) <- pati(견디다·겪다·앓다). '괴로움을 겪는(pati) 사람=환자', '잘 견디는=참을성 있는' 두 뜻이 한 뿌리. patience(3154)·passion·passionate(3151)·impatient(2880)와 한 갈래.",
+  "deriv": "pati(겪다·앓다) -> patiens -> 'patient'. '앓는 사람 -> 환자(treat a patient, 환자를 치료하다)' / '잘 견디는 -> 참을성 있는(be patient with, ~에게 참을성 있게 대하다)'. 한국 학습자 핵심: pati(겪다) 대가족 — patience(3154)·passion·passionate(3151)·impatient(2880)·compassion(연민)·passive! 환자(patient)와 '참을성 있는(patient)'이 같은 단어 — 둘 다 '견디는'! a hospital patient(입원 환자), be patient with sb(~에게 인내심을 갖다), a patient teacher(인내심 있는 교사). tolerant(참을성 있는)·calm(차분한)과 유의어. 반대 impatient(2880, 참을성 없는). patience(3154)가 가족.",
+  "syn": ["tolerant(참을성 있는)", "calm(차분한)", "enduring(인내심 있는)"],
+  "anti": ["impatient(참을성 없는)", "restless(안절부절못하는)"],
+  "idiom": ["be patient with(~에게 참을성 있게 대하다)", "a hospital patient(입원 환자)"],
+  "colloc": ["a hospital patient(입원 환자)", "be patient with(~에게 인내심을 갖다)", "treat a patient(환자를 치료하다)"],
+  "ex_add": "Please be patient; the doctor will see you soon.  (patient=참을성 있는)"
+ },
+ {
+  "num": "3156",
+  "hw": "pause",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "멈춤 -> '잠시 멈춤·중단 / 잠시 멈추다'.",
+  "senses": [
+   "1) 잠시 멈춤·휴지·중단",
+   "2) (동사) 잠시 멈추다·중단하다",
+   "3) (기기) 일시 정지"
+  ],
+  "etym": "그리스어 pausis(멈춤) <- pauein(멈추다·그치다) -> 라틴어 pausa -> 'pause'. '잠시 그쳐 멈춤'이 핵심. pauein(멈추다)은 pause·repose(휴식)와 친척.",
+  "deriv": "pauein(멈추다) -> pausa -> 'pause'. '멈춤 -> 잠시 멈춤·중단(a brief pause, 짧은 멈춤)' -> 동사 '잠시 멈추다(pause for a moment, 잠깐 멈추다)'. 한국 학습자 핵심: a pregnant pause(의미심장한 침묵), pause for thought(잠시 생각하다), give sb pause (for thought)(~를 망설이게 하다), without pause(쉬지 않고), press pause(일시 정지를 누르다), a dramatic pause(극적인 멈춤). stop(멈추다)·break(휴식)·halt(정지)와 유의어 — pause는 '잠깐 멈췄다 다시 함'! 반대 continue(계속하다)·resume(재개하다).",
+  "syn": ["break(휴식)", "halt(정지)", "interval(간격)"],
+  "anti": ["continue(계속하다)", "resume(재개하다)"],
+  "idiom": ["a pregnant pause(의미심장한 침묵)", "pause for thought(잠시 생각하다)", "give sb pause(~를 망설이게 하다)"],
+  "colloc": ["a brief pause(짧은 멈춤)", "pause for a moment(잠시 멈추다)", "a dramatic pause(극적인 멈춤)"],
+  "ex_add": "She paused for a moment before answering.  (pause=잠시 멈추다)"
+ },
+ {
+  "num": "3157",
+  "hw": "peer",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "동등한 사람 -> '또래·동료 / 유심히 보다'.",
+  "senses": [
+   "1) 또래·동년배·동등한 사람",
+   "2) (영) 귀족·상원 의원",
+   "3) (동사) 유심히 들여다보다·눈여겨보다"
+  ],
+  "etym": "라틴어 par(동등한) -> 고대 프랑스어 per -> 'peer'. '지위·나이가 동등한(par) 사람'이 핵심. par(같은)는 pair(짝)·par(기준)·parity(동등)·comparative(2450)·disparate(다른)의 뿌리. (동사 peer '유심히 보다'는 다른 어원.)",
+  "deriv": "par(동등한) -> 'peer'. '동등한 사람 -> 또래·동료(peer pressure, 또래 압력)' -> (영) '귀족' / 동사 '유심히 보다(peer into the dark)'. 한국 학습자 핵심: par(동등) 갈래 — pair(한 쌍)·par(기준 타수)·parity(동등)·comparative(2450)·disparate(이질적인)·compare! peer pressure(또래의 압력 — 빈출!), peer review(동료 심사·전문가 검토), a peer group(또래 집단), one's peers(또래들/동료들). colleague(동료)·equal(2676, 대등한 사람)·contemporary(2490)와 유의어. (동사 peer '응시하다'는 stare·gaze와 유의어.)",
+  "syn": ["equal(대등한 사람)", "colleague(동료)", "contemporary(동년배)"],
+  "anti": ["superior(윗사람)", "inferior(아랫사람)"],
+  "idiom": ["peer pressure(또래 압력)", "peer review(동료 심사)", "a peer group(또래 집단)"],
+  "colloc": ["peer pressure(또래 압력)", "peer review(전문가 심사)", "one's peers(또래들)"],
+  "ex_add": "Teenagers are often influenced by peer pressure.  (peer=또래)"
+ },
+ {
+  "num": "3158",
+  "hw": "penalty",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "벌 -> '처벌·벌금 / (스포츠) 페널티'.",
+  "senses": [
+   "1) 처벌·형벌·벌금",
+   "2) (위반에 대한) 불이익·대가",
+   "3) (스포츠) 페널티·벌칙"
+  ],
+  "etym": "라틴어 poena(벌·형벌) -> poenalitas -> 'penalty'. '잘못에 대한 벌(poena)'이 핵심. poena(벌)는 penal(형벌의)·punish(처벌하다)·pain(고통)·subpoena(소환장)의 뿌리. 그리스어 poine(보상·벌)에서.",
+  "deriv": "poena(벌) -> 'penalty'. '벌 -> 처벌·벌금(a heavy penalty, 무거운 벌)' -> 스포츠 '페널티(a penalty kick, 페널티킥)'. 한국 학습자 핵심: poena(벌) 갈래 — penal(형벌의)·punish(처벌하다)·pain(고통)·subpoena(법정 소환장)·penitentiary(교도소)·impunity(처벌받지 않음)! the death penalty(사형), pay the penalty(대가를 치르다), a penalty for(~에 대한 벌칙), impose a penalty(벌칙을 부과하다), a penalty kick(페널티킥). punishment(처벌)·fine(벌금)·sanction(제재)과 유의어. 반대 reward(보상). pain(2... 고통)과 한 뿌리.",
+  "syn": ["punishment(처벌)", "fine(벌금)", "sanction(제재)"],
+  "anti": ["reward(보상)", "prize(상)"],
+  "idiom": ["the death penalty(사형)", "pay the penalty(대가를 치르다)", "a penalty kick(페널티킥)"],
+  "colloc": ["a heavy penalty(무거운 벌)", "the death penalty(사형)", "pay the penalty(대가를 치르다)"],
+  "ex_add": "The penalty for speeding is a heavy fine.  (penalty=처벌)"
+ },
+ {
+  "num": "3159",
+  "hw": "perceive",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "속속들이 받아들이다 -> '인지하다·감지하다·~으로 여기다'.",
+  "senses": [
+   "1) (감각으로) 인지하다·감지하다",
+   "2) 알아차리다·이해하다",
+   "3) (perceive as) ~으로 여기다·간주하다"
+  ],
+  "etym": "라틴어 percipere = per-(완전히) + capere(잡다·받아들이다) -> '속속들이(per) 잡아(capere) 받아들임'. perception(3160)·capable(2397)·capture(2399)·accept·receive·concept(2462)와 한 capere 갈래.",
+  "deriv": "per-(완전히) + capere(잡다) -> 'perceive'. '속속들이 받아들이다 -> 인지하다·감지하다(perceive a change, 변화를 감지하다)' -> '~으로 여기다(be perceived as, ~으로 인식되다)'. 한국 학습자 핵심: capere(잡다) 대가족 — perception(3160)·capable(2397)·capture(2399)·accept·receive·concept(2462)·participant(3146)·except·anticipate! be perceived as(~으로 인식되다 — 빈출!), perceive A as B(A를 B로 여기다), perceive a threat(위협을 감지하다), widely perceived(널리 인식되는). notice(알아채다)·detect(2591, 감지하다)·view(여기다)와 유의어. perception(3160)·perceptive(통찰력 있는)가 가족.",
+  "syn": ["notice(알아채다)", "detect(감지하다)", "regard(여기다)"],
+  "anti": ["miss(놓치다)", "overlook(간과하다)", "ignore(무시하다)"],
+  "idiom": ["be perceived as(~으로 인식되다)", "perceive A as B(A를 B로 여기다)"],
+  "colloc": ["perceive a change(변화를 감지하다)", "be perceived as(~으로 인식되다)", "perceive a threat(위협을 감지하다)"],
+  "ex_add": "He is widely perceived as a strong leader.  (perceive=인식하다)"
+ },
+ {
+  "num": "3160",
+  "hw": "perception",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "받아들여 앎 -> '지각·인식 / 통찰'.",
+  "senses": [
+   "1) 지각·인지·감지",
+   "2) 인식·견해·관점",
+   "3) 통찰력·이해"
+  ],
+  "etym": "라틴어 perceptio <- percipere(속속들이 받아들이다, 3159) = per-(완전히) + capere(잡다). perceive(3159)·capable(2397)·concept(2462)와 한 capere 갈래. '받아들여 알게 됨'이 핵심.",
+  "deriv": "per-(완전히) + capere(잡다) -> perceive(3159) -> 'perception'. '받아들여 앎 -> 지각·인지(visual perception, 시지각)·인식(public perception, 대중의 인식)'. 한국 학습자 핵심: capere(잡다) 대가족 — perceive(3159)·capable(2397)·capture(2399)·accept·receive·concept(2462)·participant(3146)·perceptive(통찰력 있는)! public perception(대중의 인식), perception of(~에 대한 인식), sensory perception(감각 지각), change perceptions(인식을 바꾸다), depth perception(거리 감각). awareness(인식)·understanding(이해)·insight(2918, 통찰)와 유의어. perceive(3159)가 동사.",
+  "syn": ["awareness(인식)", "understanding(이해)", "insight(통찰)"],
+  "anti": ["ignorance(무지)", "oblivion(망각)"],
+  "idiom": ["public perception(대중의 인식)", "perception of(~에 대한 인식)", "depth perception(거리 감각)"],
+  "colloc": ["public perception(대중의 인식)", "sensory perception(감각 지각)", "change perceptions(인식을 바꾸다)"],
+  "ex_add": "Advertising can shape public perception.  (perception=인식)"
+ },
+ {
+  "num": "3161",
+  "hw": "permanent",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "끝까지 머무는 -> '영구적인·영속적인'.",
+  "senses": [
+   "1) 영구적인·영속적인",
+   "2) 상설의·상근의·정규의",
+   "3) 불변의"
+  ],
+  "etym": "라틴어 permanere = per-(끝까지) + manere(머무르다) -> '끝까지(per) 머무름(manere)'. manere(머무르다)는 permanently(3162)·remain(남다)·manor(영지)·mansion(대저택)의 뿌리.",
+  "deriv": "per-(끝까지) + manere(머무르다) -> 'permanent'. '끝까지 머무는 -> 영구적인·영속적인(a permanent solution, 영구적 해결책)·정규의(a permanent job, 정규직)'. 한국 학습자 핵심: manere(머무르다) 갈래 — permanently(3162)·remain(남다)·manor(장원)·mansion(대저택)·permanence! permanent damage(영구적 손상), a permanent resident(영주권자), a permanent position(정규직), permanent marker(유성 매직, 3012 marker). lasting(지속적인)·enduring(영속적인)·constant(2483)와 유의어. 반대 temporary(일시적인)·transient(덧없는)·short-term(2991). permanently(3162)가 부사.",
+  "syn": ["lasting(지속적인)", "enduring(영속적인)", "constant(불변의)"],
+  "anti": ["temporary(일시적인)", "transient(덧없는)", "short-term(단기의)"],
+  "idiom": ["a permanent solution(영구적 해결책)", "a permanent resident(영주권자)", "permanent damage(영구적 손상)"],
+  "colloc": ["a permanent job(정규직)", "a permanent solution(영구적 해결책)", "permanent damage(영구적 손상)"],
+  "ex_add": "The accident left him with permanent damage to his sight.  (permanent=영구적인)"
+ },
+ {
+  "num": "3162",
+  "hw": "permanently",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'영구히·영원히·완전히'.",
+  "senses": [
+   "1) 영구히·영원히",
+   "2) 상시·늘",
+   "3) 완전히·돌이킬 수 없게"
+  ],
+  "etym": "permanent(영구적인, 3161) + -ly. 라틴어 per-(끝까지) + manere(머무르다) 뿌리. '끝까지 변함없이'가 핵심. permanent(3161)·remain·mansion과 한 manere 갈래.",
+  "deriv": "permanent(3161) -> 'permanently'. '영구히·영원히(permanently closed, 영구 폐쇄된)'. 한국 학습자 핵심: manere(머무르다) 갈래 — permanent(3161)·remain·manor·mansion·permanence! permanently damaged(영구적으로 손상된), permanently disabled(영구 장애를 입은), live permanently(영주하다), permanently delete(영구 삭제하다, 2564 delete), be permanently affected(영구히 영향받다). forever(영원히)·for good(영영)·indefinitely(무기한)와 유의어. permanent(3161) 가족. 반대 temporarily(일시적으로).",
+  "syn": ["forever(영원히)", "for good(영영)", "indefinitely(무기한)"],
+  "anti": ["temporarily(일시적으로)", "briefly(잠시)"],
+  "idiom": ["permanently closed(영구 폐쇄된)", "permanently damaged(영구 손상된)", "live permanently(영주하다)"],
+  "colloc": ["permanently closed(영구 폐쇄된)", "permanently damaged(영구히 손상된)", "settle permanently(영구 정착하다)"],
+  "ex_add": "The factory was permanently closed last year.  (permanently=영구히)"
+ },
+ {
+  "num": "3163",
+  "hw": "permit",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "통과시켜 보내다 -> '허락하다·허가하다 / 허가증'.",
+  "senses": [
+   "1) 허락하다·허가하다",
+   "2) (상황이) ~을 가능하게 하다",
+   "3) 허가증·인가증(명사)"
+  ],
+  "etym": "라틴어 permittere = per-(통과하여) + mittere(보내다) -> '통과시켜(per) 보냄(mittere)'. mittere(보내다)는 mission(3041)·commission(2446)·submit·dismiss(2607)·transmit·emission(2657)·omit의 거대한 뿌리.",
+  "deriv": "per-(통과하여) + mittere(보내다) -> 'permit'. '통과시켜 보내다 -> 허락하다(permit smoking, 흡연을 허가하다)' -> 명사 '허가증(a work permit, 취업 허가증)'. 한국 학습자 핵심: mittere(보내다) 대가족 — mission(3041)·commission(2446)·submit·dismiss(2607)·transmit·emission(2657)·omit·admit·remit! 명사·동사 강세 다름(PERmit 허가증 / perMIT 허가하다). permit sb to do(~가 ...하도록 허락하다), weather permitting(날씨가 허락하면), a parking permit(주차 허가증), a residence permit(거주 허가증). allow(허락하다)·authorize(인가하다)와 유의어. 반대 forbid(2761, 금지하다)·prohibit(3220).",
+  "syn": ["allow(허락하다)", "authorize(인가하다)", "license(허가하다)"],
+  "anti": ["forbid(금지하다)", "prohibit(금지하다)", "ban(금하다)"],
+  "idiom": ["weather permitting(날씨가 허락하면)", "a work permit(취업 허가증)", "permit sb to do(~가 ...하도록 허락하다)"],
+  "colloc": ["a work permit(취업 허가증)", "permit smoking(흡연을 허가하다)", "a parking permit(주차 허가증)"],
+  "ex_add": "Smoking is not permitted inside the building.  (permit=허가하다)"
+ },
+ {
+  "num": "3164",
+  "hw": "perspective",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "꿰뚫어 봄 -> '관점·시각 / 원근법 / 균형 잡힌 시각'.",
+  "senses": [
+   "1) 관점·시각·견지",
+   "2) (미술) 원근법·투시도",
+   "3) (사물을 보는) 균형 잡힌 시각·전망"
+  ],
+  "etym": "라틴어 perspicere = per-(꿰뚫어) + specere(보다) -> '꿰뚫어(per) 봄(specere)'. specere(보다)는 inspect·expect·prospect(3229)·spectacle·respect·suspect·aspect의 거대한 뿌리.",
+  "deriv": "per-(꿰뚫어) + specere(보다) -> 'perspective'. '꿰뚫어 봄 -> 관점·시각(from my perspective, 내 관점에서)·원근법' -> '균형 잡힌 시각(put it in perspective, 균형 있게 보다)'. 한국 학습자 핵심: specere(보다) 대가족 — inspect·expect·expectation(2707)·prospect(3229)·spectacle·respect·suspect·aspect·inspector(2920)·spectrum! from a different perspective(다른 관점에서), put things in perspective(균형 잡힌 시각으로 보다), a fresh perspective(새로운 시각), gain perspective(균형감을 얻다), a historical perspective(역사적 관점). viewpoint(관점)·standpoint(견지)·angle(각도)와 유의어.",
+  "syn": ["viewpoint(관점)", "standpoint(견지)", "outlook(전망)"],
+  "anti": [],
+  "idiom": ["from my perspective(내 관점에서)", "put things in perspective(균형 있게 보다)", "a fresh perspective(새로운 시각)"],
+  "colloc": ["from a different perspective(다른 관점에서)", "a fresh perspective(새로운 시각)", "gain perspective(균형감을 얻다)"],
+  "ex_add": "Try to see the problem from her perspective.  (perspective=관점)"
+ },
+ {
+  "num": "3165",
+  "hw": "pharmacy",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "약 다루는 곳 -> '약국 / 약학'.",
+  "senses": [
+   "1) 약국·조제실",
+   "2) 약학·제약학",
+   "3) 조제·투약 (업무)"
+  ],
+  "etym": "그리스어 pharmakon(약·약물) -> pharmakeia(약 조제) -> 'pharmacy'. '약(pharmakon)을 짓고 파는 일·곳'이 핵심. pharmakon은 pharmacist(약사)·pharmaceutical(제약의)·pharmacology(약리학)의 뿌리.",
+  "deriv": "pharmakon(약) -> 'pharmacy'. '약 다루는 곳 -> 약국(go to the pharmacy, 약국에 가다)·약학'. 한국 학습자 핵심: pharmakon(약) 갈래 — pharmacist(약사)·pharmaceutical(제약의·의약품)·pharmacology(약리학)! a pharmacy(약국 = 영 chemist's), a hospital pharmacy(병원 약국), study pharmacy(약학을 전공하다), pick up a prescription at the pharmacy(약국에서 처방약을 받다). drugstore(미, 약국·잡화점)·chemist's(영, 약국)와 유의어. 의료 단원 — doctor(의사)·prescription(처방전)·medication(3027)과 함께. ph는 [f] 발음 '파머시'!",
+  "syn": ["drugstore(약국)", "chemist's(약국)", "dispensary(조제실)"],
+  "anti": [],
+  "idiom": ["a hospital pharmacy(병원 약국)", "go to the pharmacy(약국에 가다)"],
+  "colloc": ["go to the pharmacy(약국에 가다)", "a hospital pharmacy(병원 약국)", "study pharmacy(약학을 공부하다)"],
+  "ex_add": "I need to stop by the pharmacy to pick up my medicine.  (pharmacy=약국)"
+ },
+ {
+  "num": "3166",
+  "hw": "phase",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "드러나는 국면 -> '단계·국면 / (달의) 위상'.",
+  "senses": [
+   "1) (변화·발전의) 단계·국면·시기",
+   "2) (달의) 위상·상(相)",
+   "3) (동사) 단계적으로 ~하다(phase in/out)"
+  ],
+  "etym": "그리스어 phasis(드러남·나타남) <- phainein(보이다·드러나다). '드러나 보이는(phainein) 한 모습·국면'이 핵심. phainein(보이다)은 phase·phenomenon(3167)·emphasis(2660)·emphasize(2661)·fantasy(2732)의 거대한 뿌리.",
+  "deriv": "phainein(보이다) -> phasis -> 'phase'. '드러나는 국면 -> 단계·국면(the early phase, 초기 단계)·달의 위상' -> 동사 'phase in(단계적으로 도입하다)·phase out(단계적으로 폐지하다)'. 한국 학습자 핵심: phainein(보이다) 대가족 — phenomenon(3167)·emphasis(2660)·emphasize(2661)·fantasy(2732)·phantom(유령)·diaphanous! phase in/out(단계적 도입/폐지 — 빈출!), go through a phase(한 시기를 거치다), a difficult phase(힘든 시기), the final phase(마지막 단계), the phases of the moon(달의 위상). stage(단계)·period(시기)·step(단계)과 유의어.",
+  "syn": ["stage(단계)", "period(시기)", "step(단계)"],
+  "anti": [],
+  "idiom": ["phase in(단계적으로 도입하다)", "phase out(단계적으로 폐지하다)", "go through a phase(한 시기를 거치다)", "the phases of the moon(달의 위상)"],
+  "colloc": ["the early phase(초기 단계)", "phase out(단계적으로 폐지하다)", "a difficult phase(힘든 시기)"],
+  "ex_add": "The project is now entering its final phase.  (phase=단계)"
+ },
+ {
+  "num": "3167",
+  "hw": "phenomenon",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "나타나는 것 -> '현상 / 경이로운 것·비범한 사람'.",
+  "senses": [
+   "1) 현상·사건",
+   "2) (사회적) 두드러진 현상",
+   "3) 경이로운 것·비범한 인물"
+  ],
+  "etym": "그리스어 phainomenon(나타나는 것) <- phainein(보이다·드러나다). '드러나 나타난(phainein) 것'이 핵심. phase(3166)·emphasis(2660)·fantasy(2732)와 한 phainein 갈래. 복수형은 phenomena.",
+  "deriv": "phainein(보이다) -> phainomenon -> 'phenomenon'. '나타나는 것 -> 현상(a natural phenomenon, 자연 현상)·경이로운 것'. 한국 학습자 핵심: 복수형 phenomena[퍼나머나] 주의 — a phenomenon / two phenomena! phainein(보이다) 대가족 — phase(3166)·emphasis(2660)·emphasize(2661)·fantasy(2732)·phantom·phenomenal(경이로운)! a natural phenomenon(자연 현상), a global phenomenon(세계적 현상), a social phenomenon(사회 현상), a worldwide phenomenon(세계적 현상), explain the phenomenon(현상을 설명하다). occurrence(발생)·event(사건)·marvel(경이)과 유의어. phenomenal(경이적인)이 가족.",
+  "syn": ["occurrence(발생)", "event(사건)", "marvel(경이)"],
+  "anti": [],
+  "idiom": ["a natural phenomenon(자연 현상)", "a global phenomenon(세계적 현상)", "a social phenomenon(사회 현상)"],
+  "colloc": ["a natural phenomenon(자연 현상)", "a global phenomenon(세계적 현상)", "explain the phenomenon(현상을 설명하다)"],
+  "ex_add": "Rainbows are a natural phenomenon caused by light.  (phenomenon=현상)"
+ },
+ {
+  "num": "3168",
+  "hw": "philosophy",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "지혜를 사랑함 -> '철학 / 인생관·신조'.",
+  "senses": [
+   "1) 철학·철학 사상",
+   "2) (개인의) 인생관·신조·가치관",
+   "3) 원리·기본 방침"
+  ],
+  "etym": "그리스어 philosophia = philos(사랑하는) + sophia(지혜) -> '지혜(sophia)를 사랑함(philos)'. philos(사랑)는 philanthropy(박애)·philharmonic(음악 애호의), sophia(지혜)는 sophisticated(정교한)·sophomore(2학년)의 뿌리.",
+  "deriv": "philos(사랑) + sophia(지혜) -> 'philosophy'. '지혜를 사랑함 -> 철학(study philosophy, 철학을 공부하다)' -> '인생관·신조(a philosophy of life, 인생 철학)'. 한국 학습자 핵심: philos(사랑) 갈래 — philanthropy(자선)·philharmonic(교향악단)·bibliophile(애서가) / sophia(지혜) 갈래 — sophisticated(세련된)·sophomore(2학년)·sophistry(궤변)! a philosophy of life(인생관), my personal philosophy(나의 신조), Western philosophy(서양 철학), a business philosophy(경영 철학), moral philosophy(도덕 철학). belief(신념)·outlook(견해)·doctrine(교리)과 유의어. philosopher(철학자)·philosophical(철학적인)이 가족.",
+  "syn": ["belief(신념)", "outlook(견해)", "doctrine(교리)"],
+  "anti": [],
+  "idiom": ["a philosophy of life(인생관)", "Western philosophy(서양 철학)", "a personal philosophy(개인 신조)"],
+  "colloc": ["study philosophy(철학을 공부하다)", "a philosophy of life(인생 철학)", "moral philosophy(도덕 철학)"],
+  "ex_add": "Her philosophy of life is to enjoy every moment.  (philosophy=인생관)"
+ },
+ {
+  "num": "3169",
+  "hw": "physician",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "자연의 이치로 고치는 사람 -> '(내과) 의사'.",
+  "senses": [
+   "1) (특히 내과) 의사",
+   "2) 내과 전문의",
+   "3) (격식) 의사"
+  ],
+  "etym": "그리스어 physis(자연·본성) -> physikos(자연의) -> 라틴어 physica(자연학·의술) -> 'physician'. '자연(physis)의 이치로 병을 고치는 사람'이 핵심. physis(자연)는 physics(물리학)·physical(신체의)·physique(체격)·physiology(생리학)의 뿌리.",
+  "deriv": "physis(자연) -> physician. '자연의 이치로 고치는 사람 -> (내과) 의사(consult a physician, 의사와 상담하다)'. 한국 학습자 핵심: physis(자연·신체) 갈래 — physics(물리학)·physical(신체적인)·physique(체격)·physiology(생리학)·physicist(물리학자)! physician(내과 의사)과 surgeon(외과 의사)을 구별! a family physician(주치의), a primary care physician(1차 진료 의사), consult a physician(의사의 진찰을 받다). doctor(의사)·medical practitioner(개업의)와 유의어 — physician은 격식 있는 '(내과) 의사'! physician(의사)과 physicist(물리학자)를 혼동 주의! 발음 [fɪˈzɪʃn].",
+  "syn": ["doctor(의사)", "medical practitioner(개업의)", "internist(내과의)"],
+  "anti": ["surgeon(외과의)", "patient(환자)"],
+  "idiom": ["a family physician(주치의)", "consult a physician(의사와 상담하다)"],
+  "colloc": ["a family physician(주치의)", "consult a physician(의사의 진찰을 받다)", "a primary care physician(1차 진료의)"],
+  "ex_add": "You should see a physician about that cough.  (physician=의사)"
+ },
+ {
+  "num": "3170",
+  "hw": "pick",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "콕 집어내다 -> '고르다·따다·집다 / 정선품'.",
+  "senses": [
+   "1) 고르다·선택하다",
+   "2) (꽃·열매를) 따다 / 집어 들다",
+   "3) 정선품·최상품 / (the pick) 고른 것"
+  ],
+  "etym": "중세 영어 pikken(쪼다·집다). 게르만 계열 토박이말로, '뾰족한 것으로 콕 집어냄'이 핵심. peck(쪼다)·pike(창)와 친척. picky(까다로운)가 가족.",
+  "deriv": "pikken(집다) -> 'pick'. '콕 집어내다 -> 고르다(pick a card)·따다(pick flowers)·집다(pick up)' -> 명사 '정선품(the pick of the crop, 최상품)'. 한국 학습자 핵심: pick up(집어 올리다/태우러 가다/배우다/회복하다 — 다의 구동사!), pick on(~를 괴롭히다), pick out(골라내다), have a bone to pick with(~에게 따질 일이 있다), pick and choose(까다롭게 고르다), the pick of the bunch(최고로 좋은 것). choose(선택하다)·select(고르다)·gather(따다)와 유의어. picky(까다로운)·pickpocket(소매치기)이 가족.",
+  "syn": ["choose(선택하다)", "select(고르다)", "gather(따다)"],
+  "anti": ["reject(거부하다)", "drop(떨어뜨리다)"],
+  "idiom": ["pick up(집어 들다/태우다/배우다)", "pick on(~를 괴롭히다)", "pick and choose(까다롭게 고르다)", "the pick of the bunch(최고의 것)"],
+  "colloc": ["pick a card(카드를 고르다)", "pick flowers(꽃을 따다)", "pick up(집어 올리다)"],
+  "ex_add": "Pick a number between one and ten.  (pick=고르다)"
+ },
+ {
+  "num": "3171",
+  "hw": "picture",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "그려낸 것 -> '그림·사진 / 상황·정세 / 마음에 그리다'.",
+  "senses": [
+   "1) 그림·사진·그림 같은 것",
+   "2) (전반적) 상황·정세·실태",
+   "3) (동사) 상상하다·마음에 그리다 / 묘사하다"
+  ],
+  "etym": "라틴어 pictura(그림) <- pingere(그리다·색칠하다). '붓으로 그려낸(pingere) 것'이 핵심. pingere(그리다)는 paint(칠하다)·pigment(색소)·depict(묘사하다)·picturesque(그림 같은)의 뿌리.",
+  "deriv": "pingere(그리다) -> pictura -> 'picture'. '그려낸 것 -> 그림·사진(take a picture, 사진을 찍다)' -> 비유 '상황·정세(the bigger picture, 큰 그림)' -> 동사 '마음에 그리다(picture yourself, 자신을 상상해 보라)'. 한국 학습자 핵심: pingere(그리다) 갈래 — paint(칠하다)·pigment(안료)·depict(묘사하다)·picturesque(그림처럼 아름다운)! the big picture(큰 그림·전체 상황), get the picture(상황을 이해하다), paint a picture of(~을 묘사하다), a picture-perfect(그림처럼 완벽한), be in the picture(상황을 알고 있는). image(이미지)·photo(사진)·scene(장면)과 유의어.",
+  "syn": ["image(이미지)", "photo(사진)", "illustration(삽화)"],
+  "anti": [],
+  "idiom": ["the big picture(큰 그림)", "get the picture(상황을 이해하다)", "paint a picture of(~을 묘사하다)", "picture-perfect(그림처럼 완벽한)"],
+  "colloc": ["take a picture(사진을 찍다)", "the big picture(전체 상황)", "draw a picture(그림을 그리다)"],
+  "ex_add": "Try to picture yourself on a sunny beach.  (picture=상상하다)"
+ },
+ {
+  "num": "3172",
+  "hw": "pile",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "쌓아 올린 더미 -> '더미·무더기 / 쌓다'.",
+  "senses": [
+   "1) 더미·무더기·쌓아 올린 것",
+   "2) (a pile of) 많은 양·다량",
+   "3) (동사) 쌓다·쌓이다(pile up)"
+  ],
+  "etym": "라틴어 pila(돌기둥·교각·더미). '차곡차곡 쌓아 올린 것'이 핵심. pila(기둥)는 pillar(기둥)·pile·pier(부두 기둥)의 뿌리.",
+  "deriv": "pila(더미) -> 'pile'. '쌓아 올린 더미 -> 더미·무더기(a pile of books, 책 더미)' -> '많은 양(a pile of work)' -> 동사 '쌓다·쌓이다(pile up, 쌓이다)'. 한국 학습자 핵심: pila(기둥·더미) 갈래 — pillar(기둥)·pier(부두)·compile(엮다=쌓아 모으다)! a pile of(~ 더미/많은), piles of(엄청난 양의), pile up(쌓이다, work piles up 일이 쌓이다), pile into(우르르 들어가다), a pile of money(거금). heap(더미)·stack(쌓아 올린 것)·mound(무더기)와 유의어. 비격식으로 piles of/a pile of = '많은'(loads of)! 반대 scatter(흩뜨리다).",
+  "syn": ["heap(더미)", "stack(더미)", "mound(무더기)"],
+  "anti": ["scatter(흩뜨리다)"],
+  "idiom": ["a pile of(~ 더미/많은)", "pile up(쌓이다)", "piles of(엄청난 양의)"],
+  "colloc": ["a pile of books(책 더미)", "pile up(쌓이다)", "a pile of work(산더미 같은 일)"],
+  "ex_add": "There was a huge pile of laundry on the bed.  (pile=더미)"
+ },
+ {
+  "num": "3173",
+  "hw": "pill",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "작은 알 -> '알약·정제'.",
+  "senses": [
+   "1) 알약·정제",
+   "2) (the pill) 경구 피임약",
+   "3) (a bitter pill) 받아들이기 힘든 것"
+  ],
+  "etym": "라틴어 pilula(작은 공) <- pila(공·알)의 축소형. '둥글게 빚은 작은 알(pilula)'이 핵심. pila(공)는 pill·pellet(작은 알)·pile(3172, 다른 갈래)과 연관.",
+  "deriv": "pila(공) -> pilula(작은 알) -> 'pill'. '작은 알 -> 알약(take a pill, 약을 먹다)' -> '경구 피임약(be on the pill)' -> 비유 'a bitter pill(받아들이기 힘든 쓴 약)'. 한국 학습자 핵심: take a pill(알약을 먹다), a sleeping pill(수면제), a bitter pill to swallow(받아들이기 힘든 일), the pill(피임약), pop pills(약을 남용하다), sugar the pill(쓴 약에 당의를 입히다=싫은 일을 덜 싫게 하다). tablet(정제)·capsule(캡슐)·medication(3027, 약)과 유의어 — pill은 '둥근 알약'! 약 형태: pill/tablet(알약)·capsule(캡슐)·syrup(시럽).",
+  "syn": ["tablet(정제)", "capsule(캡슐)", "medication(약)"],
+  "anti": [],
+  "idiom": ["a bitter pill to swallow(받아들이기 힘든 일)", "be on the pill(피임약을 복용하다)", "sugar the pill(싫은 일을 덜 싫게 하다)"],
+  "colloc": ["take a pill(알약을 먹다)", "a sleeping pill(수면제)", "a bitter pill(쓴 약)"],
+  "ex_add": "She takes a pill every morning for her headaches.  (pill=알약)"
+ },
+ {
+  "num": "3174",
+  "hw": "pitch",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "던져 세움 -> '던지다·홍보하다 / 음높이 / (영) 경기장 / 정도'.",
+  "senses": [
+   "1) (공을) 던지다 / 던지기 / (영) 경기장",
+   "2) (소리의) 음높이·고저 / 정도·수준",
+   "3) (제품·아이디어를) 홍보하다 / 설득용 발표"
+  ],
+  "etym": "중세 영어 picchen(박다·세우다·던지다). '힘껏 던져 박아 세움'이 핵심. (검은 송진 pitch는 라틴어 pix에서 온 별개 낱말.) 야구의 pitch(투구)·음악의 pitch(음높이)로 의미가 넓어졌다.",
+  "deriv": "picchen(던지다·세우다) -> 'pitch'. '던지다(pitch a ball)·천막을 세우다(pitch a tent)' -> 소리의 '음높이(a high pitch)·정도(fever pitch, 극도)' -> '홍보하다(pitch an idea, 아이디어를 제안하다)' -> (영) '경기장(a football pitch)'. 한국 학습자 핵심: pitch a tent(텐트를 치다), a sales pitch(판매 권유·홍보), pitch in(협력하다·거들다), at fever pitch(흥분이 절정에 달한), perfect pitch(절대 음감), pitch black(칠흑같이 어두운). throw(던지다)·tone(음조)·field(경기장)와 유의어.",
+  "syn": ["throw(던지다)", "tone(음조)", "field(경기장)"],
+  "anti": ["catch(받다)"],
+  "idiom": ["a sales pitch(판매 권유)", "pitch in(거들다)", "at fever pitch(절정에 달한)", "pitch black(칠흑같은)"],
+  "colloc": ["pitch a tent(텐트를 치다)", "a sales pitch(영업 홍보)", "a high pitch(높은 음)"],
+  "ex_add": "He made a great sales pitch to the investors.  (pitch=홍보)"
+ },
+ {
+  "num": "3175",
+  "hw": "pity",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "측은히 여김 -> '연민·동정 / 안타까운 일 / 불쌍히 여기다'.",
+  "senses": [
+   "1) 연민·동정·측은함",
+   "2) (a pity) 유감스러운 일·안타까운 일",
+   "3) (동사) 불쌍히 여기다·딱하게 여기다"
+  ],
+  "etym": "라틴어 pietas(경건·자애) <- pius(경건한). '경건한 마음에서 나오는 자애·측은함'이 핵심. pietas(경건)는 piety(경건)·pious(독실한)·pitiful(측은한)·compassion(연민, 다른 갈래)과 연관.",
+  "deriv": "pietas(자애) -> 'pity'. '측은히 여김 -> 연민·동정(feel pity for, ~을 측은히 여기다)' -> '안타까운 일(What a pity!, 참 안됐다!)' -> 동사 '불쌍히 여기다(I pity him)'. 한국 학습자 핵심: pietas(경건·자애) 갈래 — piety(경건)·pious(독실한)·pitiful(가련한)·pitiless(무자비한)! What a pity!(저런·아쉽다!), It's a pity (that)(~은 유감이다), take pity on(~을 불쌍히 여기다), for pity's sake(제발), more's the pity(더욱 안타깝게도). compassion(연민)·sympathy(동정)·mercy(자비)와 유의어. 반대 cruelty(잔인함)·indifference(무관심).",
+  "syn": ["compassion(연민)", "sympathy(동정)", "mercy(자비)"],
+  "anti": ["cruelty(잔인함)", "indifference(무관심)"],
+  "idiom": ["What a pity!(참 안됐다!)", "take pity on(~을 불쌍히 여기다)", "for pity's sake(제발)", "It's a pity that(~은 유감이다)"],
+  "colloc": ["feel pity for(~을 측은히 여기다)", "What a pity!(안타깝다!)", "take pity on(~을 동정하다)"],
+  "ex_add": "It's a pity you can't come to the party.  (pity=안타까운 일)"
+ },
+ {
+  "num": "3176",
+  "hw": "placement",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "자리에 놓음 -> '배치·배정 / (취업) 알선·실습'.",
+  "senses": [
+   "1) 배치·자리 잡음·배열",
+   "2) (취업·실습) 알선·자리 배정",
+   "3) (현장) 실습 (자리)"
+  ],
+  "etym": "place(놓다·자리) + -ment. place는 라틴어 platea(넓은 길) <- 그리스어 plateia(넓은). '자리에(place) 놓는 일'이 핵심. place·replace(대체하다)·placement와 한 갈래.",
+  "deriv": "place(놓다) -> 'placement'. '자리에 놓음 -> 배치·배정(the placement of furniture, 가구 배치)' -> 취업·실습 '자리 배정(a work placement, 현장 실습)'. 한국 학습자 핵심: place(놓다)·replace(대체하다)·misplace(잘못 두다)·displacement(이동)와 가족! a work placement(현장 실습·인턴십), a job placement(취업 알선), product placement(간접 광고, PPL!), a placement test(반 편성 시험), student placement(학생 배치). positioning(위치 선정)·arrangement(배치)과 유의어. (한국 콩글리시 'PPL'이 product placement!)",
+  "syn": ["positioning(위치 선정)", "arrangement(배치)", "assignment(배정)"],
+  "anti": [],
+  "idiom": ["a work placement(현장 실습)", "product placement(간접 광고)", "a placement test(배치 고사)"],
+  "colloc": ["a work placement(현장 실습)", "product placement(간접 광고)", "a job placement(취업 알선)"],
+  "ex_add": "She got a work placement at a law firm.  (placement=실습)"
+ },
+ {
+  "num": "3177",
+  "hw": "plain",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "평평한 -> '분명한·소박한·평범한 / 평원'.",
+  "senses": [
+   "1) 분명한·명백한·알기 쉬운",
+   "2) 소박한·꾸밈없는·무늬 없는",
+   "3) (외모가) 평범한 / 평원(명사)"
+  ],
+  "etym": "라틴어 planus(평평한·평탄한) -> 'plain'. '평평하여 굴곡·꾸밈이 없는'이 핵심. planus(평평한)는 plane(평면·비행기)·plan(계획=평면도)·explain(평평히 펴 설명하다)·plateau(고원)의 뿌리.",
+  "deriv": "planus(평평한) -> 'plain'. '평평한 -> 분명한(make it plain, 분명히 하다)·소박한(plain food, 담백한 음식)·평범한(plain looks)' -> 명사 '평원(the Great Plains)'. 한국 학습자 핵심: planus(평평한) 갈래 — plane(평면/비행기)·plan(계획)·explain(설명하다)·plateau(고원)·planet(행성은 다른 갈래)! in plain English(쉬운 말로), plain sailing(순조로운 진행), plain clothes(사복), make sth plain(~을 분명히 하다), as plain as day(아주 명백한), plain yogurt(플레인 요거트). clear(분명한)·simple(단순한)·ordinary(평범한)와 유의어. 반대 fancy(화려한)·complicated(2453, 복잡한).",
+  "syn": ["clear(분명한)", "simple(소박한)", "ordinary(평범한)"],
+  "anti": ["fancy(화려한)", "elaborate(정교한)", "complicated(복잡한)"],
+  "idiom": ["in plain English(쉬운 말로)", "plain sailing(순조로운 진행)", "as plain as day(아주 명백한)", "plain clothes(사복)"],
+  "colloc": ["plain food(담백한 음식)", "in plain English(쉬운 말로)", "make sth plain(~을 분명히 하다)"],
+  "ex_add": "She prefers plain food without strong spices.  (plain=소박한)"
+ },
+ {
+  "num": "3178",
+  "hw": "plot",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "한 구획 -> '(이야기) 줄거리 / 음모 / 작은 땅 / 꾸미다'.",
+  "senses": [
+   "1) (소설·영화의) 줄거리·구성",
+   "2) 음모·모의",
+   "3) 작은 땅·터 / (동사) 음모를 꾸미다 / 그래프에 표시하다"
+  ],
+  "etym": "고대 영어 plot(작은 땅 조각)에 프랑스어 complot(음모)의 영향이 더해진 말. '한 구획의 땅'에서 '이야기의 짜임·음모'로 의미가 넓어졌다. '짜 맞춘 구성'이 핵심.",
+  "deriv": "plot(작은 땅) -> 'plot'. '한 구획 -> 작은 땅(a garden plot, 텃밭)' -> 짜 맞춘 '줄거리(the plot of the movie, 영화 줄거리)·음모(hatch a plot, 음모를 꾸미다)' -> 동사 '음모를 꾸미다·그래프에 표시하다'. 한국 학습자 핵심: plot은 '줄거리'와 '음모' 두 핵심 뜻! the plot thickens(이야기가 복잡해지다), a plot twist(반전), hatch a plot(음모를 꾸미다), plot against(~에 대한 음모를 꾸미다), a burial plot(묘지 터), plot a graph(그래프를 그리다). storyline(줄거리)·conspiracy(2482, 음모)·scheme(책략)과 유의어.",
+  "syn": ["storyline(줄거리)", "conspiracy(음모)", "scheme(책략)"],
+  "anti": [],
+  "idiom": ["the plot thickens(이야기가 복잡해지다)", "a plot twist(반전)", "hatch a plot(음모를 꾸미다)"],
+  "colloc": ["the plot of(~의 줄거리)", "a plot twist(반전)", "hatch a plot(음모를 꾸미다)"],
+  "ex_add": "The movie has an exciting and unpredictable plot.  (plot=줄거리)"
+ },
+ {
+  "num": "3179",
+  "hw": "plus",
+  "pos": "prep., adj., n., conj.",
+  "cefr": "B2",
+  "core": "더 -> '더하기·플러스 / 게다가 / 이점'.",
+  "senses": [
+   "1) ~을 더하여·플러스(전치사)",
+   "2) (수가) 양(+)의·플러스의 / ~이상의",
+   "3) 이점·장점(명사) / 게다가(접속사)"
+  ],
+  "etym": "라틴어 plus(더 많은·더). '더(plus) 보탬'이 핵심. plus(더)는 plural(복수의)·surplus(잉여)·plenty(풍부, 먼 갈래)의 뿌리. minus(빼기)와 정반대 짝.",
+  "deriv": "plus(더) -> 'plus'. '더하기(2 plus 2)·~이상의(50 plus)·플러스의(a plus sign)' -> 명사 '이점(a big plus, 큰 장점)' -> 접속사 '게다가(It's cheap, plus it's good)'. 한국 학습자 핵심: plus(더하기) ↔ minus(빼기) 정반대! plus(더) 갈래 — plural(복수)·surplus(잉여)·nonplussed(어리둥절한)! a plus point(장점), on the plus side(좋은 점으로는), a plus sign(더하기 기호), B plus(B+ 학점), a definite plus(확실한 이점). advantage(이점)·bonus(덤)와 유의어(명사). 반대 minus(빼기·단점).",
+  "syn": ["advantage(이점)", "bonus(덤)", "benefit(이득)"],
+  "anti": ["minus(빼기/단점)", "drawback(결점)"],
+  "idiom": ["a plus point(장점)", "on the plus side(좋은 점으로는)", "a definite plus(확실한 이점)"],
+  "colloc": ["a big plus(큰 장점)", "a plus sign(더하기 기호)", "on the plus side(장점으로는)"],
+  "ex_add": "The job has good pay, plus excellent benefits.  (plus=게다가)"
+ },
+ {
+  "num": "3180",
+  "hw": "pointed",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "콕 찌르는 -> '뾰족한 / (말이) 날카로운·노골적인'.",
+  "senses": [
+   "1) 뾰족한·날카로운",
+   "2) (말·태도가) 날카로운·신랄한",
+   "3) 노골적인·의도가 분명한"
+  ],
+  "etym": "point(점·뾰족한 끝, 라틴어 punctum '찌른 점') + -ed. '콕 찌르는(punctum) 끝이 있는'이 핵심. punctum(점)은 point·punctual(시간 엄수의)·puncture(구멍)·disappoint(2600)·punctuation(구두점)의 뿌리.",
+  "deriv": "punctum(찌른 점) -> point -> 'pointed'. '콕 찌르는 -> 뾰족한(a pointed nose, 뾰족한 코)' -> 비유 '(말이) 날카로운·노골적인(a pointed remark, 신랄한 말)'. 한국 학습자 핵심: punctum(점) 갈래 — point·punctual(시간을 지키는)·puncture(펑크)·disappoint(2600)·punctuation(구두점)·appoint(임명하다)! a pointed comment(가시 돋친 말), a pointed question(노골적인 질문), pointed criticism(신랄한 비판), pointedly(일부러 보란 듯이). sharp(날카로운)·sarcastic(빈정대는)·barbed(가시 돋친)와 유의어. 반대 blunt(무딘)·rounded(둥근).",
+  "syn": ["sharp(날카로운)", "barbed(가시 돋친)", "sarcastic(빈정대는)"],
+  "anti": ["blunt(무딘)", "rounded(둥근)", "vague(모호한)"],
+  "idiom": ["a pointed remark(신랄한 말)", "a pointed question(노골적인 질문)", "pointed criticism(날카로운 비판)"],
+  "colloc": ["a pointed remark(가시 돋친 말)", "a pointed nose(뾰족한 코)", "pointed criticism(신랄한 비판)"],
+  "ex_add": "She made a pointed comment about his lateness.  (pointed=날카로운)"
+ },
+ {
+  "num": "3181",
+  "hw": "popularity",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "사람들이 좋아함 -> '인기·대중성'.",
+  "senses": [
+   "1) 인기·평판",
+   "2) 대중성·보급도",
+   "3) 인망"
+  ],
+  "etym": "라틴어 popularis(민중의) <- populus(국민·대중) + -ity. '대중(populus)이 좋아함'이 핵심. populus(대중)는 popular(인기 있는)·population(인구)·public(공공의)·people(사람들)의 뿌리.",
+  "deriv": "populus(대중) -> popular -> 'popularity'. '사람들이 좋아함 -> 인기·대중성(gain popularity, 인기를 얻다)'. 한국 학습자 핵심: populus(대중) 대가족 — popular(인기 있는)·population(인구)·public(공공의)·publicity(3237)·people·populate(거주하다)·populist(대중영합주의)! gain/grow in popularity(인기를 얻다), lose popularity(인기를 잃다), enjoy popularity(인기를 누리다), a surge in popularity(인기 급상승), rise in popularity(인기가 오르다). fame(2731, 명성)·appeal(매력)과 유의어. 반대 unpopularity(인기 없음). popular(인기 있는)·population(인구)이 가족.",
+  "syn": ["fame(명성)", "appeal(매력)", "acclaim(인기)"],
+  "anti": ["unpopularity(인기 없음)", "obscurity(무명)"],
+  "idiom": ["gain popularity(인기를 얻다)", "a surge in popularity(인기 급상승)", "enjoy popularity(인기를 누리다)"],
+  "colloc": ["gain popularity(인기를 얻다)", "grow in popularity(인기가 높아지다)", "lose popularity(인기를 잃다)"],
+  "ex_add": "The singer's popularity grew rapidly after the album.  (popularity=인기)"
+ },
+ {
+  "num": "3182",
+  "hw": "portion",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "나눈 몫 -> '부분·일부 / 1인분'.",
+  "senses": [
+   "1) 부분·일부",
+   "2) (음식) 1인분·몫",
+   "3) (동사) 나누다·분배하다(portion out)"
+  ],
+  "etym": "라틴어 portio(몫·비율) <- pars/part-(부분). '나눠 받은 몫(portio)'이 핵심. pars(부분)는 part·portion·proportion(3226)·partly(3148)·depart(2575)·particle의 뿌리.",
+  "deriv": "pars(부분) -> portio -> 'portion'. '나눈 몫 -> 부분·일부(a large portion of, ~의 큰 부분)·1인분(a small portion, 적은 양)' -> 동사 '나누다(portion out, 분배하다)'. 한국 학습자 핵심: pars(부분) 대가족 — part·portion·proportion(3226)·partly(3148)·partner(3149)·depart(2575)·particle·apart! a portion of(~의 일부), a generous portion(푸짐한 양), portion size(1회 제공량), portion out(나눠 주다), the lion's portion/share(가장 큰 몫). part(부분)·share(몫)·serving(1인분)과 유의어. 반대 whole(전체). proportion(3226, 비율)과 가족.",
+  "syn": ["part(부분)", "share(몫)", "serving(1인분)"],
+  "anti": ["whole(전체)", "entirety(전체)"],
+  "idiom": ["a portion of(~의 일부)", "portion out(나눠 주다)", "a generous portion(푸짐한 양)"],
+  "colloc": ["a large portion(많은 양)", "a portion of(~의 일부)", "portion size(1회 제공량)"],
+  "ex_add": "A large portion of the budget goes to education.  (portion=부분)"
+ },
+ {
+  "num": "3183",
+  "hw": "pose",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "놓다·자세를 취하다 -> '(문제를) 제기하다·~인 척하다 / 자세'.",
+  "senses": [
+   "1) (위협·문제를) 제기하다·일으키다",
+   "2) 자세를 취하다 / ~인 척하다(pose as)",
+   "3) 자세·포즈 / 가식(명사)"
+  ],
+  "etym": "라틴어 pausare(멈추다·놓다) -> 고대 프랑스어 poser -> 'pose'. 라틴어 ponere(놓다)와 뜻이 섞여 '놓다·자세를 잡다'가 됨. position(3184)·compose(2455)·expose(2713)·propose(3228)·impose(2884)와 한 ponere 갈래.",
+  "deriv": "pausare/ponere(놓다) -> 'pose'. '놓다·자세를 취하다 -> (문제·위협을) 제기하다(pose a threat, 위협이 되다)·자세를 취하다(pose for a photo)·~인 척하다(pose as a doctor)' -> 명사 '자세'. 한국 학습자 핵심: ponere(놓다) 대가족 — position(3184)·positive(3185)·compose(2455)·expose(2713)·propose(3228)·impose(2884)·oppose(3116)·deposit(2577)·component(2454)! pose a threat/risk/problem/question(위협·위험·문제·질문을 제기하다 — 빈출!), pose as(~으로 가장하다), strike a pose(포즈를 취하다). present(제기하다)·pretend(가장하다)와 유의어.",
+  "syn": ["present(제기하다)", "pretend(가장하다)", "position(자세를 잡다)"],
+  "anti": [],
+  "idiom": ["pose a threat(위협이 되다)", "pose as(~으로 가장하다)", "strike a pose(포즈를 취하다)"],
+  "colloc": ["pose a threat(위협이 되다)", "pose a question(질문을 제기하다)", "pose for a photo(사진 포즈를 취하다)"],
+  "ex_add": "Pollution poses a serious threat to wildlife.  (pose=제기하다)"
+ },
+ {
+  "num": "3184",
+  "hw": "position",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "놓인 자리 -> '위치·자세 / 지위·직책 / 입장'.",
+  "senses": [
+   "1) 위치·자리·자세",
+   "2) 지위·직위·직책",
+   "3) 입장·견해 / (동사) 배치하다"
+  ],
+  "etym": "라틴어 positio <- ponere(놓다)의 과거분사 positus. '놓인(ponere) 자리'가 핵심. ponere(놓다)는 pose(3183)·positive(3185)·compose(2455)·expose(2713)·propose(3228)·impose(2884)·oppose(3116)의 거대한 뿌리.",
+  "deriv": "ponere(놓다) -> positio -> 'position'. '놓인 자리 -> 위치·자세(a comfortable position, 편한 자세)·지위(a senior position, 고위직)·입장(my position on this, 이에 대한 내 입장)' -> 동사 '배치하다'. 한국 학습자 핵심: ponere(놓다) 대가족 — pose(3183)·positive(3185)·compose(2455)·expose(2713)·propose(3228)·impose(2884)·oppose(3116)·component(2454)·deposit(2577)! be in a position to do(~할 처지에 있다), a strong position(유리한 위치), apply for a position(자리에 지원하다), take a position(입장을 취하다). location(위치)·post(직위)·stance(입장)와 유의어.",
+  "syn": ["location(위치)", "post(직위)", "stance(입장)"],
+  "anti": [],
+  "idiom": ["be in a position to do(~할 처지에 있다)", "take a position(입장을 취하다)", "a strong position(유리한 위치)"],
+  "colloc": ["a senior position(고위직)", "a comfortable position(편한 자세)", "apply for a position(자리에 지원하다)"],
+  "ex_add": "She holds a senior position in the company.  (position=직위)"
+ },
+ {
+  "num": "3185",
+  "hw": "positive",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "확실히 놓인 -> '긍정적인·확신하는·양성의'.",
+  "senses": [
+   "1) 긍정적인·낙관적인·적극적인",
+   "2) 확신하는·분명한",
+   "3) (검사) 양성의 / (전기) 양극의 / 양수의"
+  ],
+  "etym": "라틴어 positivus(확실히 놓인·확정된) <- ponere(놓다)의 과거분사. '확실히 놓여 단언된'이 핵심. ponere(놓다)는 position(3184)·pose(3183)·compose(2455)·expose(2713)의 거대한 뿌리. negative(3074, 부정의)와 정반대 짝.",
+  "deriv": "ponere(놓다) -> positivus -> 'positive'. '확실히 놓인 -> 긍정적인(a positive attitude, 긍정적 태도)·확신하는(I'm positive, 확실해)·양성의(test positive, 양성 판정)'. 한국 학습자 핵심: positive(긍정적·양성) ↔ negative(3074, 부정적·음성) 정반대! ponere(놓다) 대가족 — position(3184)·pose(3183)·compose(2455)·expose(2713)·propose(3228)·impose(2884)·oppose(3116)! a positive attitude(긍정적 태도), a positive effect(긍정적 영향), test positive(양성이 나오다), on the positive side(좋은 점으로는), positive feedback(긍정적 반응, 2739). optimistic(2... 낙관적인)·affirmative(긍정의)·confident(확신하는)와 유의어. 반대 negative(3074).",
+  "syn": ["optimistic(낙관적인)", "affirmative(긍정의)", "confident(확신하는)"],
+  "anti": ["negative(부정적인)", "pessimistic(비관적인)", "doubtful(의심스러운)"],
+  "idiom": ["a positive attitude(긍정적 태도)", "test positive(양성 판정을 받다)", "on the positive side(좋은 점으로는)"],
+  "colloc": ["a positive attitude(긍정적 태도)", "a positive effect(긍정적 영향)", "positive feedback(긍정적 반응)"],
+  "ex_add": "Try to keep a positive attitude during hard times.  (positive=긍정적인)"
+ },
+ {
+  "num": "3186",
+  "hw": "possess",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "주인으로 앉아 있다 -> '소유하다·지니다 / (감정이) 사로잡다'.",
+  "senses": [
+   "1) 소유하다·보유하다",
+   "2) (자질·특징을) 지니다·갖추다",
+   "3) (감정·악령이) 사로잡다·홀리다"
+  ],
+  "etym": "라틴어 possidere = pot-(주인으로서) + sedere(앉다) -> '주인으로(pot) 자리에 앉아(sedere) 차지함'. sedere(앉다)는 possession(소유)·session(회기)·sedentary(앉아 있는)·reside(거주하다)·president의 뿌리.",
+  "deriv": "pot-(주인) + sedere(앉다) -> 'possess'. '주인으로 앉아 있다 -> 소유하다(possess wealth, 부를 소유하다)·지니다(possess talent)·사로잡다(possessed by fear)'. 한국 학습자 핵심: sedere(앉다) 갈래 — possession(소유)·session(회기)·sedentary(앉아서 하는)·reside(거주하다)·president(대통령)·sediment(침전물)! possess qualities(자질을 갖추다), be possessed by(~에 사로잡히다), like one possessed(미친 듯이), possessions(소유물). own(소유하다)·have(가지다)와 유의어 — possess는 격식체! 반대 lack(결여하다)·want(부족하다). possession(소유)·possessive(소유욕이 강한)가 가족.",
+  "syn": ["own(소유하다)", "have(지니다)", "hold(보유하다)"],
+  "anti": ["lack(결여하다)", "want(부족하다)"],
+  "idiom": ["be possessed by(~에 사로잡히다)", "like one possessed(미친 듯이)", "possess qualities(자질을 갖추다)"],
+  "colloc": ["possess wealth(부를 소유하다)", "possess qualities(자질을 갖추다)", "be possessed by(~에 사로잡히다)"],
+  "ex_add": "She possesses all the qualities of a great leader.  (possess=지니다)"
+ },
+ {
+  "num": "3187",
+  "hw": "potential",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "힘을 품은 -> '잠재적인·가능성 있는 / 잠재력'.",
+  "senses": [
+   "1) 잠재적인·가능성이 있는·장차의",
+   "2) 잠재력·가능성(명사)",
+   "3) (물리) 전위·퍼텐셜"
+  ],
+  "etym": "라틴어 potentia(힘·능력) <- posse(할 수 있다) = pot-(할 수 있는) + esse(이다). '아직 발휘되지 않은 힘(potentia)을 품은'이 핵심. posse(가능)는 power(3189)·potent(강력한)·possible(가능한)·omnipotent(전능한)의 뿌리.",
+  "deriv": "posse(할 수 있다) -> potentia -> 'potential'. '힘을 품은 -> 잠재적인(a potential problem, 잠재적 문제)·가능성 있는' -> 명사 '잠재력(reach one's potential, 잠재력을 발휘하다)'. 한국 학습자 핵심: posse(가능) 갈래 — power(3189)·potent(강력한)·possible(가능한)·omnipotent(전능한)·potentate(군주)·potentially(3188)! reach/fulfill one's potential(잠재력을 발휘하다, 2786 fulfill), great potential(큰 잠재력), a potential customer(잠재 고객), untapped potential(미개발 잠재력), have the potential to do(~할 가능성이 있다). possible(가능한)·prospective(장래의)와 유의어. 반대 actual(실제의)·existing(현존하는).",
+  "syn": ["possible(가능한)", "prospective(장래의)", "latent(잠재된)"],
+  "anti": ["actual(실제의)", "existing(현존하는)"],
+  "idiom": ["reach one's potential(잠재력을 발휘하다)", "untapped potential(미개발 잠재력)", "a potential customer(잠재 고객)"],
+  "colloc": ["a potential problem(잠재적 문제)", "great potential(큰 잠재력)", "reach one's potential(잠재력을 발휘하다)"],
+  "ex_add": "She has the potential to become a great athlete.  (potential=잠재력)"
+ },
+ {
+  "num": "3188",
+  "hw": "potentially",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'잠재적으로·어쩌면·~할 수 있게'.",
+  "senses": [
+   "1) 잠재적으로·가능성으로는",
+   "2) 어쩌면·자칫",
+   "3) ~할 소지가 있게"
+  ],
+  "etym": "potential(잠재적인, 3187) + -ly. 라틴어 posse(할 수 있다) -> potentia(힘) 뿌리. '아직 드러나지 않았으나 ~할 수 있게'가 핵심. power(3189)·potent·possible과 한 posse 갈래.",
+  "deriv": "potential(3187) -> 'potentially'. '잠재적으로 -> 어쩌면·자칫(potentially dangerous, 자칫 위험할 수 있는)'. 한국 학습자 핵심: posse(가능) 갈래 — power(3189)·potent(강력한)·possible·potential(3187)·omnipotent! potentially dangerous/harmful/fatal(잠재적으로 위험한/유해한/치명적인 — 빈출!), potentially lucrative(돈이 될 만한), a potentially serious problem(자칫 심각해질 문제). possibly(어쩌면)·conceivably(생각건대)와 유의어 — '실제로는 아니지만 ~할 수 있는' 가능성! potential(3187) 가족. 반대 actually(실제로)·definitely(확실히).",
+  "syn": ["possibly(어쩌면)", "conceivably(아마)", "theoretically(이론상)"],
+  "anti": ["actually(실제로)", "definitely(확실히)"],
+  "idiom": ["potentially dangerous(자칫 위험한)", "potentially fatal(치명적일 수 있는)"],
+  "colloc": ["potentially dangerous(잠재적으로 위험한)", "potentially harmful(유해할 수 있는)", "potentially serious(심각해질 수 있는)"],
+  "ex_add": "Mixing these chemicals is potentially dangerous.  (potentially=잠재적으로)"
+ },
+ {
+  "num": "3189",
+  "hw": "power",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "할 수 있는 힘 -> '힘·권력·동력 / 작동시키다'.",
+  "senses": [
+   "1) 힘·능력·영향력",
+   "2) 권력·정권 / 강대국",
+   "3) 동력·전력 / (동사) 동력을 공급하다"
+  ],
+  "etym": "라틴어 posse(할 수 있다) -> 고대 프랑스어 poeir -> 'power'. '할 수 있는(posse) 힘'이 핵심. posse(가능)는 potential(3187)·potent(강력한)·possible(가능한)·omnipotent(전능한)의 뿌리.",
+  "deriv": "posse(할 수 있다) -> 'power'. '할 수 있는 힘 -> 힘·능력(willpower, 의지력)·권력(come to power, 집권하다)·동력(solar power, 태양 에너지)' -> 동사 '동력을 공급하다(powered by, ~으로 작동되는)'. 한국 학습자 핵심: posse(가능) 갈래 — potential(3187)·potent·possible·omnipotent·powerful(강력한)·empower(권한을 주다)! come to/take power(집권하다), be in power(집권 중이다), the balance of power(세력 균형), power struggle(권력 투쟁), willpower(의지력), nuclear power(원자력). force(힘)·authority(권한)·energy(에너지)와 유의어. 반대 weakness(약점)·powerlessness(무력).",
+  "syn": ["force(힘)", "authority(권한)", "energy(동력)"],
+  "anti": ["weakness(약점)", "powerlessness(무력)"],
+  "idiom": ["come to power(집권하다)", "be in power(집권 중이다)", "the balance of power(세력 균형)", "power struggle(권력 투쟁)"],
+  "colloc": ["come to power(집권하다)", "solar power(태양 에너지)", "willpower(의지력)"],
+  "ex_add": "The new government came to power last year.  (power=권력)"
+ },
+ {
+  "num": "3190",
+  "hw": "praise",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "값을 매겨 높임 -> '칭찬·찬양 / 칭찬하다'.",
+  "senses": [
+   "1) 칭찬·찬사·찬양",
+   "2) (동사) 칭찬하다·찬양하다",
+   "3) (신을) 찬미하다"
+  ],
+  "etym": "라틴어 pretium(값·가치) -> 고대 프랑스어 preisier(값을 매기다·높이 평가하다) -> 'praise'. '값(pretium)을 높이 매겨 추켜세움'이 핵심. pretium(값)은 price(3202)·precious(3192)·appreciate(진가를 알다)·prize(상)의 뿌리.",
+  "deriv": "pretium(값) -> preisier -> 'praise'. '값을 높이 매김 -> 칭찬·찬사(high praise, 극찬)' -> 동사 '칭찬하다(praise sb for, ~을 칭찬하다)'. 한국 학습자 핵심: pretium(값) 갈래 — price(3202)·precious(3192)·appreciate(감사하다/진가를 알다)·prize(상)·appraise(평가하다)! praise sb for(~ 때문에 ~를 칭찬하다), win/earn praise(칭찬을 받다), high praise(극찬), praise to the skies(극구 칭찬하다), in praise of(~을 기리어), full of praise(칭찬을 아끼지 않는). compliment(칭찬)·commend(칭송하다)·acclaim(찬사)과 유의어. 반대 criticize(2528, 비판하다)·condemn(비난하다).",
+  "syn": ["compliment(칭찬)", "commend(칭송하다)", "acclaim(찬사)"],
+  "anti": ["criticize(비판하다)", "condemn(비난하다)", "blame(탓하다)"],
+  "idiom": ["high praise(극찬)", "in praise of(~을 기리어)", "praise to the skies(극구 칭찬하다)"],
+  "colloc": ["high praise(극찬)", "praise sb for(~을 칭찬하다)", "win praise(칭찬을 받다)"],
+  "ex_add": "The teacher praised the students for their hard work.  (praise=칭찬하다)"
+ },
+ {
+  "num": "3191",
+  "hw": "precede",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "앞서 가다 -> '앞서다·선행하다·앞에 오다'.",
+  "senses": [
+   "1) (시간·순서가) 앞서다·선행하다",
+   "2) (~보다) 먼저 일어나다·앞에 오다",
+   "3) (지위가) 앞서다·우선하다"
+  ],
+  "etym": "라틴어 praecedere = prae-(앞에) + cedere(가다) -> '앞에(prae) 가다(cedere)'. cedere(가다)는 proceed(3214)·exceed(2696)·succeed·recede·process(3215)·access·concede·precedent(선례)의 거대한 뿌리.",
+  "deriv": "prae-(앞에) + cedere(가다) -> 'precede'. '앞서 가다 -> 앞서다·선행하다(the years preceding the war, 전쟁 이전 몇 년)'. 한국 학습자 핵심: cedere(가다) 대가족 — proceed(3214)·exceed(2696)·succeed·recede·process(3215)·access·concede·precedent(선례)·precede! be preceded by(~이 앞서다), the preceding chapter(앞 장), precede A with B(A에 앞서 B를 두다), without precedent(전례 없는). come before(앞서다)·lead up to(~로 이어지다)와 유의어. 반대 follow(뒤따르다)·succeed(뒤를 잇다). preceding(앞선)·precedent(선례)이 가족.",
+  "syn": ["come before(앞서다)", "lead up to(~로 이어지다)", "antedate(앞서다)"],
+  "anti": ["follow(뒤따르다)", "succeed(뒤를 잇다)"],
+  "idiom": ["be preceded by(~이 앞서다)", "the preceding chapter(앞 장)", "without precedent(전례 없는)"],
+  "colloc": ["precede the event(사건에 앞서다)", "the preceding year(전년도)", "be preceded by(~이 선행하다)"],
+  "ex_add": "A loud bang preceded the explosion.  (precede=앞서다)"
+ }
+]

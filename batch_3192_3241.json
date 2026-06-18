@@ -1,0 +1,952 @@
+[
+ {
+  "num": "3192",
+  "hw": "precious",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "값이 큰 -> '귀중한·소중한'.",
+  "senses": [
+   "1) 귀중한·값비싼",
+   "2) 소중한·아끼는",
+   "3) 지나치게 까다로운(부정)"
+  ],
+  "etym": "라틴어 pretiosus(값나가는) <- pretium(값·가치). '값(pretium)이 높은'이 핵심. pretium(값)은 price(3202)·praise(3190)·appreciate(진가를 알다)·prize(상)의 뿌리.",
+  "deriv": "pretium(값) -> pretiosus -> 'precious'. '값이 큰 -> 귀중한(precious metals, 귀금속)·소중한(precious memories, 소중한 추억)'. 한국 학습자 핵심: pretium(값) 갈래 — price(3202)·praise(3190)·appreciate(감사하다)·prize(상)·appraise(평가하다)·depreciate(가치가 떨어지다)! precious metals(귀금속), precious stones(보석), precious little(거의 없는), precious time(귀중한 시간), a precious moment(소중한 순간). valuable(값진)·priceless(값을 매길 수 없는)·treasured(소중한)와 유의어. 반대 worthless(가치 없는)·cheap(값싼). priceless(아주 귀중한)와 비교 — precious는 '귀중한', priceless는 '값을 매길 수 없는'!",
+  "syn": ["valuable(값진)", "treasured(소중한)", "priceless(귀중한)"],
+  "anti": ["worthless(가치 없는)", "cheap(값싼)"],
+  "idiom": ["precious metals(귀금속)", "precious little(거의 없는)", "precious stones(보석)"],
+  "colloc": ["precious metals(귀금속)", "precious memories(소중한 추억)", "precious time(귀중한 시간)"],
+  "ex_add": "Clean water is a precious resource.  (precious=귀중한)"
+ },
+ {
+  "num": "3193",
+  "hw": "precise",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "딱 잘라 낸 -> '정확한·정밀한·바로 그'.",
+  "senses": [
+   "1) 정확한·정밀한",
+   "2) 꼼꼼한·명확한",
+   "3) 바로 그·다름 아닌"
+  ],
+  "etym": "라틴어 praecisus(잘라 낸) <- praecidere = prae-(앞서) + caedere(자르다) -> '군더더기를 잘라(caedere) 낸'. caedere(자르다)는 precisely(3194)·decide(잘라 정하다)·concise(간결한)·scissors(가위)·suicide(자살)의 뿌리.",
+  "deriv": "prae-(앞서) + caedere(자르다) -> 'precise'. '딱 잘라 낸 -> 정확한·정밀한(precise measurements, 정밀한 측정)·바로 그(at that precise moment, 바로 그 순간)'. 한국 학습자 핵심: caedere(자르다) 갈래 — precisely(3194)·decide(결정하다)·concise(간결한)·scissors(가위)·suicide(자살)·homicide(살인)·pesticide(살충제)! to be precise(정확히 말하면), precise details(정확한 세부 사항), a precise figure(정확한 수치). exact(정확한)·accurate(정확한)·specific(구체적인)과 유의어 — precise는 '딱 들어맞는 정밀함'! 반대 vague(모호한)·approximate(대략의)·imprecise(부정확한). precisely(3194)가 부사.",
+  "syn": ["exact(정확한)", "accurate(정확한)", "specific(구체적인)"],
+  "anti": ["vague(모호한)", "approximate(대략의)", "imprecise(부정확한)"],
+  "idiom": ["to be precise(정확히 말하면)", "at that precise moment(바로 그 순간)", "precise details(정확한 세부 사항)"],
+  "colloc": ["precise measurements(정밀한 측정)", "a precise figure(정확한 수치)", "to be precise(정확히 말하면)"],
+  "ex_add": "Could you give me the precise time of the meeting?  (precise=정확한)"
+ },
+ {
+  "num": "3194",
+  "hw": "precisely",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'정확히·바로·꼭'.",
+  "senses": [
+   "1) 정확히·꼭·바로",
+   "2) 정밀하게·면밀히",
+   "3) (강한 동의) 바로 그렇다"
+  ],
+  "etym": "precise(정확한, 3193) + -ly. 라틴어 prae-(앞서) + caedere(자르다) 뿌리. '딱 잘라 맞게'가 핵심. precise(3193)·decide·concise와 한 caedere 갈래.",
+  "deriv": "precise(3193) -> 'precisely'. '정확히·바로(at precisely 9 o'clock, 정확히 9시에)' -> (동의) '바로 그렇다(\"You agree?\" \"Precisely.\")'. 한국 학습자 핵심: caedere(자르다) 갈래 — precise(3193)·decide·concise(간결한)·scissors·suicide·-cide(죽이다)! precisely because(바로 ~ 때문에), more precisely(더 정확히 말하면), precisely the same(정확히 똑같은), at precisely ~(정확히 ~에). 대화에서 'Precisely!'는 강한 동의 '바로 그거야!'! exactly(정확히)·accurately(정확하게)와 유의어. precise(3193) 가족. 반대 roughly(대략)·approximately(대략).",
+  "syn": ["exactly(정확히)", "accurately(정확하게)", "just(바로)"],
+  "anti": ["roughly(대략)", "approximately(대략)", "vaguely(막연히)"],
+  "idiom": ["precisely because(바로 ~ 때문에)", "more precisely(더 정확히는)", "Precisely!(바로 그거야!)"],
+  "colloc": ["precisely because(바로 ~ 때문에)", "at precisely(정확히 ~에)", "precisely the same(정확히 똑같은)"],
+  "ex_add": "The train left at precisely 8 o'clock.  (precisely=정확히)"
+ },
+ {
+  "num": "3195",
+  "hw": "predictable",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "미리 말할 수 있는 -> '예측 가능한 / 뻔한'.",
+  "senses": [
+   "1) 예측[예상] 가능한",
+   "2) (부정) 뻔한·새로울 게 없는",
+   "3) 늘 그러한"
+  ],
+  "etym": "predict(예측하다) + -able. predict는 prae-(미리) + dicere(말하다) -> '미리(prae) 말함(dicere)'. dicere(말하다)는 dictate(받아쓰게 하다)·contradict(반박하다)·indication(2896)·index(2895)·dictionary(사전)의 뿌리.",
+  "deriv": "prae-(미리) + dicere(말하다) -> predict -> 'predictable'. '미리 말할 수 있는 -> 예측 가능한(a predictable result, 예측 가능한 결과)' -> 부정 '뻔한(a predictable plot, 뻔한 줄거리)'. 한국 학습자 핵심: dicere(말하다) 대가족 — predict·dictate·contradict(반박하다)·indication(2896)·index(2895)·dictionary·verdict·diction·dedicate! highly predictable(아주 뻔한), entirely predictable(전적으로 예상되는), a predictable outcome(예측 가능한 결과), predictably(예상대로). expected(예상되는)·foreseeable(예측 가능한)와 유의어 — '뻔한' 부정 뉘앙스 주의! 반대 unpredictable(예측 불가능한)·surprising(뜻밖의)·random(무작위의).",
+  "syn": ["expected(예상되는)", "foreseeable(예측 가능한)", "anticipated(예상된)"],
+  "anti": ["unpredictable(예측 불가능한)", "surprising(뜻밖의)", "random(무작위의)"],
+  "idiom": ["a predictable result(예측 가능한 결과)", "entirely predictable(전적으로 예상되는)", "a predictable plot(뻔한 줄거리)"],
+  "colloc": ["a predictable result(예측 가능한 결과)", "highly predictable(아주 뻔한)", "a predictable pattern(예측 가능한 패턴)"],
+  "ex_add": "The ending of the movie was completely predictable.  (predictable=뻔한)"
+ },
+ {
+  "num": "3196",
+  "hw": "preference",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "앞으로 내미는 마음 -> '선호·더 좋아함 / 우선권'.",
+  "senses": [
+   "1) 선호·더 좋아함·기호",
+   "2) 우선·우대",
+   "3) 선호하는 것"
+  ],
+  "etym": "라틴어 praeferre = prae-(앞에) + ferre(나르다·내밀다) -> '하나를 앞으로(prae) 내밂(ferre)'. ferre(나르다)는 prefer(선호하다)·refer(언급하다)·differ(2594)·transfer·infer(2901)·offer·suffer의 거대한 뿌리.",
+  "deriv": "prae-(앞에) + ferre(내밀다) -> prefer -> 'preference'. '앞으로 내미는 마음 -> 선호(personal preference, 개인적 취향)·우선권'. 한국 학습자 핵심: ferre(나르다) 대가족 — prefer·refer·differ(2594)·transfer·infer(2901)·offer·suffer·confer·circumference·conference·fertile! a preference for(~에 대한 선호), in preference to(~보다), give preference to(~을 우대하다), have a strong preference(강한 선호가 있다), personal preferences(개인적 취향). liking(좋아함)·inclination(성향)·choice(선택)과 유의어. 반대 aversion(혐오)·dislike(싫어함). prefer(선호하다)·preferable(더 나은)이 가족.",
+  "syn": ["liking(좋아함)", "inclination(성향)", "choice(선택)"],
+  "anti": ["aversion(혐오)", "dislike(싫어함)", "indifference(무관심)"],
+  "idiom": ["a preference for(~에 대한 선호)", "in preference to(~보다)", "give preference to(~을 우대하다)"],
+  "colloc": ["a preference for(~을 선호함)", "personal preference(개인적 취향)", "give preference to(~을 우선하다)"],
+  "ex_add": "She has a strong preference for tea over coffee.  (preference=선호)"
+ },
+ {
+  "num": "3197",
+  "hw": "pregnant",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "태어나기 직전의 -> '임신한 / 의미심장한'.",
+  "senses": [
+   "1) 임신한",
+   "2) (동물이) 새끼를 밴",
+   "3) 의미심장한·함축적인(pregnant pause)"
+  ],
+  "etym": "라틴어 praegnans = prae-(앞서) + gnasci(태어나다, nasci의 옛 형태) -> '태어남(gnasci) 앞에(prae) 있는 -> 곧 낳을'. nasci(태어나다)는 national(3070)·native(타고난)·nature(본성)·innate의 뿌리.",
+  "deriv": "prae-(앞서) + gnasci(태어나다) -> 'pregnant'. '태어나기 직전의 -> 임신한(get pregnant, 임신하다)' -> 비유 '의미를 잔뜩 밴 -> 의미심장한(a pregnant pause, 의미심장한 침묵)'. 한국 학습자 핵심: nasci(태어나다) 갈래 — national(3070)·native(원주민)·nature(자연)·innate(타고난)·prenatal(출생 전의)·renaissance(르네상스)! get pregnant(임신하다), be pregnant with(~을 임신하다/~을 잔뜩 머금다), heavily pregnant(만삭의), a pregnant pause(뜻 있는 침묵), pregnancy(임신). expecting(임신 중인)·with child(임신한)와 유의어. pregnancy(임신)가 명사.",
+  "syn": ["expecting(임신 중인)", "with child(임신한)"],
+  "anti": [],
+  "idiom": ["get pregnant(임신하다)", "a pregnant pause(의미심장한 침묵)", "heavily pregnant(만삭의)"],
+  "colloc": ["get pregnant(임신하다)", "heavily pregnant(만삭의)", "a pregnant woman(임신부)"],
+  "ex_add": "She is six months pregnant with her first child.  (pregnant=임신한)"
+ },
+ {
+  "num": "3198",
+  "hw": "preparation",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "미리 갖춤 -> '준비 / 조제품'.",
+  "senses": [
+   "1) 준비·대비",
+   "2) (보통 복수) 준비 작업·채비",
+   "3) 조제(품)·제제"
+  ],
+  "etym": "라틴어 praeparare = prae-(미리) + parare(갖추다)의 명사형 praeparatio -> '미리(prae) 갖춤(parare)'. parare(갖추다)는 prepare(준비하다)·parade(3143)·repair(수리하다)·apparatus(장치)의 뿌리.",
+  "deriv": "prae-(미리) + parare(갖추다) -> prepare -> 'preparation'. '미리 갖춤 -> 준비(in preparation for, ~을 준비하여)' -> '준비 작업(make preparations)'. 한국 학습자 핵심: parare(갖추다) 갈래 — prepare·parade(3143)·repair(수리)·apparatus(장치)·preparatory(예비의)·separate(가르다)! in preparation for(~에 대비하여), make preparations(준비를 하다), careful preparation(철저한 준비), preparation for(~을 위한 준비), advance preparation(사전 준비). readiness(준비됨)·arrangement(준비)과 유의어. prepare(준비하다)·preparatory(예비의)가 가족.",
+  "syn": ["readiness(준비됨)", "arrangement(준비)", "groundwork(준비 작업)"],
+  "anti": [],
+  "idiom": ["in preparation for(~을 준비하여)", "make preparations(준비를 하다)", "advance preparation(사전 준비)"],
+  "colloc": ["careful preparation(철저한 준비)", "in preparation for(~에 대비하여)", "make preparations(준비를 하다)"],
+  "ex_add": "Good preparation is the key to success.  (preparation=준비)"
+ },
+ {
+  "num": "3199",
+  "hw": "presence",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "앞에 있음 -> '존재·있음 / 참석 / 풍채'.",
+  "senses": [
+   "1) 존재·있음·현존",
+   "2) 참석·출석·임석",
+   "3) (사람의) 풍채·존재감"
+  ],
+  "etym": "라틴어 praesentia <- praesens(앞에 있는) = prae-(앞에) + esse(있다)의 현재분사. '앞에(prae) 있음(esse)'이 핵심. esse(있다)는 present(현재의·있는)·essence(본질, essentially 2681)·absence(부재)·interest의 뿌리.",
+  "deriv": "prae-(앞에) + esse(있다) -> present -> 'presence'. '앞에 있음 -> 존재(the presence of oxygen, 산소의 존재)·참석(your presence, 당신의 참석)·풍채(stage presence, 무대 존재감)'. 한국 학습자 핵심: esse(있다) 갈래 — present(현재의/선물)·essence(본질)·essential·essentially(2681)·absence(부재)·interest·entity! in the presence of(~ 앞에서/~이 있는 데서), make one's presence felt(존재감을 드러내다), a commanding presence(위풍당당한 풍채), the presence of mind(침착함), military presence(군 주둔). existence(2703, 존재)·attendance(출석)와 유의어. 반대 absence(부재).",
+  "syn": ["existence(존재)", "attendance(출석)", "occurrence(있음)"],
+  "anti": ["absence(부재)", "lack(없음)"],
+  "idiom": ["in the presence of(~ 앞에서)", "make one's presence felt(존재감을 드러내다)", "presence of mind(침착함)"],
+  "colloc": ["in the presence of(~ 앞에서)", "a strong presence(강한 존재감)", "military presence(군 주둔)"],
+  "ex_add": "The tests showed the presence of a virus.  (presence=존재)"
+ },
+ {
+  "num": "3200",
+  "hw": "preserve",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "온전히 지켜 두다 -> '보존하다·지키다·보호하다'.",
+  "senses": [
+   "1) (원래대로) 보존하다·유지하다",
+   "2) (음식을) 저장하다·절이다",
+   "3) (위험에서) 지키다·보호하다"
+  ],
+  "etym": "라틴어 praeservare = prae-(미리) + servare(지키다) -> '미리(prae) 지켜(servare) 둠'. servare(지키다)는 conserve·conservation(2475)·observe(3097)·reserve·reservoir의 뿌리.",
+  "deriv": "prae-(미리) + servare(지키다) -> 'preserve'. '온전히 지켜 두다 -> 보존하다(preserve the environment, 환경을 보존하다)·저장하다(preserved food, 보존 식품)'. 한국 학습자 핵심: servare(지키다) 대가족 — conserve·conservation(2475)·conservative(2476)·observe(3097)·observation(3096)·reserve·reservoir·preservation! preserve traditions(전통을 지키다), well-preserved(잘 보존된), preserve the peace(평화를 유지하다), preservatives(방부제), a nature preserve(자연 보호 구역). conserve(보존하다)·maintain(3001, 유지하다)·protect(보호하다)와 유의어. 반대 destroy(파괴하다)·waste(낭비하다). preservation(보존)이 명사.",
+  "syn": ["conserve(보존하다)", "maintain(유지하다)", "protect(보호하다)"],
+  "anti": ["destroy(파괴하다)", "waste(낭비하다)", "spoil(상하게 하다)"],
+  "idiom": ["preserve the peace(평화를 유지하다)", "well-preserved(잘 보존된)", "a nature preserve(자연 보호 구역)"],
+  "colloc": ["preserve the environment(환경을 보존하다)", "preserve traditions(전통을 지키다)", "well-preserved(잘 보존된)"],
+  "ex_add": "We must work to preserve the natural environment.  (preserve=보존하다)"
+ },
+ {
+  "num": "3201",
+  "hw": "presidential",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "앞에 앉은 이의 -> '대통령의·회장의'.",
+  "senses": [
+   "1) 대통령의·대통령직의",
+   "2) 회장의·총재의",
+   "3) 대통령 선거의"
+  ],
+  "etym": "president(대통령·회장) + -ial. president는 라틴어 praesidere = prae-(앞에) + sedere(앉다) -> '앞에(prae) 앉아(sedere) 주재하는 사람'. sedere(앉다)는 possess(3186)·preside(주재하다)·reside(거주하다)·session(회기)·sediment(침전물)의 뿌리.",
+  "deriv": "prae-(앞에) + sedere(앉다) -> president -> 'presidential'. '앞에 앉은 이의 -> 대통령의(a presidential election, 대선)'. 한국 학습자 핵심: sedere(앉다) 갈래 — president(대통령)·preside(사회 보다)·reside(거주하다)·possess(3186)·session(회기)·sediment(침전물)·sedentary(앉아 있는)·dissident(반체제 인사)! a presidential election(대통령 선거), a presidential candidate(대선 후보), the presidential palace(대통령 관저), presidential powers(대통령 권한), a presidential debate(대선 토론). president(대통령)·presidency(대통령직)가 가족. '앞에 앉아 주재하는' 어원!",
+  "syn": ["executive(행정 수반의)"],
+  "anti": [],
+  "idiom": ["a presidential election(대통령 선거)", "a presidential candidate(대선 후보)", "the presidential palace(대통령 관저)"],
+  "colloc": ["a presidential election(대선)", "a presidential candidate(대선 후보)", "presidential powers(대통령 권한)"],
+  "ex_add": "The presidential election will be held next month.  (presidential=대통령의)"
+ },
+ {
+  "num": "3202",
+  "hw": "price",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "값 -> '가격·값 / 대가 / 값을 매기다'.",
+  "senses": [
+   "1) 가격·값",
+   "2) (치러야 할) 대가·희생",
+   "3) (동사) 값을 매기다"
+  ],
+  "etym": "라틴어 pretium(값·보상) -> 고대 프랑스어 pris -> 'price'. '치르는 값(pretium)'이 핵심. pretium(값)은 precious(3192)·praise(3190)·appreciate(진가를 알다)·prize(상)·appraise(평가하다)의 뿌리.",
+  "deriv": "pretium(값) -> 'price'. '값 -> 가격(a high price, 높은 가격)·대가(the price of fame, 명성의 대가)' -> 동사 '값을 매기다(priced at $50)'. 한국 학습자 핵심: pretium(값) 갈래 — precious(3192)·praise(3190)·appreciate(감사하다)·prize(상)·appraise! at any price(어떤 대가를 치르더라도), at a price(상당한 대가를 치르고), pay the price(대가를 치르다), a price tag(가격표), half price(반값), the price of(~의 값/대가). cost(비용)·value(가치)·charge(요금)와 유의어. priceless(값을 매길 수 없는·아주 귀중한)와 구별 — priceless는 '값을 못 매기는'!",
+  "syn": ["cost(비용)", "value(가치)", "charge(요금)"],
+  "anti": [],
+  "idiom": ["at any price(어떤 대가를 치르더라도)", "pay the price(대가를 치르다)", "a price tag(가격표)", "at a price(대가를 치르고)"],
+  "colloc": ["a high price(높은 가격)", "pay the price(대가를 치르다)", "the price of(~의 값)"],
+  "ex_add": "The price of fuel has gone up again.  (price=가격)"
+ },
+ {
+  "num": "3203",
+  "hw": "pride",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "자랑스러워함 -> '자부심·긍지 / 자만 / 자랑으로 여기다'.",
+  "senses": [
+   "1) 자부심·긍지·자존심",
+   "2) 자랑거리 / 자만·오만",
+   "3) (pride oneself on) ~을 자랑으로 여기다"
+  ],
+  "etym": "고대 영어 pryto/pryde <- prut(자랑스러운). proud(자랑스러운)의 명사형. '자랑스러워하는 마음'이 핵심. proud(거만한/자랑스러운)와 한 갈래.",
+  "deriv": "prut(자랑스러운) -> proud -> 'pride'. '자랑스러워함 -> 자부심·긍지(take pride in, ~에 자부심을 갖다)·자만(wounded pride, 상한 자존심)' -> 동사 'pride oneself on(~을 자랑으로 여기다)'. 한국 학습자 핵심: proud(형용사 '자랑스러운')의 명사가 pride! take pride in(~에 자부심을 갖다 — 빈출!), pride oneself on(~을 자랑으로 삼다), hurt sb's pride(~의 자존심을 상하게 하다), Pride comes before a fall(교만은 패망의 선봉), swallow one's pride(자존심을 굽히다), a source of pride(자랑거리). self-respect(자존심)·dignity(품위)·conceit(자만)과 유의어. 반대 shame(수치)·humility(겸손).",
+  "syn": ["self-respect(자존심)", "dignity(품위)", "satisfaction(자부심)"],
+  "anti": ["shame(수치)", "humility(겸손)", "embarrassment(당혹)"],
+  "idiom": ["take pride in(~에 자부심을 갖다)", "swallow one's pride(자존심을 굽히다)", "Pride comes before a fall(교만은 패망의 선봉)", "pride oneself on(~을 자랑하다)"],
+  "colloc": ["take pride in(~에 자부심을 갖다)", "a source of pride(자랑거리)", "hurt sb's pride(자존심을 상하게 하다)"],
+  "ex_add": "She takes great pride in her work.  (pride=자부심)"
+ },
+ {
+  "num": "3204",
+  "hw": "primarily",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "첫째로 -> '주로·우선적으로'.",
+  "senses": [
+   "1) 주로·대개",
+   "2) 우선적으로·본래",
+   "3) 첫째로"
+  ],
+  "etym": "primary(주요한·첫째의) + -ly. primary는 라틴어 primarius <- primus(첫째의). '첫째로(primus) 가는'이 핵심. primus(첫째)는 prime(3205)·primary·primitive(원시의)·principle(3206)의 뿌리.",
+  "deriv": "primus(첫째) -> primary -> 'primarily'. '첫째로 -> 주로·우선적으로(primarily concerned with, 주로 ~에 관심 있는)'. 한국 학습자 핵심: primus(첫째) 갈래 — prime(3205)·primary(주요한)·primitive(원시적인)·principle(3206)·primal(원초적인)·premier(최고의)! primarily because(주로 ~ 때문에), primarily concerned with(주로 ~을 다루는), be aimed primarily at(주로 ~을 겨냥하다), primarily responsible(주로 책임이 있는). mainly(주로)·chiefly(주로)·largely(2965, 대체로)와 유의어. 반대 secondarily(부차적으로). primary(주요한)·prime(3205)이 가족.",
+  "syn": ["mainly(주로)", "chiefly(주로)", "largely(대체로)"],
+  "anti": ["secondarily(부차적으로)", "incidentally(부수적으로)"],
+  "idiom": ["primarily because(주로 ~ 때문에)", "primarily concerned with(주로 ~을 다루는)"],
+  "colloc": ["primarily because(주로 ~ 때문에)", "primarily concerned(주로 관심 있는)", "aimed primarily at(주로 겨냥한)"],
+  "ex_add": "The course is primarily aimed at beginners.  (primarily=주로)"
+ },
+ {
+  "num": "3205",
+  "hw": "prime",
+  "pos": "adj., n., v.",
+  "cefr": "B2",
+  "core": "첫째의 -> '주된·최고의 / 전성기 / 대비시키다'.",
+  "senses": [
+   "1) 주된·가장 중요한",
+   "2) 최상의·일류의 / (수학) 소수의",
+   "3) 전성기·한창때 / (동사) 대비시키다"
+  ],
+  "etym": "라틴어 primus(첫째의·최고의) -> 'prime'. '첫째(primus)가는·으뜸인'이 핵심. primus(첫째)는 primary·primarily(3204)·primitive(원시의)·principle(3206)·premier(수상)의 뿌리.",
+  "deriv": "primus(첫째) -> 'prime'. '첫째의 -> 주된(the prime suspect, 주요 용의자)·최상의(prime beef, 최상급 소고기)' -> 명사 '전성기(in one's prime, 한창때)'. 한국 학습자 핵심: primus(첫째) 갈래 — primary·primarily(3204)·primitive(원시적)·principle(3206)·premier·primal! the Prime Minister(국무총리, 3037 minister), prime time(황금 시간대), in one's prime(전성기에), a prime example(전형적인 예), a prime number(소수), prime real estate(최고 입지). main(주된)·chief(2420, 주요한)·optimal(최적의)과 유의어. primary(주요한)·primarily(3204)가 가족.",
+  "syn": ["main(주된)", "chief(주요한)", "optimal(최상의)"],
+  "anti": ["secondary(부차적인)", "minor(사소한)"],
+  "idiom": ["the Prime Minister(국무총리)", "prime time(황금 시간대)", "in one's prime(전성기에)", "a prime example(전형적인 예)"],
+  "colloc": ["the prime suspect(주요 용의자)", "prime time(황금 시간대)", "a prime example(좋은 예)"],
+  "ex_add": "She was at the prime of her career.  (prime=전성기)"
+ },
+ {
+  "num": "3206",
+  "hw": "principle",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "첫째로 잡은 것 -> '원리·원칙·신조'.",
+  "senses": [
+   "1) (근본) 원리·법칙",
+   "2) 원칙·신조·소신",
+   "3) (in principle) 원칙적으로"
+  ],
+  "etym": "라틴어 principium(시작·근본) <- princeps(으뜸가는 자) = primus(첫째) + capere(잡다) -> '첫째(primus)로 잡은(capere) 것'. primus(첫째)는 prime(3205)·primary·primarily(3204), princeps는 prince(왕자)·principal(주된)의 뿌리.",
+  "deriv": "primus(첫째) + capere(잡다) -> principium -> 'principle'. '첫째로 잡은 것 -> 원리·원칙(basic principles, 기본 원리)·신조'. 한국 학습자 핵심: principle(원칙)과 principal(주된/교장)을 철자상 꼭 구별 — principle은 '원칙', principal은 '주요한·교장'! in principle(원칙적으로/이론상), on principle(소신에 따라), a matter of principle(원칙 문제), basic principles(기본 원리), stick to one's principles(소신을 지키다), the principle of(~의 원리). rule(규칙)·doctrine(교리)·standard(기준)과 유의어. primus(첫째)/capere(잡다) 갈래.",
+  "syn": ["rule(규칙)", "doctrine(교리)", "standard(기준)"],
+  "anti": [],
+  "idiom": ["in principle(원칙적으로)", "on principle(소신에 따라)", "a matter of principle(원칙 문제)", "stick to one's principles(소신을 지키다)"],
+  "colloc": ["basic principles(기본 원리)", "in principle(원칙적으로)", "moral principles(도덕 원칙)"],
+  "ex_add": "He refused to lie; it was against his principles.  (principle=원칙)"
+ },
+ {
+  "num": "3207",
+  "hw": "print",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "눌러 찍다 -> '인쇄하다·찍다 / 인쇄(물)·자국'.",
+  "senses": [
+   "1) 인쇄하다·출판하다·찍어 내다",
+   "2) (글자를) 또박또박 쓰다",
+   "3) 인쇄(물)·활자 / 자국·무늬"
+  ],
+  "etym": "라틴어 premere(누르다)의 과거분사 pressus -> 고대 프랑스어 preinte(눌린 자국) -> 'print'. '눌러(premere) 찍은 자국'이 핵심. premere(누르다)는 press(누르다)·impress(2885)·express(짜내다)·depress·compress의 뿌리.",
+  "deriv": "premere(누르다) -> print. '눌러 찍다 -> 인쇄하다(print a book, 책을 인쇄하다)' -> 명사 '인쇄물·활자(in print, 인쇄되어)·자국(a footprint, 발자국)'. 한국 학습자 핵심: premere(누르다) 대가족 — press·impress(2885)·impressed(2886)·express·depress·compress·suppress·oppress·imprint! out of print(절판된), in print(출판된), the fine print/small print(깨알 같은 약관), a fingerprint(지문), a print run(인쇄 부수), print out(출력하다). publish(출판하다)·stamp(찍다)와 유의어. printer(프린터)·imprint(각인)가 가족.",
+  "syn": ["publish(출판하다)", "stamp(찍다)", "imprint(새기다)"],
+  "anti": [],
+  "idiom": ["out of print(절판된)", "in print(출판된)", "the small print(깨알 약관)", "print out(출력하다)"],
+  "colloc": ["print a book(책을 인쇄하다)", "out of print(절판된)", "the fine print(세부 약관)"],
+  "ex_add": "The book is now out of print.  (print=인쇄)"
+ },
+ {
+  "num": "3208",
+  "hw": "prior",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "앞선 -> '사전의·이전의 / 우선하는'.",
+  "senses": [
+   "1) 사전의·이전의·앞선",
+   "2) (prior to) ~에 앞서·~ 이전에",
+   "3) 우선하는·더 중요한"
+  ],
+  "etym": "라틴어 prior(더 앞선·먼저의). '시간·순서가 앞선'이 핵심. prior는 priority(3209)·prime(3205)·primary와 통하는 '앞·첫째' 계열. 비교급 형태로 '~보다 앞선'을 뜻한다.",
+  "deriv": "prior(더 앞선) -> 'prior'. '앞선 -> 사전의·이전의(prior experience, 사전 경험)' -> 'prior to(~에 앞서)'. 한국 학습자 핵심: prior to(~ 이전에·~에 앞서 = before, 격식체 — 빈출!), prior knowledge/experience(사전 지식·경험), without prior notice(사전 통보 없이), a prior engagement(선약), prior to that(그 이전에), prior commitments(선약). previous(이전의)·earlier(앞선)·advance(사전의)와 유의어. priority(3209, 우선)가 가족. 반대 subsequent(그다음의)·later(나중의)·following(2758).",
+  "syn": ["previous(이전의)", "earlier(앞선)", "advance(사전의)"],
+  "anti": ["subsequent(그다음의)", "later(나중의)", "following(다음의)"],
+  "idiom": ["prior to(~에 앞서)", "without prior notice(사전 통보 없이)", "a prior engagement(선약)"],
+  "colloc": ["prior experience(사전 경험)", "prior to(~ 이전에)", "prior knowledge(사전 지식)"],
+  "ex_add": "No prior experience is needed for this job.  (prior=사전의)"
+ },
+ {
+  "num": "3209",
+  "hw": "priority",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "앞섬 -> '우선 사항·우선권'.",
+  "senses": [
+   "1) 우선 사항·가장 중요한 일",
+   "2) 우선권·우선순위",
+   "3) 선취·앞섬"
+  ],
+  "etym": "라틴어 prior(더 앞선, 3208) + -ity -> prioritas. '더 앞서는(prior) 것'이 핵심. prior(3208)·prime(3205)·primary와 한 '앞·첫째' 계열.",
+  "deriv": "prior(더 앞선) -> 'priority'. '앞섬 -> 우선 사항(a top priority, 최우선 과제)·우선순위'. 한국 학습자 핵심: prior(3208)·prime(3205)·primary·primarily(3204)와 한 '앞' 계열! a top/high priority(최우선 사항), set priorities(우선순위를 정하다), give priority to(~을 우선하다), take priority over(~보다 우선하다), in order of priority(우선순위에 따라), a priority list(우선순위 목록). precedence(우선)·preference(3196, 우선권)와 유의어. prioritize(우선순위를 매기다)가 가족. 일·업무 관리 핵심어.",
+  "syn": ["precedence(우선)", "preference(우선권)", "urgency(긴급)"],
+  "anti": [],
+  "idiom": ["a top priority(최우선 과제)", "give priority to(~을 우선하다)", "take priority over(~보다 우선하다)", "set priorities(우선순위를 정하다)"],
+  "colloc": ["a top priority(최우선 사항)", "give priority to(~을 우선시하다)", "set priorities(우선순위를 정하다)"],
+  "ex_add": "Safety is our top priority.  (priority=우선 사항)"
+ },
+ {
+  "num": "3210",
+  "hw": "privacy",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "혼자만의 영역 -> '사생활·프라이버시'.",
+  "senses": [
+   "1) 사생활·프라이버시",
+   "2) 혼자 있음·은밀함",
+   "3) 비밀 (보장)"
+  ],
+  "etym": "라틴어 privatus(개인의·공직에서 물러난) <- privus(혼자의·각자의) + -acy. '공적이지 않은 혼자만의(privus) 영역'이 핵심. privus(개인의)는 private(사적인)·privilege(특권=개인의 법)·deprive(빼앗다)의 뿌리.",
+  "deriv": "privus(개인의) -> private -> 'privacy'. '혼자만의 영역 -> 사생활·프라이버시(invade sb's privacy, 사생활을 침해하다)'. 한국 학습자 핵심: privus(개인의) 갈래 — private(사적인)·privilege(특권)·deprive(박탈하다)·privatize(민영화하다)! invasion of privacy(사생활 침해, 2941 invasion), respect sb's privacy(사생활을 존중하다), in the privacy of one's home(자기 집의 사생활 속에서), a privacy policy(개인정보 보호 정책), the right to privacy(사생활권). seclusion(은둔)·confidentiality(비밀 유지)와 유의어. 발음 — 미국 [ˈpraɪvəsi]/영국 [ˈprɪvəsi]! private(사적인)이 가족.",
+  "syn": ["seclusion(은둔)", "confidentiality(비밀 유지)", "solitude(혼자 있음)"],
+  "anti": ["publicity(세상에 알려짐)", "exposure(노출)"],
+  "idiom": ["invasion of privacy(사생활 침해)", "respect sb's privacy(사생활을 존중하다)", "the right to privacy(사생활권)"],
+  "colloc": ["invade privacy(사생활을 침해하다)", "respect privacy(사생활을 존중하다)", "a privacy policy(개인정보 정책)"],
+  "ex_add": "Everyone has a right to privacy.  (privacy=사생활)"
+ },
+ {
+  "num": "3211",
+  "hw": "probability",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "그럴 법함 -> '확률·개연성·가능성'.",
+  "senses": [
+   "1) (수학) 확률",
+   "2) 개연성·있음 직함",
+   "3) 가능성"
+  ],
+  "etym": "라틴어 probabilis(인정할 만한·있음 직한) <- probare(검증하다·인정하다) + -ity. '시험해(probare) 봐서 그럴 법함'이 핵심. probare(검증하다)는 probable(3212)·prove(증명하다)·proof(3225)·approve(승인하다)의 뿌리.",
+  "deriv": "probare(검증하다) -> probable -> 'probability'. '그럴 법함 -> 확률·개연성(a high probability, 높은 확률)'. 한국 학습자 핵심: probare(검증) 갈래 — probable(3212)·prove(증명하다)·proof(3225)·approve(승인하다)·probation(보호 관찰/수습)·probe(조사)! in all probability(십중팔구), a high probability(높은 확률), the probability of(~의 확률), increase the probability(확률을 높이다), statistical probability(통계적 확률). likelihood(가능성)·chance(가망)·odds(확률)와 유의어. 반대 improbability(있을 법하지 않음)·certainty(2406, 확실성). probable(3212)·probably가 가족.",
+  "syn": ["likelihood(가능성)", "chance(가망)", "odds(확률)"],
+  "anti": ["improbability(개연성 없음)", "certainty(확실성)"],
+  "idiom": ["in all probability(십중팔구)", "a high probability(높은 확률)", "the probability of(~의 확률)"],
+  "colloc": ["a high probability(높은 확률)", "in all probability(십중팔구)", "the probability of(~의 확률)"],
+  "ex_add": "There is a high probability of rain tomorrow.  (probability=확률)"
+ },
+ {
+  "num": "3212",
+  "hw": "probable",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "검증해 봄직한 -> '있음 직한·개연성 있는'.",
+  "senses": [
+   "1) 있음 직한·개연성 있는",
+   "2) (~일) 가능성이 큰",
+   "3) 유력한"
+  ],
+  "etym": "라틴어 probabilis(인정할 만한) <- probare(검증하다·인정하다). '검증해(probare) 보면 그럴 법한'이 핵심. probability(3211)·prove·proof(3225)·approve와 한 probare 갈래.",
+  "deriv": "probare(검증하다) -> 'probable'. '검증해 봄직한 -> 있음 직한·개연성 있는(the probable cause, 유력한 원인)'. 한국 학습자 핵심: probare(검증) 갈래 — probability(3211)·prove·proof(3225)·approve·probation·probe! it is probable that(~일 가능성이 크다), the probable cause(유력한 원인), a probable outcome(있음 직한 결과), highly probable(매우 가능성 있는). likely(있음 직한)·plausible(그럴듯한)과 유의어 — 확신 정도: certain(확실) > probable(개연성 큼) > possible(가능)! 반대 improbable(있을 법하지 않은)·unlikely(가망 없는). probably(아마)·probability(3211)가 가족.",
+  "syn": ["likely(있음 직한)", "plausible(그럴듯한)", "expected(예상되는)"],
+  "anti": ["improbable(있을 법하지 않은)", "unlikely(가망 없는)", "impossible(불가능한)"],
+  "idiom": ["it is probable that(~일 가능성이 크다)", "the probable cause(유력한 원인)", "highly probable(매우 가능성 있는)"],
+  "colloc": ["the probable cause(유력한 원인)", "a probable outcome(있음 직한 결과)", "highly probable(매우 가능성 있는)"],
+  "ex_add": "It is probable that the meeting will be canceled.  (probable=있음 직한)"
+ },
+ {
+  "num": "3213",
+  "hw": "procedure",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "나아가는 절차 -> '절차·순서 / (의료) 시술'.",
+  "senses": [
+   "1) 절차·순서·방식",
+   "2) (정해진) 수속·과정",
+   "3) (의료) 시술·처치"
+  ],
+  "etym": "라틴어 procedere(나아가다) = pro-(앞으로) + cedere(가다) -> '앞으로 나아가는(cedere) 단계'. cedere(가다)는 proceed(3214)·process(3215)·precede(3191)·exceed(2696)·succeed·access의 거대한 뿌리.",
+  "deriv": "pro-(앞으로) + cedere(가다) -> 'procedure'. '나아가는 절차 -> 절차·순서(follow the procedure, 절차를 따르다)·시술(a medical procedure, 의료 시술)'. 한국 학습자 핵심: cedere(가다) 대가족 — proceed(3214)·process(3215)·precede(3191)·exceed(2696)·succeed·access·concede·recede·procession! standard procedure(표준 절차), follow procedure(절차를 따르다), a surgical procedure(외과 수술), the correct procedure(올바른 절차), legal procedures(법적 절차). process(3215, 과정)·method(방법)·protocol(규약)과 유의어 — procedure는 '정해진 단계별 절차'!",
+  "syn": ["process(과정)", "method(방법)", "protocol(규약)"],
+  "anti": [],
+  "idiom": ["standard procedure(표준 절차)", "follow the procedure(절차를 따르다)", "a surgical procedure(외과 수술)"],
+  "colloc": ["follow the procedure(절차를 따르다)", "standard procedure(표준 절차)", "a medical procedure(의료 시술)"],
+  "ex_add": "Please follow the correct safety procedures.  (procedure=절차)"
+ },
+ {
+  "num": "3214",
+  "hw": "proceed",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "앞으로 나아가다 -> '진행하다·계속하다·나아가다'.",
+  "senses": [
+   "1) (계속) 진행하다·나아가다",
+   "2) (proceed to do) 이어서 ~하다",
+   "3) (어느 쪽으로) 가다·향하다"
+  ],
+  "etym": "라틴어 procedere = pro-(앞으로) + cedere(가다) -> '앞으로(pro) 나아감(cedere)'. procedure(3213)·process(3215)·precede(3191)·exceed(2696)·succeed와 한 cedere 갈래.",
+  "deriv": "pro-(앞으로) + cedere(가다) -> 'proceed'. '앞으로 나아가다 -> 진행하다·계속하다(proceed with the plan, 계획을 진행하다)·이어서 ~하다(proceed to explain)'. 한국 학습자 핵심: cedere(가다) 대가족 — procedure(3213)·process(3215)·precede(3191)·exceed(2696)·succeed·access·concede·recede·proceeds(수익금)! proceed with(~을 계속하다), proceed to do(이어서 ~하다), proceed cautiously(신중히 나아가다), the proceeds(수익금). continue(계속하다)·advance(나아가다)·go ahead(진행하다)와 유의어. 반대 stop(멈추다)·halt(정지하다)·retreat(후퇴하다). procedure(3213)·process(3215)가 가족.",
+  "syn": ["continue(계속하다)", "advance(나아가다)", "go ahead(진행하다)"],
+  "anti": ["stop(멈추다)", "halt(정지하다)", "retreat(후퇴하다)"],
+  "idiom": ["proceed with(~을 계속하다)", "proceed to do(이어서 ~하다)", "proceed cautiously(신중히 나아가다)"],
+  "colloc": ["proceed with(~을 진행하다)", "proceed to(~로 나아가다)", "proceed cautiously(신중히 진행하다)"],
+  "ex_add": "After a short break, the meeting proceeded as planned.  (proceed=진행하다)"
+ },
+ {
+  "num": "3215",
+  "hw": "process",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "나아가는 과정 -> '과정·절차 / 처리하다·가공하다'.",
+  "senses": [
+   "1) 과정·진행·경과",
+   "2) (정해진) 절차·방법",
+   "3) (동사) 처리하다·가공하다"
+  ],
+  "etym": "라틴어 processus(나아감) <- procedere(나아가다, 3214) = pro-(앞으로) + cedere(가다). proceed(3214)·procedure(3213)·precede(3191)와 한 cedere 갈래. '앞으로 진행되는 일련의 단계'가 핵심.",
+  "deriv": "pro-(앞으로) + cedere(가다) -> 'process'. '나아가는 과정 -> 과정·절차(the learning process, 학습 과정)' -> 동사 '처리하다(process data, 데이터를 처리하다)·가공하다(processed food, 가공식품)'. 한국 학습자 핵심: cedere(가다) 대가족 — proceed(3214)·procedure(3213)·precede(3191)·exceed(2696)·succeed·access·concession! in the process(그 과정에서), a process of(~의 과정), in the process of V-ing(~하는 중인), processed food(가공식품), a peace process(평화 협상 과정), the aging process(노화 과정). procedure(3213, 절차)·method(방법)와 유의어. 명사 PROcess / (영) 동사 proCESS 발음 차이도.",
+  "syn": ["procedure(절차)", "method(방법)", "operation(작업)"],
+  "anti": [],
+  "idiom": ["in the process(그 과정에서)", "in the process of(~하는 중인)", "a peace process(평화 협상 과정)"],
+  "colloc": ["the learning process(학습 과정)", "process data(데이터를 처리하다)", "processed food(가공식품)"],
+  "ex_add": "Learning a language is a long process.  (process=과정)"
+ },
+ {
+  "num": "3216",
+  "hw": "produce",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "앞으로 끌어내다 -> '생산하다·만들어 내다 / 농산물'.",
+  "senses": [
+   "1) 생산하다·제조하다",
+   "2) (결과·작품을) 만들어 내다·내놓다 / 연출하다",
+   "3) (명사) 농산물·생산물"
+  ],
+  "etym": "라틴어 producere = pro-(앞으로) + ducere(이끌다) -> '앞으로(pro) 끌어냄(ducere)'. ducere(이끌다)는 product(제품)·reduce(줄이다)·introduce(소개하다)·conduct(2466)·educate·deduce의 거대한 뿌리.",
+  "deriv": "pro-(앞으로) + ducere(이끌다) -> 'produce'. '앞으로 끌어내다 -> 생산하다(produce cars, 자동차를 생산하다)·만들어 내다(produce results)·연출하다(produce a film)' -> 명사 '농산물(fresh produce, 신선 농산물)'. 한국 학습자 핵심: ducere(이끌다) 대가족 — product(제품)·reduce(줄이다)·introduce(소개하다)·conduct(2466)·educate·deduce·induce·aqueduct·conductor! 명사·동사 강세 다름(PROduce 농산물 / proDUCE 생산하다). produce results/evidence(결과·증거를 내놓다), mass-produce(대량 생산하다), locally produced(현지 생산된). manufacture(3007, 제조하다)·generate(2803, 만들어 내다)와 유의어. 반대 consume(소비하다).",
+  "syn": ["manufacture(제조하다)", "generate(만들어 내다)", "create(창조하다)"],
+  "anti": ["consume(소비하다)", "destroy(파괴하다)"],
+  "idiom": ["mass-produce(대량 생산하다)", "fresh produce(신선 농산물)", "produce results(결과를 내놓다)"],
+  "colloc": ["produce goods(상품을 생산하다)", "produce results(결과를 내다)", "fresh produce(신선 농산물)"],
+  "ex_add": "This factory produces thousands of cars each year.  (produce=생산하다)"
+ },
+ {
+  "num": "3217",
+  "hw": "professional",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "공언한 직업의 -> '전문적인·직업의 / 전문가·프로'.",
+  "senses": [
+   "1) 전문적인·전문가다운·능숙한",
+   "2) 직업적인·프로의(아마추어가 아닌)",
+   "3) 전문가·프로 선수(명사)"
+  ],
+  "etym": "라틴어 professio(공언·직업) <- profiteri = pro-(공공연히) + fateri(말하다·인정하다) -> '공공연히(pro) 자기 일이라 밝힌(fateri) 직업'. fateri(말하다)는 profess(공언하다)·confess(2467)·profession(직업)의 뿌리.",
+  "deriv": "pro-(공공연히) + fateri(말하다) -> profession -> 'professional'. '공언한 직업의 -> 전문적인(professional advice, 전문가의 조언)·프로의' -> 명사 '전문가·프로(a professional, 프로)'. 한국 학습자 핵심: fateri(말하다) 갈래 — profess(공언하다)·confess(2467)·profession(직업)·professor(교수=공언하는 사람)! a professional athlete(프로 선수), professional advice(전문가 조언), go professional(프로로 전향하다), a true professional(진정한 프로), unprofessional(프로답지 못한). expert(전문가)·skilled(숙련된)와 유의어. 반대 amateur(아마추어)·unprofessional. professional(프로) ↔ amateur(아마추어)!",
+  "syn": ["expert(전문가)", "skilled(숙련된)", "qualified(자격 있는)"],
+  "anti": ["amateur(아마추어)", "unprofessional(프로답지 못한)"],
+  "idiom": ["go professional(프로로 전향하다)", "a true professional(진정한 프로)", "professional advice(전문가 조언)"],
+  "colloc": ["a professional athlete(프로 선수)", "professional advice(전문적 조언)", "a professional manner(프로다운 태도)"],
+  "ex_add": "You should seek professional advice before investing.  (professional=전문적인)"
+ },
+ {
+  "num": "3218",
+  "hw": "programming",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "미리 써 둔 차례 짜기 -> '프로그래밍 / 편성'.",
+  "senses": [
+   "1) (컴퓨터) 프로그래밍·프로그램 작성",
+   "2) (방송) 프로그램 편성",
+   "3) 일정 짜기·프로그램화"
+  ],
+  "etym": "program(프로그램) + -ing. program은 그리스어 pro-(미리) + gramma(쓴 것) -> '미리(pro) 써 둔(gramma) 차례·계획'. gramma(글)는 grammar(문법)·diagram(도표)·graphic(2823)·telegram의 뿌리.",
+  "deriv": "pro-(미리) + gramma(글) -> program -> 'programming'. '미리 써 둔 차례 짜기 -> 프로그래밍(learn programming, 프로그래밍을 배우다)·방송 편성'. 한국 학습자 핵심: gramma(글) 갈래 — grammar(문법)·diagram(도표)·graphic(2823)·telegram(전보)·anagram(철자 바꾸기)·program! computer programming(컴퓨터 프로그래밍), a programming language(프로그래밍 언어), TV programming(TV 편성), programming skills(프로그래밍 능력), object-oriented programming(객체 지향 프로그래밍). coding(코딩)과 유의어. program(프로그램)·programmer(프로그래머)가 가족. (영국식 programme이나 컴퓨터는 program!)",
+  "syn": ["coding(코딩)", "scheduling(편성)"],
+  "anti": [],
+  "idiom": ["a programming language(프로그래밍 언어)", "computer programming(컴퓨터 프로그래밍)"],
+  "colloc": ["computer programming(컴퓨터 프로그래밍)", "a programming language(프로그래밍 언어)", "programming skills(프로그래밍 능력)"],
+  "ex_add": "She is learning computer programming at college.  (programming=프로그래밍)"
+ },
+ {
+  "num": "3219",
+  "hw": "progressive",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "앞으로 나아가는 -> '진보적인·점진적인'.",
+  "senses": [
+   "1) 진보적인·개혁적인",
+   "2) 점진적인·꾸준히 진행되는",
+   "3) (문법) 진행형의"
+  ],
+  "etym": "라틴어 progredi = pro-(앞으로) + gradi(걷다)의 명사 progressus + -ive -> '앞으로(pro) 걸어 나아가는(gradi)'. gradi(걷다)는 progress(전진)·grade(2819)·gradual(2820)·congress(2472)·aggressive(공격적인)의 뿌리.",
+  "deriv": "pro-(앞으로) + gradi(걷다) -> progress -> 'progressive'. '앞으로 나아가는 -> 진보적인(progressive ideas, 진보적 생각)·점진적인(a progressive decline, 점진적 쇠퇴)'. 한국 학습자 핵심: gradi(걷다) 대가족 — progress(진보)·grade(2819)·gradual(2820)·gradually(2820)·congress(2472)·aggressive·ingredient·degree! progressive policies(진보적 정책), a progressive disease(점점 악화되는 병), the progressive tense(진행 시제), progressive taxation(누진 과세). forward-looking(진취적인)·gradual(점진적인)·liberal(진보적인)과 유의어. 반대 conservative(2476, 보수적인)·regressive(퇴행적인).",
+  "syn": ["forward-looking(진취적인)", "gradual(점진적인)", "liberal(진보적인)"],
+  "anti": ["conservative(보수적인)", "regressive(퇴행적인)", "reactionary(반동적인)"],
+  "idiom": ["progressive ideas(진보적 생각)", "the progressive tense(진행 시제)", "progressive taxation(누진세)"],
+  "colloc": ["progressive ideas(진보적 사상)", "a progressive policy(진보적 정책)", "a progressive disease(진행성 질환)"],
+  "ex_add": "The party is known for its progressive policies.  (progressive=진보적인)"
+ },
+ {
+  "num": "3220",
+  "hw": "prohibit",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "앞을 막아 못 가지게 하다 -> '금지하다'.",
+  "senses": [
+   "1) (법·규칙으로) 금지하다",
+   "2) (prohibit sb from) ~가 ...하지 못하게 하다",
+   "3) (상황이) 방해하다·불가능하게 하다"
+  ],
+  "etym": "라틴어 prohibere = pro-(앞에) + habere(쥐다·가지다) -> '앞을 막아(pro) 가지지(habere) 못하게 함'. habere(가지다)는 exhibit(2702)·habit(습관)·habitat(2829)·inhabit·ability·prohibition(금지)의 뿌리.",
+  "deriv": "pro-(앞에) + habere(가지다) -> 'prohibit'. '앞을 막아 못 가지게 하다 -> 금지하다(prohibit smoking, 흡연을 금지하다)'. 한국 학습자 핵심: habere(가지다) 대가족 — exhibit(2702)·habit·habitat(2829)·inhabitant(2906)·ability·enable(2663)·prohibition! prohibit sb from V-ing(~가 ...하지 못하게 하다 — 빈출 구문!), strictly prohibited(엄격히 금지된), prohibited items(금지 물품), a prohibition on(~에 대한 금지). forbid(2761, 금지하다)·ban(금하다)·outlaw(불법화하다)와 유의어 — prohibit가 가장 격식! 반대 permit(3163, 허가하다)·allow(허락하다). prohibition(금지)이 명사.",
+  "syn": ["forbid(금지하다)", "ban(금하다)", "outlaw(불법화하다)"],
+  "anti": ["permit(허가하다)", "allow(허락하다)", "authorize(승인하다)"],
+  "idiom": ["prohibit sb from(~가 ...하지 못하게 하다)", "strictly prohibited(엄격히 금지된)", "prohibited items(금지 물품)"],
+  "colloc": ["prohibit smoking(흡연을 금지하다)", "strictly prohibited(엄격히 금지된)", "prohibit sb from(~를 금하다)"],
+  "ex_add": "The law prohibits selling alcohol to minors.  (prohibit=금지하다)"
+ },
+ {
+  "num": "3221",
+  "hw": "project",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "앞으로 던지다 -> '계획·사업 / 투사하다·예상하다'.",
+  "senses": [
+   "1) 계획·사업·프로젝트·과제",
+   "2) (빛·영상을) 투사하다·비추다",
+   "3) 예상하다·추정하다 / 돌출하다"
+  ],
+  "etym": "라틴어 proicere = pro-(앞으로) + jacere(던지다)의 과거분사 projectus -> '앞으로(pro) 던짐(jacere)'. jacere(던지다)는 object(3093)·objective(3094)·reject·eject·inject·jet(2949)의 거대한 뿌리.",
+  "deriv": "pro-(앞으로) + jacere(던지다) -> 'project'. '앞으로 던지다 -> 계획·사업(a research project, 연구 과제)' -> '투사하다(project an image)·예상하다(project growth)·돌출하다'. 한국 학습자 핵심: jacere(던지다) 대가족 — object(3093)·objective(3094)·reject·eject·inject·subject·jet(2949)·adjacent·conjecture! 명사·동사 강세 다름(PROject 계획 / proJECT 투사하다). a school project(학교 과제), work on a project(프로젝트를 하다), project confidence(자신감을 내비치다), projected figures(추정 수치). plan(계획)·scheme(계획)·forecast(2762, 예측하다)와 유의어. projection(투영·예상)·projector(영사기)가 가족.",
+  "syn": ["plan(계획)", "scheme(계획)", "venture(사업)"],
+  "anti": [],
+  "idiom": ["a research project(연구 과제)", "work on a project(프로젝트를 하다)", "project confidence(자신감을 내비치다)"],
+  "colloc": ["a research project(연구 프로젝트)", "work on a project(프로젝트를 진행하다)", "a school project(학교 과제)"],
+  "ex_add": "Our team is working on a new research project.  (project=프로젝트)"
+ },
+ {
+  "num": "3222",
+  "hw": "promising",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "약속해 줄 듯한 -> '장래가 촉망되는·유망한'.",
+  "senses": [
+   "1) 장래가 촉망되는·유망한",
+   "2) (성과가) 기대되는·전망이 밝은",
+   "3) 가망이 있는"
+  ],
+  "etym": "promise(약속하다·가망을 보이다) + -ing. promise는 라틴어 pro-(앞서) + mittere(보내다)의 과거분사 promissum -> '앞서(pro) 보내(mittere) 약속함'. mittere(보내다)는 mission(3041)·permit(3163)·commission(2446)·submit의 거대한 뿌리.",
+  "deriv": "pro-(앞서) + mittere(보내다) -> promise -> 'promising'. '약속해 줄 듯한 -> 장래가 촉망되는(a promising student, 유망한 학생)·전망이 밝은(promising results, 고무적인 결과)'. 한국 학습자 핵심: mittere(보내다) 대가족 — mission(3041)·permit(3163)·commission(2446)·submit·dismiss(2607)·emission(2657)·transmit·omit·promise! a promising career(유망한 경력), a promising future(밝은 미래), look promising(전망이 밝아 보이다), a promising start(좋은 출발), the most promising(가장 유망한). encouraging(고무적인)·hopeful(희망적인)·up-and-coming(떠오르는)과 유의어. 반대 unpromising(전망이 어두운)·hopeless(가망 없는).",
+  "syn": ["encouraging(고무적인)", "hopeful(희망적인)", "up-and-coming(떠오르는)"],
+  "anti": ["unpromising(전망이 어두운)", "hopeless(가망 없는)", "discouraging(맥 빠지게 하는)"],
+  "idiom": ["a promising career(유망한 경력)", "look promising(전망이 밝다)", "a promising start(좋은 출발)"],
+  "colloc": ["a promising student(유망한 학생)", "a promising future(밝은 미래)", "promising results(고무적인 결과)"],
+  "ex_add": "She is a promising young scientist.  (promising=유망한)"
+ },
+ {
+  "num": "3223",
+  "hw": "promotion",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "앞으로 밀어 올림 -> '승진 / 홍보·판촉 / 증진'.",
+  "senses": [
+   "1) 승진·승격",
+   "2) 홍보·판촉·프로모션",
+   "3) (활동의) 장려·증진"
+  ],
+  "etym": "라틴어 promovere = pro-(앞으로) + movere(움직이다)의 명사형 promotio -> '앞으로(pro) 밀어 올림(movere)'. movere(움직이다)는 promote(승진시키다)·motion(3057)·motivate(3058)·motor(3060)·emotion(2658)·remove의 거대한 뿌리.",
+  "deriv": "pro-(앞으로) + movere(움직이다) -> promote -> 'promotion'. '앞으로 밀어 올림 -> 승진(get a promotion, 승진하다)·홍보(sales promotion, 판촉)·증진(health promotion, 건강 증진)'. 한국 학습자 핵심: movere(움직이다) 대가족 — promote·motion(3057)·motivate(3058)·motivation(3059)·motor(3060)·moving(3062)·emotion(2658)·remove! get/win a promotion(승진하다), a promotion campaign(홍보 캠페인), a special promotion(특별 판촉), the promotion of(~의 증진). advancement(승진)·publicity(3237, 홍보)와 유의어. 반대 demotion(강등). promote(촉진하다·승진시키다)가 동사.",
+  "syn": ["advancement(승진)", "publicity(홍보)", "advertising(광고)"],
+  "anti": ["demotion(강등)"],
+  "idiom": ["get a promotion(승진하다)", "a sales promotion(판촉)", "the promotion of(~의 증진)"],
+  "colloc": ["get a promotion(승진하다)", "a sales promotion(판촉)", "a promotion campaign(홍보 캠페인)"],
+  "ex_add": "She got a promotion after years of hard work.  (promotion=승진)"
+ },
+ {
+  "num": "3224",
+  "hw": "prompt",
+  "pos": "v., adj., n.",
+  "cefr": "B2",
+  "core": "앞으로 끌어내진 -> '촉발하다·유도하다 / 즉각적인 / 자극'.",
+  "senses": [
+   "1) (행동·반응을) 촉발하다·유도하다",
+   "2) 즉각적인·신속한(형용사)",
+   "3) (배우의) 대사 일러 주기 / 자극·신호(명사)"
+  ],
+  "etym": "라틴어 promptus(꺼내 놓은·준비된) <- promere = pro-(앞으로) + emere(취하다·꺼내다) -> '앞으로(pro) 꺼내(emere) 놓은'. emere(취하다)는 example(예=꺼낸 것)·exempt(면제된)·redeem(되찾다)·sample(견본)의 뿌리.",
+  "deriv": "pro-(앞으로) + emere(꺼내다) -> promptus -> 'prompt'. '앞으로 끌어내진 -> 즉각적인(a prompt reply, 즉답)' -> 동사 '촉발하다·유도하다(prompt a response, 반응을 끌어내다)' -> 명사 '자극·신호'. 한국 학습자 핵심: emere(취하다) 갈래 — example(예)·exempt(면제하다)·redeem(상환하다)·sample(샘플)·premium·assume(가정하다)! prompt sb to do(~가 ...하도록 자극하다), a prompt reply(즉답), prompt action(신속한 조치), prompt payment(즉시 지불). cause(유발하다)·trigger(촉발하다) / immediate(즉각적인)·quick(신속한)과 유의어. promptly(즉시)가 부사.",
+  "syn": ["cause(유발하다)", "trigger(촉발하다)", "immediate(즉각적인)"],
+  "anti": ["delayed(지연된)", "slow(느린)", "deter(저지하다)"],
+  "idiom": ["prompt sb to do(~가 ...하도록 자극하다)", "a prompt reply(즉답)", "prompt action(신속한 조치)"],
+  "colloc": ["prompt a response(반응을 유발하다)", "a prompt reply(즉답)", "prompt action(신속한 조치)"],
+  "ex_add": "The news prompted an immediate response.  (prompt=촉발하다)"
+ },
+ {
+  "num": "3225",
+  "hw": "proof",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "검증해 보인 것 -> '증거·증명 / 교정쇄'.",
+  "senses": [
+   "1) 증거·증명",
+   "2) (인쇄) 교정쇄",
+   "3) (술의) 도수 / (-proof) ~을 막는"
+  ],
+  "etym": "라틴어 probare(검증하다·입증하다) -> 고대 프랑스어 proeve -> 'proof'. '검증해(probare) 보인 것'이 핵심. probare(검증)는 prove(증명하다)·probable(3212)·probability(3211)·approve(승인하다)의 뿌리.",
+  "deriv": "probare(검증하다) -> prove -> 'proof'. '검증해 보인 것 -> 증거·증명(living proof, 살아 있는 증거)' -> 인쇄 '교정쇄' -> 합성 '-proof(~을 막는, waterproof 방수의)'. 한국 학습자 핵심: probare(검증) 갈래 — prove·probable(3212)·probability(3211)·approve·probation·probe! proof of(~의 증거), proof of identity(신분 증명), living proof(산 증인), have proof(증거가 있다), -proof 접미사(waterproof 방수·fireproof 내화·bulletproof 방탄·foolproof 아주 쉬운)! evidence(증거)·confirmation(확증)과 유의어. prove(증명하다)·proven(입증된)이 가족.",
+  "syn": ["evidence(증거)", "confirmation(확증)", "verification(입증)"],
+  "anti": ["disproof(반증)"],
+  "idiom": ["proof of identity(신분 증명)", "living proof(산 증인)", "burden of proof(입증 책임)"],
+  "colloc": ["proof of(~의 증거)", "living proof(살아 있는 증거)", "concrete proof(확실한 증거)"],
+  "ex_add": "Do you have any proof of your claim?  (proof=증거)"
+ },
+ {
+  "num": "3226",
+  "hw": "proportion",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "몫에 맞춤 -> '비율·균형 / 부분'.",
+  "senses": [
+   "1) 비율·비(比)",
+   "2) (부분·몫의) 부분·일부",
+   "3) (proportions) 균형·크기·규모"
+  ],
+  "etym": "라틴어 proportio = pro-(~에 대하여) + portio(몫·비율) -> '몫(portio)에 비례하여 맞춤'. portio(몫)는 portion(3182)·part·partly(3148)·proportional(비례하는)의 뿌리. pars(부분) 갈래.",
+  "deriv": "pro-(~에 대해) + portio(몫) -> 'proportion'. '몫에 맞춤 -> 비율(a large proportion of, ~의 큰 부분)·균형(out of proportion, 균형이 안 맞는)'. 한국 학습자 핵심: pars/portio(부분·몫) 갈래 — portion(3182)·part·partly(3148)·partner(3149)·particle·proportional(비례하는)! in proportion to(~에 비례하여), out of (all) proportion(터무니없이 과장된), a high proportion of(~의 높은 비율), blow sth out of proportion(과장하다), a sense of proportion(균형 감각). ratio(비율)·percentage(백분율)·part(부분)와 유의어. portion(3182)·proportional이 가족.",
+  "syn": ["ratio(비율)", "percentage(백분율)", "part(부분)"],
+  "anti": ["disproportion(불균형)"],
+  "idiom": ["in proportion to(~에 비례하여)", "out of proportion(균형이 안 맞는)", "a sense of proportion(균형 감각)", "blow out of proportion(과장하다)"],
+  "colloc": ["a large proportion(큰 부분)", "in proportion to(~에 비례하여)", "out of proportion(과장된)"],
+  "ex_add": "A large proportion of students study abroad.  (proportion=비율)"
+ },
+ {
+  "num": "3227",
+  "hw": "proposal",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "앞에 내놓음 -> '제안·제의 / 청혼'.",
+  "senses": [
+   "1) 제안·제의·기획안",
+   "2) (사업) 제안서·계획안",
+   "3) 청혼"
+  ],
+  "etym": "propose(제안하다, 3228) + -al. 라틴어 pro-(앞에) + ponere(놓다) -> '앞에(pro) 내놓음(ponere)'. ponere(놓다)는 propose(3228)·pose(3183)·position(3184)·compose(2455)·expose(2713)·impose(2884)·oppose(3116)의 거대한 뿌리.",
+  "deriv": "pro-(앞에) + ponere(놓다) -> propose(3228) -> 'proposal'. '앞에 내놓음 -> 제안·제의(make a proposal, 제안하다)·청혼(a marriage proposal)'. 한국 학습자 핵심: ponere(놓다) 대가족 — propose(3228)·pose(3183)·position(3184)·positive(3185)·compose(2455)·expose(2713)·impose(2884)·oppose(3116)·component(2454)·deposit(2577)! a business proposal(사업 제안서), make a proposal(제안하다), reject a proposal(제안을 거절하다), accept a proposal(제안을 받아들이다/청혼을 승낙하다), a peace proposal(평화 제안). suggestion(제안)·offer(제의)·plan(계획)과 유의어. propose(3228)가 동사.",
+  "syn": ["suggestion(제안)", "offer(제의)", "plan(계획)"],
+  "anti": [],
+  "idiom": ["make a proposal(제안하다)", "a marriage proposal(청혼)", "a business proposal(사업 제안서)"],
+  "colloc": ["make a proposal(제안을 하다)", "a business proposal(사업 제안)", "reject a proposal(제안을 거절하다)"],
+  "ex_add": "The committee rejected the new proposal.  (proposal=제안)"
+ },
+ {
+  "num": "3228",
+  "hw": "propose",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "앞에 내놓다 -> '제안하다·제의하다 / 청혼하다'.",
+  "senses": [
+   "1) 제안하다·제의하다",
+   "2) (~할 작정이라고) 말하다·의도하다",
+   "3) 청혼하다(propose to)"
+  ],
+  "etym": "라틴어 proponere = pro-(앞에) + ponere(놓다) -> '앞에(pro) 내놓음(ponere)'. proposal(3227)·pose(3183)·position(3184)·compose(2455)·expose(2713)·impose(2884)·oppose(3116)와 한 ponere 갈래.",
+  "deriv": "pro-(앞에) + ponere(놓다) -> 'propose'. '앞에 내놓다 -> 제안하다(propose a plan, 계획을 제안하다)·청혼하다(propose to her)'. 한국 학습자 핵심: ponere(놓다) 대가족 — proposal(3227)·pose(3183)·position(3184)·positive(3185)·compose(2455)·expose(2713)·impose(2884)·oppose(3116)·component(2454)! propose to do/that(~하기를 제안하다), propose a toast(건배를 제의하다), propose marriage / propose to sb(청혼하다), Man proposes, God disposes(일은 사람이 꾸미고 성패는 하늘에 달렸다). suggest(제안하다)·put forward(내놓다)·recommend(권하다)와 유의어. proposal(3227)·proposition(제안)이 가족.",
+  "syn": ["suggest(제안하다)", "put forward(내놓다)", "recommend(권하다)"],
+  "anti": ["withdraw(철회하다)", "reject(거부하다)"],
+  "idiom": ["propose a toast(건배를 제의하다)", "propose to sb(~에게 청혼하다)", "Man proposes, God disposes(성패는 하늘에 달렸다)"],
+  "colloc": ["propose a plan(계획을 제안하다)", "propose a solution(해결책을 제안하다)", "propose to(~에게 청혼하다)"],
+  "ex_add": "She proposed a new way of solving the problem.  (propose=제안하다)"
+ },
+ {
+  "num": "3229",
+  "hw": "prospect",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "앞을 내다봄 -> '가망·전망 / 가능성'.",
+  "senses": [
+   "1) 가망·가능성·전망",
+   "2) (prospects) (성공·취업의) 전망·앞날",
+   "3) 기대되는 일 / 유력 후보"
+  ],
+  "etym": "라틴어 prospectus(앞을 내다봄) <- prospicere = pro-(앞을) + specere(보다) -> '앞을(pro) 봄(specere)'. specere(보다)는 perspective(3164)·inspect·expect·respect·suspect·spectacle·aspect의 거대한 뿌리.",
+  "deriv": "pro-(앞을) + specere(보다) -> 'prospect'. '앞을 내다봄 -> 가망·전망(little prospect of success, 성공 가망이 적음)·(prospects) 앞날(job prospects, 취업 전망)'. 한국 학습자 핵심: specere(보다) 대가족 — perspective(3164)·inspect·expect·expectation(2707)·respect·suspect·spectacle·aspect·inspector(2920)·spectrum! the prospect of(~의 전망), good prospects(좋은 전망), career prospects(경력 전망), in prospect(가망이 있는), a daunting prospect(엄두가 안 나는 일). possibility(가능성)·outlook(전망)·likelihood(가망)와 유의어. prospective(장래의)가 가족.",
+  "syn": ["possibility(가능성)", "outlook(전망)", "likelihood(가망)"],
+  "anti": [],
+  "idiom": ["the prospect of(~의 전망)", "job prospects(취업 전망)", "in prospect(가망이 있는)", "a daunting prospect(엄두가 안 나는 일)"],
+  "colloc": ["the prospect of(~의 가망)", "good prospects(좋은 전망)", "career prospects(경력 전망)"],
+  "ex_add": "There is little prospect of an early agreement.  (prospect=가망)"
+ },
+ {
+  "num": "3230",
+  "hw": "protection",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "앞을 덮어 막음 -> '보호·방어'.",
+  "senses": [
+   "1) 보호·방어",
+   "2) 보호 수단·보호물",
+   "3) 보장·예방"
+  ],
+  "etym": "라틴어 protegere = pro-(앞에) + tegere(덮다)의 명사형 protectio -> '앞을(pro) 덮어(tegere) 막음'. tegere(덮다)는 protect(보호하다)·detect(2591)·tile(기와)·toga(겉옷)·integument(외피)의 뿌리.",
+  "deriv": "pro-(앞에) + tegere(덮다) -> protect -> 'protection'. '앞을 덮어 막음 -> 보호·방어(environmental protection, 환경 보호)'. 한국 학습자 핵심: tegere(덮다) 갈래 — protect(보호하다)·detect(2591)·detective(탐정)·tile·toga·protective(보호하는)! protection from/against(~으로부터의 보호), environmental protection(환경 보호), data protection(개인정보 보호), under the protection of(~의 보호하에), child protection(아동 보호), consumer protection(소비자 보호). defense(2562, 방어)·safeguard(보호 장치)·shelter(보호)와 유의어. 반대 exposure(2714, 노출)·vulnerability(취약성). protect(보호하다)·protective가 가족.",
+  "syn": ["defense(방어)", "safeguard(보호 장치)", "shelter(보호)"],
+  "anti": ["exposure(노출)", "vulnerability(취약성)", "harm(해)"],
+  "idiom": ["protection from(~으로부터의 보호)", "under the protection of(~의 보호하에)", "data protection(개인정보 보호)"],
+  "colloc": ["environmental protection(환경 보호)", "protection from(~으로부터의 보호)", "data protection(데이터 보호)"],
+  "ex_add": "Sunscreen offers protection against harmful rays.  (protection=보호)"
+ },
+ {
+  "num": "3231",
+  "hw": "protein",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "으뜸가는 영양소 -> '단백질'.",
+  "senses": [
+   "1) (영양소) 단백질",
+   "2) 단백질 식품",
+   "3) 프로틴"
+  ],
+  "etym": "그리스어 protos(첫째·으뜸) + -in -> '생명에 으뜸가는(protos) 영양소'. 19세기 화학자가 명명. protos(첫째)는 protein·protocol(의례)·prototype(원형)·protagonist(주인공)의 뿌리.",
+  "deriv": "protos(첫째) -> 'protein'. '으뜸가는 영양소 -> 단백질(animal protein, 동물성 단백질)'. 한국 학습자 핵심: protos(첫째·으뜸) 갈래 — protocol(프로토콜·의전)·prototype(시제품·원형)·protagonist(주인공)·proton(양성자)! a good source of protein(좋은 단백질원), animal/plant protein(동물성/식물성 단백질), protein-rich(단백질이 풍부한), a high-protein diet(고단백 식단), protein intake(단백질 섭취). 영양소 3대 — protein(단백질)·carbohydrate(탄수화물)·fat(지방)! nutrition(3090, 영양)·nutrient(영양소)와 함께. 발음 [ˈproʊtiːn] '프로틴'.",
+  "syn": ["nutrient(영양소)"],
+  "anti": [],
+  "idiom": ["a good source of protein(좋은 단백질원)", "a high-protein diet(고단백 식단)", "animal protein(동물성 단백질)"],
+  "colloc": ["animal protein(동물성 단백질)", "a source of protein(단백질원)", "protein-rich(단백질이 풍부한)"],
+  "ex_add": "Beans are a good source of protein.  (protein=단백질)"
+ },
+ {
+  "num": "3232",
+  "hw": "protester",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "공공연히 증언하는 사람 -> '시위자·항의자'.",
+  "senses": [
+   "1) 시위자·시위 참가자",
+   "2) 항의자·이의 제기자",
+   "3) 반대 운동가"
+  ],
+  "etym": "protest(항의하다) + -er. protest는 라틴어 pro-(공공연히) + testari(증언하다) <- testis(증인) -> '공공연히(pro) 증언하며(testari) 반대함'. testis(증인)는 testify(증언하다)·testimony(증언)·contest(2491)·detest(혐오하다)의 뿌리.",
+  "deriv": "pro-(공공연히) + testis(증인) -> protest -> 'protester'. '공공연히 증언하는 사람 -> 시위자·항의자(anti-war protesters, 반전 시위자)'. 한국 학습자 핵심: testis(증인) 갈래 — testify(증언하다)·testimony(증언)·contest(2491)·detest(몹시 싫어하다)·attest(증명하다)·testament(유언)·protest! peaceful protesters(평화 시위자), anti-government protesters(반정부 시위자), clash with protesters(시위대와 충돌하다), arrest protesters(시위자를 체포하다). demonstrator(시위자)·activist(운동가)·campaigner(운동가)와 유의어. protest(항의)·protester가 가족. (영국식 protestor도.)",
+  "syn": ["demonstrator(시위자)", "activist(운동가)", "campaigner(운동가)"],
+  "anti": ["supporter(지지자)"],
+  "idiom": ["peaceful protesters(평화 시위자)", "anti-war protesters(반전 시위자)", "clash with protesters(시위대와 충돌하다)"],
+  "colloc": ["peaceful protesters(평화 시위자)", "anti-government protesters(반정부 시위자)", "arrest protesters(시위자를 체포하다)"],
+  "ex_add": "Hundreds of protesters gathered outside the building.  (protester=시위자)"
+ },
+ {
+  "num": "3233",
+  "hw": "psychological",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "마음에 관한 -> '심리적인·정신적인'.",
+  "senses": [
+   "1) 심리적인·정신적인",
+   "2) 심리학의·심리학적인",
+   "3) (병이) 정신에서 비롯된"
+  ],
+  "etym": "그리스어 psyche(영혼·마음) + logos(학문·말) -> psychology(3235) + -ical. '마음(psyche)에 관한 학문(logos)'이 핵심. psyche(마음)는 psychology(3235)·psychologist(3234)·psychiatry(정신의학)·psychic(영적인)의 뿌리.",
+  "deriv": "psyche(마음) + logos(학문) -> psychology(3235) -> 'psychological'. '마음에 관한 -> 심리적인·정신적인(psychological pressure, 심리적 압박)'. 한국 학습자 핵심: psyche(마음) 갈래 — psychology(3235)·psychologist(3234)·psychiatry(정신의학)·psychic(심령의)·psyche(정신) / logos(학문) 갈래 — biology·geology·-logy! psychological effects(심리적 영향), psychological problems(심리적 문제), psychological warfare(심리전), a psychological thriller(심리 스릴러), psychological well-being(심리적 안녕). mental(정신의)·emotional(2658, 정서적인)과 유의어. 반대 physical(신체적인). 발음 — p 묵음 [ˌsaɪkəˈlɒdʒɪkl]!",
+  "syn": ["mental(정신의)", "emotional(정서적인)", "cognitive(인지의)"],
+  "anti": ["physical(신체적인)"],
+  "idiom": ["psychological pressure(심리적 압박)", "psychological warfare(심리전)", "psychological effects(심리적 영향)"],
+  "colloc": ["psychological effects(심리적 영향)", "psychological problems(심리적 문제)", "psychological pressure(심리적 압박)"],
+  "ex_add": "The accident had a serious psychological effect on her.  (psychological=심리적인)"
+ },
+ {
+  "num": "3234",
+  "hw": "psychologist",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "마음을 연구하는 사람 -> '심리학자'.",
+  "senses": [
+   "1) 심리학자",
+   "2) 심리 전문가·심리 상담사",
+   "3) 임상 심리사"
+  ],
+  "etym": "psychology(심리학, 3235) + -ist. 그리스어 psyche(마음) + logos(학문) 뿌리. '마음(psyche)을 연구하는 사람'이 핵심. psychological(3233)·psychiatry와 한 psyche 갈래.",
+  "deriv": "psyche(마음) + logos(학문) -> psychology(3235) -> 'psychologist'. '마음을 연구하는 사람 -> 심리학자(a clinical psychologist, 임상 심리학자)'. 한국 학습자 핵심: psyche(마음) 갈래 — psychology(3235)·psychological(3233)·psychiatry(정신의학)·psychiatrist(정신과 의사)·psychic! a clinical psychologist(임상 심리학자), a child psychologist(아동 심리학자), a sports psychologist(스포츠 심리학자), consult a psychologist(심리 전문가와 상담하다). psychologist(심리학자)와 psychiatrist(정신과 의사 — 의학 학위)를 구별! -ist는 '~하는 사람'(scientist, artist). 발음 — p 묵음 [saɪˈkɒlədʒɪst]!",
+  "syn": ["therapist(치료사)", "counselor(상담사)"],
+  "anti": [],
+  "idiom": ["a clinical psychologist(임상 심리학자)", "a child psychologist(아동 심리학자)"],
+  "colloc": ["a clinical psychologist(임상 심리학자)", "a child psychologist(아동 심리학자)", "consult a psychologist(심리학자와 상담하다)"],
+  "ex_add": "The psychologist studied how children learn language.  (psychologist=심리학자)"
+ },
+ {
+  "num": "3235",
+  "hw": "psychology",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "마음을 다루는 학문 -> '심리학 / 심리'.",
+  "senses": [
+   "1) 심리학",
+   "2) (특정 대상의) 심리·심리 상태",
+   "3) 심리적 작용"
+  ],
+  "etym": "그리스어 psyche(영혼·마음) + logia(학문·연구) -> '마음(psyche)을 연구하는 학문(logia)'. psyche(마음)는 psychological(3233)·psychologist(3234)·psychiatry(정신의학)·psyche의 뿌리. logos(학문)는 biology·geology·-logy 계열.",
+  "deriv": "psyche(마음) + logia(학문) -> 'psychology'. '마음을 다루는 학문 -> 심리학(study psychology, 심리학을 공부하다)·심리(the psychology of crowds, 군중 심리)'. 한국 학습자 핵심: psyche(마음) 갈래 — psychological(3233)·psychologist(3234)·psychiatry(정신의학)·psychic(영적인)·psyche(정신) / logos(학문) 갈래 — biology(생물학)·geology(지질학)·sociology(사회학)·-logy! child psychology(아동 심리학), reverse psychology(역심리(작전)), consumer psychology(소비자 심리), the psychology behind(~ 뒤의 심리). 발음 — p 묵음 [saɪˈkɒlədʒi]! psychological(3233)·psychologist(3234)가 가족.",
+  "syn": ["mindset(심리)", "mentality(사고방식)"],
+  "anti": [],
+  "idiom": ["reverse psychology(역심리)", "study psychology(심리학을 공부하다)", "child psychology(아동 심리학)"],
+  "colloc": ["study psychology(심리학을 전공하다)", "child psychology(아동 심리학)", "reverse psychology(역심리 작전)"],
+  "ex_add": "She majored in psychology at university.  (psychology=심리학)"
+ },
+ {
+  "num": "3236",
+  "hw": "publication",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "세상에 내놓음 -> '출판(물)·발행 / 공표'.",
+  "senses": [
+   "1) 출판·발행",
+   "2) 출판물·간행물",
+   "3) (연구·정보의) 공표·발표"
+  ],
+  "etym": "라틴어 publicare(공개하다) <- publicus(공공의) <- populus(국민)의 명사형 publicatio -> '대중(populus)에게 내놓음'. publicus(공공의)는 public(공공의)·publicity(3237)·publish·popular(3181)·population의 뿌리.",
+  "deriv": "populus(국민) -> publicus -> publish -> 'publication'. '세상에 내놓음 -> 출판·발행(the publication of a book, 책의 출간)·간행물(a monthly publication, 월간지)'. 한국 학습자 핵심: publicus(공공의)←populus(국민) 갈래 — public(공공의)·publicity(3237)·publishing(3238)·publish·popular(3181)·popularity(3181)·population·republic! the date of publication(발행일), a scientific publication(과학 간행물), upon publication(출간 즉시), publication of the results(결과 공표). release(발표)·issue(2947, 발행)와 유의어. publish(출판하다)·publisher(출판사)가 가족.",
+  "syn": ["release(발표)", "issue(발행)", "printing(인쇄)"],
+  "anti": [],
+  "idiom": ["the date of publication(발행일)", "upon publication(출간 즉시)", "a scientific publication(학술 간행물)"],
+  "colloc": ["the publication of(~의 출간)", "a monthly publication(월간지)", "a scientific publication(과학 간행물)"],
+  "ex_add": "The publication of her novel made her famous.  (publication=출판)"
+ },
+ {
+  "num": "3237",
+  "hw": "publicity",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "널리 알려짐 -> '홍보·선전 / 세간의 관심'.",
+  "senses": [
+   "1) 홍보·선전·광고",
+   "2) 세간의 이목·관심·평판",
+   "3) 매스컴 노출"
+  ],
+  "etym": "라틴어 publicus(공공의) <- populus(국민) + -ity -> '대중(populus)에게 널리 알려짐'. publicus(공공의)는 public(공공의)·publication(3236)·publish·popular(3181)의 뿌리.",
+  "deriv": "publicus(공공의) -> 'publicity'. '널리 알려짐 -> 홍보·선전(good publicity, 좋은 홍보)·세간의 관심(seek publicity, 이목을 끌려 하다)'. 한국 학습자 핵심: publicus(공공의)←populus(국민) 갈래 — public·publication(3236)·publishing(3238)·publish·popular(3181)·population! a publicity stunt(이목을 끌기 위한 묘기·노이즈 마케팅), a publicity campaign(홍보 캠페인), bad publicity(악평·부정적 노출), attract publicity(세간의 관심을 끌다), avoid publicity(세간의 이목을 피하다). promotion(3223, 홍보)·advertising(광고)·exposure(2714, 노출)와 유의어. 반대 privacy(3210, 사생활). public(공공의)이 가족.",
+  "syn": ["promotion(홍보)", "advertising(광고)", "exposure(노출)"],
+  "anti": ["privacy(사생활)", "obscurity(무명)"],
+  "idiom": ["a publicity stunt(이목 끌기용 묘기)", "a publicity campaign(홍보 캠페인)", "bad publicity(악평)"],
+  "colloc": ["good publicity(좋은 홍보)", "a publicity campaign(홍보 캠페인)", "attract publicity(이목을 끌다)"],
+  "ex_add": "The movie got a lot of publicity before its release.  (publicity=홍보)"
+ },
+ {
+  "num": "3238",
+  "hw": "publishing",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "세상에 펴내는 일 -> '출판(업)'.",
+  "senses": [
+   "1) 출판업·출판",
+   "2) 발행·간행",
+   "3) (전자) 퍼블리싱"
+  ],
+  "etym": "publish(출판하다) + -ing. publish는 라틴어 publicare(공개하다) <- publicus(공공의) <- populus(국민). '대중(populus)에게 펴내는 일'이 핵심. public·publication(3236)·publicity(3237)·popular(3181)와 한 갈래.",
+  "deriv": "publicus(공공의) -> publish -> 'publishing'. '세상에 펴내는 일 -> 출판업(the publishing industry, 출판업계)'. 한국 학습자 핵심: publicus(공공의)←populus(국민) 갈래 — public·publication(3236)·publicity(3237)·publish·popular(3181)·population·republic! the publishing industry(출판업), a publishing house/company(출판사), desktop publishing(전자 출판, DTP), academic publishing(학술 출판), digital publishing(디지털 출판). printing(인쇄)·journalism(2951, 언론)과 관련. publish(출판하다)·publisher(출판사)·publication(3236)이 가족.",
+  "syn": ["printing(인쇄)", "the press(출판계)"],
+  "anti": [],
+  "idiom": ["the publishing industry(출판업)", "a publishing house(출판사)", "desktop publishing(전자 출판)"],
+  "colloc": ["the publishing industry(출판업계)", "a publishing house(출판사)", "academic publishing(학술 출판)"],
+  "ex_add": "She works in publishing as an editor.  (publishing=출판업)"
+ },
+ {
+  "num": "3239",
+  "hw": "punk",
+  "pos": "n., adj.",
+  "cefr": "B2",
+  "core": "보잘것없는 것 -> '펑크(록) / 불량배'.",
+  "senses": [
+   "1) 펑크 록·펑크 문화(의)",
+   "2) (미, 구어) 불량배·애송이·풋내기",
+   "3) 보잘것없는 사람·것"
+  ],
+  "etym": "어원이 불확실하나 16세기 영어에서 '썩은 나무·쓸모없는 것'을 뜻하던 punk에서. 거기서 '하찮은 사람·불량배'로, 1970년대 거칠고 반항적인 음악 'punk rock'으로 발전. '거칠고 반항적임'이 핵심.",
+  "deriv": "punk(썩은 나무·하찮은 것) -> '불량배·애송이' -> 음악 '펑크 록(punk rock)'. 한국 학습자 핵심: 1970년대 반항적 음악 장르 punk rock에서 널리 쓰임 — 거칠고 반체제적인 하위문화! a punk band(펑크 밴드), punk rock(펑크 록), punk fashion(펑크 패션), a young punk(애송이 불량배), a punk attitude(반항적 태도). (미국 구어로 punk는 '건방진 애송이·불량배' 욕설로도!) rebel(반항아)·hooligan(불량배)과 유의어. 음악·하위문화 어휘 — rock(록)·grunge(그런지)와 관련.",
+  "syn": ["hooligan(불량배)", "rebel(반항아)", "troublemaker(말썽꾼)"],
+  "anti": [],
+  "idiom": ["punk rock(펑크 록)", "a punk band(펑크 밴드)", "punk fashion(펑크 패션)"],
+  "colloc": ["punk rock(펑크 록)", "a punk band(펑크 밴드)", "punk fashion(펑크 패션)"],
+  "ex_add": "He used to play in a punk rock band.  (punk=펑크)"
+ },
+ {
+  "num": "3240",
+  "hw": "purchase",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "쫓아가 손에 넣다 -> '구매하다·구입 / 구입(품)'.",
+  "senses": [
+   "1) 구매하다·구입하다",
+   "2) 구입·매입",
+   "3) 구입품 / (격식) 손에 넣다"
+  ],
+  "etym": "고대 프랑스어 porchacier(애써 손에 넣다) = pur-(앞으로, pro-) + chacier(쫓다) <- 라틴어 captiare(붙잡으려 쫓다). '쫓아가(chacier) 손에 넣음'이 핵심. captiare는 chase(2417)·catch(2404)·capture(2399)·capable(2397)와 한 capere 갈래.",
+  "deriv": "pur-(앞으로) + chacier(쫓다) -> 'purchase'. '쫓아가 손에 넣다 -> 구매하다(purchase tickets, 표를 구입하다)' -> 명사 '구입(make a purchase, 구매하다)'. 한국 학습자 핵심: captiare(쫓아 잡다) 갈래 — chase(2417)·catch(2404)·capture(2399)·capable(2397)! make a purchase(구매하다), a recent purchase(최근 구입품), proof of purchase(구매 증빙), purchase price(구입가), an online purchase(온라인 구매). buy(사다)·acquire(획득하다)·obtain(3100, 얻다)과 유의어 — purchase는 buy의 격식체! 반대 sell(팔다). 발음 [ˈpɜːrtʃəs] '퍼처스'.",
+  "syn": ["buy(사다)", "acquire(획득하다)", "obtain(얻다)"],
+  "anti": ["sell(팔다)"],
+  "idiom": ["make a purchase(구매하다)", "proof of purchase(구매 증빙)", "a recent purchase(최근 구입품)"],
+  "colloc": ["make a purchase(구매하다)", "purchase tickets(표를 구입하다)", "an online purchase(온라인 구매)"],
+  "ex_add": "You can purchase tickets online or at the door.  (purchase=구입하다)"
+ },
+ {
+  "num": "3241",
+  "hw": "pure",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "깨끗한 -> '순수한·깨끗한 / 순전한'.",
+  "senses": [
+   "1) 순수한·불순물 없는·깨끗한",
+   "2) (혈통·소리가) 순수한·맑은",
+   "3) 순전한·완전한 / 순결한"
+  ],
+  "etym": "라틴어 purus(깨끗한·순수한) -> 'pure'. '섞인 것 없이 깨끗한'이 핵심. purus(깨끗한)는 purify(정화하다)·purity(순수)·purge(숙청하다)·puritan(청교도)의 뿌리.",
+  "deriv": "purus(깨끗한) -> 'pure'. '깨끗한 -> 순수한(pure water, 순수한 물)·순전한(pure luck, 순전한 운)'. 한국 학습자 핵심: purus(깨끗한) 갈래 — purify(정화하다)·purity(순수성)·purge(숙청)·puritan(청교도)·purée(퓌레)! pure gold(순금), pure coincidence(순전한 우연, 2436 coincidence), pure and simple(다름 아닌 바로), a pure heart(순수한 마음), out of pure curiosity(순전한 호기심에서). clean(깨끗한)·sheer(순전한)·unadulterated(섞이지 않은)와 유의어. 반대 impure(불순한)·contaminated(오염된)·mixed(3043, 섞인). purify(정화하다)·purity(순수)가 가족.",
+  "syn": ["clean(깨끗한)", "sheer(순전한)", "unadulterated(섞이지 않은)"],
+  "anti": ["impure(불순한)", "contaminated(오염된)", "mixed(섞인)"],
+  "idiom": ["pure and simple(다름 아닌 바로)", "pure gold(순금)", "out of pure curiosity(순전한 호기심에서)"],
+  "colloc": ["pure water(순수한 물)", "pure gold(순금)", "pure coincidence(순전한 우연)"],
+  "ex_add": "The necklace is made of pure gold.  (pure=순수한)"
+ }
+]
