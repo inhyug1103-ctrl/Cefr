@@ -1,0 +1,1563 @@
+[
+ {
+  "num": "3742",
+  "hw": "authentic",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "직접 만든 진짜의 -> '진짜의·진품의 / 정통의·믿을 만한'.",
+  "senses": [
+   "1) 진짜의·진품의·위조가 아닌",
+   "2) 정통의·본고장의",
+   "3) 믿을 만한·출처가 확실한"
+  ],
+  "etym": "그리스어 authentikos(직접 손으로 한·원본의, autos 자신 + hentes 행하는 자) -> 라틴어 authenticus -> 'authentic'. '본인이 직접 만든 진짜'가 핵심. autos(자신)는 authentic·auto(3744)·autonomy(3745)·automatic(자동의)의 뿌리.",
+  "deriv": "autos(자신)+hentes(행하는 자) -> 'authentic'. '직접 만든 진짜의 -> 진품의(an authentic painting, 진품 그림)·정통의(authentic Italian food, 정통 이탈리아 음식)'. 한국 학습자 핵심: autos(자신) 갈래 — auto(3744)·autonomy(3745)·automatic(자동의)·autobiography(자서전)·autograph(사인)! authenticity(진정성)·authenticate(진위를 확인하다)가 가족. genuine(진짜의)·real(진짜의)·bona fide(진짜의)와 유의어. 반대 fake(가짜의)·counterfeit(위조의)·artificial(인공의).",
+  "syn": [
+   "genuine(진짜의)",
+   "real(진짜의)",
+   "bona fide(진짜의)"
+  ],
+  "anti": [
+   "fake(가짜의)",
+   "counterfeit(위조의)",
+   "artificial(인공의)"
+  ],
+  "idiom": [
+   "an authentic painting(진품 그림)",
+   "authentic Italian food(정통 이탈리아 음식)"
+  ],
+  "colloc": [
+   "authentic experience(진정한 경험)",
+   "authentic document(진본 문서)",
+   "truly authentic(진정 진짜의)"
+  ],
+  "ex_add": "The restaurant serves authentic Mexican cuisine.  (authentic=정통의)"
+ },
+ {
+  "num": "3743",
+  "hw": "authorize",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "권위를 부여하다 -> '권한을 주다·인가하다·재가하다'.",
+  "senses": [
+   "1) 권한을 주다·위임하다",
+   "2) (공식적으로) 인가하다·승인하다·재가하다"
+  ],
+  "etym": "라틴어 augere(늘리다·키우다) -> auctor(창시자·권위자) -> author(저자·권위) + -ize. '권위를 부여함'이 핵심. augere(늘리다)는 authorize·author(저자)·authority(권위)·auction(3740)·augment(증대하다)의 뿌리.",
+  "deriv": "augere(늘리다) -> auctor -> author -> 'authorize'. '권위를 부여함 -> 인가하다(authorize a payment, 지불을 승인하다)'. 한국 학습자 핵심: augere(늘리다·키우다) 대가족 — author(저자, 만들어 키우는 이)·authority(권위)·auction(3740)·augment(증대)·auxiliary(보조의)·august(위엄 있는)! authorization(허가)·authorized(공인된)이 가족. authorize someone to do(~에게 ~할 권한을 주다), be authorized to(~할 권한이 있는). approve(승인하다)·sanction(재가하다)·permit(3166, 허가하다)과 유의어. 반대 prohibit(금지하다)·forbid(금하다)·ban(금지하다).",
+  "syn": [
+   "approve(승인하다)",
+   "sanction(재가하다)",
+   "permit(허가하다)"
+  ],
+  "anti": [
+   "prohibit(금지하다)",
+   "forbid(금하다)",
+   "ban(금지하다)"
+  ],
+  "idiom": [
+   "authorize a payment(지불을 승인하다)",
+   "be authorized to(~할 권한이 있는)"
+  ],
+  "colloc": [
+   "authorize access(접근을 허가하다)",
+   "officially authorize(공식 인가하다)",
+   "authorize the use of(~의 사용을 승인하다)"
+  ],
+  "ex_add": "Only managers are authorized to approve refunds.  (authorize=권한을 주다)"
+ },
+ {
+  "num": "3744",
+  "hw": "auto",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "스스로 움직이는 것 -> '자동차 / (접두사) 자동·자기 ~'.",
+  "senses": [
+   "1) (미) 자동차(=automobile)",
+   "2) (접두사 auto-) 자동의·자기 자신의"
+  ],
+  "etym": "그리스어 autos(스스로) + 라틴어 mobilis(움직이는) -> automobile(자동차)의 줄임말 'auto'. '스스로 움직이는 것'이 핵심. autos(스스로)는 auto·autonomy(3745)·automatic(자동의)·autograph(사인)의 뿌리.",
+  "deriv": "autos(스스로)+mobilis(움직이는) -> automobile -> 'auto'. '스스로 움직이는 것 -> 자동차(the auto industry, 자동차 산업)'. 한국 학습자 핵심: autos(스스로·자기) 초대형 가족 — autonomy(3745)·automatic(자동의)·autograph(사인)·autobiography(자서전)·autopilot(자동 조종)·autocrat(독재자)·authentic(3742)! auto-(자동·자기) 접두사로 무수한 단어를 만듦. the auto industry(자동차 산업), auto parts(자동차 부품), auto repair(자동차 수리). car(자동차)·vehicle(차량)과 유의어.",
+  "syn": [
+   "car(자동차)",
+   "vehicle(차량)",
+   "automobile(자동차)"
+  ],
+  "anti": [],
+  "idiom": [
+   "the auto industry(자동차 산업)",
+   "auto parts(자동차 부품)"
+  ],
+  "colloc": [
+   "auto industry(자동차 산업)",
+   "auto repair(자동차 수리)",
+   "auto insurance(자동차 보험)"
+  ],
+  "ex_add": "The auto industry employs thousands of workers.  (auto=자동차)"
+ },
+ {
+  "num": "3745",
+  "hw": "autonomy",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "스스로 법을 세움 -> '자치권·자율 / 자주성'.",
+  "senses": [
+   "1) (정치적) 자치권·자치",
+   "2) 자율·자주성·독립성"
+  ],
+  "etym": "그리스어 autos(스스로) + nomos(법·다스림) -> autonomia(자치) -> 'autonomy'. '스스로 법을 세워 다스림'이 핵심. nomos(법·관리)는 autonomy·economy(경제, 집안 관리)·astronomy(천문학)·gastronomy(미식)의 뿌리.",
+  "deriv": "autos(스스로)+nomos(법) -> 'autonomy'. '스스로 법을 세움 -> 자치권(regional autonomy, 지역 자치권)·자율'. 한국 학습자 핵심: nomos(법·다스림) 갈래 — economy(경제, oikos 집+nomos 관리)·astronomy(천문학, astron 별)·gastronomy(미식, gaster 위)·taxonomy(분류학)! autos(스스로) 갈래 — auto(3744)·automatic·autonomous(자율적인)! grant autonomy(자치권을 주다), a degree of autonomy(어느 정도의 자율성), personal autonomy(개인의 자율성). independence(독립)·self-government(자치)·freedom(자유)과 유의어. 반대 dependence(의존)·subordination(종속).",
+  "syn": [
+   "independence(독립)",
+   "self-government(자치)",
+   "freedom(자유)"
+  ],
+  "anti": [
+   "dependence(의존)",
+   "subordination(종속)"
+  ],
+  "idiom": [
+   "grant autonomy(자치권을 주다)",
+   "a degree of autonomy(어느 정도의 자율성)"
+  ],
+  "colloc": [
+   "regional autonomy(지역 자치권)",
+   "personal autonomy(개인의 자율성)",
+   "greater autonomy(더 큰 자율성)"
+  ],
+  "ex_add": "The region was granted greater autonomy.  (autonomy=자치권)"
+ },
+ {
+  "num": "3746",
+  "hw": "autumn",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "수확의 계절 -> '가을'.",
+  "senses": [
+   "1) (영) 가을(=fall)",
+   "2) (비유) 쇠퇴기·노년기"
+  ],
+  "etym": "라틴어 autumnus(가을, 어원 불확실) -> 고대 프랑스어 autompne -> 'autumn'. '여름과 겨울 사이 수확의 계절'이 핵심.",
+  "deriv": "autumnus(가을) -> 'autumn'. '수확의 계절 -> 가을(in autumn, 가을에)·(비유) 쇠퇴기(the autumn of one's life, 인생의 황혼기)'. 한국 학습자 핵심: 영국 autumn vs 미국 fall! 묵음 n(autumn[ɔ́ːtəm]) — column·hymn처럼 끝의 n 묵음! 계절 — spring(봄)·summer(여름)·autumn/fall(가을)·winter(겨울). autumn leaves(단풍), an autumn day(가을날), the autumn of one's life(인생의 황혼기). fall(가을)과 유의어. 반대 개념과 무관, 계절 명사.",
+  "syn": [
+   "fall(가을)"
+  ],
+  "anti": [],
+  "idiom": [
+   "the autumn of one's life(인생의 황혼기)",
+   "autumn leaves(단풍)"
+  ],
+  "colloc": [
+   "in autumn(가을에)",
+   "autumn leaves(단풍)",
+   "early autumn(초가을)"
+  ],
+  "ex_add": "The leaves turn red and gold in autumn.  (autumn=가을)"
+ },
+ {
+  "num": "3747",
+  "hw": "availability",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "쓸모 있게 갖춰짐 -> '이용 가능성·구할 수 있음 / 여유·시간'.",
+  "senses": [
+   "1) 이용 가능성·구입 가능성",
+   "2) (물자의) 공급·입수 가능 여부",
+   "3) (사람의) 시간 여유·응할 수 있음"
+  ],
+  "etym": "라틴어 ad(~로) + valere(힘이 있다·가치가 있다) -> avail(도움이 되다) + -able + -ity. '쓸모 있게 갖춰져 있음'이 핵심. valere(힘이 있다)는 availability·value(3584)·valid(3583)·prevail(우세하다)·evaluate(평가하다)의 뿌리.",
+  "deriv": "ad(~로)+valere(가치가 있다) -> avail -> available -> 'availability'. '쓸모 있게 갖춰짐 -> 이용 가능성(check availability, 구입 가능 여부를 확인하다)'. 한국 학습자 핵심: valere(힘·가치) 대가족 — value(3584)·valid(3583)·prevail(우세하다)·evaluate(평가)·valiant(용감한)·avail(도움이 되다)! subject to availability(재고가 있는 경우에), limited availability(한정 수량). accessibility(접근성)와 유의어. 반대 unavailability(이용 불가)·scarcity(부족).",
+  "syn": [
+   "accessibility(접근성)",
+   "obtainability(입수 가능성)"
+  ],
+  "anti": [
+   "unavailability(이용 불가)",
+   "scarcity(부족)"
+  ],
+  "idiom": [
+   "subject to availability(재고가 있는 경우에)",
+   "check availability(구입 가능 여부를 확인하다)"
+  ],
+  "colloc": [
+   "limited availability(한정 수량)",
+   "food availability(식량 공급)",
+   "check availability(이용 가능 여부 확인)"
+  ],
+  "ex_add": "Please check the availability of rooms before booking.  (availability=이용 가능성)"
+ },
+ {
+  "num": "3748",
+  "hw": "await",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "지켜 기다리다 -> '기다리다 / (일이) 기다리고 있다'.",
+  "senses": [
+   "1) (격식) ~을 기다리다",
+   "2) (어떤 일이) ~을 기다리고 있다·~에게 닥치다"
+  ],
+  "etym": "고대 북프랑스어 awaitier, a(~로) + waitier(지켜보다·기다리다, wait). '~을 지켜보며 기다림'이 핵심. wait(기다리다)와 한 뿌리.",
+  "deriv": "a(~로)+wait(기다리다) -> 'await'. '지켜 기다림 -> ~을 기다리다(await a reply, 답장을 기다리다)·(일이) 기다리고 있다(a surprise awaits you, 깜짝 선물이 기다린다)'. 한국 학습자 핵심: await(타동사, 목적어 바로) vs wait for(자동사+전치사)! await a decision(O), wait for a decision(O), await for(X). eagerly await(간절히 기다리다), eagerly awaited(고대하던). expect(기대하다)·anticipate(예상하다)와 유의어.",
+  "syn": [
+   "wait for(기다리다)",
+   "expect(기대하다)",
+   "anticipate(예상하다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "await a reply(답장을 기다리다)",
+   "eagerly await(간절히 기다리다)"
+  ],
+  "colloc": [
+   "await a decision(결정을 기다리다)",
+   "eagerly awaited(고대하던)",
+   "await trial(재판을 기다리다)"
+  ],
+  "ex_add": "We eagerly await your response.  (await=기다리다)"
+ },
+ {
+  "num": "3749",
+  "hw": "backdrop",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "뒤에 드리운 막 -> '배경 / (사건의) 배경·정황'.",
+  "senses": [
+   "1) (무대의) 배경막",
+   "2) (사진·풍경의) 배경",
+   "3) (사건의) 배경·정황"
+  ],
+  "etym": "back(뒤) + drop(드리워진 천). 무대 뒤에 '드리운 막'에서 '배경'으로. '뒤에 드리운 막'이 핵심.",
+  "deriv": "back(뒤)+drop(드리운 천) -> 'backdrop'. '뒤에 드리운 막 -> 배경(against the backdrop of, ~을 배경으로)'. 한국 학습자 핵심: back- 복합어 — backdrop·backing(3750)·backup(3751)·background(배경)·backbone(척추)·backfire(역효과)! against a backdrop of(~을 배경으로 하여), a dramatic backdrop(극적인 배경), provide a backdrop(배경이 되다). background(배경)·setting(배경)·scenery(경치)와 유의어.",
+  "syn": [
+   "background(배경)",
+   "setting(배경)",
+   "scenery(경치)"
+  ],
+  "anti": [
+   "foreground(전경)"
+  ],
+  "idiom": [
+   "against the backdrop of(~을 배경으로)",
+   "a dramatic backdrop(극적인 배경)"
+  ],
+  "colloc": [
+   "stunning backdrop(멋진 배경)",
+   "provide a backdrop(배경이 되다)",
+   "scenic backdrop(경치 좋은 배경)"
+  ],
+  "ex_add": "The mountains formed a beautiful backdrop for the photos.  (backdrop=배경)"
+ },
+ {
+  "num": "3750",
+  "hw": "backing",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "뒤를 받쳐 줌 -> '지지·후원 / 뒷받침'.",
+  "senses": [
+   "1) 지지·후원·지원",
+   "2) (물건의) 뒷받침·받침대",
+   "3) (음악) 반주"
+  ],
+  "etym": "back(등·뒤) + -ing. '뒤에서 받쳐 줌'이 핵심.",
+  "deriv": "back(뒤·등) -> 'backing'. '뒤를 받쳐 줌 -> 지지(financial backing, 재정 지원)'. 한국 학습자 핵심: back- 복합어 — backdrop(3749)·backup(3751)·background(배경)·backbone(척추)·setback(좌절)·feedback(피드백)! financial backing(재정 후원), strong backing(강력한 지지), backing vocals(백 보컬). support(지지)·sponsorship(3437, 후원)·funding(자금 지원)과 유의어. 반대 opposition(반대).",
+  "syn": [
+   "support(지지)",
+   "sponsorship(후원)",
+   "funding(자금 지원)"
+  ],
+  "anti": [
+   "opposition(반대)"
+  ],
+  "idiom": [
+   "financial backing(재정 지원)",
+   "backing vocals(백 보컬)"
+  ],
+  "colloc": [
+   "strong backing(강력한 지지)",
+   "financial backing(재정 후원)",
+   "official backing(공식 지지)"
+  ],
+  "ex_add": "The project received financial backing from investors.  (backing=후원)"
+ },
+ {
+  "num": "3751",
+  "hw": "backup",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "뒤를 받쳐 줌 -> '예비·지원 / 백업(자료 사본)'.",
+  "senses": [
+   "1) 지원·예비·대체 인력",
+   "2) (컴퓨터) 백업·여벌 자료",
+   "3) (교통) 정체"
+  ],
+  "etym": "back up(뒤를 받쳐 주다·후진하다)에서 온 명사. '만일에 대비해 뒤를 받쳐 줌'이 핵심.",
+  "deriv": "back(뒤)+up -> 'backup'. '뒤를 받쳐 줌 -> 예비·지원(call for backup, 지원을 요청하다)·(컴퓨터) 백업(make a backup, 백업하다)'. 한국 학습자 핵심: back- 복합어 — backdrop(3749)·backing(3750)·background(배경)·setback(좌절)! 동사구 back up(받쳐 주다·후진하다·백업하다)과 명사 backup 구별. a backup plan(예비 계획), backup data(백업 자료), call for backup(지원을 요청하다). support(지원)·reserve(3300, 예비)·spare(여분)와 유의어.",
+  "syn": [
+   "support(지원)",
+   "reserve(예비)",
+   "spare(여분)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a backup plan(예비 계획)",
+   "call for backup(지원을 요청하다)"
+  ],
+  "colloc": [
+   "backup data(백업 자료)",
+   "backup plan(예비 계획)",
+   "make a backup(백업하다)"
+  ],
+  "ex_add": "Always keep a backup of your important files.  (backup=백업)"
+ },
+ {
+  "num": "3752",
+  "hw": "bail",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "맡겨 두는 보증금 -> '보석(금) / 보석으로 풀어 주다 / 긴급 구제하다'.",
+  "senses": [
+   "1) 보석·보석금",
+   "2) (동사) 보석으로 풀어 주다",
+   "3) (bail out) 긴급 구제하다; 물을 퍼내다; (구어) 빠져나오다"
+  ],
+  "etym": "라틴어 bajulare(짐을 지다·맡다) -> 고대 프랑스어 bail(맡아 둠·보관) -> 'bail'. '풀어 주는 대가로 맡겨 두는 보증'이 핵심.",
+  "deriv": "bajulare(맡다) -> 'bail'. '맡겨 두는 보증금 -> 보석금(release on bail, 보석으로 석방하다)·(bail out) 긴급 구제하다'. 한국 학습자 핵심: bail out이 매우 빈출 — (1) 회사·은행을 긴급 구제하다(financial bailout), (2) 배에서 물을 퍼내다, (3) 비행기에서 낙하산으로 탈출하다, (4) 곤경에서 빠져나오다·발을 빼다! post bail(보석금을 내다), out on bail(보석 중인), deny bail(보석을 불허하다). 동음이의 bale(꾸러미)과 구별. security(담보)·guarantee(보증)와 유의어.",
+  "syn": [
+   "security(담보)",
+   "guarantee(보증)",
+   "bond(보증금)"
+  ],
+  "anti": [],
+  "idiom": [
+   "out on bail(보석 중인)",
+   "bail out(긴급 구제하다)",
+   "post bail(보석금을 내다)"
+  ],
+  "colloc": [
+   "release on bail(보석으로 석방하다)",
+   "deny bail(보석을 불허하다)",
+   "bail money(보석금)"
+  ],
+  "ex_add": "He was released on bail pending trial.  (bail=보석)"
+ },
+ {
+  "num": "3753",
+  "hw": "ballot",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "투표용 작은 공 -> '투표(용지) / 비밀 투표'.",
+  "senses": [
+   "1) 투표용지·기표 용지",
+   "2) (비밀) 투표·표결",
+   "3) (동사) 투표하다·투표에 부치다"
+  ],
+  "etym": "이탈리아어 ballotta(작은 공, balla 공의 축소형). 옛 베네치아에서 공을 던져 투표한 데서. '투표용 작은 공'이 핵심. balla(공)는 ballot·ball(공)·balloon(풍선)의 뿌리.",
+  "deriv": "ballotta(작은 공) -> 'ballot'. '투표용 공 -> 투표용지(cast a ballot, 투표하다)·비밀 투표(a secret ballot, 비밀 투표)'. 한국 학습자 핵심: 어원이 '작은 공' — 찬반 색깔 공을 항아리에 넣어 투표한 데서! cast a ballot(한 표를 던지다), a secret ballot(비밀 투표), a ballot box(투표함), a postal ballot(우편 투표). vote(투표)·poll(투표)·voting(3605, 투표)과 유의어.",
+  "syn": [
+   "vote(투표)",
+   "poll(투표)",
+   "voting(투표)"
+  ],
+  "anti": [],
+  "idiom": [
+   "cast a ballot(한 표를 던지다)",
+   "a secret ballot(비밀 투표)",
+   "a ballot box(투표함)"
+  ],
+  "colloc": [
+   "secret ballot(비밀 투표)",
+   "ballot paper(투표용지)",
+   "postal ballot(우편 투표)"
+  ],
+  "ex_add": "Voters cast their ballots in secret.  (ballot=투표)"
+ },
+ {
+  "num": "3754",
+  "hw": "bankruptcy",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "부서진 환전대 -> '파산'.",
+  "senses": [
+   "1) 파산·도산",
+   "2) (가치·신뢰의) 결여·파탄(moral bankruptcy)"
+  ],
+  "etym": "이탈리아어 banca rotta(부서진 환전대), banca(환전대) + rotta(부서진, 라틴어 rumpere 깨다). 파산한 환전상의 좌판을 부쉈던 데서. '부서진 환전대'가 핵심. rumpere(깨다)는 bankruptcy·rupture(파열)·erupt(분출)·interrupt(가로막다)·breach(3790)의 뿌리.",
+  "deriv": "banca(환전대)+rotta(부서진) -> bankrupt -> 'bankruptcy'. '부서진 환전대 -> 파산(file for bankruptcy, 파산 신청을 하다)'. 한국 학습자 핵심: rumpere(깨다·부수다) 대가족 — rupture(파열)·erupt(분출)·interrupt(가로막다)·disrupt(방해하다)·corrupt(부패한)·abrupt(갑작스러운)·breach(3790)·bankrupt! declare bankruptcy(파산을 선언하다), on the verge of bankruptcy(파산 직전의), moral bankruptcy(도덕적 파탄). insolvency(지급 불능)·ruin(3335, 파멸)과 유의어. 반대 solvency(지급 능력)·prosperity(번영).",
+  "syn": [
+   "insolvency(지급 불능)",
+   "ruin(파멸)",
+   "failure(도산)"
+  ],
+  "anti": [
+   "solvency(지급 능력)",
+   "prosperity(번영)"
+  ],
+  "idiom": [
+   "file for bankruptcy(파산 신청을 하다)",
+   "on the verge of bankruptcy(파산 직전의)"
+  ],
+  "colloc": [
+   "declare bankruptcy(파산을 선언하다)",
+   "face bankruptcy(파산에 직면하다)",
+   "moral bankruptcy(도덕적 파탄)"
+  ],
+  "ex_add": "The company filed for bankruptcy last month.  (bankruptcy=파산)"
+ },
+ {
+  "num": "3755",
+  "hw": "banner",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "기치 -> '현수막·기 / (구호의) 기치 / (인터넷) 배너'.",
+  "senses": [
+   "1) 현수막·플래카드·기",
+   "2) (운동·신념의) 기치·표어",
+   "3) (인터넷) 배너 광고; (형용사) 아주 좋은(a banner year)"
+  ],
+  "etym": "후기 라틴어 bandum(기·표지) -> 고대 프랑스어 baniere -> 'banner'. 게르만어 기원으로 band(띠·무리)와 연관. '무리를 모으는 깃발'이 핵심.",
+  "deriv": "bandum(기) -> 'banner'. '기치 -> 현수막(hang a banner, 현수막을 걸다)·(신념의) 기치(under the banner of, ~의 기치 아래)'. 한국 학습자 핵심: under the banner of(~의 기치 아래·~을 표방하여), a banner headline(대형 표제), a banner year(대성공의 해), a banner ad(배너 광고). flag(깃발)·placard(플래카드)·standard(군기)와 유의어.",
+  "syn": [
+   "flag(깃발)",
+   "placard(플래카드)",
+   "standard(군기)"
+  ],
+  "anti": [],
+  "idiom": [
+   "under the banner of(~의 기치 아래)",
+   "a banner year(대성공의 해)"
+  ],
+  "colloc": [
+   "hang a banner(현수막을 걸다)",
+   "banner headline(대형 표제)",
+   "banner ad(배너 광고)"
+  ],
+  "ex_add": "Protesters carried banners demanding change.  (banner=현수막)"
+ },
+ {
+  "num": "3756",
+  "hw": "bare",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "드러난 -> '벌거벗은·텅 빈 / 가까스로의·최소한의'.",
+  "senses": [
+   "1) 벌거벗은·맨~·드러난",
+   "2) (장식·내용물이) 텅 빈·휑한",
+   "3) 최소한의·가까스로의; (동사) 드러내다"
+  ],
+  "etym": "고대 영어 bær(헐벗은·드러난). 게르만어 baraz에서 — '아무것도 걸치지 않아 드러난'이 핵심.",
+  "deriv": "bær(헐벗은) -> 'bare'. '드러난 -> 벌거벗은(bare feet, 맨발)·텅 빈(a bare room, 휑한 방)·최소한의(the bare minimum, 최소한)'. 한국 학습자 핵심: 동음이의 bear(곰·참다)와 발음 같음[bɛər] 주의! barely(가까스로·거의 ~않은)가 부사. with one's bare hands(맨손으로), the bare minimum(최소한), lay bare(드러내다·폭로하다), bare bones(뼈대만·핵심만). naked(벌거벗은)·empty(빈)·exposed(드러난)와 유의어. 반대 covered(덮인)·clothed(옷을 입은)·full(가득 찬).",
+  "syn": [
+   "naked(벌거벗은)",
+   "empty(빈)",
+   "exposed(드러난)"
+  ],
+  "anti": [
+   "covered(덮인)",
+   "clothed(옷을 입은)",
+   "full(가득 찬)"
+  ],
+  "idiom": [
+   "with one's bare hands(맨손으로)",
+   "the bare minimum(최소한)",
+   "lay bare(드러내다)"
+  ],
+  "colloc": [
+   "bare feet(맨발)",
+   "bare walls(휑한 벽)",
+   "bare essentials(필수품만)"
+  ],
+  "ex_add": "He caught the fish with his bare hands.  (bare=맨~)"
+ },
+ {
+  "num": "3757",
+  "hw": "barrel",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "통 -> '통·배럴 / 총신'.",
+  "senses": [
+   "1) (나무·금속) 통·배럴",
+   "2) (석유) 배럴(부피 단위, 약 159리터)",
+   "3) (총의) 총열·총신"
+  ],
+  "etym": "고대 프랑스어 baril(통). 어원 불확실하나 '둥근 나무 통'이 핵심.",
+  "deriv": "baril(통) -> 'barrel'. '통 -> 배럴(a barrel of oil, 석유 한 배럴)·총신'. 한국 학습자 핵심: 석유 단위로 빈출 — $80 per barrel(배럴당 80달러)! a barrel of laughs(아주 재미있는 사람·것), have someone over a barrel(꼼짝 못 하게 하다), lock, stock and barrel(전부·통째로, 3457 stock), scrape the barrel(바닥까지 긁다). cask(큰 통)·drum(드럼통)·keg(작은 통)과 유의어.",
+  "syn": [
+   "cask(큰 통)",
+   "drum(드럼통)",
+   "keg(작은 통)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a barrel of laughs(아주 재미있는 것)",
+   "have someone over a barrel(꼼짝 못 하게 하다)"
+  ],
+  "colloc": [
+   "a barrel of oil(석유 한 배럴)",
+   "oil barrel(석유 통)",
+   "per barrel(배럴당)"
+  ],
+  "ex_add": "Oil prices rose to eighty dollars per barrel.  (barrel=배럴)"
+ },
+ {
+  "num": "3758",
+  "hw": "bass",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "낮은 음 -> '저음·베이스 / 베이스 기타·악기'.",
+  "senses": [
+   "1) (음악) 저음·베이스 음역",
+   "2) 베이스 기타·콘트라베이스; 저음 가수",
+   "3) (형용사) 저음의"
+  ],
+  "etym": "라틴어 bassus(낮은) -> 이탈리아어 basso(낮은·저음) -> 'bass'. base(기초)와 한 뿌리 — '낮은 음'이 핵심. bassus(낮은)는 bass·base(기초)·basement(지하)·debase(질을 떨어뜨리다)의 뿌리.",
+  "deriv": "bassus(낮은) -> 'bass'. '낮은 음 -> 저음·베이스(play the bass, 베이스를 연주하다)'. 한국 학습자 핵심: 발음 주의! bass[beɪs]=저음·베이스(음악), bass[bæs]=농어(물고기)! 철자 같은 이발음. bassus(낮은) 갈래 — base(기초)·basement(지하)·debase(질 떨어뜨리다)·bassoon(바순)! a bass guitar(베이스 기타), a bass line(베이스 라인), a deep bass voice(굵은 저음). 반대 treble(고음)·soprano(소프라노).",
+  "syn": [
+   "low note(저음)"
+  ],
+  "anti": [
+   "treble(고음)",
+   "soprano(소프라노)"
+  ],
+  "idiom": [
+   "play the bass(베이스를 연주하다)",
+   "a bass line(베이스 라인)"
+  ],
+  "colloc": [
+   "bass guitar(베이스 기타)",
+   "deep bass(굵은 저음)",
+   "bass voice(저음 목소리)"
+  ],
+  "ex_add": "He plays bass in a rock band.  (bass=베이스)"
+ },
+ {
+  "num": "3759",
+  "hw": "bat",
+  "pos": "n., v.",
+  "cefr": "C1",
+  "core": "치는 막대 / 박쥐 -> '방망이·배트 / 박쥐 / (공을) 치다'.",
+  "senses": [
+   "1) (야구·크리켓) 방망이·배트",
+   "2) 박쥐",
+   "3) (동사) (공을) 치다·타격하다; 눈을 깜박이다"
+  ],
+  "etym": "(1) 방망이: 고대 영어 batt(곤봉·막대). (2) 박쥐: 중세 영어 bakke <- 스칸디나비아어(날개 치는 동물). 철자가 같아진 별개 단어. '치는 막대 / 날개 치는 동물'이 핵심.",
+  "deriv": "batt(막대) / bakke(박쥐) -> 'bat'. '방망이·박쥐·(공을) 치다'. 한국 학습자 핵심: 동음이의 — 방망이 bat과 박쥐 bat은 어원이 다름! 변화 bat-batted-batted(타격하다). (as) blind as a bat(눈이 아주 나쁜), have bats in the belfry(머리가 좀 이상한), right off the bat(즉시·곧바로), not bat an eye(눈 하나 깜짝 안 하다), go to bat for(~을 적극 돕다). club(곤봉)·racket(라켓)과 관련.",
+  "syn": [
+   "club(곤봉)",
+   "racket(라켓)"
+  ],
+  "anti": [],
+  "idiom": [
+   "right off the bat(즉시)",
+   "not bat an eye(눈 하나 깜짝 안 하다)",
+   "go to bat for(~을 적극 돕다)"
+  ],
+  "colloc": [
+   "baseball bat(야구 배트)",
+   "swing a bat(배트를 휘두르다)",
+   "a vampire bat(흡혈박쥐)"
+  ],
+  "ex_add": "He hit the ball hard with the bat.  (bat=방망이)"
+ },
+ {
+  "num": "3760",
+  "hw": "battlefield",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "싸움이 벌어지는 들판 -> '전장·싸움터'.",
+  "senses": [
+   "1) 전장·싸움터·전쟁터",
+   "2) (비유) 격전지·각축장"
+  ],
+  "etym": "battle(전투, 라틴어 battuere 치다) + field(들판). '전투가 벌어지는 들판'이 핵심. battuere(치다)는 battle·battlefield·combat(전투)·debate(토론)·beat(치다)의 뿌리.",
+  "deriv": "battle(전투)+field(들판) -> 'battlefield'. '싸움이 벌어지는 들판 -> 전장(on the battlefield, 전장에서)'. 한국 학습자 핵심: battuere(치다) 갈래 — battle(전투)·combat(전투)·debate(토론, 서로 쳐 가며 논쟁)·batter(연타하다)·battery(폭행·전지)! a political battlefield(정치적 격전지), die on the battlefield(전장에서 죽다). battleground(싸움터)·front(전선)과 유의어.",
+  "syn": [
+   "battleground(싸움터)",
+   "front(전선)",
+   "warzone(전쟁 지역)"
+  ],
+  "anti": [],
+  "idiom": [
+   "on the battlefield(전장에서)",
+   "a political battlefield(정치적 격전지)"
+  ],
+  "colloc": [
+   "on the battlefield(전장에서)",
+   "die on the battlefield(전장에서 죽다)",
+   "battlefield conditions(전장 상황)"
+  ],
+  "ex_add": "Many soldiers died on the battlefield.  (battlefield=전장)"
+ },
+ {
+  "num": "3761",
+  "hw": "bay",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "벌어져 들어간 곳 -> '만(灣) / 칸·구역 / 월계수'.",
+  "senses": [
+   "1) (바다의) 만",
+   "2) (건물의) 구획·칸; 적재 공간(loading bay)",
+   "3) 월계수; (at bay) 궁지에 몰린; (동사) 짖다"
+  ],
+  "etym": "고대 프랑스어 baie(만) <- 후기 라틴어 baia. '해안이 안으로 벌어져 들어간 곳'이 핵심. (월계수 bay는 라틴어 baca 열매에서 별개 어원.)",
+  "deriv": "baia(만) -> 'bay'. '벌어져 들어간 곳 -> 만(a sandy bay, 모래 만)·구획(a parking bay, 주차 구획)·(at bay) 궁지'. 한국 학습자 핵심: keep at bay(가까이 못 오게 막다·억누르다)가 빈출 숙어! hold something at bay(~을 저지하다), a loading bay(하역장), a sick bay(의무실), bay leaf(월계수 잎, 향신료). 지형 — bay(만)·gulf(큰 만)·cove(작은 만)·inlet(후미). gulf(만)·cove(작은 만)·inlet(후미)과 유의어.",
+  "syn": [
+   "gulf(만)",
+   "cove(작은 만)",
+   "inlet(후미)"
+  ],
+  "anti": [
+   "cape(곶)",
+   "peninsula(반도)"
+  ],
+  "idiom": [
+   "keep at bay(가까이 못 오게 막다)",
+   "hold at bay(저지하다)"
+  ],
+  "colloc": [
+   "sandy bay(모래 만)",
+   "loading bay(하역장)",
+   "parking bay(주차 구획)"
+  ],
+  "ex_add": "The boats were anchored in the bay.  (bay=만)"
+ },
+ {
+  "num": "3762",
+  "hw": "beam",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "곧게 뻗은 줄기 -> '들보·기둥 / 광선·빔 / 환하게 웃다'.",
+  "senses": [
+   "1) (건물의) 들보·대들보",
+   "2) (빛·전파의) 광선·빔",
+   "3) (동사) 환하게 웃다; (방송을) 송출하다"
+  ],
+  "etym": "고대 영어 beam(나무·기둥). '나무 -> 곧게 뻗은 줄기 -> (빛의) 줄기'로. '곧게 뻗은 줄기·들보'가 핵심. (독일어 Baum 나무와 친척.)",
+  "deriv": "beam(나무·기둥) -> '들보·(빛의) 광선(a beam of light, 한 줄기 빛)·환하게 웃다(beam with pride, 자랑스럽게 활짝 웃다)'. 한국 학습자 핵심: 어원이 '나무'! beam with joy(기쁨에 활짝 웃다), a beam of light(한 줄기 빛), a laser beam(레이저 빔), beam something up(전송하다, SF). 동사로 '환하게 미소 짓다'가 자주 출제. ray(광선)·shaft(빛줄기)·girder(대들보)와 유의어.",
+  "syn": [
+   "ray(광선)",
+   "shaft(빛줄기)",
+   "girder(대들보)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a beam of light(한 줄기 빛)",
+   "beam with pride(자랑스럽게 활짝 웃다)"
+  ],
+  "colloc": [
+   "laser beam(레이저 빔)",
+   "wooden beam(나무 들보)",
+   "beam with joy(기쁨에 활짝 웃다)"
+  ],
+  "ex_add": "A beam of sunlight came through the window.  (beam=광선)"
+ },
+ {
+  "num": "3763",
+  "hw": "beast",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "짐승 -> '짐승·야수 / 짐승 같은 사람'.",
+  "senses": [
+   "1) 짐승·야수·동물",
+   "2) (비유) 짐승 같은 사람·잔인한 사람",
+   "3) (구어) 대단한 것·괴물 같은 것"
+  ],
+  "etym": "라틴어 bestia(짐승) -> 고대 프랑스어 beste -> 'beast'. '인간이 아닌 길들지 않은 동물'이 핵심. bestia(짐승)는 beast·bestial(짐승 같은)·beastly(끔찍한)의 뿌리.",
+  "deriv": "bestia(짐승) -> 'beast'. '짐승 -> 야수(a wild beast, 야수)·(비유) 짐승 같은 사람'. 한국 학습자 핵심: bestia(짐승) 갈래 — bestial(짐승 같은·야만적인)·beastly(끔찍한)! Beauty and the Beast(미녀와 야수), the nature of the beast(원래 그런 것·본질적 특성), a beast of burden(짐 나르는 동물). animal(동물)·brute(짐승)·creature(생물)와 유의어. 반대 human(인간).",
+  "syn": [
+   "animal(동물)",
+   "brute(짐승)",
+   "creature(생물)"
+  ],
+  "anti": [
+   "human(인간)"
+  ],
+  "idiom": [
+   "the nature of the beast(원래 그런 것)",
+   "a beast of burden(짐 나르는 동물)"
+  ],
+  "colloc": [
+   "wild beast(야수)",
+   "mythical beast(전설의 짐승)",
+   "savage beast(사나운 짐승)"
+  ],
+  "ex_add": "The lion is a powerful and dangerous beast.  (beast=야수)"
+ },
+ {
+  "num": "3764",
+  "hw": "behalf",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "~의 편에서 -> '대신·대표하여 / ~을 위하여'.",
+  "senses": [
+   "1) (on behalf of) ~을 대신하여·대표하여",
+   "2) (on behalf of) ~을 위하여·~의 이익을 위해"
+  ],
+  "etym": "중세 영어 bihalve, bi(~에 의해) + halve(편·쪽, half). '~의 편에 서서'가 핵심.",
+  "deriv": "bi(~에)+half(편) -> 'behalf'. '~의 편에서 -> 대신하여(on behalf of, ~을 대표하여)'. 한국 학습자 핵심: 거의 항상 on behalf of(~을 대신하여·대표하여) / on someone's behalf 형태로만 씀! I'm speaking on behalf of the team(팀을 대표해 말합니다), accept an award on someone's behalf(~을 대신해 상을 받다). 미국은 on behalf of(대표하여)와 in behalf of(이익을 위해)를 구분하기도 함. representing(대표하여)·for the sake of(~을 위하여)와 유의어.",
+  "syn": [
+   "representing(대표하여)",
+   "for the sake of(~을 위하여)"
+  ],
+  "anti": [],
+  "idiom": [
+   "on behalf of(~을 대표하여)",
+   "on someone's behalf(~을 대신하여)"
+  ],
+  "colloc": [
+   "on behalf of the company(회사를 대표하여)",
+   "speak on behalf of(~을 대표해 말하다)",
+   "act on behalf of(~을 대신해 행동하다)"
+  ],
+  "ex_add": "On behalf of everyone here, thank you.  (behalf=대표하여)"
+ },
+ {
+  "num": "3765",
+  "hw": "behavioral",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "행동에 관한 -> '행동의·행동에 관한'.",
+  "senses": [
+   "1) 행동의·행동에 관한",
+   "2) (심리) 행동주의의"
+  ],
+  "etym": "behave(행동하다, be + have 처신하다) -> behavior(행동) + -al. '행동에 관한'이 핵심.",
+  "deriv": "behave(행동하다) -> behavior(행동) -> 'behavioral'. '행동에 관한 -> 행동의(behavioral problems, 행동 문제)'. 한국 학습자 핵심: behave(처신하다)·behavior(행동)·behavioral·misbehave(못된 짓을 하다)! 철자 주의: 미국 behavioral / 영국 behavioural. behavioral science(행동 과학), behavioral patterns(행동 양식), behavioral therapy(행동 치료), behavioral changes(행동 변화). conduct-related(행동 관련의)와 유의어.",
+  "syn": [
+   "conduct-related(행동 관련의)"
+  ],
+  "anti": [],
+  "idiom": [
+   "behavioral science(행동 과학)",
+   "behavioral therapy(행동 치료)"
+  ],
+  "colloc": [
+   "behavioral problems(행동 문제)",
+   "behavioral patterns(행동 양식)",
+   "behavioral changes(행동 변화)"
+  ],
+  "ex_add": "The study examined behavioral changes in teenagers.  (behavioral=행동의)"
+ },
+ {
+  "num": "3766",
+  "hw": "beloved",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "깊이 사랑받는 -> '사랑하는·소중한·총애받는'.",
+  "senses": [
+   "1) (많은 이에게) 사랑받는·인기 있는",
+   "2) (가장) 사랑하는·소중한",
+   "3) (n.) 연인·사랑하는 사람"
+  ],
+  "etym": "be(강조) + loved(love의 과거분사). '깊이 사랑받는'이 핵심.",
+  "deriv": "be(강조)+loved(사랑받는) -> 'beloved'. '깊이 사랑받는 -> 사랑하는(a beloved teacher, 사랑받는 선생님)'. 한국 학습자 핵심: be- 접두사(강조·전체에 미침) — beloved·befriend(친구가 되다)·bewitch(매혹하다)·besiege(포위하다)! 발음 주의 — beloved[bɪlʌ́vɪd] 또는 [bɪlʌ́vd](형용사일 때 보통 3음절). a beloved figure(사랑받는 인물), one's beloved(연인). dear(소중한)·cherished(소중한)·adored(흠모받는)와 유의어. 반대 hated(미움받는)·despised(경멸받는).",
+  "syn": [
+   "dear(소중한)",
+   "cherished(소중한)",
+   "adored(흠모받는)"
+  ],
+  "anti": [
+   "hated(미움받는)",
+   "despised(경멸받는)"
+  ],
+  "idiom": [
+   "a beloved figure(사랑받는 인물)",
+   "one's beloved(연인)"
+  ],
+  "colloc": [
+   "beloved teacher(사랑받는 선생님)",
+   "much beloved(매우 사랑받는)",
+   "beloved by all(모두에게 사랑받는)"
+  ],
+  "ex_add": "She was a beloved member of the community.  (beloved=사랑받는)"
+ },
+ {
+  "num": "3767",
+  "hw": "bench",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "긴 의자 -> '벤치·긴 의자 / 판사석·법관 / 후보 선수석'.",
+  "senses": [
+   "1) 벤치·긴 의자; 작업대",
+   "2) (the bench) 판사석·법관(직)",
+   "3) (스포츠) 후보 선수석; (동사) 후보로 빼다"
+  ],
+  "etym": "고대 영어 benc(긴 의자). 게르만어 bankiz에서 — bank(둑·은행)와 한 뿌리. '여럿이 앉는 긴 의자'가 핵심.",
+  "deriv": "benc(긴 의자) -> 'bench'. '긴 의자 -> 벤치·(판사가 앉는) 판사석 -> 법관·(후보 선수가 앉는) 벤치'. 한국 학습자 핵심: bank(은행·둑)와 한 뿌리(둘 다 '긴 좌판')! on the bench(후보석에 있는·판사로 재직 중인), a park bench(공원 벤치), a workbench(작업대), benchmark(3768, 기준점). 동사 bench=선수를 후보로 빼다. seat(좌석)·pew(교회 의자)와 유의어.",
+  "syn": [
+   "seat(좌석)",
+   "pew(교회 의자)",
+   "settle(긴 의자)"
+  ],
+  "anti": [],
+  "idiom": [
+   "on the bench(후보석에 있는)",
+   "a park bench(공원 벤치)"
+  ],
+  "colloc": [
+   "park bench(공원 벤치)",
+   "wooden bench(나무 벤치)",
+   "the substitutes' bench(후보 선수석)"
+  ],
+  "ex_add": "They sat on a bench in the park.  (bench=벤치)"
+ },
+ {
+  "num": "3768",
+  "hw": "benchmark",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "측량 기준 표시 -> '기준(점)·잣대 / 벤치마크'.",
+  "senses": [
+   "1) 기준·기준점·잣대",
+   "2) (성능) 비교 기준·벤치마크",
+   "3) (동사) 기준으로 삼아 평가하다"
+  ],
+  "etym": "bench(작업대) + mark(표시). 측량사가 수준점을 표시하려고 만든 받침대 자국에서. '측량의 기준 표시'가 핵심.",
+  "deriv": "bench(받침)+mark(표시) -> 'benchmark'. '측량 기준 표시 -> 기준점(set a benchmark, 기준을 세우다)'. 한국 학습자 핵심: mark(표시) 갈래 — benchmark·landmark(랜드마크)·trademark(상표)·remark(3292)·remarkable(3293)! a benchmark for(~의 기준), set the benchmark(기준을 정하다), industry benchmark(업계 기준). standard(기준)·yardstick(척도)·criterion(기준)과 유의어.",
+  "syn": [
+   "standard(기준)",
+   "yardstick(척도)",
+   "criterion(기준)"
+  ],
+  "anti": [],
+  "idiom": [
+   "set a benchmark(기준을 세우다)",
+   "a benchmark for(~의 기준)"
+  ],
+  "colloc": [
+   "industry benchmark(업계 기준)",
+   "set the benchmark(기준을 정하다)",
+   "benchmark test(성능 시험)"
+  ],
+  "ex_add": "This product sets a new benchmark for quality.  (benchmark=기준)"
+ },
+ {
+  "num": "3769",
+  "hw": "beneath",
+  "pos": "prep.",
+  "cefr": "C1",
+  "core": "아래에 -> '~ 아래에·밑에 / ~보다 못한'.",
+  "senses": [
+   "1) ~ 아래에·밑에",
+   "2) (표면) ~ 밑에 가려진",
+   "3) (품위가) ~보다 못한·~할 가치도 없는"
+  ],
+  "etym": "고대 영어 beneothan, be(~에) + neothan(아래로, nether 아래의). '~의 아래쪽에'가 핵심.",
+  "deriv": "be(~에)+neothan(아래) -> 'beneath'. '아래에 -> ~ 밑에(beneath the surface, 표면 아래)·~보다 못한(beneath one's dignity, 품위에 어긋나는)'. 한국 학습자 핵심: 위치 전치사 비교 — under(바로 아래·일반)·beneath(아래·격식적, 표면 밑)·below(낮은 위치)·underneath(바로 밑에)! beneath the surface(겉으로 드러나지 않은), beneath contempt(경멸할 가치도 없는), marry beneath oneself(신분이 낮은 사람과 결혼하다). under(아래에)·below(아래에)·underneath(밑에)와 유의어. 반대 above(위에)·over(위에).",
+  "syn": [
+   "under(아래에)",
+   "below(아래에)",
+   "underneath(밑에)"
+  ],
+  "anti": [
+   "above(위에)",
+   "over(위에)"
+  ],
+  "idiom": [
+   "beneath the surface(표면 아래)",
+   "beneath contempt(경멸할 가치도 없는)"
+  ],
+  "colloc": [
+   "beneath the surface(표면 밑에)",
+   "hidden beneath(~ 밑에 숨겨진)",
+   "lie beneath(~ 아래에 놓여 있다)"
+  ],
+  "ex_add": "The treasure was buried beneath the floor.  (beneath=아래에)"
+ },
+ {
+  "num": "3770",
+  "hw": "beneficiary",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "좋은 일을 받는 사람 -> '수혜자·수익자·수취인'.",
+  "senses": [
+   "1) (혜택의) 수혜자·수익자",
+   "2) (보험·유산의) 수취인"
+  ],
+  "etym": "라틴어 bene(좋게) + facere(하다) -> beneficium(은혜·혜택) -> beneficiarius(혜택을 받는 자) -> 'beneficiary'. '좋은 일(혜택)을 받는 사람'이 핵심. bene(좋게)는 beneficiary·benefit(혜택)·benefactor(후원자)·benevolent(자비로운)의 뿌리.",
+  "deriv": "bene(좋게)+facere(하다) -> beneficium -> 'beneficiary'. '좋은 일을 받는 사람 -> 수혜자(the main beneficiary, 주요 수혜자)'. 한국 학습자 핵심: bene(좋게) 대가족 — benefit(혜택)·benefactor(후원자)·benevolent(자비로운)·beneficial(이로운)·benediction(축복)! facere(하다) 대가족 — affect·effect·factory·beneficiary! the chief beneficiary(최대 수혜자), name a beneficiary(수익자를 지정하다). recipient(수령인)·heir(상속인)과 유의어. 반대 benefactor(시혜자·후원자)·donor(기증자).",
+  "syn": [
+   "recipient(수령인)",
+   "heir(상속인)"
+  ],
+  "anti": [
+   "benefactor(시혜자)",
+   "donor(기증자)"
+  ],
+  "idiom": [
+   "the main beneficiary(주요 수혜자)",
+   "name a beneficiary(수익자를 지정하다)"
+  ],
+  "colloc": [
+   "chief beneficiary(최대 수혜자)",
+   "sole beneficiary(단독 수익자)",
+   "the beneficiaries of(~의 수혜자들)"
+  ],
+  "ex_add": "The children are the main beneficiaries of the will.  (beneficiary=수혜자)"
+ },
+ {
+  "num": "3771",
+  "hw": "betray",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "넘겨 줘 배신하다 -> '배신하다·저버리다 / (무심코) 드러내다'.",
+  "senses": [
+   "1) 배신하다·배반하다·저버리다",
+   "2) (비밀을) 누설하다·팔아넘기다",
+   "3) (감정·본심을 무심코) 드러내다"
+  ],
+  "etym": "라틴어 trans(가로질러·넘겨) + dere(주다, dare) -> tradere(넘겨주다·배신하다) -> 고대 프랑스어 traïr -> be + tray. '적에게 넘겨 줌'이 핵심. tradere(넘겨주다)는 betray·tradition(전통, 넘겨받은 것)·traitor(배신자)·trade(거래)의 뿌리.",
+  "deriv": "trans+dare(주다) -> tradere(넘겨주다) -> 'betray'. '넘겨 줘 배신함 -> 배신하다(betray a friend, 친구를 배신하다)·(본심을) 드러내다(her face betrayed her fear, 얼굴이 두려움을 드러냈다)'. 한국 학습자 핵심: tradere(넘겨주다) 갈래 — tradition(전통, 대대로 넘겨받은 것)·traitor(배신자)·trade(거래)·treason(반역)·betrayal(배신)! betray someone's trust(신뢰를 저버리다, 3555 trust), betray a secret(비밀을 누설하다). deceive(속이다)·double-cross(배신하다)·reveal(3313, 드러내다)과 유의어. 반대 support(지지하다)·remain loyal(충실하다).",
+  "syn": [
+   "deceive(속이다)",
+   "double-cross(배신하다)",
+   "reveal(드러내다)"
+  ],
+  "anti": [
+   "support(지지하다)",
+   "remain loyal(충실하다)"
+  ],
+  "idiom": [
+   "betray someone's trust(신뢰를 저버리다)",
+   "betray a secret(비밀을 누설하다)"
+  ],
+  "colloc": [
+   "betray a friend(친구를 배신하다)",
+   "betray one's country(조국을 배반하다)",
+   "feel betrayed(배신감을 느끼다)"
+  ],
+  "ex_add": "He betrayed his closest friend for money.  (betray=배신하다)"
+ },
+ {
+  "num": "3772",
+  "hw": "beverage",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "마시는 것 -> '(물 외의) 음료'.",
+  "senses": [
+   "1) (격식) 음료·마실 것(물 이외의)"
+  ],
+  "etym": "라틴어 bibere(마시다) -> 고대 프랑스어 bevrage(마실 것) -> 'beverage'. '마시는 것'이 핵심. bibere(마시다)는 beverage·imbibe(흡수하다·마시다)·bib(턱받이)의 뿌리.",
+  "deriv": "bibere(마시다) -> 'beverage'. '마시는 것 -> 음료(alcoholic beverages, 주류)'. 한국 학습자 핵심: bibere(마시다) 갈래 — imbibe(들이켜다·흡수하다)·bib(턱받이, 흘린 것을 받음)·beer(맥주)와 관련! 격식 용어(=drink) — 메뉴·법규에 자주. alcoholic beverages(주류), hot beverages(뜨거운 음료), a beverage company(음료 회사), food and beverage(식음료, F&B). drink(음료)·refreshment(다과)와 유의어.",
+  "syn": [
+   "drink(음료)",
+   "refreshment(다과)"
+  ],
+  "anti": [],
+  "idiom": [
+   "alcoholic beverages(주류)",
+   "food and beverage(식음료)"
+  ],
+  "colloc": [
+   "hot beverage(뜨거운 음료)",
+   "alcoholic beverage(주류)",
+   "beverage company(음료 회사)"
+  ],
+  "ex_add": "The hotel offers a wide range of beverages.  (beverage=음료)"
+ },
+ {
+  "num": "3773",
+  "hw": "bind",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "묶다 -> '묶다·동여매다 / 구속하다 / 결속시키다'.",
+  "senses": [
+   "1) 묶다·동여매다·감다",
+   "2) (법·약속으로) 구속하다·의무를 지우다",
+   "3) (사람을) 결속시키다; (책을) 제본하다"
+  ],
+  "etym": "고대 영어 bindan(묶다). 게르만어 bindan에서 — band(띠)·bond(유대)·bundle(꾸러미)과 한 뿌리. '끈으로 묶음'이 핵심.",
+  "deriv": "bindan(묶다) -> 'bind'. '묶다 -> 동여매다·(법으로) 구속하다(a binding contract, 구속력 있는 계약)·결속시키다'. 한국 학습자 핵심: 불규칙 bind-bound-bound! 게르만어 묶음 가족 — band(띠·악단)·bond(유대·채권)·bundle(꾸러미)·bandage(붕대)·bind! be bound to(반드시 ~하게 되다·~할 의무가 있다), be bound up with(~과 밀접히 얽혀 있다), bind together(결속시키다). tie(묶다)·fasten(매다)·oblige(의무 지우다)와 유의어. 반대 untie(풀다)·release(놓아주다)·loosen(느슨하게 하다).",
+  "syn": [
+   "tie(묶다)",
+   "fasten(매다)",
+   "oblige(의무 지우다)"
+  ],
+  "anti": [
+   "untie(풀다)",
+   "release(놓아주다)",
+   "loosen(느슨하게 하다)"
+  ],
+  "idiom": [
+   "be bound to(반드시 ~하게 되다)",
+   "bind together(결속시키다)",
+   "a binding contract(구속력 있는 계약)"
+  ],
+  "colloc": [
+   "bind together(결속시키다)",
+   "legally bind(법적으로 구속하다)",
+   "bind a wound(상처를 동여매다)"
+  ],
+  "ex_add": "A shared history binds the two nations together.  (bind=결속시키다)"
+ },
+ {
+  "num": "3774",
+  "hw": "biography",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "삶을 적은 글 -> '전기·일대기'.",
+  "senses": [
+   "1) 전기·일대기·평전"
+  ],
+  "etym": "그리스어 bios(삶) + graphein(쓰다) -> biographia(생애 기록) -> 'biography'. '한 사람의 삶을 적은 글'이 핵심. bios(삶)는 biography·biology(생물학)·antibiotic(항생제)의 뿌리; graphein(쓰다)는 graph(그래프)·photograph(사진)·geography(지리학)의 뿌리.",
+  "deriv": "bios(삶)+graphein(쓰다) -> 'biography'. '삶을 적은 글 -> 전기(write a biography, 전기를 쓰다)'. 한국 학습자 핵심: bios(삶) 갈래 — biology(생물학)·antibiotic(항생제)·biodiversity(생물 다양성)·symbiosis(공생)! graphein(쓰다) 갈래 — graph(그래프)·photograph(사진)·geography(지리학)·autograph(사인)·paragraph(단락)·calligraphy(서예)! autobiography(자서전, auto 자기)와 구별 — biography는 남이 쓴 전기. a biography of(~의 전기), an authorized biography(공인 전기). life story(일대기)·memoir(회고록)와 유의어.",
+  "syn": [
+   "life story(일대기)",
+   "memoir(회고록)",
+   "profile(인물 소개)"
+  ],
+  "anti": [],
+  "idiom": [
+   "write a biography(전기를 쓰다)",
+   "an authorized biography(공인 전기)"
+  ],
+  "colloc": [
+   "a biography of(~의 전기)",
+   "official biography(공식 전기)",
+   "read a biography(전기를 읽다)"
+  ],
+  "ex_add": "She wrote a biography of the famous artist.  (biography=전기)"
+ },
+ {
+  "num": "3775",
+  "hw": "bishop",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "두루 살피는 감독자 -> '주교 / (체스) 비숍'.",
+  "senses": [
+   "1) (기독교) 주교·감독",
+   "2) (체스) 비숍(말)"
+  ],
+  "etym": "그리스어 episkopos(감독자, epi 위에서 + skopos 보는 자) -> 라틴어 episcopus -> 고대 영어 bisceop -> 'bishop'. '교구를 위에서 두루 살피는 감독자'가 핵심. skopos(보는 자)는 bishop·scope(범위)·telescope(망원경)·microscope(현미경)의 뿌리.",
+  "deriv": "epi(위에서)+skopos(보다) -> episkopos -> 'bishop'. '두루 살피는 감독자 -> 주교(an archbishop, 대주교)'. 한국 학습자 핵심: skopos(보다) 갈래 — scope(범위)·telescope(망원경)·microscope(현미경)·periscope(잠망경)·horoscope(별점)! 어원이 'epi(위)+skopos(보다)'인데 영어로 들어오며 앞 e-가 떨어짐(episcopal 주교의 -> bishop). an archbishop(대주교, 3719 archi-), a Catholic bishop(가톨릭 주교). clergy(성직자)·prelate(고위 성직자)와 관련.",
+  "syn": [
+   "prelate(고위 성직자)",
+   "clergyman(성직자)"
+  ],
+  "anti": [],
+  "idiom": [
+   "an archbishop(대주교)",
+   "a Catholic bishop(가톨릭 주교)"
+  ],
+  "colloc": [
+   "Catholic bishop(가톨릭 주교)",
+   "appoint a bishop(주교를 임명하다)",
+   "the bishop's diocese(주교의 교구)"
+  ],
+  "ex_add": "The bishop led the special church service.  (bishop=주교)"
+ },
+ {
+  "num": "3776",
+  "hw": "bizarre",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "유난히 별난 -> '기이한·기괴한·아주 이상한'.",
+  "senses": [
+   "1) 기이한·기괴한·아주 이상한",
+   "2) 별난·괴상한"
+  ],
+  "etym": "이탈리아어 bizzarro(성마른·별난) -> 프랑스어 bizarre -> 'bizarre'. (바스크어 bizar 수염에서 왔다는 설.) '유난히 별나고 기괴한'이 핵심.",
+  "deriv": "bizzarro(별난) -> 'bizarre'. '유난히 별난 -> 기괴한(a bizarre coincidence, 기괴한 우연)'. 한국 학습자 핵심: 철자 주의 — b-i-z-a-r-r-e (-zz-가 아니라 -z-, 끝은 -rre)! '이상한' 강도 — odd(좀 이상한) < strange(이상한) < weird(3614, 기묘한) < bizarre(아주 기괴한). bizarre behavior(기괴한 행동), utterly bizarre(완전히 기괴한). strange(이상한)·weird(기묘한)·peculiar(별난)와 유의어. 반대 normal(정상의)·ordinary(평범한)·conventional(관습적인).",
+  "syn": [
+   "strange(이상한)",
+   "weird(기묘한)",
+   "peculiar(별난)"
+  ],
+  "anti": [
+   "normal(정상의)",
+   "ordinary(평범한)",
+   "conventional(관습적인)"
+  ],
+  "idiom": [
+   "a bizarre coincidence(기괴한 우연)",
+   "utterly bizarre(완전히 기괴한)"
+  ],
+  "colloc": [
+   "bizarre behavior(기괴한 행동)",
+   "bizarre incident(기이한 사건)",
+   "increasingly bizarre(점점 기괴해지는)"
+  ],
+  "ex_add": "He told us a bizarre story about aliens.  (bizarre=기괴한)"
+ },
+ {
+  "num": "3777",
+  "hw": "blade",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "납작하게 뻗은 잎 -> '칼날·날 / (잎의) 잎새 / 날개깃'.",
+  "senses": [
+   "1) (칼·도구의) 날·칼날",
+   "2) (풀의) 잎·잎새; (노·프로펠러의) 날개",
+   "3) (스케이트의) 날"
+  ],
+  "etym": "고대 영어 blæd(잎·칼날). 게르만어 계열로 '납작하고 길게 뻗은 것'이 핵심. (독일어 Blatt 잎과 친척.)",
+  "deriv": "blæd(잎·칼날) -> 'blade'. '납작하게 뻗은 잎 -> 칼날(a sharp blade, 날카로운 칼날)·풀잎(a blade of grass, 풀 한 포기)'. 한국 학습자 핵심: 어원이 '잎'! a blade of grass(풀잎 하나), a razor blade(면도날), a shoulder blade(견갑골), the blades of a fan(선풍기 날개), roller blades(롤러 블레이드). edge(날)·cutting edge(날)와 유의어.",
+  "syn": [
+   "edge(날)",
+   "knife(칼)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a blade of grass(풀잎 하나)",
+   "a razor blade(면도날)"
+  ],
+  "colloc": [
+   "sharp blade(날카로운 칼날)",
+   "razor blade(면도날)",
+   "shoulder blade(견갑골)"
+  ],
+  "ex_add": "Be careful; the blade is very sharp.  (blade=칼날)"
+ },
+ {
+  "num": "3778",
+  "hw": "blast",
+  "pos": "n., v.",
+  "cefr": "C1",
+  "core": "확 불어 터짐 -> '폭발 / 돌풍·강한 바람 / 폭파하다·맹비난하다'.",
+  "senses": [
+   "1) 폭발·폭파",
+   "2) 돌풍·확 끼치는 기운; 큰 소리",
+   "3) (동사) 폭파하다; 맹비난하다; (구어) a blast 아주 즐거운 시간"
+  ],
+  "etym": "고대 영어 blæst(부는 것·돌풍, blawan 불다). '확 불어닥쳐 터짐'이 핵심. blawan(불다)은 blast·blow(불다)·bladder(방광, 부푸는 것)와 친척.",
+  "deriv": "blæst(돌풍) -> 'blast'. '확 불어 터짐 -> 폭발(a bomb blast, 폭탄 폭발)·돌풍·폭파하다·(구어) 신나는 시간(have a blast, 아주 즐거운 시간을 보내다)'. 한국 학습자 핵심: blow(불다)와 한 뿌리! (at) full blast(최대로·전력으로), a blast from the past(옛 추억을 떠올리게 하는 것), have a blast(신나게 놀다), blast off(발사되다). explosion(폭발)·gust(돌풍)·explode(폭발하다)와 유의어.",
+  "syn": [
+   "explosion(폭발)",
+   "gust(돌풍)",
+   "explode(폭발하다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "full blast(최대로)",
+   "have a blast(신나게 놀다)",
+   "a blast from the past(옛 추억)"
+  ],
+  "colloc": [
+   "bomb blast(폭탄 폭발)",
+   "blast off(발사되다)",
+   "a blast of cold air(찬 공기 돌풍)"
+  ],
+  "ex_add": "The bomb blast destroyed several buildings.  (blast=폭발)"
+ },
+ {
+  "num": "3779",
+  "hw": "bleed",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "피를 흘리다 -> '피를 흘리다·출혈하다 / (색이) 번지다'.",
+  "senses": [
+   "1) 피를 흘리다·출혈하다",
+   "2) (색·잉크가) 번지다·스며 나오다",
+   "3) (구어) 돈을 뜯어내다·짜내다"
+  ],
+  "etym": "고대 영어 bledan(피를 흘리다, blod 피). blood(피)와 한 뿌리 — '피가 흘러나옴'이 핵심.",
+  "deriv": "blod(피) -> bledan -> 'bleed'. '피를 흘림 -> 출혈하다(bleed heavily, 심하게 출혈하다)·(색이) 번지다'. 한국 학습자 핵심: 불규칙 bleed-bled-bled! blood(피)·bleed·bloody(피투성이의)·bloodshed(유혈)가 가족. bleed to death(출혈로 죽다), bleed someone dry(~의 돈을 다 짜내다), my heart bleeds(가슴이 아프다, 흔히 반어적). hemorrhage(출혈하다)와 유의어. 반대 clot(응고하다)·heal(아물다).",
+  "syn": [
+   "hemorrhage(출혈하다)",
+   "ooze(스며 나오다)"
+  ],
+  "anti": [
+   "clot(응고하다)",
+   "heal(아물다)"
+  ],
+  "idiom": [
+   "bleed to death(출혈로 죽다)",
+   "bleed someone dry(돈을 다 짜내다)"
+  ],
+  "colloc": [
+   "bleed heavily(심하게 출혈하다)",
+   "start to bleed(피가 나기 시작하다)",
+   "bleed internally(내출혈하다)"
+  ],
+  "ex_add": "His nose started to bleed after the fall.  (bleed=피를 흘리다)"
+ },
+ {
+  "num": "3780",
+  "hw": "blend",
+  "pos": "v., n.",
+  "cefr": "C1",
+  "core": "섞어 어우러지게 하다 -> '섞다·혼합하다·어우러지다 / 혼합물'.",
+  "senses": [
+   "1) 섞다·혼합하다·갈다",
+   "2) (자연스럽게) 어우러지다·조화되다",
+   "3) (n.) 혼합·혼합물·블렌드"
+  ],
+  "etym": "고대 노르드어 blanda(섞다). 게르만어 계열로 '두 가지를 고루 섞음'이 핵심.",
+  "deriv": "blanda(섞다) -> 'blend'. '섞어 어우러지게 함 -> 혼합하다(blend the ingredients, 재료를 섞다)·(배경에) 어우러지다(blend in, 섞여 들다)·(n.) 혼합물'. 한국 학습자 핵심: blend in(주변에 자연스럽게 섞이다·어우러지다), blend into(~에 녹아들다), a blend of(~의 혼합), a coffee blend(커피 블렌드), blender(믹서기). mix(섞다)·combine(결합하다)·merge(합치다)와 유의어. 반대 separate(분리하다)·stand out(두드러지다).",
+  "syn": [
+   "mix(섞다)",
+   "combine(결합하다)",
+   "merge(합치다)"
+  ],
+  "anti": [
+   "separate(분리하다)",
+   "stand out(두드러지다)"
+  ],
+  "idiom": [
+   "blend in(섞여 들다)",
+   "a blend of(~의 혼합)"
+  ],
+  "colloc": [
+   "blend the ingredients(재료를 섞다)",
+   "perfect blend(완벽한 조화)",
+   "blend together(어우러지다)"
+  ],
+  "ex_add": "Blend the fruit and yogurt until smooth.  (blend=섞다)"
+ },
+ {
+  "num": "3781",
+  "hw": "bless",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "피로 신성하게 하다 -> '축복하다·은총을 빌다 / (재능을) 부여하다'.",
+  "senses": [
+   "1) (신이) 축복하다·은총을 베풀다",
+   "2) (신의 가호를) 빌다·기원하다",
+   "3) (be blessed with) (좋은 것을) 타고나다·복받다"
+  ],
+  "etym": "고대 영어 bletsian(피로 신성하게 하다, blod 피). 본래 제물의 피로 제단을 정화하던 데서 '축복하다'로. blood(피)와 한 뿌리. '신성하게 함'이 핵심.",
+  "deriv": "blod(피) -> bletsian -> 'bless'. '피로 신성하게 함 -> 축복하다(God bless you, 신의 가호가 있기를)·(재능을) 타고나다(be blessed with talent, 재능을 타고나다)'. 한국 학습자 핵심: 어원이 '피(blood)'! blessing(3782)·blessed(축복받은)가 가족. Bless you!(재채기한 사람에게 '신의 가호를'), be blessed with(~의 복을 타고나다), count one's blessings(가진 것에 감사하다). consecrate(신성하게 하다)·sanctify(축성하다)와 유의어. 반대 curse(저주하다)·damn(저주하다).",
+  "syn": [
+   "consecrate(신성하게 하다)",
+   "sanctify(축성하다)"
+  ],
+  "anti": [
+   "curse(저주하다)",
+   "damn(저주하다)"
+  ],
+  "idiom": [
+   "God bless you(신의 가호가 있기를)",
+   "be blessed with(~의 복을 타고나다)",
+   "Bless you!(축복을!)"
+  ],
+  "colloc": [
+   "bless a marriage(결혼을 축복하다)",
+   "blessed with talent(재능을 타고난)",
+   "bless the food(음식에 감사 기도하다)"
+  ],
+  "ex_add": "The priest blessed the newlyweds.  (bless=축복하다)"
+ },
+ {
+  "num": "3782",
+  "hw": "blessing",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "신성하게 해 줌 -> '축복·은총 / 고마운 것 / 승인'.",
+  "senses": [
+   "1) 축복·은총·신의 가호",
+   "2) 고맙고 다행스러운 것",
+   "3) 찬성·승인"
+  ],
+  "etym": "고대 영어 bletsian(축복하다) -> bless(3781) + -ing. '신성하게 해 줌·축복'이 핵심.",
+  "deriv": "bless(3781, 축복하다) -> 'blessing'. '신성하게 해 줌 -> 축복(a blessing in disguise, 전화위복)·승인(give one's blessing, 승낙하다)'. 한국 학습자 핵심: 어원이 '피(blood)'! a blessing in disguise(전화위복·뜻밖의 좋은 일), a mixed blessing(좋기도 하고 나쁘기도 한 것), count one's blessings(가진 것에 감사하다), give one's blessing(허락하다). benefit(혜택)·boon(요긴한 것)·approval(승인)과 유의어. 반대 curse(저주)·misfortune(불운).",
+  "syn": [
+   "benefit(혜택)",
+   "boon(요긴한 것)",
+   "approval(승인)"
+  ],
+  "anti": [
+   "curse(저주)",
+   "misfortune(불운)"
+  ],
+  "idiom": [
+   "a blessing in disguise(전화위복)",
+   "a mixed blessing(좋기도 나쁘기도 한 것)",
+   "count one's blessings(가진 것에 감사하다)"
+  ],
+  "colloc": [
+   "give one's blessing(허락하다)",
+   "a real blessing(정말 다행스러운 것)",
+   "ask for a blessing(축복을 구하다)"
+  ],
+  "ex_add": "The rain was a blessing after the long drought.  (blessing=고마운 것)"
+ },
+ {
+  "num": "3783",
+  "hw": "boast",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "뽐내다 -> '자랑하다·뽐내다 / (자랑할 만한 것을) 갖추고 있다'.",
+  "senses": [
+   "1) 자랑하다·뽐내다·허풍 떨다",
+   "2) (자랑할 만한 것을) 갖추고 있다·자랑으로 삼다"
+  ],
+  "etym": "중세 영어 bost(허풍·뽐냄). 어원 불확실하나 '부풀려 자랑함'이 핵심.",
+  "deriv": "bost(허풍) -> 'boast'. '뽐냄 -> 자랑하다(boast about, ~을 자랑하다)·(좋은 것을) 갖추고 있다(the city boasts a fine museum, 그 도시는 훌륭한 박물관을 자랑한다)'. 한국 학습자 핵심: 두 용법 모두 빈출 — (1) 사람이 '자랑하다'(boast about/of), (2) 사물이 '~을 갖추고 있다'(자랑거리로). boastful(자랑하는)이 형용사. nothing to boast about(자랑할 것 없는). brag(허풍 떨다)·show off(과시하다)·flaunt(뽐내다)와 유의어. 반대 downplay(대수롭지 않게 말하다)·understate(축소해 말하다).",
+  "syn": [
+   "brag(허풍 떨다)",
+   "show off(과시하다)",
+   "flaunt(뽐내다)"
+  ],
+  "anti": [
+   "downplay(대수롭지 않게 말하다)",
+   "understate(축소해 말하다)"
+  ],
+  "idiom": [
+   "boast about(~을 자랑하다)",
+   "nothing to boast about(자랑할 것 없는)"
+  ],
+  "colloc": [
+   "boast about(~을 자랑하다)",
+   "proudly boast(자랑스럽게 뽐내다)",
+   "boast a feature(특징을 갖추고 있다)"
+  ],
+  "ex_add": "The hotel boasts a swimming pool and a gym.  (boast=갖추고 있다)"
+ },
+ {
+  "num": "3784",
+  "hw": "bonus",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "좋은 것(덤) -> '보너스·상여금 / 덤·뜻밖의 이득'.",
+  "senses": [
+   "1) 보너스·상여금·특별 수당",
+   "2) 덤·뜻밖의 이득·추가 혜택"
+  ],
+  "etym": "라틴어 bonus(좋은) -> 'bonus'. '좋은 것(추가로 받는 좋은 것)'이 핵심. bonus(좋은)는 bonus·bonanza(노다지)·bounty(너그러움)·bonbon(봉봉)의 뿌리.",
+  "deriv": "bonus(좋은) -> 'bonus'. '좋은 것 -> 보너스(a year-end bonus, 연말 상여금)·덤(an added bonus, 추가 혜택)'. 한국 학습자 핵심: bonus(좋은) 갈래 — bonanza(노다지·대박)·bounty(너그러움·현상금)·bon voyage(즐거운 여행 되세요)·bonbon! benefit(3770 beneficiary 어근 bene 좋은)과도 연결. a signing bonus(계약금), a performance bonus(성과급), as an added bonus(덤으로). reward(3317, 보상)·perk(특전)·premium(할증)과 유의어. 반대 penalty(3163, 벌칙)·deduction(공제).",
+  "syn": [
+   "reward(보상)",
+   "perk(특전)",
+   "premium(할증)"
+  ],
+  "anti": [
+   "penalty(벌칙)",
+   "deduction(공제)"
+  ],
+  "idiom": [
+   "a year-end bonus(연말 상여금)",
+   "an added bonus(추가 혜택)"
+  ],
+  "colloc": [
+   "signing bonus(계약금)",
+   "performance bonus(성과급)",
+   "bonus payment(상여금)"
+  ],
+  "ex_add": "Employees received a generous year-end bonus.  (bonus=상여금)"
+ },
+ {
+  "num": "3785",
+  "hw": "booking",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "장부에 기입함 -> '예약 / (출연) 계약 / (축구) 경고'.",
+  "senses": [
+   "1) 예약",
+   "2) (공연자의) 출연 계약",
+   "3) (영축구) 옐로카드 경고"
+  ],
+  "etym": "고대 영어 boc(책) -> book(예약하다, 장부에 기입하다) + -ing. '장부에 기입해 자리를 잡아 둠'이 핵심.",
+  "deriv": "book(장부·예약하다) -> 'booking'. '장부에 기입함 -> 예약(make a booking, 예약하다)'. 한국 학습자 핵심: book이 동사로 '예약하다'! make a booking(예약하다), a booking fee(예약 수수료), confirm a booking(예약을 확정하다), an online booking(온라인 예약). 미국은 reservation을 더 자주 씀(영국 booking). reservation(예약)·appointment(예약)과 유의어. 반대 cancellation(취소).",
+  "syn": [
+   "reservation(예약)",
+   "appointment(예약)"
+  ],
+  "anti": [
+   "cancellation(취소)"
+  ],
+  "idiom": [
+   "make a booking(예약하다)",
+   "confirm a booking(예약을 확정하다)"
+  ],
+  "colloc": [
+   "online booking(온라인 예약)",
+   "booking fee(예약 수수료)",
+   "advance booking(사전 예약)"
+  ],
+  "ex_add": "I made a booking for a table at eight.  (booking=예약)"
+ },
+ {
+  "num": "3786",
+  "hw": "boom",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "쾅 울려 퍼짐 -> '호황·급성장 / 쾅 하는 소리·붐'.",
+  "senses": [
+   "1) (경제·산업의) 호황·붐·급성장",
+   "2) 쾅·쿵 하는 소리; (동사) 우르릉 울리다·번창하다",
+   "3) (마이크·돛의) 장대"
+  ],
+  "etym": "의성어 boom(쾅·쿵 하는 큰 소리). 그 소리처럼 갑자기 '확 커지는' 데서 '호황'으로. '쾅 울려 퍼지며 급격히 커짐'이 핵심.",
+  "deriv": "boom(쾅 소리) -> '쾅 울려 퍼짐 -> 갑자기 확 커짐 -> 호황(an economic boom, 경제 호황)'. 한국 학습자 핵심: 의성어에서 '급성장'으로! a baby boom(베이비붐), a property boom(부동산 호황), boom and bust(호황과 불황의 순환), a sonic boom(소닉붐·음속 폭음), booming(번창하는). expansion(확장)·surge(급증)와 유의어. 반대 bust(불황)·slump(침체)·recession(3269, 경기 침체).",
+  "syn": [
+   "expansion(확장)",
+   "surge(급증)",
+   "upturn(상승세)"
+  ],
+  "anti": [
+   "bust(불황)",
+   "slump(침체)",
+   "recession(경기 침체)"
+  ],
+  "idiom": [
+   "boom and bust(호황과 불황)",
+   "a baby boom(베이비붐)",
+   "a sonic boom(음속 폭음)"
+  ],
+  "colloc": [
+   "economic boom(경제 호황)",
+   "property boom(부동산 호황)",
+   "boom in demand(수요 급증)"
+  ],
+  "ex_add": "The tech industry experienced a huge boom.  (boom=호황)"
+ },
+ {
+  "num": "3787",
+  "hw": "bounce",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "튀어 오르다 -> '튀다·튀어 오르다 / (수표가) 부도나다 / 회복하다'.",
+  "senses": [
+   "1) (공이) 튀다·튀어 오르다; 튕기다",
+   "2) (수표가) 부도나다; (이메일이) 반송되다",
+   "3) (bounce back) 회복하다·다시 일어서다"
+  ],
+  "etym": "중세 영어 bounsen(쿵 부딪치다·튀다). 의성어 기원으로 '튕겨 되돌아옴'이 핵심.",
+  "deriv": "bounsen(튀다) -> 'bounce'. '튀어 오름 -> (공이) 튀다(bounce a ball, 공을 튀기다)·(수표가) 부도나다·(bounce back) 회복하다'. 한국 학습자 핵심: bounce back(역경에서 회복하다·다시 일어서다)이 매우 빈출! bounce ideas off someone(~에게 아이디어를 떠보다), a bouncing check(부도 수표), full of bounce(활기 넘치는), bouncy(잘 튀는·활기찬). rebound(되튀다)·spring(튀다)·recover(3272, 회복하다)와 유의어.",
+  "syn": [
+   "rebound(되튀다)",
+   "spring(튀다)",
+   "ricochet(도탄하다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "bounce back(회복하다)",
+   "bounce ideas off someone(아이디어를 떠보다)",
+   "a bouncing check(부도 수표)"
+  ],
+  "colloc": [
+   "bounce a ball(공을 튀기다)",
+   "bounce back(회복하다)",
+   "bounce off(~에 부딪쳐 튀다)"
+  ],
+  "ex_add": "The ball bounced off the wall.  (bounce=튀다)"
+ },
+ {
+  "num": "3788",
+  "hw": "boundary",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "경계 지어진 선 -> '경계(선) / 한계·범위'.",
+  "senses": [
+   "1) (지역의) 경계·경계선",
+   "2) (활동·지식의) 한계·범위",
+   "3) (사람 간의) 선·바운더리"
+  ],
+  "etym": "고대 프랑스어 bodne(경계 표지) -> 중세 영어 bound(경계) + -ary. '경계 지어진 선'이 핵심. bound(경계)는 boundary·bound(범위)·bourne(경계)와 관련.",
+  "deriv": "bound(경계) -> 'boundary'. '경계 지어진 선 -> 경계(the boundary between, ~ 사이의 경계)·한계(push the boundaries, 한계를 넓히다)'. 한국 학습자 핵심: bound(경계·범위) 갈래 — boundless(끝없는)·out of bounds(출입 금지의)! push the boundaries(한계를 밀어붙이다·영역을 넓히다), set boundaries(선을 긋다·한계를 정하다), cross a boundary(선을 넘다), a boundary line(경계선). border(국경)·frontier(경계)·limit(한계)과 유의어. 반대 center(중심).",
+  "syn": [
+   "border(국경)",
+   "frontier(경계)",
+   "limit(한계)"
+  ],
+  "anti": [
+   "center(중심)"
+  ],
+  "idiom": [
+   "push the boundaries(한계를 넓히다)",
+   "set boundaries(선을 긋다)"
+  ],
+  "colloc": [
+   "the boundary between(~ 사이의 경계)",
+   "national boundary(국경)",
+   "cross a boundary(선을 넘다)"
+  ],
+  "ex_add": "The river forms the boundary between the two countries.  (boundary=경계)"
+ },
+ {
+  "num": "3789",
+  "hw": "bow",
+  "pos": "v., n.",
+  "cefr": "C1",
+  "core": "구부리다 -> '절하다·고개를 숙이다 / 활·나비매듭 / 뱃머리'.",
+  "senses": [
+   "1) [baʊ] (동사) 절하다·고개를 숙이다·굴복하다",
+   "2) [baʊ] (n.) 절·인사; 뱃머리",
+   "3) [boʊ] (n.) 활; 나비매듭·리본"
+  ],
+  "etym": "고대 영어 bugan(구부리다). '몸·물건을 구부림'이 핵심. bow(활)도 구부린 모양에서. (독일어 biegen 구부리다와 친척.)",
+  "deriv": "bugan(구부리다) -> 'bow'. '구부림 -> 절하다[바우]·활[보우]·나비매듭[보우]·뱃머리[바우]'. 한국 학습자 핵심: 동철이의어·이발음! bow[baʊ]=절하다·뱃머리, bow[boʊ]=활·나비매듭·리본! bow and arrow(활과 화살), a bow tie(나비넥타이), take a bow(인사하다·박수를 받다), bow down to(~에게 굴복하다), bow out(물러나다). bend(구부리다)·curtsy(여성의 절)와 유의어.",
+  "syn": [
+   "bend(구부리다)",
+   "nod(고개를 숙이다)",
+   "stoop(몸을 굽히다)"
+  ],
+  "anti": [
+   "straighten(곧게 펴다)"
+  ],
+  "idiom": [
+   "take a bow(인사하다)",
+   "bow out(물러나다)",
+   "a bow tie(나비넥타이)"
+  ],
+  "colloc": [
+   "bow deeply(깊이 절하다)",
+   "bow and arrow(활과 화살)",
+   "bow your head(고개를 숙이다)"
+  ],
+  "ex_add": "The actors bowed to the audience.  (bow=절하다)"
+ },
+ {
+  "num": "3790",
+  "hw": "breach",
+  "pos": "n., v.",
+  "cefr": "C1",
+  "core": "깨뜨려 생긴 틈 -> '위반·파기 / 갈라진 틈 / 위반하다'.",
+  "senses": [
+   "1) (법·약속의) 위반·파기·불이행",
+   "2) (관계의) 단절·불화; (방어의) 뚫림·틈",
+   "3) (동사) 위반하다; (방어를) 뚫다"
+  ],
+  "etym": "고대 영어 brece(깨짐), brecan(깨다)에서. break(깨다)와 한 뿌리 — '깨뜨려 생긴 틈'이 핵심. brecan(깨다)은 breach·break(깨다)·breakdown(3791)의 뿌리; 라틴어 동계 rumpere(깨다)는 rupture(파열).",
+  "deriv": "brecan(깨다) -> 'breach'. '깨뜨려 생긴 틈 -> 위반(a breach of contract, 계약 위반)·갈라진 틈·위반하다'. 한국 학습자 핵심: break(깨다)와 한 뿌리! a breach of contract(계약 위반), a security breach(보안 침해), a data breach(데이터 유출), a breach of trust(신뢰 위반, 3555), step into the breach(빈자리를 메우다). violation(위반)·infringement(침해)·violate(위반하다)와 유의어. 반대 observance(준수)·compliance(준수).",
+  "syn": [
+   "violation(위반)",
+   "infringement(침해)",
+   "violate(위반하다)"
+  ],
+  "anti": [
+   "observance(준수)",
+   "compliance(준수)"
+  ],
+  "idiom": [
+   "a breach of contract(계약 위반)",
+   "step into the breach(빈자리를 메우다)"
+  ],
+  "colloc": [
+   "security breach(보안 침해)",
+   "data breach(데이터 유출)",
+   "breach of trust(신뢰 위반)"
+  ],
+  "ex_add": "Sharing the file was a breach of contract.  (breach=위반)"
+ },
+ {
+  "num": "3791",
+  "hw": "breakdown",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "부서져 내림 -> '고장·붕괴 / (관계의) 결렬 / 세부 분석 / 신경 쇠약'.",
+  "senses": [
+   "1) (기계의) 고장; (질서·관계의) 붕괴·결렬",
+   "2) 세부 분석·내역",
+   "3) 신경 쇠약(nervous breakdown)"
+  ],
+  "etym": "break down(고장 나다·무너지다)에서 온 명사, break(깨다) + down(아래로). '부서져 무너져 내림'이 핵심.",
+  "deriv": "break(깨다)+down -> 'breakdown'. '부서져 내림 -> 고장(a car breakdown, 차량 고장)·붕괴(a breakdown in talks, 협상 결렬)·내역(a cost breakdown, 비용 내역)·신경 쇠약'. 한국 학습자 핵심: break 복합어 — breakdown·breakthrough(돌파구)·breakup(결별)·outbreak(발발)·breakout(탈출)! 동사구 break down(고장 나다·무너지다·세분하다)과 명사 breakdown 구별. a nervous breakdown(신경 쇠약), a breakdown of communication(소통 단절), provide a breakdown(내역을 제시하다). collapse(붕괴)·failure(고장)·analysis(분석)와 유의어.",
+  "syn": [
+   "collapse(붕괴)",
+   "failure(고장)",
+   "analysis(분석)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a nervous breakdown(신경 쇠약)",
+   "a breakdown in talks(협상 결렬)"
+  ],
+  "colloc": [
+   "car breakdown(차량 고장)",
+   "cost breakdown(비용 내역)",
+   "communication breakdown(소통 단절)"
+  ],
+  "ex_add": "The breakdown in negotiations led to a strike.  (breakdown=결렬)"
+ }
+]
