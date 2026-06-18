@@ -1,0 +1,952 @@
+[
+ {
+  "num": "2642",
+  "hw": "edit",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "내보내려 다듬다 -> '편집·교정하다'.",
+  "senses": [
+   "1) (글·영상을) 편집하다",
+   "2) 교정·수정하다",
+   "3) (edit out) 잘라내다·삭제하다"
+  ],
+  "etym": "라틴어 edere(밖으로 내놓다·출판하다) = e-(밖으로) + dare(주다)의 명사 editor에서 역으로 만든 동사. '세상에 내보내려고(dare) 다듬음'이 핵심. dare(주다)는 date(2545)·donation(2627)·edition(2643)의 뿌리.",
+  "deriv": "e-(밖으로) + dare(주다) -> editor -> 'edit'. '내보내려 다듬다 -> 편집하다(edit a film)' -> '교정하다(edit a document)' -> 'edit out(잘라내다)'. 한국 학습자 핵심: dare(주다) 갈래 — date(2545)·data·donation(2627)·edit·edition(2643)·editor·editorial(2644)! edit a video(영상을 편집하다), edit out(편집해서 빼다), a copy editor(교열자), edit down(분량을 줄이다). revise(개정하다)·proofread(교정하다)와 유의어. editor(편집자)·edition(2643)이 가족.",
+  "syn": ["revise(수정하다)", "proofread(교정하다)", "modify(고치다)"],
+  "anti": [],
+  "idiom": ["edit out(잘라내다)", "edit down(분량을 줄이다)"],
+  "colloc": ["edit a film(영화를 편집하다)", "edit a document(문서를 교정하다)", "carefully edit(꼼꼼히 편집하다)"],
+  "ex_add": "She spent hours editing the video for her channel.  (edit=편집하다)"
+ },
+ {
+  "num": "2643",
+  "hw": "edition",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "펴낸 것 -> '판(版)·호'.",
+  "senses": [
+   "1) (책의) 판(版)",
+   "2) (신문·방송의) 호·회차",
+   "3) 한정판·특별판"
+  ],
+  "etym": "라틴어 editio(펴냄) <- edere(밖으로 내놓다·출판하다) = e-(밖으로) + dare(주다). '세상에 내놓은 것'이 핵심. edit(2642)·editor·dare(주다) 갈래.",
+  "deriv": "e-(밖으로) + dare(주다) -> 'edition'. '한 번에 펴낸 것 -> 판(the first edition, 초판)' -> 신문·방송의 '호·회차(the evening edition)' -> '한정판(a limited edition)'. 한국 학습자 핵심: dare(주다) 갈래 — date(2545)·donation(2627)·edit(2642)·editor·editorial(2644)! a first edition(초판본), a revised edition(개정판), a special edition(특별판), the latest edition(최신판). edition(판)과 version(버전)을 구별 — edition은 '인쇄·발행 단위', version은 '내용이 다른 형태'! issue(호)와 유의어.",
+  "syn": ["version(판)", "issue(호)", "printing(쇄)"],
+  "anti": [],
+  "idiom": ["a first edition(초판)", "a limited edition(한정판)"],
+  "colloc": ["the first edition(초판)", "a revised edition(개정판)", "a special edition(특별판)"],
+  "ex_add": "A revised edition of the textbook comes out next month.  (edition=판)"
+ },
+ {
+  "num": "2644",
+  "hw": "editorial",
+  "pos": "n., adj.",
+  "cefr": "B2",
+  "core": "편집진의 글 -> '사설 / 편집의'.",
+  "senses": [
+   "1) (신문) 사설·논설",
+   "2) 편집의·편집상의(형용사)",
+   "3) 편집진의 견해를 담은"
+  ],
+  "etym": "editor(편집자) + -ial. 라틴어 edere(내놓다) = e-(밖으로) + dare(주다) 뿌리. '편집진(editor)이 내놓는 의견 글'이 핵심. edit(2642)·edition(2643)과 한 dare 갈래.",
+  "deriv": "editor + -ial -> 'editorial'. 형용사 '편집의(editorial staff, 편집진)' -> 명사 '사설(write an editorial)'. 한국 학습자 핵심: dare(주다) 갈래 — edit(2642)·edition(2643)·editor·editorial! an editorial board(편집 위원회), editorial content(편집 콘텐츠), an editorial column(사설란). 사설(editorial)은 신문사의 공식 의견 — 칼럼(column, 개인 기고)과 구별! opinion piece(논평)와 유의어. editor(편집자)·edit(2642)가 가족.",
+  "syn": ["opinion piece(논평)", "leader(영, 사설)", "commentary(논평)"],
+  "anti": ["news report(객관 보도)"],
+  "idiom": ["an editorial board(편집 위원회)", "an editorial column(사설란)"],
+  "colloc": ["a newspaper editorial(신문 사설)", "editorial staff(편집진)", "an editorial board(편집 위원회)"],
+  "ex_add": "The newspaper's editorial criticized the government's policy.  (editorial=사설)"
+ },
+ {
+  "num": "2645",
+  "hw": "efficient",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "잘 만들어 내는 -> '효율적인·능률적인'.",
+  "senses": [
+   "1) 효율적인·능률적인",
+   "2) (사람이) 유능한·일 잘하는",
+   "3) (기계가) 효율 좋은"
+  ],
+  "etym": "라틴어 efficiens <- efficere = ex-(밖으로) + facere(만들다) -> '결과를 잘 만들어 냄'. facere(만들다)는 effect(효과)·effective(효과적인)·efficacy(효능)·fact(사실)·perfect(완벽한)의 거대한 뿌리.",
+  "deriv": "ex-(밖으로) + facere(만들다) -> 'efficient(잘 만들어 내는)'. '적은 노력으로 큰 결과를 내는 -> 효율적인(an efficient system)' -> '(사람이) 유능한(an efficient worker)'. 한국 학습자 핵심: facere(만들다) 대가족 — effect·effective·efficacy·efficiently(2646)·fact·perfect·manufacture·defeat(2559)! efficient(효율적인)과 effective(효과적인)를 구별 — efficient는 '낭비 없이', effective는 '목적 달성'! energy-efficient(에너지 효율적인), highly efficient(매우 효율적인), cost-efficient(비용 효율적인). 반대 inefficient(비효율적인)·wasteful(낭비하는).",
+  "syn": ["effective(효과적인)", "productive(생산적인)", "competent(유능한)"],
+  "anti": ["inefficient(비효율적인)", "wasteful(낭비하는)", "incompetent(무능한)"],
+  "idiom": ["energy-efficient(에너지 효율적인)", "cost-efficient(비용 효율적인)"],
+  "colloc": ["an efficient system(효율적인 체계)", "highly efficient(매우 효율적인)", "an efficient worker(유능한 일꾼)"],
+  "ex_add": "The new machine is far more efficient than the old one.  (efficient=효율적인)"
+ },
+ {
+  "num": "2646",
+  "hw": "efficiently",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'효율적으로·능률적으로'.",
+  "senses": [
+   "1) 효율적으로·능률적으로",
+   "2) 낭비 없이",
+   "3) 척척·유능하게"
+  ],
+  "etym": "efficient(2645) + -ly. 라틴어 ex-(밖으로) + facere(만들다) 뿌리. '적은 비용으로 결과를 잘 내며'가 핵심. effect·effective와 한 facere 갈래.",
+  "deriv": "efficient(2645) -> 'efficiently'. '낭비 없이 결과를 내며 -> 효율적으로(work efficiently)'. 한국 학습자 핵심: facere(만들다) 대가족 — effect·effective·efficient(2645)·efficacy·fact·perfect·defeat(2559)! efficiently and effectively(효율적이고 효과적으로), run efficiently(효율적으로 돌아가다), more efficiently(더 능률적으로), operate efficiently(효율적으로 작동하다). productively(생산적으로)·effectively(효과적으로)와 유의어. efficient(2645) 가족. 반대 inefficiently(비효율적으로)·wastefully.",
+  "syn": ["effectively(효과적으로)", "productively(생산적으로)", "competently(유능하게)"],
+  "anti": ["inefficiently(비효율적으로)", "wastefully(낭비하며)"],
+  "idiom": ["efficiently and effectively(효율적·효과적으로)", "run efficiently(효율적으로 돌아가다)"],
+  "colloc": ["work efficiently(효율적으로 일하다)", "operate efficiently(효율적으로 가동되다)", "more efficiently(더 능률적으로)"],
+  "ex_add": "The team handled the crisis quickly and efficiently.  (efficiently=효율적으로)"
+ },
+ {
+  "num": "2647",
+  "hw": "elbow",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "팔의 굽은 마디 '팔꿈치' / 팔꿈치로 밀치다.",
+  "senses": [
+   "1) 팔꿈치",
+   "2) (관·길의) 굽은 부분",
+   "3) (동사) 팔꿈치로 밀치다·헤집고 나아가다"
+  ],
+  "etym": "고대 영어 elnboga = eln(팔뚝 길이·자) + boga(활·굽음) -> '팔뚝이 활처럼 굽는 마디'. boga(굽음)는 bow(활·절하다)·bough(큰 가지)와 한 갈래. '팔의 꺾이는 관절'이 핵심.",
+  "deriv": "eln(팔뚝) + boga(굽음) -> 'elbow'. '팔꿈치' -> '관·파이프의 굽은 부분(an elbow joint)' -> 동사 '팔꿈치로 밀치다(elbow one's way through)'. 한국 학습자 핵심: boga(굽음)는 bow(활)와 한 갈래! elbow room(팔꿈치를 움직일 여유 = 여유 공간/활동의 여지), elbow grease(팔꿈치 기름 = 힘든 육체노동), at sb's elbow(바로 곁에), rub elbows with(~와 어울리다), give sb the elbow(차 버리다). nudge(쿡 찌르다)와 유의어(동사).",
+  "syn": ["nudge(쿡 찌르다)", "shove(밀치다)"],
+  "anti": [],
+  "idiom": ["elbow room(여유 공간)", "elbow grease(고된 육체노동)", "rub elbows with(~와 어울리다)", "give sb the elbow(차다)"],
+  "colloc": ["bend one's elbow(팔꿈치를 굽히다)", "elbow room(움직일 공간)", "an elbow joint(팔꿈치 관절)"],
+  "ex_add": "He elbowed his way through the crowded room.  (elbow=팔꿈치로 헤치다)"
+ },
+ {
+  "num": "2648",
+  "hw": "elderly",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "나이 지긋한 -> '연세 드신·노년의'.",
+  "senses": [
+   "1) 연세가 드신·노년의",
+   "2) (the elderly) 노인들",
+   "3) 나이 지긋한"
+  ],
+  "etym": "elder(연장자, 고대 영어 eald '늙은'의 비교급) + -ly. '나이가 좀 든'이 핵심으로, old(늙은)보다 정중하고 완곡한 표현이다. eldest(가장 나이 많은)와 한 갈래.",
+  "deriv": "eald(늙은) -> elder -> 'elderly'. '나이 지긋한·연세 드신(an elderly couple)' -> 'the elderly(노인층)'. 한국 학습자 핵심: elderly는 old의 정중한 완곡어 — 사람에게 old라 직접 말하기보다 elderly를! the elderly(노인들 = elderly people), care for the elderly(노인을 돌보다), an elderly relative(연로한 친척). elder(손위의, my elder brother 형)·eldest(맏이의)와 가족. 반대 young(젊은). aged(고령의)·senior(연장의)와 유의어.",
+  "syn": ["aged(고령의)", "senior(연로한)", "old(나이 든)"],
+  "anti": ["young(젊은)", "youthful(젊은)"],
+  "idiom": ["the elderly(노인들)", "care for the elderly(노인을 돌보다)"],
+  "colloc": ["an elderly couple(노부부)", "elderly people(노인들)", "an elderly relative(연로한 친척)"],
+  "ex_add": "The bus had special seats for elderly passengers.  (elderly=연세 드신)"
+ },
+ {
+  "num": "2649",
+  "hw": "elect",
+  "pos": "v., adj.",
+  "cefr": "B2",
+  "core": "골라 뽑다 -> '선출하다 / 택하다 / 당선자의'.",
+  "senses": [
+   "1) (투표로) 선출하다",
+   "2) (격식) ~하기로 택하다(elect to do)",
+   "3) (명사 뒤) 당선된·선임된"
+  ],
+  "etym": "라틴어 eligere = e-(밖으로) + legere(고르다·모으다·읽다) -> '골라 뽑아냄'. legere(고르다)는 거대한 뿌리 — select(골라내다)·collect(모으다)·collector(2438)·lecture(강의)·intelligent(가려 읽는->똑똑한)·elegant(2651)·legible(읽을 수 있는)이 모두 legere 가족!",
+  "deriv": "e-(밖으로) + legere(고르다) -> 'elect'. '골라 뽑다 -> 선출하다(elect a president)' -> 격식 '~하기로 택하다(elect to remain)' -> '당선된(the president-elect, 대통령 당선자)'. 한국 학습자 핵심: legere(고르다·읽다) 대가족 — select·collect·collector(2438)·collection·lecture·intelligent·elegant(2651)·legible·eligible(자격 있는)·election! be elected to(~에 선출되다), newly elected(새로 선출된), president-elect(당선인). choose(선택하다)·vote in(선출하다)과 유의어. 반대 reject(거부하다)·remove(해임하다).",
+  "syn": ["choose(선출하다)", "vote in(뽑다)", "appoint(선임하다)"],
+  "anti": ["reject(거부하다)", "remove(해임하다)", "impeach(탄핵하다)"],
+  "idiom": ["president-elect(대통령 당선자)", "elect to do(~하기로 택하다)", "be elected to(~에 선출되다)"],
+  "colloc": ["elect a president(대통령을 선출하다)", "newly elected(새로 선출된)", "democratically elected(민주적으로 선출된)"],
+  "ex_add": "She was elected mayor by a large majority.  (elect=선출하다)"
+ },
+ {
+  "num": "2650",
+  "hw": "electronics",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "전자를 다루는 '전자공학·전자기기'.",
+  "senses": [
+   "1) 전자공학",
+   "2) 전자 기기·전자 제품",
+   "3) (기기의) 전자 회로 부분"
+  ],
+  "etym": "electron(전자) + -ics(학문). electron은 그리스어 elektron(호박琥珀) — 호박을 문지르면 정전기가 일어난 데서! '전자(electron)를 다루는 분야'가 핵심. electric(전기의)·electricity(전기)·electrode(전극)가 한 elektron 갈래.",
+  "deriv": "elektron(호박) -> electron(전자) -> 'electronics'. '전자를 다루는 학문 -> 전자공학(study electronics)' -> '전자 기기(consumer electronics, 가전제품)'. 한국 학습자 핵심: -ics 학문명은 단수 취급(Electronics is fascinating)! elektron(호박) 갈래 — electric·electrical·electricity·electron·electrode·electronic! consumer electronics(소비자 가전), an electronics store(전자제품 매장), the electronics industry(전자 산업). electronic(형용사, 전자의)과 electronics(명사, 전자공학)를 구별!",
+  "syn": ["electronic devices(전자 기기)"],
+  "anti": [],
+  "idiom": ["consumer electronics(가전제품)", "the electronics industry(전자 산업)"],
+  "colloc": ["study electronics(전자공학을 공부하다)", "consumer electronics(소비자 가전)", "an electronics store(전자제품점)"],
+  "ex_add": "He has a degree in electronics from a top university.  (electronics=전자공학)"
+ },
+ {
+  "num": "2651",
+  "hw": "elegant",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "골라 다듬은 -> '우아한·고상한·세련된'.",
+  "senses": [
+   "1) (옷차림·태도가) 우아한·기품 있는",
+   "2) (디자인이) 세련된·맵시 있는",
+   "3) (해법이) 간결하고 빼어난"
+  ],
+  "etym": "라틴어 elegans <- eligere(고르다) = e-(밖으로) + legere(고르다). '잘 골라낸(eligere) 것처럼 안목 있고 세련된'이 핵심. elect(2649)·select·intelligent과 한 legere 갈래.",
+  "deriv": "e-(밖으로) + legere(고르다) -> 'elegant'. '잘 골라낸 -> 우아한·고상한(an elegant dress)' -> '세련된(an elegant design)' -> 수학·해법이 '간결하고 빼어난(an elegant solution)'. 한국 학습자 핵심: legere(고르다) 대가족 — elect(2649)·select·collect·collector(2438)·intelligent·legible·eligible·elegant! an elegant solution(군더더기 없는 멋진 해법 — 수학·코딩에서 칭찬!), elegantly dressed(우아하게 차려입은), elegance(우아함). graceful(우아한)·refined(세련된)·stylish(맵시 있는)와 유의어. 반대 clumsy(투박한)·crude(조잡한)·inelegant.",
+  "syn": ["graceful(우아한)", "refined(세련된)", "stylish(맵시 있는)"],
+  "anti": ["clumsy(투박한)", "crude(조잡한)", "inelegant(볼품없는)"],
+  "idiom": ["an elegant solution(간결하고 빼어난 해법)", "elegantly dressed(우아하게 차려입은)"],
+  "colloc": ["an elegant dress(우아한 드레스)", "an elegant design(세련된 디자인)", "an elegant solution(멋진 해법)"],
+  "ex_add": "She looked elegant in a simple black dress.  (elegant=우아한)"
+ },
+ {
+  "num": "2652",
+  "hw": "elementary",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "기본 요소의 -> '기본의·초보의·초등의'.",
+  "senses": [
+   "1) 기본적인·초보적인",
+   "2) (미) 초등학교의",
+   "3) 단순한·쉬운"
+  ],
+  "etym": "라틴어 elementarius <- elementum(기본 요소·원소). '가장 기본이 되는 요소(element)에 관한'이 핵심. element(요소)·elemental(원초적인)이 한 갈래.",
+  "deriv": "elementum(기본 요소) -> 'elementary'. '기본 요소의 -> 기본적인·초보적인(elementary level)' -> (미) '초등학교의(elementary school)' -> '단순한(Elementary, my dear Watson, 아주 간단하지)'. 한국 학습자 핵심: element(요소)·elemental(원초적인)·elementary가 한 가족! elementary school(미국 초등학교 = (영) primary school), elementary education(초등 교육), an elementary mistake(초보적 실수), elementary particles(소립자). basic(기본의)·rudimentary(초보의)·fundamental(근본의)과 유의어. 반대 advanced(고급의)·complex(복잡한, 2452).",
+  "syn": ["basic(기본의)", "rudimentary(초보의)", "fundamental(근본적인)"],
+  "anti": ["advanced(고급의)", "complex(복잡한)", "sophisticated(정교한)"],
+  "idiom": ["elementary school(초등학교)", "Elementary, my dear Watson(아주 간단하지)"],
+  "colloc": ["elementary school(초등학교)", "elementary level(초급 수준)", "an elementary mistake(초보적 실수)"],
+  "ex_add": "Students learn basic math in elementary school.  (elementary=초등의)"
+ },
+ {
+  "num": "2653",
+  "hw": "eliminate",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "문턱 밖으로 내보내다 -> '없애다·제거하다·탈락시키다'.",
+  "senses": [
+   "1) 없애다·제거하다",
+   "2) (가능성을) 배제하다",
+   "3) (경기에서) 탈락시키다"
+  ],
+  "etym": "라틴어 eliminare = e-(밖으로) + limen/limin-(문지방·경계) -> '문턱(limen) 밖으로 내쫓음'. limen(문턱)은 preliminary(예비의=문턱에 앞선)·subliminal(잠재의식의=문턱 아래의)·limit(한계)의 갈래.",
+  "deriv": "e-(밖으로) + limen(문턱) -> 'eliminate'. '문 밖으로 내보내다 -> 없애다·제거하다(eliminate waste)' -> '가능성을 배제하다(eliminate the possibility)' -> 경기에서 '탈락시키다(be eliminated in the first round)'. 한국 학습자 핵심: limen(문턱) 갈래 — preliminary(예선의)·subliminal(식역하의)·limit! eliminate the need for(~의 필요를 없애다), be eliminated from(~에서 탈락하다), completely eliminate(완전히 제거하다). remove(제거하다)·get rid of(없애다)·eradicate(근절하다)와 유의어. 반대 add(추가하다)·introduce(도입하다).",
+  "syn": ["remove(제거하다)", "eradicate(근절하다)", "get rid of(없애다)"],
+  "anti": ["add(추가하다)", "introduce(도입하다)", "retain(유지하다)"],
+  "idiom": ["eliminate the need for(~의 필요를 없애다)", "be eliminated from(~에서 탈락하다)"],
+  "colloc": ["eliminate waste(낭비를 없애다)", "completely eliminate(완전히 제거하다)", "eliminate the possibility(가능성을 배제하다)"],
+  "ex_add": "The new system aims to eliminate unnecessary paperwork.  (eliminate=없애다)"
+ },
+ {
+  "num": "2654",
+  "hw": "elsewhere",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'다른 곳에서·다른 데로'.",
+  "senses": [
+   "1) (어딘가) 다른 곳에서·다른 데로",
+   "2) (글에서) 다른 부분에서",
+   "3) (이곳 말고) 딴 데서"
+  ],
+  "etym": "else(그 밖의·달리, 고대 영어 elles) + where(어디). '여기 아닌 다른(else) 곳(where)'이 핵심. somewhere·anywhere·nowhere와 같은 -where 짝.",
+  "deriv": "else(그 밖의) + where(어디) -> 'elsewhere(다른 곳에)'. '여기 말고 다른 데서(look elsewhere)' -> 글의 '다른 부분에서(as noted elsewhere)'. 한국 학습자 핵심: -where 무리 — somewhere(어딘가)·anywhere(아무 데나)·nowhere(아무 데도)·everywhere(어디나)·elsewhere! seek elsewhere(다른 데서 찾다), elsewhere in the world(세계 다른 지역에서), take one's business elsewhere(거래처를 옮기다). somewhere else로 풀어 쓸 수도 있다(go elsewhere = go somewhere else). 한 단어이지 두 단어(else where)가 아님에 주의!",
+  "syn": ["somewhere else(다른 데)", "abroad(다른 곳에)"],
+  "anti": ["here(여기에)"],
+  "idiom": ["look elsewhere(다른 데서 찾다)", "take one's business elsewhere(거래처를 바꾸다)"],
+  "colloc": ["seek elsewhere(다른 곳에서 구하다)", "found elsewhere(다른 데서 발견되는)", "elsewhere in the world(세계 다른 곳에서)"],
+  "ex_add": "If you can't find it here, try looking elsewhere.  (elsewhere=다른 곳에서)"
+ },
+ {
+  "num": "2655",
+  "hw": "embrace",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "두 팔로 안다 -> '포옹하다 / 기꺼이 받아들이다 / 아우르다'.",
+  "senses": [
+   "1) 껴안다·포옹하다 / 포옹",
+   "2) (생각·변화를) 기꺼이 받아들이다",
+   "3) 아우르다·포괄하다"
+  ],
+  "etym": "라틴어 imbracchiare = in-(안으로) + bracchium(팔) -> '두 팔(bracchium) 안에 들임'. bracchium(팔)은 bracelet(팔찌)·brace(버팀대)·bracket(괄호)의 뿌리.",
+  "deriv": "in-(안으로) + bracchium(팔) -> 'embrace'. '두 팔로 안다 -> 포옹하다(embrace warmly)' -> 비유 '품어 받아들이다 -> 기꺼이 수용하다(embrace change, 변화를 받아들이다)' -> '아우르다(embrace many fields)'. 한국 학습자 핵심: bracchium(팔) 갈래 — bracelet(팔찌)·brace(버팀대/대비하다)·bracket(괄호)·embrace! embrace new technology(신기술을 적극 수용하다), embrace diversity(다양성을 포용하다), a warm embrace(따뜻한 포옹). hug(껴안다)·welcome(환영하다)·adopt(채택하다)와 유의어. 반대 reject(거부하다)·shun(피하다).",
+  "syn": ["hug(껴안다)", "welcome(받아들이다)", "adopt(채택하다)"],
+  "anti": ["reject(거부하다)", "shun(피하다)", "resist(거부하다)"],
+  "idiom": ["embrace change(변화를 받아들이다)", "a warm embrace(따뜻한 포옹)"],
+  "colloc": ["embrace change(변화를 수용하다)", "embrace new ideas(새 생각을 받아들이다)", "warmly embrace(따뜻하게 껴안다)"],
+  "ex_add": "Young people are quick to embrace new technology.  (embrace=받아들이다)"
+ },
+ {
+  "num": "2656",
+  "hw": "emerge",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "물 위로 떠오르다 -> '나타나다·드러나다·부상하다'.",
+  "senses": [
+   "1) (모습을) 드러내다·나오다",
+   "2) (사실이) 밝혀지다·드러나다",
+   "3) (세력이) 부상하다·생겨나다"
+  ],
+  "etym": "라틴어 emergere = e-(밖으로) + mergere(잠기다·담그다) -> '물에 잠겼다가 밖으로 솟아오름'. mergere(잠기다)는 merge(합쳐지다)·submerge(물에 잠그다)·immerse(담그다)·merger(합병)의 뿌리.",
+  "deriv": "e-(밖으로) + mergere(잠기다) -> 'emerge'. '물 위로 떠오르다 -> 나타나다(emerge from the shadows)' -> '사실이 드러나다(it emerged that S+V)' -> '세력이 부상하다(an emerging market, 신흥 시장)'. 한국 학습자 핵심: mergere(잠기다) 갈래 — merge(병합하다)·submerge·immerse·emerge·merger·emergency(2... )·emergent! emerge from(~에서 나오다), it emerged that(~라는 사실이 드러났다), an emerging economy(신흥 경제). appear(나타나다)·arise(생기다)와 유의어. 반대 disappear(사라지다)·submerge(잠기다).",
+  "syn": ["appear(나타나다)", "arise(생기다)", "surface(드러나다)"],
+  "anti": ["disappear(사라지다)", "submerge(잠기다)", "vanish(자취를 감추다)"],
+  "idiom": ["it emerged that(~라는 사실이 드러났다)", "an emerging market(신흥 시장)"],
+  "colloc": ["emerge from(~에서 나오다)", "emerge as(~으로 부상하다)", "newly emerged(새로 생겨난)"],
+  "ex_add": "The sun emerged from behind the clouds.  (emerge=나타나다)"
+ },
+ {
+  "num": "2657",
+  "hw": "emission",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "밖으로 내보냄 -> '배출·방출(물)'.",
+  "senses": [
+   "1) (가스·빛·열의) 배출·방출",
+   "2) (보통 복수) 배출 가스",
+   "3) 발산물"
+  ],
+  "etym": "라틴어 emittere = e-(밖으로) + mittere(보내다)의 명사형 emissio. '밖으로 내보냄'이 핵심. mittere(보내다)는 emit(내뿜다)·mission(임무)·commission(2446)·dismiss(2607)·submit·transmit·omit의 거대한 뿌리.",
+  "deriv": "e-(밖으로) + mittere(보내다) -> emit -> 'emission'. '밖으로 내보냄 -> 배출·방출(carbon emissions, 탄소 배출)'. 한국 학습자 핵심: mittere(보내다) 대가족 — emit·mission·commission(2446)·dismiss(2607)·submit·permit·admit·transmit·omit·remit! carbon emissions(탄소 배출), greenhouse gas emissions(온실가스 배출), reduce emissions(배출을 줄이다), zero-emission(무배출의), emission standards(배출 기준). discharge(방출)·release(방출)와 유의어. 반대 absorption(흡수).",
+  "syn": ["discharge(방출)", "release(방출)", "output(배출)"],
+  "anti": ["absorption(흡수)", "intake(흡입)"],
+  "idiom": ["carbon emissions(탄소 배출)", "zero-emission(무배출의)", "emission standards(배출 기준)"],
+  "colloc": ["carbon emissions(탄소 배출)", "reduce emissions(배출을 줄이다)", "greenhouse gas emissions(온실가스 배출)"],
+  "ex_add": "Governments are working to cut carbon emissions.  (emission=배출)"
+ },
+ {
+  "num": "2658",
+  "hw": "emotional",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "감정을 움직이는 -> '감정의·정서적인·감정적인'.",
+  "senses": [
+   "1) 감정의·정서의",
+   "2) 감정적인·정에 약한",
+   "3) 감동적인·뭉클한"
+  ],
+  "etym": "emotion(감정) + -al. emotion은 라틴어 ex-(밖으로) + movere(움직이다) -> '마음을 밖으로 움직여 흔듦'. movere(움직이다)는 motion(움직임)·move·motive(동기)·promote(승진시키다)·remove(제거하다)·motor의 거대한 뿌리.",
+  "deriv": "ex-(밖으로) + movere(움직이다) -> emotion -> 'emotional'. '감정을 움직이는 -> 감정의·정서적인(emotional support)' -> '감정적인(get emotional)' -> '감동적인(an emotional moment)'. 한국 학습자 핵심: movere(움직이다) 대가족 — motion·move·motive·promote·remove·motor·emotion·emotionally(2659)·commotion! emotional support(정서적 지지), an emotional response(감정적 반응), emotional intelligence(감성 지능, EQ), become emotional(감정이 북받치다). 반대 rational(이성적인)·unemotional(냉정한)·detached(초연한).",
+  "syn": ["sentimental(감상적인)", "passionate(격정적인)", "moving(감동적인)"],
+  "anti": ["rational(이성적인)", "unemotional(냉정한)", "detached(초연한)"],
+  "idiom": ["emotional support(정서적 지지)", "emotional intelligence(감성 지능)", "get emotional(감정이 북받치다)"],
+  "colloc": ["emotional support(정서적 지지)", "an emotional response(감정적 반응)", "emotionally charged(감정이 격해진)"],
+  "ex_add": "She needed emotional support after the loss of her father.  (emotional=정서적인)"
+ },
+ {
+  "num": "2659",
+  "hw": "emotionally",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'감정적으로·정서적으로'.",
+  "senses": [
+   "1) 정서적으로·감정 면에서",
+   "2) 감정적으로·격해져서",
+   "3) 감동적으로"
+  ],
+  "etym": "emotional(2658) + -ly. 라틴어 ex-(밖으로) + movere(움직이다) 뿌리. '마음이 움직여'가 핵심. motion·move·motive와 한 movere 갈래.",
+  "deriv": "emotional(2658) -> 'emotionally'. '정서 면에서(emotionally stable, 정서적으로 안정된)' -> '감정적으로(react emotionally)' -> '감동적으로'. 한국 학습자 핵심: movere(움직이다) 대가족 — motion·move·motive·promote·remove·emotion·emotional(2658)! emotionally stable/unstable(정서적으로 안정된/불안정한), emotionally attached(정이 든), emotionally charged(감정이 격앙된), emotionally draining(진을 빼는). emotional(2658) 가족. 반대 rationally(이성적으로)·dispassionately(냉정하게).",
+  "syn": ["sentimentally(감상적으로)", "passionately(격정적으로)"],
+  "anti": ["rationally(이성적으로)", "dispassionately(냉정하게)", "calmly(차분히)"],
+  "idiom": ["emotionally attached(정이 든)", "emotionally charged(감정이 격앙된)"],
+  "colloc": ["emotionally stable(정서적으로 안정된)", "emotionally draining(진을 빼는)", "react emotionally(감정적으로 반응하다)"],
+  "ex_add": "Caring for a sick relative can be emotionally exhausting.  (emotionally=정서적으로)"
+ },
+ {
+  "num": "2660",
+  "hw": "emphasis",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "도드라지게 보임 -> '강조·역점 / 어조'.",
+  "senses": [
+   "1) 강조·역점·중점",
+   "2) (말의) 강세·어조",
+   "3) 부각·중요시"
+  ],
+  "etym": "그리스어 emphasis(드러내 보임) = en-(안에) + phainein(보이다·드러내다). '도드라지게 드러내 보임'이 핵심. phainein(보이다)은 phase(국면)·phenomenon(현상)·phantom(유령)·fantasy(2732)·emphasize(2661)의 뿌리. 복수형은 emphases.",
+  "deriv": "en-(안에) + phainein(보이다) -> 'emphasis'. '도드라지게 보임 -> 강조·역점(put emphasis on, ~을 강조하다)' -> 말의 '강세·어조'. 한국 학습자 핵심: phainein(보이다) 대가족 — phase·phenomenon·phantom·fantasy(2732)·emphasize(2661)·diaphanous(비치는)! 복수형 emphases[엠퍼시즈] 주의! place/put emphasis on(~에 역점을 두다), with emphasis(힘주어), the emphasis is on(~에 중점이 있다), shift the emphasis(중점을 옮기다). stress(강조)·importance(중요성)와 유의어.",
+  "syn": ["stress(강조)", "importance(중요성)", "focus(중점)"],
+  "anti": ["neglect(소홀)"],
+  "idiom": ["put emphasis on(~을 강조하다)", "the emphasis is on(~에 중점이 있다)", "with emphasis(힘주어)"],
+  "colloc": ["place emphasis on(~에 역점을 두다)", "great emphasis(큰 강조)", "shift the emphasis(중점을 옮기다)"],
+  "ex_add": "The school places great emphasis on creativity.  (emphasis=강조)"
+ },
+ {
+  "num": "2661",
+  "hw": "emphasize",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "도드라지게 하다 -> '강조하다·역설하다'.",
+  "senses": [
+   "1) 강조하다·역설하다",
+   "2) 두드러지게 하다·부각하다",
+   "3) (말에) 힘주다"
+  ],
+  "etym": "emphasis(강조, 2660) + -ize. 그리스어 en-(안에) + phainein(보이다) 뿌리. '눈에 띄게 드러내 보임'이 핵심. phase·phenomenon·fantasy(2732)와 한 phainein 갈래. (영국식 emphasise.)",
+  "deriv": "en-(안에) + phainein(보이다) -> emphasis(2660) -> 'emphasize'. '도드라지게 하다 -> 강조하다(emphasize the importance)' -> '부각하다'. 한국 학습자 핵심: phainein(보이다) 대가족 — phase·phenomenon·phantom·fantasy(2732)·emphasis(2660)! emphasize that S+V(~을 강조하다), strongly emphasize(강하게 역설하다), emphasize the need for(~의 필요성을 강조하다), it should be emphasized that(~을 강조해야 한다). 영국식 emphasise. stress(강조하다)·highlight(부각하다)·underline(강조하다)과 유의어. 반대 downplay(경시하다)·understate(축소하다).",
+  "syn": ["stress(강조하다)", "highlight(부각하다)", "underline(역설하다)"],
+  "anti": ["downplay(경시하다)", "understate(축소하다)", "minimize(최소화하다)"],
+  "idiom": ["emphasize the importance of(~의 중요성을 강조하다)", "it should be emphasized that(~을 강조해야 한다)"],
+  "colloc": ["emphasize the importance(중요성을 강조하다)", "strongly emphasize(강하게 역설하다)", "emphasize the need(필요성을 강조하다)"],
+  "ex_add": "I must emphasize how important this decision is.  (emphasize=강조하다)"
+ },
+ {
+  "num": "2662",
+  "hw": "empire",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "통치권이 미치는 '제국 / (기업) 왕국'.",
+  "senses": [
+   "1) 제국",
+   "2) (거대) 기업 왕국·복합 기업",
+   "3) 절대적 지배권"
+  ],
+  "etym": "라틴어 imperium(통치권·명령권) <- imperare(명령하다) = in-(~에) + parare(준비하다·갖추다). '명령(imperare)이 미치는 영역'이 핵심. emperor(황제)·imperial(제국의)·imperative(필수의·명령형)가 한 갈래. parare는 prepare·repair·apparatus의 뿌리.",
+  "deriv": "imperare(명령하다) -> imperium -> 'empire'. '명령이 미치는 영역 -> 제국(the Roman Empire)' -> 비유 '기업 왕국(a business empire)'. 한국 학습자 핵심: imperare(명령하다) 갈래 — emperor(황제)·empress(여제)·imperial(제국의)·imperialism(제국주의)·imperative(반드시 해야 하는/명령법)! build an empire(제국/왕국을 건설하다), the British Empire(대영 제국), a media empire(미디어 왕국), the Empire State Building. kingdom(왕국)·realm(왕국)과 유의어.",
+  "syn": ["kingdom(왕국)", "realm(영역)", "dominion(통치권)"],
+  "anti": ["colony(식민지)"],
+  "idiom": ["a business empire(기업 왕국)", "build an empire(제국을 건설하다)"],
+  "colloc": ["the Roman Empire(로마 제국)", "a business empire(기업 왕국)", "the fall of an empire(제국의 몰락)"],
+  "ex_add": "The Roman Empire once ruled most of Europe.  (empire=제국)"
+ },
+ {
+  "num": "2663",
+  "hw": "enable",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "할 수 있게 만들다 -> '가능하게 하다·활성화하다'.",
+  "senses": [
+   "1) ~을 할 수 있게 하다(enable sb to do)",
+   "2) (일이) 가능하게 하다",
+   "3) (기능을) 활성화하다"
+  ],
+  "etym": "en-(~하게 만들다) + able(할 수 있는). able은 라틴어 habilis(다루기 쉬운) <- habere(가지다·쥐다). '능력(habere)을 갖게 만듦'이 핵심. ability·disability(2597)·habit·exhibit(2702)이 habere 갈래.",
+  "deriv": "en-(만들다) + able -> 'enable'. '할 수 있게 만들다 -> 가능하게 하다(enable sb to succeed)' -> 기술 '활성화하다(enable a feature)'. 한국 학습자 핵심: habere(가지다) 갈래 — able·ability·disability(2597)·habit·exhibit(2702)·prohibit·inhabit! enable sb to do(~가 ...할 수 있게 하다 — 빈출 5형식 구문!), enable access(접근을 가능하게 하다), enabled(활성화된). allow(허락하다)·permit(허용하다)·empower(권한을 주다)와 유의어. 반대 disable(불가능하게 하다)·prevent(막다)·hinder(방해하다).",
+  "syn": ["allow(가능하게 하다)", "permit(허용하다)", "empower(권한을 주다)"],
+  "anti": ["disable(불능으로 만들다)", "prevent(막다)", "hinder(방해하다)"],
+  "idiom": ["enable sb to do(~가 ...할 수 있게 하다)"],
+  "colloc": ["enable access(접근을 가능하게 하다)", "enable sb to do(~가 ...하게 하다)", "enable growth(성장을 가능하게 하다)"],
+  "ex_add": "The scholarship enabled her to attend university.  (enable=가능하게 하다)"
+ },
+ {
+  "num": "2664",
+  "hw": "encounter",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "맞닥뜨리다 -> '마주치다·(어려움을) 겪다 / 만남'.",
+  "senses": [
+   "1) (우연히) 마주치다·맞닥뜨리다",
+   "2) (어려움·반대에) 부딪치다",
+   "3) (뜻밖의) 만남·조우"
+  ],
+  "etym": "라틴어 in-(안으로) + contra(맞은편·반대) -> 고대 프랑스어 encontrer(마주치다). '맞은편(contra)과 마주 서게 됨'이 핵심. contra(맞서)는 country(맞은편 땅->시골·나라)·counter(반대의)·contrary(반대의)의 갈래.",
+  "deriv": "in- + contra(맞서) -> 'encounter'. '맞닥뜨리다 -> 우연히 마주치다(encounter an old friend)' -> '어려움에 부딪치다(encounter problems)' -> 명사 '뜻밖의 만남(a chance encounter)'. 한국 학습자 핵심: contra(맞서) 갈래 — country·counter·contrary·contrast·encounter·contra! encounter difficulties/resistance/opposition(어려움·저항·반대에 부딪치다), a chance encounter(우연한 만남), a close encounter(근접 조우). meet(만나다)·confront(맞닥뜨리다)·come across(우연히 만나다)와 유의어 — encounter는 '뜻밖에·맞서' 어감.",
+  "syn": ["come across(마주치다)", "confront(맞닥뜨리다)", "meet(만나다)"],
+  "anti": ["avoid(피하다)", "evade(모면하다)"],
+  "idiom": ["a chance encounter(우연한 만남)", "a close encounter(근접 조우)", "encounter problems(문제에 부딪치다)"],
+  "colloc": ["encounter difficulties(어려움에 부딪치다)", "encounter resistance(저항에 부딪치다)", "a brief encounter(짧은 만남)"],
+  "ex_add": "We encountered several problems during the trip.  (encounter=맞닥뜨리다)"
+ },
+ {
+  "num": "2665",
+  "hw": "engage",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "묶어 걸다 -> '관여시키다·끌어들이다 / 약혼시키다 / 맞물리다'.",
+  "senses": [
+   "1) 관여하다·참여하다(engage in)·관심을 끌다",
+   "2) (engage sb) 고용하다·(주의를) 사로잡다",
+   "3) (be engaged) 약혼하다 / (기어가) 맞물리다"
+  ],
+  "etym": "고대 프랑스어 engager = en-(안으로) + gage(담보·서약) -> '담보(gage)로 묶어 매어 둠'. gage(서약)는 wage(임금=노동의 담보)·mortgage(저당)·wed(서약하다)와 먼 갈래. '약속으로 매어 끌어들임'이 핵심.",
+  "deriv": "en-(안으로) + gage(서약) -> 'engage'. '약속으로 묶다 -> 약혼시키다(get engaged)' -> '끌어들이다 -> 관여·참여시키다(engage in conversation)·주의를 사로잡다(engage the audience)' -> 기어가 '맞물리다'. 한국 학습자 핵심: gage(담보) 갈래 — wage(임금)·mortgage(담보 대출)·engagement(약혼/약속)! engage in(~에 종사·참여하다 — 빈출!), be engaged to(~와 약혼한 사이), be engaged in(~에 몰두한), engaging(매력적인). involve(관여시키다)·occupy(차지하다)와 유의어. 반대 disengage(풀다)·withdraw(물러나다).",
+  "syn": ["involve(관여시키다)", "occupy(사로잡다)", "hire(고용하다)"],
+  "anti": ["disengage(떼다)", "withdraw(물러나다)", "ignore(무시하다)"],
+  "idiom": ["engage in(~에 종사하다)", "be engaged to(~와 약혼하다)", "engage sb in conversation(~에게 말을 걸다)"],
+  "colloc": ["engage in(~에 참여하다)", "engage the audience(청중을 사로잡다)", "actively engage(적극 참여하다)"],
+  "ex_add": "The teacher knows how to engage her students.  (engage=관심을 끌다)"
+ },
+ {
+  "num": "2666",
+  "hw": "enhance",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "높이 올리다 -> '높이다·향상시키다·강화하다'.",
+  "senses": [
+   "1) (질·가치를) 높이다·향상시키다",
+   "2) 강화하다·돋보이게 하다",
+   "3) (효과를) 키우다"
+  ],
+  "etym": "라틴어 in-(위로) + altus(높은) -> 고대 프랑스어 enhaucier(높이다). '위로(altus) 끌어올림'이 핵심. altus(높은)는 altitude(고도)·exalt(드높이다)·altar(제단)의 뿌리.",
+  "deriv": "in-(위로) + altus(높은) -> 'enhance'. '높이 올리다 -> (질·가치를) 높이다·향상시키다(enhance the flavor, 풍미를 높이다)' -> '돋보이게 하다(enhance one's appearance)'. 한국 학습자 핵심: altus(높은) 갈래 — altitude(고도)·exalt(찬양하다)·altar(제단)·enhance! enhance는 '이미 좋은 것을 더 좋게' — improve(부족한 것을 개선)와 결이 다름! greatly enhance(크게 향상시키다), enhance the quality(품질을 높이다), enhance the reputation(명성을 높이다), enhanced(향상된). improve(개선하다)·boost(끌어올리다)·heighten(고조시키다)과 유의어. 반대 diminish(감소시키다)·undermine(약화시키다).",
+  "syn": ["improve(향상시키다)", "boost(끌어올리다)", "heighten(고조시키다)"],
+  "anti": ["diminish(감소시키다)", "undermine(약화시키다)", "reduce(줄이다)"],
+  "idiom": ["greatly enhance(크게 향상시키다)", "enhance the value(가치를 높이다)"],
+  "colloc": ["enhance the quality(품질을 높이다)", "enhance performance(성능을 향상시키다)", "greatly enhance(크게 향상시키다)"],
+  "ex_add": "Adding herbs can really enhance the flavor of the dish.  (enhance=향상시키다)"
+ },
+ {
+  "num": "2667",
+  "hw": "enjoyable",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "즐길 만한 -> '즐거운·재미있는'.",
+  "senses": [
+   "1) 즐거운·즐길 만한",
+   "2) 재미있는·기분 좋은",
+   "3) 유쾌한"
+  ],
+  "etym": "enjoy(즐기다) + -able(~할 만한). enjoy는 en-(만들다) + joy(기쁨). joy는 라틴어 gaudium(기쁨) <- gaudere(기뻐하다). '기쁨(joy)을 누릴 만한'이 핵심. rejoice(크게 기뻐하다)가 한 gaudere 갈래.",
+  "deriv": "en-(만들다) + joy(기쁨) -> enjoy -> 'enjoyable(즐길 만한)'. '즐거운·재미있는(an enjoyable evening)'. 한국 학습자 핵심: gaudere(기뻐하다) 갈래 — joy·enjoy·rejoice(기뻐하다)·gaudy(현란한)! enjoyable은 사물·활동이 '즐거운'(an enjoyable trip) — 사람이 '즐기는'은 enjoy! thoroughly enjoyable(아주 즐거운), make sth enjoyable(~을 즐겁게 만들다), a highly enjoyable read(아주 재미있는 읽을거리). pleasant(쾌적한)·delightful(즐거운)·entertaining(2669)과 유의어. 반대 unpleasant(불쾌한)·boring(지루한)·tedious(따분한).",
+  "syn": ["pleasant(즐거운)", "delightful(유쾌한)", "entertaining(재미있는)"],
+  "anti": ["unpleasant(불쾌한)", "boring(지루한)", "tedious(따분한)"],
+  "idiom": ["thoroughly enjoyable(아주 즐거운)", "a highly enjoyable read(아주 재미있는 읽을거리)"],
+  "colloc": ["an enjoyable experience(즐거운 경험)", "thoroughly enjoyable(매우 즐거운)", "make it enjoyable(즐겁게 만들다)"],
+  "ex_add": "We had a thoroughly enjoyable evening together.  (enjoyable=즐거운)"
+ },
+ {
+  "num": "2668",
+  "hw": "ensure",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "확실하게 하다 -> '반드시 ~하게 하다·보장하다'.",
+  "senses": [
+   "1) 반드시 ~하게 하다·보장하다",
+   "2) (ensure that) 꼭 ~하도록 하다",
+   "3) 확실히 해 두다"
+  ],
+  "etym": "en-(만들다) + sure(확실한). sure는 라틴어 securus(걱정 없는·안전한) = se-(없이) + cura(걱정·돌봄). '걱정(cura)이 없게 확실히 만듦'이 핵심. cura(돌봄)는 cure(2534)·curious(2535)·secure·accurate·assure·insure의 뿌리.",
+  "deriv": "en-(만들다) + sure(확실한) -> 'ensure'. '확실하게 하다 -> 반드시 ~하게 하다·보장하다(ensure success)'. 한국 학습자 핵심: cura(돌봄) 갈래 — cure(2534)·curious(2535)·secure·accurate·assure·insure·sure! ensure that S+V(반드시 ~하도록 하다), ensure(보장하다)·insure(보험에 들다)·assure(안심시키다)를 구별! ensure safety(안전을 보장하다), make sure = ensure. guarantee(보장하다)·secure(확보하다)와 유의어.",
+  "syn": ["guarantee(보장하다)", "make sure(확실히 하다)", "secure(확보하다)"],
+  "anti": ["jeopardize(위태롭게 하다)", "risk(위태롭게 하다)"],
+  "idiom": ["ensure that(반드시 ~하도록 하다)", "ensure safety(안전을 보장하다)"],
+  "colloc": ["ensure success(성공을 보장하다)", "ensure safety(안전을 확보하다)", "ensure that(반드시 ~하게 하다)"],
+  "ex_add": "Please ensure that all doors are locked at night.  (ensure=반드시 ~하게 하다)"
+ },
+ {
+  "num": "2669",
+  "hw": "entertaining",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "붙들어 즐겁게 하는 -> '재미있는·즐거움을 주는'.",
+  "senses": [
+   "1) 재미있는·즐거움을 주는",
+   "2) 흥겨운·유쾌한",
+   "3) 오락거리가 되는"
+  ],
+  "etym": "entertain(즐겁게 하다·접대하다) + -ing. entertain은 라틴어 inter-(사이에) + tenere(붙들다) -> '주의를 사이에 붙들어 둠'. tenere(붙들다)는 maintain(유지하다)·contain(담다)·obtain(얻다)·retain(보유하다)·sustain(지탱하다)·tenant(세입자)의 뿌리.",
+  "deriv": "inter-(사이에) + tenere(붙들다) -> entertain -> 'entertaining'. '주의를 붙들어 즐겁게 하는 -> 재미있는(an entertaining show)'. 한국 학습자 핵심: tenere(붙들다) 대가족 — maintain·contain·obtain·retain·sustain·detain·tenant·tenure·entertainment! highly entertaining(아주 재미있는), entertaining and informative(재미있고 유익한), find sth entertaining(~을 재미있어하다). amusing(재미있는)·enjoyable(2667)·diverting(기분 전환이 되는)과 유의어. 반대 boring(지루한)·dull(따분한, 2636).",
+  "syn": ["amusing(재미있는)", "enjoyable(즐거운)", "diverting(기분 전환되는)"],
+  "anti": ["boring(지루한)", "dull(따분한)", "tedious(지겨운)"],
+  "idiom": ["highly entertaining(아주 재미있는)", "entertaining and informative(재미있고 유익한)"],
+  "colloc": ["an entertaining show(재미있는 공연)", "highly entertaining(매우 재미있는)", "an entertaining read(재미있는 읽을거리)"],
+  "ex_add": "The speaker was both informative and entertaining.  (entertaining=재미있는)"
+ },
+ {
+  "num": "2670",
+  "hw": "enthusiasm",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "신들린 듯한 -> '열정·열의·열광'.",
+  "senses": [
+   "1) 열정·열의·의욕",
+   "2) 열광·열중",
+   "3) 아주 좋아하는 것"
+  ],
+  "etym": "그리스어 enthousiasmos(신들림·영감) = en-(안에) + theos(신) -> '안에 신(theos)이 깃든 듯한 열기'. theos(신)는 theology(신학)·atheist(무신론자)·theism(유신론)·enthusiastic(2671)의 뿌리.",
+  "deriv": "en-(안에) + theos(신) -> 'enthusiasm'. '신들린 듯한 열기 -> 열정·열의(show enthusiasm)' -> '열광'. 한국 학습자 핵심: theos(신) 갈래 — theology(신학)·atheist(무신론자)·theism·pantheon(만신전)·enthusiastic(2671)! with enthusiasm(열의를 가지고), full of enthusiasm(열의에 찬), lose enthusiasm(열의를 잃다), boundless enthusiasm(무한한 열정), share sb's enthusiasm(~의 열의에 공감하다). passion(열정)·zeal(열성)·eagerness(열망)과 유의어. 반대 apathy(무관심)·indifference(무관심).",
+  "syn": ["passion(열정)", "zeal(열성)", "eagerness(열망)"],
+  "anti": ["apathy(무관심)", "indifference(무관심)", "reluctance(꺼림)"],
+  "idiom": ["with enthusiasm(열의를 가지고)", "full of enthusiasm(열의에 찬)"],
+  "colloc": ["show enthusiasm(열의를 보이다)", "great enthusiasm(큰 열정)", "lose enthusiasm(열의를 잃다)"],
+  "ex_add": "The students showed great enthusiasm for the new project.  (enthusiasm=열정)"
+ },
+ {
+  "num": "2671",
+  "hw": "enthusiastic",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "신들린 듯 -> '열렬한·열광적인·의욕적인'.",
+  "senses": [
+   "1) 열렬한·열광적인",
+   "2) 의욕적인·열의 있는",
+   "3) 매우 좋아하는"
+  ],
+  "etym": "enthusiasm(열정, 2670) + -ic. 그리스어 en-(안에) + theos(신) 뿌리. '안에 신이 깃든 듯 들뜬'이 핵심. theology·atheist와 한 theos 갈래.",
+  "deriv": "en-(안에) + theos(신) -> enthusiasm(2670) -> 'enthusiastic'. '신들린 듯 열렬한(an enthusiastic response, 열렬한 반응)' -> '의욕적인'. 한국 학습자 핵심: theos(신) 갈래 — theology·atheist·theism·enthusiasm(2670)! be enthusiastic about(~에 열광하다·열의를 보이다), wildly enthusiastic(열광적인), an enthusiastic supporter(열성 지지자), less than enthusiastic(별로 내켜 하지 않는). keen(열심인)·eager(2639)·passionate(열정적인)와 유의어. 반대 indifferent(무관심한)·apathetic(무기력한)·unenthusiastic.",
+  "syn": ["keen(열심인)", "eager(열망하는)", "passionate(열정적인)"],
+  "anti": ["indifferent(무관심한)", "apathetic(무기력한)", "reluctant(꺼리는)"],
+  "idiom": ["be enthusiastic about(~에 열광하다)", "less than enthusiastic(별로 내키지 않는)"],
+  "colloc": ["an enthusiastic response(열렬한 반응)", "enthusiastic about(~에 열의를 보이는)", "an enthusiastic supporter(열성 지지자)"],
+  "ex_add": "She's very enthusiastic about her new job.  (enthusiastic=열의 있는)"
+ },
+ {
+  "num": "2672",
+  "hw": "entire",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "손대지 않은 통째 -> '전체의·온전한'.",
+  "senses": [
+   "1) 전체의·온·전부의",
+   "2) 완전한·온전한",
+   "3) 통째의"
+  ],
+  "etym": "라틴어 integer(손대지 않은·온전한) = in-(부정) + tangere(만지다) -> '한 군데도 건드리지 않은 통째'. tangere(만지다)는 integer(정수)·integrity(고결함)·integrate(통합하다)·intact(온전한)·tangible(만질 수 있는)·contact(접촉)·tangent(접선)의 뿌리.",
+  "deriv": "in-(부정) + tangere(만지다) -> integer -> 'entire'. '손 안 댄 통째 -> 전체의·온(the entire team, 팀 전체)' -> '완전한'. 한국 학습자 핵심: tangere(만지다) 대가족 — integer(정수)·integrity(청렴)·integrate(통합하다)·intact(손상 없는)·tangible(유형의)·contact·tangent·contagious(전염성의)! the entire world(온 세계), an entire day(하루 종일), the entire amount(전액). whole(전체의)·complete(완전한)·total(전체의)과 유의어. 반대 partial(부분적인). entirely(2673) 부사.",
+  "syn": ["whole(전체의)", "complete(완전한)", "total(전부의)"],
+  "anti": ["partial(부분적인)", "incomplete(불완전한)"],
+  "idiom": ["the entire world(온 세상)", "an entire day(하루 종일)"],
+  "colloc": ["the entire team(팀 전체)", "the entire world(온 세계)", "the entire process(전 과정)"],
+  "ex_add": "He spent the entire weekend studying.  (entire=온통의)"
+ },
+ {
+  "num": "2673",
+  "hw": "entirely",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'완전히·전적으로·전혀'.",
+  "senses": [
+   "1) 완전히·전적으로",
+   "2) (부정과) 전혀·아주",
+   "3) 오로지·순전히"
+  ],
+  "etym": "entire(전체의, 2672) + -ly. 라틴어 in-(부정) + tangere(만지다) -> '한 군데도 빠짐없이'가 핵심. integrity·integrate·intact와 한 tangere 갈래.",
+  "deriv": "entire(2672) -> 'entirely'. '빠짐없이 -> 완전히·전적으로(entirely different, 완전히 다른)' -> 부정과 '전혀(not entirely true, 전적으로 옳지는 않은)'. 한국 학습자 핵심: tangere(만지다) 갈래 — integer·integrity·integrate·intact·tangible·contact·entire(2672)! entirely different(완전히 다른), entirely new(완전히 새로운), not entirely(전적으로 ~인 것은 아닌 — 부분 부정!), entirely up to you(전적으로 네게 달린). completely(완전히)·wholly(전적으로)·totally(완전히)와 유의어. 반대 partly(부분적으로)·partially(일부).",
+  "syn": ["completely(완전히)", "wholly(전적으로)", "totally(완전히)"],
+  "anti": ["partly(부분적으로)", "partially(일부)", "somewhat(다소)"],
+  "idiom": ["not entirely(전적으로 ~은 아닌)", "entirely up to you(전적으로 네게 달린)"],
+  "colloc": ["entirely different(완전히 다른)", "entirely new(아주 새로운)", "entirely satisfied(전적으로 만족한)"],
+  "ex_add": "The accident was entirely my fault.  (entirely=전적으로)"
+ },
+ {
+  "num": "2674",
+  "hw": "entrepreneur",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "일을 떠맡아 벌이는 '기업가·사업가'.",
+  "senses": [
+   "1) 기업가·창업가",
+   "2) 사업가",
+   "3) (모험적) 사업 주체"
+  ],
+  "etym": "프랑스어 entreprendre(떠맡다·착수하다) = entre(사이에) + prendre(잡다) <- 라틴어 prehendere(붙잡다). '일을 손에 거머쥐고(prehendere) 벌이는 사람'이 핵심. prehendere(붙잡다)는 enterprise(기업)·comprise(2459)·apprehend(체포하다)·surprise(놀람)의 뿌리.",
+  "deriv": "entre(사이) + prendre(잡다) -> 'entrepreneur'. '사업을 거머쥐고 벌이는 사람 -> 기업가·창업가(a young entrepreneur)'. 한국 학습자 핵심: prehendere(붙잡다) 갈래 — enterprise(기업)·comprise(2459)·comprehensive(2458)·apprehend·surprise·prison! 철자·발음이 까다로움 [ɑːntrəprəˈnɜːr] '앙트러프러너'! a successful entrepreneur(성공한 기업가), a social entrepreneur(사회적 기업가), entrepreneurship(기업가 정신), entrepreneurial(기업가다운). businessperson(사업가)·founder(창업자)와 유의어.",
+  "syn": ["businessperson(사업가)", "founder(창업자)", "tycoon(거물)"],
+  "anti": ["employee(피고용인)"],
+  "idiom": ["a social entrepreneur(사회적 기업가)", "entrepreneurial spirit(기업가 정신)"],
+  "colloc": ["a successful entrepreneur(성공한 기업가)", "a young entrepreneur(젊은 창업가)", "a tech entrepreneur(기술 창업가)"],
+  "ex_add": "She became a successful entrepreneur at a young age.  (entrepreneur=기업가)"
+ },
+ {
+  "num": "2675",
+  "hw": "envelope",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "감싼 것 -> '봉투 / 외피·한계'.",
+  "senses": [
+   "1) (편지) 봉투",
+   "2) 감싸개·외피",
+   "3) (the envelope) 한계·범위"
+  ],
+  "etym": "프랑스어 envelopper(감싸다) = en-(안에) + voloper(싸다) -> '안에 넣어 싼 것'. develop(2... )과 정반대 짝 — develop은 '싼 것을 풀다(de-)', envelope/envelop은 '싸다'! '내용을 감싼 것'이 핵심.",
+  "deriv": "en-(안에) + voloper(싸다) -> 'envelope'. '감싼 것 -> 봉투(seal an envelope)' -> '외피·감싸개' -> 'push the envelope(한계를 밀어붙이다)'. 한국 학습자 핵심: 명사 envelope(봉투, '엔벌로프')와 동사 envelop(감싸다, '인벨럽') — e의 유무와 강세로 구별! develop(발전시키다)이 어원상 반대(de-=풀다)! a stamped envelope(우표 붙은 봉투), a self-addressed envelope(반송 봉투), push the envelope(한계에 도전하다). seal/open an envelope(봉투를 봉하다/열다). wrapper(포장지)와 유의어.",
+  "syn": ["wrapper(포장지)", "casing(외피)", "cover(덮개)"],
+  "anti": [],
+  "idiom": ["push the envelope(한계를 밀어붙이다)", "a self-addressed envelope(반송용 봉투)"],
+  "colloc": ["seal an envelope(봉투를 봉하다)", "open an envelope(봉투를 열다)", "a stamped envelope(우표 붙은 봉투)"],
+  "ex_add": "She sealed the letter in an envelope and posted it.  (envelope=봉투)"
+ },
+ {
+  "num": "2676",
+  "hw": "equal",
+  "pos": "adj., n., v.",
+  "cefr": "B2",
+  "core": "고른·같은 -> '동등한·같은 / 필적하다'.",
+  "senses": [
+   "1) 같은·동등한·평등한",
+   "2) (수가) ~과 같다·필적하다",
+   "3) 동등한 사람·필적하는 것(명사)"
+  ],
+  "etym": "라틴어 aequalis <- aequus(평평한·고른·공정한). '높낮이 없이 고름'이 핵심. aequus(고른)는 equality(평등)·equator(적도=지구를 똑같이 가르는 선)·equation(방정식)·adequate(충분한)·equivalent(2678)·equilibrium(평형)의 뿌리.",
+  "deriv": "aequus(고른) -> 'equal'. '높낮이 없이 같은 -> 동등한·평등한(equal rights, 평등권)' -> 동사 '~과 같다·필적하다(2+2 equals 4)' -> 명사 '필적하는 사람(have no equal, 적수가 없다)'. 한국 학습자 핵심: aequus(고른) 대가족 — equality·equator·equation·adequate·equivalent(2678)·equilibrium·equip(2677은 다른 뿌리!)! be equal to(~과 같다/~을 감당할 수 있다), equal opportunity(균등한 기회), on equal terms(대등하게), all (things being) equal(다른 조건이 같다면). identical(동일한)·even(고른)과 유의어. 반대 unequal(불평등한).",
+  "syn": ["identical(똑같은)", "even(고른)", "equivalent(동등한)"],
+  "anti": ["unequal(불평등한)", "different(다른)", "uneven(고르지 않은)"],
+  "idiom": ["be equal to(~과 같다/~을 감당하다)", "on equal terms(대등하게)", "have no equal(적수가 없다)"],
+  "colloc": ["equal rights(평등권)", "equal opportunity(균등 기회)", "equal pay(동일 임금)"],
+  "ex_add": "Everyone should have equal access to education.  (equal=평등한)"
+ },
+ {
+  "num": "2677",
+  "hw": "equip",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "갖추게 하다 -> '장비를 갖추다·대비시키다'.",
+  "senses": [
+   "1) (장비·시설을) 갖추다",
+   "2) (능력·지식을) 갖추게 하다·대비시키다",
+   "3) (be equipped with) ~을 갖추고 있다"
+  ],
+  "etym": "프랑스어 équiper(배에 장비를 갖추다) <- 고대 노르드어 skipa(배를 꾸리다·정돈하다) <- skip(배). 본래 '배(skip)를 꾸려 출항 준비를 하다'에서 '장비를 갖추다'로. ship(배)과 먼 갈래.",
+  "deriv": "skipa(배를 꾸리다) -> équiper -> 'equip'. '갖추게 하다 -> 장비를 갖추다(equip a lab)' -> '능력을 갖추게 하다 -> 대비시키다(equip students with skills)'. 한국 학습자 핵심: equip A with B(A에 B를 갖추다), be equipped with(~을 갖추고 있다), well-equipped(잘 갖춰진), be equipped to do(~할 준비가 되어 있다). equipment(장비, 불가산명사! a piece of equipment)가 가족 — equip의 명사형! furnish(비치하다)·provide(제공하다)·prepare(대비시키다)와 유의어. (철자 주의 — 동사 변화 equipped, equipping.)",
+  "syn": ["furnish(비치하다)", "provide(제공하다)", "prepare(대비시키다)"],
+  "anti": ["strip(벗겨내다)", "deprive(빼앗다)"],
+  "idiom": ["equip A with B(A에 B를 갖추다)", "be equipped with(~을 갖추다)", "well-equipped(잘 갖춰진)"],
+  "colloc": ["equip with(~을 갖추다)", "fully equipped(완비된)", "equip students(학생들을 대비시키다)"],
+  "ex_add": "The course equips students with practical skills.  (equip=갖추게 하다)"
+ },
+ {
+  "num": "2678",
+  "hw": "equivalent",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "같은 값의 -> '동등한·상당하는 / 등가물'.",
+  "senses": [
+   "1) 동등한·맞먹는·상당하는",
+   "2) (가치·의미가) 같은",
+   "3) 등가물·상응하는 것(명사)"
+  ],
+  "etym": "라틴어 aequivalere = aequus(같은) + valere(가치가 있다) -> '같은 값어치를 지님'. aequus(같은)는 equal(2676)·equation·adequate의 뿌리, valere(가치가 있다)는 value(가치)·valid(유효한)·valor(용맹)·prevail(우세하다)·evaluate(2688)의 뿌리.",
+  "deriv": "aequus(같은) + valere(가치) -> 'equivalent'. '같은 값의 -> 동등한·상당하는(equivalent to, ~에 맞먹는)' -> 명사 '등가물(the English equivalent, 영어로 같은 말)'. 한국 학습자 핵심: aequus(같은) 갈래 — equal(2676)·equation·adequate / valere(가치) 갈래 — value·valid·valor·prevail·evaluate(2688)! be equivalent to(~과 동등하다), the equivalent of(~에 상당하는 것), roughly equivalent(거의 같은). equal(2676)·comparable(비슷한)과 유의어 — equivalent는 '값·기능이 맞먹는'. 반대 different(다른)·unequal(같지 않은).",
+  "syn": ["equal(동등한)", "comparable(맞먹는)", "tantamount(~과 마찬가지인)"],
+  "anti": ["different(다른)", "unequal(같지 않은)", "dissimilar(다른)"],
+  "idiom": ["be equivalent to(~과 동등하다)", "the equivalent of(~에 상당하는 것)"],
+  "colloc": ["equivalent to(~에 상당하는)", "the cash equivalent(현금 등가물)", "roughly equivalent(대략 동등한)"],
+  "ex_add": "One dollar is roughly equivalent to a hundred yen.  (equivalent to=~에 상당하는)"
+ },
+ {
+  "num": "2679",
+  "hw": "era",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "한 시대 -> '시대·연대'.",
+  "senses": [
+   "1) (특징적인) 시대·시기",
+   "2) (역사) 연대·기원",
+   "3) (the ~ era) ~의 시대"
+  ],
+  "etym": "라틴어 aera(셈의 기준 수·연대 계산의 기점). 본래 '연수를 세는 기준점'에서 '한 시대'로. '뚜렷한 특징으로 구분되는 기간'이 핵심.",
+  "deriv": "aera(연대 기점) -> 'era'. '특징적인 한 시대(a new era, 새 시대)' -> '연대·기원'. 한국 학습자 핵심: era는 '뚜렷한 성격을 가진 시대' — the digital era(디지털 시대), the Victorian era(빅토리아 시대), a new era of(~의 새 시대), the end of an era(한 시대의 끝), usher in a new era(새 시대를 열다), the post-war era(전후 시대). epoch(시대)·age(시대)·period(시기)와 유의어 — era는 '큰 변화로 구분되는' 어감. (야구의 ERA는 다른 약어!)",
+  "syn": ["age(시대)", "epoch(시대)", "period(시기)"],
+  "anti": [],
+  "idiom": ["the end of an era(한 시대의 끝)", "a new era(새 시대)", "usher in a new era(새 시대를 열다)"],
+  "colloc": ["a new era(새로운 시대)", "the digital era(디지털 시대)", "the post-war era(전후 시대)"],
+  "ex_add": "The invention of the internet began a new era.  (era=시대)"
+ },
+ {
+  "num": "2680",
+  "hw": "erupt",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "터져 나오다 -> '분출하다·폭발하다'.",
+  "senses": [
+   "1) (화산이) 분출하다·폭발하다",
+   "2) (갑자기) 터지다·발발하다",
+   "3) (감정이) 폭발하다"
+  ],
+  "etym": "라틴어 erumpere = e-(밖으로) + rumpere(터뜨리다·깨뜨리다) -> '밖으로 터져 나옴'. rumpere(터뜨리다)는 rupture(파열)·interrupt(중간을 끊다->방해하다)·corrupt(부패한)·bankrupt(파산한)·abrupt(갑작스러운)·disrupt(혼란시키다)의 뿌리.",
+  "deriv": "e-(밖으로) + rumpere(터뜨리다) -> 'erupt'. '터져 나오다 -> (화산이) 분출하다(the volcano erupted)' -> '갑자기 터지다(violence erupted)' -> '감정이 폭발하다(erupt in anger)'. 한국 학습자 핵심: rumpere(터뜨리다) 대가족 — rupture(파열)·interrupt(방해하다)·corrupt(부패한)·bankrupt(파산한)·abrupt(갑작스러운)·disrupt(붕괴시키다)! erupt into(~으로 번지다), a volcano erupts(화산이 분출하다), fighting erupted(싸움이 터졌다), eruption(분출). explode(폭발하다)·break out(발발하다)과 유의어.",
+  "syn": ["explode(폭발하다)", "break out(발발하다)", "burst(터지다)"],
+  "anti": ["subside(가라앉다)", "calm down(진정되다)"],
+  "idiom": ["erupt into(~으로 터지다)", "erupt in anger(분노가 폭발하다)"],
+  "colloc": ["a volcano erupts(화산이 분출하다)", "violence erupts(폭력이 터지다)", "suddenly erupt(갑자기 터지다)"],
+  "ex_add": "The volcano erupted, sending ash high into the sky.  (erupt=분출하다)"
+ },
+ {
+  "num": "2681",
+  "hw": "essentially",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "본질적으로 -> '본질적으로·근본적으로·사실상'.",
+  "senses": [
+   "1) 본질적으로·근본적으로",
+   "2) 사실상·요컨대",
+   "3) 기본적으로"
+  ],
+  "etym": "essential(본질적인) + -ly. essential은 라틴어 essentia(본질) <- esse(존재하다·~이다). '존재(esse)의 핵심에 관한'이 핵심. esse(있다)는 essence(본질)·present(있는->현재의)·absent(없는)·interest(사이에 있음)·entity(실체)의 뿌리.",
+  "deriv": "esse(있다) -> essence -> essential -> 'essentially'. '본질적으로(essentially the same, 본질적으로 같은)' -> '사실상·요컨대(it's essentially a copy, 사실상 복제품이다)'. 한국 학습자 핵심: esse(있다) 갈래 — essence·essential·present·absent·interest·entity·absence! essentially the same(근본적으로 같은), essentially correct(대체로 옳은), essentially unchanged(사실상 그대로인). basically(기본적으로)·fundamentally(근본적으로)·in essence(본질적으로)와 유의어 — 요점을 간추릴 때 자주 쓴다.",
+  "syn": ["basically(기본적으로)", "fundamentally(근본적으로)", "in essence(본질적으로)"],
+  "anti": ["superficially(피상적으로)", "partly(부분적으로)"],
+  "idiom": ["essentially the same(본질적으로 같은)", "in essence(본질적으로)"],
+  "colloc": ["essentially the same(근본적으로 같은)", "essentially correct(대체로 옳은)", "essentially unchanged(사실상 그대로인)"],
+  "ex_add": "The two plans are essentially the same.  (essentially=본질적으로)"
+ },
+ {
+  "num": "2682",
+  "hw": "establish",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "굳게 세우다 -> '설립하다·확립하다·규명하다'.",
+  "senses": [
+   "1) 설립하다·세우다",
+   "2) (관계·체계를) 확립하다·구축하다",
+   "3) (사실을) 규명하다·밝혀내다"
+  ],
+  "etym": "라틴어 stabilire(굳게 세우다) <- stabilis(안정된) <- stare(서다). '단단히 서게(stare) 만듦'이 핵심. stare(서다)는 stable(안정된)·stability(안정)·constant(2483)·distant(2610)·status·station·estate(2683)의 거대한 뿌리.",
+  "deriv": "stare(서다) -> stabilire -> 'establish'. '굳게 세우다 -> 설립하다(establish a company)' -> '체계를 확립하다(establish rules)' -> '사실을 규명하다(establish the cause)'. 한국 학습자 핵심: stare(서다) 대가족 — stable·stability·constant(2483)·distant(2610)·status·station·estate(2683)·statue·instant·circumstance(2423)! establish a reputation(명성을 쌓다), a well-established firm(자리 잡은 회사), establish contact(연락을 트다), establish that S+V(~을 입증하다). found(설립하다)·set up(세우다)과 유의어. 반대 abolish(폐지하다)·dismantle(해체하다).",
+  "syn": ["found(설립하다)", "set up(세우다)", "create(만들다)"],
+  "anti": ["abolish(폐지하다)", "dismantle(해체하다)", "dissolve(해산하다)"],
+  "idiom": ["establish a reputation(명성을 쌓다)", "well-established(자리 잡은)", "establish contact(연락을 트다)"],
+  "colloc": ["establish a company(회사를 설립하다)", "establish rules(규칙을 확립하다)", "firmly establish(확고히 세우다)"],
+  "ex_add": "The company was established over a hundred years ago.  (establish=설립하다)"
+ },
+ {
+  "num": "2683",
+  "hw": "estate",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "처지·재산 -> '사유지·부동산 / 재산 / 단지'.",
+  "senses": [
+   "1) (대규모) 사유지·토지",
+   "2) (한 사람의 전) 재산·유산",
+   "3) (영) (주택·산업) 단지"
+  ],
+  "etym": "라틴어 status(상태·처지·신분) <- stare(서다) -> 고대 프랑스어 estat -> 'estate'. 본래 '서 있는 상태·처지·신분'에서 '신분에 따른 재산·토지'로. state(국가·상태)·status(지위)·establish(2682)와 한 stare 갈래.",
+  "deriv": "stare(서다) -> status(처지) -> 'estate'. '신분·재산 -> 사유지(a country estate, 시골 영지)' -> '한 사람의 전 재산·유산(leave an estate)' -> (영) '단지(a housing estate, 주택 단지)'. 한국 학습자 핵심: stare(서다) 갈래 — state·status·establish(2682)·constant(2483)·distant(2610)·statue·station! real estate(부동산 — 빈출!), an estate agent(영, 부동산 중개인), a housing estate(주택 단지), an industrial estate(공업 단지), an estate car(영, 왜건형 자동차). property(부동산)·assets(자산)와 유의어.",
+  "syn": ["property(부동산)", "assets(재산)", "land(토지)"],
+  "anti": [],
+  "idiom": ["real estate(부동산)", "an estate agent(부동산 중개인)", "a housing estate(주택 단지)"],
+  "colloc": ["real estate(부동산)", "a country estate(시골 영지)", "a housing estate(주택 단지)"],
+  "ex_add": "She inherited a large estate from her grandfather.  (estate=사유지)"
+ },
+ {
+  "num": "2684",
+  "hw": "estimate",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "값을 가늠하다 -> '추산하다·어림하다 / 견적·추정치'.",
+  "senses": [
+   "1) 추산하다·어림잡다",
+   "2) 추정·어림(명사)",
+   "3) 견적(서)"
+  ],
+  "etym": "라틴어 aestimare(값을 매기다·평가하다)의 과거분사 aestimatus. '가치를 가늠해 봄'이 핵심. esteem(존중하다=높이 평가하다)이 같은 aestimare 갈래.",
+  "deriv": "aestimare(값을 매기다) -> 'estimate'. '값을 가늠하다 -> 추산·어림하다(estimate the cost)' -> 명사 '추정치(a rough estimate, 대략의 추정)·견적(get an estimate)'. 한국 학습자 핵심: aestimare(평가) 갈래 — esteem(존경)·estimation(판단)·overestimate(과대평가)·underestimate(과소평가)! 명사·동사 발음 다름(에스티멋/에스티메잇). a rough estimate(대략적 추정), a conservative estimate(보수적 추정, 2476), an estimated 5,000(약 5천 명), at a rough estimate(어림잡아). calculate(계산하다, 2392)·gauge(가늠하다)·assess(평가하다)와 유의어.",
+  "syn": ["calculate(추산하다)", "gauge(가늠하다)", "reckon(어림하다)"],
+  "anti": ["measure(정확히 재다)", "count(정확히 세다)"],
+  "idiom": ["a rough estimate(대략적 추정)", "a conservative estimate(보수적 추정)", "at a rough estimate(어림잡아)"],
+  "colloc": ["estimate the cost(비용을 추산하다)", "a rough estimate(대략적 견적)", "an estimated 5,000(약 5천)"],
+  "ex_add": "Experts estimate that the repairs will cost $2 million.  (estimate=추산하다)"
+ },
+ {
+  "num": "2685",
+  "hw": "ethic",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "행동의 기준 -> '윤리·도덕 (원칙)'.",
+  "senses": [
+   "1) (행동의) 윤리·도덕 원칙",
+   "2) (the ethics) 윤리·도의",
+   "3) (a strong ~ ethic) ~정신·기풍"
+  ],
+  "etym": "그리스어 ethikos(성품의·도덕의) <- ethos(성품·기풍·관습). '몸에 밴 성품(ethos)에 따른 행동 기준'이 핵심. ethical(2686)·ethos(기풍)가 한 갈래. (민족의 ethnic 2687은 ethnos '민족'에서 온 다른 뿌리 — 혼동 주의!)",
+  "deriv": "ethos(성품) -> ethikos -> 'ethic'. '행동의 기준 -> 윤리·도덕 원칙' -> 'a work ethic(근로 정신)' / 'the ethics(윤리·도의)'. 한국 학습자 핵심: ethic(윤리, ethos 갈래)과 ethnic(민족의, 2687 ethnos 갈래)을 어원·뜻에서 꼭 구별! a strong work ethic(투철한 직업 윤리 — 빈출!), medical ethics(의료 윤리), a code of ethics(윤리 강령), business ethics(기업 윤리). 보통 복수 ethics가 '윤리학·윤리'. moral(도덕)·principle(원칙)과 유의어.",
+  "syn": ["morals(도덕)", "principles(원칙)", "values(가치관)"],
+  "anti": [],
+  "idiom": ["a work ethic(직업 윤리)", "a code of ethics(윤리 강령)", "medical ethics(의료 윤리)"],
+  "colloc": ["a strong work ethic(투철한 근로 정신)", "business ethics(기업 윤리)", "a code of ethics(윤리 강령)"],
+  "ex_add": "She has a strong work ethic and never misses a deadline.  (ethic=윤리·정신)"
+ },
+ {
+  "num": "2686",
+  "hw": "ethical",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "윤리에 맞는 -> '윤리적인·도덕적인'.",
+  "senses": [
+   "1) 윤리적인·도덕적으로 옳은",
+   "2) 윤리에 관한",
+   "3) (제품이) 윤리적으로 생산된"
+  ],
+  "etym": "ethic(윤리, 2685) + -al. 그리스어 ethos(성품·관습) 뿌리. '몸에 밴 도덕 기준(ethos)에 맞는'이 핵심. ethical과 ethnic(2687, 민족의)은 철자가 비슷하나 뿌리가 다르다!",
+  "deriv": "ethos(성품) -> ethic(2685) -> 'ethical'. '윤리에 맞는 -> 윤리적인·도덕적으로 옳은(an ethical decision)' -> '(제품이) 윤리적으로 생산된(ethical fashion)'. 한국 학습자 핵심: ethical(윤리적인, ethos)과 ethnic(2687, 민족의, ethnos)을 꼭 구별 — 철자·발음이 비슷하나 뜻이 전혀 다름! ethical issues(윤리적 문제), ethical standards(윤리 기준), ethically sourced(윤리적으로 조달된), an ethical dilemma(윤리적 딜레마). moral(도덕적인)·principled(원칙 있는)와 유의어. 반대 unethical(비윤리적인)·immoral(부도덕한).",
+  "syn": ["moral(도덕적인)", "principled(원칙 있는)", "honorable(도의적인)"],
+  "anti": ["unethical(비윤리적인)", "immoral(부도덕한)", "corrupt(부패한)"],
+  "idiom": ["an ethical dilemma(윤리적 딜레마)", "ethically sourced(윤리적으로 조달된)"],
+  "colloc": ["ethical issues(윤리적 문제)", "ethical standards(윤리 기준)", "ethical behavior(윤리적 행동)"],
+  "ex_add": "The company faces difficult ethical questions about privacy.  (ethical=윤리적인)"
+ },
+ {
+  "num": "2687",
+  "hw": "ethnic",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "민족의 -> '민족의·인종의·소수 민족의'.",
+  "senses": [
+   "1) 민족의·종족의",
+   "2) 소수 민족의",
+   "3) (문화·음식이) 이국적·전통적인"
+  ],
+  "etym": "그리스어 ethnikos(민족의) <- ethnos(민족·종족·국민). '한 민족(ethnos)에 속한'이 핵심. ethnicity(민족성)·ethnography(민족지)가 한 갈래. (윤리의 ethic 2685·ethical 2686은 ethos '성품'에서 온 다른 뿌리!)",
+  "deriv": "ethnos(민족) -> ethnikos -> 'ethnic'. '민족의·인종의(ethnic groups, 민족 집단)' -> '소수 민족의(ethnic minorities)' -> 문화·음식이 '이국·전통적인(ethnic food, 전통 민족 음식)'. 한국 학습자 핵심: ethnic(민족의, ethnos)과 ethic(2685)/ethical(2686, 윤리의, ethos)을 꼭 구별! ethnic minority(소수 민족), ethnic diversity(민족적 다양성, 2619), ethnic cleansing(인종 청소), ethnic origin(민족적 기원). racial(인종의)·cultural(문화의)과 유의어 — ethnic은 '공통의 문화·언어·혈통' 강조.",
+  "syn": ["racial(인종의)", "cultural(문화의)", "tribal(부족의)"],
+  "anti": [],
+  "idiom": ["an ethnic minority(소수 민족)", "ethnic cleansing(인종 청소)", "ethnic food(전통 민족 음식)"],
+  "colloc": ["ethnic groups(민족 집단)", "ethnic minority(소수 민족)", "ethnic diversity(민족적 다양성)"],
+  "ex_add": "The city is home to many different ethnic groups.  (ethnic=민족의)"
+ },
+ {
+  "num": "2688",
+  "hw": "evaluate",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "값을 매기다 -> '평가하다·가늠하다'.",
+  "senses": [
+   "1) 평가하다·가치를 따지다",
+   "2) (성과·효과를) 검토·사정하다",
+   "3) (수학) 값을 구하다"
+  ],
+  "etym": "프랑스어 évaluer = e-(밖으로) + value(가치) <- 라틴어 valere(가치가 있다·강하다). '가치(valere)를 끄집어내 매김'이 핵심. valere(가치)는 value(가치)·valid(유효한)·valor(용맹)·prevail(우세하다)·equivalent(2678)의 뿌리.",
+  "deriv": "e-(밖으로) + valere(가치) -> 'evaluate'. '값을 매기다 -> 평가하다(evaluate performance)' -> '검토·사정하다(evaluate the results)' -> 수학 '값을 구하다'. 한국 학습자 핵심: valere(가치·힘) 대가족 — value·valid·valor·prevail·equivalent(2678)·evaluation(2689)·valuable·invaluable! carefully evaluate(신중히 평가하다), evaluate the impact(영향을 평가하다), evaluate options(선택지를 따져 보다). assess(사정하다)·appraise(감정하다)·judge(판단하다)와 유의어.",
+  "syn": ["assess(평가하다)", "appraise(감정하다)", "judge(판단하다)"],
+  "anti": [],
+  "idiom": ["evaluate the impact(영향을 평가하다)", "carefully evaluate(신중히 평가하다)"],
+  "colloc": ["evaluate performance(성과를 평가하다)", "evaluate options(선택지를 검토하다)", "critically evaluate(비판적으로 평가하다)"],
+  "ex_add": "Teachers regularly evaluate their students' progress.  (evaluate=평가하다)"
+ },
+ {
+  "num": "2689",
+  "hw": "evaluation",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "값매김 -> '평가·사정'.",
+  "senses": [
+   "1) 평가·사정",
+   "2) 검토·심사",
+   "3) (수학) 값 산출"
+  ],
+  "etym": "evaluate(평가하다, 2688)의 명사형. 프랑스어 e-(밖으로) + value(가치) <- 라틴어 valere(가치가 있다). '가치를 매겨 봄'이 핵심. value·valid·equivalent(2678)와 한 valere 갈래.",
+  "deriv": "valere(가치) -> evaluate(2688) -> 'evaluation'. '값매김 -> 평가·사정(a careful evaluation)' -> '검토·심사'. 한국 학습자 핵심: valere(가치) 대가족 — value·valid·valor·prevail·equivalent(2678)·evaluate(2688)·valuable! a performance evaluation(성과 평가), an objective evaluation(객관적 평가), undergo evaluation(평가를 받다), a critical evaluation(비판적 검토). assessment(사정)·appraisal(감정)과 유의어. evaluate(2688) 가족.",
+  "syn": ["assessment(사정)", "appraisal(감정)", "review(검토)"],
+  "anti": [],
+  "idiom": ["a performance evaluation(성과 평가)", "undergo evaluation(평가를 받다)"],
+  "colloc": ["a careful evaluation(신중한 평가)", "a performance evaluation(성과 평가)", "an objective evaluation(객관적 평가)"],
+  "ex_add": "The program will undergo a thorough evaluation next year.  (evaluation=평가)"
+ },
+ {
+  "num": "2690",
+  "hw": "even",
+  "pos": "adj., adv., v.",
+  "cefr": "B2",
+  "core": "고른 -> '평평한·짝수의·대등한 / (부사) ~조차'.",
+  "senses": [
+   "1) 평평한·고른·일정한 / 짝수의·대등한",
+   "2) (부사) ~조차·~마저 / (비교급 강조) 훨씬",
+   "3) (even out) 고르게 하다·평준화하다"
+  ],
+  "etym": "고대 영어 efen(평평한·고른·동등한). 게르만 계열 토박이말로, '높낮이나 차이 없이 고름'이 핵심. 형용사 뜻에서 부사 '~조차(예상을 넘어 고르게 미침)'로 확장됐다.",
+  "deriv": "efen(고른) -> 'even'. '평평한·고른(even ground)·짝수의(an even number)·대등한(an even match)' -> 부사 '~조차(even a child knows)·(비교급 강조) 훨씬(even better)' -> 'even out(고르게 되다)'. 한국 학습자 핵심: even이 비교급을 강조하면 '훨씬'(even more important)! get even with(앙갚음하다), break even(본전치기를 하다), an even number(짝수), even so(그렇다 해도), even though(비록 ~일지라도), even if(설령 ~라도). 반대(평평) uneven(고르지 않은)·odd(홀수의).",
+  "syn": ["level(평평한)", "smooth(고른)", "equal(대등한)"],
+  "anti": ["uneven(고르지 않은)", "odd(홀수의)", "bumpy(울퉁불퉁한)"],
+  "idiom": ["break even(본전치기하다)", "get even(앙갚음하다)", "even so(그렇다 하더라도)", "even though(비록 ~지만)"],
+  "colloc": ["an even number(짝수)", "even ground(평평한 땅)", "an even chance(반반의 가능성)"],
+  "ex_add": "Spread the paint in an even layer.  (even=고른)"
+ },
+ {
+  "num": "2691",
+  "hw": "evident",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "눈에 훤히 보이는 -> '분명한·명백한'.",
+  "senses": [
+   "1) 분명한·명백한",
+   "2) 눈에 띄는·뚜렷한",
+   "3) (it is evident that) ~이 분명하다"
+  ],
+  "etym": "라틴어 evidens = e-(밖으로) + videre(보다)의 현재분사 -> '훤히 내다보이는'. videre(보다)는 evidence(증거)·video(영상)·vision(시야)·provide(미리 보다->공급하다)·review(다시 보다)·supervise(감독하다)·visible(보이는)의 거대한 뿌리.",
+  "deriv": "e-(밖으로) + videre(보다) -> 'evident'. '훤히 보이는 -> 분명한·명백한(it was evident that, ~이 분명했다)' -> '뚜렷한(evident from his face)'. 한국 학습자 핵심: videre(보다) 대가족 — evidence(증거)·video·vision·provide·review·supervise·survey·visible·visit·revise! it is evident that(~은 분명하다), become evident(분명해지다), self-evident(자명한), evident in(~에서 뚜렷이 드러나는). obvious(명백한)·apparent(분명한)·clear(분명한)와 유의어. 반대 unclear(불분명한)·hidden(숨겨진).",
+  "syn": ["obvious(명백한)", "apparent(분명한)", "clear(뚜렷한)"],
+  "anti": ["unclear(불분명한)", "hidden(숨겨진)", "obscure(모호한)"],
+  "idiom": ["it is evident that(~은 분명하다)", "self-evident(자명한)", "become evident(분명해지다)"],
+  "colloc": ["clearly evident(뚜렷이 드러나는)", "evident from(~에서 명백한)", "become evident(분명해지다)"],
+  "ex_add": "It was evident that she had been crying.  (evident=분명한)"
+ }
+]

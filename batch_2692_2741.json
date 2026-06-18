@@ -1,0 +1,952 @@
+[
+ {
+  "num": "2692",
+  "hw": "evil",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "'사악한·악한 / 악(惡)'.",
+  "senses": [
+   "1) 사악한·악랄한",
+   "2) (영향이) 해로운·고약한",
+   "3) 악·악행(명사)"
+  ],
+  "etym": "고대 영어 yfel(나쁜·사악한). 게르만 계열 토박이말로, '도덕적으로 그릇되고 해로운'이 핵심. good(선)의 대척점에 서는 가장 강한 부정어이다.",
+  "deriv": "yfel(나쁜) -> 'evil'. '사악한(an evil dictator)' -> '해로운(the evil effects of war)' -> 명사 '악(good and evil, 선과 악)'. 한국 학습자 핵심: the root of all evil(모든 악의 근원, Money is the root of all evil), a necessary evil(필요악), the lesser of two evils(차악), an evil eye(흉안·악의의 눈초리), speak no evil(나쁜 말을 하지 않다). bad보다 훨씬 강한 도덕적 비난 — wicked(사악한)·malicious(악의 있는)와 유의어. 반대 good(선한)·virtuous(덕 있는)·benevolent(자애로운).",
+  "syn": ["wicked(사악한)", "malicious(악의 있는)", "sinful(죄 많은)"],
+  "anti": ["good(선한)", "virtuous(덕 있는)", "benevolent(자애로운)"],
+  "idiom": ["a necessary evil(필요악)", "the lesser of two evils(차악)", "the root of all evil(만악의 근원)"],
+  "colloc": ["an evil spirit(악령)", "evil deeds(악행)", "pure evil(순수한 악)"],
+  "ex_add": "The story is about the battle between good and evil.  (evil=악)"
+ },
+ {
+  "num": "2693",
+  "hw": "evolution",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "굴러 펼쳐짐 -> '진화·발전·전개'.",
+  "senses": [
+   "1) (생물의) 진화",
+   "2) (점진적) 발전·전개",
+   "3) 변천"
+  ],
+  "etym": "라틴어 evolvere = e-(밖으로) + volvere(굴리다·말다)의 명사형 evolutio -> '말린 두루마리를 펼쳐 나감'. volvere(굴리다)는 evolve(2694)·revolve(회전하다)·revolution(혁명)·involve(말려들게 하다)·volume(두루마리->책·부피)의 뿌리.",
+  "deriv": "e-(밖으로) + volvere(굴리다) -> 'evolution'. '두루마리가 펼쳐지듯 서서히 변함 -> 진화(the theory of evolution)' -> '점진적 발전(the evolution of technology)'. 한국 학습자 핵심: volvere(굴리다) 대가족 — evolve(2694)·revolve·revolution·involve·volume·revolt! the theory of evolution(진화론), human evolution(인류 진화), a gradual evolution(점진적 발전). revolution(혁명, 갑작스러운 변화)과 대비 — evolution은 '서서히'! development(발전)·progression(진전)과 유의어. 반대 stagnation(정체).",
+  "syn": ["development(발전)", "progression(진전)", "transformation(변천)"],
+  "anti": ["stagnation(정체)", "revolution(급변)"],
+  "idiom": ["the theory of evolution(진화론)", "human evolution(인류 진화)"],
+  "colloc": ["the theory of evolution(진화론)", "human evolution(인류 진화)", "a gradual evolution(점진적 진화)"],
+  "ex_add": "Darwin developed the theory of evolution.  (evolution=진화)"
+ },
+ {
+  "num": "2694",
+  "hw": "evolve",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "굴러 펼쳐지다 -> '진화하다·서서히 발전하다'.",
+  "senses": [
+   "1) (생물이) 진화하다",
+   "2) 서서히 발전하다·변천하다",
+   "3) (계획·생각을) 발전시키다"
+  ],
+  "etym": "라틴어 evolvere = e-(밖으로) + volvere(굴리다·말다) -> '말린 것을 펼쳐 나감'. evolution(2693)·revolve·involve·volume과 한 volvere 갈래. '서서히 펼쳐지듯 변함'이 핵심.",
+  "deriv": "e-(밖으로) + volvere(굴리다) -> 'evolve'. '서서히 펼쳐지다 -> 진화하다(species evolve)' -> '점차 발전하다(the plan evolved over time)'. 한국 학습자 핵심: volvere(굴리다) 대가족 — evolution(2693)·revolve(회전하다)·revolution(혁명)·involve(연루시키다)·volume(부피/책)·revolt(반란)! evolve from(~에서 진화하다), evolve into(~으로 발전하다), gradually evolve(서서히 진화하다), continue to evolve(계속 발전하다). develop(발전하다)·progress(진전하다)와 유의어 — evolve는 '서서히 자연스럽게'.",
+  "syn": ["develop(발전하다)", "progress(진전하다)", "mature(성숙하다)"],
+  "anti": ["stagnate(정체하다)", "regress(퇴보하다)"],
+  "idiom": ["evolve from(~에서 진화하다)", "evolve into(~으로 발전하다)"],
+  "colloc": ["gradually evolve(서서히 진화하다)", "evolve over time(시간에 걸쳐 발전하다)", "continue to evolve(계속 발전하다)"],
+  "ex_add": "The company has evolved from a small startup into a global brand.  (evolve=발전하다)"
+ },
+ {
+  "num": "2695",
+  "hw": "examination",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "저울에 달아 봄 -> '검사·조사 / 시험'.",
+  "senses": [
+   "1) 검사·조사·검토",
+   "2) (의학) 진찰",
+   "3) 시험(=exam)"
+  ],
+  "etym": "라틴어 examinare(저울로 달다·검사하다) <- examen(저울의 바늘·무게 달기) <- exigere(몰아내다·재다). '저울(examen)에 달아 꼼꼼히 따져 봄'이 핵심. exam(시험)은 그 줄임말.",
+  "deriv": "examen(저울 바늘) -> examine -> 'examination'. '저울에 달아 봄 -> 검사·검토(close examination)' -> '진찰(a medical examination)' -> '시험(an entrance examination, 입학시험)'. 한국 학습자 핵심: 줄여서 exam! examine(조사하다)·examiner(시험관)·examinee(수험생)가 가족! a medical examination(건강 검진), under examination(검토 중인), on closer examination(자세히 살펴보니), sit/take an examination(시험을 치다). inspection(점검)·test(시험)·scrutiny(정밀 조사)와 유의어.",
+  "syn": ["inspection(점검)", "scrutiny(정밀 조사)", "test(시험)"],
+  "anti": ["neglect(방치)"],
+  "idiom": ["under examination(검토 중인)", "on closer examination(자세히 보니)", "a medical examination(건강 검진)"],
+  "colloc": ["a close examination(면밀한 검사)", "a medical examination(건강 검진)", "an entrance examination(입학시험)"],
+  "ex_add": "A careful examination of the data revealed an error.  (examination=검토)"
+ },
+ {
+  "num": "2696",
+  "hw": "exceed",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "넘어 나가다 -> '넘다·초과하다·능가하다'.",
+  "senses": [
+   "1) (한도·수치를) 넘다·초과하다",
+   "2) 능가하다·뛰어넘다",
+   "3) (기대를) 웃돌다"
+  ],
+  "etym": "라틴어 excedere = ex-(밖으로) + cedere(가다·나아가다) -> '한계를 넘어 밖으로 나감'. cedere(가다)는 excess(초과)·excessive(2698)·proceed(나아가다)·succeed(뒤따르다->성공하다)·recede(물러나다)·concede(양보하다)·access(접근)·process(과정)의 거대한 뿌리.",
+  "deriv": "ex-(밖으로) + cedere(가다) -> 'exceed'. '한계를 넘어가다 -> 초과하다(exceed the speed limit, 제한 속도를 넘다)' -> '능가하다·웃돌다(exceed expectations, 기대를 뛰어넘다)'. 한국 학습자 핵심: cedere(가다) 대가족 — excess·excessive(2698)·proceed·succeed·recede·concede·access·process·precede·recession! exceed expectations(기대 이상이다 — 칭찬!), exceed the limit(한도를 넘다), far exceed(훨씬 능가하다), exceed demand(수요를 초과하다). surpass(능가하다)·go beyond(넘어서다)와 유의어. 반대 fall short of(미치지 못하다).",
+  "syn": ["surpass(능가하다)", "go beyond(넘어서다)", "outdo(앞지르다)"],
+  "anti": ["fall short of(미치지 못하다)", "fall below(밑돌다)"],
+  "idiom": ["exceed expectations(기대를 뛰어넘다)", "exceed the limit(한도를 초과하다)"],
+  "colloc": ["exceed expectations(기대를 능가하다)", "exceed the limit(한도를 넘다)", "far exceed(훨씬 능가하다)"],
+  "ex_add": "The cost must not exceed our budget.  (exceed=초과하다)"
+ },
+ {
+  "num": "2697",
+  "hw": "exception",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "빼낸 것 -> '예외'.",
+  "senses": [
+   "1) 예외",
+   "2) 제외·이례",
+   "3) (take exception) 이의를 제기하다"
+  ],
+  "etym": "라틴어 excipere = ex-(밖으로) + capere(잡다·취하다)의 명사형 exceptio -> '밖으로 집어내 뺀 것'. capere(잡다)는 except(제외하다)·accept(받아들이다)·receive(받다)·concept(2462)·capable(2397)·capture(2399)의 거대한 뿌리.",
+  "deriv": "ex-(밖으로) + capere(잡다) -> except -> 'exception'. '빼낸 것 -> 예외(with the exception of, ~을 제외하고)'. 한국 학습자 핵심: capere(잡다) 대가족 — except·accept·receive·concept(2462)·capable(2397)·capture(2399)·perceive·deceive·anticipate! with the exception of(~을 제외하고), without exception(예외 없이), make an exception(예외를 두다), the exception to the rule(규칙의 예외), an exception that proves the rule(예외가 규칙을 증명한다), take exception to(~에 이의를 제기하다). 반대 rule(통례)·norm(표준).",
+  "syn": ["anomaly(이례)", "deviation(벗어남)", "irregularity(변칙)"],
+  "anti": ["rule(통례)", "norm(표준)", "standard(표준)"],
+  "idiom": ["with the exception of(~을 제외하고)", "without exception(예외 없이)", "make an exception(예외를 두다)", "take exception to(~에 이의를 제기하다)"],
+  "colloc": ["a notable exception(주목할 예외)", "make an exception(예외로 하다)", "without exception(예외 없이)"],
+  "ex_add": "Everyone was invited, with the exception of Tom.  (exception=예외)"
+ },
+ {
+  "num": "2698",
+  "hw": "excessive",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "도를 넘은 -> '지나친·과도한'.",
+  "senses": [
+   "1) 지나친·과도한",
+   "2) 도를 넘은·과한",
+   "3) 터무니없는"
+  ],
+  "etym": "라틴어 excessus(넘어섬) <- excedere(넘다, 2696) = ex-(밖으로) + cedere(가다). '적정선을 넘어간'이 핵심. exceed(2696)·excess·proceed·access와 한 cedere 갈래.",
+  "deriv": "ex-(밖으로) + cedere(가다) -> excess -> 'excessive'. '도를 넘은 -> 지나친·과도한(excessive drinking, 과음)'. 한국 학습자 핵심: cedere(가다) 대가족 — exceed(2696)·excess·proceed·succeed·recede·concede·access·process! excessive use(과도한 사용), excessive force(과잉 진압), excessive spending(과소비), in excess of(~을 초과하는). excess(명사·형용사 '초과')와 excessive(형용사 '과도한')를 구별! over the top(지나친)·immoderate(무절제한)와 유의어. 반대 moderate(적당한)·insufficient(부족한).",
+  "syn": ["immoderate(무절제한)", "exorbitant(과도한)", "undue(부당한)"],
+  "anti": ["moderate(적당한)", "insufficient(부족한)", "reasonable(적정한)"],
+  "idiom": ["in excess of(~을 초과하는)", "excessive force(과잉 진압)"],
+  "colloc": ["excessive drinking(과음)", "excessive spending(과소비)", "excessive use(과도한 사용)"],
+  "ex_add": "Excessive use of social media can affect sleep.  (excessive=과도한)"
+ },
+ {
+  "num": "2699",
+  "hw": "exclude",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "밖에 가두다 -> '제외하다·배제하다 / 못 들어오게 하다'.",
+  "senses": [
+   "1) 제외하다·배제하다",
+   "2) (들어오지) 못하게 하다·차단하다",
+   "3) (가능성을) 배제하다"
+  ],
+  "etym": "라틴어 excludere = ex-(밖으로) + claudere(닫다) -> '밖에 두고 문을 닫음'. claudere(닫다)는 close(2434)·include(가둬 넣다->포함하다)·conclude(닫아 끝내다->결론짓다)·clause(조항)·disclose(폭로하다)의 거대한 뿌리.",
+  "deriv": "ex-(밖으로) + claudere(닫다) -> 'exclude'. '밖에 두고 닫다 -> 제외하다·배제하다(exclude from the list)' -> '못 들어오게 하다' -> '가능성을 배제하다'. 한국 학습자 핵심: claudere(닫다) 대가족 — close(2434)·include(↔)·conclude·clause·disclose·closet·seclude·preclude! exclude A from B(B에서 A를 제외하다), be excluded from(~에서 배제되다), excluding(~을 제외하고). include(포함하다, in-=안으로)와 정반대 짝! omit(빠뜨리다)·bar(막다, 2342)와 유의어. 반대 include(포함하다)·admit(들이다).",
+  "syn": ["omit(빼다)", "bar(막다)", "rule out(배제하다)"],
+  "anti": ["include(포함하다)", "admit(들이다)", "incorporate(통합하다)"],
+  "idiom": ["exclude A from B(B에서 A를 제외하다)", "be excluded from(~에서 배제되다)"],
+  "colloc": ["exclude from(~에서 제외하다)", "be excluded(배제되다)", "deliberately exclude(고의로 배제하다)"],
+  "ex_add": "Some students felt excluded from the group.  (exclude=배제하다)"
+ },
+ {
+  "num": "2700",
+  "hw": "excuse",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "탓을 벗기다 -> '변명·핑계 / 용서하다·면제하다'.",
+  "senses": [
+   "1) 변명·핑계·구실",
+   "2) 용서하다·양해하다",
+   "3) 면제해 주다·봐주다"
+  ],
+  "etym": "라틴어 excusare = ex-(밖으로) + causa(이유·고발) -> '비난(causa)에서 빼내 줌'. causa(이유·소송)는 cause(원인)·because(왜냐하면)·accuse(고발하다)의 뿌리. '탓을 벗겨 줌'이 핵심.",
+  "deriv": "ex-(밖으로) + causa(이유·고발) -> 'excuse'. '탓을 벗기다 -> 용서하다(excuse me, 실례합니다)' -> 명사 '변명·핑계(a poor excuse)' -> '면제하다(be excused from class)'. 한국 학습자 핵심: causa(이유) 갈래 — cause·because·accuse(고발하다)! 명사 excuse[s]('익스큐스')와 동사 excuse[z]('익스큐즈') 발음 구별! Excuse me(실례합니다/뭐라고요?), make excuses(변명을 늘어놓다), there's no excuse for(~은 변명의 여지가 없다), excuse oneself(양해를 구하고 자리를 뜨다). pretext(구실)와 유의어(명사).",
+  "syn": ["pretext(구실)", "justification(정당화)", "forgive(용서하다)"],
+  "anti": ["blame(탓하다)", "punish(벌하다)"],
+  "idiom": ["Excuse me(실례합니다)", "make excuses(변명하다)", "there's no excuse for(~은 변명의 여지가 없다)"],
+  "colloc": ["a good excuse(그럴듯한 핑계)", "make an excuse(변명하다)", "a feeble excuse(궁색한 변명)"],
+  "ex_add": "Stop making excuses and finish your homework.  (excuse=핑계)"
+ },
+ {
+  "num": "2701",
+  "hw": "executive",
+  "pos": "n., adj.",
+  "cefr": "B2",
+  "core": "끝까지 따라 해내는 -> '경영 간부 / 집행의'.",
+  "senses": [
+   "1) 경영 간부·임원",
+   "2) 집행부·운영진",
+   "3) 집행의·경영의(형용사)"
+  ],
+  "etym": "라틴어 exsequi = ex-(끝까지) + sequi(따르다)의 과거분사 executus -> '끝까지 따라가 해냄'. sequi(따르다)는 execute(실행하다)·sequence(연속)·consequently(2474)·pursue(추구하다)·prosecute(기소하다)·consecutive(연속의)의 뿌리.",
+  "deriv": "ex-(끝까지) + sequi(따르다) -> execute -> 'executive'. '끝까지 해내는 일을 맡은 사람 -> 경영 간부·임원(a senior executive)' -> 형용사 '집행의(executive power, 행정권)'. 한국 학습자 핵심: sequi(따르다) 대가족 — execute·sequence·consequently(2474)·pursue·prosecute·consecutive·subsequent·sequel! a chief executive officer(CEO, 최고 경영자), an executive decision(경영진의 결정), the executive branch(행정부), executive summary(요약 보고). manager(관리자)·director(이사)와 유의어.",
+  "syn": ["manager(관리자)", "director(임원)", "administrator(운영자)"],
+  "anti": ["employee(직원)", "worker(노동자)"],
+  "idiom": ["chief executive officer(최고 경영자, CEO)", "the executive branch(행정부)", "an executive decision(경영진 결정)"],
+  "colloc": ["a senior executive(고위 임원)", "a chief executive(최고 경영자)", "executive power(행정권)"],
+  "ex_add": "She is a senior executive at a large bank.  (executive=임원)"
+ },
+ {
+  "num": "2702",
+  "hw": "exhibit",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "내보여 들다 -> '전시하다·내보이다 / 전시품'.",
+  "senses": [
+   "1) 전시하다·진열하다",
+   "2) (특징·감정을) 보이다·드러내다",
+   "3) 전시품·전시회 / (법) 증거물"
+  ],
+  "etym": "라틴어 exhibere = ex-(밖으로) + habere(가지다·들다) -> '밖으로 들어 내보임'. habere(가지다)는 habit(습관)·habitat(서식지)·prohibit(금지하다)·inhabit(거주하다)·ability·enable(2663)의 거대한 뿌리. (h는 묵음 — '이그지빗'.)",
+  "deriv": "ex-(밖으로) + habere(들다) -> 'exhibit'. '내보여 들다 -> 전시하다(exhibit paintings)' -> '(특징을) 드러내다(exhibit symptoms, 증상을 보이다)' -> 명사 '전시품·전시회'. 한국 학습자 핵심: habere(가지다) 대가족 — habit·habitat·prohibit·inhabit·ability·enable(2663)·disability(2597)! 발음 주의 — h 묵음 [ɪɡˈzɪbɪt]! exhibit symptoms(증상을 보이다), on exhibit(전시 중인), an art exhibit(미술 전시), exhibition(전시회). display(전시하다, 2609)·show(보이다)와 유의어. 반대 conceal(감추다)·hide(숨기다).",
+  "syn": ["display(전시하다)", "show(보이다)", "demonstrate(드러내다)"],
+  "anti": ["conceal(감추다)", "hide(숨기다)"],
+  "idiom": ["on exhibit(전시 중인)", "exhibit symptoms(증상을 보이다)"],
+  "colloc": ["exhibit paintings(그림을 전시하다)", "exhibit symptoms(증상을 보이다)", "an art exhibit(미술 전시)"],
+  "ex_add": "The gallery is exhibiting works by young artists.  (exhibit=전시하다)"
+ },
+ {
+  "num": "2703",
+  "hw": "existence",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "밖으로 서 있음 -> '존재·실재 / 생활'.",
+  "senses": [
+   "1) 존재·실재",
+   "2) 생존·삶·생활",
+   "3) (in existence) 현존하는"
+  ],
+  "etym": "라틴어 existere = ex-(밖으로) + sistere(서다) -> '밖으로 모습을 드러내 서 있음'. sistere(서다)는 exist(존재하다)·consist(이루어지다)·persist(고집하다)·resist(저항하다)·insist(주장하다)·assist(돕다)·consistent(2480)의 뿌리.",
+  "deriv": "ex-(밖으로) + sistere(서다) -> exist -> 'existence'. '밖으로 서 있음 -> 존재·실재(the existence of life)' -> '생존·삶(a miserable existence, 비참한 삶)'. 한국 학습자 핵심: sistere(서다) 대가족 — exist·consist·persist·resist·insist·assist·consistent(2480)·existence! come into existence(생겨나다), in existence(현존하는), the struggle for existence(생존 경쟁), bring into existence(만들어 내다). being(존재)·presence(존재)와 유의어. 반대 nonexistence(부재)·absence(없음).",
+  "syn": ["being(존재)", "presence(실재)", "life(생활)"],
+  "anti": ["nonexistence(부재)", "absence(없음)", "death(죽음)"],
+  "idiom": ["come into existence(생겨나다)", "in existence(현존하는)", "the struggle for existence(생존 경쟁)"],
+  "colloc": ["the existence of(~의 존재)", "come into existence(생겨나다)", "a peaceful existence(평온한 삶)"],
+  "ex_add": "Scientists debate the existence of life on other planets.  (existence=존재)"
+ },
+ {
+  "num": "2704",
+  "hw": "exit",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "밖으로 나감 -> '출구·퇴장 / 나가다'.",
+  "senses": [
+   "1) 출구·비상구",
+   "2) 퇴장·퇴거 / (시장에서) 철수",
+   "3) (동사) 나가다·퇴장하다"
+  ],
+  "etym": "라틴어 exitus(나감) = ex-(밖으로) + ire(가다). '밖으로(ex) 나가는(ire) 것·길'이 핵심. ire(가다)는 transit(통과)·ambition(돌아다님->야망)·initial(처음의)·circuit(2422)·perish(죽다)의 뿌리.",
+  "deriv": "ex-(밖으로) + ire(가다) -> 'exit'. '밖으로 나가는 길 -> 출구(an emergency exit, 비상구)' -> '퇴장·철수(make a quick exit)' -> 동사 '나가다(exit the building)'. 한국 학습자 핵심: ire(가다) 갈래 — transit·ambition·initial·circuit(2422)·perish·exit·transitory! an emergency exit(비상구), an exit strategy(출구 전략), make an exit(퇴장하다), exit the highway(고속도로를 빠져나가다). entrance(입구)와 정반대 짝 — exit(나감, ex-) ↔ entrance(들어감)! way out(출구)·departure(퇴장)와 유의어.",
+  "syn": ["way out(출구)", "departure(퇴장)", "leave(나가다)"],
+  "anti": ["entrance(입구)", "entry(입장)", "enter(들어가다)"],
+  "idiom": ["an emergency exit(비상구)", "an exit strategy(출구 전략)", "make a quick exit(서둘러 나가다)"],
+  "colloc": ["an emergency exit(비상구)", "the nearest exit(가장 가까운 출구)", "an exit strategy(출구 전략)"],
+  "ex_add": "Please leave the building by the nearest exit.  (exit=출구)"
+ },
+ {
+  "num": "2705",
+  "hw": "exotic",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "바깥에서 온 -> '이국적인·외래의·진귀한'.",
+  "senses": [
+   "1) 이국적인·이국풍의",
+   "2) 외래의·외국산의",
+   "3) 진귀한·색다른"
+  ],
+  "etym": "그리스어 exotikos(바깥의·외국의) <- exo(밖). '바깥(exo) 세계에서 온'이 핵심. exo(밖)는 exodus(탈출)·exoskeleton(외골격)·exoplanet(외계 행성)의 뿌리.",
+  "deriv": "exo(밖) -> exotikos -> 'exotic'. '바깥에서 온 -> 이국적인(an exotic island, 이국적인 섬)' -> '외래의(exotic plants, 외래 식물)' -> '진귀한·색다른'. 한국 학습자 핵심: exo(밖) 갈래 — exodus(대탈출)·exoskeleton(외골격)·exoplanet(외계 행성)·exit(2704는 ex-)! exotic locations(이국적인 장소), exotic fruits(이국적인 과일), an exotic dancer(이국풍의 댄서), exotic species(외래종). foreign(외국의)·unusual(색다른)·strange(낯선)과 유의어 — exotic은 '매력적으로 색다른' 어감. 반대 familiar(익숙한)·native(토착의)·ordinary(평범한).",
+  "syn": ["foreign(외래의)", "unusual(색다른)", "striking(이채로운)"],
+  "anti": ["familiar(익숙한)", "native(토착의)", "ordinary(평범한)"],
+  "idiom": ["exotic locations(이국적인 장소)", "exotic species(외래종)"],
+  "colloc": ["exotic fruits(이국적인 과일)", "an exotic location(이국적인 장소)", "exotic plants(외래 식물)"],
+  "ex_add": "The market sold all kinds of exotic spices.  (exotic=이국적인)"
+ },
+ {
+  "num": "2706",
+  "hw": "expansion",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "활짝 펼쳐짐 -> '확장·팽창·확대'.",
+  "senses": [
+   "1) 확장·확대",
+   "2) (물리) 팽창",
+   "3) (사업의) 진출·성장"
+  ],
+  "etym": "라틴어 expandere = ex-(밖으로) + pandere(펼치다) -> 명사형 expansio. '활짝 펼쳐 넓힘'이 핵심. pandere(펼치다)는 expand(확장하다)·expanse(넓게 트인 곳)·spawn(알을 낳다)의 갈래.",
+  "deriv": "ex-(밖으로) + pandere(펼치다) -> expand -> 'expansion'. '활짝 펼쳐짐 -> 확장·확대(business expansion)' -> 물리 '팽창(thermal expansion, 열팽창)' -> '사업 진출'. 한국 학습자 핵심: pandere(펼치다) 갈래 — expand·expanse(넓은 공간)·expansive(광활한)! rapid expansion(급속한 확장), economic expansion(경제 성장), expansion into new markets(신시장 진출), expansion plans(확장 계획). growth(성장)·enlargement(확대)와 유의어. 반대 contraction(수축)·reduction(축소).",
+  "syn": ["growth(성장)", "enlargement(확대)", "extension(연장)"],
+  "anti": ["contraction(수축)", "reduction(축소)", "shrinkage(감소)"],
+  "idiom": ["rapid expansion(급속한 확장)", "expansion into(~으로의 진출)"],
+  "colloc": ["rapid expansion(급속한 확장)", "economic expansion(경제 성장)", "expansion plans(확장 계획)"],
+  "ex_add": "The company's rapid expansion created many new jobs.  (expansion=확장)"
+ },
+ {
+  "num": "2707",
+  "hw": "expectation",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "내다봄 -> '기대·예상'.",
+  "senses": [
+   "1) 기대·바람",
+   "2) 예상·예측",
+   "3) (the expectations) 기대치·요구 수준"
+  ],
+  "etym": "라틴어 exspectare = ex-(밖을 향해) + spectare(보다) -> '밖을 내다보며 기다림'. spectare(보다)는 expect(기대하다)·spectacle(광경)·inspect(점검하다)·respect(존경하다)·suspect(의심하다)·prospect(전망)·aspect(측면)의 거대한 뿌리.",
+  "deriv": "ex-(밖을) + spectare(보다) -> expect -> 'expectation'. '내다봄 -> 기대·예상(high expectations, 큰 기대)'. 한국 학습자 핵심: spectare(보다) 대가족 — expect·spectacle·spectator·inspect·respect·suspect·prospect·aspect·perspective·spectrum! high expectations(높은 기대), beyond expectation(기대 이상으로), live up to expectations(기대에 부응하다), fall short of expectations(기대에 못 미치다), against all expectations(예상을 뒤엎고). anticipation(기대)·hope(희망)와 유의어.",
+  "syn": ["anticipation(기대)", "hope(바람)", "prediction(예상)"],
+  "anti": ["surprise(뜻밖)", "doubt(의심)"],
+  "idiom": ["live up to expectations(기대에 부응하다)", "beyond expectation(기대 이상으로)", "against all expectations(예상을 뒤엎고)"],
+  "colloc": ["high expectations(높은 기대)", "meet expectations(기대를 충족하다)", "exceed expectations(기대를 뛰어넘다)"],
+  "ex_add": "The results were beyond all our expectations.  (expectation=기대)"
+ },
+ {
+  "num": "2708",
+  "hw": "expedition",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "발을 빼내 떠남 -> '탐험(대)·원정(대)'.",
+  "senses": [
+   "1) 탐험·원정·탐사",
+   "2) 탐험대·원정대",
+   "3) (가벼운) 나들이·외출"
+  ],
+  "etym": "라틴어 expedire(발을 풀어 자유롭게 하다) = ex-(밖으로) + pes/ped-(발) -> '발(ped)에 얽힌 것을 풀어 길을 나섬'. ped(발)는 pedal(발판)·pedestrian(보행자)·impede(발을 묶다->방해하다)·pedestal(받침대)·expedite(신속히 하다)의 뿌리.",
+  "deriv": "ex-(밖으로) + ped(발) -> expedire -> 'expedition'. '발을 풀어 떠남 -> 탐험·원정(an Antarctic expedition, 남극 탐험)' -> '탐험대' -> '나들이(a shopping expedition)'. 한국 학습자 핵심: ped(발) 갈래 — pedal·pedestrian(보행자)·impede(방해하다)·pedestal·expedite(신속 처리하다)·biped(이족 보행)! go on an expedition(원정을 떠나다), a scientific expedition(과학 탐사), lead an expedition(원정대를 이끌다), a rescue expedition(구조 원정). journey(여정)·exploration(2712)과 유의어.",
+  "syn": ["journey(여정)", "exploration(탐험)", "voyage(항해)"],
+  "anti": [],
+  "idiom": ["go on an expedition(원정을 떠나다)", "a scientific expedition(과학 탐사대)"],
+  "colloc": ["an Antarctic expedition(남극 탐험)", "lead an expedition(원정대를 이끌다)", "a scientific expedition(과학 탐사)"],
+  "ex_add": "The team set off on an expedition to the South Pole.  (expedition=탐험)"
+ },
+ {
+  "num": "2709",
+  "hw": "expense",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "달아 치러 냄 -> '비용·경비 / 희생'.",
+  "senses": [
+   "1) 비용·경비·지출",
+   "2) (expenses) 제반 경비·필요 경비",
+   "3) (at the expense of) ~을 희생하여"
+  ],
+  "etym": "라틴어 expendere = ex-(밖으로) + pendere(달다·치르다)의 명사형 expensa -> '저울에 달아 (돈을) 치러 냄'. pendere(달다·지불하다)는 spend(쓰다)·pension(연금)·dependent(2576)·suspend(매달다)·append(덧붙이다)·expensive의 뿌리.",
+  "deriv": "ex-(밖으로) + pendere(치르다) -> 'expense'. '치러 냄 -> 비용·경비(at great expense, 막대한 비용으로)' -> 'expenses(제반 경비)' -> 'at the expense of(~을 희생하여)'. 한국 학습자 핵심: pendere(달다·치르다) 대가족 — spend·pension·dependent(2576)·suspend·append·expensive·expenditure! at the expense of(~을 희생하여 — 빈출!), travel expenses(여비), living expenses(생활비), spare no expense(비용을 아끼지 않다), at sb's expense(~의 비용/희생으로). cost(비용)·expenditure(지출)와 유의어. 반대 income(수입)·earnings(소득).",
+  "syn": ["cost(비용)", "expenditure(지출)", "outlay(경비)"],
+  "anti": ["income(수입)", "earnings(소득)", "profit(이익)"],
+  "idiom": ["at the expense of(~을 희생하여)", "spare no expense(비용을 아끼지 않다)", "at sb's expense(~의 비용/희생으로)"],
+  "colloc": ["travel expenses(여비)", "living expenses(생활비)", "at great expense(막대한 비용으로)"],
+  "ex_add": "He finished the project early, but at the expense of his health.  (at the expense of=~을 희생하여)"
+ },
+ {
+  "num": "2710",
+  "hw": "expertise",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "겪어 얻은 -> '전문 지식·전문 기술'.",
+  "senses": [
+   "1) 전문 지식·전문성",
+   "2) 전문 기술·노하우",
+   "3) (전문가의) 조예"
+  ],
+  "etym": "프랑스어 expertise <- expert(숙달된) <- 라틴어 expertus(경험으로 익힌) <- experiri(겪어 보다·시도하다). '직접 겪어(experiri) 익힌 솜씨'가 핵심. experiri는 experience(경험)·experiment(실험)·expert·peril(위험)의 뿌리.",
+  "deriv": "experiri(겪어 보다) -> expert -> 'expertise'. '겪어 익힌 전문성 -> 전문 지식·기술(technical expertise)'. 한국 학습자 핵심: experiri(겪다) 갈래 — experience(경험)·experiment(실험)·expert·peril(위험=위태로운 시도)·experienced! 발음 [ˌekspɜːrˈtiːz] '엑스퍼티즈'(끝이 -tise[티즈]) — 강세 끝에! technical expertise(기술 전문성), have expertise in(~에 전문성이 있다), professional expertise(전문 지식), draw on sb's expertise(~의 전문성을 활용하다). know-how(노하우)·proficiency(능숙함)와 유의어. 반대 ignorance(무지)·inexperience(미숙).",
+  "syn": ["know-how(노하우)", "proficiency(능숙함)", "mastery(숙달)"],
+  "anti": ["ignorance(무지)", "inexperience(미숙)", "incompetence(무능)"],
+  "idiom": ["have expertise in(~에 전문성이 있다)", "draw on expertise(전문성을 활용하다)"],
+  "colloc": ["technical expertise(기술 전문성)", "professional expertise(전문 지식)", "have expertise in(~에 정통하다)"],
+  "ex_add": "We need someone with expertise in computer security.  (expertise=전문 지식)"
+ },
+ {
+  "num": "2711",
+  "hw": "exploit",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "끝까지 펼쳐 쓰다 -> '활용하다 / 착취하다 / 위업'.",
+  "senses": [
+   "1) (자원·기회를) 활용하다·이용하다",
+   "2) (부당하게) 착취하다·악용하다",
+   "3) 위업·공적(명사)"
+  ],
+  "etym": "라틴어 explicare(펼치다·풀어내다) = ex-(밖으로) + plicare(접다) -> 고대 프랑스어 esploit(성취). '접힌 것을 끝까지 펼쳐 활용함'이 핵심. plicare(접다)는 complicated(2453)·apply·imply·display(2609)·explicit의 거대한 뿌리.",
+  "deriv": "ex-(밖으로) + plicare(접다) -> 'exploit'. '끝까지 펼쳐 쓰다 -> 활용하다(exploit resources)' -> 부정적 '부당하게 짜내다 -> 착취하다(exploit workers)' -> 명사 '위업(heroic exploits, 영웅적 공적)'. 한국 학습자 핵심: plicare(접다) 대가족 — complicated(2453)·apply·imply·reply·display(2609)·explicit·complex(2452)·duplicate! 명사·동사 강세 다름(EXploit 위업 / exPLOIT 이용하다). exploit a weakness(약점을 이용하다), exploit natural resources(천연자원을 개발하다). utilize(활용하다)·take advantage of(이용하다)와 유의어.",
+  "syn": ["utilize(활용하다)", "take advantage of(이용하다)", "abuse(악용하다)"],
+  "anti": ["neglect(방치하다)", "waste(허비하다)"],
+  "idiom": ["exploit a weakness(약점을 이용하다)", "heroic exploits(영웅적 위업)"],
+  "colloc": ["exploit resources(자원을 활용하다)", "exploit workers(노동자를 착취하다)", "ruthlessly exploit(무자비하게 착취하다)"],
+  "ex_add": "The company was accused of exploiting its workers.  (exploit=착취하다)"
+ },
+ {
+  "num": "2712",
+  "hw": "exploration",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "샅샅이 살핌 -> '탐험·탐사·탐구'.",
+  "senses": [
+   "1) (미지의 땅) 탐험·탐사",
+   "2) (자원) 탐사·시추",
+   "3) (주제의) 탐구·고찰"
+  ],
+  "etym": "라틴어 explorare(살펴 찾다·정찰하다)의 명사형 exploratio. ex-(밖으로) + plorare(외치다, 사냥에서 짐승을 찾아 외친 데서)로 보며, '구석구석 찾아다님'이 핵심. explore(탐험하다)·explorer(탐험가)가 가족.",
+  "deriv": "explorare(찾아 살피다) -> explore -> 'exploration'. '샅샅이 살핌 -> 탐험·탐사(space exploration, 우주 탐사)' -> 자원 '탐사(oil exploration)' -> 주제 '탐구(an exploration of the theme)'. 한국 학습자 핵심: explore(탐험하다)·explorer(탐험가)·exploration이 한 가족! space exploration(우주 탐사), oil/gas exploration(석유·가스 탐사), exploration of(~에 대한 탐구), a voyage of exploration(탐험 항해). investigation(조사)·discovery(발견)와 유의어. expedition(2708, 원정대)과 비교 — exploration은 '탐사 행위'.",
+  "syn": ["investigation(조사)", "discovery(발견)", "survey(탐사)"],
+  "anti": [],
+  "idiom": ["space exploration(우주 탐사)", "a voyage of exploration(탐험 항해)"],
+  "colloc": ["space exploration(우주 탐사)", "oil exploration(석유 탐사)", "exploration of(~에 대한 탐구)"],
+  "ex_add": "Space exploration has greatly advanced our knowledge.  (exploration=탐사)"
+ },
+ {
+  "num": "2713",
+  "hw": "expose",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "밖에 내놓다 -> '노출시키다·드러내다·폭로하다'.",
+  "senses": [
+   "1) (위험·환경에) 노출시키다",
+   "2) (숨은 것을) 드러내다·폭로하다",
+   "3) (be exposed to) ~을 접하게 되다"
+  ],
+  "etym": "라틴어 exponere = ex-(밖으로) + ponere(놓다) -> 프랑스어 poser를 거쳐 expose. '밖에 내놓아 드러냄'이 핵심. ponere(놓다)는 expose·exposure(2714)·compose(2455)·component(2454)·deposit(2577)·propose·oppose의 거대한 뿌리.",
+  "deriv": "ex-(밖으로) + ponere(놓다) -> 'expose'. '밖에 내놓다 -> 노출시키다(expose skin to the sun)' -> '숨은 것을 드러내다·폭로하다(expose corruption)' -> 'be exposed to(~에 노출되다·접하다)'. 한국 학습자 핵심: ponere(놓다) 대가족 — expose·exposure(2714)·compose(2455)·component(2454)·deposit(2577)·propose·oppose·postpone! be exposed to(~에 노출되다/~을 접하다 — 빈출!), expose sb to(~를 ...에 노출시키다), expose the truth(진실을 폭로하다). reveal(드러내다)·uncover(밝혀내다)와 유의어. 반대 conceal(숨기다)·protect(보호하다).",
+  "syn": ["reveal(드러내다)", "uncover(폭로하다)", "disclose(밝히다)"],
+  "anti": ["conceal(숨기다)", "protect(보호하다)", "cover(가리다)"],
+  "idiom": ["be exposed to(~에 노출되다)", "expose the truth(진실을 폭로하다)"],
+  "colloc": ["expose to(~에 노출시키다)", "expose corruption(부패를 폭로하다)", "be exposed to risk(위험에 노출되다)"],
+  "ex_add": "Children should not be exposed to violent images.  (expose to=~에 노출시키다)"
+ },
+ {
+  "num": "2714",
+  "hw": "exposure",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "드러남 -> '노출 / 폭로 / (매체) 노출'.",
+  "senses": [
+   "1) (위험·환경에의) 노출",
+   "2) 폭로·적발",
+   "3) (매체) 노출·알려짐 / (사진) 노출"
+  ],
+  "etym": "expose(노출시키다, 2713)의 명사형. 라틴어 ex-(밖으로) + ponere(놓다) 뿌리. '밖에 드러나 있음'이 핵심. compose(2455)·component(2454)·deposit(2577)과 한 ponere 갈래.",
+  "deriv": "ex-(밖으로) + ponere(놓다) -> expose(2713) -> 'exposure'. '드러남 -> 노출(exposure to sunlight, 햇빛 노출)' -> '폭로(media exposure of the scandal)' -> '매체 노출(get media exposure)·사진 노출'. 한국 학습자 핵심: ponere(놓다) 대가족 — expose(2713)·compose(2455)·component(2454)·deposit(2577)·propose·oppose! exposure to(~에의 노출 — 빈출!), media exposure(언론 노출), overexposure(과다 노출), die of exposure(저체온증으로 죽다). disclosure(폭로)·publicity(매체 노출)와 유의어.",
+  "syn": ["disclosure(폭로)", "publicity(매체 노출)", "contact(접촉)"],
+  "anti": ["protection(보호)", "concealment(은폐)"],
+  "idiom": ["exposure to(~에의 노출)", "media exposure(언론 노출)", "die of exposure(저체온증으로 죽다)"],
+  "colloc": ["exposure to sunlight(햇빛 노출)", "media exposure(언론 노출)", "prolonged exposure(장기간 노출)"],
+  "ex_add": "Too much exposure to the sun can damage your skin.  (exposure=노출)"
+ },
+ {
+  "num": "2715",
+  "hw": "extend",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "밖으로 뻗다 -> '늘리다·연장하다·확장하다·뻗다'.",
+  "senses": [
+   "1) (기간을) 연장하다·(범위를) 확대하다",
+   "2) (공간적으로) 뻗다·이어지다",
+   "3) (손·도움을) 내밀다·베풀다"
+  ],
+  "etym": "라틴어 extendere = ex-(밖으로) + tendere(뻗다·펴다) -> '밖으로 펴서 늘림'. tendere(뻗다)는 extension(2716)·extensive(2717)·extent(2719)·tend(향하다)·tension(긴장)·pretend(가장하다)·intend(의도하다)·attend(참석하다)·contend(다투다)의 거대한 뿌리.",
+  "deriv": "ex-(밖으로) + tendere(뻗다) -> 'extend'. '밖으로 뻗다 -> 기간을 연장하다(extend the deadline)·범위를 확대하다(extend the search)' -> 공간적으로 '뻗다(the road extends for miles)' -> '손·도움을 내밀다(extend a warm welcome)'. 한국 학습자 핵심: tendere(뻗다) 대가족 — extension(2716)·extensive(2717)·extent(2719)·tend·tension·pretend·intend·attend·contend·tendency! extend an invitation(초대하다), extend a deadline(기한을 연장하다), far-extending(멀리 뻗은). lengthen(늘리다)·prolong(연장하다)·expand(확장하다)과 유의어. 반대 shorten(줄이다)·reduce(축소하다).",
+  "syn": ["lengthen(늘리다)", "prolong(연장하다)", "expand(확장하다)"],
+  "anti": ["shorten(줄이다)", "reduce(축소하다)", "curtail(단축하다)"],
+  "idiom": ["extend an invitation(초대하다)", "extend a welcome(환영하다)", "extend a deadline(기한을 연장하다)"],
+  "colloc": ["extend the deadline(기한을 연장하다)", "extend a contract(계약을 연장하다)", "extend the range(범위를 넓히다)"],
+  "ex_add": "They decided to extend their stay by another week.  (extend=연장하다)"
+ },
+ {
+  "num": "2716",
+  "hw": "extension",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "뻗어 늘림 -> '연장·확장 / 증축 / 내선'.",
+  "senses": [
+   "1) 연장·확대·확장",
+   "2) (건물) 증축·증설 부분",
+   "3) (전화) 내선 (번호) / (마감의) 연기"
+  ],
+  "etym": "라틴어 extendere(뻗다, 2715)의 명사형 extensio = ex-(밖으로) + tendere(뻗다). extend(2715)·extensive(2717)·extent(2719)와 한 tendere 갈래. '밖으로 뻗어 늘린 것'이 핵심.",
+  "deriv": "ex-(밖으로) + tendere(뻗다) -> extend(2715) -> 'extension'. '뻗어 늘림 -> 연장·확장(an extension of the deadline)' -> 건물 '증축(build an extension)' -> 전화 '내선(extension 204)'. 한국 학습자 핵심: tendere(뻗다) 대가족 — extend(2715)·extensive(2717)·extent(2719)·tension·pretend·intend·attend·tendency! a deadline extension(기한 연장), an extension cord(연장 코드), hair extensions(붙임 머리), by extension(더 나아가·확대 해석하면), a file extension(파일 확장자). expansion(2706)·prolongation(연장)과 유의어. 반대 reduction(축소).",
+  "syn": ["expansion(확장)", "prolongation(연장)", "addition(증설)"],
+  "anti": ["reduction(축소)", "shortening(단축)"],
+  "idiom": ["by extension(더 나아가)", "an extension cord(연장 코드)", "a file extension(파일 확장자)"],
+  "colloc": ["a deadline extension(기한 연장)", "build an extension(증축하다)", "an extension of(~의 연장)"],
+  "ex_add": "She asked for an extension to finish the report.  (extension=연장)"
+ },
+ {
+  "num": "2717",
+  "hw": "extensive",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "널리 뻗은 -> '광범위한·대규모의·폭넓은'.",
+  "senses": [
+   "1) 광범위한·폭넓은",
+   "2) 대규모의·막대한",
+   "3) (피해·지식이) 방대한"
+  ],
+  "etym": "라틴어 extensus(뻗은) <- extendere(뻗다, 2715) = ex-(밖으로) + tendere(뻗다). '넓게 뻗어 있는'이 핵심. extend(2715)·extension(2716)·extent(2719)와 한 tendere 갈래.",
+  "deriv": "ex-(밖으로) + tendere(뻗다) -> 'extensive'. '널리 뻗은 -> 광범위한·폭넓은(extensive research, 광범위한 연구)' -> '대규모의·방대한(extensive damage, 막대한 피해)'. 한국 학습자 핵심: tendere(뻗다) 대가족 — extend(2715)·extension(2716)·extensively(2718)·extent(2719)·tension·intend·attend! extensive knowledge(해박한 지식), extensive experience(폭넓은 경험), extensive coverage(폭넓은 보도, 2513), extensive damage(막대한 피해). comprehensive(포괄적인, 2458)·widespread(널리 퍼진)·vast(방대한)와 유의어. 반대 limited(제한된)·narrow(좁은).",
+  "syn": ["comprehensive(포괄적인)", "widespread(널리 퍼진)", "vast(방대한)"],
+  "anti": ["limited(제한된)", "narrow(좁은)", "minimal(최소의)"],
+  "idiom": ["extensive damage(막대한 피해)", "extensive knowledge(해박한 지식)"],
+  "colloc": ["extensive research(광범위한 연구)", "extensive experience(폭넓은 경험)", "extensive damage(막대한 피해)"],
+  "ex_add": "The reporter has extensive knowledge of the region.  (extensive=광범위한)"
+ },
+ {
+  "num": "2718",
+  "hw": "extensively",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'광범위하게·널리·폭넓게'.",
+  "senses": [
+   "1) 광범위하게·널리",
+   "2) 폭넓게·대대적으로",
+   "3) 많이·자주"
+  ],
+  "etym": "extensive(광범위한, 2717) + -ly. 라틴어 ex-(밖으로) + tendere(뻗다) 뿌리. '널리 뻗쳐'가 핵심. extend(2715)·extension(2716)·extent(2719)와 한 tendere 갈래.",
+  "deriv": "extensive(2717) -> 'extensively'. '널리 뻗쳐 -> 광범위하게(travel extensively, 여기저기 두루 여행하다)' -> '대대적으로(be used extensively, 널리 쓰이다)'. 한국 학습자 핵심: tendere(뻗다) 대가족 — extend(2715)·extension(2716)·extensive(2717)·extent(2719)·tension·intend! write extensively about(~에 대해 폭넓게 쓰다), be extensively studied(폭넓게 연구되다), travel extensively(두루 여행하다), extensively used(널리 사용되는). widely(널리)·thoroughly(철저히)와 유의어. extensive(2717) 가족. 반대 minimally(최소한으로)·narrowly(좁게).",
+  "syn": ["widely(널리)", "thoroughly(철저히)", "broadly(폭넓게)"],
+  "anti": ["minimally(최소한으로)", "narrowly(좁게)", "sparingly(아껴서)"],
+  "idiom": ["travel extensively(두루 여행하다)", "extensively used(널리 사용되는)"],
+  "colloc": ["used extensively(널리 사용되는)", "travel extensively(폭넓게 여행하다)", "extensively studied(폭넓게 연구된)"],
+  "ex_add": "The topic has been extensively researched over the years.  (extensively=광범위하게)"
+ },
+ {
+  "num": "2719",
+  "hw": "extent",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "뻗은 정도 -> '정도·범위·규모'.",
+  "senses": [
+   "1) 정도·(~한) 만큼",
+   "2) 범위·규모·크기",
+   "3) (to a ~ extent) ~한 정도까지"
+  ],
+  "etym": "라틴어 extendere(뻗다, 2715)의 과거분사 extentus -> '뻗어 미친 정도'. ex-(밖으로) + tendere(뻗다) 뿌리. extend(2715)·extension(2716)·extensive(2717)와 한 갈래.",
+  "deriv": "ex-(밖으로) + tendere(뻗다) -> 'extent'. '뻗어 미친 정도 -> 정도·범위(the extent of the damage, 피해 정도)'. 한국 학습자 핵심: tendere(뻗다) 대가족 — extend(2715)·extension(2716)·extensive(2717)·extent! to some extent(어느 정도), to a large extent(상당 부분), to what extent(어느 정도까지), to the extent that(~할 정도로 / ~하는 한), the full extent of(~의 전모). 'to ~ extent(~한 정도로)' 패턴이 핵심 표현! degree(정도)·scale(규모)·scope(범위)와 유의어.",
+  "syn": ["degree(정도)", "scale(규모)", "scope(범위)"],
+  "anti": [],
+  "idiom": ["to some extent(어느 정도)", "to a large extent(상당 부분)", "to what extent(어느 정도까지)", "to the extent that(~할 정도로)"],
+  "colloc": ["the extent of(~의 정도)", "to some extent(어느 정도)", "the full extent(전모)"],
+  "ex_add": "We were shocked by the extent of the damage.  (extent=정도)"
+ },
+ {
+  "num": "2720",
+  "hw": "external",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "바깥의 -> '외부의·대외적인'.",
+  "senses": [
+   "1) 외부의·바깥의",
+   "2) 대외적인·외래의",
+   "3) (의학) 외용의"
+  ],
+  "etym": "라틴어 externus(바깥의) <- exter(밖의) <- ex(밖). '안이 아닌 밖에 있는'이 핵심. exter(밖)는 exterior(외부)·extreme(2722)·exotic(2705)의 갈래. internal(내부의)과 정반대 짝.",
+  "deriv": "exter(밖) -> externus -> 'external'. '바깥의 -> 외부의(external factors, 외부 요인)' -> '대외적인(external affairs, 대외 문제)' -> 의학 '외용의(for external use only, 외용으로만)'. 한국 학습자 핵심: exter(밖) 갈래 — exterior(외부)·extreme(2722)·exotic(2705)·external! external factors(외부 요인), an external hard drive(외장 하드), external pressure(외압), for external use only(외용 전용). outer(바깥의)·outside(외부의)와 유의어. 반대 internal(내부의)·inner(안의). exterior(외관)와 구별 — external은 더 추상적.",
+  "syn": ["outer(바깥의)", "outside(외부의)", "outward(외형의)"],
+  "anti": ["internal(내부의)", "inner(안의)", "domestic(국내의)"],
+  "idiom": ["external factors(외부 요인)", "for external use only(외용 전용)"],
+  "colloc": ["external factors(외부 요인)", "external pressure(외압)", "an external hard drive(외장 하드)"],
+  "ex_add": "The decision was influenced by external factors.  (external=외부의)"
+ },
+ {
+  "num": "2721",
+  "hw": "extraordinary",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "보통 밖의 -> '비범한·놀라운·특별한'.",
+  "senses": [
+   "1) 비범한·놀라운·대단한",
+   "2) 보통이 아닌·이례적인",
+   "3) (직책이) 특임의·임시의"
+  ],
+  "etym": "라틴어 extraordinarius = extra(밖에) + ordinarius(보통의) <- ordo(순서·질서). '보통의 차례(ordo) 밖에 있는'이 핵심. ordo(질서)는 ordinary(보통의)·order(질서)·disorder(2608)·coordinate(조정하다)의 뿌리.",
+  "deriv": "extra(밖) + ordo(질서) -> 'extraordinary'. '보통의 범위 밖 -> 비범한·놀라운(an extraordinary achievement, 놀라운 업적)' -> '이례적인(extraordinary circumstances, 이례적 상황)' -> '특임의(an ambassador extraordinary)'. 한국 학습자 핵심: ordo(질서) 갈래 — ordinary(보통의)·order·disorder(2608)·coordinate·subordinate·ordinal! ordinary(보통의)에 extra(밖에)를 붙여 '보통 밖 = 비범한'! 발음 [ɪkˈstrɔːrd(ə)neri] '익스트로디너리'. extraordinary talent(비범한 재능), quite extraordinary(아주 놀라운). remarkable(놀라운)·exceptional(이례적인)과 유의어. 반대 ordinary(평범한)·commonplace(흔한).",
+  "syn": ["remarkable(놀라운)", "exceptional(이례적인)", "phenomenal(경이로운)"],
+  "anti": ["ordinary(평범한)", "commonplace(흔한)", "unremarkable(평범한)"],
+  "idiom": ["extraordinary circumstances(이례적 상황)", "quite extraordinary(아주 놀라운)"],
+  "colloc": ["an extraordinary achievement(놀라운 업적)", "extraordinary talent(비범한 재능)", "an extraordinary story(놀라운 이야기)"],
+  "ex_add": "She has an extraordinary talent for languages.  (extraordinary=비범한)"
+ },
+ {
+  "num": "2722",
+  "hw": "extreme",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "맨 바깥의 -> '극단적인·극심한 / 극단'.",
+  "senses": [
+   "1) 극단적인·과격한",
+   "2) 극심한·지극한",
+   "3) 극단·극한(명사)"
+  ],
+  "etym": "라틴어 extremus(가장 바깥의·맨 끝의) <- exter(밖의)의 최상급. '가장 바깥 끝에 있는'이 핵심. exter(밖)는 external(2720)·exterior·exotic(2705)의 갈래.",
+  "deriv": "exter(밖) -> extremus(맨 끝) -> 'extreme'. '맨 바깥의 -> 극단적인(extreme views, 극단적 견해)' -> '극심한(extreme heat, 폭염)' -> 명사 '극단(go to extremes, 극단으로 치닫다)'. 한국 학습자 핵심: exter(밖) 갈래 — external(2720)·exterior·exotic(2705)·extremity(말단)·extremist(극단주의자)! extreme weather(이상 기후), extreme sports(익스트림 스포츠), in the extreme(극도로), go to extremes(극단으로 가다), extremes of temperature(극단적 기온차). severe(심한)·drastic(과격한)·radical(급진적인)과 유의어. 반대 moderate(온건한)·mild(가벼운).",
+  "syn": ["severe(극심한)", "drastic(과격한)", "radical(급진적인)"],
+  "anti": ["moderate(온건한)", "mild(가벼운)", "average(보통의)"],
+  "idiom": ["go to extremes(극단으로 치닫다)", "in the extreme(극도로)", "extreme sports(익스트림 스포츠)"],
+  "colloc": ["extreme weather(극단적 기후)", "extreme views(극단적 견해)", "extreme caution(극도의 주의)"],
+  "ex_add": "The desert has extreme temperatures, day and night.  (extreme=극심한)"
+ },
+ {
+  "num": "2723",
+  "hw": "fabric",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "짜낸 것 -> '직물·천 / 구조·뼈대'.",
+  "senses": [
+   "1) 직물·천·옷감",
+   "2) (건물의) 골조·구조",
+   "3) (사회의) 근간·기본 틀"
+  ],
+  "etym": "라틴어 fabrica(공방·제작물) <- faber(장인·대장장이). '장인(faber)이 짜 만든 것'이 핵심. fabricate(제작하다·날조하다)·forge(벼리다·위조하다)가 한 faber 갈래.",
+  "deriv": "faber(장인) -> fabrica -> 'fabric'. '짜낸 것 -> 직물·천(cotton fabric, 면직물)' -> 건물의 '골조' -> 사회의 '근간(the fabric of society, 사회의 근간)'. 한국 학습자 핵심: faber(장인) 갈래 — fabricate(조작하다=만들어 내다)·forge(단조하다/위조하다)·fabrication(날조)! the fabric of society(사회 구조), woven fabric(직조 천), synthetic fabric(합성 섬유), the social fabric(사회적 근간). cloth(천)·textile(직물)·material(소재)과 유의어.",
+  "syn": ["cloth(천)", "textile(직물)", "material(소재)"],
+  "anti": [],
+  "idiom": ["the fabric of society(사회의 근간)", "the social fabric(사회적 구조)"],
+  "colloc": ["cotton fabric(면직물)", "the fabric of society(사회의 근간)", "synthetic fabric(합성 섬유)"],
+  "ex_add": "The dress was made from a soft silk fabric.  (fabric=직물)"
+ },
+ {
+  "num": "2724",
+  "hw": "fabulous",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "이야기 같은 -> '굉장한·멋진 / 믿기 힘든'.",
+  "senses": [
+   "1) 굉장한·멋진·끝내주는",
+   "2) 엄청난·믿기 힘든",
+   "3) 전설·우화 속의"
+  ],
+  "etym": "라틴어 fabulosus(이야기에 나오는) <- fabula(이야기·우화) <- fari(말하다). '이야기(fabula)에나 나올 법한 -> 굉장한'이 핵심. fari(말하다)는 fable(우화)·fame(2731)·fate(운명)·infant(말 못 하는->유아)·preface(머리말)의 뿌리.",
+  "deriv": "fari(말하다) -> fabula(이야기) -> 'fabulous'. '이야기 속 같은 -> 믿기 힘든·엄청난(fabulous wealth, 엄청난 부)' -> 구어 '굉장한·멋진(You look fabulous!, 너무 멋져!)'. 한국 학습자 핵심: fari(말하다) 갈래 — fable(우화)·fame(명성, 2731)·famous·fate(운명)·infant(유아)·preface·confess·fabulous! a fabulous party(끝내주는 파티), fabulously wealthy(엄청나게 부유한), look fabulous(아주 멋져 보이다). wonderful(멋진)·marvelous(놀라운)·incredible(믿기 힘든)과 유의어. 반대 terrible(끔찍한)·ordinary(평범한).",
+  "syn": ["wonderful(멋진)", "marvelous(놀라운)", "incredible(믿기 힘든)"],
+  "anti": ["terrible(끔찍한)", "ordinary(평범한)", "dreadful(형편없는)"],
+  "idiom": ["look fabulous(아주 멋져 보이다)", "fabulously wealthy(엄청나게 부유한)"],
+  "colloc": ["a fabulous time(끝내주는 시간)", "fabulous wealth(엄청난 부)", "look fabulous(멋져 보이다)"],
+  "ex_add": "We had a fabulous time at the beach.  (fabulous=굉장한)"
+ },
+ {
+  "num": "2725",
+  "hw": "facility",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "하기 쉽게 해 주는 것 -> '시설 / 기능 / 재능'.",
+  "senses": [
+   "1) (보통 복수) 시설·설비",
+   "2) (장치·서비스의) 기능",
+   "3) (타고난) 재능·솜씨"
+  ],
+  "etym": "라틴어 facilitas(쉬움) <- facilis(하기 쉬운) <- facere(하다·만들다). '일을 쉽게(facere) 해 주는 것'이 핵심. facere(하다)는 facilitate(촉진하다)·faculty(2726)·facile(손쉬운)·difficult(어려운)·efficient(2645)의 거대한 뿌리.",
+  "deriv": "facere(하다) -> facilis(쉬운) -> 'facility'. '쉽게 해 주는 것 -> 시설·설비(sports facilities, 체육 시설)' -> '기능(a search facility)' -> '타고난 재능(a facility for languages, 어학 재능)'. 한국 학습자 핵심: facere(하다) 대가족 — facilitate(용이하게 하다)·faculty(2726)·facile·difficult·efficient(2645)·fact·factory! 보통 복수 facilities(시설)! medical facilities(의료 시설), production facility(생산 시설), facilities for the disabled(장애인 편의 시설). amenities(편의 시설)·equipment(2677, 장비)과 유의어.",
+  "syn": ["amenities(편의 시설)", "equipment(설비)", "aptitude(재능)"],
+  "anti": [],
+  "idiom": ["sports facilities(체육 시설)", "a facility for(~에 대한 재능)"],
+  "colloc": ["medical facilities(의료 시설)", "sports facilities(체육 시설)", "a research facility(연구 시설)"],
+  "ex_add": "The hotel has excellent facilities for families.  (facility=시설)"
+ },
+ {
+  "num": "2726",
+  "hw": "faculty",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "할 수 있는 힘 -> '능력 / (대학) 학부·교수진'.",
+  "senses": [
+   "1) (타고난) 능력·기능",
+   "2) (대학의) 학부",
+   "3) (미) (학부의) 교수진·교직원"
+  ],
+  "etym": "라틴어 facultas(능력·쉬움) <- facilis(하기 쉬운) <- facere(하다). '무언가를 해낼 수 있는 힘'이 핵심. facility(2725)·facilitate·facile와 한 facere 갈래. 대학의 '학부'는 '특정 능력을 가르치는 부문'에서.",
+  "deriv": "facere(하다) -> facultas -> 'faculty'. '해낼 수 있는 힘 -> 능력·기능(mental faculties, 지적 능력)' -> 대학의 '학부(the Faculty of Law, 법학부)' -> (미) '교수진(faculty meeting, 교수 회의)'. 한국 학습자 핵심: facere(하다) 대가족 — facility(2725)·facilitate·facile·difficult·efficient(2645)·fact·affect! the faculty of speech(언어 능력), one's mental faculties(정신 능력), a faculty member(교수진의 일원), the Arts Faculty(인문학부). ability(능력)·department(학부)와 유의어 — 영국은 '학부', 미국은 '교수진'을 흔히 뜻함.",
+  "syn": ["ability(능력)", "capacity(역량)", "department(학부)"],
+  "anti": [],
+  "idiom": ["mental faculties(지적 능력)", "a faculty member(교수진의 일원)", "the faculty of speech(언어 능력)"],
+  "colloc": ["mental faculties(정신 능력)", "a faculty member(교직원)", "the law faculty(법학부)"],
+  "ex_add": "Despite his age, he still has all his mental faculties.  (faculty=능력)"
+ },
+ {
+  "num": "2727",
+  "hw": "failed",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "실패로 끝난 -> '실패한·실패로 돌아간'.",
+  "senses": [
+   "1) 실패한·실패로 끝난",
+   "2) (시도가) 무산된",
+   "3) (국가·제도가) 제 기능을 못 하는"
+  ],
+  "etym": "fail(실패하다)의 과거분사. fail은 라틴어 fallere(속이다·어긋나다). '기대가 어긋나 못 이룸'이 핵심. fallere(어긋나다)는 failure(2728)·fault(2734)·false(거짓의)·fallacy(오류)·default(불이행)의 뿌리.",
+  "deriv": "fallere(어긋나다) -> fail -> 'failed(실패한)'. '실패로 끝난(a failed attempt, 실패한 시도)' -> '(제도가) 제 기능을 못 하는(a failed state, 실패 국가)'. 한국 학습자 핵심: fallere(어긋나다) 갈래 — fail·failure(2728)·fault(2734)·false·fallacy·default·fallible(틀리기 쉬운)! a failed attempt(무산된 시도), a failed marriage(파탄 난 결혼), a failed business(망한 사업), a failed coup(실패한 쿠데타). unsuccessful(성공하지 못한)·abortive(좌절된)와 유의어. 반대 successful(성공한)·thriving(번창하는).",
+  "syn": ["unsuccessful(성공하지 못한)", "abortive(좌절된)", "botched(망친)"],
+  "anti": ["successful(성공한)", "thriving(번창하는)"],
+  "idiom": ["a failed state(실패 국가)", "a failed attempt(무산된 시도)"],
+  "colloc": ["a failed attempt(실패한 시도)", "a failed marriage(파탄 난 결혼)", "a failed business(망한 사업)"],
+  "ex_add": "After several failed attempts, he finally passed the test.  (failed=실패한)"
+ },
+ {
+  "num": "2728",
+  "hw": "failure",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "어긋나 못 이룸 -> '실패 / 고장 / ~하지 않음'.",
+  "senses": [
+   "1) 실패 / 실패작·실패자",
+   "2) (기계·장기의) 고장·기능 상실",
+   "3) (~ to do) ~하지 않음·태만"
+  ],
+  "etym": "라틴어 fallere(어긋나다·속이다)에서 -> 영국법 라틴어 failure. '기대가 어긋나 이루지 못함'이 핵심. fail(실패하다)·failed(2727)·fault(2734)·false와 한 fallere 갈래.",
+  "deriv": "fallere(어긋나다) -> fail -> 'failure'. '못 이룸 -> 실패(end in failure, 실패로 끝나다)' -> '고장(engine failure, 엔진 고장)·기능 상실(heart failure, 심부전)' -> '~하지 않음(failure to comply, 불응)'. 한국 학습자 핵심: fallere(어긋나다) 갈래 — fail·failed(2727)·fault(2734)·false·fallacy·default! failure to do(~하지 못함/안 함 — 빈출 구문!), a complete failure(완전한 실패), power failure(정전), crop failure(흉작), Failure is not an option(실패는 용납 안 된다). 반대 success(성공)·achievement(성취).",
+  "syn": ["defeat(패배)", "breakdown(고장)", "collapse(붕괴)"],
+  "anti": ["success(성공)", "achievement(성취)", "triumph(승리)"],
+  "idiom": ["failure to do(~하지 않음)", "end in failure(실패로 끝나다)", "Failure is not an option(실패란 없다)"],
+  "colloc": ["a complete failure(완전한 실패)", "heart failure(심부전)", "power failure(정전)"],
+  "ex_add": "His business ended in complete failure.  (failure=실패)"
+ },
+ {
+  "num": "2729",
+  "hw": "faith",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "믿음 -> '신뢰·신념 / 신앙'.",
+  "senses": [
+   "1) 신뢰·믿음",
+   "2) 신앙·종교",
+   "3) 신념·확신"
+  ],
+  "etym": "라틴어 fides(믿음·신의) <- fidere(믿다) -> 고대 프랑스어 feid -> 'faith'. '굳게 믿음'이 핵심. fides(믿음)는 confidence(자신감, 2468)·confident·fidelity(충실)·fiancé(약혼자)·infidel(불신자)의 뿌리.",
+  "deriv": "fides(믿음) -> 'faith'. '믿음 -> 신뢰(have faith in, ~을 믿다)' -> '신앙·종교(the Christian faith)' -> '신념'. 한국 학습자 핵심: fides(믿음) 갈래 — confidence(2468)·confident·confide·fidelity(충실)·fiancé(약혼자)·bona fide(진짜의)·infidel! have faith in(~을 신뢰하다), lose faith(믿음을 잃다), in good faith(선의로), keep faith with(~와의 신의를 지키다), blind faith(맹신), a leap of faith(과감한 믿음). belief(믿음)·trust(신뢰)·confidence(2468)와 유의어. 반대 doubt(의심)·distrust(불신).",
+  "syn": ["belief(믿음)", "trust(신뢰)", "confidence(확신)"],
+  "anti": ["doubt(의심)", "distrust(불신)", "skepticism(회의)"],
+  "idiom": ["have faith in(~을 믿다)", "in good faith(선의로)", "a leap of faith(과감한 믿음)", "blind faith(맹신)"],
+  "colloc": ["have faith(믿음을 갖다)", "lose faith(믿음을 잃다)", "religious faith(종교적 신앙)"],
+  "ex_add": "I have complete faith in your ability to succeed.  (faith=신뢰)"
+ },
+ {
+  "num": "2730",
+  "hw": "fake",
+  "pos": "adj., n., v.",
+  "cefr": "B2",
+  "core": "'가짜의·위조의 / 가짜 / ~인 척하다'.",
+  "senses": [
+   "1) 가짜의·위조의·모조의",
+   "2) 가짜·위조품",
+   "3) (동사) 위조하다 / ~인 척하다"
+  ],
+  "etym": "어원이 불확실하나 18세기 영국 은어 feague/fake(손질하다·속이다)에서 온 것으로 본다. '진짜처럼 꾸며 속임'이 핵심.",
+  "deriv": "(은어) fake(속이다) -> 'fake'. '가짜의(a fake ID, 위조 신분증)' -> 명사 '위조품(a fake)' -> 동사 '위조하다(fake a signature)·~인 척하다(fake an illness, 꾀병을 부리다)'. 한국 학습자 핵심: fake news(가짜 뉴스), a fake smile(억지 미소), fake it till you make it(될 때까지 그런 척하라), a fake ID(위조 신분증), fake fur(인조 모피). counterfeit(위조의)·forged(위조된)·phony(가짜의)와 유의어. 반대 genuine(진짜의)·authentic(진정한)·real(진짜의). 'fake'는 명사·형용사·동사 모두로 쓰이는 만능 단어!",
+  "syn": ["counterfeit(위조의)", "forged(위조된)", "phony(가짜의)"],
+  "anti": ["genuine(진짜의)", "authentic(진정한)", "real(진짜의)"],
+  "idiom": ["fake news(가짜 뉴스)", "fake it till you make it(될 때까지 그런 척하라)", "a fake smile(억지웃음)"],
+  "colloc": ["a fake ID(위조 신분증)", "fake news(가짜 뉴스)", "a fake passport(위조 여권)"],
+  "ex_add": "The painting turned out to be a clever fake.  (fake=가짜)"
+ },
+ {
+  "num": "2731",
+  "hw": "fame",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "널리 회자됨 -> '명성·명예·유명함'.",
+  "senses": [
+   "1) 명성·유명함",
+   "2) 명예·평판",
+   "3) 인기"
+  ],
+  "etym": "라틴어 fama(소문·평판) <- fari(말하다). '사람들 입에 오르내림(fari)'이 핵심. fari(말하다)는 famous(유명한)·infamous(악명 높은)·defame(명예를 훼손하다)·fable(우화)·fabulous(2724)의 뿌리.",
+  "deriv": "fari(말하다) -> fama(소문) -> 'fame'. '널리 회자됨 -> 명성·유명함(rise to fame, 명성을 얻다)'. 한국 학습자 핵심: fari(말하다) 갈래 — famous(유명한)·infamous(악명 높은)·defame(중상하다)·fable·fabulous(2724)·fate·preface! rise to fame(유명해지다), win fame(명성을 얻다), the hall of fame(명예의 전당), fame and fortune(부와 명예), seek fame(명성을 좇다), short-lived fame(반짝 인기). renown(명성)·celebrity(명성)·reputation(평판)과 유의어. 반대 obscurity(무명)·anonymity(익명).",
+  "syn": ["renown(명성)", "celebrity(유명세)", "prominence(명성)"],
+  "anti": ["obscurity(무명)", "anonymity(익명)"],
+  "idiom": ["rise to fame(명성을 얻다)", "the hall of fame(명예의 전당)", "fame and fortune(부와 명예)"],
+  "colloc": ["rise to fame(유명해지다)", "win fame(명성을 얻다)", "international fame(국제적 명성)"],
+  "ex_add": "The young singer rose to fame almost overnight.  (fame=명성)"
+ },
+ {
+  "num": "2732",
+  "hw": "fantasy",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "마음에 그려 보임 -> '공상·환상 / 판타지'.",
+  "senses": [
+   "1) 공상·환상·몽상",
+   "2) (문학·게임) 판타지·환상물",
+   "3) 비현실적 상상"
+  ],
+  "etym": "그리스어 phantasia(마음에 떠오름·상상) <- phainein(보이다·드러내다). '마음속에 그려 보임'이 핵심. phainein(보이다)은 fantastic(환상적인)·phantom(유령)·phenomenon(현상)·emphasis(2660)·phase(국면)의 뿌리.",
+  "deriv": "phainein(보이다) -> phantasia -> 'fantasy'. '마음에 그려 봄 -> 공상·환상(live in a fantasy world)' -> 문학 장르 '판타지(a fantasy novel)'. 한국 학습자 핵심: phainein(보이다) 대가족 — fantastic·phantom(유령)·phenomenon(현상)·emphasis(2660)·emphasize(2661)·phase·diaphanous! a fantasy world(공상의 세계), pure fantasy(순전한 공상), a fantasy novel(판타지 소설), escape into fantasy(공상으로 도피하다), a childhood fantasy(어린 시절의 몽상). dream(꿈)·illusion(환상)·daydream(백일몽)과 유의어. 반대 reality(현실).",
+  "syn": ["dream(꿈)", "illusion(환상)", "daydream(백일몽)"],
+  "anti": ["reality(현실)", "fact(사실)"],
+  "idiom": ["a fantasy world(공상의 세계)", "live in a fantasy(공상에 빠져 살다)", "pure fantasy(순전한 공상)"],
+  "colloc": ["a fantasy world(공상의 세계)", "a fantasy novel(판타지 소설)", "pure fantasy(완전한 공상)"],
+  "ex_add": "He lives in a fantasy world, ignoring real problems.  (fantasy=공상)"
+ },
+ {
+  "num": "2733",
+  "hw": "fare",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "오감의 값 -> '교통 요금 / 잘 지내다·되어 가다'.",
+  "senses": [
+   "1) (교통) 요금·운임",
+   "2) (제공되는) 음식·식단",
+   "3) (동사) (일이) 잘/못 되어 가다·지내다"
+  ],
+  "etym": "고대 영어 faran(가다·여행하다). '길을 감(faran)에 드는 값'이 요금. faran(가다)은 farewell(잘 가, 작별 인사)·welfare(잘 지냄->복지)·thoroughfare(통로)·wayfarer(나그네)·seafaring(항해의)의 뿌리.",
+  "deriv": "faran(가다) -> 'fare'. '오감의 값 -> 교통 요금(a train fare, 기차 요금)' -> '제공되는 음식(simple fare, 소박한 음식)' -> 동사 '되어 가다·지내다(How did you fare?, 어떻게 됐어?)'. 한국 학습자 핵심: faran(가다) 갈래 — farewell(작별)·welfare(복지=잘 지냄)·thoroughfare(주요 도로)·wayfarer(나그네)·seafaring! a bus/taxi/train fare(버스·택시·기차 요금), a full/half fare(정상/반액 요금), fare well/badly(잘/못 되어 가다). fee(2737, 수수료)와 구별 — fare는 '탈것 요금'! charge(요금)와 유의어.",
+  "syn": ["charge(요금)", "fee(요금)", "price(가격)"],
+  "anti": [],
+  "idiom": ["a return fare(왕복 요금)", "fare well(잘 되어 가다)", "bill of fare(메뉴)"],
+  "colloc": ["a train fare(기차 요금)", "a taxi fare(택시 요금)", "a full fare(정상 요금)"],
+  "ex_add": "The bus fare has gone up again this year.  (fare=요금)"
+ },
+ {
+  "num": "2734",
+  "hw": "fault",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "어긋남 -> '잘못·책임 / 결함 / 흠잡다'.",
+  "senses": [
+   "1) 잘못·책임·탓",
+   "2) 결함·흠·결점",
+   "3) (지질) 단층 / (동사) 흠잡다"
+  ],
+  "etym": "라틴어 fallere(어긋나다·속이다) -> 고대 프랑스어 faute -> 'fault'. '어긋남·모자람'이 핵심. fallere(어긋나다)는 fail·failure(2728)·false(거짓의)·fallacy(오류)·default(불이행)의 뿌리. (l은 라틴어 어원을 살린 철자.)",
+  "deriv": "fallere(어긋나다) -> faute -> 'fault'. '어긋남 -> 잘못·책임(It's my fault, 내 탓이야)' -> '결함·흠(a design fault)' -> 지질 '단층(the San Andreas Fault)' / 동사 '흠잡다(can't fault it)'. 한국 학습자 핵심: fallere(어긋나다) 갈래 — fail·failure(2728)·failed(2727)·false·fallacy·default! at fault(잘못이 있는), find fault with(~의 흠을 잡다), through no fault of one's own(자기 잘못이 아닌데도), to a fault(지나칠 정도로, generous to a fault 지나치게 후한). mistake(실수)·flaw(결함)·defect(결함)와 유의어.",
+  "syn": ["mistake(잘못)", "flaw(결함)", "defect(결점)"],
+  "anti": ["merit(장점)", "virtue(미덕)", "strength(강점)"],
+  "idiom": ["at fault(잘못이 있는)", "find fault with(~의 흠을 잡다)", "to a fault(지나칠 정도로)"],
+  "colloc": ["my fault(내 잘못)", "find fault(흠을 잡다)", "a design fault(설계 결함)"],
+  "ex_add": "It wasn't my fault that we missed the train.  (fault=잘못)"
+ },
+ {
+  "num": "2735",
+  "hw": "favor",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "호의를 베풂 -> '호의·부탁 / 편들다·찬성하다'.",
+  "senses": [
+   "1) 호의·친절·부탁",
+   "2) (동사) 편들다·찬성하다·선호하다",
+   "3) (in favor of) ~을 지지하여"
+  ],
+  "etym": "라틴어 favor(호의) <- favere(호의를 보이다·돌보다). '잘 봐주고 편들어 줌'이 핵심. favorite(가장 좋아하는)·favorable(호의적인)이 한 favere 갈래. (영국식 favour.)",
+  "deriv": "favere(호의를 보이다) -> 'favor'. '호의를 베풂 -> 호의·부탁(ask a favor, 부탁하다)' -> 동사 '편들다·선호하다(favor the plan)' -> 'in favor of(~을 지지하여)'. 한국 학습자 핵심: favere(호의) 갈래 — favorite(애호하는)·favorable(유리한)·favoritism(편애)! 영국식 favour. do sb a favor(~의 부탁을 들어주다), ask a favor(부탁하다), in favor of(~에 찬성하여), in sb's favor(~에게 유리하게), return the favor(보답하다), curry favor(비위를 맞추다). prefer(선호하다)·support(지지하다)와 유의어. 반대 oppose(반대하다)·disfavor.",
+  "syn": ["support(지지하다)", "prefer(선호하다)", "kindness(호의)"],
+  "anti": ["oppose(반대하다)", "disfavor(냉대)", "harm(해)"],
+  "idiom": ["do sb a favor(~의 부탁을 들어주다)", "in favor of(~을 지지하여)", "return the favor(보답하다)", "curry favor(비위를 맞추다)"],
+  "colloc": ["ask a favor(부탁하다)", "in favor of(~에 찬성하여)", "do me a favor(부탁 하나 들어줘)"],
+  "ex_add": "Could you do me a favor and watch my bag?  (favor=부탁)"
+ },
+ {
+  "num": "2736",
+  "hw": "feather",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "새의 '깃털'.",
+  "senses": [
+   "1) 깃털·날개털",
+   "2) 깃털 모양의 것",
+   "3) 가벼운·하찮은 것의 비유"
+  ],
+  "etym": "고대 영어 fether(깃). 게르만 계열 토박이말로, 그리스어 pteron(날개, helicopter의 -pter)·라틴어 penna(깃, pen 펜)와 먼 인도유럽 갈래. '새 몸을 덮은 가벼운 깃'이 핵심.",
+  "deriv": "fether(깃) -> 'feather'. '깃털(a bird's feathers)' -> 가벼움·하찮음의 비유. 한국 학습자 핵심: 멀리는 pteron(날개)·penna(깃->pen 펜)와 친척! birds of a feather (flock together)(유유상종), a feather in one's cap(자랑거리·공적), as light as a feather(깃털처럼 가벼운), ruffle sb's feathers(~의 심기를 건드리다), feather one's nest(사복을 채우다). plume(깃 장식)·down(솜털)과 유의어.",
+  "syn": ["plume(깃)", "down(솜털)", "quill(깃대)"],
+  "anti": [],
+  "idiom": ["birds of a feather(유유상종)", "a feather in one's cap(자랑거리)", "as light as a feather(아주 가벼운)", "ruffle sb's feathers(심기를 건드리다)"],
+  "colloc": ["a bird's feathers(새의 깃털)", "a soft feather(부드러운 깃털)", "feather light(깃털처럼 가벼운)"],
+  "ex_add": "The peacock spread its colorful feathers.  (feather=깃털)"
+ },
+ {
+  "num": "2737",
+  "hw": "fee",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "치르는 '요금·수수료·수임료'.",
+  "senses": [
+   "1) (서비스·전문직) 요금·수수료",
+   "2) (가입·입장) 회비·입장료",
+   "3) (전문가) 보수·사례금"
+  ],
+  "etym": "게르만어 fehu(가축·재산) -> 고대 영어 feoh(가축·돈·재산) -> 중세 봉건어 fee(봉토). 옛날 부(富)의 척도였던 '가축(fehu)'에서 '재산·돈->요금'으로. fellow(2741)·feudal(봉건의)이 먼 갈래.",
+  "deriv": "fehu(가축·재산) -> 'fee'. '치르는 돈 -> 요금·수수료(an entrance fee, 입장료)' -> 전문가 '보수(legal fees, 변호사 비용)'. 한국 학습자 핵심: fee는 '서비스·전문직·가입'에 내는 돈 — tuition fees(수업료), a membership fee(회비), a registration fee(등록비), a service fee(수수료), an admission fee(입장료), charge a fee(요금을 매기다). fare(2733, 교통 요금)·charge(요금)·cost(비용)와 구별 — fee는 '전문 서비스·가입'의 대가! 변호사·의사가 받는 돈도 fee.",
+  "syn": ["charge(요금)", "payment(지불금)", "cost(비용)"],
+  "anti": ["refund(환불)"],
+  "idiom": ["a membership fee(회비)", "tuition fees(수업료)", "an entrance fee(입장료)"],
+  "colloc": ["a registration fee(등록비)", "tuition fees(수업료)", "charge a fee(요금을 부과하다)"],
+  "ex_add": "There is a small fee for using the parking lot.  (fee=요금)"
+ },
+ {
+  "num": "2738",
+  "hw": "feed",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "먹이다 -> '먹이다·공급하다 / 사료 / (정보) 피드'.",
+  "senses": [
+   "1) 먹이다·먹이를 주다·부양하다",
+   "2) (재료·정보를) 공급하다·집어넣다",
+   "3) 사료·먹이 / (SNS) 피드"
+  ],
+  "etym": "고대 영어 fedan <- foda(음식) -> 'feed'. '음식(food)을 주다'가 핵심. food(음식)·fodder(꼴·사료)·foster(기르다)가 한 갈래. 과거형 feed-fed-fed(불규칙).",
+  "deriv": "foda(음식) -> fedan -> 'feed'. '먹이다(feed a baby)·부양하다(feed a family)' -> '재료·정보를 공급하다(feed data into a computer)' -> 명사 '사료 / (SNS) 피드(a news feed)'. 한국 학습자 핵심: 과거형 feed-fed-fed(불규칙)! food(음식)·fodder(사료)·foster(양육하다)와 한 갈래! feed on(~을 먹고 살다), feed into(~에 흘러들다), be fed up with(~에 진저리가 나다 — 빈출!), breast-feed(모유를 먹이다), bottle-feed(분유를 먹이다). nourish(영양을 주다)·supply(공급하다)와 유의어. 반대 starve(굶기다).",
+  "syn": ["nourish(영양을 주다)", "supply(공급하다)", "nurture(기르다)"],
+  "anti": ["starve(굶기다)", "deprive(빼앗다)"],
+  "idiom": ["be fed up with(~에 진저리 나다)", "feed on(~을 먹고 살다)", "bite the hand that feeds you(은혜를 원수로 갚다)"],
+  "colloc": ["feed a baby(아기에게 먹이다)", "feed the animals(동물에게 먹이를 주다)", "feed data(데이터를 입력하다)"],
+  "ex_add": "She fed the baby and put him to bed.  (feed=먹이다)"
+ },
+ {
+  "num": "2739",
+  "hw": "feedback",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "되돌아온 반응 -> '피드백·의견·반응'.",
+  "senses": [
+   "1) (반응·평가) 피드백·의견",
+   "2) (시스템) 되먹임",
+   "3) (음향) 하울링"
+  ],
+  "etym": "feed(먹이다·보내다, 2738) + back(되돌아). '내보낸 것이 되돌아옴(feed back)'이 핵심. 본래 공학에서 '출력의 일부가 입력으로 되돌아오는 현상'을 뜻하다가 '반응·의견'으로 넓어졌다.",
+  "deriv": "feed(2738) + back(되돌아) -> 'feedback(되먹임)'. '되돌아온 반응 -> 의견·평가(give feedback, 피드백을 주다)' -> 공학 '되먹임' -> 음향 '하울링(삐 소리)'. 한국 학습자 핵심: feedback은 불가산명사 — a feedback(X), some feedback / a piece of feedback(O)! positive/negative feedback(긍정적/부정적 피드백), constructive feedback(건설적 피드백), give/get/receive feedback(피드백을 주다/받다), customer feedback(고객 의견). response(반응)·input(의견)·comments(논평)와 유의어. feed(2738)·back 합성어.",
+  "syn": ["response(반응)", "input(의견)", "comments(논평)"],
+  "anti": [],
+  "idiom": ["positive feedback(긍정적 피드백)", "constructive feedback(건설적 피드백)"],
+  "colloc": ["give feedback(피드백을 주다)", "positive feedback(긍정적 반응)", "customer feedback(고객 의견)"],
+  "ex_add": "The teacher gave helpful feedback on my essay.  (feedback=피드백)"
+ },
+ {
+  "num": "2740",
+  "hw": "feel",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "'느끼다·만지다 / 느낌·감촉'.",
+  "senses": [
+   "1) (감정·감각을) 느끼다",
+   "2) 만져 보다·더듬다",
+   "3) ~인 것 같다 / 느낌·감촉(명사)"
+  ],
+  "etym": "고대 영어 felan(만지다·지각하다). 게르만 계열 토박이말로, '손으로 만져 알다 / 마음으로 느끼다'가 핵심. 과거형 feel-felt-felt(불규칙). feeling(감정)이 가족.",
+  "deriv": "felan(만지다) -> 'feel'. '느끼다(feel happy)·만지다(feel the fabric)' -> '~인 것 같다(it feels wrong)' -> 명사 '감촉·느낌(the feel of silk)'. 한국 학습자 핵심: 과거형 feel-felt-felt! feel like + 명사/동명사(~하고 싶다, I feel like coffee), feel up to(~할 기운이 나다), feel for(~을 동정하다/더듬어 찾다), feel free to(마음껏 ~하다), get the feel of(~에 익숙해지다), a feel for(~에 대한 감각). sense(감지하다)·perceive(지각하다)·touch(만지다)와 유의어.",
+  "syn": ["sense(감지하다)", "perceive(지각하다)", "touch(만지다)"],
+  "anti": [],
+  "idiom": ["feel like(~하고 싶다)", "feel free to(마음껏 ~하다)", "feel up to(~할 기운이 나다)", "get the feel of(~에 익숙해지다)"],
+  "colloc": ["feel happy(행복을 느끼다)", "feel pain(고통을 느끼다)", "feel like doing(~하고 싶다)"],
+  "ex_add": "I feel like going for a walk this evening.  (feel like=~하고 싶다)"
+ },
+ {
+  "num": "2741",
+  "hw": "fellow",
+  "pos": "n., adj.",
+  "cefr": "B2",
+  "core": "함께하는 사람 -> '동료·녀석 / 동료의'.",
+  "senses": [
+   "1) 동료·동지·동무",
+   "2) (구어) 녀석·사내",
+   "3) (학회) 특별 회원 / (대학) 특별 연구원"
+  ],
+  "etym": "고대 노르드어 felagi(동업자) = fe(돈·재산) + lag(놓음) -> '함께 돈을 모아(fe) 둔(lag) 동업자'. fe(재산)는 fee(2737)와 한 갈래. '재산을 함께 댄 동료'가 핵심.",
+  "deriv": "fe(돈) + lag(놓음) -> felagi -> 'fellow'. '함께 돈을 댄 동업자 -> 동료·동무(fellow workers, 동료들)' -> 구어 '녀석(a nice fellow)' -> 학술 '특별 회원·연구원(a research fellow)'. 한국 학습자 핵심: fe(재산)는 fee(2737) 갈래! 형용사처럼 '동료의' — fellow students(동급생), fellow citizens(동료 시민), a fellow passenger(동승객), fellowship(친목/연구원직/장학금). companion(동료)·colleague(동료)·comrade(동지)와 유의어. (a fellow는 다소 격식 있거나 옛스러운 '남자' 호칭이기도.)",
+  "syn": ["companion(동료)", "colleague(동료)", "comrade(동지)"],
+  "anti": ["stranger(낯선 사람)", "rival(경쟁자)"],
+  "idiom": ["fellow students(동급생)", "fellow citizens(동료 시민)", "a research fellow(연구원)"],
+  "colloc": ["fellow workers(동료들)", "a fellow passenger(동승객)", "fellow students(동급생)"],
+  "ex_add": "He gets along well with his fellow workers.  (fellow=동료의)"
+ }
+]
