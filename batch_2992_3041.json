@@ -1,0 +1,952 @@
+[
+ {
+  "num": "2992",
+  "hw": "loose",
+  "pos": "adj., v.",
+  "cefr": "B2",
+  "core": "풀린 -> '헐거운·느슨한·풀려난'.",
+  "senses": [
+   "1) 헐거운·느슨한·헐렁한",
+   "2) 풀려난·매여 있지 않은",
+   "3) 엄밀하지 않은·대략의 / (동사) 풀다"
+  ],
+  "etym": "고대 노르드어 lauss(풀린·자유로운) <- 게르만어. '단단히 매여 있지 않고 풀린'이 핵심. loosen(느슨하게 하다)·-less(없는)와 한 갈래. lose(잃다)와 철자·발음 혼동 주의!",
+  "deriv": "lauss(풀린) -> 'loose'. '풀린 -> 헐거운(a loose screw, 헐거운 나사)·풀려난(break loose, 풀려나다)' -> '엄밀하지 않은(a loose translation, 대략적 번역)'. 한국 학습자 핵심: loose[luːs](형용사, 헐거운)와 lose[luːz](동사, 잃다)를 철자·발음에서 꼭 구별! come loose(헐거워지다), let loose(풀어 주다/터뜨리다), break loose(풀려나다), at a loose end(빈둥거리는), loose change(잔돈), a loose end(미해결 부분), hang loose(느긋하게 있다). slack(느슨한)·free(2780, 풀린)와 유의어. 반대 tight(꽉 끼는)·fastened(고정된)·secure(단단한).",
+  "syn": ["slack(느슨한)", "free(풀린)", "baggy(헐렁한)"],
+  "anti": ["tight(꽉 끼는)", "fastened(고정된)", "secure(단단한)"],
+  "idiom": ["come loose(헐거워지다)", "let loose(풀어 주다)", "break loose(풀려나다)", "loose ends(미해결 부분)"],
+  "colloc": ["a loose screw(헐거운 나사)", "come loose(헐거워지다)", "loose clothing(헐렁한 옷)"],
+  "ex_add": "One of the buttons on my shirt is loose.  (loose=헐거운)"
+ },
+ {
+  "num": "2993",
+  "hw": "lord",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "빵을 지키는 이 -> '영주·귀족 / 주(主)·하느님'.",
+  "senses": [
+   "1) 영주·군주·귀족",
+   "2) (the Lord) 주·하느님·그리스도",
+   "3) (Lord) 경(卿)(영국 귀족 경칭)"
+  ],
+  "etym": "고대 영어 hlaford = hlaf(빵·loaf) + weard(지키는 사람) -> '빵(hlaf)을 지키고 나눠 주는 집안의 주인'. lady(고대 영어 hlæfdige '빵 반죽하는 여주인')와 짝을 이룬다. loaf(빵 덩이)·ward(보호)와 한 갈래.",
+  "deriv": "hlaf(빵) + weard(지킴) -> hlaford -> 'lord'. '빵을 지키는 집주인 -> 영주·귀족(a feudal lord, 봉건 영주)' -> 종교 '주·하느님(the Lord)' -> 경칭 '경(Lord Byron)'. 한국 학습자 핵심: lord(빵 지키는 이) ↔ lady(빵 반죽하는 이)가 짝! Oh Lord!/Good Lord!(맙소사!), the House of Lords(영국 상원), lord it over sb(~에게 군림하다), a landlord(집주인·지주, 2... ), live like a lord(호화롭게 살다). master(3016, 주인)·ruler(통치자)·noble(귀족)과 유의어. 반대 servant(하인)·vassal(가신).",
+  "syn": ["noble(귀족)", "ruler(통치자)", "master(주인)"],
+  "anti": ["servant(하인)", "vassal(가신)", "commoner(평민)"],
+  "idiom": ["Good Lord!(맙소사!)", "the House of Lords(상원)", "lord it over(~에게 군림하다)", "live like a lord(호화롭게 살다)"],
+  "colloc": ["a feudal lord(봉건 영주)", "the Lord(주님)", "a landlord(집주인)"],
+  "ex_add": "In medieval times, the lord owned all the land.  (lord=영주)"
+ },
+ {
+  "num": "2994",
+  "hw": "lottery",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "제비뽑기 -> '복권·추첨 / 운수소관'.",
+  "senses": [
+   "1) 복권·복권 추첨",
+   "2) 제비뽑기·추첨",
+   "3) (비유) 운수소관·운에 달린 일"
+  ],
+  "etym": "네덜란드어 loterij <- lot(제비·운) -> 게르만어 hlot(제비뽑기에 쓰던 물건). '제비(lot)를 뽑아 정함'이 핵심. lot(운·몫·제비)·allot(할당하다)과 한 갈래.",
+  "deriv": "hlot(제비) -> lot -> 'lottery'. '제비뽑기 -> 복권(win the lottery, 복권에 당첨되다)' -> 비유 '운수소관(life is a lottery, 인생은 운이다)'. 한국 학습자 핵심: lot(제비/운/몫) 갈래 — lot·allot(할당하다)·allotment(할당)·a lot(많이=한 무더기)! win the lottery(복권에 당첨되다), the national lottery(국가 복권), a lottery ticket(복권), the genetic lottery(타고난 유전적 운), a postcode lottery(거주지에 따라 갈리는 운). raffle(경품 추첨)·draw(추첨)와 유의어. 'it's a lottery(운에 달렸다)'처럼 비유로도!",
+  "syn": ["raffle(경품 추첨)", "draw(추첨)", "sweepstakes(현상 경품)"],
+  "anti": [],
+  "idiom": ["win the lottery(복권에 당첨되다)", "the genetic lottery(유전적 운)", "life is a lottery(인생은 운이다)"],
+  "colloc": ["win the lottery(복권에 당첨되다)", "a lottery ticket(복권)", "the national lottery(국가 복권)"],
+  "ex_add": "He dreams of winning the lottery one day.  (lottery=복권)"
+ },
+ {
+  "num": "2995",
+  "hw": "low",
+  "pos": "adj., adv., n.",
+  "cefr": "B2",
+  "core": "낮은 -> '낮은·적은 / 낮게 / 최저점'.",
+  "senses": [
+   "1) (높이·정도·양이) 낮은·적은",
+   "2) (소리가) 낮은 / (기분이) 우울한",
+   "3) (부사) 낮게 / 최저치·바닥(명사)"
+  ],
+  "etym": "고대 노르드어 lagr(낮은) <- 게르만어. '위치·정도가 아래에 있는'이 핵심. lower(2996)·lowly(비천한)와 한 갈래. high(2846, 높은)와 정반대 짝.",
+  "deriv": "lagr(낮은) -> 'low'. '낮은(a low price, 싼 가격)·적은(low income, 저소득)' -> '(소리가) 낮은·(기분이) 우울한(feel low)' -> 명사 '최저치(an all-time low, 사상 최저치)'. 한국 학습자 핵심: low(낮은) ↔ high(2846, 높은) 정반대! lower(2996, 더 낮은/낮추다)·lowly(비천한)가 가족! a low profile(눈에 안 띄는 태도, keep a low profile), lie low(숨어 지내다), low-key(절제된), low-cost(저비용의), feel low(우울하다), at a low ebb(침체된). 반대 high(2846). cheap(싼)·modest(적은)와 유의어.",
+  "syn": ["modest(적은)", "reduced(낮춰진)", "deep(낮은 음의)"],
+  "anti": ["high(높은)", "tall(높은)", "elevated(높은)"],
+  "idiom": ["keep a low profile(눈에 안 띄게 행동하다)", "lie low(숨어 지내다)", "an all-time low(사상 최저)", "feel low(우울하다)"],
+  "colloc": ["a low price(낮은 가격)", "low income(저소득)", "a low voice(낮은 목소리)"],
+  "ex_add": "The shop sells goods at very low prices.  (low=낮은)"
+ },
+ {
+  "num": "2996",
+  "hw": "lower",
+  "pos": "v., adj.",
+  "cefr": "B2",
+  "core": "더 낮은 -> '낮추다·내리다 / 아래쪽의'.",
+  "senses": [
+   "1) 낮추다·내리다·줄이다",
+   "2) (소리·시선을) 낮추다",
+   "3) 아래쪽의·하위의(형용사)"
+  ],
+  "etym": "low(낮은, 2995)의 비교급 lower. '더 낮게 하다·더 낮은 쪽의'가 핵심. low(2995)·lowly와 한 갈래. raise(올리다)·higher(더 높은)와 반대.",
+  "deriv": "low(2995) -> 'lower'. 동사 '낮추다·내리다(lower the price, 가격을 내리다)·(소리를) 낮추다(lower your voice)' -> 형용사 '아래쪽의(the lower deck, 아래층)'. 한국 학습자 핵심: low(2995)·lowly(비천한)와 가족! lower the price/temperature/voice(가격·온도·목소리를 낮추다), lower one's expectations(기대를 낮추다), the lower classes(하층민), lower oneself(체면을 깎다), the lower lip(아랫입술), lower-income(저소득의). reduce(줄이다)·decrease(2557, 줄이다)·diminish(감소시키다)와 유의어. 반대 raise(올리다)·lift(들어올리다)·increase(증가시키다). upper(위쪽의)와 형용사 짝.",
+  "syn": ["reduce(줄이다)", "decrease(낮추다)", "drop(내리다)"],
+  "anti": ["raise(올리다)", "lift(들어올리다)", "increase(증가시키다)"],
+  "idiom": ["lower one's voice(목소리를 낮추다)", "the lower classes(하층 계급)", "lower oneself(체면을 깎다)"],
+  "colloc": ["lower the price(가격을 낮추다)", "lower one's voice(목소리를 낮추다)", "lower expectations(기대를 낮추다)"],
+  "ex_add": "Please lower your voice; the baby is sleeping.  (lower=낮추다)"
+ },
+ {
+  "num": "2997",
+  "hw": "loyal",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "법도를 지키는 -> '충성스러운·충실한'.",
+  "senses": [
+   "1) 충성스러운·충직한",
+   "2) (관계·신념에) 충실한·변함없는",
+   "3) 단골의·애용하는"
+  ],
+  "etym": "라틴어 legalis(법에 맞는) <- lex/leg-(법) -> 고대 프랑스어 loial -> 'loyal'. 본래 '법(lex)을 지키는'에서 '의리·충성을 지키는'으로. lex(법)는 legal(법적인)·legitimate(합법의)·legislate(입법하다)·privilege(특권)의 뿌리.",
+  "deriv": "lex(법) -> legalis -> 'loyal'. '법도를 지키는 -> 충성스러운(a loyal friend, 충실한 친구)·충실한'. 한국 학습자 핵심: legal(합법의)과 loyal(충성스러운)이 같은 lex(법) 뿌리의 쌍둥이! lex 갈래 — legal·legitimate·legislate·legislation·privilege(사적인 법->특권)·legacy! be loyal to(~에게 충실하다), a loyal customer(단골 고객), a loyal supporter(충성스러운 지지자), fiercely loyal(맹렬히 충성하는), loyalty(충성심·충성도). faithful(충실한)·devoted(2593, 헌신적인)·dedicated(헌신적인)과 유의어. 반대 disloyal(불충한)·treacherous(배신하는).",
+  "syn": ["faithful(충실한)", "devoted(헌신적인)", "dedicated(충실한)"],
+  "anti": ["disloyal(불충한)", "treacherous(배신하는)", "unfaithful(불충실한)"],
+  "idiom": ["be loyal to(~에게 충실하다)", "a loyal customer(단골 고객)", "fiercely loyal(맹렬히 충성하는)"],
+  "colloc": ["a loyal friend(충실한 친구)", "a loyal customer(단골 고객)", "loyal supporters(충성스러운 지지자)"],
+  "ex_add": "He has always been a loyal friend to me.  (loyal=충실한)"
+ },
+ {
+  "num": "2998",
+  "hw": "lung",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "가벼운 호흡 기관 -> '폐·허파'.",
+  "senses": [
+   "1) 폐·허파",
+   "2) (the lungs) 양쪽 폐",
+   "3) 호흡 기관"
+  ],
+  "etym": "고대 영어 lungen(폐). 게르만 계열 토박이말로, '가벼운(light) 것'과 한 뿌리 — 폐가 물에 뜰 만큼 가벼운 데서! light(가벼운)와 먼 갈래. '숨을 들이쉬는 기관'이 핵심.",
+  "deriv": "lungen(폐) -> 'lung'. '폐·허파(lung cancer, 폐암)'. 한국 학습자 핵심: 폐가 가벼워(light) 물에 떠서 lung — light(가벼운)와 먼 친척! lung cancer(폐암, 2395 cancer), lung capacity(폐활량), at the top of one's lungs(목청껏), iron lung(인공호흡기), lung disease(폐 질환), breathe deeply into the lungs(폐 깊이 숨을 들이쉬다). heart(심장)·liver(간) 등 장기 어휘와 함께. respiratory(호흡의)·breathe(숨 쉬다)와 관련. 흡연·대기오염 단원 단골어.",
+  "syn": ["respiratory organ(호흡 기관)"],
+  "anti": [],
+  "idiom": ["at the top of one's lungs(목청껏)", "lung cancer(폐암)", "an iron lung(인공호흡기)"],
+  "colloc": ["lung cancer(폐암)", "lung capacity(폐활량)", "lung disease(폐 질환)"],
+  "ex_add": "Smoking greatly increases the risk of lung cancer.  (lung=폐)"
+ },
+ {
+  "num": "2999",
+  "hw": "lyric",
+  "pos": "n., adj.",
+  "cefr": "B2",
+  "core": "리라에 맞춰 부르는 -> '가사·서정시 / 서정적인'.",
+  "senses": [
+   "1) (the lyrics) (노래) 가사",
+   "2) 서정시",
+   "3) 서정적인·감미로운(형용사)"
+  ],
+  "etym": "그리스어 lyrikos(리라의) <- lyra(리라, 고대 현악기). '리라(lyra)에 맞춰 노래하던 시·가사'가 핵심. 서사시(epic)와 달리 개인의 감정을 노래한 데서 '서정'이 나왔다.",
+  "deriv": "lyra(리라) -> lyrikos -> 'lyric'. '리라에 맞춰 부르는 -> 가사(song lyrics, 노랫말)·서정시' -> 형용사 '서정적인(lyric poetry, 서정시)'. 한국 학습자 핵심: 노래 '가사'는 거의 항상 복수 lyrics! write the lyrics(가사를 쓰다), the lyrics of a song(노래 가사), lyric poetry(서정시), lyrical(서정적인·노래하는 듯한), a lyricist(작사가). 시 갈래: lyric(서정시) vs epic(서사시) vs dramatic(극시)! words(가사)·verse(운문)와 유의어. lyra(리라)에서 lyre(리라)·lyrical도.",
+  "syn": ["words(가사)", "verse(운문)"],
+  "anti": ["epic(서사시)", "prose(산문)"],
+  "idiom": ["song lyrics(노래 가사)", "lyric poetry(서정시)", "write the lyrics(작사하다)"],
+  "colloc": ["song lyrics(노래 가사)", "write the lyrics(가사를 쓰다)", "lyric poetry(서정시)"],
+  "ex_add": "The song has beautiful and meaningful lyrics.  (lyric=가사)"
+ },
+ {
+  "num": "3000",
+  "hw": "magnificent",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "크게 만들어진 -> '웅장한·장려한·훌륭한'.",
+  "senses": [
+   "1) 웅장한·장려한·장엄한",
+   "2) (솜씨·성과가) 훌륭한·멋진",
+   "3) 당당한·인상적인"
+  ],
+  "etym": "라틴어 magnificus = magnus(큰·위대한) + facere(만들다) -> '크게(magnus) 만든'. magnus(큰)는 major(3002)·majority(3003)·master(3016)·maximum(3020)·magnify(확대하다)·magnitude(규모)의 거대한 뿌리!",
+  "deriv": "magnus(큰) + facere(만들다) -> 'magnificent'. '크게 만들어진 -> 웅장한·장려한(a magnificent palace, 웅장한 궁전)·훌륭한(a magnificent performance)'. 한국 학습자 핵심: magnus(큰) 대가족 — major(3002)·majority(3003)·master(3016)·maximum(3020)·magnify(확대하다)·magnitude(규모)·magnate(거물)·magnanimous(도량이 큰)! a magnificent view(장관), a magnificent achievement(훌륭한 업적), look magnificent(멋져 보이다). splendid(훌륭한)·grand(2821, 웅장한)·superb(최고의)와 유의어. 반대 modest(소박한)·ordinary(평범한)·humble(보잘것없는).",
+  "syn": ["splendid(훌륭한)", "grand(웅장한)", "superb(최고의)"],
+  "anti": ["modest(소박한)", "ordinary(평범한)", "humble(보잘것없는)"],
+  "idiom": ["a magnificent view(장관)", "a magnificent achievement(훌륭한 업적)"],
+  "colloc": ["a magnificent palace(웅장한 궁전)", "a magnificent view(장관)", "a magnificent performance(훌륭한 공연)"],
+  "ex_add": "We enjoyed a magnificent view from the mountaintop.  (magnificent=웅장한)"
+ },
+ {
+  "num": "3001",
+  "hw": "maintain",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "손으로 붙들어 두다 -> '유지하다·정비하다·주장하다'.",
+  "senses": [
+   "1) (상태를) 유지하다·지속하다",
+   "2) (기계·건물을) 정비·관리하다",
+   "3) (주장을) 견지하다·주장하다 / 부양하다"
+  ],
+  "etym": "라틴어 manu tenere = manu(손으로) + tenere(붙들다) -> '손에 꽉 붙들어 둠'. tenere(붙들다)는 contain(담다)·obtain(얻다)·retain(보유하다)·sustain(지탱하다)·entertaining(2669)·tenant(세입자)의 거대한 뿌리.",
+  "deriv": "manu(손) + tenere(붙들다) -> 'maintain'. '붙들어 두다 -> 유지하다(maintain order, 질서를 유지하다)·정비하다(maintain a car)·주장하다(maintain that S+V)·부양하다(maintain a family)'. 한국 학습자 핵심: tenere(붙들다) 대가족 — contain·obtain·retain·sustain·detain·entertaining(2669)·tenant·tenure·maintenance(정비)! maintain a balance(균형을 유지하다), maintain standards(수준을 유지하다), maintain contact(연락을 유지하다), maintain that(~라고 주장하다). keep(유지하다)·preserve(보존하다)·assert(주장하다)와 유의어. 반대 abandon(포기하다)·neglect(방치하다). maintenance(유지·정비)가 명사.",
+  "syn": ["keep(유지하다)", "preserve(보존하다)", "assert(주장하다)"],
+  "anti": ["abandon(포기하다)", "neglect(방치하다)", "discontinue(중단하다)"],
+  "idiom": ["maintain order(질서를 유지하다)", "maintain that(~라고 주장하다)", "maintain a balance(균형을 유지하다)"],
+  "colloc": ["maintain order(질서를 유지하다)", "maintain standards(수준을 유지하다)", "maintain contact(연락을 유지하다)"],
+  "ex_add": "It is important to maintain a healthy lifestyle.  (maintain=유지하다)"
+ },
+ {
+  "num": "3002",
+  "hw": "major",
+  "pos": "adj., n., v.",
+  "cefr": "B2",
+  "core": "더 큰 -> '주요한·대부분의 / 전공 / 소령'.",
+  "senses": [
+   "1) 주요한·중대한·대부분의",
+   "2) (대학) 전공 / (군) 소령",
+   "3) (동사) 전공하다(major in)"
+  ],
+  "etym": "라틴어 major(더 큰), magnus(큰)의 비교급. '더 큰·더 중요한'이 핵심. magnus(큰)는 magnificent(3000)·majority(3003)·master(3016)·maximum(3020)·mayor(시장)·magnitude(규모)의 거대한 뿌리. minor(3038, 더 작은)와 정반대 짝!",
+  "deriv": "magnus(큰) -> major(더 큰). '주요한·대부분의(a major problem, 큰 문제)' -> 명사 '전공(my major is biology)·소령' -> 동사 '전공하다(major in history)'. 한국 학습자 핵심: magnus(큰) 대가족 — magnificent(3000)·majority(3003)·master(3016)·maximum(3020)·mayor·magnitude·magnify! major(주요한) ↔ minor(3038, 사소한) 정반대! a major role(주요 역할), a major city(대도시), the major leagues(메이저 리그), major in(~을 전공하다), a major in English(영어 전공자). main(주된)·principal(주요한)·significant(중대한)과 유의어. 반대 minor(3038, 사소한).",
+  "syn": ["main(주된)", "principal(주요한)", "significant(중대한)"],
+  "anti": ["minor(사소한)", "trivial(하찮은)", "secondary(부차적인)"],
+  "idiom": ["major in(~을 전공하다)", "the major leagues(메이저 리그)", "a major role(주요 역할)"],
+  "colloc": ["a major problem(큰 문제)", "a major role(주요 역할)", "major in(~을 전공하다)"],
+  "ex_add": "Pollution is a major problem in big cities.  (major=주요한)"
+ },
+ {
+  "num": "3003",
+  "hw": "majority",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "더 큰 쪽 -> '대다수·과반수 / 다수당'.",
+  "senses": [
+   "1) 대다수·대부분",
+   "2) (투표) 과반수·득표 차",
+   "3) 다수파·다수당"
+  ],
+  "etym": "라틴어 major(더 큰, 3002) + -ity -> majoritas. '더 큰(major) 쪽·더 많은 수'가 핵심. magnus(큰) 갈래로 magnificent(3000)·master(3016)·maximum(3020)과 한 가족. minority(3039, 소수)와 정반대 짝!",
+  "deriv": "major(더 큰, 3002) -> 'majority'. '더 큰 쪽 -> 대다수(the majority of people, 대부분의 사람들)·과반수(win a majority, 과반수를 얻다)'. 한국 학습자 핵심: majority(다수) ↔ minority(3039, 소수) 정반대! magnus(큰) 갈래 — major(3002)·magnificent(3000)·master(3016)·maximum(3020)! the vast majority(절대다수), a majority of(~의 대다수), an absolute majority(절대 과반수), the silent majority(말 없는 다수), be in the majority(다수를 차지하다). 주의 — 'the majority of + 복수명사 + 복수동사'! 반대 minority(3039, 소수).",
+  "syn": ["most(대부분)", "bulk(대부분)", "the greater part(대부분)"],
+  "anti": ["minority(소수)", "the few(소수)"],
+  "idiom": ["the vast majority(절대다수)", "an absolute majority(절대 과반수)", "the silent majority(침묵하는 다수)"],
+  "colloc": ["the vast majority(절대다수)", "a majority of(~의 대다수)", "win a majority(과반수를 얻다)"],
+  "ex_add": "The majority of students passed the exam.  (majority=대다수)"
+ },
+ {
+  "num": "3004",
+  "hw": "make",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "만들다 -> '만들다·~하게 하다·~이 되다 / 제조사'.",
+  "senses": [
+   "1) 만들다·제작하다",
+   "2) ~하게 만들다·~이 되게 하다 / ~을 ~으로 여기다",
+   "3) (돈을) 벌다·이르다 / (명사) 제조사·기종"
+  ],
+  "etym": "고대 영어 macian(만들다·짓다). 게르만 계열 토박이말로, '없던 것을 짓다·~한 상태로 만들다'가 핵심. 과거형 make-made-made(불규칙). making(3006)·makeup(3005)이 가족.",
+  "deriv": "macian(만들다) -> 'make'. '만들다(make a cake)·~하게 하다(make me happy)·~이 되다(make a good teacher)·돈을 벌다(make money)' -> 명사 '제조사(What make is your car?)'. 한국 학습자 핵심: 과거형 make-made-made! 5형식 make + 목적어 + 원형부정사(make sb do, ~가 ...하게 시키다)! make up(화해하다/지어내다/구성하다), make out(알아보다/잘 지내다), make for(~로 향하다), make do with(~으로 때우다), make up for(만회하다), make sense(말이 되다), make the most of(최대한 활용하다). create(만들다)·produce(생산하다)와 유의어.",
+  "syn": ["create(만들다)", "produce(제작하다)", "construct(만들다)"],
+  "anti": ["destroy(부수다)", "break(망가뜨리다)"],
+  "idiom": ["make up(화해하다/구성하다)", "make do with(~으로 때우다)", "make sense(말이 되다)", "make the most of(최대한 활용하다)"],
+  "colloc": ["make a decision(결정을 내리다)", "make money(돈을 벌다)", "make a mistake(실수하다)"],
+  "ex_add": "She made a delicious cake for the party.  (make=만들다)"
+ },
+ {
+  "num": "3005",
+  "hw": "makeup",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "꾸며 만든 것 -> '화장(품) / 구성 / 기질'.",
+  "senses": [
+   "1) 화장·화장품·분장",
+   "2) 구성·구조·짜임새",
+   "3) 기질·성격 / 보충 시험"
+  ],
+  "etym": "make(만들다, 3004) + up(완성). '꾸며서 만들어 올림(make up)'이 핵심. 얼굴을 '꾸며 만든 것'에서 '화장', '맞춰 만든 것'에서 '구성'으로. make(3004)·making(3006)과 한 갈래.",
+  "deriv": "make(3004) + up -> 'makeup'. '꾸며 만든 것 -> 화장(wear makeup, 화장하다)' -> '구성(the makeup of the team, 팀 구성)' -> '기질(her mental makeup)'. 한국 학습자 핵심: make up(화해하다/지어내다/구성하다)이라는 구동사에서 온 명사! put on makeup(화장하다), wear makeup(화장하고 있다), a makeup artist(분장사), the genetic makeup(유전적 구성, 2804), a makeup exam(재시험·보충 시험). cosmetics(화장품)·composition(구성)·constitution(구성)과 유의어.",
+  "syn": ["cosmetics(화장품)", "composition(구성)", "constitution(기질)"],
+  "anti": [],
+  "idiom": ["put on makeup(화장하다)", "a makeup artist(분장사)", "the genetic makeup(유전적 구성)"],
+  "colloc": ["wear makeup(화장하다)", "put on makeup(화장하다)", "the makeup of(~의 구성)"],
+  "ex_add": "She doesn't usually wear much makeup.  (makeup=화장)"
+ },
+ {
+  "num": "3006",
+  "hw": "making",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "만듦 -> '제작·만들기 / (the makings) 소질'.",
+  "senses": [
+   "1) 만듦·제작·생산",
+   "2) (in the making) 만들어지는 중인",
+   "3) (the makings of) ~이 될 소질·자질"
+  ],
+  "etym": "make(만들다, 3004) + -ing. '만드는 일·과정'이 핵심. make(3004)·makeup(3005)과 한 토박이 갈래.",
+  "deriv": "make(3004) -> 'making'. '만듦 -> 제작(the making of a film, 영화 제작)' -> 'in the making(만들어지는 중인)' -> 'the makings of(~의 소질)'. 한국 학습자 핵심: in the making(완성되어 가는 중인, history in the making 역사적 순간), be the making of sb(~를 성공시키다·사람으로 만들다), have the makings of(~이 될 자질이 있다, the makings of a champion), of one's own making(자초한, problems of his own making). production(제작)·creation(2517, 창조)과 유의어. decision-making(의사 결정), money-making(돈벌이) 같은 합성어로도 빈출.",
+  "syn": ["production(제작)", "creation(창조)", "manufacture(제조)"],
+  "anti": [],
+  "idiom": ["in the making(만들어지는 중인)", "the makings of(~의 소질)", "of one's own making(자초한)", "be the making of(~를 성공시키다)"],
+  "colloc": ["the making of(~의 제작)", "in the making(진행 중인)", "decision-making(의사 결정)"],
+  "ex_add": "She has the makings of a great leader.  (making=소질)"
+ },
+ {
+  "num": "3007",
+  "hw": "manufacture",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "손으로 만들다 -> '제조하다·대량 생산하다 / 제조'.",
+  "senses": [
+   "1) (공장에서) 제조하다·대량 생산하다",
+   "2) 제조·제작",
+   "3) (이야기를) 날조하다·지어내다"
+  ],
+  "etym": "라틴어 manu(손으로) + factura(만듦) <- facere(만들다) -> '손(manu)으로 만듦'. 본래 '수공'에서 '기계 대량 생산'으로. manus(손)는 manual(손의)·manuscript(원고)·manage(다루다)·manipulate(조종하다), facere(만들다)는 factory·effect·perfect의 뿌리.",
+  "deriv": "manu(손) + facere(만들다) -> 'manufacture'. '손으로 만들다 -> 제조하다(manufacture cars, 자동차를 제조하다)' -> '날조하다(manufacture an excuse)'. 한국 학습자 핵심: manus(손) 갈래 — manual(수동의)·manuscript(육필 원고)·manage(관리하다)·manipulate(조종하다)·manicure / facere(만들다) 갈래 — factory·manufacturing(3008)·manufacturer(제조사)! mass-manufacture(대량 생산하다), manufactured goods(공산품), a manufacturing defect(제조 결함). produce(생산하다)·make(3004)·fabricate(제작/날조하다)와 유의어.",
+  "syn": ["produce(생산하다)", "make(만들다)", "fabricate(제작하다)"],
+  "anti": ["import(수입하다)"],
+  "idiom": ["mass-manufacture(대량 생산하다)", "manufactured goods(공산품)", "a manufacturing defect(제조 결함)"],
+  "colloc": ["manufacture cars(자동차를 제조하다)", "manufactured goods(제조품)", "mass manufacture(대량 생산)"],
+  "ex_add": "The company manufactures electronic parts.  (manufacture=제조하다)"
+ },
+ {
+  "num": "3008",
+  "hw": "manufacturing",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "제조하기 -> '제조(업)·생산'.",
+  "senses": [
+   "1) 제조업·생산업",
+   "2) 제조·생산 (과정)",
+   "3) 제조 공정"
+  ],
+  "etym": "manufacture(제조하다, 3007) + -ing. 라틴어 manu(손) + facere(만들다) 뿌리. '제조하는 일·산업'이 핵심. manual·manuscript / factory·effect와 한 manus+facere 갈래.",
+  "deriv": "manu(손) + facere(만들다) -> manufacture(3007) -> 'manufacturing'. '제조하기 -> 제조업·생산(the manufacturing industry, 제조업)'. 한국 학습자 핵심: manus(손) 갈래 — manual·manuscript·manage·manipulate / facere(만들다) 갈래 — factory·manufacture(3007)·manufacturer! the manufacturing sector/industry(제조업 부문), manufacturing costs(제조 원가), car manufacturing(자동차 제조), a manufacturing plant(제조 공장), manufacturing jobs(제조업 일자리). production(생산)·industry(2897, 산업)와 유의어. 경제 단원에서 manufacturing(제조업) vs services(서비스업) 대비!",
+  "syn": ["production(생산)", "industry(산업)", "fabrication(제작)"],
+  "anti": ["services(서비스업)"],
+  "idiom": ["the manufacturing industry(제조업)", "a manufacturing plant(제조 공장)", "manufacturing costs(제조 원가)"],
+  "colloc": ["the manufacturing sector(제조업 부문)", "car manufacturing(자동차 제조)", "manufacturing jobs(제조업 일자리)"],
+  "ex_add": "Many manufacturing jobs have moved overseas.  (manufacturing=제조업)"
+ },
+ {
+  "num": "3009",
+  "hw": "map",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "천에 그린 것 -> '지도 / 지도를 그리다·파악하다'.",
+  "senses": [
+   "1) 지도",
+   "2) (동사) 지도를 만들다·도식화하다",
+   "3) (map out) 세밀히 계획하다"
+  ],
+  "etym": "라틴어 mappa(천·냅킨) -> mappa mundi(세계의 천=세계 지도). 옛날 지도를 '천(mappa)'에 그린 데서. mappa(천)는 napkin(냅킨)·apron(앞치마, a napron->an apron)과 한 갈래.",
+  "deriv": "mappa(천) -> 'map'. '천에 그린 것 -> 지도(read a map, 지도를 보다)' -> 동사 '지도를 그리다·파악하다(map the human genome, 게놈을 해독하다)' -> 'map out(세밀히 계획하다)'. 한국 학습자 핵심: mappa(천) 갈래 — napkin(냅킨)·apron(앞치마)! a road map(도로 지도/로드맵), put sth on the map(~을 유명하게 만들다), map out a plan(계획을 짜다), a weather map(일기도), off the map(외진), a mental map(머릿속 지도). chart(2416, 해도)·plan(설계도)과 유의어.",
+  "syn": ["chart(해도)", "plan(약도)", "diagram(도면)"],
+  "anti": [],
+  "idiom": ["put sth on the map(~을 유명하게 만들다)", "map out(상세히 계획하다)", "a road map(로드맵)"],
+  "colloc": ["read a map(지도를 보다)", "a road map(도로 지도)", "map out a plan(계획을 짜다)"],
+  "ex_add": "We used a map to find our way to the village.  (map=지도)"
+ },
+ {
+  "num": "3010",
+  "hw": "marathon",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "마라톤 전투 -> '마라톤 / 장시간의 일'.",
+  "senses": [
+   "1) 마라톤 (42.195km 경주)",
+   "2) 장거리·장시간의 일",
+   "3) 끈기를 요하는 일(형용사적)"
+  ],
+  "etym": "그리스 지명 Marathon(마라톤). 기원전 490년 마라톤 전투의 승전보를 아테네까지 약 40km 달려 전한 전령에서 유래. '엄청난 지구력을 요하는 일'이 핵심.",
+  "deriv": "Marathon(지명) -> 'marathon'. '마라톤 전투 -> 마라톤 경주(run a marathon, 마라톤을 뛰다)' -> 비유 '장시간의 일(a marathon meeting, 마라톤 회의)'. 한국 학습자 핵심: 그리스 지명에서 온 고유명사 유래어 — 비유로 '오래 끄는·끈기가 필요한'! run a marathon(마라톤을 완주하다), a marathon session(장시간 회의), a marathon runner(마라톤 선수), it's a marathon, not a sprint(단거리가 아닌 장거리 싸움이다). sprint(단거리)와 대비 — marathon은 '끈기·지구력'의 상징! endurance(지구력)와 관련.",
+  "syn": ["long-distance race(장거리 경주)"],
+  "anti": ["sprint(단거리)"],
+  "idiom": ["run a marathon(마라톤을 뛰다)", "a marathon session(장시간 회의)", "a marathon, not a sprint(끈기 싸움)"],
+  "colloc": ["run a marathon(마라톤을 뛰다)", "a marathon runner(마라톤 선수)", "a marathon meeting(마라톤 회의)"],
+  "ex_add": "She trained for months to run her first marathon.  (marathon=마라톤)"
+ },
+ {
+  "num": "3011",
+  "hw": "margin",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "가장자리 -> '여백·가장자리 / 차이·마진'.",
+  "senses": [
+   "1) (페이지의) 여백·난외",
+   "2) 가장자리·언저리",
+   "3) (득표·점수의) 차이 / (이익) 마진"
+  ],
+  "etym": "라틴어 margo/margin-(가장자리·테두리). '중심에서 벗어난 끝부분'이 핵심. margo(가장자리)는 marginal(주변적인)·marginalize(소외시키다)의 뿌리.",
+  "deriv": "margo(가장자리) -> 'margin'. '여백·가장자리(notes in the margin, 여백의 메모)' -> '차이(win by a narrow margin, 근소한 차이로 이기다)·이익(a profit margin, 이윤 폭)'. 한국 학습자 핵심: margo(가장자리) 갈래 — marginal(미미한·주변의)·marginally(약간)·marginalize(주변화하다)! by a margin of(~의 차이로), a narrow/wide margin(근소한/큰 차이), a profit margin(이윤율), a margin of error(오차 범위), on the margins of(~의 변두리에서), margin of safety(안전 여유). edge(가장자리)·border(테두리)·difference(차이)와 유의어. 반대 center(중심).",
+  "syn": ["edge(가장자리)", "border(테두리)", "difference(차이)"],
+  "anti": ["center(중심)", "middle(가운데)"],
+  "idiom": ["by a margin of(~의 차이로)", "a margin of error(오차 범위)", "a profit margin(이윤 폭)", "a narrow margin(근소한 차이)"],
+  "colloc": ["a narrow margin(근소한 차이)", "a profit margin(이윤율)", "notes in the margin(여백의 메모)"],
+  "ex_add": "The candidate won by a narrow margin.  (margin=차이)"
+ },
+ {
+  "num": "3012",
+  "hw": "marker",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "표시하는 것 -> '표시·표지 / 마커펜'.",
+  "senses": [
+   "1) 표시·표지·이정표",
+   "2) 마커(펜)·형광펜",
+   "3) (특징을 나타내는) 지표·표지자"
+  ],
+  "etym": "mark(표시·자국, 고대 영어 mearc '경계·표') + -er. '표시(mark)하는 것·도구'가 핵심. mearc(경계)는 mark·remark(언급하다)·demarcate(경계를 긋다)·margin(3011, 친척)의 갈래.",
+  "deriv": "mearc(경계·표) -> mark -> 'marker'. '표시하는 것 -> 표지·이정표(a boundary marker, 경계 표지)' -> '마커펜(a permanent marker, 유성 매직)' -> '지표(a genetic marker, 유전 표지자)'. 한국 학습자 핵심: mearc(경계·표) 갈래 — mark·remark(논평)·demarcate(경계 짓다)·marked(뚜렷한)·landmark(랜드마크)! a permanent marker(유성 펜), a boundary marker(경계 표지), a genetic marker(유전자 표지), a grave marker(묘비), a road marker(도로 표지). sign(표지)·indicator(지표)·pointer(지시봉)와 유의어. mark(표시)·marking(표시)이 가족.",
+  "syn": ["sign(표지)", "indicator(지표)", "pointer(표시)"],
+  "anti": [],
+  "idiom": ["a permanent marker(유성 펜)", "a boundary marker(경계 표지)", "a genetic marker(유전 표지자)"],
+  "colloc": ["a permanent marker(유성 매직)", "a boundary marker(경계 표지)", "a genetic marker(유전자 표지)"],
+  "ex_add": "Use a marker to highlight the important points.  (marker=마커)"
+ },
+ {
+  "num": "3013",
+  "hw": "martial",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "전쟁의 신 마르스의 -> '싸움의·군사의·무(武)의'.",
+  "senses": [
+   "1) 싸움의·무술의",
+   "2) 군사의·전쟁의",
+   "3) 호전적인·용맹한"
+  ],
+  "etym": "라틴어 martialis(마르스의) <- Mars/Mart-(로마 신화의 전쟁의 신 마르스). '전쟁의 신 마르스(Mars)에 속한'이 핵심. March(3월=마르스의 달)·Mars(화성)도 같은 Mars 갈래.",
+  "deriv": "Mars(전쟁의 신) -> martialis -> 'martial'. '마르스의 -> 싸움의·군사의(martial arts, 무술)·전쟁의'. 한국 학습자 핵심: Mars(전쟁의 신) 갈래 — March(3월, 마르스의 달!)·Mars(화성)·martial! martial arts(무술 — 태권도·가라테 등!), martial law(계엄령), a martial spirit(상무 정신), court-martial(군법 회의). military(3033, 군의)·warlike(호전적인)·combative(투쟁적인)와 유의어. martial(무술의)과 marital(결혼의, marry에서)을 철자상 꼭 구별 — 글자 위치만 다름! 반대 peaceful(평화로운)·civilian(민간의).",
+  "syn": ["military(군의)", "warlike(호전적인)", "combative(투쟁적인)"],
+  "anti": ["peaceful(평화로운)", "civilian(민간의)"],
+  "idiom": ["martial arts(무술)", "martial law(계엄령)", "court-martial(군법 회의)"],
+  "colloc": ["martial arts(무술)", "martial law(계엄령)", "a martial spirit(상무 정신)"],
+  "ex_add": "He has practiced martial arts since childhood.  (martial=무술의)"
+ },
+ {
+  "num": "3014",
+  "hw": "mass",
+  "pos": "n., adj.",
+  "cefr": "B2",
+  "core": "한 덩어리 -> '덩어리·다량 / 대중 / 질량 / 대량의'.",
+  "senses": [
+   "1) 덩어리·뭉치 / 다량·다수",
+   "2) (the masses) 대중 / 대량의·대규모의(형용사)",
+   "3) (물리) 질량 / (Mass) 미사"
+  ],
+  "etym": "그리스어 maza(보리 반죽 덩이) -> 라틴어 massa(반죽·덩어리) -> 'mass'. '한데 뭉친 덩어리'가 핵심. massa(덩어리)는 massive(3015)·amass(축적하다)의 뿌리.",
+  "deriv": "massa(덩어리) -> 'mass'. '덩어리·다량(a mass of people, 군중)' -> 'the masses(대중)' -> 형용사 '대량의(mass production, 대량 생산)' -> 물리 '질량'. 한국 학습자 핵심: massa(덩어리) 갈래 — massive(3015, 거대한)·amass(모으다)·massacre(대학살)! mass production(대량 생산), the mass media(대중 매체), mass destruction(대량 살상, 2588), a mass of(다량의), the masses(대중), weapons of mass destruction(WMD). bulk(부피)·heap(더미)·crowd(군중)와 유의어. (Mass는 가톨릭 '미사'로 별개 뜻!)",
+  "syn": ["bulk(덩어리)", "heap(더미)", "crowd(군중)"],
+  "anti": ["bit(조각)", "individual(개인)"],
+  "idiom": ["mass production(대량 생산)", "the mass media(대중 매체)", "the masses(대중)", "weapons of mass destruction(대량 살상 무기)"],
+  "colloc": ["mass production(대량 생산)", "the mass media(대중 매체)", "a mass of(다량의)"],
+  "ex_add": "The factory uses mass production to lower costs.  (mass=대량의)"
+ },
+ {
+  "num": "3015",
+  "hw": "massive",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "덩어리진 -> '거대한·육중한·대규모의'.",
+  "senses": [
+   "1) 거대한·엄청나게 큰",
+   "2) 육중한·묵직한",
+   "3) (규모·정도가) 대규모의·엄청난"
+  ],
+  "etym": "라틴어 massa(덩어리, 3014) + -ive -> '큰 덩어리(massa)를 이룬'. mass(3014)·amass와 한 massa 갈래. '엄청나게 크고 무거운'이 핵심.",
+  "deriv": "massa(덩어리) -> mass(3014) -> 'massive'. '덩어리진 -> 거대한·육중한(a massive building, 거대한 건물)·대규모의(a massive increase, 엄청난 증가)'. 한국 학습자 핵심: massa(덩어리) 갈래 — mass(3014)·amass(축적하다)·massacre·massively(엄청나게)! a massive amount(엄청난 양), a massive success(대성공), a massive heart attack(중증 심장마비), massive debts(막대한 빚). huge(거대한)·enormous(엄청난)·gigantic(거대한)과 유의어 — massive는 '육중하고 압도적인' 어감. 반대 tiny(아주 작은)·minute(미세한)·slight(약간의).",
+  "syn": ["huge(거대한)", "enormous(엄청난)", "gigantic(거대한)"],
+  "anti": ["tiny(아주 작은)", "minute(미세한)", "slight(약간의)"],
+  "idiom": ["a massive amount(엄청난 양)", "a massive success(대성공)", "a massive heart attack(중증 심장마비)"],
+  "colloc": ["a massive building(거대한 건물)", "a massive increase(엄청난 증가)", "a massive amount(엄청난 양)"],
+  "ex_add": "The new stadium is absolutely massive.  (massive=거대한)"
+ },
+ {
+  "num": "3016",
+  "hw": "master",
+  "pos": "n., v., adj.",
+  "cefr": "B2",
+  "core": "더 큰 사람 -> '주인·달인·석사 / 통달하다'.",
+  "senses": [
+   "1) 주인·고용주 / 달인·거장",
+   "2) (석사) 학위 / 원본·마스터(형용사)",
+   "3) (동사) 숙달하다·완전히 익히다 / 다스리다"
+  ],
+  "etym": "라틴어 magister(우두머리·스승) <- magnus(큰)의 파생. '더 큰(magnus) 위치에 있는 사람'이 핵심. magnus(큰)는 magnificent(3000)·major(3002)·maximum(3020)의 거대한 뿌리. minister(3037, 작은 사람=하인->장관)와 정반대 짝!",
+  "deriv": "magnus(큰) -> magister(우두머리) -> 'master'. '주인·스승(master and servant)·달인(a master of disguise)' -> 동사 '숙달하다(master a skill)·다스리다(master one's fear)'. 한국 학습자 핵심: magnus(큰) 대가족 — magnificent(3000)·major(3002)·majority(3003)·maximum(3020)·magistrate(치안판사)! master(주인, magister) ↔ minister(3037, 하인, minister) 어원상 정반대! a master's degree(석사 학위), a master key(만능 열쇠), a masterpiece(걸작), master the language(언어를 통달하다), an old master(거장). expert(전문가)·conquer(정복하다)와 유의어.",
+  "syn": ["expert(달인)", "conquer(정복하다)", "owner(주인)"],
+  "anti": ["servant(하인)", "novice(초보자)", "apprentice(견습생)"],
+  "idiom": ["a master's degree(석사 학위)", "a masterpiece(걸작)", "a master key(만능 열쇠)", "an old master(거장)"],
+  "colloc": ["a master's degree(석사 학위)", "master a skill(기술을 숙달하다)", "a chess master(체스 달인)"],
+  "ex_add": "It took her years to master the violin.  (master=숙달하다)"
+ },
+ {
+  "num": "3017",
+  "hw": "matching",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "짝이 맞는 -> '어울리는·짝이 맞는·잘 맞는'.",
+  "senses": [
+   "1) (색·디자인이) 어울리는·짝이 맞는",
+   "2) 똑같은·한 세트의",
+   "3) 부합하는·대응하는"
+  ],
+  "etym": "match(어울리다·맞먹다, 고대 영어 gemæcca '짝·배우자') + -ing. '서로 짝(match)이 맞는'이 핵심. match(짝)·mate(3018, 짝)와 한 갈래. (불을 켜는 match는 다른 어원!)",
+  "deriv": "gemæcca(짝) -> match -> 'matching'. '짝이 맞는 -> 어울리는(matching curtains, 어울리는 커튼)·한 세트의(a matching set)'. 한국 학습자 핵심: match(짝·배우자)는 mate(3018, 짝)와 한 갈래 — gemæcca! a matching outfit(깔맞춤 옷), matching colors(어울리는 색), a matching pair(짝이 맞는 한 쌍), matching socks(짝이 맞는 양말). coordinating(조화되는)·corresponding(상응하는)·complementary(보완적인)와 유의어. match(맞다)·mismatch(부조화)가 가족. 반대 clashing(안 어울리는)·mismatched(짝이 안 맞는).",
+  "syn": ["coordinating(조화되는)", "corresponding(상응하는)", "complementary(보완적인)"],
+  "anti": ["clashing(안 어울리는)", "mismatched(짝이 안 맞는)", "contrasting(대조적인)"],
+  "idiom": ["a matching set(한 세트)", "a matching pair(짝이 맞는 한 쌍)"],
+  "colloc": ["matching colors(어울리는 색)", "a matching set(한 세트)", "a matching outfit(깔맞춤 의상)"],
+  "ex_add": "She wore a matching hat and scarf.  (matching=어울리는)"
+ },
+ {
+  "num": "3018",
+  "hw": "mate",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "함께 먹는 짝 -> '친구·동료 / 짝 / 짝짓다'.",
+  "senses": [
+   "1) (영, 구어) 친구·동료",
+   "2) (동물의) 짝·배우자",
+   "3) (동사) 짝짓다·교미하다 / 조수"
+  ],
+  "etym": "중세 저지 독일어 mate/gemate(함께 식사하는 사람) <- ga-(함께) + mat(고기·음식). 본래 '함께 밥 먹는 사이'가 핵심. companion(빵을 나누는 이)과 발상이 같다! match(3017, 짝)와 한 갈래.",
+  "deriv": "ga-(함께) + mat(음식) -> 'mate'. '함께 먹는 짝 -> 친구·동료(an old mate, 옛 친구)' -> 동물 '짝·배우자(find a mate)' -> 동사 '짝짓다(animals mate)'. 한국 학습자 핵심: mate(함께 먹는 이)는 companion(빵 com-+panis을 나누는 이)과 발상이 똑같다! a classmate/roommate/teammate(급우·룸메이트·팀원), a soulmate(소울메이트), a running mate(러닝메이트), choose a mate(짝을 고르다). (영국 구어로 mate는 친한 호칭 'Hey, mate!') friend(친구)·companion(동반자)·partner(짝)와 유의어. match(3017)·matching이 가족.",
+  "syn": ["friend(친구)", "companion(동반자)", "partner(짝)"],
+  "anti": [],
+  "idiom": ["a running mate(러닝메이트)", "a soulmate(천생연분)", "Hey, mate!(이봐, 친구!)"],
+  "colloc": ["an old mate(옛 친구)", "a classmate(급우)", "find a mate(짝을 찾다)"],
+  "ex_add": "He's going out with his mates tonight.  (mate=친구)"
+ },
+ {
+  "num": "3019",
+  "hw": "material",
+  "pos": "n., adj.",
+  "cefr": "B2",
+  "core": "어머니 같은 바탕 -> '재료·물질·자료 / 물질적인'.",
+  "senses": [
+   "1) 재료·원료·소재 / 천·직물",
+   "2) (글·강의의) 자료·소재",
+   "3) 물질의·물질적인·실질적인(형용사)"
+  ],
+  "etym": "라틴어 materia(재료·소재) <- mater(어머니). 나무의 '어미가 되는 줄기·바탕'에서 '재료'로. mater(어머니)는 material·matter(물질)·maternal(어머니의)·matrix(모체)·maternity(출산)의 뿌리.",
+  "deriv": "mater(어머니) -> materia -> 'material'. '바탕 -> 재료·원료(building materials, 건축 자재)·천' -> '자료(reading material)' -> 형용사 '물질적인(material possessions, 물질적 소유물)'. 한국 학습자 핵심: mater(어머니) 갈래 — material·matter(물질·중요하다)·maternal(모성의)·matrix(행렬·모체)·maternity(출산 휴가)·matron! raw materials(원자재), building materials(건축 자재), reading material(읽을거리), material wealth(물질적 부), material evidence(중요한 증거). substance(물질)·fabric(2723, 직물)과 유의어. 반대(형용사) spiritual(정신적인).",
+  "syn": ["substance(물질)", "fabric(천)", "matter(물질)"],
+  "anti": ["spiritual(정신적인)", "immaterial(무관한)"],
+  "idiom": ["raw materials(원자재)", "building materials(건축 자재)", "material possessions(물질적 소유물)"],
+  "colloc": ["raw materials(원자재)", "building materials(건축 자재)", "reading material(읽을거리)"],
+  "ex_add": "The factory imports raw materials from abroad.  (material=재료)"
+ },
+ {
+  "num": "3020",
+  "hw": "maximum",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "가장 큰 -> '최대의·최고의 / 최대치'.",
+  "senses": [
+   "1) 최대의·최고의·최대한의",
+   "2) 최대량·최대치·상한(명사)",
+   "3) (at maximum) 최대로"
+  ],
+  "etym": "라틴어 maximus(가장 큰), magnus(큰)의 최상급. '가장 큰(magnus)'이 핵심. magnus(큰)는 magnificent(3000)·major(3002)·master(3016)·magnitude(규모)의 거대한 뿌리. minimum(3036, 최소)과 정반대 짝!",
+  "deriv": "magnus(큰) -> maximus -> 'maximum'. '가장 큰 -> 최대의(maximum speed, 최고 속도)' -> 명사 '최대치(a maximum of 50, 최대 50)'. 한국 학습자 핵심: maximum(최대) ↔ minimum(3036, 최소) 정반대! magnus(큰) 대가족 — magnificent(3000)·major(3002)·majority(3003)·master(3016)·magnitude·magnify! the maximum amount(최대량), at maximum(최대로), maximum capacity(최대 수용 인원), a maximum of(최대 ~), maximize(극대화하다), to the maximum(최대한). 약자 max! 반대 minimum(3036, 최소)·minimal(최소의).",
+  "syn": ["highest(최고의)", "greatest(최대의)", "top(최고의)"],
+  "anti": ["minimum(최소의)", "minimal(최소의)", "lowest(최저의)"],
+  "idiom": ["at maximum(최대로)", "a maximum of(최대 ~)", "to the maximum(최대한)", "maximum capacity(최대 수용)"],
+  "colloc": ["maximum speed(최고 속도)", "the maximum amount(최대량)", "maximum capacity(최대 수용량)"],
+  "ex_add": "The maximum speed on this road is 60 km/h.  (maximum=최대의)"
+ },
+ {
+  "num": "3021",
+  "hw": "means",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "중간 매개 -> '수단·방법 / 재력'.",
+  "senses": [
+   "1) 수단·방법",
+   "2) (by means of) ~으로·~을 써서",
+   "3) (살림) 재력·자력"
+  ],
+  "etym": "라틴어 medianus(중간의) <- medius(가운데) -> '목적에 이르는 중간 매개'. means는 단·복수 동형(a means / the means). medius(가운데)는 medium(3028)·medieval(중세의)·mediocre(보통의)·intermediate의 뿌리.",
+  "deriv": "medius(가운데) -> means(중간 매개). '목적에 이르는 수단·방법(a means of transport, 교통수단)' -> '재력(live within one's means, 분수에 맞게 살다)'. 한국 학습자 핵심: means는 단수·복수 동형 — a means of(~의 한 수단), all means(모든 수단)! by means of(~을 써서), by all means(부디·물론이죠), by no means(결코 ~아닌), a means to an end(목적을 위한 수단), the means to do(~할 방법), live beyond one's means(분수에 넘치게 살다). method(방법)·way(방법)·resources(재력)와 유의어. medius 갈래(medium 3028·medal 3026).",
+  "syn": ["method(방법)", "way(방법)", "resources(재력)"],
+  "anti": ["end(목적)"],
+  "idiom": ["by means of(~을 써서)", "by all means(물론이죠)", "by no means(결코 아닌)", "a means to an end(목적을 위한 수단)"],
+  "colloc": ["a means of transport(교통수단)", "by means of(~을 통해)", "live within one's means(분수에 맞게 살다)"],
+  "ex_add": "The internet is a powerful means of communication.  (means=수단)"
+ },
+ {
+  "num": "3022",
+  "hw": "measurement",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "재기 -> '측정·치수'.",
+  "senses": [
+   "1) 측정·계측",
+   "2) (잰) 치수·크기",
+   "3) 측정값·단위"
+  ],
+  "etym": "라틴어 mensura(재기) <- metiri(재다)의 과거분사. measure(재다) + -ment. '재어 얻은 값'이 핵심. metiri(재다)는 measure·dimension(치수)·immense(헤아릴 수 없는->막대한)의 뿌리.",
+  "deriv": "metiri(재다) -> measure -> 'measurement'. '재기 -> 측정(accurate measurement, 정확한 측정)·치수(take measurements, 치수를 재다)'. 한국 학습자 핵심: metiri(재다) 갈래 — measure(측정하다/조치)·dimension(차원·치수)·immense(막대한=잴 수 없는)·measurable(측정 가능한)! take measurements(치수를 재다), units of measurement(측정 단위), waist measurement(허리 치수), precise measurement(정밀 측정). measure(측정/대책)와 구별 — measurement는 '잰 행위·값'! dimension(치수)·size(크기)와 유의어.",
+  "syn": ["dimension(치수)", "size(크기)", "gauging(계측)"],
+  "anti": [],
+  "idiom": ["take measurements(치수를 재다)", "units of measurement(측정 단위)"],
+  "colloc": ["take measurements(치수를 재다)", "accurate measurement(정확한 측정)", "units of measurement(측정 단위)"],
+  "ex_add": "Accurate measurement is essential in building.  (measurement=측정)"
+ },
+ {
+  "num": "3023",
+  "hw": "mechanic",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "기계를 다루는 '정비공·기계공'.",
+  "senses": [
+   "1) (자동차) 정비공·기계공",
+   "2) 수리공",
+   "3) 기능공"
+  ],
+  "etym": "그리스어 mekhanikos(기계의) <- mekhane(기계·장치·고안). '기계(mekhane)를 다루는 사람'이 핵심. mekhane(기계)는 mechanical(3024)·mechanism(3025)·machine(기계)의 뿌리.",
+  "deriv": "mekhane(기계) -> mekhanikos -> 'mechanic'. '기계를 다루는 사람 -> 정비공(a car mechanic, 자동차 정비공)'. 한국 학습자 핵심: mekhane(기계) 갈래 — mechanical(3024)·mechanism(3025)·machine(기계)·machinery(기계류)·mechanics(역학)! a car mechanic(자동차 정비공), an aircraft mechanic(항공 정비사), take the car to a mechanic(정비소에 차를 맡기다). engineer(기술자)·technician(기술공)·repairman(수리공)과 유의어. mechanic(정비공, 사람)과 mechanics(역학·기법, 학문)를 구별! mechanical(3024)·mechanism(3025)이 가족.",
+  "syn": ["technician(기술공)", "engineer(기술자)", "repairman(수리공)"],
+  "anti": [],
+  "idiom": ["a car mechanic(자동차 정비공)", "an aircraft mechanic(항공 정비사)"],
+  "colloc": ["a car mechanic(자동차 정비공)", "take to a mechanic(정비소에 맡기다)", "a skilled mechanic(숙련된 정비공)"],
+  "ex_add": "The mechanic said the engine needed to be replaced.  (mechanic=정비공)"
+ },
+ {
+  "num": "3024",
+  "hw": "mechanical",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "기계의 -> '기계의·기계적인 / 무의식적인'.",
+  "senses": [
+   "1) 기계의·기계로 작동하는",
+   "2) 역학의·기계 공학의",
+   "3) 기계적인·무의식적인·기계처럼 반복하는"
+  ],
+  "etym": "그리스어 mekhanikos(기계의) <- mekhane(기계) + -al. mechanic(3023)·mechanism(3025)·machine과 한 mekhane 갈래. '기계처럼 작동하는'이 핵심.",
+  "deriv": "mekhane(기계) -> 'mechanical'. '기계의 -> 기계로 작동하는(a mechanical device, 기계 장치)·역학의(mechanical engineering, 기계 공학)' -> 비유 '기계적인·무의식적인(a mechanical response, 기계적 반응)'. 한국 학습자 핵심: mekhane(기계) 갈래 — mechanic(3023)·mechanism(3025)·machine·machinery·mechanics(역학)·mechanize! mechanical engineering(기계 공학), a mechanical failure(기계 고장), mechanical parts(기계 부품), in a mechanical way(기계적으로). automatic(자동의)·robotic(로봇 같은)과 유의어 — '무감정·반복적'의 비유 뜻도! 반대 manual(수동의)·spontaneous(자발적인).",
+  "syn": ["automatic(자동의)", "robotic(로봇 같은)", "automated(기계화된)"],
+  "anti": ["manual(수동의)", "spontaneous(자발적인)"],
+  "idiom": ["mechanical engineering(기계 공학)", "a mechanical failure(기계 고장)"],
+  "colloc": ["a mechanical device(기계 장치)", "mechanical engineering(기계 공학)", "a mechanical failure(기계 고장)"],
+  "ex_add": "The breakdown was caused by a mechanical failure.  (mechanical=기계의)"
+ },
+ {
+  "num": "3025",
+  "hw": "mechanism",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "작동 장치 -> '기계 장치·구조 / 방법·기제'.",
+  "senses": [
+   "1) (기계의) 장치·구조",
+   "2) (일이 일어나는) 방식·구조·기제",
+   "3) (목적 달성) 방법·수단"
+  ],
+  "etym": "그리스어 mekhane(기계·장치) + -ism. mechanic(3023)·mechanical(3024)·machine과 한 mekhane 갈래. '작동하게 하는 구조·방식'이 핵심.",
+  "deriv": "mekhane(기계) -> 'mechanism'. '작동 장치 -> 기계 구조(a locking mechanism, 잠금장치)' -> 비유 '방식·기제(a defense mechanism, 방어 기제)·방법(a mechanism for ~, ~을 위한 방법)'. 한국 학습자 핵심: mekhane(기계) 갈래 — mechanic(3023)·mechanical(3024)·machine·machinery·mechanics! a defense mechanism(방어 기제 — 심리학!), a coping mechanism(대처 기제, 2505 cope), a market mechanism(시장 메커니즘), a control mechanism(제어 장치), the mechanism of(~의 작동 원리). system(체계)·process(과정)·device(장치)와 유의어. 추상적 '기제·방식'으로 자주 쓰임!",
+  "syn": ["system(체계)", "process(과정)", "device(장치)"],
+  "anti": [],
+  "idiom": ["a defense mechanism(방어 기제)", "a coping mechanism(대처 기제)", "a market mechanism(시장 메커니즘)"],
+  "colloc": ["a defense mechanism(방어 기제)", "a locking mechanism(잠금장치)", "a coping mechanism(대처 방식)"],
+  "ex_add": "Crying can be a natural defense mechanism.  (mechanism=기제)"
+ },
+ {
+  "num": "3026",
+  "hw": "medal",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "동그란 금속패 -> '메달·훈장'.",
+  "senses": [
+   "1) (수상) 메달",
+   "2) 훈장·기념 메달",
+   "3) 포상 메달"
+  ],
+  "etym": "이탈리아어 medaglia <- 라틴어 medalia(반 푼짜리 동전) <- medius(가운데·절반). 본래 '반(medius) 데나리우스짜리 동전'에서 '동그란 금속패'로. medius(가운데)는 medium(3028)·medieval(중세의)·media의 갈래.",
+  "deriv": "medius(절반) -> medalia -> 'medal'. '동그란 금속패 -> 메달·훈장(win a gold medal, 금메달을 따다)'. 한국 학습자 핵심: medius(가운데/절반) 갈래 — medium(3028)·media·medieval(중세의)·mediocre(평범한)·intermediate·means(3021)! a gold/silver/bronze medal(금·은·동메달), win a medal(메달을 따다), a medal of honor(명예 훈장), a medal winner(메달리스트), be awarded a medal(메달을 받다). 운동회·올림픽 어휘! award(상)·decoration(2556, 훈장)과 유의어. medal(메달)과 meddle(참견하다)을 발음 혼동 주의!",
+  "syn": ["award(상)", "decoration(훈장)", "honor(영예)"],
+  "anti": [],
+  "idiom": ["win a gold medal(금메달을 따다)", "a medal of honor(명예 훈장)", "a medal winner(메달리스트)"],
+  "colloc": ["a gold medal(금메달)", "win a medal(메달을 따다)", "an Olympic medal(올림픽 메달)"],
+  "ex_add": "She won a gold medal at the Olympics.  (medal=메달)"
+ },
+ {
+  "num": "3027",
+  "hw": "medication",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "치료를 위한 -> '약물 (치료)·약'.",
+  "senses": [
+   "1) 약·약물",
+   "2) 약물 치료·투약",
+   "3) 처방약"
+  ],
+  "etym": "라틴어 medicari(치료하다) <- mederi(낫게 하다)의 명사형 medicatio. '병을 낫게 하는(mederi) 약·치료'가 핵심. mederi(낫다)는 medicine(약·의학)·medical(의학의)·remedy(치료법)·medicate(투약하다)의 뿌리.",
+  "deriv": "mederi(낫게 하다) -> medicari -> 'medication'. '치료를 위한 약 -> 약물(take medication, 약을 복용하다)·약물 치료'. 한국 학습자 핵심: mederi(낫게 하다) 갈래 — medicine(약/의학)·medical(의학의)·remedy(치료법)·medicate·medicinal(약효 있는)! be on medication(약을 복용 중이다), take medication(약을 먹다), prescribe medication(약을 처방하다), prescription medication(처방약), strong medication(독한 약). medicine(약)·drug(약)·remedy(치료제)와 유의어 — medication은 '치료 목적의 약·투약'을 강조. cure(2534, 치료)와 관련.",
+  "syn": ["medicine(약)", "drug(약)", "remedy(치료제)"],
+  "anti": [],
+  "idiom": ["be on medication(약을 복용 중이다)", "take medication(약을 먹다)", "prescription medication(처방약)"],
+  "colloc": ["take medication(약을 복용하다)", "be on medication(약을 먹고 있다)", "prescribe medication(약을 처방하다)"],
+  "ex_add": "He takes medication for his high blood pressure.  (medication=약물)"
+ },
+ {
+  "num": "3028",
+  "hw": "medium",
+  "pos": "n., adj.",
+  "cefr": "B2",
+  "core": "가운데 -> '매체·수단 / 중간의 / 영매'.",
+  "senses": [
+   "1) (전달) 매체·수단",
+   "2) 중간의·보통의(크기·정도)",
+   "3) (예술) 표현 수단 / 영매(복수 mediums)"
+  ],
+  "etym": "라틴어 medium(가운데·중간) <- medius(가운데). '양극의 가운데에서 둘을 잇는 것 -> 매개체'가 핵심. medius(가운데)는 media(매체)·medal(3026)·medieval(중세의)·mediocre(평범한)·mediate(중재하다)·means(3021)의 뿌리. 복수형 media(매체) / mediums(영매).",
+  "deriv": "medius(가운데) -> 'medium'. '가운데서 잇는 것 -> 매체·수단(a medium of communication, 소통 매체)' -> '중간의(medium size, 중간 크기)' -> 예술 '표현 수단' / '영매'. 한국 학습자 핵심: medius(가운데) 갈래 — media(미디어, medium의 복수!)·medal(3026)·medieval·mediocre(그저 그런)·mediate(중재하다)·intermediate(중급의)·means(3021)! the mass media(대중 매체), medium-sized(중간 크기의), a happy medium(중용·절충점), medium rare(미디엄 레어), through the medium of(~을 매개로). 복수 — '매체'는 media, '영매'는 mediums! 반대 extreme(2722, 극단).",
+  "syn": ["channel(매체)", "means(수단)", "average(중간의)"],
+  "anti": ["extreme(극단의)"],
+  "idiom": ["the mass media(대중 매체)", "a happy medium(중용)", "medium-sized(중간 크기의)", "through the medium of(~을 매개로)"],
+  "colloc": ["a medium of communication(소통 매체)", "medium size(중간 크기)", "the mass media(대중 매체)"],
+  "ex_add": "Television is a powerful medium for advertising.  (medium=매체)"
+ },
+ {
+  "num": "3029",
+  "hw": "melt",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "녹다 -> '녹다·녹이다 / (마음이) 누그러지다'.",
+  "senses": [
+   "1) 녹다·녹이다",
+   "2) (감정이) 누그러지다·풀리다",
+   "3) (melt away) 차츰 사라지다"
+  ],
+  "etym": "고대 영어 meltan(녹다·소화되다). 게르만 계열 토박이말로, '고체가 액체로 풀어짐'이 핵심. molten(녹은)·smelt(제련하다)와 한 갈래.",
+  "deriv": "meltan(녹다) -> 'melt'. '녹다(ice melts)·녹이다(melt butter)' -> 비유 '마음이 누그러지다(her heart melted)·차츰 사라지다(melt away)'. 한국 학습자 핵심: molten(녹은, molten lava 용암)은 melt의 옛 과거분사! melt away(서서히 사라지다), melt down(녹아내리다 -> meltdown 노심 용융/붕괴), a melting pot(용광로=여러 문화가 섞인 곳), melt in your mouth(입에서 살살 녹다), melt into tears(눈물을 쏟다). dissolve(용해되다)·thaw(녹다)와 유의어. 반대 freeze(얼다)·solidify(굳다)·harden(굳어지다).",
+  "syn": ["dissolve(용해되다)", "thaw(녹다)", "liquefy(액화하다)"],
+  "anti": ["freeze(얼다)", "solidify(굳다)", "harden(굳어지다)"],
+  "idiom": ["melt away(서서히 사라지다)", "a melting pot(용광로/여러 문화의 혼합)", "melt in your mouth(입에서 살살 녹다)"],
+  "colloc": ["melt ice(얼음을 녹이다)", "melt away(사라지다)", "melt butter(버터를 녹이다)"],
+  "ex_add": "The snow began to melt as the sun came out.  (melt=녹다)"
+ },
+ {
+  "num": "3030",
+  "hw": "membership",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "일원의 자격 -> '회원 자격·회원 (수)'.",
+  "senses": [
+   "1) 회원 자격·가입",
+   "2) 회원(권)",
+   "3) (the membership) 전체 회원·회원 수"
+  ],
+  "etym": "member(구성원) + -ship(자격·신분). member는 라틴어 membrum(팔다리·일부). '몸의 일부(membrum)처럼 단체에 속한 자격'이 핵심. membrum(지체)은 member·membrane(막)의 뿌리.",
+  "deriv": "membrum(지체) -> member -> 'membership'. '일원의 자격 -> 회원 자격(apply for membership, 가입 신청을 하다)' -> '전체 회원(the union's membership)'. 한국 학습자 핵심: -ship(자격·신분) 무리 — friendship·leadership(2969)·relationship·partnership·membership! a membership card(회원증), a membership fee(회비, 2737 fee), apply for membership(가입 신청하다), full membership(정회원 자격), membership of/in(~의 회원). member(회원)·membrane(세포막)이 가족. 회원제 시설·단체 어휘.",
+  "syn": ["enrollment(등록)", "affiliation(소속)"],
+  "anti": [],
+  "idiom": ["a membership card(회원증)", "a membership fee(회비)", "apply for membership(가입 신청을 하다)"],
+  "colloc": ["a membership card(회원증)", "a membership fee(회비)", "apply for membership(가입 신청하다)"],
+  "ex_add": "Gym membership costs $50 a month.  (membership=회원권)"
+ },
+ {
+  "num": "3031",
+  "hw": "memorable",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "기억할 만한 -> '기억에 남는·잊지 못할'.",
+  "senses": [
+   "1) 기억에 남는·인상적인",
+   "2) 잊지 못할·뜻깊은",
+   "3) 기념할 만한"
+  ],
+  "etym": "라틴어 memorabilis <- memor(기억하는·잊지 않는). '기억(memor)할 만한'이 핵심. memor(기억)는 memory(기억)·memorial(기념의)·remember(기억하다)·commemorate(기념하다)·memo(메모)의 뿌리.",
+  "deriv": "memor(기억하는) -> memorabilis -> 'memorable'. '기억할 만한 -> 기억에 남는·잊지 못할(a memorable experience, 잊지 못할 경험)'. 한국 학습자 핵심: memor(기억) 갈래 — memory·memorial(기념비)·remember·commemorate(기념하다)·memo·memoir(회고록)·memorize(암기하다)! a memorable day(기억에 남는 날), a memorable performance(인상적인 공연), truly memorable(정말 잊지 못할), make sth memorable(~을 기억에 남게 하다). unforgettable(잊을 수 없는)·notable(주목할 만한)·striking(인상적인)과 유의어. 반대 forgettable(잊기 쉬운)·unremarkable(평범한).",
+  "syn": ["unforgettable(잊을 수 없는)", "notable(주목할 만한)", "striking(인상적인)"],
+  "anti": ["forgettable(잊기 쉬운)", "unremarkable(평범한)", "ordinary(평범한)"],
+  "idiom": ["a memorable experience(잊지 못할 경험)", "truly memorable(정말 잊지 못할)"],
+  "colloc": ["a memorable experience(잊지 못할 경험)", "a memorable day(기억에 남는 날)", "a memorable performance(인상적인 공연)"],
+  "ex_add": "Our trip to Italy was truly memorable.  (memorable=기억에 남는)"
+ },
+ {
+  "num": "3032",
+  "hw": "metaphor",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "뜻을 옮겨 실음 -> '은유·비유'.",
+  "senses": [
+   "1) (수사법) 은유·은유적 표현",
+   "2) 비유·상징",
+   "3) (~의) 상징적 표현"
+  ],
+  "etym": "그리스어 metaphora = meta-(넘어·가로질러) + pherein(나르다) -> '뜻을 다른 데로 옮겨 실음'. pherein(나르다)은 라틴어 ferre와 같은 뿌리 — infer(2901)·differ(2594)·transfer·metabolism(신진대사)·method의 갈래!",
+  "deriv": "meta-(가로질러) + pherein(나르다) -> 'metaphor'. '뜻을 옮겨 실음 -> 은유(life is a journey 같은)'. 한국 학습자 핵심: pherein(나르다)=ferre 갈래 — infer(2901)·differ(2594)·transfer·refer·prefer / meta-(넘어) 갈래 — metabolism(대사)·method·metamorphosis(변태)! a metaphor for(~의 은유), a mixed metaphor(뒤섞인 은유), an extended metaphor(확장 은유), use a metaphor(은유를 쓰다). simile(직유, ~처럼)와 구별 — metaphor는 'A는 B다'(직접), simile는 'A는 B 같다'(like/as)! analogy(유추)·symbol(상징)과 유의어. 문학·수사법 핵심어.",
+  "syn": ["analogy(유추)", "symbol(상징)", "figure of speech(비유)"],
+  "anti": ["literal expression(직설적 표현)"],
+  "idiom": ["a metaphor for(~의 은유)", "a mixed metaphor(뒤섞인 은유)", "an extended metaphor(확장 은유)"],
+  "colloc": ["a metaphor for(~의 은유)", "use a metaphor(은유를 사용하다)", "a powerful metaphor(강력한 비유)"],
+  "ex_add": "The poet used the sea as a metaphor for life.  (metaphor=은유)"
+ },
+ {
+  "num": "3033",
+  "hw": "military",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "군인의 -> '군의·군사의 / 군대'.",
+  "senses": [
+   "1) 군의·군사의·군대의",
+   "2) (the military) 군대·군부",
+   "3) 무력의·군인다운"
+  ],
+  "etym": "라틴어 militaris(군인의) <- miles/milit-(군인·병사). '군인(miles)에 관한'이 핵심. miles(군인)는 militant(투쟁적인)·militia(민병대)·militate(작용하다)의 뿌리.",
+  "deriv": "miles(군인) -> militaris -> 'military'. '군인의 -> 군의·군사의(military service, 병역)' -> 명사 '군대(join the military, 입대하다)'. 한국 학습자 핵심: miles(군인) 갈래 — militant(전투적인)·militia(민병대)·militate(불리하게 작용하다)·militarism(군국주의)! military service(병역), the military(군부·군대), military power/force(군사력), a military base(군사 기지), military action(군사 행동), join the military(군에 입대하다). armed forces(군대)와 유의어. military(군의)와 martial(3013, 무술의)을 구별 — 둘 다 '군·전쟁' 계열! 반대 civilian(민간의)·civil(2426).",
+  "syn": ["armed(무장한)", "armed forces(군대)"],
+  "anti": ["civilian(민간의)", "civil(민간의)"],
+  "idiom": ["military service(병역)", "join the military(입대하다)", "military action(군사 행동)"],
+  "colloc": ["military service(병역)", "military power(군사력)", "a military base(군사 기지)"],
+  "ex_add": "He spent ten years in the military.  (military=군대)"
+ },
+ {
+  "num": "3034",
+  "hw": "miner",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "캐는 사람 -> '광부·갱부'.",
+  "senses": [
+   "1) 광부·갱부",
+   "2) 채굴 작업자",
+   "3) (군) 지뢰 공병"
+  ],
+  "etym": "mine(광산·캐다) + -er. mine은 켈트·라틴 mina(광맥·광산)에서. '광산(mine)에서 캐는 사람'이 핵심. mina(광산)는 mine(광산)·mineral(3035)·mining(채광)의 뿌리.",
+  "deriv": "mina(광산) -> mine -> 'miner'. '캐는 사람 -> 광부(a coal miner, 탄광부)'. 한국 학습자 핵심: mina(광산) 갈래 — mine(광산/캐다)·mineral(3035)·mining(채광)·mine(지뢰는 다른 갈래)! a coal miner(탄광 광부), a gold miner(금광 광부), miners on strike(파업 중인 광부들), a miner's lamp(광부용 램프). miner(광부)와 minor(3038, 미성년자/사소한)는 발음[ˈmaɪnər]이 같은 동음이의어 — 철자로 구별! mine(광산/캐다)·mineral(3035)이 가족. 노동·산업 단원 어휘.",
+  "syn": ["digger(채굴자)", "collier(탄광부)"],
+  "anti": [],
+  "idiom": ["a coal miner(탄광부)", "a gold miner(금광 광부)", "a miner's lamp(광부용 램프)"],
+  "colloc": ["a coal miner(탄광 광부)", "miners on strike(파업 중인 광부)", "a gold miner(금광 광부)"],
+  "ex_add": "The miners worked deep underground for long hours.  (miner=광부)"
+ },
+ {
+  "num": "3035",
+  "hw": "mineral",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "광산에서 캔 것 -> '광물·무기질·미네랄'.",
+  "senses": [
+   "1) 광물·광석",
+   "2) (영양소) 무기질·미네랄",
+   "3) (mineral water) 광천수"
+  ],
+  "etym": "중세 라틴어 minerale(캐낸 것) <- minera(광석·광산) <- mina(광산). miner(3034)·mine과 한 mina 갈래. '광산(mina)에서 캐낸 무기물'이 핵심.",
+  "deriv": "mina(광산) -> minerale -> 'mineral'. '광산에서 캔 것 -> 광물(mineral deposits, 광상)·무기질(vitamins and minerals, 비타민과 무기질)'. 한국 학습자 핵심: mina(광산) 갈래 — mine(광산/캐다)·miner(3034)·mining(채광)! mineral water(광천수·생수), mineral resources(광물 자원), vitamins and minerals(비타민과 무기질), mineral deposits(광물 매장층, 2577 deposit), essential minerals(필수 무기질). 영양·지질 단원 어휘 — 음식의 '미네랄'과 땅의 '광물' 둘 다! ore(광석)·nutrient(영양소)와 유의어. miner(3034)·mine이 가족.",
+  "syn": ["ore(광석)", "nutrient(영양소)"],
+  "anti": [],
+  "idiom": ["mineral water(생수)", "vitamins and minerals(비타민과 무기질)", "mineral resources(광물 자원)"],
+  "colloc": ["mineral water(광천수)", "mineral resources(광물 자원)", "vitamins and minerals(비타민과 무기질)"],
+  "ex_add": "This region is rich in mineral resources.  (mineral=광물)"
+ },
+ {
+  "num": "3036",
+  "hw": "minimum",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "가장 작은 -> '최소의·최저의 / 최소량'.",
+  "senses": [
+   "1) 최소의·최저의·최소한의",
+   "2) 최소량·최저치·하한(명사)",
+   "3) (at minimum) 최소한"
+  ],
+  "etym": "라틴어 minimus(가장 작은), minor(더 작은)의 최상급. '가장 작은(minor)'이 핵심. minor(작은)는 minor(3038)·minister(3037)·minority(3039)·minus(빼기)·diminish(줄이다)의 뿌리. maximum(3020, 최대)과 정반대 짝!",
+  "deriv": "minor(더 작은) -> minimus -> 'minimum'. '가장 작은 -> 최소의(the minimum wage, 최저 임금)' -> 명사 '최소량(a minimum of, 최소한 ~)'. 한국 학습자 핵심: minimum(최소) ↔ maximum(3020, 최대) 정반대! minor(작은) 대가족 — minor(3038)·minister(3037)·minority(3039)·minus·diminish·minimal(최소의)·miniature(축소 모형)! the minimum wage(최저 임금), keep to a minimum(최소한으로 유지하다), a minimum of(최소 ~), bare minimum(최소한도), reduce to a minimum(최소화하다), minimize(최소화하다). 약자 min! 반대 maximum(3020, 최대)·maximal.",
+  "syn": ["least(최소의)", "lowest(최저의)", "smallest(가장 작은)"],
+  "anti": ["maximum(최대의)", "highest(최고의)", "greatest(최대의)"],
+  "idiom": ["the minimum wage(최저 임금)", "keep to a minimum(최소한으로 유지하다)", "a bare minimum(최소한도)", "at minimum(최소한)"],
+  "colloc": ["the minimum wage(최저 임금)", "a minimum of(최소 ~)", "keep to a minimum(최소로 유지하다)"],
+  "ex_add": "You must be 18, the minimum age to vote.  (minimum=최소의)"
+ },
+ {
+  "num": "3037",
+  "hw": "minister",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "더 작은 자=섬기는 이 -> '장관 / 목사 / 보살피다'.",
+  "senses": [
+   "1) (정부) 장관·각료",
+   "2) (개신교) 목사·성직자",
+   "3) (동사) (minister to) 보살피다·돌보다"
+  ],
+  "etym": "라틴어 minister(하인·시중드는 사람) <- minus(더 작은). 본래 '더 작은(minus) 자, 섬기는 이'였다가 '국가·교회를 섬기는 사람 -> 장관·목사'로! minus(작은)는 minor(3038)·minimum(3036)·minority(3039)의 뿌리. master(3016, 더 큰 자)와 정반대 짝!",
+  "deriv": "minus(작은) -> minister(섬기는 이) -> 'minister'. '섬기는 이 -> 장관(the Prime Minister, 총리)·목사' -> 동사 '보살피다(minister to the sick)'. 한국 학습자 핵심: minus(작은) 대가족 — minor(3038)·minimum(3036)·minority(3039)·minus·diminish·administer(관리하다)·ministry(부처)! minister(하인->섬기는 이) ↔ master(3016, 주인->큰 자) 어원상 정반대! the Prime Minister(국무총리), a foreign minister(외무 장관), a finance minister(재무 장관), a government minister(정부 각료). secretary(장관)·official(관리)과 유의어. ministry(부·내각)가 가족.",
+  "syn": ["secretary(장관)", "official(관리)", "clergyman(성직자)"],
+  "anti": [],
+  "idiom": ["the Prime Minister(총리)", "a government minister(정부 각료)", "minister to(~를 보살피다)"],
+  "colloc": ["the Prime Minister(국무총리)", "a foreign minister(외무 장관)", "a cabinet minister(각료)"],
+  "ex_add": "The Prime Minister gave a speech to parliament.  (minister=장관)"
+ },
+ {
+  "num": "3038",
+  "hw": "minor",
+  "pos": "adj., n., v.",
+  "cefr": "B2",
+  "core": "더 작은 -> '사소한·작은 쪽의 / 미성년자 / 부전공'.",
+  "senses": [
+   "1) 사소한·중요하지 않은·작은 쪽의",
+   "2) 미성년자(명사)",
+   "3) (대학) 부전공 / (동사) 부전공하다(minor in)"
+  ],
+  "etym": "라틴어 minor(더 작은·더 적은). '더 작은(magnus 큰의 반대)'이 핵심. minor는 minimum(3036)·minister(3037)·minority(3039)·minus(빼기)·diminish(줄이다)·minute(미세한)의 뿌리. major(3002, 더 큰)와 정반대 짝!",
+  "deriv": "minor(더 작은). '사소한·작은 쪽의(a minor problem, 사소한 문제)' -> 명사 '미성년자(sale to minors, 미성년자 판매)·부전공' -> 동사 '부전공하다(minor in art)'. 한국 학습자 핵심: minor(사소한) ↔ major(3002, 주요한) 정반대! minor 대가족 — minimum(3036)·minister(3037)·minority(3039)·minus·diminish·minute(미세한)·miniature! a minor injury(경상), a minor role(단역), a minor in music(음악 부전공), minor in(~을 부전공하다). minor(작은)와 miner(3034, 광부)는 동음이의어 — 철자 구별! small(작은)·trivial(하찮은)·secondary(부차적인)와 유의어. 반대 major(3002).",
+  "syn": ["small(작은)", "trivial(하찮은)", "secondary(부차적인)"],
+  "anti": ["major(주요한)", "significant(중대한)", "main(주된)"],
+  "idiom": ["a minor injury(경상)", "minor in(~을 부전공하다)", "a minor role(단역)"],
+  "colloc": ["a minor problem(사소한 문제)", "a minor injury(경상)", "minor changes(사소한 변경)"],
+  "ex_add": "It was only a minor problem, easily fixed.  (minor=사소한)"
+ },
+ {
+  "num": "3039",
+  "hw": "minority",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "더 작은 쪽 -> '소수·소수파 / 소수 민족'.",
+  "senses": [
+   "1) 소수·소수파",
+   "2) 소수 집단·소수 민족",
+   "3) (법) 미성년 (기간)"
+  ],
+  "etym": "라틴어 minor(더 작은, 3038) + -ity -> minoritas. '더 작은(minor) 쪽·더 적은 수'가 핵심. minor(작은) 갈래로 minimum(3036)·minister(3037)와 한 가족. majority(3003, 다수)와 정반대 짝!",
+  "deriv": "minor(더 작은, 3038) -> 'minority'. '더 작은 쪽 -> 소수·소수파(a small minority, 극소수)' -> '소수 민족(ethnic minorities, 소수 민족, 2687 ethnic)'. 한국 학습자 핵심: minority(소수) ↔ majority(3003, 다수) 정반대! minor(작은) 대가족 — minor(3038)·minimum(3036)·minister(3037)·minus·diminish! an ethnic minority(소수 민족), a minority group(소수 집단), be in the minority(소수에 속하다), a minority opinion(소수 의견), minority rights(소수자 권리). 주의 — 'a minority of + 복수명사'! 반대 majority(3003, 다수).",
+  "syn": ["the few(소수)", "minority group(소수 집단)"],
+  "anti": ["majority(다수)", "the masses(대중)"],
+  "idiom": ["an ethnic minority(소수 민족)", "be in the minority(소수에 속하다)", "a minority opinion(소수 의견)"],
+  "colloc": ["an ethnic minority(소수 민족)", "a small minority(극소수)", "a minority group(소수 집단)"],
+  "ex_add": "Only a small minority opposed the plan.  (minority=소수)"
+ },
+ {
+  "num": "3040",
+  "hw": "miserable",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "비참한 -> '비참한·불행한 / (날씨가) 음산한 / 형편없는'.",
+  "senses": [
+   "1) 비참한·불행한·우울한",
+   "2) (날씨·환경이) 음산한·괴로운",
+   "3) 형편없는·하찮은·인색한"
+  ],
+  "etym": "라틴어 miserabilis <- miser(불쌍한·비참한). '동정을 살 만큼 비참한'이 핵심. miser(비참)는 misery(비참)·miser(구두쇠)·commiserate(동정하다)의 뿌리. (소설 'Les Misérables(레 미제라블)'이 바로 '비참한 사람들'!)",
+  "deriv": "miser(불쌍한) -> miserabilis -> 'miserable'. '비참한·불행한(feel miserable, 비참하다)' -> '음산한(miserable weather, 궂은 날씨)' -> '형편없는(a miserable salary, 쥐꼬리 봉급)'. 한국 학습자 핵심: miser(비참) 갈래 — misery(비참·고통)·miser(구두쇠)·commiserate(위로하다)·miserably(비참하게)! Les Misérables(레 미제라블='비참한 사람들')! feel miserable(비참하다), make sb's life miserable(~의 삶을 비참하게 만들다), a miserable failure(비참한 실패), miserable weather(궂은 날씨). unhappy(불행한)·wretched(비참한)·gloomy(우울한)와 유의어. 반대 happy(행복한)·cheerful(쾌활한)·delighted(2567).",
+  "syn": ["unhappy(불행한)", "wretched(비참한)", "gloomy(우울한)"],
+  "anti": ["happy(행복한)", "cheerful(쾌활한)", "delighted(기쁜)"],
+  "idiom": ["feel miserable(비참하다)", "make sb's life miserable(~를 괴롭히다)", "a miserable failure(참담한 실패)"],
+  "colloc": ["feel miserable(비참하다)", "miserable weather(궂은 날씨)", "a miserable existence(비참한 삶)"],
+  "ex_add": "He felt miserable after losing his job.  (miserable=비참한)"
+ },
+ {
+  "num": "3041",
+  "hw": "mission",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "보내진 임무 -> '임무·사명 / 사절단 / 전도'.",
+  "senses": [
+   "1) (특별) 임무·사명",
+   "2) 사절단·파견단",
+   "3) (종교) 전도·선교 (활동)"
+  ],
+  "etym": "라틴어 missio(보냄) <- mittere(보내다). '보내져(mittere) 맡겨진 임무'가 핵심. mittere(보내다)는 commission(2446)·dismiss(2607)·emission(2657)·submit·permit·admit·transmit·omit의 거대한 뿌리.",
+  "deriv": "mittere(보내다) -> missio -> 'mission'. '보내진 임무 -> 임무·사명(a rescue mission, 구조 임무)' -> '사절단(a trade mission)' -> '선교(a missionary, 선교사)'. 한국 학습자 핵심: mittere(보내다) 대가족 — commission(2446)·dismiss(2607)·emission(2657)·submit·permit·admit·transmit·omit·missile(미사일=보내는 것)! a mission statement(사명 선언문), a suicide mission(자살 임무), mission accomplished(임무 완수), a peacekeeping mission(평화 유지 임무), a sense of mission(사명감), on a mission(사명을 띠고). task(과업)·assignment(임무)·calling(소명)과 유의어.",
+  "syn": ["task(과업)", "assignment(임무)", "calling(소명)"],
+  "anti": [],
+  "idiom": ["a mission statement(사명 선언문)", "mission accomplished(임무 완수)", "a sense of mission(사명감)", "on a mission(사명을 띠고)"],
+  "colloc": ["a rescue mission(구조 임무)", "a mission statement(사명 선언)", "a space mission(우주 임무)"],
+  "ex_add": "The team's mission was to rescue the trapped miners.  (mission=임무)"
+ }
+]
