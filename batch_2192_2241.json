@@ -1,0 +1,952 @@
+[
+ {
+  "num": "2192",
+  "hw": "unlike",
+  "pos": "prep.",
+  "cefr": "B1",
+  "core": "~와 '같지 않게' = ~와 달리.",
+  "senses": [
+   "1) ~와 달리·~와는 다르게",
+   "2) ~답지 않은",
+   "3) (형) 다른·닮지 않은"
+  ],
+  "etym": "un(아닌) + like(같은·~처럼, 1853). like(고대 영어 līc 모습)의 부정. '같지 않은'이 핵심. like(~같은)·alike(비슷한)·likeness와 한 가족.",
+  "deriv": "like(~같은) + un-(부정) -> 'unlike(~와 달리)'. 전치사 'Unlike his brother, he is shy(형과 달리 그는 수줍다)' -> '~답지 않은(It's unlike her to be late, 그녀가 늦다니 그녀답지 않다)'. like(1853) 뿌리. 한국 학습자: unlike(~와 달리, 전치사) + 명사 — 두 대상을 대조. unlike me/you, not unlike(~과 비슷한, 이중부정). It's unlike A to V(A가 ~하다니 의외다). like(~처럼)가 반의. unlikely(가망 없는, 2193)와 구별 — unlike는 '다른', unlikely는 '가능성 낮은'.",
+  "syn": ["in contrast to(~과 대조적으로)", "different from(~과 다른)"],
+  "anti": ["like(~처럼)", "similar to(~과 비슷한)"],
+  "idiom": ["unlike A, B(A와 달리 B)", "It's unlike someone to V(~답지 않다)", "not unlike(~과 비슷한)"],
+  "colloc": ["unlike others(다른 이들과 달리)", "quite unlike(전혀 다른)", "unlike anything(무엇과도 다른)"],
+  "ex_add": "Unlike her sister, she enjoys sports.  (unlike=~와 달리)"
+ },
+ {
+  "num": "2193",
+  "hw": "unlikely",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "그럴 '법하지 않은' = 가능성 낮은·있을 성싶지 않은.",
+  "senses": [
+   "1) ~할 것 같지 않은·가망 없는",
+   "2) 일어날 성싶지 않은",
+   "3) 의외의·뜻밖의"
+  ],
+  "etym": "un(아닌) + likely(~할 것 같은). likely < like(~같은, 1853) + -ly. '~할 법하지 않은'이 핵심. like(모습)·likelihood(가능성)와 한 가족.",
+  "deriv": "likely(~할 것 같은) + un-(부정) -> 'unlikely'. 'be unlikely to V(~할 것 같지 않다)' -> 'It's unlikely that ~(~일 가망이 없다)' -> '의외의(an unlikely hero, 뜻밖의 영웅)'. likelihood(가능성)와 묶인다. 한국 학습자 핵심: be unlikely to V(~할 것 같지 않다), highly/most unlikely(매우 가망 없는), in the unlikely event of(만에 하나 ~의 경우). likely(~할 것 같은)가 반의. unlike(~와 달리, 2192)와 혼동 주의 — unlikely는 '가능성', unlike는 '다름'.",
+  "syn": ["improbable(있음 직하지 않은)", "doubtful(의심스러운)", "remote(희박한)"],
+  "anti": ["likely(~할 것 같은)", "probable(있음 직한)"],
+  "idiom": ["be unlikely to V(~할 것 같지 않다)", "in the unlikely event of(만에 하나 ~할 경우)", "an unlikely story(믿기 힘든 이야기)"],
+  "colloc": ["highly unlikely(매우 가망 없는)", "unlikely to happen(일어날 것 같지 않은)", "unlikely hero(뜻밖의 영웅)"],
+  "ex_add": "It's highly unlikely that he'll change his mind.  (unlikely that ~=~일 가망이 없는)"
+ },
+ {
+  "num": "2194",
+  "hw": "unnecessary",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "꼭 필요하지 '않은' = 불필요한.",
+  "senses": [
+   "1) 불필요한·쓸데없는",
+   "2) 굳이 안 해도 되는",
+   "3) 과한·지나친"
+  ],
+  "etym": "un(아닌) + necessary(필요한). necessary < 라틴어 necesse = ne(아닌) + cedere(물러나다). '피할 수 없는'의 반대. '필요하지 않은'이 핵심. cedere(가다) 뿌리로 necessarily(1896)·access·proceed와 묶인다.",
+  "deriv": "necessary(필요한) + un-(부정) -> 'unnecessary'. '불필요한(unnecessary risks)' -> '과한(unnecessary delay)'. cedere(가다) 뿌리로 necessary·necessarily(1896)와 묶인다. unnecessarily(불필요하게)가 부사. 한국 학습자: 철자 주의 — un-necessary(n 두 개, c 하나, s 두 개). avoid unnecessary(불필요한 것을 피하다), an unnecessary risk(괜한 위험), cause unnecessary suffering(쓸데없는 고통을 주다). necessary(필요한)가 반의. un- 부정 접두사.",
+  "syn": ["needless(불필요한)", "pointless(무의미한)", "superfluous(남아도는)"],
+  "anti": ["necessary(필요한)", "essential(필수의)", "vital(필수적인)"],
+  "idiom": ["an unnecessary risk(괜한 위험)", "avoid unnecessary(불필요한 것을 피하다)"],
+  "colloc": ["unnecessary risk(불필요한 위험)", "completely unnecessary(전혀 불필요한)", "unnecessary delay(불필요한 지연)"],
+  "ex_add": "Try to avoid unnecessary spending.  (unnecessary=불필요한)"
+ },
+ {
+  "num": "2195",
+  "hw": "unpleasant",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "기분 좋지 '않은' = 불쾌한·기분 나쁜.",
+  "senses": [
+   "1) 불쾌한·기분 나쁜",
+   "2) (사람이) 무례한·고약한",
+   "3) (경험이) 언짢은"
+  ],
+  "etym": "un(아닌) + pleasant(기분 좋은, 1946). pleasant < 라틴어 placere(마음에 들다). '마음에 들지 않는'이 핵심. placere(마음에 들다) 뿌리로 pleasant(1946)·please·pleasure(1947)와 묶인다.",
+  "deriv": "pleasant(기분 좋은) + un-(부정) -> 'unpleasant'. 일 '불쾌한(an unpleasant smell)' -> 사람 '고약한(an unpleasant man)' -> 경험 '언짢은(an unpleasant experience)'. placere 뿌리로 pleasant·pleasure와 묶인다. unpleasantly(불쾌하게)가 부사. 한국 학습자: an unpleasant surprise(달갑잖은 일), unpleasant truth(불편한 진실), turn unpleasant(험악해지다). pleasant(기분 좋은, 1946)가 반의. nasty·disagreeable과 유의어. un- 부정 접두사.",
+  "syn": ["nasty(고약한)", "disagreeable(불쾌한)", "horrible(끔찍한)"],
+  "anti": ["pleasant(기분 좋은)", "agreeable(쾌적한)", "delightful(유쾌한)"],
+  "idiom": ["an unpleasant surprise(달갑잖은 일)", "unpleasant truth(불편한 진실)", "turn unpleasant(험악해지다)"],
+  "colloc": ["unpleasant smell(불쾌한 냄새)", "unpleasant experience(언짢은 경험)", "deeply unpleasant(매우 불쾌한)"],
+  "ex_add": "There was an unpleasant smell in the room.  (unpleasant=불쾌한)"
+ },
+ {
+  "num": "2196",
+  "hw": "update",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "'최신 상태로' 고치다 = 갱신하다 / 최신 소식.",
+  "senses": [
+   "1) (정보를) 갱신하다·최신화하다",
+   "2) (소프트웨어를) 업데이트하다",
+   "3) (n.) 갱신·최신 정보"
+  ],
+  "etym": "up(위로·최신으로) + date(날짜). '날짜를 최신으로 끌어올림'이 핵심. up-to-date(최신의)의 그 결합. date(날짜, 라틴어 data '주어진 것')와 한 가족.",
+  "deriv": "up + date -> 'update'. 동사 '갱신하다(update the records)' -> 명사 '최신 소식(a news update)'. up-to-date(최신의)·updated(갱신된)가 파생. 한국 학습자: update A on B(A에게 B의 최신 정보를 알리다), keep ~ updated(~을 계속 업데이트하다), a software update(소프트웨어 업데이트), a status update(상태 업데이트, SNS). 명사 UP-date, 동사 up-DATE 강세 경향. up-to-date(최신의) vs out-of-date(구식의). upgrade(업그레이드)와 구별.",
+  "syn": ["upgrade(개선하다)", "refresh(갱신하다)", "modernize(현대화하다)"],
+  "anti": ["outdated(구식이 되다)"],
+  "idiom": ["keep updated(최신 정보를 유지하다)", "a news update(최신 뉴스)", "update A on B(A에게 B 소식을 전하다)"],
+  "colloc": ["software update(소프트웨어 갱신)", "update information(정보를 갱신하다)", "regular update(정기 업데이트)"],
+  "ex_add": "Please update your contact details.  (update=갱신하다)"
+ },
+ {
+  "num": "2197",
+  "hw": "upon",
+  "pos": "prep.",
+  "cefr": "B1",
+  "core": "'~ 위에' (on의 격식형) / ~하자마자.",
+  "senses": [
+   "1) ~ 위에 (on의 격식체)",
+   "2) (시간) ~하자마자·~ 시에",
+   "3) (관용) 잇따라·임박하여"
+  ],
+  "etym": "up + on. on(~위에)을 강조한 형태. 고대 영어 uppon. '바로 위에'가 핵심. on(위에)과 같은 뜻이나 더 격식·문어적.",
+  "deriv": "up + on -> 'upon'. 'on'의 격식형 -> 시간 'upon arrival(도착하자마자, 1512 arrival 참고)' -> 관용 'row upon row(줄줄이)'. 한국 학습자: upon은 일상의 on보다 격식·관용 표현에서 — once upon a time(옛날 옛적에, 1913 once), upon ~ing(~하자마자: upon hearing the news 그 소식을 듣자마자), depend upon(= depend on), thousands upon thousands(수천수만). on이 일반적이고 upon은 정형 표현·문어체. day upon day(나날이).",
+  "syn": ["on(~ 위에)", "as soon as(~하자마자)"],
+  "anti": ["under(~ 아래에)"],
+  "idiom": ["once upon a time(옛날 옛적에)", "upon ~ing(~하자마자)", "row upon row(줄줄이)", "thousands upon thousands(수천수만)"],
+  "colloc": ["upon arrival(도착하자마자)", "depend upon(~에 달려 있다)", "based upon(~에 근거하여)"],
+  "ex_add": "Upon hearing the news, she burst into tears.  (upon ~ing=~하자마자)"
+ },
+ {
+  "num": "2198",
+  "hw": "upset",
+  "pos": "adj., v.",
+  "cefr": "B1",
+  "core": "마음·상태가 '뒤집혀' 속상한·뒤엎다.",
+  "senses": [
+   "1) (형) 속상한·마음이 상한",
+   "2) (동사) 속상하게 하다·뒤엎다",
+   "3) (배가) 탈이 난 / (n.) 의외의 패배"
+  ],
+  "etym": "up(위로) + set(놓다, 2074). '뒤집어엎음'이 핵심. '아래위가 뒤집힘 -> 마음이 뒤집힘(속상함)'으로. set(놓다) 뿌리로 setting(2075)·settle과 묶인다.",
+  "deriv": "up + set -> 'upset'. 형용사 '속상한(feel upset)' -> 동사 '속상하게 하다(upset someone)·뒤엎다(upset the plan)' -> '배탈(an upset stomach)' -> '이변(a major upset, 큰 이변)'. upset-upset-upset(불변). upsetting(속상하게 하는)이 파생. 한국 학습자: be/feel upset about/over(~ 때문에 속상하다), upset the balance(균형을 깨다), an upset stomach(체함), get upset(화내다·속상해하다). -ed/-ing 구별 — upset(속상한, 사람)/upsetting(속상하게 하는, 원인).",
+  "syn": ["distressed(괴로운)", "disturb(동요시키다)", "overturn(뒤엎다)"],
+  "anti": ["calm(차분한)", "pleased(기쁜)", "content(만족한)"],
+  "idiom": ["an upset stomach(배탈)", "upset the apple cart(일을 망쳐 놓다)", "get upset(속상해하다)", "a major upset(큰 이변)"],
+  "colloc": ["very upset(몹시 속상한)", "upset about(~에 속상한)", "upset the balance(균형을 깨다)"],
+  "ex_add": "She was upset about losing her job.  (upset about=~ 때문에 속상한)"
+ },
+ {
+  "num": "2199",
+  "hw": "used",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "①써서 '익숙해진' ②이미 '사용된'(중고의).",
+  "senses": [
+   "1) (be used to) ~에 익숙한",
+   "2) 중고의·이미 쓴",
+   "3) 사용된"
+  ],
+  "etym": "use(쓰다, 라틴어 uti 사용하다, 1442)의 과거분사. '써 온 -> 익숙한' / '쓰인 -> 중고의'. use(1442)·usual(1445)·useful과 한 uti(쓰다) 뿌리.",
+  "deriv": "use(쓰다) -> 'used'. ① 'be used to + 명사/V-ing(~에 익숙하다)' ② '중고의(a used car, 중고차)'. uti(쓰다) 뿌리로 use·usual·useful과 묶인다. 한국 학습자 최다 함정: ① be used to V-ing(~에 익숙하다, 동명사!) vs ② used to V(예전에 ~하곤 했다, 1443) vs ③ be used to V(~하는 데 쓰이다, 수동) — 셋을 구별! get used to(~에 익숙해지다). 발음도 다름 — 익숙/중고의 used는 /juːst/, '사용된'은 /juːzd/. a used car(중고차), secondhand(중고의)와 유의.",
+  "syn": ["accustomed(익숙한)", "secondhand(중고의)", "pre-owned(중고의)"],
+  "anti": ["new(새것의)", "unaccustomed(익숙하지 않은)"],
+  "idiom": ["be used to(~에 익숙하다)", "get used to(~에 익숙해지다)", "a used car(중고차)"],
+  "colloc": ["used to it(그것에 익숙한)", "used car(중고차)", "get used to(~에 익숙해지다)"],
+  "ex_add": "I'm not used to getting up so early.  (be used to V-ing=~에 익숙하다)"
+ },
+ {
+  "num": "2200",
+  "hw": "valuable",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "값어치가 '큰' = 값비싼·소중한.",
+  "senses": [
+   "1) (금전적으로) 값비싼·고가의",
+   "2) 귀중한·소중한",
+   "3) (the valuables) 귀중품"
+  ],
+  "etym": "value(가치) + -able. value < 라틴어 valere(가치가 있다·강하다). '가치를 지닌'이 핵심. valere(가치) 뿌리로 value·valid(유효한)·evaluate(평가하다)·prevail(우세하다)·invaluable이 묶인다.",
+  "deriv": "valere(가치 있다) -> value -> 'valuable'. '값비싼(a valuable painting)' -> '소중한(valuable advice)' -> 명사 'valuables(귀중품)'. valere 뿌리로 value·valid·evaluate·prevail과 묶인다. 한국 학습자 주의: invaluable(매우 귀중한)은 valuable의 강조형이지 반대말이 아님! (in-이 '매우'로 작용). valueless = worthless(가치 없는)가 진짜 반의. valuable lesson(귀중한 교훈), valuable information(소중한 정보). priceless(값을 매길 수 없이 귀한)와 유의.",
+  "syn": ["precious(귀중한)", "costly(값비싼)", "invaluable(매우 귀중한)"],
+  "anti": ["worthless(가치 없는)", "valueless(쓸모없는)", "cheap(값싼)"],
+  "idiom": ["valuable lesson(귀중한 교훈)", "a valuable asset(소중한 자산)"],
+  "colloc": ["valuable information(귀중한 정보)", "valuable lesson(소중한 교훈)", "extremely valuable(매우 값진)"],
+  "ex_add": "She gave me some valuable advice.  (valuable=소중한)"
+ },
+ {
+  "num": "2201",
+  "hw": "various",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "제각각 '여러 가지의·다양한'.",
+  "senses": [
+   "1) 여러 가지의·갖가지의",
+   "2) 다양한·각양각색의",
+   "3) 서로 다른"
+  ],
+  "etym": "라틴어 varius(여러 가지의·얼룩덜룩한). '제각각 다른'이 핵심. variety(다양성, 1447)·vary(달라지다)·variation(변형)·variable(변수)이 같은 varius(다양한) 뿌리.",
+  "deriv": "varius(다양한) -> 'various'. '여러 가지의(various reasons, 여러 이유)'. varius 뿌리로 variety(1447)·vary·variation·variable과 묶인다 — 같은 varius를 variety에서 봤음. variously(여러 가지로)가 부사. 한국 학습자: various + 복수명사(various countries, 여러 나라), for various reasons(여러 이유로), at various times(여러 차례). a variety of(여러 가지의, 명사구)와 의미는 비슷하나 various는 형용사. different(다른)·diverse(다양한)와 유의어.",
+  "syn": ["diverse(다양한)", "varied(가지각색의)", "different(여러)"],
+  "anti": ["identical(동일한)", "uniform(획일적인)", "same(같은)"],
+  "idiom": ["for various reasons(여러 이유로)", "at various times(여러 번)", "various and sundry(가지각색의)"],
+  "colloc": ["various reasons(여러 이유)", "various ways(여러 방법)", "various forms(다양한 형태)"],
+  "ex_add": "The store sells various kinds of cheese.  (various=여러 가지의)"
+ },
+ {
+  "num": "2202",
+  "hw": "version",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "다르게 '돌려 만든' 판본·형태·설명.",
+  "senses": [
+   "1) (제품·작품의) ~판·버전",
+   "2) (개작·번안된) 형태·각색",
+   "3) (사람마다 다른) 설명·진술"
+  ],
+  "etym": "라틴어 versio < vertere(돌리다·바꾸다). '방향을 돌려 바꾼 것'이 핵심. vertere(돌리다) 뿌리로 convert(전환하다)·reverse(뒤집다)·divert(딴 데로 돌리다)·advertise(광고하다)·universe가 묶인다.",
+  "deriv": "vertere(돌리다) -> versio -> 'version'. 제품 '버전(the latest version)' -> 작품 '각색(a film version)' -> '설명(his version of events, 그가 말한 사건의 전말)'. vertere(돌리다) 뿌리로 convert·reverse·divert·advertise·universe와 묶인다. 한국 학습자: the latest version(최신판), an updated version(개정판), a cover version(리메이크 곡), different versions of the story(서로 다른 진술). software version(소프트웨어 버전). vertere 가족이 매우 넓음.",
+  "syn": ["edition(판)", "variant(변형)", "account(진술)"],
+  "anti": ["original(원본)"],
+  "idiom": ["the latest version(최신 버전)", "a cover version(리메이크 곡)", "one's version of events(~가 말하는 사건 경위)"],
+  "colloc": ["latest version(최신판)", "updated version(개정판)", "different version(다른 버전)"],
+  "ex_add": "This is the updated version of the app.  (version=버전)"
+ },
+ {
+  "num": "2203",
+  "hw": "victim",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "해·재난을 '당한' 사람 = 피해자·희생자.",
+  "senses": [
+   "1) 피해자·희생자",
+   "2) (재난·병의) 이재민·환자",
+   "3) (제물로 바쳐진) 희생물"
+  ],
+  "etym": "라틴어 victima(제물·희생 짐승). 본래 '신께 바치는 제물'에서 '재난을 당한 자'로. 종교적 '희생'이 핵심.",
+  "deriv": "victima(제물) -> 'victim'. '피해자(a victim of crime)' -> '이재민(flood victims)' -> 종교 '희생물'. victimize(희생시키다·괴롭히다)가 파생. 한국 학습자: a victim of(~의 피해자), fall victim to(~의 희생양이 되다), an innocent victim(무고한 피해자), play the victim(피해자인 척하다). perpetrator(가해자)·offender(범인)가 반의. survivor(생존자, 2138)와 결이 다름. crime/accident/disaster victim(범죄/사고/재난 피해자).",
+  "syn": ["casualty(사상자)", "sufferer(피해자)", "prey(먹잇감)"],
+  "anti": ["perpetrator(가해자)", "offender(범죄자)", "attacker(공격자)"],
+  "idiom": ["fall victim to(~의 희생양이 되다)", "play the victim(피해자 행세를 하다)", "an innocent victim(무고한 피해자)"],
+  "colloc": ["victim of crime(범죄 피해자)", "innocent victim(무고한 희생자)", "fall victim to(~의 희생이 되다)"],
+  "ex_add": "She was the victim of a cruel joke.  (victim of=~의 피해자)"
+ },
+ {
+  "num": "2204",
+  "hw": "view",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "눈으로 '봄' = 경치·시야 / 견해 -> 보다·여기다.",
+  "senses": [
+   "1) 경치·전망·시야",
+   "2) 견해·관점",
+   "3) (동사) 보다·여기다·(집을) 살펴보다"
+  ],
+  "etym": "고대 프랑스어 vewe < 라틴어 videre(보다). '보는 것·보이는 것'이 핵심. videre(보다) 뿌리로 vision(시야)·revise(2048)·advise(1486)·supervise·evident가 묶인다.",
+  "deriv": "videre(보다) -> 'view'. '경치(a sea view, 바다 전망)' -> '견해(in my view, 내 생각엔)' -> 동사 '여기다(view A as B, A를 B로 보다)'. videre 뿌리로 vision·revise·advise·supervise와 묶인다. viewer(시청자, 2205)·viewpoint(관점)가 파생. 한국 학습자: in my view(내 견해로는), point of view(관점), in view of(~을 고려하면), a room with a view(전망 좋은 방), with a view to V-ing(~할 목적으로). view A as B(A를 B로 간주하다).",
+  "syn": ["scene(경치)", "opinion(견해)", "regard(여기다)"],
+  "anti": [],
+  "idiom": ["in my view(내 생각에는)", "point of view(관점)", "in view of(~을 고려하여)", "with a view to(~할 목적으로)"],
+  "colloc": ["beautiful view(아름다운 경치)", "point of view(관점)", "in view of(~을 고려하면)"],
+  "ex_add": "In my view, the plan is too risky.  (in my view=내 생각에는)"
+ },
+ {
+  "num": "2205",
+  "hw": "viewer",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "(TV 등을) 보는 사람 = 시청자.",
+  "senses": [
+   "1) (TV) 시청자",
+   "2) (전시) 관람객·보는 이",
+   "3) (이미지) 뷰어(보기 프로그램)"
+  ],
+  "etym": "view(보다, 라틴어 videre 보다) + -er(~하는 사람). view(2204)와 한 가족. videre(보다) 뿌리로 vision·revise·supervise와 묶인다.",
+  "deriv": "view(보다) -> 'viewer(보는 사람)'. TV '시청자(millions of viewers)' -> 전시 '관람객' -> 'image viewer(이미지 뷰어)'. videre 뿌리. 한국 학습자: viewer(TV 시청자)·audience(청중·관객, 집합)·spectator(경기 관중)·reader(독자)·listener(청취자)의 매체별 구별. regular viewers(고정 시청자), viewer ratings(시청률), the average viewer(보통 시청자). -er 행위자 접미사(viewer, reader, listener). view(2204)와 짝.",
+  "syn": ["spectator(관중)", "watcher(보는 이)", "audience(시청자층)"],
+  "anti": ["broadcaster(방송인)", "presenter(진행자)"],
+  "idiom": ["regular viewers(고정 시청자)", "viewer ratings(시청률)"],
+  "colloc": ["TV viewer(TV 시청자)", "millions of viewers(수백만 시청자)", "regular viewer(고정 시청자)"],
+  "ex_add": "The show attracts millions of viewers each week.  (viewer=시청자)"
+ },
+ {
+  "num": "2206",
+  "hw": "violent",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "거센 힘이 실린 '폭력적인·격렬한'.",
+  "senses": [
+   "1) 폭력적인·난폭한",
+   "2) (감정·힘이) 격렬한·맹렬한",
+   "3) (날씨·통증이) 거센·극심한"
+  ],
+  "etym": "라틴어 violentus < vis(힘·폭력). '거센 힘이 가득한'이 핵심. vis(힘) 뿌리로 violate(위반하다)·violence(폭력)·vim(활기)이 묶인다.",
+  "deriv": "vis(힘) -> 'violent'. '폭력적인(a violent crime)' -> '격렬한(a violent storm)' -> '극심한(a violent headache)'. vis(힘) 뿌리로 violate·violence와 묶인다. violently(격렬하게)·violence(폭력)가 파생. 한국 학습자: a violent crime(강력 범죄), turn violent(폭력적으로 변하다), a violent reaction(격렬한 반응), non-violent(비폭력의). violence(명사)/violent(형용사)/violently(부사) 가족. peaceful(평화로운, 1934)·gentle(부드러운)이 반의.",
+  "syn": ["aggressive(공격적인)", "fierce(맹렬한)", "brutal(잔혹한)"],
+  "anti": ["peaceful(평화로운)", "gentle(온화한)", "non-violent(비폭력의)"],
+  "idiom": ["a violent crime(강력 범죄)", "turn violent(폭력적으로 변하다)", "non-violent protest(비폭력 시위)"],
+  "colloc": ["violent crime(폭력 범죄)", "violent storm(거센 폭풍)", "violent behavior(폭력적 행동)"],
+  "ex_add": "The peaceful protest suddenly turned violent.  (violent=폭력적인)"
+ },
+ {
+  "num": "2207",
+  "hw": "volunteer",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "스스로 '하겠다고 나선' 자원봉사자 -> 자원하다.",
+  "senses": [
+   "1) 자원봉사자·지원자",
+   "2) (동사) 자원하다·자진해서 하다",
+   "3) (군) 지원병"
+  ],
+  "etym": "라틴어 voluntarius < voluntas(자유의지) < velle(원하다·바라다). '스스로 원해서 나섬'이 핵심. velle(원하다) 뿌리로 voluntary(자발적인)·volition(의지)·benevolent(자비로운)이 묶인다.",
+  "deriv": "velle(원하다) -> voluntas(의지) -> 'volunteer'. 명사 '자원봉사자(work as a volunteer)' -> 동사 '자원하다(volunteer to help)'. velle(원하다) 뿌리로 voluntary·volition·benevolent와 묶인다. 한국 학습자: volunteer to V(자진해서 ~하다), volunteer for(~에 지원하다), a volunteer worker(자원봉사자), do voluntary work(봉사 활동을 하다). voluntary(자발적인)/voluntarily(자발적으로)와 가족. compulsory(의무적인)가 반의 개념.",
+  "syn": ["helper(자원봉사자)", "offer(자청하다)", "enlist(지원하다)"],
+  "anti": ["conscript(징집병)"],
+  "idiom": ["volunteer to V(자진해서 ~하다)", "a volunteer worker(자원봉사자)", "any volunteers?(자원할 사람?)"],
+  "colloc": ["volunteer work(자원봉사)", "volunteer to help(돕겠다고 자원하다)", "local volunteer(지역 봉사자)"],
+  "ex_add": "She volunteers at the local animal shelter.  (volunteer=자원봉사하다)"
+ },
+ {
+  "num": "2208",
+  "hw": "vote",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "뜻을 '서약하듯' 표로 던짐 = 투표(하다).",
+  "senses": [
+   "1) 투표·표결",
+   "2) (동사) 투표하다·표결로 정하다",
+   "3) 표·득표 / 투표권"
+  ],
+  "etym": "라틴어 votum(서원·맹세) < vovere(맹세하다). 본래 '신께 한 서약'에서 '한 표를 던짐'으로. votum(맹세) 뿌리로 vow(맹세)·devote(바치다)·devotion(헌신)이 묶인다.",
+  "deriv": "votum(맹세) -> 'vote'. 명사 '투표(cast a vote)' -> 동사 '투표하다(vote for/against)' -> '표(win by 100 votes)'. votum 뿌리로 vow·devote·devotion과 묶인다. voter(유권자)·voting(투표)이 파생. 한국 학습자: vote for(~에 찬성표를 던지다)/vote against(반대표를 던지다), cast a vote(투표하다), put it to a vote(표결에 부치다), the right to vote(투표권), a vote of confidence(신임 투표). election(선거, 1689)·poll(여론조사)과 함께.",
+  "syn": ["ballot(투표)", "poll(투표)", "elect(선출하다)"],
+  "anti": ["abstain(기권하다)"],
+  "idiom": ["vote for(~에 찬성하다)", "vote against(~에 반대하다)", "cast a vote(투표하다)", "a vote of confidence(신임 투표)", "the popular vote(총득표)"],
+  "colloc": ["cast a vote(투표하다)", "vote for(~에게 투표하다)", "majority vote(다수결)"],
+  "ex_add": "Did you vote in the last election?  (vote=투표하다)"
+ },
+ {
+  "num": "2209",
+  "hw": "warm",
+  "pos": "adj., v.",
+  "cefr": "B1",
+  "core": "기분 좋게 '따뜻한' -> 다정한 / 데우다.",
+  "senses": [
+   "1) 따뜻한·포근한",
+   "2) (마음이) 다정한·훈훈한",
+   "3) (동사) 데우다·따뜻해지다"
+  ],
+  "etym": "고대 영어 wearm(따뜻한). 게르만어 계열(독일어 warm). '알맞게 더운'이 핵심. warmth(온기)·warmly(따뜻하게)가 파생.",
+  "deriv": "'따뜻한(warm weather)' -> 마음 '다정한(a warm welcome, 따뜻한 환영)' -> 동사 '데우다(warm up the soup)'. warmth(온기)·warmly(따뜻하게)가 파생. 한국 학습자: warm up(준비운동을 하다·데우다·분위기가 무르익다), warm to(~이 좋아지다), a warm welcome(따뜻한 환영), keep warm(따뜻하게 지내다), warm-hearted(인정 많은). 온도 단계 — cold < cool(1621) < warm < hot. cold·cool(추운·시원한)이 반의. warm-blooded(온혈의).",
+  "syn": ["heated(따뜻한)", "cozy(아늑한)", "friendly(다정한)"],
+  "anti": ["cold(추운)", "cool(시원한)", "chilly(쌀쌀한)"],
+  "idiom": ["warm up(데우다·준비운동을 하다)", "a warm welcome(따뜻한 환영)", "warm to someone(~에게 호감이 가다)", "warm-hearted(마음이 따뜻한)"],
+  "colloc": ["warm weather(따뜻한 날씨)", "warm welcome(따뜻한 환영)", "keep warm(따뜻하게 지내다)"],
+  "ex_add": "They gave us a warm welcome.  (warm=따뜻한·다정한)"
+ },
+ {
+  "num": "2210",
+  "hw": "warn",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "위험을 미리 '일러 주의시키다' = 경고하다.",
+  "senses": [
+   "1) 경고하다·주의를 주다",
+   "2) (warn against) ~하지 말라고 경고하다",
+   "3) 미리 알리다·예고하다"
+  ],
+  "etym": "고대 영어 warnian(조심시키다·알리다). 게르만어 계열로 wary(경계하는)·aware(아는, 1525)·beware(조심하다)와 한 뿌리. '주의를 일깨움'이 핵심.",
+  "deriv": "warnian(조심시키다) -> 'warn'. '경고하다(warn of danger)' -> 'warn against(~하지 말라고 경고하다)'. wary·aware(1525)·beware와 한 가족. warning(경고, 2211)이 명사. 한국 학습자: warn A of/about B(A에게 B를 경고하다), warn A to V/not to V(A에게 ~하라고/~하지 말라고 경고하다), warn against V-ing(~하지 말라 경고하다), warn that ~. fair warning(정당한 사전 경고). caution(주의를 주다)과 유의어. warn은 '위험·결과를 미리 알림'에 방점.",
+  "syn": ["caution(주의를 주다)", "alert(경계시키다)", "advise(주의를 주다)"],
+  "anti": ["reassure(안심시키다)"],
+  "idiom": ["warn A of B(A에게 B를 경고하다)", "warn against(~하지 말라고 경고하다)", "warn A to V(A에게 ~하라고 경고하다)", "I warned you(내가 경고했잖아)"],
+  "colloc": ["warn of danger(위험을 경고하다)", "warn against(~을 경고하다)", "repeatedly warn(거듭 경고하다)"],
+  "ex_add": "The sign warns drivers of falling rocks.  (warn A of B=A에게 B를 경고하다)"
+ },
+ {
+  "num": "2211",
+  "hw": "warning",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "위험을 미리 알리는 '경고·주의'.",
+  "senses": [
+   "1) 경고·주의(말)",
+   "2) 예고·통고",
+   "3) 경고 표시·전조"
+  ],
+  "etym": "warn(경고하다, 고대 영어 warnian) + -ing. warn(2210)·wary·aware(1525)와 한 가족. '주의를 일깨우는 알림'이 핵심.",
+  "deriv": "warn(경고하다) -> 'warning'. '경고(a warning sign, 경고 표지)' -> '예고(without warning, 예고 없이)'. 한국 학습자: give a warning(경고하다), without warning(난데없이), a warning sign(위험 신호·경고 표지), a final warning(최후통첩), gale warning(강풍 경보), let off with a warning(경고만 하고 봐주다). a warning that ~/against ~. warn(동사)/warning(명사) 짝. health warning(건강 경고문, 담뱃갑 등).",
+  "syn": ["caution(주의)", "alert(경보)", "notice(통고)"],
+  "anti": ["reassurance(안심)"],
+  "idiom": ["without warning(예고 없이)", "a warning sign(경고 신호)", "a final warning(최종 경고)", "fair warning(정당한 사전 경고)"],
+  "colloc": ["give a warning(경고하다)", "warning sign(경고 표지)", "advance warning(사전 경고)"],
+  "ex_add": "The storm came without any warning.  (without warning=예고 없이)"
+ },
+ {
+  "num": "2212",
+  "hw": "waste",
+  "pos": "n., v., adj.",
+  "cefr": "B1",
+  "core": "쓸데없이 '헛되이 써 버림' = 낭비 / 폐기물.",
+  "senses": [
+   "1) 낭비·허비",
+   "2) 폐기물·쓰레기",
+   "3) (동사) 낭비하다 / (형) 버려진·황량한"
+  ],
+  "etym": "라틴어 vastus(텅 빈·황량한). '비워 없애 버림'이 핵심. vast(광대한)·devastate(황폐화하다)·waste가 같은 vastus 뿌리. 텅 빈 황무지에서 '버림·낭비'로.",
+  "deriv": "vastus(텅 빈) -> 'waste'. 명사 '낭비(a waste of time)' -> '폐기물(toxic waste, 유독성 폐기물)' -> 동사 '낭비하다(waste money)'. vastus 뿌리로 vast·devastate와 묶인다. wasteful(낭비하는)이 파생. 한국 학습자: a waste of time/money(시간·돈 낭비), waste away(쇠약해지다), go to waste(허비되다), Waste not, want not(아끼면 부족함이 없다), household waste(생활 쓰레기). waste A on B(B에 A를 낭비하다). save(아끼다)가 반의.",
+  "syn": ["squander(낭비하다)", "garbage(쓰레기)", "misuse(잘못 쓰다)"],
+  "anti": ["save(절약하다)", "conserve(아끼다)", "use(활용하다)"],
+  "idiom": ["a waste of time(시간 낭비)", "go to waste(헛되이 버려지다)", "waste away(쇠약해지다)", "Waste not, want not(아끼면 궁하지 않다)"],
+  "colloc": ["waste of time(시간 낭비)", "waste money(돈을 낭비하다)", "toxic waste(유독 폐기물)"],
+  "ex_add": "Don't waste your money on junk food.  (waste=낭비하다)"
+ },
+ {
+  "num": "2213",
+  "hw": "water",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "생명의 근원 '물' -> 물을 주다 / 눈물·침이 나다.",
+  "senses": [
+   "1) 물",
+   "2) (the waters) 바다·수역",
+   "3) (동사) 물을 주다 / (눈·입에) 물기가 돌다"
+  ],
+  "etym": "고대 영어 wæter(물). 게르만어 계열(독일어 Wasser). wet(젖은, 1461)·winter와 먼 친척. '생명의 액체'가 핵심.",
+  "deriv": "'물' -> 'the waters(수역)' -> 동사 '물을 주다(water the plants)·물기가 돌다(My eyes watered)'. watery(물기 많은)·waterfall(폭포)·underwater(수중의)가 파생. 한국 학습자: water down(물을 타다·약화시키다), make one's mouth water(군침 돌게 하다), like water off a duck's back(아무 효과 없는), in hot water(곤경에 처한), test the waters(상황을 떠보다), still waters run deep(잔잔한 물이 깊다). watering can(물뿌리개).",
+  "syn": ["liquid(액체)", "irrigate(물을 대다)"],
+  "anti": ["land(육지)", "fire(불)"],
+  "idiom": ["water down(희석하다·완화하다)", "make one's mouth water(군침 돌게 하다)", "in hot water(곤경에 빠진)", "test the waters(분위기를 살피다)", "like a fish out of water(물 밖에 난 고기처럼 어색한)"],
+  "colloc": ["drink water(물을 마시다)", "water the plants(식물에 물을 주다)", "fresh water(민물)"],
+  "ex_add": "The smell of food made my mouth water.  (make one's mouth water=군침 돌게 하다)"
+ },
+ {
+  "num": "2214",
+  "hw": "wave",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "출렁이는 '파도·물결' -> 손을 흔들다.",
+  "senses": [
+   "1) 파도·물결",
+   "2) (빛·소리의) 파동 / (감정·사건의) 물결·급증",
+   "3) (동사) 손을 흔들다·흔들리다"
+  ],
+  "etym": "고대 영어 wafian(손을 흔들다)와 wæg(물결)이 합쳐짐. '출렁이며 흔들림'이 핵심. waver(흔들리다)·wave가 한 가족.",
+  "deriv": "'물결(ocean waves)' -> 물리 '파동(sound waves, 음파)' -> 비유 '급증(a wave of protests, 항의 물결)' -> 동사 '손을 흔들다(wave goodbye)'. wavy(물결 모양의)가 파생. 한국 학습자: wave goodbye(손을 흔들어 작별하다), a heat wave(폭염), a crime wave(범죄 급증), make waves(파문을 일으키다), wave aside(무시하다·일축하다), a new wave(새로운 흐름). radio waves(전파), tidal wave(해일). wave A aside(A를 손짓으로 물리치다).",
+  "syn": ["ripple(잔물결)", "surge(급증)", "gesture(손짓하다)"],
+  "anti": [],
+  "idiom": ["wave goodbye(손을 흔들어 작별하다)", "make waves(파문을 일으키다)", "a heat wave(폭염)", "wave aside(일축하다)", "ride the wave(흐름을 타다)"],
+  "colloc": ["ocean wave(바닷물결)", "wave one's hand(손을 흔들다)", "heat wave(폭염)"],
+  "ex_add": "She waved goodbye as the train left.  (wave=손을 흔들다)"
+ },
+ {
+  "num": "2215",
+  "hw": "weapon",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "공격·방어에 쓰는 '무기' -> 수단.",
+  "senses": [
+   "1) 무기·병기",
+   "2) (비유) 무기·수단",
+   "3) 흉기"
+  ],
+  "etym": "고대 영어 wǣpen(무기). 게르만어 계열(독일어 Waffe). '치고 막는 도구'가 핵심. weaponry(무기류)가 파생.",
+  "deriv": "'무기(carry a weapon)' -> 비유 '수단(Knowledge is a powerful weapon, 지식은 강력한 무기)'. weaponry(병기)·weaponize(무기화하다)가 파생. 한국 학습자: a deadly weapon(흉기), nuclear weapons(핵무기, 1906 nuclear), weapons of mass destruction(대량살상무기 WMD), a secret weapon(비장의 무기), lay down one's weapons(무기를 내려놓다). arms(무기, 집합)·arsenal(무기고)과 유의어. carry/conceal a weapon(무기를 소지/은닉하다).",
+  "syn": ["arm(무기)", "armament(병기)", "firearm(총기)"],
+  "anti": ["defense(방어 수단)"],
+  "idiom": ["a deadly weapon(흉기)", "weapons of mass destruction(대량살상무기)", "a secret weapon(비밀 병기)", "a double-edged weapon(양날의 검)"],
+  "colloc": ["dangerous weapon(위험한 무기)", "nuclear weapon(핵무기)", "carry a weapon(무기를 소지하다)"],
+  "ex_add": "The police found a weapon at the scene.  (weapon=무기)"
+ },
+ {
+  "num": "2216",
+  "hw": "weigh",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "무게를 '달다' -> 무게가 나가다·따져 보다.",
+  "senses": [
+   "1) 무게를 달다·재다",
+   "2) 무게가 ~ 나가다",
+   "3) (weigh up) 따져 보다·저울질하다"
+  ],
+  "etym": "고대 영어 wegan(들어 올리다·무게를 달다). '저울로 무게를 잼'이 핵심. weight(무게, 1459)·wage(임금, '달아 준 것')와 한 게르만 뿌리. gh는 묵음 /weɪ/.",
+  "deriv": "wegan(달다) -> 'weigh'. '무게를 달다(weigh the apples)' -> '무게가 나가다(It weighs 5 kg)' -> 'weigh up(따져 보다)·weigh on(짓누르다)'. weight(무게, 1459)와 한 가족. 한국 학습자: weigh의 gh는 묵음(/weɪ/), weigh A against B(A를 B와 견주다), weigh up the options(선택지를 따져 보다), weigh on one's mind(마음을 짓누르다), weigh in(끼어들어 거들다). weight(명사)/weigh(동사) 짝 — 철자 ei 주의.",
+  "syn": ["measure(재다)", "consider(따져 보다)", "assess(가늠하다)"],
+  "anti": [],
+  "idiom": ["weigh up(따져 보다)", "weigh on one's mind(마음을 짓누르다)", "weigh A against B(A와 B를 저울질하다)", "weigh in(끼어들다·거들다)"],
+  "colloc": ["weigh carefully(신중히 따지다)", "weigh the options(선택지를 저울질하다)", "weigh 10 kilos(10킬로 나가다)"],
+  "ex_add": "Let me weigh up all the options before deciding.  (weigh up=따져 보다)"
+ },
+ {
+  "num": "2217",
+  "hw": "western",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "서쪽의·서부의 / 서양의.",
+  "senses": [
+   "1) 서쪽의·서부의",
+   "2) (the West) 서양의·서구의",
+   "3) (n.) 서부극"
+  ],
+  "etym": "west(서쪽, 고대 영어 west) + -ern(방향 형용사 접미사). eastern(1678)·northern(1903)·southern(2104)과 같은 -ern 계열. '서쪽을 향한·서에 속한'이 핵심.",
+  "deriv": "west(서쪽) -> 'western(서쪽의)'. 방위 '서부의(western Australia)' -> 문화권 '서양의(Western culture, 서양 문화)' -> 영화 '서부극(a classic western)'. 방위 형용사 4종 완성: eastern(1678)/western/northern(1903)/southern(2104). 한국 학습자: the Western world(서구), Western medicine(서양 의학), the Wild West(미국 서부 개척지), a spaghetti western(마카로니 웨스턴). east-eastern 짝처럼 west-western. eastern(동쪽의)이 반의. 발음 /ˈwestən/.",
+  "syn": ["westerly(서쪽의)", "occidental(서양의)"],
+  "anti": ["eastern(동쪽의)", "oriental(동양의)"],
+  "idiom": ["the Western world(서구)", "the Wild West(미국 서부 개척 시대)", "Western medicine(서양 의학)"],
+  "colloc": ["western region(서부 지역)", "Western culture(서양 문화)", "western coast(서쪽 해안)"],
+  "ex_add": "Western Europe has a mild climate.  (western=서부의)"
+ },
+ {
+  "num": "2218",
+  "hw": "whatever",
+  "pos": "det./pron.",
+  "cefr": "B1",
+  "core": "'무엇이든·~하는 것은 무엇이나'.",
+  "senses": [
+   "1) ~하는 것은 무엇이든",
+   "2) 무엇이 ~하더라도",
+   "3) (구어) 뭐든 상관없어 (시큰둥)"
+  ],
+  "etym": "what(무엇) + ever(언제나·도대체). '무엇이든 간에'가 핵심. ever(언제나)·however·whoever·wherever와 같은 -ever(양보·강조) 계열.",
+  "deriv": "what + ever -> 'whatever'. '무엇이든(Do whatever you want, 하고 싶은 거 뭐든 해)' -> 양보 '무엇이 ~하더라도(Whatever happens, ~)' -> 구어 'Whatever.(맘대로 해·됐어, 시큰둥)'. 한국 학습자: whatever = anything that / no matter what. -ever 무리 — whatever(무엇이든)/whenever(2219)/wherever(어디든)/whoever(누구든)/however(어떻게 ~하든). or whatever(뭐 그런 거), whatever you say(네 말대로 할게). 구어 'Whatever!'는 무관심·짜증의 표현이라 무례할 수 있음.",
+  "syn": ["anything that(~하는 무엇이든)", "no matter what(무엇이 ~하든)"],
+  "anti": [],
+  "idiom": ["whatever happens(무슨 일이 있어도)", "whatever you say(네 말대로)", "or whatever(뭐 그런 것)", "Whatever!(맘대로 해!)"],
+  "colloc": ["whatever you want(원하는 무엇이든)", "whatever it takes(어떤 대가를 치르더라도)", "whatever happens(무슨 일이 있어도)"],
+  "ex_add": "You can order whatever you like.  (whatever=무엇이든)"
+ },
+ {
+  "num": "2219",
+  "hw": "whenever",
+  "pos": "conj.",
+  "cefr": "B1",
+  "core": "'~할 때마다·언제든지'.",
+  "senses": [
+   "1) ~할 때는 언제나·~할 때마다",
+   "2) 언제 ~하든·언제든지",
+   "3) (구어) 아무 때나"
+  ],
+  "etym": "when(언제) + ever(언제나·도대체). '언제든 간에'가 핵심. ever(언제나) 계열로 whatever(2218)·wherever·however와 한 무리. -ever가 '~든지'를 더함.",
+  "deriv": "when + ever -> 'whenever'. '~할 때마다(Whenever I see her, I smile)' -> '언제든(Come whenever you like)'. -ever 무리 — whenever/whatever(2218)/wherever/whoever. 한국 학습자: whenever = every time / at any time / no matter when. whenever possible(가능할 때마다), whenever you're ready(준비되면 언제든), as and when(필요할 때). every time(~할 때마다)과 유의어. 시간의 반복·임의를 나타냄.",
+  "syn": ["every time(~할 때마다)", "at any time(언제든지)", "no matter when(언제 ~하든)"],
+  "anti": ["never(결코 ~않을 때)"],
+  "idiom": ["whenever possible(가능할 때마다)", "whenever you like(언제든 좋을 때)", "as and when(그때그때)"],
+  "colloc": ["whenever possible(가능할 때마다)", "whenever necessary(필요할 때마다)", "whenever you want(원할 때 언제든)"],
+  "ex_add": "Call me whenever you need help.  (whenever=~할 때 언제든)"
+ },
+ {
+  "num": "2220",
+  "hw": "whether",
+  "pos": "conj.",
+  "cefr": "B1",
+  "core": "'~인지 (아닌지)' (둘 중 어느 쪽인지).",
+  "senses": [
+   "1) ~인지 (아닌지)",
+   "2) (whether A or B) A이든 B이든",
+   "3) ~하든 말든"
+  ],
+  "etym": "고대 영어 hwæther(둘 중 어느 쪽). 본래 '둘 중 어느 것'이라는 의문에서 '~인지 아닌지'로. either·neither(1899)·whether가 같은 '둘 중'을 묻는 계열.",
+  "deriv": "hwæther(둘 중 어느) -> 'whether'. '~인지(I don't know whether it's true)' -> 'whether A or B(A든 B든)' -> 'whether or not(~이든 아니든)'. 한국 학습자 핵심: whether와 if(둘 다 '~인지')의 구별 — ① 전치사 뒤·주어 자리·to부정사 앞·or not 직전엔 whether만(decide whether to go); ② whether ... or not(~인지 아닌지), whether A or B(A든 B든). it doesn't matter whether(~인지는 중요치 않다). if보다 격식·문어에서 안전.",
+  "syn": ["if(~인지)"],
+  "anti": [],
+  "idiom": ["whether or not(~이든 아니든)", "whether A or B(A이든 B이든)", "whether you like it or not(좋든 싫든)"],
+  "colloc": ["whether or not(~인지 아닌지)", "decide whether(~인지 결정하다)", "ask whether(~인지 묻다)"],
+  "ex_add": "I'm not sure whether she'll come or not.  (whether=~인지 아닌지)"
+ },
+ {
+  "num": "2221",
+  "hw": "while",
+  "pos": "conj.",
+  "cefr": "B1",
+  "core": "'~하는 동안' / ~인 반면.",
+  "senses": [
+   "1) ~하는 동안·~하면서",
+   "2) ~인 반면·~이지만(대조)",
+   "3) (n.) 잠깐·동안"
+  ],
+  "etym": "고대 영어 hwil(시간·동안). '한동안의 시간'이 핵심. 시간의 '동안'에서 대조의 '반면에'로 확장. meanwhile(그동안, 1874)·worthwhile(가치 있는)과 한 가족.",
+  "deriv": "hwil(동안) -> 'while'. 시간 '~하는 동안(while you were out)' -> 대조 '~인 반면(While I agree, ~)' -> 명사 'for a while(잠시)'. meanwhile(1874)·worthwhile과 묶인다. 한국 학습자: ① 시간 접속사(while = ~하는 동안, 진행 강조), ② 대조 접속사(while = whereas, ~인 반면), ③ 명사(a while, 잠깐: after a while 잠시 후). worth one's while(~할 만한 가치가 있는), all the while(그러는 내내), once in a while(가끔). during(전치사)과 달리 while은 절을 이끎.",
+  "syn": ["whilst(~하는 동안, 영국)", "whereas(~인 반면)", "during(~ 동안)"],
+  "anti": [],
+  "idiom": ["for a while(잠시 동안)", "once in a while(가끔)", "all the while(내내)", "worth one's while(~할 가치가 있는)"],
+  "colloc": ["while waiting(기다리는 동안)", "for a while(잠시)", "after a while(잠시 후)"],
+  "ex_add": "While I was cooking, the phone rang.  (while=~하는 동안)"
+ },
+ {
+  "num": "2222",
+  "hw": "whole",
+  "pos": "adj., n.",
+  "cefr": "B1",
+  "core": "빠짐 없이 '온전한·전체의'.",
+  "senses": [
+   "1) 전체의·온전한·모든",
+   "2) (the whole) 전부·전체",
+   "3) 통째의·완전한"
+  ],
+  "etym": "고대 영어 hal(온전한·건강한). heal(치유하다)·health(건강)·holy(신성한)·hale(정정한)이 같은 hal(온전한) 뿌리 — whole·heal·holy가 한 핏줄! w는 나중에 붙은 글자(발음 /hoʊl/).",
+  "deriv": "hal(온전한) -> 'whole'. '전체의(the whole day, 온종일)' -> 명사 'the whole(전체)' -> '통째의(swallow whole, 통째로 삼키다)'. hal(온전한) 뿌리로 heal·health·holy와 묶인다 — '온전함'이 '건강·치유·신성'으로. wholly(완전히)·wholesome(건강에 좋은)이 파생. 한국 학습자: on the whole(대체로), as a whole(전체로서), the whole point(요점), wholehearted(전심전력의), a whole new(완전히 새로운). 발음 /hoʊl/(w 묵음), hole(구멍)과 동음. part(부분)가 반의.",
+  "syn": ["entire(전체의)", "complete(완전한)", "total(전부의)"],
+  "anti": ["part(부분)", "partial(부분적인)", "half(절반)"],
+  "idiom": ["on the whole(대체로)", "as a whole(전체적으로)", "the whole point(핵심)", "a whole new world(완전히 새로운 세계)"],
+  "colloc": ["whole day(온종일)", "whole world(온 세상)", "as a whole(전체로서)"],
+  "ex_add": "She ate the whole cake by herself.  (whole=전체의)"
+ },
+ {
+  "num": "2223",
+  "hw": "will",
+  "pos": "modal v., n.",
+  "cefr": "B1",
+  "core": "'~할 것이다'(미래·의지) / 의지·유언.",
+  "senses": [
+   "1) (조동사) ~할 것이다·~하겠다",
+   "2) (n.) 의지·의향",
+   "3) (n.) 유언(장)"
+  ],
+  "etym": "고대 영어 willan(바라다·~하려 하다). '~하려는 마음'이 핵심. 명사 will(의지)과 조동사 will(미래)이 한 뿌리. willing(기꺼이 하는)·willpower(의지력)가 파생.",
+  "deriv": "willan(바라다) -> 'will'. 조동사 '~할 것이다(I will go)·~하겠다(의지)' -> 명사 '의지(strong will)·유언(make a will)'. willing(기꺼이 하는)·willingly·willpower가 파생. 한국 학습자: 조동사 will(미래·의지·요청 Will you ~?)과 명사 will(의지·유언). where there's a will, there's a way(뜻이 있는 곳에 길이 있다), against one's will(본의 아니게), of one's own free will(자유 의지로), at will(마음대로), make a will(유언장을 작성하다). won't = will not.",
+  "syn": ["shall(~할 것이다)", "determination(의지)", "testament(유언)"],
+  "anti": ["won't(~ 않을 것이다)"],
+  "idiom": ["where there's a will, there's a way(뜻이 있는 곳에 길이 있다)", "against one's will(본의 아니게)", "at will(마음대로)", "of one's own free will(자발적으로)"],
+  "colloc": ["strong will(강한 의지)", "free will(자유 의지)", "make a will(유언장을 쓰다)"],
+  "ex_add": "Where there's a will, there's a way.  (will=의지)"
+ },
+ {
+  "num": "2224",
+  "hw": "win",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "겨뤄서 '이기다·따내다'.",
+  "senses": [
+   "1) 이기다·승리하다",
+   "2) (상·지지를) 따내다·얻다",
+   "3) (n.) 승리·승소"
+  ],
+  "etym": "고대 영어 winnan(애쓰다·싸워 얻다). 본래 '힘써 얻음'이 핵심. winner(승자, 1466)·winning(이기는)과 한 가족. win-won-won(불규칙).",
+  "deriv": "winnan(싸워 얻다) -> 'win'. '이기다(win the game)' -> '따내다(win a prize·win support)' -> 명사 '승리(a big win)'. winner(1466)·winning이 파생. win-won-won. 한국 학습자: win은 '경기·상을 이기다/따다'(win the match)이고, '사람을 이기다'는 beat(beat the team). win over(설득해 자기편으로 만들다), win back(되찾다), a win-win situation(모두에게 좋은 상황), you can't win them all(매번 이길 순 없다), win by a landslide(압승하다). lose(지다)가 반의.",
+  "syn": ["triumph(승리하다)", "gain(얻다)", "secure(따내다)"],
+  "anti": ["lose(지다)", "fail(실패하다)", "be defeated(패배하다)"],
+  "idiom": ["win over(설득하다·마음을 얻다)", "a win-win situation(상생의 상황)", "win by a landslide(압승하다)", "you can't win them all(항상 이길 순 없다)"],
+  "colloc": ["win a game(경기에서 이기다)", "win a prize(상을 타다)", "win support(지지를 얻다)"],
+  "ex_add": "Our team won the championship last year.  (win=이기다)"
+ },
+ {
+  "num": "2225",
+  "hw": "wing",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "새·비행기가 나는 '날개' -> 건물 부속 동·파벌.",
+  "senses": [
+   "1) (새·비행기의) 날개",
+   "2) (건물의) 부속 동·별관",
+   "3) (정당의) 파·진영 / (축구) 측면"
+  ],
+  "etym": "고대 노르드어 vængr(날개). '날아오르게 하는 것'이 핵심. 본래의 날개에서 '한쪽으로 뻗어 나온 부분(건물 동·정파)'으로 비유 확장.",
+  "deriv": "'날개' -> 건물 '별관(the east wing, 동쪽 별관)' -> 정당 '파벌(the left wing, 좌파)' -> 축구 '측면'. winged(날개 달린)가 파생. 한국 학습자: the left/right wing(좌파/우파), take someone under one's wing(~을 돌봐 주다), wait in the wings(준비하며 대기하다, 무대 양옆), spread one's wings(독립해 활동하다), clip someone's wings(자유를 제약하다). a chicken wing(닭 날개), the White House West Wing(백악관 서관). fly·flight와 연관.",
+  "syn": ["pinion(날개)", "annex(부속 건물)", "faction(파벌)"],
+  "anti": [],
+  "idiom": ["take under one's wing(보살피다)", "wait in the wings(대기하다)", "spread one's wings(날개를 펴다)", "the left/right wing(좌익/우익)", "clip someone's wings(발을 묶다)"],
+  "colloc": ["bird's wing(새의 날개)", "left wing(좌파)", "east wing(동쪽 별관)"],
+  "ex_add": "The bird spread its wings and flew away.  (wing=날개)"
+ },
+ {
+  "num": "2226",
+  "hw": "within",
+  "pos": "prep.",
+  "cefr": "B1",
+  "core": "범위·시간 '안에·이내에'.",
+  "senses": [
+   "1) (시간) ~ 이내에",
+   "2) (공간·범위) ~ 안에·내부에",
+   "3) (한계) ~ 범위 안에서"
+  ],
+  "etym": "with(함께·~에) + in(안). 고대 영어 wiðinnan. '안쪽에'가 핵심. with(~와)·in(안에)의 결합으로 '내부'를 강조.",
+  "deriv": "with + in -> 'within'. 시간 'within an hour(한 시간 이내에)' -> 공간 'within the building(건물 안에)' -> 한계 'within reason(상식 범위에서)'. 한국 학습자: within(~ 이내, 한계 안)과 in(단순히 ~ 안에)의 결 차이 — within이 '범위·한도'를 더 강조. within reach(손이 닿는·실현 가능한), within reason(적당한 선에서), within budget(예산 내에서), within walking distance(걸어갈 만한 거리에), from within(내부로부터). 시간 within an hour = 한 시간 안에. outside(밖에)가 반의.",
+  "syn": ["inside(안에)", "in less than(~ 안에)", "by(~까지)"],
+  "anti": ["outside(밖에)", "beyond(~을 넘어서)"],
+  "idiom": ["within reach(손이 닿는 곳에)", "within reason(상식 선에서)", "within budget(예산 내에서)", "from within(내부로부터)"],
+  "colloc": ["within an hour(한 시간 이내에)", "within reach(닿는 곳에)", "within the law(법의 테두리 안에서)"],
+  "ex_add": "Please reply within three days.  (within=~ 이내에)"
+ },
+ {
+  "num": "2227",
+  "hw": "wonder",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "신기해하며 '궁금해하다' / 경이.",
+  "senses": [
+   "1) 궁금해하다·~일까 생각하다",
+   "2) 놀라워하다·경탄하다",
+   "3) (n.) 경이·불가사의"
+  ],
+  "etym": "고대 영어 wundor(경이·놀라움). '신기해 놀람'이 핵심. wonderful(멋진)·wondrous(경이로운)가 파생. 게르만어 계열.",
+  "deriv": "wundor(경이) -> 'wonder'. '궁금해하다(I wonder if ~)' -> '놀라워하다(wonder at the view)' -> 명사 '경이(a natural wonder)'. wonderful(멋진)·wondrous가 파생. 한국 학습자: I wonder if/whether ~(~인지 궁금하다·정중한 요청: I wonder if you could help), no wonder(어쩐지·당연하다), wonder at(~에 경탄하다), work wonders(놀라운 효과를 내다), the Seven Wonders(세계 7대 불가사의), small wonder(놀랄 일도 아니다). I was wondering if ~는 아주 공손한 부탁.",
+  "syn": ["ponder(곰곰이 생각하다)", "marvel(경탄하다)", "miracle(경이)"],
+  "anti": [],
+  "idiom": ["I wonder if(~인지 궁금하다)", "no wonder(어쩐지·당연하다)", "work wonders(놀라운 효과를 내다)", "the wonders of(~의 경이로움)", "a nine days' wonder(반짝 화제)"],
+  "colloc": ["wonder if(~인지 궁금해하다)", "no wonder(당연하다)", "natural wonder(자연의 경이)"],
+  "ex_add": "I wonder if you could help me with this.  (I wonder if=~인지 궁금하다, 정중한 부탁)"
+ },
+ {
+  "num": "2228",
+  "hw": "wool",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "양털로 만든 '모직·털실'.",
+  "senses": [
+   "1) 양털·모(毛)",
+   "2) 털실·모직물",
+   "3) (솜 같은) 보풀"
+  ],
+  "etym": "고대 영어 wull(양털). 게르만어 계열(독일어 Wolle). 라틴어 lana(양털)와 먼 친척. '양의 털'이 핵심. woolen(모직의)·woolly(털북숭이의)가 파생.",
+  "deriv": "'양털' -> '털실(a ball of wool)·모직(pure wool)'. woolen(모직의)·woolly(양털 같은·모호한)가 파생. 한국 학습자: pure wool(순모), a wool sweater(모직 스웨터), pull the wool over someone's eyes(눈속임하다·속이다), cotton wool(탈지면, 영국, 1624 cotton), steel wool(강철 솜). 섬유 무리 — wool(모)/cotton(면, 1624)/silk(견)/leather(가죽, 1848). woolly thinking(애매한 생각).",
+  "syn": ["fleece(양털)", "yarn(털실)"],
+  "anti": ["synthetic(합성 섬유)"],
+  "idiom": ["pull the wool over someone's eyes(속이다)", "cotton wool(탈지면)", "dyed-in-the-wool(철저한·뼛속까지)"],
+  "colloc": ["pure wool(순모)", "wool sweater(모직 스웨터)", "ball of wool(털실 뭉치)"],
+  "ex_add": "She knitted a scarf from soft wool.  (wool=털실)"
+ },
+ {
+  "num": "2229",
+  "hw": "worldwide",
+  "pos": "adj., adv.",
+  "cefr": "B1",
+  "core": "온 세계에 걸친 = 세계적인·전 세계로.",
+  "senses": [
+   "1) (형) 전 세계의·세계적인",
+   "2) (부) 전 세계에서·전 세계로",
+   "3) 범세계적인"
+  ],
+  "etym": "world(세계) + wide(넓은, 1464). '세계만큼 넓게 펼쳐진'이 핵심. world(세계)·wide(넓은)의 투명한 합성어. the World Wide Web(www)의 그 worldwide.",
+  "deriv": "world + wide -> 'worldwide'. 형용사 'worldwide fame(세계적 명성)' -> 부사 'sold worldwide(전 세계에 판매되는)'. 한국 학습자: worldwide(전 세계의/에서)는 형용사·부사 둘 다이며 형태가 같음. the World Wide Web(월드 와이드 웹, www), a worldwide phenomenon(세계적 현상), available worldwide(전 세계에서 이용 가능). global(전 세계의, 1770)·international(국제적)과 유의어. local(지역의)이 반의.",
+  "syn": ["global(전 세계의)", "international(국제적인)", "universal(보편적인)"],
+  "anti": ["local(지역의)", "domestic(국내의)", "regional(지역적인)"],
+  "idiom": ["the World Wide Web(월드 와이드 웹)", "a worldwide phenomenon(세계적 현상)"],
+  "colloc": ["worldwide fame(세계적 명성)", "sold worldwide(전 세계에 판매되는)", "worldwide success(세계적 성공)"],
+  "ex_add": "The product is now sold worldwide.  (worldwide=전 세계에)"
+ },
+ {
+  "num": "2230",
+  "hw": "worry",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "마음이 '졸아들어' 걱정하다 -> 걱정거리.",
+  "senses": [
+   "1) 걱정하다·염려하다",
+   "2) 걱정시키다·괴롭히다",
+   "3) (n.) 걱정·근심거리"
+  ],
+  "etym": "고대 영어 wyrgan(목을 조르다). 본래 '목을 조르다 -> 괴롭히다 -> 마음 졸이다'로 변화. '마음을 조이는 근심'이 핵심. worried(걱정하는, 1471)·worrying(걱정스러운)이 파생.",
+  "deriv": "wyrgan(목 조르다) -> 'worry'. 동사 '걱정하다(worry about)·걱정시키다(It worries me)' -> 명사 '걱정거리(money worries)'. worried(1471)·worrying이 -ed/-ing 짝. 한국 학습자: worry about(~을 걱정하다), Don't worry(걱정 마), worry oneself sick(걱정으로 안절부절못하다), worry-free(걱정 없는), not to worry(별일 아니다). -ed/-ing 감정형용사 — worried(걱정하는, 사람)/worrying(걱정스러운, 원인). worry는 about를 동반.",
+  "syn": ["be anxious(불안해하다)", "fret(안달하다)", "concern(걱정거리)"],
+  "anti": ["relax(안심하다)", "reassure(안심시키다)"],
+  "idiom": ["Don't worry(걱정 마)", "worry about(~을 걱정하다)", "worry oneself sick(애를 태우다)", "not to worry(괜찮아)"],
+  "colloc": ["worry about(~을 걱정하다)", "constant worry(끊임없는 걱정)", "main worry(주된 걱정)"],
+  "ex_add": "Don't worry about the exam — you'll do fine.  (worry about=~을 걱정하다)"
+ },
+ {
+  "num": "2231",
+  "hw": "written",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "글로 '쓰인' = 서면의·문어의.",
+  "senses": [
+   "1) 글로 쓴·서면의",
+   "2) 문어의·문자의",
+   "3) 기록된"
+  ],
+  "etym": "write(쓰다, 고대 영어 writan)의 과거분사. '글로 쓰인'이 핵심. writing(글쓰기)·writer(작가)와 한 가족. write-wrote-written.",
+  "deriv": "write(쓰다) -> 'written'. '서면의(a written agreement, 서면 합의)' -> '문어의(written English, 문어 영어)'. write-wrote-written. 한국 학습자 핵심 대비: written language(문어)와 spoken language(구어, 2110). a written exam(필기시험), in writing(서면으로), the written word(글), written consent(서면 동의), put it in writing(문서로 남기다). spoken(구어의, 2110)·oral(구두의)·verbal이 대비 개념.",
+  "syn": ["printed(인쇄된)", "documented(기록된)"],
+  "anti": ["spoken(구어의)", "oral(구두의)", "verbal(말의)"],
+  "idiom": ["in writing(서면으로)", "the written word(글)", "written consent(서면 동의)", "a written exam(필기시험)"],
+  "colloc": ["written agreement(서면 합의)", "written exam(필기시험)", "written language(문어)"],
+  "ex_add": "Please get the agreement in written form.  (written=서면의)"
+ },
+ {
+  "num": "2232",
+  "hw": "young",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "나이가 적은 '젊은·어린'.",
+  "senses": [
+   "1) 젊은·어린",
+   "2) (the young) 젊은이들 / 새끼",
+   "3) 초기의·생긴 지 얼마 안 된"
+  ],
+  "etym": "고대 영어 geong(젊은). 게르만어 계열(독일어 jung), 라틴어 juvenis(젊은)와 먼 친척. '나이가 적은'이 핵심. youth(젊음, 2233)·younger·youngster가 파생.",
+  "deriv": "geong(젊은) -> 'young'. '젊은(young people)' -> 'the young(젊은이들)·새끼(a bird and its young)' -> '초기의(the night is young, 아직 초저녁이다)'. youth(2233)·youngster(청소년)가 파생. 한국 학습자: the young(젊은이들, the + 형용사), young at heart(마음만은 젊은), a young family(어린 자녀를 둔 가정), the young and the old(노소), in one's younger days(젊은 시절에). old(나이 든)가 반의. young/younger/youngest 비교 변화.",
+  "syn": ["youthful(젊은)", "juvenile(어린)", "adolescent(청소년의)"],
+  "anti": ["old(나이 든)", "elderly(연로한)", "aged(고령의)"],
+  "idiom": ["the young(젊은이들)", "young at heart(마음은 청춘인)", "the night is young(아직 초저녁이다)", "young and old(남녀노소)"],
+  "colloc": ["young people(젊은 사람들)", "young children(어린 아이들)", "very young(아주 어린)"],
+  "ex_add": "The program is designed for young children.  (young=어린)"
+ },
+ {
+  "num": "2233",
+  "hw": "youth",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "젊은 시절 = '청춘·젊음' -> 젊은이.",
+  "senses": [
+   "1) 젊음·청춘(시기)",
+   "2) (the youth) 젊은이들·청년층",
+   "3) (한 명의) 청년·젊은이"
+  ],
+  "etym": "young(젊은, 고대 영어 geong) + -th(추상명사 접미사). '젊은 정도·젊은 시절'이 핵심. young(2232)·youthful과 한 가족. long-length·strong-strength(2122)처럼 형용사 + th.",
+  "deriv": "young(젊은) -> 'youth'. '젊음(in my youth, 젊은 시절에)' -> 'the youth(청년층)' -> 한 명의 '청년(a youth of eighteen)'. -th 추상명사 무리: young-youth, strong-strength, long-length, true-truth(2179). youthful(젊은·발랄한)이 파생. 한국 학습자: youth club(청소년 회관), youth culture(청년 문화), the youth of today(요즘 젊은이들), in one's youth(젊었을 때), youth hostel(유스호스텔), eternal youth(영원한 젊음). age/old age(노년)가 반의.",
+  "syn": ["adolescence(청소년기)", "young people(젊은이들)", "teenager(십 대)"],
+  "anti": ["old age(노년)", "maturity(성년)"],
+  "idiom": ["in one's youth(젊은 시절에)", "the youth of today(요즘 젊은이들)", "eternal youth(영원한 젊음)", "youth is wasted on the young(젊음은 젊은이에게 아깝다)"],
+  "colloc": ["youth culture(청년 문화)", "in my youth(젊은 시절에)", "youth club(청소년 클럽)"],
+  "ex_add": "He was a talented athlete in his youth.  (youth=젊은 시절)"
+ },
+ {
+  "num": "2234",
+  "hw": "abandon",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "'내맡겨 버리고' 떠나다 = 버리다·포기하다.",
+  "senses": [
+   "1) (사람·장소를) 버리고 떠나다·유기하다",
+   "2) (계획·생각을) 포기하다·단념하다",
+   "3) (자제심을) 버리다·내맡기다"
+  ],
+  "etym": "고대 프랑스어 a bandon(마음대로 하도록 내맡겨) = a(~에) + bandon(지배·통제권). '남의 처분에 내맡겨 버림'이 핵심. ban(금지, 1529)·banner와 먼 친척.",
+  "deriv": "a bandon(내맡김) -> 'abandon(버리다)'. 사람을 '유기하다(abandon a pet)' -> 계획을 '포기하다(abandon the plan)' -> 명사 'with abandon(자제 없이·거리낌 없이)'. abandoned(버려진)·abandonment(유기)가 파생. 한국 학습자: abandon ship(배를 버리다·손을 떼다), an abandoned building(폐건물), abandon hope(희망을 버리다), abandon oneself to(~에 탐닉하다). give up(포기하다)보다 격식. desert(버리다)·forsake(저버리다)와 유의어. B2 첫 단어.",
+  "syn": ["desert(버리다)", "give up(포기하다)", "forsake(저버리다)"],
+  "anti": ["keep(유지하다)", "maintain(지키다)", "continue(계속하다)"],
+  "idiom": ["abandon ship(배를 버리다·포기하다)", "with abandon(거리낌 없이)", "abandon all hope(모든 희망을 버리다)"],
+  "colloc": ["abandon a plan(계획을 포기하다)", "abandon a child(아이를 유기하다)", "completely abandon(완전히 버리다)"],
+  "ex_add": "They had to abandon the car in the snow.  (abandon=버리고 가다)"
+ },
+ {
+  "num": "2235",
+  "hw": "abroad",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'넓은 곳으로 나가' 외국에·해외로.",
+  "senses": [
+   "1) 외국에·해외로",
+   "2) 해외에서",
+   "3) (격식) 널리·퍼져"
+  ],
+  "etym": "a(~에) + broad(넓은). 본래 'on broad(넓은 데로 나가)'에서 '집·나라 밖 넓은 세상으로'로. broad(넓은)와 한 가족. '드넓은 바깥'이 핵심.",
+  "deriv": "a + broad(넓은) -> 'abroad'. '해외로(go abroad)·해외에서(live abroad)' -> 격식 '널리(rumors abroad, 떠도는 소문)'. broad(넓은)와 묶인다. 한국 학습자: abroad는 부사라 전치사 없이 — go abroad(O), go *to* abroad(X)! study/live/travel abroad(유학/해외 거주/해외여행), from abroad(외국에서 온), at home and abroad(국내외에서). overseas(해외로, 2235와 유의, 1923)와 비슷하나 abroad는 형용사로 못 씀. 발음 /əˈbrɔːd/.",
+  "syn": ["overseas(해외로)", "in a foreign country(외국에서)"],
+  "anti": ["at home(국내에서)", "domestically(국내에서)"],
+  "idiom": ["go abroad(해외로 가다)", "at home and abroad(국내외에서)", "from abroad(외국에서)"],
+  "colloc": ["go abroad(해외에 가다)", "study abroad(유학하다)", "live abroad(외국에 살다)"],
+  "ex_add": "She decided to study abroad for a year.  (abroad=해외로, 전치사 없이)"
+ },
+ {
+  "num": "2236",
+  "hw": "absolute",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "조건·제한에서 '풀려난' = 절대적인·완전한.",
+  "senses": [
+   "1) 절대적인·무조건의",
+   "2) 완전한·순전한(강조)",
+   "3) (권력이) 무제한의·전제의"
+  ],
+  "etym": "라틴어 absolutus = ab(떨어져) + solvere(풀다). '얽매임에서 풀려난 -> 무조건의'가 핵심. absolutely(절대적으로, 1475)·solve(풀다)·resolve(결심하다)·dissolve(녹이다)가 같은 solvere(풀다) 뿌리.",
+  "deriv": "ab(떨어져) + solvere(풀다) -> 'absolute'. '절대적인(absolute power, 절대 권력)' -> 강조 '완전한(absolute nonsense, 완전 헛소리)'. solvere(풀다) 뿌리로 absolutely(1475)·solve·resolve·dissolve와 묶인다 — 같은 absolutus를 absolutely에서 봤음. 한국 학습자: absolute(절대적인)와 relative(상대적인, 2023)의 대비. absolute power(절대 권력), absolute zero(절대영도), the absolute truth(절대 진리), in absolute terms(절대적 수치로). absolute가 강조어로 '순전한'(an absolute disaster, 완전한 재앙).",
+  "syn": ["total(완전한)", "complete(완전한)", "unconditional(무조건의)"],
+  "anti": ["relative(상대적인)", "partial(부분적인)", "limited(제한된)"],
+  "idiom": ["absolute power(절대 권력)", "absolute zero(절대영도)", "in absolute terms(절대치로)", "the absolute truth(절대 진리)"],
+  "colloc": ["absolute power(절대 권력)", "absolute majority(절대 다수)", "absolute nonsense(완전 헛소리)"],
+  "ex_add": "That's absolute nonsense — I don't believe a word.  (absolute=완전한, 강조)"
+ },
+ {
+  "num": "2237",
+  "hw": "absorb",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "'빨아들여' 흡수하다 -> 받아들이다·몰두시키다.",
+  "senses": [
+   "1) (액체·빛·지식을) 흡수하다·빨아들이다",
+   "2) (충격·비용을) 받아들이다·감당하다",
+   "3) (be absorbed in) ~에 몰두하다"
+  ],
+  "etym": "라틴어 absorbere = ab(~에서·완전히) + sorbere(빨아들이다). '쭉 빨아들임'이 핵심. ab-(떨어져·완전히) 접두사로 absolute(2236)·absent·abstract(2238)와 묶인다.",
+  "deriv": "ab(완전히) + sorbere(빨다) -> 'absorb'. 물질 '흡수하다(absorb water)' -> 지식 '받아들이다(absorb information)' -> 충격 '감당하다(absorb the cost)' -> 'be absorbed in(~에 몰두하다)'. absorption(흡수)·absorbing(흥미진진한)·absorbent(흡수성의)가 파생. 한국 학습자: be absorbed in(~에 푹 빠지다, a book 등), absorb information(정보를 받아들이다), shock-absorbing(충격 흡수의), absorbed in thought(생각에 잠긴). -ed/-ing — absorbed(몰두한, 사람)/absorbing(흥미진진한, 대상).",
+  "syn": ["soak up(빨아들이다)", "take in(받아들이다)", "assimilate(흡수하다)"],
+  "anti": ["release(방출하다)", "emit(내뿜다)", "reflect(반사하다)"],
+  "idiom": ["be absorbed in(~에 몰두하다)", "absorb the cost(비용을 흡수하다)", "absorb the shock(충격을 완화하다)"],
+  "colloc": ["absorb water(물을 흡수하다)", "absorb information(정보를 받아들이다)", "absorbed in(~에 몰두한)"],
+  "ex_add": "Plants absorb water through their roots.  (absorb=흡수하다)"
+ },
+ {
+  "num": "2238",
+  "hw": "abstract",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "구체적 사물에서 '뽑아낸' = 추상적인.",
+  "senses": [
+   "1) 추상적인·관념적인",
+   "2) (예술) 추상의·비구상의",
+   "3) (n.) 초록·개요"
+  ],
+  "etym": "라틴어 abstractus = abs(떨어져) + trahere(끌다). '구체에서 끌어내 떼어 낸'이 핵심. trahere(끌다) 뿌리로 attract(1518)·extract·contract·treat(2175)·portrait(1960)가 묶인다.",
+  "deriv": "abs(떨어져) + trahere(끌다) -> 'abstract'. '추상적인(an abstract concept)' -> 예술 '추상의(abstract art)' -> 명사 '초록(an abstract of the paper, 논문 초록)'. trahere(끌다) 뿌리로 attract·extract·treat·portrait와 묶인다 — 같은 trahere를 attract·treat에서 봤음. 한국 학습자: abstract(추상적인)와 concrete(구체적인)의 대비. an abstract idea(추상적 관념), abstract art(추상 미술), in the abstract(이론상·추상적으로). 동사 abstract(/æbˈstrækt/ 추출하다)와 형용사·명사(/ˈæbstrækt/) 강세가 다름.",
+  "syn": ["theoretical(이론적인)", "conceptual(개념적인)", "intangible(무형의)"],
+  "anti": ["concrete(구체적인)", "tangible(유형의)", "real(실제의)"],
+  "idiom": ["in the abstract(추상적으로·이론상)", "an abstract concept(추상 개념)", "abstract art(추상 미술)"],
+  "colloc": ["abstract concept(추상 개념)", "abstract idea(추상적 관념)", "abstract art(추상 미술)"],
+  "ex_add": "Beauty is an abstract concept that's hard to define.  (abstract=추상적인)"
+ },
+ {
+  "num": "2239",
+  "hw": "accent",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "말에 '얹는 가락' = 억양·말투 / 강세.",
+  "senses": [
+   "1) 말투·억양·사투리",
+   "2) (음절) 강세·악센트",
+   "3) (강조점) 역점 / 강세 부호"
+  ],
+  "etym": "라틴어 accentus = ad(~에) + cantus(노래, < canere 노래하다). '말에 얹은 노래(가락)'가 핵심. chant(읊다)·cantus·enchant(매혹하다)가 같은 canere(노래하다) 뿌리.",
+  "deriv": "ad(~에) + cantus(노래) -> 'accent'. '억양·말투(a French accent)' -> '강세(put the accent on the first syllable)' -> '역점(the accent on quality)'. canere(노래하다) 뿌리로 chant·enchant와 묶인다. 한국 학습자: a strong accent(강한 억양), a foreign accent(외국인 말투), put the accent on(~에 역점을 두다), with a ~ accent(~ 억양으로). accent(말투 전반·강세)와 dialect(사투리·방언, 어휘·문법 포함)의 구별. 발음 /ˈæksənt/.",
+  "syn": ["pronunciation(발음)", "intonation(억양)", "stress(강세)"],
+  "anti": [],
+  "idiom": ["a strong accent(강한 억양)", "put the accent on(~에 역점을 두다)", "a foreign accent(외국인 억양)"],
+  "colloc": ["strong accent(강한 억양)", "regional accent(지역 사투리)", "foreign accent(외국인 말투)"],
+  "ex_add": "She speaks English with a slight French accent.  (accent=억양)"
+ },
+ {
+  "num": "2240",
+  "hw": "acceptable",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "'받아들일' 만한 = 용인되는·무난한.",
+  "senses": [
+   "1) 받아들일 만한·용인되는",
+   "2) (수준이) 괜찮은·무난한",
+   "3) (사회적으로) 허용되는"
+  ],
+  "etym": "accept(받아들이다) + -able. accept < 라틴어 acceptare < ad(~로) + capere(잡다·받다). '받아들일 수 있는'이 핵심. capere(잡다) 뿌리로 except(1712)·receipt(2014)·capture·participate(1928)가 묶인다.",
+  "deriv": "ad(~로) + capere(받다) -> accept -> 'acceptable'. '용인되는(socially acceptable, 사회적으로 용인되는)' -> '무난한(an acceptable level)'. capere(잡다) 뿌리로 except·receipt·capture와 묶인다 — 같은 capere를 except·receipt에서 봤음. acceptance(수용)가 명사. 한국 학습자: acceptable to(~에게 받아들여지는), perfectly acceptable(전혀 문제없는), an acceptable standard(허용 수준). unacceptable(용납할 수 없는)이 반의. accept(받아들이다)/acceptable(받아들일 만한)/acceptance(수용) 가족.",
+  "syn": ["satisfactory(만족스러운)", "adequate(적절한)", "permissible(허용되는)"],
+  "anti": ["unacceptable(용납할 수 없는)", "inadmissible(허용 안 되는)"],
+  "idiom": ["socially acceptable(사회적으로 용인되는)", "perfectly acceptable(전혀 문제없는)", "acceptable to(~에게 받아들여지는)"],
+  "colloc": ["socially acceptable(사회적으로 용인되는)", "acceptable level(용인 가능한 수준)", "perfectly acceptable(아주 무난한)"],
+  "ex_add": "Such behavior is simply not acceptable.  (acceptable=용인되는)"
+ },
+ {
+  "num": "2241",
+  "hw": "accidentally",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "뜻하지 않게 '우연히·실수로'.",
+  "senses": [
+   "1) 우연히·뜻하지 않게",
+   "2) 실수로·잘못하여",
+   "3) 무심코"
+  ],
+  "etym": "accident(우연·사고) + -al + -ly. accident < 라틴어 accidere = ad(~로) + cadere(떨어지다). '~에 떨어져 일어난 일'이 핵심. cadere(떨어지다) 뿌리로 occasion(1909)·decay·cadence·coincidence가 묶인다.",
+  "deriv": "ad(~로) + cadere(떨어지다) -> accident -> 'accidentally'. '우연히(accidentally meet)' -> '실수로(accidentally delete a file)'. cadere(떨어지다) 뿌리로 accident·occasion(1909)·decay와 묶인다 — 같은 cadere를 occasion에서 봤음. 한국 학습자: accidentally(우연히·실수로)와 on purpose/deliberately(고의로)의 대비. accidentally on purpose(일부러 그런 척 우연을 가장해), 철자 주의(accident-al-ly, l 두 개). by accident(우연히, = accidentally). intentionally(고의로)가 반의.",
+  "syn": ["by accident(우연히)", "unintentionally(무심코)", "by chance(우연히)"],
+  "anti": ["deliberately(고의로)", "intentionally(의도적으로)", "on purpose(일부러)"],
+  "idiom": ["accidentally on purpose(고의를 우연으로 가장하여)", "by accident(우연히)"],
+  "colloc": ["accidentally delete(실수로 삭제하다)", "accidentally break(실수로 깨뜨리다)", "accidentally discover(우연히 발견하다)"],
+  "ex_add": "I accidentally deleted the wrong file.  (accidentally=실수로)"
+ }
+]
