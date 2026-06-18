@@ -1,0 +1,952 @@
+[
+ {
+  "num": "2542",
+  "hw": "dare",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "'감히 ~하다 / ~할 엄두를 내다 / 부추기다'.",
+  "senses": [
+   "1) 감히 ~하다·~할 엄두를 내다",
+   "2) ~에게 (해 보라고) 부추기다·도발하다",
+   "3) 모험·도전(명사)"
+  ],
+  "etym": "고대 영어 durran(대담하다·엄두를 내다). 게르만 계열 토박이말로, '두려움을 무릅쓰다'가 핵심. 조동사처럼도(I daren't), 본동사처럼도(I don't dare to) 쓰이는 특이한 낱말.",
+  "deriv": "durran(대담하다) -> 'dare'. '감히 ~하다(How dare you!, 네가 감히!)' -> '부추기다(I dare you to jump, 뛸 테면 뛰어 봐)' -> 명사 '도전(do sth for a dare)'. 한국 학습자 핵심: dare는 조동사·본동사 양쪽으로 쓰여 헷갈림 — dare not / don't dare to 둘 다 가능! How dare you(어떻게 감히), I dare say(아마 ~일 것이다), Don't you dare!(꿈도 꾸지 마!), a daredevil(무모한 사람). venture(위험을 무릅쓰다)와 유의어.",
+  "syn": ["venture(무릅쓰다)", "risk(위험을 감수하다)", "challenge(부추기다)"],
+  "anti": ["fear(두려워하다)", "hesitate(주저하다)"],
+  "idiom": ["How dare you!(네가 감히!)", "I dare say(아마 ~일 거다)", "Don't you dare!(꿈도 꾸지 마)", "a daredevil(무모한 사람)"],
+  "colloc": ["dare to do(감히 ~하다)", "dare sb to do(~에게 ...하라고 부추기다)", "wouldn't dare(엄두도 못 내다)"],
+  "ex_add": "She didn't dare to look down from the top of the tower.  (dare=감히 ~하다)"
+ },
+ {
+  "num": "2543",
+  "hw": "darkness",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "'어둠·암흑' / 무지·사악함.",
+  "senses": [
+   "1) 어둠·암흑",
+   "2) (피부·색의) 짙음",
+   "3) (비유) 무지·사악·암울함"
+  ],
+  "etym": "dark(어두운, 고대 영어 deorc) + -ness(상태). '빛이 없는 상태'가 핵심. 추상화하여 '무지·악'까지 가리킨다.",
+  "deriv": "dark(어두운) + -ness -> 'darkness'. '빛 없음 -> 어둠(in total darkness, 칠흑 같은 어둠 속에)' -> 비유 '무지·사악(the forces of darkness, 악의 세력)'. 한국 학습자 핵심: in the dark(어둠 속에 / 아무것도 모르고), plunge into darkness(어둠에 잠기다), the darkness fell(어둠이 내렸다), keep sb in the dark(~에게 알리지 않다). 추상명사라 보통 관사 없이 쓰지만 the darkness도 가능. 반대 light(빛)·brightness(밝음). dark(2... )·darken(어두워지다)이 가족.",
+  "syn": ["dark(어둠)", "blackness(암흑)", "gloom(어둑함)"],
+  "anti": ["light(빛)", "brightness(밝음)", "daylight(햇빛)"],
+  "idiom": ["in the darkness(어둠 속에)", "the forces of darkness(악의 세력)", "a leap in the dark(무모한 시도)"],
+  "colloc": ["total darkness(완전한 어둠)", "in darkness(어둠 속에서)", "plunge into darkness(어둠에 잠기다)"],
+  "ex_add": "The whole city was plunged into darkness during the blackout.  (darkness=어둠)"
+ },
+ {
+  "num": "2544",
+  "hw": "database",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "자료를 모은 '데이터베이스'.",
+  "senses": [
+   "1) 데이터베이스·자료 집합",
+   "2) (컴퓨터) 정보 저장 체계",
+   "3) 자료 기지"
+  ],
+  "etym": "data(자료) + base(기반). data는 라틴어 datum(주어진 것)의 복수 <- dare(주다). '주어진 자료(datum)를 한 기반(base)에 모은 것'이 핵심. date(2545)·donation(2627)·donor도 dare(주다) 갈래.",
+  "deriv": "datum(주어진 것) -> data + base -> 'database'. '자료를 모은 기반 -> 데이터베이스(search a database)'. 한국 학습자 핵심: data의 뿌리는 dare(주다) — date(날짜, 2545)·donation(기부, 2627)·donor·pardon(용서)도 한 갈래! a customer database(고객 DB), build a database(DB를 구축하다), a database of names(이름 목록), query a database(DB를 조회하다). data는 본래 복수(단수 datum)지만 오늘날 단수 취급도 흔하다. base(기반)와 결합한 합성어.",
+  "syn": ["data bank(데이터 뱅크)", "repository(저장소)", "archive(기록 보관소)"],
+  "anti": [],
+  "idiom": ["a customer database(고객 데이터베이스)", "search a database(DB를 검색하다)"],
+  "colloc": ["build a database(DB를 구축하다)", "a national database(전국 DB)", "update a database(DB를 갱신하다)"],
+  "ex_add": "All customer information is stored in a secure database.  (database=데이터베이스)"
+ },
+ {
+  "num": "2545",
+  "hw": "date",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "'날짜 / 데이트(하다) / 대추야자'.",
+  "senses": [
+   "1) 날짜·연월일",
+   "2) 데이트·만날 약속 / 데이트하다",
+   "3) (date from/back to) ~까지 거슬러 올라가다"
+  ],
+  "etym": "라틴어 data(주어진, 편지 첫머리 'data Romae=로마에서 줌'에서) <- dare(주다). '편지를 써 준 날'에서 '날짜'가 됐다. (과일 '대추야자'의 date는 그리스어 daktylos '손가락'에서 온 다른 낱말.) data·database(2544)·donation(2627)과 dare(주다) 갈래.",
+  "deriv": "dare(주다) -> data(준 날) -> 'date'. '날짜(today's date)' -> '만날 약속·데이트(go on a date)·데이트하다' -> '~까지 거슬러 올라가다(date back to, the castle dates from the 12th century)'. 한국 학습자 핵심: dare(주다) 갈래 — data·database(2544)·donation(2627)·donor·pardon! out of date(시대에 뒤진/기한 만료), up to date(최신의), to date(지금까지), a blind date(소개팅), date back to(~로 거슬러 올라가다), the expiry date(유통 기한). appointment(약속)와 구별.",
+  "syn": ["day(날)", "appointment(약속)", "go out with(데이트하다)"],
+  "anti": [],
+  "idiom": ["out of date(구식의)", "up to date(최신의)", "to date(지금까지)", "date back to(~로 거슬러 가다)"],
+  "colloc": ["the date of birth(생년월일)", "go on a date(데이트하러 가다)", "the due date(예정일)"],
+  "ex_add": "This cathedral dates back to the 14th century.  (date back to=~로 거슬러 올라가다)"
+ },
+ {
+  "num": "2546",
+  "hw": "deadline",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "넘으면 안 되는 '마감 시한'.",
+  "senses": [
+   "1) 마감 시한·최종 기한",
+   "2) 마감일",
+   "3) 한계선"
+  ],
+  "etym": "dead(죽은) + line(선). 본래 미국 남북전쟁 포로수용소에서 '넘으면 사살(dead)되는 경계선(line)'을 뜻하던 무서운 말이, '넘으면 안 되는 시간의 선 -> 마감'으로 굳어졌다.",
+  "deriv": "dead(죽은) + line(선) -> 'deadline(넘으면 죽는 선)'. '시간의 한계선 -> 마감 시한(meet the deadline, 마감을 지키다)'. 한국 학습자 핵심: meet a deadline(마감을 맞추다) vs miss a deadline(마감을 놓치다), a tight deadline(빠듯한 마감), set a deadline(기한을 정하다), the deadline for applications(지원 마감일), beat the deadline(마감 전에 끝내다), under deadline pressure(마감 압박에 시달려). due date(기한)와 유의어. dead+line 합성어 — 어원의 '죽음' 이미지를 알면 어감이 또렷해진다.",
+  "syn": ["due date(기한)", "time limit(제한 시간)", "cutoff(마감)"],
+  "anti": [],
+  "idiom": ["meet a deadline(마감을 지키다)", "miss a deadline(마감을 놓치다)", "a tight deadline(빠듯한 마감)"],
+  "colloc": ["meet the deadline(마감을 맞추다)", "a tight deadline(촉박한 마감)", "set a deadline(기한을 정하다)"],
+  "ex_add": "We worked all night to meet the deadline.  (deadline=마감 시한)"
+ },
+ {
+  "num": "2547",
+  "hw": "deadly",
+  "pos": "adj., adv.",
+  "cefr": "B2",
+  "core": "죽음에 이르게 하는 -> '치명적인·극도로'.",
+  "senses": [
+   "1) 치명적인·죽음을 부르는",
+   "2) (적의·정확성이) 무서운·극도의",
+   "3) (부사) 극도로·죽도록"
+  ],
+  "etym": "dead(죽은, 고대 영어 dead) + -ly. '죽음(dead)으로 이끄는'이 핵심. deadly와 mortal(죽을 운명의)·fatal(치명적인)·lethal(치사의)이 유의어 무리를 이룬다.",
+  "deriv": "dead(죽은) + -ly -> 'deadly'. '죽음을 부르는 -> 치명적인(a deadly poison, 맹독)' -> '무서운·극도의(a deadly enemy, 불구대천의 원수 / deadly accuracy, 무서운 정확성)' -> 부사 '극도로(deadly serious, 더없이 진지한)'. 한국 학습자 핵심: deadly(치명적인, 형용사)와 deathly(죽은 듯한, deathly pale 사색이 된)를 구별! the seven deadly sins(7대 죄악), a deadly weapon(흉기), deadly dull(죽도록 지루한). fatal(치명적인)·lethal(치사의)과 유의어 — deadly가 가장 일상적.",
+  "syn": ["fatal(치명적인)", "lethal(치사의)", "mortal(죽음의)"],
+  "anti": ["harmless(무해한)", "safe(안전한)", "beneficial(이로운)"],
+  "idiom": ["the seven deadly sins(7대 죄악)", "deadly serious(더없이 진지한)", "a deadly weapon(흉기)"],
+  "colloc": ["a deadly poison(맹독)", "a deadly disease(치명적인 병)", "deadly accuracy(무서운 정확성)"],
+  "ex_add": "The bite of this snake can be deadly.  (deadly=치명적인)"
+ },
+ {
+  "num": "2548",
+  "hw": "dealer",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "물건을 나눠 파는 '상인·딜러'.",
+  "senses": [
+   "1) 상인·판매업자·딜러",
+   "2) (카드를) 돌리는 사람",
+   "3) 마약 밀매상"
+  ],
+  "etym": "deal(나누다·거래하다, 고대 영어 dælan '나누다') + -er. '물건을 나눠(deal) 주고받는 사람'이 핵심. deal(거래)·dole(나눠 주다)이 한 갈래.",
+  "deriv": "dælan(나누다) -> deal -> 'dealer(나눠 주는 사람)'. '물건을 거래하는 상인(a car dealer, 자동차 판매상)' -> 카드를 '돌리는 사람' -> '마약상(a drug dealer)'. 한국 학습자 핵심: deal에서 갈라진 말 — deal(거래/나누다)·dealings(거래 관계)·dealership(판매 대리점)! an art dealer(미술품 거래상), an antique dealer(골동품상), a used-car dealer(중고차 딜러), a wheeler-dealer(수완가). trader(상인)·merchant(상인)·vendor(판매자)와 유의어.",
+  "syn": ["trader(상인)", "merchant(상인)", "vendor(판매자)"],
+  "anti": ["customer(고객)", "buyer(구매자)"],
+  "idiom": ["a wheeler-dealer(수완 좋은 거래꾼)", "a drug dealer(마약상)"],
+  "colloc": ["a car dealer(자동차 판매상)", "an art dealer(미술품 거래상)", "a drug dealer(마약 밀매상)"],
+  "ex_add": "He bought the painting from a well-known art dealer.  (dealer=거래상)"
+ },
+ {
+  "num": "2549",
+  "hw": "debate",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "맞쳐 다툼 -> '토론·논쟁 / 토론하다·숙고하다'.",
+  "senses": [
+   "1) 토론·논쟁",
+   "2) 토론하다·논의하다",
+   "3) (마음속으로) 곰곰 따져 보다"
+  ],
+  "etym": "라틴어 dis-(서로) + battuere(치다·때리다) -> 고대 프랑스어 debatre(말로 치고받다). '말로 맞쳐 다툼'이 핵심. battuere(치다)는 battle(전투)·beat(치다)·combat(전투)·batter(난타하다)의 뿌리.",
+  "deriv": "dis-(서로) + battuere(치다) -> 'debate'. '말로 치고받음 -> 토론·논쟁(a heated debate)' -> '토론하다(debate the issue)' -> '혼자 곰곰 따지다(debate whether to go)'. 한국 학습자 핵심: battuere(치다) 가족 — battle(전투)·beat·combat·battery·batter·abate! a debate on/over(~에 관한 토론), open to debate(논의의 여지가 있는), beyond debate(이론의 여지 없는), a debate is raging(논쟁이 격렬하다). discussion(토의)·argument(논쟁)과 유의어 — debate는 찬반이 갈린 공식 토론.",
+  "syn": ["discussion(토의)", "argument(논쟁)", "dispute(논란)"],
+  "anti": ["agreement(합의)", "consensus(의견 일치)"],
+  "idiom": ["open to debate(논의의 여지가 있는)", "beyond debate(이론의 여지 없는)", "a heated debate(열띤 논쟁)"],
+  "colloc": ["a heated debate(열띤 토론)", "a public debate(공개 토론)", "debate the issue(쟁점을 논의하다)"],
+  "ex_add": "There has been much debate about the new policy.  (debate=논쟁)"
+ },
+ {
+  "num": "2550",
+  "hw": "debt",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "갚아야 할 '빚·부채·신세'.",
+  "senses": [
+   "1) 빚·부채",
+   "2) 채무·갚을 것",
+   "3) 은혜·신세"
+  ],
+  "etym": "라틴어 debitum(빚진 것) <- debere(빚지다) = de-(~로부터) + habere(가지다) -> '남에게서 받아 가진 것'. debit(차변)·due(지급 기일이 된)·duty(의무)가 debere 갈래. 묵음 b는 라틴어 어원을 살리려 끼워 넣은 철자.",
+  "deriv": "debere(빚지다) -> debitum -> 'debt'. '갚을 빚·부채(pay off a debt, 빚을 갚다)' -> 비유 '갚아야 할 은혜·신세(a debt of gratitude, 갚을 은혜)'. 한국 학습자 핵심: debt의 b는 묵음('뎃')! debere 갈래 — debit(직불)·due(만기의)·duty(의무)! be in debt(빚을 지고 있다), get into debt(빚을 지다), national debt(국가 부채), a debt of gratitude(은혜), bad debt(악성 채무). 반대 credit(2520, 신용·외상). loan(대출)과 구별.",
+  "syn": ["liability(부채)", "arrears(연체금)", "obligation(채무)"],
+  "anti": ["credit(신용)", "asset(자산)", "savings(저축)"],
+  "idiom": ["in debt(빚진)", "a debt of gratitude(갚을 은혜)", "get into debt(빚을 지다)"],
+  "colloc": ["pay off a debt(빚을 갚다)", "national debt(국가 부채)", "be in debt(빚이 있다)"],
+  "ex_add": "It took him years to pay off all his debts.  (debt=빚)"
+ },
+ {
+  "num": "2551",
+  "hw": "decent",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "격에 맞는 -> '괜찮은·예의 바른·점잖은'.",
+  "senses": [
+   "1) (수준이) 괜찮은·제법인",
+   "2) 점잖은·품위 있는",
+   "3) (사람이) 친절한·됨됨이가 좋은"
+  ],
+  "etym": "라틴어 decens(어울리는·격에 맞는) <- decere(어울리다·격에 맞다). '체면·격에 맞다'가 핵심. decorate(꾸미다, 2555)·decorum(예절)·dignity(품위)와 같은 '어울림·품격' 갈래.",
+  "deriv": "decere(격에 맞다) -> decens -> 'decent'. '격에 맞는 -> 점잖은·예의 바른(decent behavior)' -> '봐줄 만한·괜찮은(a decent salary, 제법 괜찮은 봉급)' -> '됨됨이 좋은(a decent man)'. 한국 학습자 핵심: decent는 '훌륭한'까진 아니어도 '꽤 괜찮은' 정도! a decent meal(괜찮은 식사), decent enough(그런대로 괜찮은), do the decent thing(도리를 다하다), Are you decent?(옷은 갖춰 입었니?). decency(체면)·decorum(예절)이 가족. respectable(점잖은)·adequate(적당한)과 유의어. 반대 indecent(외설적인).",
+  "syn": ["respectable(점잖은)", "adequate(괜찮은)", "honorable(올바른)"],
+  "anti": ["indecent(외설적인)", "shabby(형편없는)", "poor(빈약한)"],
+  "idiom": ["do the decent thing(도리를 다하다)", "a decent sort(괜찮은 사람)"],
+  "colloc": ["a decent salary(괜찮은 봉급)", "a decent meal(괜찮은 식사)", "a decent person(점잖은 사람)"],
+  "ex_add": "He earns a decent living as a carpenter.  (decent=괜찮은)"
+ },
+ {
+  "num": "2552",
+  "hw": "deck",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "덮은 '갑판·층' / 한 벌의 카드 / 꾸미다.",
+  "senses": [
+   "1) (배의) 갑판 / (버스의) 층",
+   "2) (카드) 한 벌 / (테라스) 덱",
+   "3) (동사) 꾸미다·장식하다 / 때려눕히다"
+  ],
+  "etym": "중세 네덜란드어 dec(덮개·지붕). '배의 위를 덮은 바닥'이 핵심. 같은 '덮다'에서 '치장하다(deck out)' 뜻도 나왔다.",
+  "deriv": "dec(덮개) -> 'deck'. '배를 덮은 바닥 -> 갑판(on deck, 갑판 위에)' -> '버스의 층(a double-decker, 2층 버스)·테라스 덱' -> 카드 '한 벌(a deck of cards)' -> 동사 '꾸미다(deck the halls)·때려눕히다'. 한국 학습자 핵심: on deck(갑판 위에 / (미) 대기 중인), clear the decks(준비를 갖추다), all hands on deck(전원 비상 동원), hit the deck(바닥에 엎드리다), deck out(화려하게 꾸미다), a double-decker(2층 버스). a flight deck(비행 갑판/조종실).",
+  "syn": ["floor(층)", "pack(한 벌)", "adorn(꾸미다)"],
+  "anti": [],
+  "idiom": ["on deck(갑판에/대기 중인)", "clear the decks(준비를 갖추다)", "hit the deck(바닥에 엎드리다)", "deck out(꾸미다)"],
+  "colloc": ["on deck(갑판 위에)", "a deck of cards(카드 한 벌)", "the upper deck(상갑판/위층)"],
+  "ex_add": "The passengers gathered on the upper deck to watch the sunset.  (deck=갑판)"
+ },
+ {
+  "num": "2553",
+  "hw": "declare",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "분명히 밝히다 -> '선언·단언·신고하다'.",
+  "senses": [
+   "1) 선언하다·공표하다",
+   "2) 단언하다·분명히 말하다",
+   "3) (세관·세무에) 신고하다"
+  ],
+  "etym": "라틴어 declarare = de-(강조) + clarus(맑은·분명한) -> '분명하게(clarus) 밝히다'. clarus는 clear(맑은)·clarify(명확히 하다, 2428)·clarity(명료)의 뿌리. '환히 드러내 말함'이 핵심.",
+  "deriv": "de-(강조) + clarus(분명한) -> 'declare'. '분명히 밝히다 -> 선언하다(declare independence, 독립을 선언하다)' -> '단언하다(declare that S+V)' -> 세관에 '신고하다(anything to declare?, 신고할 것 있나요?)'. 한국 학습자 핵심: clarus(맑은) 가족 — clear·clarify(2428)·clarity·declaration! declare war on(~에 선전포고하다), declare a state of emergency(비상사태를 선포하다), declare bankruptcy(파산을 선언하다). announce(발표하다)·proclaim(선포하다)과 유의어.",
+  "syn": ["announce(발표하다)", "proclaim(선포하다)", "state(단언하다)"],
+  "anti": ["conceal(숨기다)", "deny(부인하다)", "withhold(밝히지 않다)"],
+  "idiom": ["declare war on(~에 선전포고하다)", "anything to declare?(신고할 것이 있습니까?)", "declare independence(독립을 선언하다)"],
+  "colloc": ["declare independence(독립을 선언하다)", "declare a state of emergency(비상사태를 선포하다)", "officially declare(공식적으로 선언하다)"],
+  "ex_add": "The two countries declared war on each other.  (declare=선언하다)"
+ },
+ {
+  "num": "2554",
+  "hw": "decline",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "아래로 기울다 -> '쇠퇴하다·감소하다 / 정중히 거절하다'.",
+  "senses": [
+   "1) 쇠퇴하다·감소하다 / 쇠퇴·감소",
+   "2) (정중히) 거절하다·사양하다",
+   "3) (아래로) 기울다"
+  ],
+  "etym": "라틴어 declinare = de-(아래로) + clinare(기울다). '아래로 기울어짐'이 핵심. clinare(기울다)는 incline(기울다)·recline(기대다)·clinic(병상, 2432)·lean(기대다)의 뿌리.",
+  "deriv": "de-(아래로) + clinare(기울다) -> 'decline'. '아래로 기울다 -> 쇠퇴·감소하다(sales declined)' -> '고개를 옆으로 기울임 -> 정중히 거절하다(decline an invitation)'. 한국 학습자 핵심: clinare(기울다) 가족 — incline(경향이 있다)·recline(눕다)·clinic(2432)·lean! decline은 '거절'일 때 refuse보다 공손하다 — decline politely(정중히 사양하다). a sharp decline(급감), on the decline(쇠퇴하는 중인), decline to comment(논평을 거부하다), be in decline(쇠퇴 중이다). 반대(증가) increase·rise / (수락) accept.",
+  "syn": ["decrease(감소하다)", "deteriorate(악화하다)", "refuse(거절하다)"],
+  "anti": ["increase(증가하다)", "rise(오르다)", "accept(수락하다)"],
+  "idiom": ["on the decline(쇠퇴 중인)", "decline to comment(논평을 거부하다)", "a sharp decline(급감)"],
+  "colloc": ["a steady decline(꾸준한 감소)", "decline rapidly(급격히 감소하다)", "decline an offer(제의를 거절하다)"],
+  "ex_add": "The number of farms has declined steadily over the years.  (decline=감소하다)"
+ },
+ {
+  "num": "2555",
+  "hw": "decorate",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "보기 좋게 '장식하다·꾸미다 / 훈장을 주다'.",
+  "senses": [
+   "1) 장식하다·꾸미다",
+   "2) (실내를) 도배·페인트칠하다",
+   "3) 훈장을 수여하다"
+  ],
+  "etym": "라틴어 decorare(아름답게 하다) <- decus/decor(아름다움·품위). '격에 맞게 보기 좋게 꾸밈'이 핵심. decoration(2556)·decor(실내 장식)·decorum(예절)·decent(격에 맞는, 2551)와 같은 '품격·어울림' 갈래.",
+  "deriv": "decus(아름다움) -> decorare -> 'decorate'. '아름답게 꾸미다·장식하다(decorate a cake/room)' -> (영) '실내를 도배·칠하다(decorate the kitchen)' -> 공을 기려 '훈장을 주다(be decorated for bravery)'. 한국 학습자 핵심: decus(아름다움·품격) 갈래 — decoration(2556)·decor·decorous(고상한)·decorum(예의)·decent(2551)! decorate with(~으로 장식하다), be decorated for(~으로 훈장을 받다), interior decorating(실내 장식). adorn(꾸미다)·embellish(장식하다)와 유의어.",
+  "syn": ["adorn(꾸미다)", "ornament(장식하다)", "embellish(꾸미다)"],
+  "anti": ["strip(벗기다)", "spoil(망치다)"],
+  "idiom": ["be decorated for bravery(용맹으로 훈장을 받다)"],
+  "colloc": ["decorate a cake(케이크를 장식하다)", "decorate a room(방을 꾸미다)", "lavishly decorated(화려하게 장식된)"],
+  "ex_add": "They decorated the hall with balloons and flowers.  (decorate=장식하다)"
+ },
+ {
+  "num": "2556",
+  "hw": "decoration",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "꾸밈 -> '장식(품) / 훈장'.",
+  "senses": [
+   "1) 장식·꾸밈",
+   "2) 장식품",
+   "3) 훈장·수훈"
+  ],
+  "etym": "라틴어 decorare(장식하다)의 명사형 decoratio <- decus(아름다움). decorate(2555)·decor·decent(2551)와 한 '품격·꾸밈' 갈래. '보기 좋게 꾸민 것'이 핵심.",
+  "deriv": "decus(아름다움) -> decorate(2555) -> 'decoration'. '꾸밈 -> 장식(interior decoration, 실내 장식)' -> '장식품(Christmas decorations)' -> 공을 기린 '훈장'. 한국 학습자 핵심: decus(품격·아름다움) 갈래 — decorate(2555)·decor·decorum·decent(2551)·decorative(장식용의)! Christmas decorations(크리스마스 장식), for decoration(장식용으로), a military decoration(무공 훈장), wall decorations(벽 장식). ornament(장식품)·adornment(장식)과 유의어.",
+  "syn": ["ornament(장식품)", "adornment(꾸밈)", "trimming(장식)"],
+  "anti": [],
+  "idiom": ["for decoration(장식용의)", "Christmas decorations(성탄 장식)"],
+  "colloc": ["interior decoration(실내 장식)", "Christmas decorations(크리스마스 장식)", "a military decoration(무공 훈장)"],
+  "ex_add": "The room was full of colorful party decorations.  (decoration=장식)"
+ },
+ {
+  "num": "2557",
+  "hw": "decrease",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "점점 줄다 -> '감소(하다)'.",
+  "senses": [
+   "1) 줄다·감소하다",
+   "2) 줄이다·감소시키다",
+   "3) 감소·하락(명사)"
+  ],
+  "etym": "라틴어 decrescere = de-(아래로) + crescere(자라다) -> '자라남이 아래로 = 줄어듦'. crescere(자라다)는 increase(늘다)·crescent(초승달)·concrete(2465)·crew(2521)·recruit(신병)의 뿌리.",
+  "deriv": "de-(아래로) + crescere(자라다) -> 'decrease'. '점점 줄다 -> 감소하다(sales decreased)' -> '줄이다' -> 명사 '감소(a decrease in profits)'. 한국 학습자 핵심: crescere(자라다) 가족 — increase(↔)·crescent(초승달)·concrete(2465)·crew(2521)·recruit·crescendo! 명사·동사 강세 다름(DEcrease 감소 / deCREASE 줄다). decrease by(~만큼 줄다) vs decrease to(~까지 줄다), a sharp decrease(급감), on the decrease(감소세인). reduce(줄이다)·diminish(감소하다)와 유의어. 반대 increase(증가).",
+  "syn": ["reduce(줄이다)", "diminish(감소하다)", "decline(감소하다)"],
+  "anti": ["increase(증가하다)", "rise(오르다)", "grow(늘다)"],
+  "idiom": ["on the decrease(감소세인)", "a decrease in(~의 감소)"],
+  "colloc": ["a sharp decrease(급감)", "decrease significantly(크게 줄다)", "a decrease in demand(수요 감소)"],
+  "ex_add": "The company's profits decreased by 15 percent last year.  (decrease=감소하다)"
+ },
+ {
+  "num": "2558",
+  "hw": "deeply",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'깊이·매우·진심으로'.",
+  "senses": [
+   "1) (정도가) 깊이·매우·몹시",
+   "2) 진심으로·절실히",
+   "3) (물리적으로) 깊숙이"
+  ],
+  "etym": "deep(깊은, 고대 영어 deop) + -ly. '깊은 데까지 미치도록'이 핵심. 감정·정도를 강조하는 부사로 폭넓게 쓰인다. depth(깊이, 2581)가 명사형.",
+  "deriv": "deep(깊은) -> 'deeply'. 물리적 '깊숙이' -> 비유 '깊이·매우(deeply moved, 깊이 감동한)' -> '진심으로(deeply grateful, 진심으로 감사한)'. 한국 학습자 핵심: deep(부사로도 쓰여 '깊은 곳까지' — dig deep)와 deeply(추상적 '매우·깊이')를 구별 — breathe deeply(깊이 숨 쉬다), deeply concerned(매우 우려하는)! deeply rooted(뿌리 깊은), deeply involved(깊이 관여한), deeply religious(독실한). profoundly(깊이)·intensely(강렬히)와 유의어. depth(2581) 가족. 반대 shallowly·slightly.",
+  "syn": ["profoundly(깊이)", "intensely(강렬히)", "greatly(대단히)"],
+  "anti": ["slightly(약간)", "superficially(피상적으로)", "shallowly(얕게)"],
+  "idiom": ["deeply moved(깊이 감동한)", "deeply rooted(뿌리 깊은)", "deeply grateful(진심으로 감사한)"],
+  "colloc": ["deeply concerned(매우 우려하는)", "deeply involved(깊이 관여한)", "breathe deeply(깊이 숨 쉬다)"],
+  "ex_add": "We are deeply grateful for all your help.  (deeply=진심으로)"
+ },
+ {
+  "num": "2559",
+  "hw": "defeat",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "해 놓은 것을 무너뜨림 -> '패배시키다·좌절시키다 / 패배'.",
+  "senses": [
+   "1) 이기다·패배시키다·무찌르다",
+   "2) (계획을) 좌절시키다·무산시키다",
+   "3) 패배·타파"
+  ],
+  "etym": "라틴어 disfacere = dis-(반대로) + facere(하다·만들다) -> '해 놓은 것을 거꾸로 무너뜨림'. facere(만들다)는 fact(사실)·feat(위업)·feature(특징)·defect(결함)·effect(효과)·perfect(완벽한)의 거대한 뿌리.",
+  "deriv": "dis-(반대로) + facere(만들다) -> 'defeat'. '만든 것을 무너뜨림 -> 무찌르다(defeat the enemy)' -> '계획을 좌절시키다(defeat the purpose, 목적을 무산시키다)' -> 명사 '패배(admit defeat, 패배를 인정하다)'. 한국 학습자 핵심: facere(만들다) 대가족 — fact·feat(공적)·feature·defect·effect·perfect·manufacture·factory! a crushing defeat(참패), suffer a defeat(패하다), defeat the purpose(취지를 무색하게 하다), concede defeat(패배를 인정하다). beat(이기다)·conquer(정복하다)와 유의어. 반대 victory(승리).",
+  "syn": ["beat(이기다)", "conquer(정복하다)", "overcome(극복하다)"],
+  "anti": ["victory(승리)", "win(승리)", "triumph(승리)"],
+  "idiom": ["admit defeat(패배를 인정하다)", "defeat the purpose(취지를 무색하게 하다)", "a crushing defeat(참패)"],
+  "colloc": ["suffer a defeat(패배를 당하다)", "a heavy defeat(대패)", "defeat the enemy(적을 무찌르다)"],
+  "ex_add": "Our team defeated the champions in the final.  (defeat=이기다)"
+ },
+ {
+  "num": "2560",
+  "hw": "defend",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "쳐서 막다 -> '방어하다·옹호하다·변호하다'.",
+  "senses": [
+   "1) 방어하다·지키다",
+   "2) 옹호하다·변호하다",
+   "3) (선수권을) 방어하다"
+  ],
+  "etym": "라틴어 defendere = de-(떼어 내어) + fendere(치다·때리다) -> '쳐서 물리쳐 막다'. fendere(치다)는 defender(2561)·defense(2562)·offend(공격하다·기분 상하게 하다)·offense(공격)·fender(완충 장치)의 뿌리.",
+  "deriv": "de-(물리쳐) + fendere(치다) -> 'defend'. '쳐서 막다 -> 방어하다(defend the city)' -> '말로 막다 -> 옹호·변호하다(defend a decision, defend a client)' -> '타이틀을 방어하다(defend the title)'. 한국 학습자 핵심: fendere(치다) 가족 — defender(2561)·defense(2562)·offend·offense·fender! defend against(~에 맞서 지키다), defend oneself(자신을 방어/변호하다), defend sb's right to(~의 권리를 옹호하다). protect(보호하다)·guard(지키다)와 유의어. 반대 attack(공격하다)·offend.",
+  "syn": ["protect(보호하다)", "guard(지키다)", "uphold(옹호하다)"],
+  "anti": ["attack(공격하다)", "abandon(저버리다)", "criticize(비판하다)"],
+  "idiom": ["defend oneself(자신을 방어하다)", "defend against(~에 맞서 지키다)", "defend the title(타이틀을 방어하다)"],
+  "colloc": ["defend the city(도시를 방어하다)", "defend a decision(결정을 옹호하다)", "vigorously defend(강력히 옹호하다)"],
+  "ex_add": "The lawyer worked hard to defend her client.  (defend=변호하다)"
+ },
+ {
+  "num": "2561",
+  "hw": "defender",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "지켜 막는 '수비수·옹호자'.",
+  "senses": [
+   "1) (축구 등) 수비수",
+   "2) 옹호자·지지자",
+   "3) 방어자·변호인"
+  ],
+  "etym": "defend(방어하다, 2560) + -er. 라틴어 de-(물리쳐) + fendere(치다) 뿌리. '쳐서 막아 지키는 사람'이 핵심. defense(2562)·offend와 한 fendere 가족.",
+  "deriv": "defend(2560) -> 'defender'. '경기의 수비수(a solid defender)' -> '대의의 옹호자(a defender of human rights, 인권 옹호자)' -> '타이틀 방어자(the defending champion, 디펜딩 챔피언)'. 한국 학습자 핵심: fendere(치다) 가족 — defend(2560)·defense(2562)·offend(공격하다)·offense·fender! a staunch defender(확고한 옹호자), the reigning/defending champion(현/전 챔피언). 반대 attacker(공격수)·striker(공격수). protector(보호자)·advocate(옹호자)와 유의어.",
+  "syn": ["protector(보호자)", "advocate(옹호자)", "guardian(수호자)"],
+  "anti": ["attacker(공격수)", "striker(공격수)", "critic(비판자)"],
+  "idiom": ["the defending champion(디펜딩 챔피언)", "a staunch defender(확고한 옹호자)"],
+  "colloc": ["a strong defender(강한 수비수)", "a defender of freedom(자유의 옹호자)", "the defending champion(타이틀 방어자)"],
+  "ex_add": "She is a passionate defender of free speech.  (defender=옹호자)"
+ },
+ {
+  "num": "2562",
+  "hw": "defense",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "막아 지킴 -> '방어·수비 / 변호 / 국방'.",
+  "senses": [
+   "1) 방어·수비",
+   "2) 변호·항변",
+   "3) 국방·방위"
+  ],
+  "etym": "라틴어 defensa(방어) <- defendere(막다) = de-(물리쳐) + fendere(치다). defend(2560)·defender(2561)·offense와 한 fendere 가족. (영국식 철자 defence.)",
+  "deriv": "de-(물리쳐) + fendere(치다) -> defend -> 'defense'. '막아 지킴 -> 방어·수비(a strong defense)' -> 법정 '변호·항변(in his defense, 그를 변호하자면)' -> '국방(the Ministry of Defense, 국방부)'. 한국 학습자 핵심: fendere(치다) 가족 — defend(2560)·defender(2561)·offend·offense! 영국식 defence / 미국식 defense. self-defense(정당방위), come to sb's defense(~를 옹호하고 나서다), the best defense is a good offense(공격이 최선의 방어). protection(보호)과 유의어. 반대 attack·offense(공격).",
+  "syn": ["protection(보호)", "guard(방어)", "shield(방패)"],
+  "anti": ["attack(공격)", "offense(공격)", "assault(습격)"],
+  "idiom": ["self-defense(정당방위)", "come to sb's defense(~를 옹호하다)", "in defense of(~을 옹호하여)"],
+  "colloc": ["a strong defense(강력한 방어)", "national defense(국방)", "self-defense(자기방어)"],
+  "ex_add": "He acted in self-defense when he was attacked.  (defense=방어)"
+ },
+ {
+  "num": "2563",
+  "hw": "delay",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "늦추다 -> '지연(시키다)·미루다'.",
+  "senses": [
+   "1) 지연시키다·늦추다 / 지연",
+   "2) 미루다·연기하다",
+   "3) 지체·꾸물거림"
+  ],
+  "etym": "고대 프랑스어 delaier(미루다) = de-(강조) + laier(두다·내버려 두다). '뒤로 처져 시간이 늘어짐'이 핵심. '풀어 늦춤'의 어감으로 relax(늦추다)·lax(느슨한)와 통한다.",
+  "deriv": "delaier(미루다) -> 'delay'. '늦추다·지연시키다(the flight was delayed)' -> '미루다(delay a decision)' -> 명사 '지연(a long delay)'. 한국 학습자 핵심: delay + V-ing(delay making a decision, 결정을 미루다 — to부정사 아님!), without delay(지체 없이), a slight delay(약간의 지연), be delayed by(~로 지연되다), traffic delays(교통 지체). postpone(연기하다)·put off(미루다)와 유의어 — delay는 '예상보다 늦어짐'까지 포함. 반대 hasten(서두르다)·expedite(촉진하다).",
+  "syn": ["postpone(연기하다)", "put off(미루다)", "hold up(지연시키다)"],
+  "anti": ["hasten(서두르다)", "expedite(촉진하다)", "advance(앞당기다)"],
+  "idiom": ["without delay(지체 없이)", "delay doing(~하기를 미루다)"],
+  "colloc": ["a long delay(긴 지연)", "delay a decision(결정을 미루다)", "without delay(지체 없이)"],
+  "ex_add": "Our flight was delayed by three hours due to the storm.  (delay=지연시키다)"
+ },
+ {
+  "num": "2564",
+  "hw": "delete",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "지워 없애다 -> '삭제하다'.",
+  "senses": [
+   "1) (글자·파일을) 삭제하다·지우다",
+   "2) 없애다·제거하다",
+   "3) 말소하다"
+  ],
+  "etym": "라틴어 delere(지우다·파괴하다)의 과거분사 deletus. '깨끗이 지워 없앰'이 핵심. indelible(지울 수 없는 = in-(부정) + delere)이 같은 갈래로, '지우기(delete)의 반대'를 보여 준다.",
+  "deriv": "delere(지우다) -> 'delete'. '글자·파일을 지우다(delete a file)' -> '없애다·제거하다(delete from the list)'. 한국 학습자 핵심: delere(지우다) 갈래 — indelible(지울 수 없는, an indelible memory 잊지 못할 기억)! delete a file/email(파일·이메일을 삭제하다), permanently delete(영구 삭제하다), the delete key(삭제 키), delete A from B(B에서 A를 지우다). erase(지우다)·remove(제거하다)·cancel(취소하다, 2394)과 유의어. 반대 add(추가하다)·insert(삽입하다)·restore(복원하다).",
+  "syn": ["erase(지우다)", "remove(제거하다)", "cancel(말소하다)"],
+  "anti": ["add(추가하다)", "insert(삽입하다)", "restore(복원하다)"],
+  "idiom": ["the delete key(삭제 키)", "permanently delete(영구 삭제하다)"],
+  "colloc": ["delete a file(파일을 삭제하다)", "delete an email(이메일을 지우다)", "accidentally delete(실수로 지우다)"],
+  "ex_add": "I accidentally deleted the file from my computer.  (delete=삭제하다)"
+ },
+ {
+  "num": "2565",
+  "hw": "deliberate",
+  "pos": "adj., v.",
+  "cefr": "B2",
+  "core": "저울에 달아 본 -> '의도적인·신중한 / 숙고하다'.",
+  "senses": [
+   "1) 고의의·의도적인",
+   "2) 신중한·찬찬한",
+   "3) (동사) 숙고하다·심의하다"
+  ],
+  "etym": "라틴어 deliberare = de-(강조) + librare(저울질하다) <- libra(저울·천칭). '저울(libra)에 달아 보듯 무게를 재 봄'이 핵심. equilibrium(평형)·Libra(천칭자리)가 같은 libra 갈래.",
+  "deriv": "libra(저울) -> deliberare(저울질하다) -> 'deliberate'. '무게를 재 본 -> 신중한·찬찬한(a deliberate pace, 차분한 걸음)' -> '재 보고 일부러 한 -> 고의의(a deliberate lie, 의도적 거짓말)' -> 동사 '숙고하다(deliberate on the matter)'. 한국 학습자 핵심: libra(저울) 갈래 — equilibrium(평형)·Libra(천칭자리)·deliberately(2566)! 형용사·동사 발음 다름(딜리버럿/딜리버레잇). a deliberate attempt(의도적 시도), deliberate and careful(신중하고 조심스러운). intentional(의도적인)·calculated(계획된)과 유의어. 반대 accidental(우연한)·spontaneous(즉흥적인).",
+  "syn": ["intentional(의도적인)", "calculated(계획된)", "considered(신중한)"],
+  "anti": ["accidental(우연한)", "unintentional(고의가 아닌)", "hasty(성급한)"],
+  "idiom": ["a deliberate attempt(의도적 시도)", "slow and deliberate(느리고 신중한)"],
+  "colloc": ["a deliberate lie(의도적 거짓말)", "a deliberate choice(신중한 선택)", "deliberate on(~을 숙고하다)"],
+  "ex_add": "It was a deliberate attempt to mislead the public.  (deliberate=의도적인)"
+ },
+ {
+  "num": "2566",
+  "hw": "deliberately",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'고의로·일부러 / 신중하게·찬찬히'.",
+  "senses": [
+   "1) 고의로·일부러",
+   "2) 신중하게·찬찬히",
+   "3) 침착하게"
+  ],
+  "etym": "deliberate(2565) + -ly. 라틴어 libra(저울)을 달아 보다 -> '재 보고 일부러'가 핵심. equilibrium·Libra와 한 libra 갈래.",
+  "deriv": "deliberate(2565) -> 'deliberately'. '재 보고 일부러 -> 고의로(deliberately ignore, 일부러 무시하다)' -> '신중하게·찬찬히(speak slowly and deliberately)'. 한국 학습자 핵심: 두 뜻을 문맥으로 구별 — deliberately broke it(일부러 깼다, 고의) vs walked deliberately(찬찬히 걸었다, 신중)! deliberately misleading(의도적으로 오도하는), quite deliberately(아주 일부러). intentionally(의도적으로)·on purpose(고의로)와 유의어. deliberate(2565) 가족. 반대 accidentally(우연히)·unintentionally(무심코).",
+  "syn": ["intentionally(의도적으로)", "on purpose(고의로)", "purposely(일부러)"],
+  "anti": ["accidentally(우연히)", "unintentionally(무심코)", "inadvertently(무심코)"],
+  "idiom": ["deliberately misleading(고의로 오도하는)", "slowly and deliberately(천천히 신중하게)"],
+  "colloc": ["deliberately ignore(일부러 무시하다)", "deliberately vague(의도적으로 모호한)", "act deliberately(고의로 행하다)"],
+  "ex_add": "He deliberately left out the most important detail.  (deliberately=고의로)"
+ },
+ {
+  "num": "2567",
+  "hw": "delighted",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "마음이 끌려 '매우 기쁜·기뻐하는'.",
+  "senses": [
+   "1) 매우 기쁜·기뻐하는",
+   "2) 아주 즐거운",
+   "3) (정중) 기꺼이 ~하는"
+  ],
+  "etym": "라틴어 delectare(즐겁게 하다) <- lacere(꾀어 끌어당기다). '마음을 사로잡아 끌어당김'이 핵심. delicious(맛있는)·delectable(맛있는)·delicate(섬세한)·elicit(끌어내다)가 같은 lacere 갈래. (gh는 어원과 무관한 철자.)",
+  "deriv": "lacere(끌어당기다) -> delectare(즐겁게 하다) -> delight -> 'delighted'. '마음이 끌려 매우 기쁜(be delighted with the gift)'. 한국 학습자 핵심: lacere(끌다) 갈래 — delicious·delectable·delicate·elicit·delight! be delighted to do(기꺼이 ~하다 — 격식 있는 수락!), be delighted with/at/by(~에 기뻐하다), I'd be delighted(기꺼이요). delightful(2... )은 '기쁘게 하는'(사물), delighted는 '기뻐하는'(사람) — 구별! pleased(기쁜)·thrilled(아주 기쁜)와 유의어. 반대 disappointed(실망한).",
+  "syn": ["pleased(기쁜)", "thrilled(아주 기쁜)", "overjoyed(매우 기쁜)"],
+  "anti": ["disappointed(실망한)", "displeased(불쾌한)", "dismayed(낙담한)"],
+  "idiom": ["be delighted to(기꺼이 ~하다)", "I'd be delighted(기꺼이요)"],
+  "colloc": ["delighted with(~에 기뻐하는)", "absolutely delighted(매우 기쁜)", "be delighted to hear(~을 들어 기쁜)"],
+  "ex_add": "She was delighted with her exam results.  (delighted=매우 기뻐하는)"
+ },
+ {
+  "num": "2568",
+  "hw": "delivery",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "풀어 건넴 -> '배달·전달 / 출산 / 말투'.",
+  "senses": [
+   "1) 배달·배송·인도",
+   "2) 분만·출산",
+   "3) (연설의) 전달 방식·말투"
+  ],
+  "etym": "라틴어 de-(완전히) + liberare(풀어 주다) <- liber(자유로운) -> '손에서 풀어 건네줌'. liber(자유)는 liberate(해방하다)·liberty(자유)·liberal(자유로운)의 뿌리. deliver(배달하다·풀어 주다)의 명사형.",
+  "deriv": "liber(자유) -> deliver(풀어 건네다) -> 'delivery'. '물건을 건넴 -> 배달(free delivery, 무료 배송)' -> 아기를 '내보냄 -> 출산(an easy delivery)' -> 말을 '풀어냄 -> 전달·말투(a powerful delivery)'. 한국 학습자 핵심: liber(자유) 갈래 — liberate·liberty·liberal·deliver! cash on delivery(착불, COD), special delivery(속달), the delivery room(분만실), home delivery(가정 배달). deliver a speech/baby/parcel(연설하다/분만하다/소포를 배달하다) — 한 단어가 세 가지! shipment(발송)과 유의어.",
+  "syn": ["shipment(발송)", "dispatch(발송)", "childbirth(출산)"],
+  "anti": ["collection(수거)", "pickup(픽업)"],
+  "idiom": ["cash on delivery(착불)", "special delivery(속달)", "the delivery room(분만실)"],
+  "colloc": ["free delivery(무료 배송)", "home delivery(가정 배달)", "next-day delivery(익일 배송)"],
+  "ex_add": "Your order will arrive within three days of delivery.  (delivery=배달)"
+ },
+ {
+  "num": "2569",
+  "hw": "demand",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "강하게 맡겨 시킴 -> '요구(하다) / 수요'.",
+  "senses": [
+   "1) 요구·강력한 요청 / 요구하다",
+   "2) (경제) 수요",
+   "3) 부담·요구되는 것"
+  ],
+  "etym": "라틴어 demandare = de-(강조) + mandare(맡기다·명하다). '강하게 맡겨 시킴'이 핵심. mandare(맡기다)는 command(명령하다, 2444)·mandate(권한·위임)·recommend(추천하다)·mandatory(의무적인)의 뿌리.",
+  "deriv": "de-(강조) + mandare(맡기다) -> 'demand'. '강하게 요구하다(demand an apology)' -> 명사 '요구(meet the demands)' -> 경제 '수요(supply and demand, 수요와 공급)'. 한국 학습자 핵심: mandare(맡기다) 가족 — command(2444)·mandate·recommend·mandatory! demand는 ask보다 강하다 — demand that S (should) V(원형!). in demand(수요가 많은), on demand(요구가 있는 즉시), supply and demand, make demands on(~에 부담을 주다). require(요구하다)·insist(요구하다)와 유의어.",
+  "syn": ["require(요구하다)", "insist on(주장하다)", "request(요청)"],
+  "anti": ["supply(공급)", "offer(제공)", "give(주다)"],
+  "idiom": ["in demand(수요가 많은)", "on demand(요청 즉시)", "supply and demand(수요와 공급)"],
+  "colloc": ["meet the demand(수요를 충족하다)", "high demand(높은 수요)", "demand an apology(사과를 요구하다)"],
+  "ex_add": "Workers are demanding higher wages and better conditions.  (demand=요구하다)"
+ },
+ {
+  "num": "2570",
+  "hw": "democracy",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "국민이 다스림 -> '민주주의·민주국가'.",
+  "senses": [
+   "1) 민주주의",
+   "2) 민주 국가",
+   "3) 민주적 운영·평등 정신"
+  ],
+  "etym": "그리스어 demokratia = demos(국민·민중) + kratos(힘·통치). '국민(demos)이 권력(kratos)을 가짐'이 핵심. demos는 demography(인구 통계)·epidemic(전염병)·pandemic(대유행)·demagogue(선동가)의 뿌리, kratos는 aristocracy(귀족정)·bureaucracy(관료제)의 뿌리.",
+  "deriv": "demos(국민) + kratos(통치) -> 'democracy'. '국민이 다스림 -> 민주주의(live in a democracy)' -> '민주 국가'. 한국 학습자 핵심: demos(국민) 가족 — democratic(2571)·demography·epidemic·pandemic·demagogue! kratos(통치) 가족 — aristocracy(귀족정)·bureaucracy(관료제)·autocracy(독재). parliamentary democracy(의회 민주주의), a threat to democracy(민주주의에 대한 위협), direct/representative democracy(직접/대의 민주주의). 반대 dictatorship(독재)·tyranny(폭정).",
+  "syn": ["self-government(자치)", "republic(공화국)"],
+  "anti": ["dictatorship(독재)", "tyranny(폭정)", "autocracy(전제 정치)"],
+  "idiom": ["parliamentary democracy(의회 민주주의)", "a threat to democracy(민주주의에 대한 위협)"],
+  "colloc": ["a parliamentary democracy(의회 민주주의)", "Western democracy(서구 민주주의)", "defend democracy(민주주의를 수호하다)"],
+  "ex_add": "Free elections are an essential part of any democracy.  (democracy=민주주의)"
+ },
+ {
+  "num": "2571",
+  "hw": "democratic",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "국민이 다스리는 -> '민주적인·평등한'.",
+  "senses": [
+   "1) 민주주의의·민주적인",
+   "2) (운영이) 평등한·공평한",
+   "3) (Democratic) (미) 민주당의"
+  ],
+  "etym": "democracy(민주주의, 2570) + -ic. 그리스어 demos(국민) + kratos(통치) 뿌리. '국민이 권력을 나눠 가지는'이 핵심. demography·epidemic과 한 demos 갈래.",
+  "deriv": "demos(국민) + kratos(통치) -> democracy(2570) -> 'democratic'. '민주주의의(a democratic country)' -> '평등·공평한(a democratic decision, 다수결의 결정)' -> (미) '민주당의(the Democratic Party)'. 한국 학습자 핵심: demos 가족 — democracy(2570)·demography·epidemic·pandemic·demagogue! democratically elected(민주적으로 선출된), democratic values/rights(민주적 가치·권리), the democratic process(민주적 절차). 반대 undemocratic(비민주적인)·authoritarian(권위주의의)·totalitarian(전체주의의).",
+  "syn": ["egalitarian(평등주의의)", "representative(대의의)", "elected(선출된)"],
+  "anti": ["undemocratic(비민주적인)", "authoritarian(권위주의의)", "totalitarian(전체주의의)"],
+  "idiom": ["democratically elected(민주적으로 선출된)", "the democratic process(민주적 절차)"],
+  "colloc": ["a democratic country(민주 국가)", "democratic values(민주적 가치)", "a democratic election(민주 선거)"],
+  "ex_add": "The new constitution guarantees democratic rights for all.  (democratic=민주적인)"
+ },
+ {
+  "num": "2572",
+  "hw": "demonstrate",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "똑똑히 보여 주다 -> '입증·시연하다 / 시위하다'.",
+  "senses": [
+   "1) (증거로) 입증하다·보여 주다",
+   "2) 시연하다·실연하다",
+   "3) 시위하다·데모하다"
+  ],
+  "etym": "라틴어 demonstrare = de-(강조) + monstrare(보여 주다) <- monere(일깨우다·경고하다). '똑똑히 가리켜 보임'이 핵심. monstrare는 monster(괴물=경고의 징조)·monitor(감시 장치)·summon(소환하다)·premonition(예감)의 친척 갈래.",
+  "deriv": "monere(일깨우다) -> monstrare(보여 주다) -> 'demonstrate'. '증거로 보여 주다 -> 입증하다(demonstrate that S+V)' -> '실제로 보여 주다 -> 시연하다(demonstrate a product)' -> 거리에서 '의사를 보임 -> 시위하다(demonstrate against the war)'. 한국 학습자 핵심: monere(경고·일깨움) 갈래 — monster·monitor·summon·premonition·monument(기념물)! demonstration(2573), demonstrate one's ability(능력을 보여 주다), clearly demonstrate(분명히 입증하다). prove(증명하다)·show(보여 주다)와 유의어.",
+  "syn": ["prove(입증하다)", "show(보여 주다)", "illustrate(예증하다)"],
+  "anti": ["disprove(반증하다)", "conceal(숨기다)"],
+  "idiom": ["demonstrate against(~에 항의 시위하다)", "clearly demonstrate(분명히 보여 주다)"],
+  "colloc": ["demonstrate clearly(분명히 입증하다)", "demonstrate ability(능력을 보여 주다)", "demonstrate a product(제품을 시연하다)"],
+  "ex_add": "The study clearly demonstrates the dangers of smoking.  (demonstrate=입증하다)"
+ },
+ {
+  "num": "2573",
+  "hw": "demonstration",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "보여 줌 -> '시위·시연 / 입증'.",
+  "senses": [
+   "1) 시위·데모",
+   "2) 시연·실연",
+   "3) 입증·표명"
+  ],
+  "etym": "라틴어 demonstrare(똑똑히 보여 주다)의 명사형 demonstratio = de-(강조) + monstrare(보이다). demonstrate(2572)·monster·monitor와 한 monere/monstrare 갈래.",
+  "deriv": "monstrare(보이다) -> demonstrate(2572) -> 'demonstration'. '거리에서 의사를 보임 -> 시위(a peaceful demonstration)' -> '실제로 보여 줌 -> 시연(a cooking demonstration)' -> '증거로 보임 -> 입증·표명(a demonstration of support)'. 한국 학습자 핵심: monere(일깨움) 갈래 — demonstrate(2572)·monster·monitor·summon·premonition! hold a demonstration(시위를 벌이다), a mass demonstration(대규모 시위), a demonstration of(~의 표명/시연), stage a demonstration(시위를 벌이다). protest(시위)·rally(집회)와 유의어 — 줄여서 demo.",
+  "syn": ["protest(시위)", "rally(집회)", "display(표명)"],
+  "anti": [],
+  "idiom": ["hold a demonstration(시위를 벌이다)", "a demonstration of support(지지의 표명)"],
+  "colloc": ["a peaceful demonstration(평화 시위)", "a mass demonstration(대규모 시위)", "a cooking demonstration(요리 시연)"],
+  "ex_add": "Thousands joined the demonstration against the new law.  (demonstration=시위)"
+ },
+ {
+  "num": "2574",
+  "hw": "deny",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "아니라고 하다 -> '부인하다 / 주지 않다'.",
+  "senses": [
+   "1) 부인하다·부정하다",
+   "2) (요청을) 거부하다",
+   "3) (권리·기회를) 주지 않다·박탈하다"
+  ],
+  "etym": "라틴어 denegare = de-(강조) + negare(아니라고 하다) <- 부정의 ne. '딱 잘라 아니라고 함'이 핵심. negare(부정하다)는 negate(부정하다)·negative(부정적인)·renegade(배신자)·abnegate(버리다)의 뿌리.",
+  "deriv": "de-(강조) + negare(부정하다) -> 'deny'. '아니라고 하다 -> 부인하다(deny the accusation)' -> '요청을 거부하다' -> '주지 않다·박탈하다(deny sb access, 접근을 막다)'. 한국 학습자 핵심: negare(부정) 갈래 — negate·negative·renegade·abnegate! deny + V-ing(부인할 때는 동명사! deny stealing, 훔친 것을 부인하다), deny doing vs refuse to do 구별, there's no denying(부인할 수 없다), deny sb sth(~에게 ~을 주지 않다). 반대 admit(인정하다)·confirm(확인하다)·grant(주다). denial(부인)이 명사.",
+  "syn": ["refute(반박하다)", "reject(거부하다)", "withhold(주지 않다)"],
+  "anti": ["admit(인정하다)", "confirm(확인하다)", "grant(허락하다)"],
+  "idiom": ["there's no denying(부인할 수 없다)", "deny doing(~했음을 부인하다)"],
+  "colloc": ["deny the allegation(혐의를 부인하다)", "flatly deny(딱 잘라 부인하다)", "deny access(접근을 막다)"],
+  "ex_add": "He denied stealing the money, but no one believed him.  (deny=부인하다)"
+ },
+ {
+  "num": "2575",
+  "hw": "depart",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "갈라져 나가다 -> '출발하다·떠나다 / 벗어나다'.",
+  "senses": [
+   "1) 출발하다·떠나다",
+   "2) (관례에서) 벗어나다·일탈하다",
+   "3) (depart this life) 세상을 떠나다"
+  ],
+  "etym": "라틴어 de-(떨어져) + partire(나누다) <- pars/part-(부분). '한 덩이에서 갈라져 떨어져 나감'이 핵심. pars(부분)는 part(부분)·department(부서)·apart(떨어져)·partition(분할)·party(무리)·particle(입자)·partner(동반자)의 뿌리.",
+  "deriv": "de-(떨어져) + partire(나누다) -> 'depart'. '갈라져 떠나다 -> 출발하다(the train departs at 9)' -> 비유 '관례에서 벗어나다(depart from tradition)' -> 완곡 '세상을 떠나다'. 한국 학습자 핵심: pars(부분) 대가족 — part·department(2... )·apart·partition·party·particle·partner·portion·apartment! depart from(~에서 출발하다/~을 벗어나다), departure(출발, the departure lounge 출발 라운지), the departed(고인). leave(떠나다)와 유의어(격식). 반대 arrive(도착하다).",
+  "syn": ["leave(떠나다)", "set off(출발하다)", "deviate(벗어나다)"],
+  "anti": ["arrive(도착하다)", "stay(머물다)", "remain(남다)"],
+  "idiom": ["depart from(~에서 벗어나다)", "depart this life(세상을 떠나다)"],
+  "colloc": ["depart on time(정시에 출발하다)", "depart from tradition(전통에서 벗어나다)", "about to depart(곧 출발하는)"],
+  "ex_add": "The next train to London departs from platform 4.  (depart=출발하다)"
+ },
+ {
+  "num": "2576",
+  "hw": "dependent",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "매달려 있는 -> '의존하는·달려 있는 / 부양가족'.",
+  "senses": [
+   "1) 의존하는·의지하는(dependent on)",
+   "2) ~에 달려 있는·좌우되는",
+   "3) 부양가족(명사)"
+  ],
+  "etym": "라틴어 dependere = de-(아래로) + pendere(매달리다) -> '아래로 매달려 있음'. pendere(매달리다)는 depend·pendant(목걸이 장식)·pending(미결의)·suspend(매달다)·append(덧붙이다)·spend(쓰다)·pension(연금)의 뿌리.",
+  "deriv": "de-(아래로) + pendere(매달리다) -> depend -> 'dependent'. '~에 매달린 -> 의존하는(dependent on aid)' -> '~에 달려 있는(weather-dependent)' -> 명사 '부양가족(spouse and dependents)'. 한국 학습자 핵심: pendere(매달리다) 대가족 — depend·pendant·pending·suspend·append·spend·pension·pendulum! dependent(형용사·미국식 명사)와 dependant(영국식 명사 '부양가족')의 철자 차이! be dependent on(~에 의존하다). 반대 independent(독립한)·self-sufficient. reliant(의존하는)와 유의어.",
+  "syn": ["reliant(의존하는)", "conditional(좌우되는)", "subordinate(종속적인)"],
+  "anti": ["independent(독립적인)", "self-sufficient(자급하는)", "autonomous(자율적인)"],
+  "idiom": ["dependent on(~에 의존하는)", "financially dependent(경제적으로 의존하는)"],
+  "colloc": ["dependent on aid(원조에 의존하는)", "heavily dependent(크게 의존하는)", "economically dependent(경제적으로 의존하는)"],
+  "ex_add": "The local economy is heavily dependent on tourism.  (dependent on=~에 의존하는)"
+ },
+ {
+  "num": "2577",
+  "hw": "deposit",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "아래에 놓아 둠 -> '예금·보증금·퇴적물 / 맡기다'.",
+  "senses": [
+   "1) 예금·예치 / 예금하다",
+   "2) 보증금·계약금",
+   "3) 퇴적물·침전물 / 놓아두다·맡기다"
+  ],
+  "etym": "라틴어 depositum(맡겨 둔 것) = de-(아래로) + ponere(놓다) -> '아래에 내려놓아 맡김'. ponere(놓다)는 component(구성 요소, 2454)·compose(2455)·position(위치)·expose(드러내다)·propose(제안하다)·oppose(반대하다)의 거대한 뿌리.",
+  "deriv": "de-(아래로) + ponere(놓다) -> 'deposit'. '내려놓아 맡김 -> 예금(deposit money in a bank)' -> '미리 맡기는 돈 -> 보증금·계약금(pay a deposit)' -> 자연이 '쌓아 놓은 것 -> 퇴적물(mineral deposits, 광상)'. 한국 학습자 핵심: ponere(놓다) 대가족 — component(2454)·compose(2455)·position·expose·propose·oppose·postpone·deposit! a security deposit(보증금), a deposit account(예금 계좌), put down a deposit(계약금을 걸다), mineral deposits(광물 매장층). 반대 withdraw(인출하다)·withdrawal.",
+  "syn": ["down payment(계약금)", "savings(예금)", "sediment(침전물)"],
+  "anti": ["withdrawal(인출)", "refund(환불)"],
+  "idiom": ["a security deposit(보증금)", "pay a deposit(보증금을 내다)", "a deposit account(예금 계좌)"],
+  "colloc": ["pay a deposit(계약금을 내다)", "a bank deposit(은행 예금)", "mineral deposits(광물 매장층)"],
+  "ex_add": "You have to pay a deposit to reserve the room.  (deposit=보증금)"
+ },
+ {
+  "num": "2578",
+  "hw": "depressed",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "내리눌린 -> '우울한 / 침체된'.",
+  "senses": [
+   "1) 우울한·의기소침한",
+   "2) (경제가) 침체된·불황의",
+   "3) 내리눌린·움푹한"
+  ],
+  "etym": "라틴어 deprimere = de-(아래로) + premere(누르다)의 과거분사 depressus. '아래로 내리눌림'이 핵심. premere(누르다)는 press(누르다)·express(짜내다->표현하다)·impress(눌러 새기다)·compress(압축하다)·suppress(억누르다)·oppress(억압하다)의 거대한 뿌리.",
+  "deriv": "de-(아래로) + premere(누르다) -> depress -> 'depressed'. '마음이 내리눌린 -> 우울한(feel depressed)' -> 경제가 '눌린 -> 침체된(a depressed economy)' -> '움푹한'. 한국 학습자 핵심: premere(누르다) 대가족 — press·express·impress·compress·suppress·oppress·depress·depressing(2579)·depression(2580)! depressed about(~로 우울한), clinically depressed(임상적 우울증의), a depressed area(낙후 지역). depressed(사람이 우울한)와 depressing(2579, 우울하게 하는)을 구별! 반대 cheerful(쾌활한)·elated(들뜬).",
+  "syn": ["miserable(비참한)", "gloomy(우울한)", "downcast(낙담한)"],
+  "anti": ["cheerful(쾌활한)", "elated(들뜬)", "upbeat(긍정적인)"],
+  "idiom": ["feel depressed(우울하다)", "clinically depressed(임상적 우울증인)"],
+  "colloc": ["deeply depressed(심하게 우울한)", "depressed about(~로 우울한)", "a depressed economy(침체된 경제)"],
+  "ex_add": "She felt depressed after failing the exam.  (depressed=우울한)"
+ },
+ {
+  "num": "2579",
+  "hw": "depressing",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "기분을 내리누르는 -> '우울하게 하는·암울한'.",
+  "senses": [
+   "1) 우울하게 만드는·울적하게 하는",
+   "2) 암울한·침울한",
+   "3) 맥 빠지게 하는"
+  ],
+  "etym": "depress(내리누르다) + -ing. de-(아래로) + premere(누르다) 뿌리. '남의 기분을 아래로 눌러 가라앉히는'이 핵심. depressed(2578)·depression(2580)·press와 한 premere 갈래.",
+  "deriv": "de-(아래로) + premere(누르다) -> depress -> 'depressing(기분을 누르는)'. '우울하게 하는(depressing news, 우울한 소식)' -> '암울한(a depressing sight)'. 한국 학습자 핵심: depressing(우울하게 하는, 사물 주어)과 depressed(2578, 우울해하는, 사람 주어)를 꼭 구별 — The weather is depressing / I feel depressed! premere 대가족 — press·express·impress·compress·suppress·oppress·depress! deeply depressing(매우 우울하게 하는), depressingly(우울하게도). gloomy(음울한)·dismal(암울한)과 유의어. 반대 cheering(기운 나게 하는)·uplifting(고무적인).",
+  "syn": ["gloomy(음울한)", "dismal(암울한)", "disheartening(맥 빠지게 하는)"],
+  "anti": ["cheering(기운 나게 하는)", "uplifting(고무적인)", "encouraging(고무적인)"],
+  "idiom": ["depressing news(우울한 소식)", "deeply depressing(매우 우울한)"],
+  "colloc": ["depressing news(우울한 소식)", "a depressing sight(암울한 광경)", "utterly depressing(완전히 우울한)"],
+  "ex_add": "It's depressing to see so much litter on the beach.  (depressing=우울하게 하는)"
+ },
+ {
+  "num": "2580",
+  "hw": "depression",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "내리눌림 -> '우울증 / 불황 / 저기압·움푹한 곳'.",
+  "senses": [
+   "1) 우울(증)·의기소침",
+   "2) (경제) 불황·불경기",
+   "3) 움푹한 곳 / (기상) 저기압"
+  ],
+  "etym": "라틴어 deprimere(내리누르다)의 명사형 depressio = de-(아래로) + premere(누르다). depressed(2578)·depressing(2579)·press와 한 premere 갈래. '아래로 눌려 가라앉음'이 핵심.",
+  "deriv": "de-(아래로) + premere(누르다) -> 'depression'. '마음이 가라앉음 -> 우울증(suffer from depression)' -> 경제가 '가라앉음 -> 불황(the Great Depression, 대공황)' -> 땅·기압이 '내려앉음 -> 움푹한 곳·저기압'. 한국 학습자 핵심: premere 대가족 — press·express·impress·compress·suppress·oppress·depress(2578·2579)! clinical depression(임상 우울증), economic depression(경기 침체), fall into depression(우울증에 빠지다), the Great Depression(1930년대 대공황). recession(경기 후퇴)보다 더 심한 침체. 반대 boom(호황)·elation(들뜸).",
+  "syn": ["despair(절망)", "gloom(우울)", "slump(불황)"],
+  "anti": ["elation(고양)", "boom(호황)", "joy(기쁨)"],
+  "idiom": ["the Great Depression(대공황)", "fall into depression(우울증에 빠지다)", "clinical depression(임상 우울증)"],
+  "colloc": ["suffer from depression(우울증을 앓다)", "severe depression(심한 우울증)", "an economic depression(경기 침체)"],
+  "ex_add": "Many people suffer from depression at some point in their lives.  (depression=우울증)"
+ },
+ {
+  "num": "2581",
+  "hw": "depth",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "깊은 정도 -> '깊이·깊은 곳·심오함'.",
+  "senses": [
+   "1) 깊이·깊은 정도",
+   "2) (the depths) 깊은 곳·한가운데",
+   "3) (생각·감정의) 깊이·심오함"
+  ],
+  "etym": "deep(깊은, 고대 영어 deop) + -th(상태·정도를 만드는 접미사, warm->warmth, wide->width처럼). '깊은 정도'가 핵심. deeply(2558)와 한 deep 가족.",
+  "deriv": "deep(깊은) + -th -> 'depth(깊은 정도)'. '깊이(the depth of the lake)' -> '깊은 곳(the depths of the ocean)' -> 추상화 '심오함(depth of knowledge, 지식의 깊이)'. 한국 학습자 핵심: -th로 명사를 만드는 짝 — deep->depth, warm->warmth, wide->width, long->length, strong->strength! in depth(심도 있게, an in-depth study 심층 연구), out of one's depth(능력 밖이라 쩔쩔매는), in the depths of winter(한겨울에), plumb the depths(밑바닥까지 가다). deeply(2558) 가족. 반대 shallowness(얕음)·surface(표면).",
+  "syn": ["deepness(깊음)", "profundity(심오함)", "intensity(깊이)"],
+  "anti": ["shallowness(얕음)", "surface(표면)"],
+  "idiom": ["in depth(심도 있게)", "out of one's depth(역부족인)", "in the depths of(~의 한가운데)"],
+  "colloc": ["in depth(깊이 있게)", "great depth(상당한 깊이)", "the depth of the ocean(바다의 깊이)"],
+  "ex_add": "We need to study this issue in greater depth.  (in depth=심도 있게)"
+ },
+ {
+  "num": "2582",
+  "hw": "derive",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "물줄기를 끌어오다 -> '얻다·끌어내다 / 유래하다'.",
+  "senses": [
+   "1) (이익·즐거움을) 얻다·이끌어 내다(derive from)",
+   "2) (be derived from) ~에서 비롯되다·유래하다",
+   "3) (단어가) ~에서 파생되다"
+  ],
+  "etym": "라틴어 derivare = de-(~로부터) + rivus(시내·물줄기) -> '물줄기를 끌어 옴'. 본래 '강에서 물을 끌어 대다'가 핵심. rivus(시내)는 rival(같은 강물을 두고 다투는 사람->경쟁자)·river(강)의 뿌리.",
+  "deriv": "de-(~로부터) + rivus(물줄기) -> 'derive'. '물을 끌어오다 -> (이익을) 얻다(derive pleasure from)' -> '~에서 흘러나오다 -> 유래·파생하다(be derived from Latin)'. 한국 학습자 핵심: rivus(시내) 갈래 — rival(경쟁자)·river·arrive(강가에 닿다)·derivative(파생물/파생상품)! derive A from B(B에서 A를 얻다), be derived from(~에서 유래하다), derive benefit/satisfaction from(~에서 이익·만족을 얻다). 'The word derives from Greek'처럼 자동사로도. obtain(얻다)·originate(유래하다)와 유의어.",
+  "syn": ["obtain(얻다)", "gain(얻다)", "originate(유래하다)"],
+  "anti": [],
+  "idiom": ["derive from(~에서 유래하다)", "be derived from(~에서 비롯되다)"],
+  "colloc": ["derive pleasure from(~에서 즐거움을 얻다)", "derive benefit(이익을 얻다)", "be derived from Latin(라틴어에서 유래하다)"],
+  "ex_add": "She derives great satisfaction from helping others.  (derive from=~에서 얻다)"
+ },
+ {
+  "num": "2583",
+  "hw": "desert",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "버려진 땅 '사막' / (사람을) 버리다.",
+  "senses": [
+   "1) 사막·불모지(명사)",
+   "2) (사람·자리를) 버리다·저버리다",
+   "3) (군인이) 탈영하다"
+  ],
+  "etym": "라틴어 deserere(버리다) = de-(반대로) + serere(잇다·엮다) -> '엮인 것을 풀어 버림'. '사람이 버리고 떠난 땅'이 곧 사막. serere(잇다)는 series(연속)·insert(끼워 넣다)·assert(주장하다)의 뿌리. (단 음식 dessert와 철자·발음 혼동 주의!)",
+  "deriv": "de-(반대로) + serere(잇다) -> 'desert'. '버려진 땅 -> 사막(the Sahara Desert)' -> 동사 '버리다·저버리다(desert one's family)' -> '탈영하다'. 한국 학습자 핵심: desert(사막, 앞 강세 DEsert / 버리다, 뒤 강세 deSERT)와 dessert(후식, 뒤 강세 dessert, s 두 개)를 철자·강세로 구별! a deserted street(인적 없는 거리), desert island(무인도), get one's just deserts(자업자득의 벌을 받다 — 이 deserts는 deserve 2584와 한 갈래!). abandon(버리다)과 유의어.",
+  "syn": ["wasteland(불모지)", "abandon(버리다)", "forsake(저버리다)"],
+  "anti": ["oasis(오아시스)", "support(지지하다)", "stay(남다)"],
+  "idiom": ["a desert island(무인도)", "get one's just deserts(자업자득의 벌을 받다)", "a deserted street(인적 없는 거리)"],
+  "colloc": ["the Sahara Desert(사하라 사막)", "a desert island(무인도)", "desert one's post(자리를 버리다)"],
+  "ex_add": "Few plants can survive in the harsh desert climate.  (desert=사막)"
+ },
+ {
+  "num": "2584",
+  "hw": "deserve",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "잘 섬겨 받을 만하다 -> '~을 받을 만하다·~할 자격이 있다'.",
+  "senses": [
+   "1) ~을 받을 만하다·~할 자격이 있다",
+   "2) (상·벌을) 받아 마땅하다",
+   "3) ~받을 가치가 있다"
+  ],
+  "etym": "라틴어 deservire = de-(강조) + servire(섬기다·봉사하다) -> '열심히 섬겨 그만한 대가를 받을 만하다'. servire(섬기다)는 serve(섬기다)·service(봉사)·servant(하인)·deserve의 뿌리. (just deserts의 deserts도 이 뿌리!)",
+  "deriv": "de-(강조) + servire(섬기다) -> 'deserve'. '섬긴 만큼 받을 만하다 -> ~을 받을 자격이 있다(deserve a reward)' -> '벌을 받아 마땅하다(deserve to be punished)'. 한국 학습자 핵심: servire(섬기다) 갈래 — serve·service·servant·deserve! deserve + 명사 / deserve to do / deserve V-ing(수동 의미, This deserves checking=확인할 만하다)! deserve better(더 나은 대접을 받을 만하다), richly deserve(충분히 받을 만하다), get what one deserves(자업자득). merit(받을 만하다)·earn(얻다)과 유의어.",
+  "syn": ["merit(받을 만하다)", "earn(얻다)", "warrant(받을 만하다)"],
+  "anti": [],
+  "idiom": ["deserve better(더 나은 대접을 받을 만하다)", "get what one deserves(자업자득)", "richly deserve(충분히 받을 만하다)"],
+  "colloc": ["deserve a reward(상을 받을 만하다)", "deserve credit(인정받을 만하다)", "deserve to win(이길 자격이 있다)"],
+  "ex_add": "After working so hard, she deserves a break.  (deserve=받을 만하다)"
+ },
+ {
+  "num": "2585",
+  "hw": "desire",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "별을 바라며 '바람·욕구 / 바라다·원하다'.",
+  "senses": [
+   "1) 욕구·바람·소망",
+   "2) 바라다·원하다",
+   "3) 욕망·정욕"
+  ],
+  "etym": "라틴어 desiderare = de-(~로부터) + sidus/sider-(별) -> 본래 '별(sidus)을 바라보며 (오기를) 기다림'. consider(별을 살피다->고려하다, 2477~2479)와 한 sider 갈래로, 한쪽은 '살핌', 한쪽은 '갈망'이 됐다.",
+  "deriv": "sidus(별) -> desiderare(별을 바라다) -> 'desire'. '간절히 바람 -> 욕구·소망(a strong desire)' -> '바라다(desire success)' -> '욕망'. 한국 학습자 핵심: sider(별) 갈래 — consider(2477)·considerable(2477)·desire — 'consider(별을 살핌)'와 'desire(별을 갈망함)'가 형제! a burning desire(불타는 욕구), have no desire to(~할 마음이 전혀 없다), leave much to be desired(아쉬운 점이 많다), desire for(~에 대한 갈망). want(원하다)·crave(갈망하다)·long for(갈망하다)와 유의어 — desire가 더 격식적·강함.",
+  "syn": ["wish(소망)", "crave(갈망하다)", "long for(열망하다)"],
+  "anti": ["aversion(혐오)", "reluctance(꺼림)", "indifference(무관심)"],
+  "idiom": ["a burning desire(불타는 욕구)", "leave much to be desired(아쉬운 점이 많다)", "have no desire to(~할 마음이 없다)"],
+  "colloc": ["a strong desire(강한 욕구)", "a desire for(~에 대한 갈망)", "express a desire(바람을 표하다)"],
+  "ex_add": "She has a strong desire to succeed in life.  (desire=욕구)"
+ },
+ {
+  "num": "2586",
+  "hw": "desperate",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "희망을 잃은 -> '필사적인·절박한·자포자기의'.",
+  "senses": [
+   "1) (절박해서) 필사적인·물불 안 가리는",
+   "2) 절망적인·가망 없는",
+   "3) 간절히 원하는(desperate for)"
+  ],
+  "etym": "라틴어 desperare = de-(반대로·없이) + sperare(희망하다) <- spes(희망) -> '희망이 없어짐'. sperare(희망하다)는 despair(절망)·prosper(번영하다=희망대로 잘되다)의 뿌리. '희망이 끊겨 막다른'이 핵심.",
+  "deriv": "de-(없이) + sperare(희망하다) -> 'desperate'. '희망을 잃은 -> 자포자기의·절망적인(a desperate situation)' -> 그래서 '물불 안 가리는·필사적인(a desperate attempt)' -> '간절한(desperate for help)'. 한국 학습자 핵심: sperare(희망) 갈래 — despair(절망)·desperately(2587)·prosper(번영하다)! be desperate for(~을 간절히 원하다), be desperate to do(필사적으로 ~하려 하다), a desperate measure(극단적 조치), Desperate times call for desperate measures(절박한 때엔 극단적 수단이 필요하다). frantic(제정신이 아닌)과 유의어.",
+  "syn": ["frantic(필사적인)", "hopeless(가망 없는)", "reckless(무모한)"],
+  "anti": ["hopeful(희망적인)", "calm(차분한)", "secure(안정된)"],
+  "idiom": ["be desperate for(~을 간절히 원하다)", "a desperate measure(극단적 조치)", "desperate times(절박한 때)"],
+  "colloc": ["a desperate attempt(필사적 시도)", "a desperate situation(절박한 상황)", "desperate for help(도움이 절실한)"],
+  "ex_add": "In desperate need of money, he sold his car.  (desperate=절박한)"
+ },
+ {
+  "num": "2587",
+  "hw": "desperately",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'필사적으로·절박하게·몹시'.",
+  "senses": [
+   "1) 필사적으로·기를 쓰고",
+   "2) 절망적으로",
+   "3) (정도가) 몹시·간절히"
+  ],
+  "etym": "desperate(2586) + -ly. 라틴어 de-(없이) + sperare(희망하다) 뿌리. '희망이 끊긴 듯 죽기 살기로'가 핵심. despair·prosper와 한 sperare 갈래.",
+  "deriv": "desperate(2586) -> 'desperately'. '죽기 살기로 -> 필사적으로(fight desperately)' -> '절망적으로(desperately ill, 위독한)' -> 정도 강조 '몹시·간절히(desperately want, 몹시 원하다)'. 한국 학습자 핵심: sperare(희망) 갈래 — despair·desperate(2586)·prosper! desperately need(절실히 필요하다), desperately try to(필사적으로 ~하려 하다), desperately unhappy(몹시 불행한), desperately poor(몹시 가난한). frantically(미친 듯이)·urgently(다급히)와 유의어. desperate(2586) 가족.",
+  "syn": ["frantically(미친 듯이)", "urgently(다급히)", "badly(몹시)"],
+  "anti": ["calmly(차분히)", "casually(태평하게)"],
+  "idiom": ["desperately need(절실히 필요하다)", "desperately ill(위독한)"],
+  "colloc": ["desperately want(몹시 원하다)", "desperately try(필사적으로 애쓰다)", "desperately poor(몹시 가난한)"],
+  "ex_add": "They desperately tried to save the drowning child.  (desperately=필사적으로)"
+ },
+ {
+  "num": "2588",
+  "hw": "destruction",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "쌓은 것을 허묾 -> '파괴·파멸'.",
+  "senses": [
+   "1) 파괴·파손",
+   "2) 멸망·파멸",
+   "3) 절멸·근절"
+  ],
+  "etym": "라틴어 destruere = de-(반대로) + struere(쌓다) -> '쌓아 올린 것(struere)을 거꾸로 허묾'. struere(쌓다)는 construct(건설하다, 2485)·construction(2486)·structure(구조)·instruct(가르치다)·obstruct(막다)의 뿌리. construction(2486, 건설)과 정반대 짝!",
+  "deriv": "de-(반대로) + struere(쌓다) -> destroy -> 'destruction'. '쌓은 것을 허묾 -> 파괴(widespread destruction)' -> '멸망·파멸(the destruction of the rainforest)'. 한국 학습자 핵심: struere(쌓다) 대가족 — construct(2485)·construction(2486)·structure·instruct·obstruct·destroy! construction(건설, de-가 con-) ↔ destruction(파괴)이 정반대 짝! weapons of mass destruction(대량 살상 무기, WMD), cause destruction(파괴를 일으키다), self-destruction(자멸). ruin(파멸)·devastation(황폐화)과 유의어. 반대 construction(건설)·creation(창조).",
+  "syn": ["devastation(황폐화)", "ruin(파멸)", "demolition(철거)"],
+  "anti": ["construction(건설)", "creation(창조)", "preservation(보존)"],
+  "idiom": ["weapons of mass destruction(대량 살상 무기)", "self-destruction(자멸)"],
+  "colloc": ["widespread destruction(광범위한 파괴)", "environmental destruction(환경 파괴)", "cause destruction(파괴를 초래하다)"],
+  "ex_add": "The earthquake caused widespread destruction across the region.  (destruction=파괴)"
+ },
+ {
+  "num": "2589",
+  "hw": "detail",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "잘게 자른 -> '세부 사항·상세' / 상술하다.",
+  "senses": [
+   "1) 세부 사항·자세한 부분",
+   "2) (the details) 자초지종·상세 정보",
+   "3) (동사) 상세히 열거하다"
+  ],
+  "etym": "프랑스어 détailler(잘게 자르다) = de-(강조) + tailler(자르다) <- 라틴어 taliare(자르다). '전체를 잘게 잘라 본 작은 부분'이 핵심. taliare(자르다)는 tailor(재단사)·retail(소매)·entail(수반하다)·tally(부합하다)의 뿌리.",
+  "deriv": "taliare(자르다) -> détailler(잘게 자르다) -> 'detail'. '잘게 나눈 부분 -> 세부 사항(in detail, 상세히)' -> 동사 '하나하나 들다 -> 상술하다'. 한국 학습자 핵심: taliare(자르다) 갈래 — tailor(재단사)·retail(소매, vs wholesale 도매)·entail(필요로 하다)·tally! in detail(자세히), go into detail(상세히 다루다), attention to detail(꼼꼼함), a minor detail(사소한 부분), the finer details(세부 사항). detailed(2590)가 형용사. specifics(세부 사항)와 유의어.",
+  "syn": ["particular(세부)", "specifics(세부 사항)", "feature(부분)"],
+  "anti": ["overview(개요)", "summary(요약)", "outline(개요)"],
+  "idiom": ["in detail(상세히)", "go into detail(상세히 설명하다)", "attention to detail(세심함)"],
+  "colloc": ["in great detail(아주 상세히)", "every detail(모든 세부 사항)", "attention to detail(세심한 주의)"],
+  "ex_add": "She explained the plan in great detail.  (detail=세부 사항)"
+ },
+ {
+  "num": "2590",
+  "hw": "detailed",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "잘게 다룬 -> '상세한·세밀한'.",
+  "senses": [
+   "1) 상세한·자세한",
+   "2) 세밀한·정밀한",
+   "3) 면밀한"
+  ],
+  "etym": "detail(세부, 2589) + -ed. 프랑스어 de-(강조) + tailler(자르다) 뿌리. '잘게 잘라 하나하나 다룬'이 핵심. tailor·retail·entail과 한 taliare 갈래.",
+  "deriv": "detail(2589) -> 'detailed(세부까지 다룬)'. '상세한(a detailed report)' -> '세밀한·정밀한(a detailed drawing)' -> '면밀한(a detailed analysis)'. 한국 학습자 핵심: taliare(자르다) 갈래 — detail(2589)·tailor·retail·entail·tally! a detailed account(상세한 설명), highly detailed(매우 정밀한), a detailed description(자세한 묘사), provide detailed information(상세 정보를 제공하다). thorough(철저한)·elaborate(정교한)·comprehensive(포괄적인, 2458)와 유의어. 반대 vague(모호한)·sketchy(대충의)·general(개괄적인).",
+  "syn": ["thorough(철저한)", "elaborate(정교한)", "comprehensive(상세한)"],
+  "anti": ["vague(모호한)", "sketchy(대충의)", "general(개괄적인)"],
+  "idiom": ["a detailed account(상세한 설명)", "highly detailed(매우 정밀한)"],
+  "colloc": ["a detailed report(상세한 보고서)", "a detailed analysis(세밀한 분석)", "detailed information(상세 정보)"],
+  "ex_add": "The manual gives detailed instructions on how to assemble the desk.  (detailed=상세한)"
+ },
+ {
+  "num": "2591",
+  "hw": "detect",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "덮개를 벗겨 '감지·탐지하다·알아채다'.",
+  "senses": [
+   "1) (장치로) 감지·탐지하다",
+   "2) 알아채다·간파하다",
+   "3) (병·결함을) 발견하다"
+  ],
+  "etym": "라틴어 detegere = de-(벗겨) + tegere(덮다) -> '덮개를 벗겨 드러냄'. tegere(덮다)는 protect(앞을 덮어 지키다)·detective(탐정)·tile(기와)·toga(겉옷)의 뿌리. protect(보호하다)와 같은 tegere 갈래에서 '덮다'와 '덮개를 벗기다'로 갈렸다.",
+  "deriv": "de-(벗겨) + tegere(덮다) -> 'detect'. '덮인 것을 드러내 -> 감지·탐지하다(detect a signal)' -> '알아채다·간파하다(detect a hint of sarcasm)' -> '병을 발견하다(detect cancer early)'. 한국 학습자 핵심: tegere(덮다) 갈래 — protect(보호하다)·detective(탐정)·detection·detector·tile·toga! detect a change(변화를 감지하다), early detection(조기 발견), a smoke detector(연기 감지기), hard to detect(감지하기 어려운). sense(감지하다)·spot(발견하다)·notice(알아채다)와 유의어.",
+  "syn": ["sense(감지하다)", "spot(발견하다)", "discern(알아채다)"],
+  "anti": ["miss(놓치다)", "overlook(간과하다)"],
+  "idiom": ["early detection(조기 발견)", "a smoke detector(연기 감지기)"],
+  "colloc": ["detect a signal(신호를 감지하다)", "detect cancer(암을 발견하다)", "difficult to detect(감지하기 어려운)"],
+  "ex_add": "The device can detect even tiny amounts of gas.  (detect=감지하다)"
+ }
+]
