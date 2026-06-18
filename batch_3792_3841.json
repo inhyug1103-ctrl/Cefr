@@ -1,0 +1,1546 @@
+[
+ {
+  "num": "3792",
+  "hw": "breakthrough",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "뚫고 나아감 -> '돌파구·획기적 발전·약진'.",
+  "senses": [
+   "1) (난관의) 돌파구·타개책",
+   "2) (과학·기술의) 획기적 발견·약진"
+  ],
+  "etym": "break(깨다·뚫다) + through(통과하여). 적진을 '뚫고 나아감'에서 '난국 돌파'로. '뚫고 나아감'이 핵심. brecan(깨다)은 break·breakthrough·breakdown(3791)·breach(3790)의 뿌리.",
+  "deriv": "break(뚫다)+through(통과) -> 'breakthrough'. '뚫고 나아감 -> 돌파구(a major breakthrough, 중대한 약진)'. 한국 학습자 핵심: break 복합어 — breakthrough·breakdown(3791)·breakup(결별)·outbreak(발발)·breakout(탈출)! 동사구 break through(뚫고 나아가다)와 명사 breakthrough 구별. a scientific breakthrough(과학적 쾌거), make a breakthrough(돌파구를 마련하다), a medical breakthrough(의학적 쾌거). advance(진전)·discovery(발견)·leap(도약)과 유의어. 반대 setback(좌절)·deadlock(교착).",
+  "syn": [
+   "advance(진전)",
+   "discovery(발견)",
+   "leap(도약)"
+  ],
+  "anti": [
+   "setback(좌절)",
+   "deadlock(교착)"
+  ],
+  "idiom": [
+   "make a breakthrough(돌파구를 마련하다)",
+   "a major breakthrough(중대한 약진)"
+  ],
+  "colloc": [
+   "scientific breakthrough(과학적 쾌거)",
+   "medical breakthrough(의학적 쾌거)",
+   "technological breakthrough(기술적 약진)"
+  ],
+  "ex_add": "Scientists made a breakthrough in cancer research.  (breakthrough=돌파구)"
+ },
+ {
+  "num": "3793",
+  "hw": "breed",
+  "pos": "v., n.",
+  "cefr": "C1",
+  "core": "새끼를 길러 내다 -> '번식하다·사육하다 / 품종 / (감정을) 낳다'.",
+  "senses": [
+   "1) (동물이) 번식하다·새끼를 낳다",
+   "2) (가축·식물을) 사육하다·기르다·품종을 개량하다",
+   "3) (어떤 상황을) 낳다·조장하다; (n.) 품종·유형"
+  ],
+  "etym": "고대 영어 bredan(새끼를 까다·기르다, brod 새끼). brood(한배 새끼)와 한 뿌리 — '따뜻하게 품어 길러 냄'이 핵심.",
+  "deriv": "brod(새끼) -> bredan -> 'breed'. '새끼를 길러 냄 -> 번식하다·사육하다(breed dogs, 개를 사육하다)·(감정을) 낳다(breed resentment, 반감을 낳다)·(n.) 품종(a rare breed, 희귀 품종)'. 한국 학습자 핵심: 불규칙 breed-bred-bred! brood(한배 새끼·곱씹다)와 친척. a breed of(~의 품종·부류), a rare breed(희귀종·드문 부류), well-bred(가정 교육을 잘 받은), Familiarity breeds contempt(친할수록 함부로 대한다). raise(기르다)·rear(양육하다)·cultivate(기르다)와 유의어.",
+  "syn": [
+   "raise(기르다)",
+   "rear(양육하다)",
+   "cultivate(기르다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a rare breed(희귀종)",
+   "Familiarity breeds contempt(친할수록 함부로 대한다)"
+  ],
+  "colloc": [
+   "breed dogs(개를 사육하다)",
+   "breed resentment(반감을 낳다)",
+   "a breed of(~의 품종)"
+  ],
+  "ex_add": "Salmon return to the river to breed.  (breed=번식하다)"
+ },
+ {
+  "num": "3794",
+  "hw": "broadband",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "넓은 주파수 대역 -> '광대역 (초고속 인터넷)'.",
+  "senses": [
+   "1) 광대역·브로드밴드",
+   "2) 초고속 인터넷"
+  ],
+  "etym": "broad(넓은) + band(주파수 대역). '넓은 주파수 대역'이 핵심. broad(넓은)는 broadband·broaden(넓히다)·broadcast(방송)·abroad(해외에)의 뿌리.",
+  "deriv": "broad(넓은)+band(대역) -> 'broadband'. '넓은 주파수 대역 -> 광대역(broadband internet, 초고속 인터넷)'. 한국 학습자 핵심: broad(넓은) 갈래 — broaden(넓히다)·broadcast(방송, 널리 뿌림)·abroad(해외에)·broadly(폭넓게)! 반의어 격 narrowband(협대역). a broadband connection(광대역 연결), high-speed broadband(초고속 인터넷), broadband access(광대역 접속). high-speed internet(초고속 인터넷)과 유의어.",
+  "syn": [
+   "high-speed internet(초고속 인터넷)"
+  ],
+  "anti": [
+   "narrowband(협대역)",
+   "dial-up(전화 접속)"
+  ],
+  "idiom": [
+   "broadband internet(초고속 인터넷)",
+   "broadband connection(광대역 연결)"
+  ],
+  "colloc": [
+   "high-speed broadband(초고속 인터넷)",
+   "broadband access(광대역 접속)",
+   "broadband network(광대역 망)"
+  ],
+  "ex_add": "Most homes now have broadband internet.  (broadband=광대역)"
+ },
+ {
+  "num": "3795",
+  "hw": "browser",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "여기저기 훑어보는 것 -> '(웹) 브라우저 / 둘러보는 사람'.",
+  "senses": [
+   "1) (인터넷) 웹 브라우저",
+   "2) 그냥 둘러보는 사람·구경꾼"
+  ],
+  "etym": "고대 프랑스어 broster(새싹을 뜯어 먹다) -> browse(풀을 뜯다·여기저기 훑어보다) + -er. 가축이 이 가지 저 가지 '뜯어 먹듯' 훑어보는 데서. '여기저기 훑어보는 것'이 핵심.",
+  "deriv": "browse(훑어보다) -> 'browser'. '여기저기 훑어보는 것 -> 웹 브라우저(open a browser, 브라우저를 열다)·구경꾼'. 한국 학습자 핵심: browse(가축이 풀을 뜯다 -> 책·상품을 훑어보다 -> 웹을 둘러보다)에서 온 단어! a web browser(웹 브라우저), a browser window(브라우저 창), clear the browser history(방문 기록을 지우다). 가게에서 'just browsing'(그냥 구경 중이에요). viewer(보는 사람)와 유의어.",
+  "syn": [
+   "viewer(보는 사람)"
+  ],
+  "anti": [],
+  "idiom": [
+   "open a browser(브라우저를 열다)",
+   "a web browser(웹 브라우저)"
+  ],
+  "colloc": [
+   "web browser(웹 브라우저)",
+   "browser window(브라우저 창)",
+   "browser history(방문 기록)"
+  ],
+  "ex_add": "Open your browser and go to the website.  (browser=브라우저)"
+ },
+ {
+  "num": "3796",
+  "hw": "brutal",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "짐승 같은 -> '잔혹한·무자비한 / (사실이) 가차 없는'.",
+  "senses": [
+   "1) 잔혹한·무자비한·야만적인",
+   "2) (사실·상황이) 냉혹한·가차 없는·혹독한"
+  ],
+  "etym": "라틴어 brutus(무겁고 둔한·짐승 같은) -> brutalis -> 'brutal'. '이성 없는 짐승처럼 잔혹한'이 핵심. brutus(둔한)는 brutal·brute(짐승)·brutality(만행)의 뿌리.",
+  "deriv": "brutus(짐승 같은) -> 'brutal'. '짐승 같은 -> 잔혹한(a brutal attack, 잔혹한 공격)·(사실이) 가차 없는(brutal honesty, 가차 없는 솔직함)'. 한국 학습자 핵심: brutus(둔한·짐승 같은) 갈래 — brute(짐승)·brutality(만행)·brutally(잔인하게)! the brutal truth(냉혹한 진실), brutal honesty(가차 없는 솔직함), a brutal regime(잔혹한 정권). savage(야만적인)·vicious(악랄한)·ruthless(무자비한)와 유의어. 반대 gentle(온화한)·humane(인도적인)·merciful(자비로운).",
+  "syn": [
+   "savage(야만적인)",
+   "vicious(악랄한)",
+   "ruthless(무자비한)"
+  ],
+  "anti": [
+   "gentle(온화한)",
+   "humane(인도적인)",
+   "merciful(자비로운)"
+  ],
+  "idiom": [
+   "the brutal truth(냉혹한 진실)",
+   "brutal honesty(가차 없는 솔직함)"
+  ],
+  "colloc": [
+   "brutal attack(잔혹한 공격)",
+   "brutal murder(잔인한 살인)",
+   "brutal regime(잔혹한 정권)"
+  ],
+  "ex_add": "The dictator ruled with brutal force.  (brutal=잔혹한)"
+ },
+ {
+  "num": "3797",
+  "hw": "buddy",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "친한 동무 -> '친구·동료 / (호칭) 이봐'.",
+  "senses": [
+   "1) (구어) 친구·단짝·동료",
+   "2) (호칭) 이봐·친구",
+   "3) (특정 활동의) 짝꿍·파트너"
+  ],
+  "etym": "brother(형제)의 유아어·변형으로 추정(또는 영국 방언 butty 동료). '형제처럼 친한 동무'가 핵심.",
+  "deriv": "brother(형제) -> 'buddy'. '친한 동무 -> 친구(my best buddy, 내 단짝)'. 한국 학습자 핵심: 미국 구어로 매우 흔함(=pal, mate). a study buddy(공부 짝꿍), a buddy system(2인 1조 제도), Hey, buddy!(이봐 친구!), buddy up(짝을 이루다). friend(친구)·pal(친구)·mate(동료)와 유의어. 반대 enemy(적)·stranger(낯선 사람).",
+  "syn": [
+   "friend(친구)",
+   "pal(친구)",
+   "mate(동료)"
+  ],
+  "anti": [
+   "enemy(적)",
+   "stranger(낯선 사람)"
+  ],
+  "idiom": [
+   "a study buddy(공부 짝꿍)",
+   "a buddy system(2인 1조 제도)"
+  ],
+  "colloc": [
+   "best buddy(단짝)",
+   "old buddy(오랜 친구)",
+   "buddy up(짝을 이루다)"
+  ],
+  "ex_add": "He's been my buddy since childhood.  (buddy=친구)"
+ },
+ {
+  "num": "3798",
+  "hw": "buffer",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "충격을 흡수하는 것 -> '완충기·완충 장치 / (컴퓨터) 버퍼'.",
+  "senses": [
+   "1) 완충기·완충 장치·완충 지대",
+   "2) (충격을) 막아 주는 것·방패",
+   "3) (컴퓨터) 버퍼; (동사) 완충하다·버퍼링하다"
+  ],
+  "etym": "의성어 buff(쿵 치는 소리·둔한 충격)에서 -> buffer(충격을 흡수하는 것). '쿵 하는 충격을 받아 흡수하는 것'이 핵심.",
+  "deriv": "buff(둔한 충격) -> 'buffer'. '충격을 흡수하는 것 -> 완충기(a buffer against, ~에 대한 완충 장치)'. 한국 학습자 핵심: a buffer zone(완충 지대), a buffer against shocks(충격에 대한 완충 장치), act as a buffer(완충 역할을 하다). 컴퓨터 buffering(버퍼링, 데이터를 임시 저장하며 재생). cushion(완충재)·shield(방패)와 유의어.",
+  "syn": [
+   "cushion(완충재)",
+   "shield(방패)",
+   "barrier(장벽)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a buffer zone(완충 지대)",
+   "act as a buffer(완충 역할을 하다)"
+  ],
+  "colloc": [
+   "buffer zone(완충 지대)",
+   "buffer against(~에 대한 완충 장치)",
+   "financial buffer(재정적 완충)"
+  ],
+  "ex_add": "Savings can act as a buffer against hard times.  (buffer=완충 장치)"
+ },
+ {
+  "num": "3799",
+  "hw": "bulk",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "큰 덩치 -> '부피·큰 규모 / 대부분 / 대량'.",
+  "senses": [
+   "1) 부피·크기·덩치",
+   "2) (the bulk of) 대부분·태반",
+   "3) (in bulk) 대량으로"
+  ],
+  "etym": "고대 노르드어 bulki(짐 더미·화물). '쌓인 큰 덩치'가 핵심.",
+  "deriv": "bulki(짐 더미) -> 'bulk'. '큰 덩치 -> 부피·(the bulk of) 대부분(the bulk of the work, 일의 대부분)·(in bulk) 대량으로'. 한국 학습자 핵심: the bulk of(~의 대부분), buy in bulk(대량으로 사다), bulky(부피가 큰·다루기 힘든), bulk up(몸집을 키우다). volume(3603, 부피)·mass(덩어리)·majority(대다수)와 유의어. 반대 fraction(일부)·minority(소수).",
+  "syn": [
+   "volume(부피)",
+   "mass(덩어리)",
+   "majority(대다수)"
+  ],
+  "anti": [
+   "fraction(일부)",
+   "minority(소수)"
+  ],
+  "idiom": [
+   "the bulk of(~의 대부분)",
+   "buy in bulk(대량으로 사다)"
+  ],
+  "colloc": [
+   "the bulk of the work(일의 대부분)",
+   "in bulk(대량으로)",
+   "bulk purchase(대량 구매)"
+  ],
+  "ex_add": "The bulk of the budget went to research.  (bulk=대부분)"
+ },
+ {
+  "num": "3800",
+  "hw": "burden",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "짊어진 짐 -> '부담·짐 / 부담을 지우다'.",
+  "senses": [
+   "1) (무거운) 짐·부담·책임",
+   "2) (정신적) 부담·근심거리",
+   "3) (동사) 부담을 지우다·짐을 지우다"
+  ],
+  "etym": "고대 영어 byrthen(짐, beran 나르다·낳다). bear(나르다·견디다)·birth(출생)와 한 뿌리 — '짊어지고 나르는 짐'이 핵심. beran(나르다)은 burden·bear(나르다)·birth(출생)·bier(상여)의 뿌리.",
+  "deriv": "beran(나르다) -> byrthen -> 'burden'. '짊어진 짐 -> 부담(a financial burden, 재정적 부담)·부담을 지우다'. 한국 학습자 핵심: beran(나르다·낳다) 갈래 — bear(나르다·견디다·곰)·birth(출생)·bearer(나르는 사람)·forbear(참다)! the burden of proof(입증 책임), share the burden(부담을 나누다), a burden on(~에게 부담), ease the burden(부담을 덜다), the tax burden(세금 부담). load(짐)·weight(중압)·strain(부담)과 유의어. 반대 relief(3288, 안도)·help(도움).",
+  "syn": [
+   "load(짐)",
+   "weight(중압)",
+   "strain(부담)"
+  ],
+  "anti": [
+   "relief(안도)",
+   "help(도움)"
+  ],
+  "idiom": [
+   "the burden of proof(입증 책임)",
+   "share the burden(부담을 나누다)",
+   "ease the burden(부담을 덜다)"
+  ],
+  "colloc": [
+   "financial burden(재정적 부담)",
+   "heavy burden(무거운 짐)",
+   "tax burden(세금 부담)"
+  ],
+  "ex_add": "Caring for elderly parents can be a burden.  (burden=부담)"
+ },
+ {
+  "num": "3801",
+  "hw": "bureaucracy",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "사무국이 다스림 -> '관료제·관료주의 / 번거로운 행정 절차'.",
+  "senses": [
+   "1) 관료제·관료 조직",
+   "2) 관료주의·번거로운 형식 절차·요식 행위"
+  ],
+  "etym": "프랑스어 bureau(사무실·책상보) + 그리스어 kratos(지배·힘) -> 'bureaucracy'. '사무국(관료)이 다스림'이 핵심. kratos(지배)는 bureaucracy·democracy(민주주의)·aristocracy(귀족정)·autocracy(독재)의 뿌리.",
+  "deriv": "bureau(사무국)+kratos(지배) -> 'bureaucracy'. '사무국이 다스림 -> 관료제·요식 행위(cut through bureaucracy, 관료적 절차를 줄이다)'. 한국 학습자 핵심: kratos(지배·힘) 대가족 — democracy(민주주의, demos 국민)·aristocracy(귀족정)·autocracy(독재)·theocracy(신정)·meritocracy(능력주의)·plutocracy(금권정치)! bureaucrat(관료)·bureaucratic(관료적인)이 가족. government bureaucracy(정부 관료제), excessive bureaucracy(과도한 관료주의), red tape(번거로운 행정 절차)와 유의어.",
+  "syn": [
+   "administration(행정)",
+   "red tape(번거로운 절차)",
+   "officialdom(관료 사회)"
+  ],
+  "anti": [],
+  "idiom": [
+   "cut through bureaucracy(관료적 절차를 줄이다)",
+   "government bureaucracy(정부 관료제)"
+  ],
+  "colloc": [
+   "excessive bureaucracy(과도한 관료주의)",
+   "government bureaucracy(정부 관료제)",
+   "reduce bureaucracy(관료주의를 줄이다)"
+  ],
+  "ex_add": "Too much bureaucracy slows down the process.  (bureaucracy=관료주의)"
+ },
+ {
+  "num": "3802",
+  "hw": "burial",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "묻음 -> '매장·장례'.",
+  "senses": [
+   "1) 매장·장사·안장",
+   "2) 장례(식)"
+  ],
+  "etym": "고대 영어 byrgan(묻다) -> bury(묻다) + -al. '땅에 묻음'이 핵심. byrgan(묻다)은 burial·bury·borough(자치구, 보호된 곳)와 관련.",
+  "deriv": "bury(묻다) -> 'burial'. '묻음 -> 매장(a burial ground, 매장지)'. 한국 학습자 핵심: bury(묻다)·burial이 가족 — 발음 주의 bury[béri](베리), burial[bériəl]! a burial site/ground(매장지), a burial chamber(매장실), a proper burial(정식 장례). 장례 방식 — burial(매장) vs cremation(화장). funeral(장례식)·interment(매장)과 유의어. 반대 exhumation(발굴)·cremation(화장).",
+  "syn": [
+   "funeral(장례식)",
+   "interment(매장)",
+   "entombment(안치)"
+  ],
+  "anti": [
+   "exhumation(발굴)",
+   "cremation(화장)"
+  ],
+  "idiom": [
+   "a burial ground(매장지)",
+   "a proper burial(정식 장례)"
+  ],
+  "colloc": [
+   "burial site(매장지)",
+   "burial chamber(매장실)",
+   "ancient burial(고대 매장)"
+  ],
+  "ex_add": "The burial took place at the family cemetery.  (burial=매장)"
+ },
+ {
+  "num": "3803",
+  "hw": "burst",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "왈칵 터지다 -> '터지다·파열하다 / 갑자기 ~하다·쏟아져 나오다'.",
+  "senses": [
+   "1) 터지다·파열하다·터뜨리다",
+   "2) (burst into/out) 갑자기 ~을 터뜨리다",
+   "3) (n.) 폭발·갑작스러운 분출"
+  ],
+  "etym": "고대 영어 berstan(터지다·부서지다). 게르만어 계열로 '왈칵 터져 갈라짐'이 핵심.",
+  "deriv": "berstan(터지다) -> 'burst'. '왈칵 터짐 -> 파열하다(a pipe burst, 파이프가 터지다)·갑자기 ~하다(burst into tears, 울음을 터뜨리다)'. 한국 학습자 핵심: 불규칙 burst-burst-burst(불변)! burst into tears/laughter(왈칵 울다/웃음을 터뜨리다), burst out laughing(웃음을 터뜨리다), burst the bubble(환상을 깨다), be bursting with(~으로 가득 차다), a burst of energy(갑작스러운 에너지 분출). explode(폭발하다)·rupture(파열하다)·erupt(분출하다)와 유의어.",
+  "syn": [
+   "explode(폭발하다)",
+   "rupture(파열하다)",
+   "erupt(분출하다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "burst into tears(울음을 터뜨리다)",
+   "burst out laughing(웃음을 터뜨리다)",
+   "be bursting with(~으로 가득 차다)"
+  ],
+  "colloc": [
+   "a pipe burst(파이프가 터지다)",
+   "burst into flames(불길에 휩싸이다)",
+   "a burst of energy(에너지 분출)"
+  ],
+  "ex_add": "The balloon burst with a loud bang.  (burst=터지다)"
+ },
+ {
+  "num": "3804",
+  "hw": "cabinet",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "작은 방·장 -> '캐비닛·수납장 / 내각'.",
+  "senses": [
+   "1) 캐비닛·수납장·진열장",
+   "2) (정부의) 내각",
+   "3) (장식장 모양의) 케이스"
+  ],
+  "etym": "이탈리아어 cabinetto(작은 방), cabina(오두막)의 축소형. 본래 '귀중품을 두는 작은 방'에서 '수납장 / (작은 방에서 회의하는) 내각'으로. '작은 방·장'이 핵심.",
+  "deriv": "cabinetto(작은 방) -> 'cabinet'. '작은 방·장 -> 수납장(a kitchen cabinet, 주방 수납장)·(작은 방에서 모이는) 내각(a cabinet meeting, 국무회의)'. 한국 학습자 핵심: cabin(오두막·선실)과 한 뿌리! a filing cabinet(서류 정리함), a cabinet minister(국무위원·각료), a cabinet reshuffle(개각), the shadow cabinet(예비 내각). cupboard(찬장)·council(내각)과 유의어.",
+  "syn": [
+   "cupboard(찬장)",
+   "cabinet council(내각)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a cabinet meeting(국무회의)",
+   "a cabinet reshuffle(개각)"
+  ],
+  "colloc": [
+   "filing cabinet(서류 정리함)",
+   "kitchen cabinet(주방 수납장)",
+   "cabinet minister(국무위원)"
+  ],
+  "ex_add": "The president held a cabinet meeting this morning.  (cabinet=내각)"
+ },
+ {
+  "num": "3805",
+  "hw": "calculation",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "조약돌로 셈함 -> '계산 / 추산 / 타산·속셈'.",
+  "senses": [
+   "1) 계산·산출",
+   "2) 추산·추정",
+   "3) (이해) 타산·계산속·속셈"
+  ],
+  "etym": "라틴어 calculus(작은 돌·조약돌, 셈에 쓰던 것) -> calculare(계산하다) -> calculation. 옛날 조약돌로 셈한 데서. '조약돌로 셈함'이 핵심. calculus(조약돌)는 calculation·calculate·calculator·calcium(칼슘, 돌 성분)의 뿌리.",
+  "deriv": "calculus(조약돌) -> calculate -> 'calculation'. '조약돌로 셈함 -> 계산(a rough calculation, 대략적 계산)·타산'. 한국 학습자 핵심: calculus(조약돌·미적분) 갈래 — calculate(계산하다)·calculator(계산기)·calcium(칼슘)·calculus(미적분·결석)! 어원이 '조약돌'! a rough calculation(어림 계산), by my calculation(내 계산으로는), cold calculation(냉정한 타산). computation(계산)·reckoning(셈)·estimation(추산)과 유의어.",
+  "syn": [
+   "computation(계산)",
+   "reckoning(셈)",
+   "estimation(추산)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a rough calculation(어림 계산)",
+   "by my calculation(내 계산으로는)"
+  ],
+  "colloc": [
+   "rough calculation(대략적 계산)",
+   "make a calculation(계산하다)",
+   "complex calculation(복잡한 계산)"
+  ],
+  "ex_add": "By my calculation, we need three more hours.  (calculation=계산)"
+ },
+ {
+  "num": "3806",
+  "hw": "canvas",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "삼베 천 -> '캔버스·화포 / 두꺼운 천'.",
+  "senses": [
+   "1) (그림 그리는) 캔버스·화포",
+   "2) (텐트·돛의) 두꺼운 천·범포",
+   "3) (비유) 그림이 펼쳐질 화폭·무대"
+  ],
+  "etym": "라틴어 cannabis(대마·삼) -> 통속 라틴어 cannapaceus(삼으로 만든) -> 'canvas'. 삼베로 짠 두꺼운 천에서. '삼베 천'이 핵심. cannabis(삼)는 canvas·cannabis(대마)·canvass(여론을 살피다, 체로 거르듯)의 뿌리.",
+  "deriv": "cannabis(삼) -> 'canvas'. '삼베 천 -> 캔버스(paint on canvas, 캔버스에 그리다)'. 한국 학습자 핵심: 어원이 '대마(cannabis)' — 삼으로 짠 천! 철자 주의: canvas(화포, 명사) vs canvass(유세하다·여론을 조사하다, 동사)! a blank canvas(빈 캔버스·백지 상태), on canvas(캔버스에). 화가의 화폭. cloth(천)·fabric(직물)과 유의어.",
+  "syn": [
+   "cloth(천)",
+   "fabric(직물)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a blank canvas(빈 캔버스·백지 상태)",
+   "on canvas(캔버스에)"
+  ],
+  "colloc": [
+   "paint on canvas(캔버스에 그리다)",
+   "oil on canvas(캔버스 유화)",
+   "canvas bag(캔버스 가방)"
+  ],
+  "ex_add": "The artist painted a landscape on canvas.  (canvas=캔버스)"
+ },
+ {
+  "num": "3807",
+  "hw": "capability",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "받아들일 수 있는 능력 -> '능력·역량 / (장비의) 성능'.",
+  "senses": [
+   "1) 능력·역량·재능",
+   "2) (장비·시스템의) 성능·기능",
+   "3) (군사·기술의) 잠재력"
+  ],
+  "etym": "라틴어 capere(잡다·담다) -> capabilis(담을 수 있는) -> capable(유능한) + -ity. '받아들여 해낼 수 있는 능력'이 핵심. capere(잡다)는 capability·capable·capacity(용량)·capture(붙잡다)·receive(3268)·accept(받아들이다)의 뿌리.",
+  "deriv": "capere(잡다) -> capable -> 'capability'. '담을 수 있는 능력 -> 역량(military capability, 군사 역량)'. 한국 학습자 핵심: capere(잡다·담다) 대가족 — capable·capacity(용량)·capture(붙잡다)·receive(3268)·accept·perceive(3168)·concept(개념)·participate(참여)·anticipate(예상)! beyond one's capability(능력 밖의), nuclear capability(핵 역량), within one's capabilities(능력 범위 내의). ability(능력)·capacity(역량)·competence(능력)와 유의어. 반대 inability(무능)·incapability(무능력).",
+  "syn": [
+   "ability(능력)",
+   "capacity(역량)",
+   "competence(능력)"
+  ],
+  "anti": [
+   "inability(무능)",
+   "incapability(무능력)"
+  ],
+  "idiom": [
+   "beyond one's capability(능력 밖의)",
+   "within one's capabilities(능력 범위 내의)"
+  ],
+  "colloc": [
+   "military capability(군사 역량)",
+   "technical capability(기술 역량)",
+   "production capability(생산 능력)"
+  ],
+  "ex_add": "The new software has impressive capabilities.  (capability=성능)"
+ },
+ {
+  "num": "3808",
+  "hw": "capitalism",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "자본 중심 체제 -> '자본주의'.",
+  "senses": [
+   "1) 자본주의(사유 재산·시장 경제 체제)"
+  ],
+  "etym": "라틴어 caput(머리) -> capitalis(으뜸의) -> capital(자본, 으뜸 재산) + -ism(주의). '자본을 중심에 둔 체제'가 핵심. caput(머리)는 capitalism·capital(수도·자본)·captain(우두머리)·chapter(장)·chief(우두머리)의 뿌리.",
+  "deriv": "caput(머리) -> capital(자본) -> 'capitalism'. '자본 중심 체제 -> 자본주의(free-market capitalism, 자유 시장 자본주의)'. 한국 학습자 핵심: caput(머리·으뜸) 초대형 가족 — capital(수도·자본·대문자)·captain(우두머리)·chapter(장)·chief(우두머리)·chef(주방장)·cattle(3817)·decapitate(목을 베다)·per capita(1인당)! -ism(주의) — capitalism·socialism(사회주의)·racism(3249). modern capitalism(현대 자본주의). free enterprise(자유 기업제)와 유의어. 반대 socialism(사회주의)·communism(공산주의).",
+  "syn": [
+   "free enterprise(자유 기업제)",
+   "free market(자유 시장)"
+  ],
+  "anti": [
+   "socialism(사회주의)",
+   "communism(공산주의)"
+  ],
+  "idiom": [
+   "free-market capitalism(자유 시장 자본주의)",
+   "modern capitalism(현대 자본주의)"
+  ],
+  "colloc": [
+   "free-market capitalism(자유 시장 자본주의)",
+   "global capitalism(세계 자본주의)",
+   "modern capitalism(현대 자본주의)"
+  ],
+  "ex_add": "Capitalism is based on private ownership.  (capitalism=자본주의)"
+ },
+ {
+  "num": "3809",
+  "hw": "capitalist",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "자본 중심의 -> '자본주의의 / 자본가'.",
+  "senses": [
+   "1) (형용사) 자본주의의",
+   "2) (명사) 자본가·자본주의자",
+   "3) 투자가·기업가"
+  ],
+  "etym": "라틴어 caput(머리) -> capital(자본) + -ist. '자본을 가진 사람·자본주의의'가 핵심.",
+  "deriv": "capital(자본) -> 'capitalist'. '자본 중심의 -> 자본주의의(a capitalist economy, 자본주의 경제)·자본가'. 한국 학습자 핵심: caput(머리·으뜸) 갈래 — capital(수도·자본)·capitalism(3808)·captain(우두머리)·chapter(장)·chief(우두머리)! -ist(사람·~의) — capitalist·socialist(사회주의자)·artist(예술가). a capitalist society(자본주의 사회), a venture capitalist(벤처 투자가). entrepreneur(기업가)·investor(투자자)와 관련. 반대 socialist(사회주의자)·communist(공산주의자).",
+  "syn": [
+   "entrepreneur(기업가)",
+   "investor(투자자)"
+  ],
+  "anti": [
+   "socialist(사회주의자)",
+   "communist(공산주의자)"
+  ],
+  "idiom": [
+   "a capitalist economy(자본주의 경제)",
+   "a venture capitalist(벤처 투자가)"
+  ],
+  "colloc": [
+   "capitalist society(자본주의 사회)",
+   "capitalist system(자본주의 체제)",
+   "venture capitalist(벤처 투자가)"
+  ],
+  "ex_add": "They live in a capitalist society.  (capitalist=자본주의의)"
+ },
+ {
+  "num": "3810",
+  "hw": "cargo",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "수레에 실은 짐 -> '화물·뱃짐'.",
+  "senses": [
+   "1) (배·비행기의) 화물·짐",
+   "2) 적하물·선적 화물"
+  ],
+  "etym": "라틴어 carricare(수레에 싣다, carrus 수레) -> 스페인어 cargo(짐·적재) -> 'cargo'. '수레에 실어 나르는 짐'이 핵심. carrus(수레)는 cargo·car(자동차)·carry(나르다)·carriage(3811)·charge(부담)의 뿌리.",
+  "deriv": "carrus(수레) -> carricare(싣다) -> 'cargo'. '수레에 실은 짐 -> 화물(a cargo ship, 화물선)'. 한국 학습자 핵심: carrus(수레) 대가족 — car(자동차)·carry(나르다)·carriage(3811)·charge(짐·부담)·career(경력, 빠르게 달림)·carpenter(목수)! a cargo plane(화물기), a cargo ship(화물선), air cargo(항공 화물), cargo pants(카고 바지, 화물용 큰 주머니). freight(화물)·load(짐)·shipment(적하)과 유의어.",
+  "syn": [
+   "freight(화물)",
+   "load(짐)",
+   "shipment(적하)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a cargo ship(화물선)",
+   "a cargo plane(화물기)"
+  ],
+  "colloc": [
+   "cargo ship(화물선)",
+   "air cargo(항공 화물)",
+   "cargo hold(화물칸)"
+  ],
+  "ex_add": "The ship was carrying a cargo of oil.  (cargo=화물)"
+ },
+ {
+  "num": "3811",
+  "hw": "carriage",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "나르는 것 -> '마차 / (영) 객차 / 운반·운임 / 몸가짐'.",
+  "senses": [
+   "1) 마차",
+   "2) (영) (기차의) 객차",
+   "3) 운반·운송(비); 몸가짐·자세"
+  ],
+  "etym": "라틴어 carricare(싣다·나르다) -> 고대 북프랑스어 cariage(나르기) -> 'carriage'. '나르는 것·나르기'가 핵심. carrus(수레)는 carriage·cargo(3810)·car·carry·charge의 뿌리.",
+  "deriv": "carricare(나르다) -> 'carriage'. '나르는 것 -> 마차·(영) 객차(a railway carriage, 객차)·운임·(몸을 지니는) 몸가짐'. 한국 학습자 핵심: carrus(수레) 대가족 — cargo(3810)·car·carry·charge·career·carrier(운반인)! a horse-drawn carriage(말이 끄는 마차), a baby carriage(유모차, 미국), carriage of goods(상품 운송), carriage and bearing(자세와 태도). 영국 carriage(객차) = 미국 car. coach(객차·마차)·wagon(짐마차)과 유의어.",
+  "syn": [
+   "coach(객차)",
+   "wagon(짐마차)",
+   "cart(수레)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a horse-drawn carriage(말이 끄는 마차)",
+   "a baby carriage(유모차)"
+  ],
+  "colloc": [
+   "railway carriage(기차 객차)",
+   "horse-drawn carriage(마차)",
+   "carriage of goods(상품 운송)"
+  ],
+  "ex_add": "The train had six carriages.  (carriage=객차)"
+ },
+ {
+  "num": "3812",
+  "hw": "carve",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "깎아 새기다 -> '조각하다·새기다 / (고기를) 썰다 / 일궈 내다'.",
+  "senses": [
+   "1) (나무·돌을) 조각하다·깎아 만들다·새기다",
+   "2) (큰 고기를) 썰어 나누다",
+   "3) (carve out) (지위·길을) 개척하다·일궈 내다"
+  ],
+  "etym": "고대 영어 ceorfan(자르다·새기다). 게르만어 계열로 '칼로 깎아 새김'이 핵심. (그리스어 graphein 긁다·쓰다와 먼 친척.)",
+  "deriv": "ceorfan(새기다) -> 'carve'. '깎아 새김 -> 조각하다(carve a statue, 조각상을 깎다)·(고기를) 썰다(carve the turkey, 칠면조를 썰다)·(carve out) 개척하다'. 한국 학습자 핵심: carve out a career/niche(경력·입지를 개척하다), carve up(분할하다·나눠 갖다), carved in stone(돌에 새겨진·바꿀 수 없는). sculpt(조각하다)·engrave(새기다)·chisel(끌로 깎다)과 유의어.",
+  "syn": [
+   "sculpt(조각하다)",
+   "engrave(새기다)",
+   "chisel(끌로 깎다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "carve out(개척하다)",
+   "carved in stone(바꿀 수 없는)",
+   "carve up(분할하다)"
+  ],
+  "colloc": [
+   "carve a statue(조각상을 깎다)",
+   "carve the turkey(칠면조를 썰다)",
+   "carve one's name(이름을 새기다)"
+  ],
+  "ex_add": "He carved a small figure out of wood.  (carve=조각하다)"
+ },
+ {
+  "num": "3813",
+  "hw": "casino",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "작은 집(오락장) -> '카지노·도박장'.",
+  "senses": [
+   "1) 카지노·도박장",
+   "2) (옛) 사교·오락용 별장"
+  ],
+  "etym": "이탈리아어 casino(작은 집·별장), casa(집)의 축소형. 사교·오락용 별채에서 '도박장'으로. '작은 집(오락장)'이 핵심. casa(집)는 casino·casserole(냄비 요리)·casual은 무관의 뿌리.",
+  "deriv": "casa(집) -> casino(작은 집) -> 'casino'. '작은 오락장 -> 카지노(a casino in Las Vegas, 라스베이거스의 카지노)'. 한국 학습자 핵심: casa(집) 갈래 — casino·casserole(찜냄비 요리, 작은 집 모양)·Casablanca(흰 집)! a casino resort(카지노 리조트, 3306 resort), gamble at a casino(카지노에서 도박하다), an online casino(온라인 카지노). gambling house(도박장)와 유의어.",
+  "syn": [
+   "gambling house(도박장)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a casino resort(카지노 리조트)",
+   "an online casino(온라인 카지노)"
+  ],
+  "colloc": [
+   "casino resort(카지노 리조트)",
+   "gamble at a casino(카지노에서 도박하다)",
+   "casino games(카지노 게임)"
+  ],
+  "ex_add": "They spent the evening at the casino.  (casino=카지노)"
+ },
+ {
+  "num": "3814",
+  "hw": "casualty",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "우연히 닥친 사고 -> '사상자·희생자 / (the casualty) 응급실'.",
+  "senses": [
+   "1) (사고·전쟁의) 사상자·부상자·희생자",
+   "2) 피해자·타격을 입은 것",
+   "3) (영) 응급실(=ER)"
+  ],
+  "etym": "라틴어 casus(떨어짐·우연·사고, cadere 떨어지다) -> casualis(우연의) -> casualty. '우연히 닥친 사고로 다친 사람'이 핵심. cadere(떨어지다)는 casualty·case(경우)·accident(사고)·occasion(때)·decay(부패)·cadence(억양)의 뿌리.",
+  "deriv": "cadere(떨어지다) -> casus(사고) -> 'casualty'. '우연히 닥친 사고 -> 사상자(heavy casualties, 많은 사상자)'. 한국 학습자 핵심: cadere(떨어지다) 대가족 — case(경우, 떨어진 상황)·accident(사고)·occasion(때)·decay(썩다)·cadence(억양)·coincidence(2436 우연)·casual(우연한·격식 없는)! civilian casualties(민간인 사상자), the first casualty(첫 희생자), casualty figures(사상자 수). victim(희생자)·fatality(사망자)와 유의어. 반대 survivor(3486, 생존자).",
+  "syn": [
+   "victim(희생자)",
+   "fatality(사망자)"
+  ],
+  "anti": [
+   "survivor(생존자)"
+  ],
+  "idiom": [
+   "heavy casualties(많은 사상자)",
+   "the first casualty(첫 희생자)"
+  ],
+  "colloc": [
+   "civilian casualties(민간인 사상자)",
+   "casualty figures(사상자 수)",
+   "mass casualties(대량 사상자)"
+  ],
+  "ex_add": "The earthquake caused many casualties.  (casualty=사상자)"
+ },
+ {
+  "num": "3815",
+  "hw": "catalog",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "쭉 적어 내린 목록 -> '목록·카탈로그 / 일람표 / 목록을 만들다'.",
+  "senses": [
+   "1) (상품·도서) 목록·카탈로그",
+   "2) (잇따른) 일련·연속(a catalog of)",
+   "3) (동사) 목록을 만들다·분류하다"
+  ],
+  "etym": "그리스어 kata(완전히·아래로) + legein(말하다·세다) -> katalogos(쭉 적어 내린 명부) -> 'catalog'. '죽 열거해 적은 목록'이 핵심. legein(말하다·고르다)은 catalog·dialogue(대화)·logic(논리)·analogy(3706)의 뿌리.",
+  "deriv": "kata(완전히)+legein(세다) -> 'catalog'. '쭉 적어 내린 목록 -> 카탈로그(a product catalog, 상품 목록)·(a catalog of) 일련의(a catalog of errors, 잇따른 실수)'. 한국 학습자 핵심: legein(말하다·세다) 갈래 — dialogue(대화)·logic(논리)·analogy(3706)·catalog! kata-(아래로·완전히) — catalog·catastrophe(대재앙)·category(범주)·catalyst(촉매)! 철자: 미국 catalog / 영국 catalogue. a catalog of disasters(잇단 재난). list(목록)·index(색인)·directory(명부)와 유의어.",
+  "syn": [
+   "list(목록)",
+   "index(색인)",
+   "directory(명부)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a product catalog(상품 목록)",
+   "a catalog of errors(잇따른 실수)"
+  ],
+  "colloc": [
+   "online catalog(온라인 목록)",
+   "product catalog(상품 카탈로그)",
+   "library catalog(도서 목록)"
+  ],
+  "ex_add": "You can order from our online catalog.  (catalog=목록)"
+ },
+ {
+  "num": "3816",
+  "hw": "cater",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "먹을 것을 마련하다 -> '음식을 공급하다 / (요구를) 충족시키다·부응하다'.",
+  "senses": [
+   "1) (행사에) 음식을 마련해 제공하다·출장 요리하다",
+   "2) (cater for/to) (요구·기호를) 충족시키다·부응하다·맞추다"
+  ],
+  "etym": "고대 프랑스어 acater(사다·조달하다, 라틴어 ad + captare 잡으려 하다) -> cater. '음식을 사들여 마련함'이 핵심. captare(잡다)는 cater·capture(붙잡다)·capable·accept의 뿌리(capere 계열).",
+  "deriv": "captare(잡으려 하다) -> cater. '먹을 것을 마련함 -> 음식을 공급하다(cater an event, 행사 음식을 대다)·(요구를) 충족시키다(cater to needs, 요구에 부응하다)'. 한국 학습자 핵심: cater for(영, ~을 위해 제공하다) vs cater to(미, ~의 비위를 맞추다) 구별! caterer(출장 요리업체)·catering(출장 요식업)이 가족. cater to demand(수요에 부응하다), cater for all tastes(모든 취향을 맞추다). serve(제공하다)·provide(제공하다)·accommodate(부응하다)와 유의어.",
+  "syn": [
+   "serve(제공하다)",
+   "provide(제공하다)",
+   "accommodate(부응하다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "cater for(~을 위해 제공하다)",
+   "cater to(~의 비위를 맞추다)"
+  ],
+  "colloc": [
+   "cater an event(행사 음식을 대다)",
+   "cater to needs(요구에 부응하다)",
+   "cater for all tastes(모든 취향을 맞추다)"
+  ],
+  "ex_add": "The hotel can cater for up to 200 guests.  (cater=음식을 공급하다)"
+ },
+ {
+  "num": "3817",
+  "hw": "cattle",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "재산이 된 가축 -> '소(떼)·축우'.",
+  "senses": [
+   "1) 소·축우(집합적으로)",
+   "2) (낮잡아) 떼거리·무리"
+  ],
+  "etym": "라틴어 caput(머리) -> capitale(재산) -> 고대 북프랑스어 catel(가축·재산) -> 'cattle'. 옛날 소가 곧 재산이었던 데서. caput(머리)는 cattle·capital(자본)·capitalism(3808)·chattel(동산)의 뿌리.",
+  "deriv": "caput(머리) -> capitale(재산) -> 'cattle'. '재산이 된 가축 -> 소(raise cattle, 소를 기르다)'. 한국 학습자 핵심: caput(머리) 갈래 — capital(자본)·capitalism(3808)·captain(우두머리)·chattel(동산)·chapter(장)·cattle! 어원상 capital(자본)과 cattle(소)는 한 뿌리 — 옛날엔 소가 곧 자본! 항상 복수 취급(cattle are, 단수형 없음). a head of cattle(소 한 마리), cattle ranch(목장), beef cattle(육우). livestock(가축)·cows(소들)와 유의어.",
+  "syn": [
+   "livestock(가축)",
+   "cows(소들)",
+   "oxen(황소들)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a head of cattle(소 한 마리)",
+   "raise cattle(소를 기르다)"
+  ],
+  "colloc": [
+   "raise cattle(소를 기르다)",
+   "cattle ranch(목장)",
+   "herd of cattle(소 떼)"
+  ],
+  "ex_add": "The farmer raises cattle and sheep.  (cattle=소)"
+ },
+ {
+  "num": "3818",
+  "hw": "caution",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "조심함 -> '조심·신중 / 경고 / 주의를 주다'.",
+  "senses": [
+   "1) 조심·신중·경계",
+   "2) 경고·주의; (동사) 경고하다·주의를 주다"
+  ],
+  "etym": "라틴어 cavere(조심하다·경계하다) -> cautio(조심) -> 'caution'. '미리 살펴 조심함'이 핵심. cavere(조심하다)는 caution·cautious(3819)·precaution(예방책)·caveat(주의 사항)의 뿌리.",
+  "deriv": "cavere(조심하다) -> cautio -> 'caution'. '조심함 -> 신중(with caution, 조심해서)·경고(a word of caution, 주의의 말)'. 한국 학습자 핵심: cavere(조심하다) 갈래 — cautious(3819)·precaution(예방 조치)·caveat(단서·주의)·cautionary(경고의)! exercise caution(주의를 기울이다), throw caution to the wind(앞뒤 안 가리고 하다), proceed with caution(신중히 진행하다), a note of caution(주의 사항). care(주의)·prudence(신중)·warning(경고)과 유의어. 반대 recklessness(무모함)·carelessness(부주의).",
+  "syn": [
+   "care(주의)",
+   "prudence(신중)",
+   "warning(경고)"
+  ],
+  "anti": [
+   "recklessness(무모함)",
+   "carelessness(부주의)"
+  ],
+  "idiom": [
+   "with caution(조심해서)",
+   "throw caution to the wind(앞뒤 안 가리다)",
+   "a word of caution(주의의 말)"
+  ],
+  "colloc": [
+   "exercise caution(주의를 기울이다)",
+   "proceed with caution(신중히 진행하다)",
+   "extreme caution(극도의 주의)"
+  ],
+  "ex_add": "Proceed with caution on the icy road.  (caution=조심)"
+ },
+ {
+  "num": "3819",
+  "hw": "cautious",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "조심하는 -> '조심스러운·신중한'.",
+  "senses": [
+   "1) 조심스러운·신중한·경계하는"
+  ],
+  "etym": "라틴어 cavere(조심하다) -> caution(3818) + -ous. '조심하는 성향의'가 핵심.",
+  "deriv": "caution(3818, 조심) -> 'cautious'. '조심하는 -> 신중한(a cautious approach, 신중한 접근)'. 한국 학습자 핵심: cavere(조심하다) 갈래 — caution(3818)·precaution(예방)·caveat(단서)·cautiously(조심스럽게)! be cautious about(~에 대해 신중하다), a cautious optimism(조심스러운 낙관), overly cautious(지나치게 조심하는). careful(조심스러운)·prudent(신중한)·wary(경계하는)와 유의어. 반대 reckless(무모한)·careless(부주의한)·rash(성급한).",
+  "syn": [
+   "careful(조심스러운)",
+   "prudent(신중한)",
+   "wary(경계하는)"
+  ],
+  "anti": [
+   "reckless(무모한)",
+   "careless(부주의한)",
+   "rash(성급한)"
+  ],
+  "idiom": [
+   "be cautious about(~에 대해 신중하다)",
+   "cautious optimism(조심스러운 낙관)"
+  ],
+  "colloc": [
+   "cautious approach(신중한 접근)",
+   "overly cautious(지나치게 조심하는)",
+   "remain cautious(신중함을 유지하다)"
+  ],
+  "ex_add": "Investors remain cautious about the economy.  (cautious=신중한)"
+ },
+ {
+  "num": "3820",
+  "hw": "cease",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "물러나 그치다 -> '그치다·중단되다·중단하다'.",
+  "senses": [
+   "1) (격식) 그치다·멈추다·중단되다",
+   "2) (활동을) 중단하다·끝내다"
+  ],
+  "etym": "라틴어 cedere(가다·물러나다) -> cessare(물러나 그치다) -> 고대 프랑스어 cesser -> 'cease'. '물러나 멈춤'이 핵심. cedere(가다)는 cease·proceed(3221)·recession(3269)·precede(3191)·access의 뿌리.",
+  "deriv": "cedere(물러나다) -> cessare -> 'cease'. '물러나 그침 -> 중단하다(cease fire, 사격을 멈추다)'. 한국 학습자 핵심: cedere(가다·물러나다) 대가족 — proceed(3221)·recession(3269)·precede(3191)·access·exceed(초과)·process(3224)·concede(인정)·ceaseless(끊임없는)! cease to exist(존재하지 않게 되다), a ceasefire(휴전·정전), cease and desist(중지하다, 법률), without cease(끊임없이). stop(멈추다)·halt(중단하다)·discontinue(중단하다)와 유의어. 반대 continue(계속하다)·begin(시작하다)·resume(재개하다).",
+  "syn": [
+   "stop(멈추다)",
+   "halt(중단하다)",
+   "discontinue(중단하다)"
+  ],
+  "anti": [
+   "continue(계속하다)",
+   "begin(시작하다)",
+   "resume(재개하다)"
+  ],
+  "idiom": [
+   "cease to exist(존재하지 않게 되다)",
+   "a ceasefire(휴전)",
+   "cease and desist(중지하다)"
+  ],
+  "colloc": [
+   "cease fire(사격을 멈추다)",
+   "cease operations(운영을 중단하다)",
+   "never cease(결코 멈추지 않다)"
+  ],
+  "ex_add": "The company ceased trading last year.  (cease=중단하다)"
+ },
+ {
+  "num": "3821",
+  "hw": "cemetery",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "잠재우는 곳 -> '묘지·공동묘지'.",
+  "senses": [
+   "1) 묘지·공동묘지(교회에 딸리지 않은)"
+  ],
+  "etym": "그리스어 koimeterion(잠자는 곳, koiman 재우다) -> 라틴어 coemeterium -> 'cemetery'. 죽음을 '잠'에 빗대어 '영면의 장소'로. '잠재우는 곳'이 핵심.",
+  "deriv": "koimeterion(잠자는 곳) -> 'cemetery'. '잠재우는 곳 -> 묘지(a national cemetery, 국립묘지)'. 한국 학습자 핵심: 어원이 '잠자는 곳' — 죽음을 영원한 잠으로 본 그리스인의 표현! 철자 주의: c-e-m-e-t-e-r-y (모음이 모두 e!). 구별: cemetery(공동묘지, 독립된)·graveyard(교회 묘지)·tomb(무덤)·grave(묏자리). a military cemetery(군 묘지), be buried in a cemetery(묘지에 묻히다). graveyard(묘지)·burial ground(매장지)와 유의어.",
+  "syn": [
+   "graveyard(묘지)",
+   "burial ground(매장지)",
+   "necropolis(공동묘지)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a national cemetery(국립묘지)",
+   "a military cemetery(군 묘지)"
+  ],
+  "colloc": [
+   "national cemetery(국립묘지)",
+   "buried in a cemetery(묘지에 묻힌)",
+   "old cemetery(오래된 묘지)"
+  ],
+  "ex_add": "He was buried in the local cemetery.  (cemetery=묘지)"
+ },
+ {
+  "num": "3822",
+  "hw": "chamber",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "둥근 방 -> '(특정 용도의) 방·실 / 회의실·의원 / (총의) 약실'.",
+  "senses": [
+   "1) (특정 용도의) 방·실(chamber music, gas chamber)",
+   "2) 회의실; (의회의) 원(院)·의원",
+   "3) (총·기관의) 약실·공동"
+  ],
+  "etym": "그리스어 kamara(둥근 천장) -> 라틴어 camera(둥근 방) -> 고대 프랑스어 chambre -> 'chamber'. camera(카메라, 어둠상자)와 한 뿌리. '둥근 천장의 방'이 핵심. camera(방)는 chamber·camera(카메라)·comrade(동지, 한방 친구)의 뿌리.",
+  "deriv": "kamara(둥근 천장) -> camera -> 'chamber'. '둥근 방 -> 회의실(the lower chamber, 하원)·약실'. 한국 학습자 핵심: camera(방) 갈래 — camera(카메라)·comrade(동지, 같은 방 쓰는 사이)·chamber·bicameral(양원제의)! chamber music(실내악), a chamber of commerce(상공회의소), the upper/lower chamber(상원/하원), a gas chamber(가스실), a torture chamber(고문실). room(방)·hall(회관)과 유의어.",
+  "syn": [
+   "room(방)",
+   "hall(회관)",
+   "compartment(칸)"
+  ],
+  "anti": [],
+  "idiom": [
+   "chamber music(실내악)",
+   "a chamber of commerce(상공회의소)"
+  ],
+  "colloc": [
+   "chamber music(실내악)",
+   "council chamber(회의실)",
+   "the lower chamber(하원)"
+  ],
+  "ex_add": "The debate took place in the main chamber.  (chamber=회의실)"
+ },
+ {
+  "num": "3823",
+  "hw": "chaos",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "텅 빈 혼돈 -> '혼돈·혼란·무질서'.",
+  "senses": [
+   "1) 대혼란·혼돈·아수라장",
+   "2) (질서 이전의) 무질서·혼돈 상태"
+  ],
+  "etym": "그리스어 khaos(텅 빈 공간·천지창조 이전의 혼돈) -> 라틴어 chaos -> 'chaos'. 우주가 생기기 전의 무질서 상태에서. '텅 빈 혼돈'이 핵심.",
+  "deriv": "khaos(혼돈) -> 'chaos'. '텅 빈 혼돈 -> 대혼란(total chaos, 완전한 아수라장)'. 한국 학습자 핵심: 발음 주의 — chaos[kéɪɑːs](케이오스), ch를 [k]로! chaotic(혼란스러운)이 형용사. chaos theory(카오스 이론), descend into chaos(혼란에 빠지다), throw into chaos(혼란에 빠뜨리다), utter chaos(완전한 혼란). disorder(무질서)·confusion(혼란)·turmoil(대혼란)과 유의어. 반대 order(질서)·calm(평온)·harmony(조화).",
+  "syn": [
+   "disorder(무질서)",
+   "confusion(혼란)",
+   "turmoil(대혼란)"
+  ],
+  "anti": [
+   "order(질서)",
+   "calm(평온)",
+   "harmony(조화)"
+  ],
+  "idiom": [
+   "total chaos(완전한 아수라장)",
+   "descend into chaos(혼란에 빠지다)",
+   "chaos theory(카오스 이론)"
+  ],
+  "colloc": [
+   "complete chaos(완전한 혼란)",
+   "throw into chaos(혼란에 빠뜨리다)",
+   "utter chaos(완전한 혼란)"
+  ],
+  "ex_add": "The storm left the city in chaos.  (chaos=혼란)"
+ },
+ {
+  "num": "3824",
+  "hw": "characterize",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "특징을 새겨 넣다 -> '특징짓다·특색을 이루다 / ~라고 묘사하다'.",
+  "senses": [
+   "1) ~의 특징이 되다·특색을 이루다",
+   "2) (~라고) 특징짓다·규정하다·묘사하다"
+  ],
+  "etym": "그리스어 kharakter(새긴 표시·각인, kharassein 새기다) -> character(성격·특징) + -ize. '특징을 새겨 넣음'이 핵심. kharakter(각인)는 characterize·character(성격)·characteristic(특징)의 뿌리.",
+  "deriv": "kharakter(새긴 표시) -> character -> 'characterize'. '특징을 새겨 넣음 -> 특징짓다(be characterized by, ~을 특징으로 하다)'. 한국 학습자 핵심: kharakter(새긴 표시·각인) 갈래 — character(성격·등장인물·문자)·characteristic(특징)·characterization(성격 묘사)! be characterized by(~을 특징으로 하다)가 빈출 구문! characterize A as B(A를 B로 규정하다). 철자: ch[k] — characterize[kǽrəktəraɪz]. define(규정하다)·describe(묘사하다)·distinguish(구별 짓다)와 유의어.",
+  "syn": [
+   "define(규정하다)",
+   "describe(묘사하다)",
+   "distinguish(구별 짓다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "be characterized by(~을 특징으로 하다)",
+   "characterize A as B(A를 B로 규정하다)"
+  ],
+  "colloc": [
+   "be characterized by(~을 특징으로 하다)",
+   "characterize a period(시대를 특징짓다)",
+   "aptly characterize(적절히 규정하다)"
+  ],
+  "ex_add": "The region is characterized by its mild climate.  (characterize=특징짓다)"
+ },
+ {
+  "num": "3825",
+  "hw": "charm",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "마법의 노래 -> '매력 / 부적·장식물 / 매혹하다'.",
+  "senses": [
+   "1) 매력·매혹",
+   "2) 부적·주문; (팔찌의) 작은 장식물",
+   "3) (동사) 매혹하다·홀리다"
+  ],
+  "etym": "라틴어 carmen(노래·주문·시) -> 고대 프랑스어 charme(마법) -> 'charm'. 마법을 거는 '노래·주문'에서 '매혹·매력'으로. carmen(노래)은 charm·chant(노래하다)·incantation(주문)의 뿌리.",
+  "deriv": "carmen(노래·주문) -> 'charm'. '마법의 노래 -> 매력(personal charm, 개인적 매력)·부적·매혹하다(charm everyone, 모두를 사로잡다)'. 한국 학습자 핵심: carmen(노래·주문) 갈래 — chant(성가·구호)·incantation(주문)·charm! work like a charm(아주 효과가 좋다·감쪽같다), a lucky charm(행운의 부적), turn on the charm(매력을 발산하다), a charm offensive(매력 공세). appeal(매력)·allure(매혹)·enchant(매혹하다)와 유의어.",
+  "syn": [
+   "appeal(매력)",
+   "allure(매혹)",
+   "enchant(매혹하다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "work like a charm(아주 효과가 좋다)",
+   "a lucky charm(행운의 부적)",
+   "turn on the charm(매력을 발산하다)"
+  ],
+  "colloc": [
+   "personal charm(개인적 매력)",
+   "old-world charm(고풍스러운 매력)",
+   "charm offensive(매력 공세)"
+  ],
+  "ex_add": "She won everyone over with her charm.  (charm=매력)"
+ },
+ {
+  "num": "3826",
+  "hw": "charter",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "공식 문서 -> '헌장·설립 인가 / 전세 내다·전세의'.",
+  "senses": [
+   "1) 헌장·강령; (단체의) 설립 인가서",
+   "2) (동사) (배·비행기를) 전세 내다; (형용사) 전세의",
+   "3) (권리의) 보장"
+  ],
+  "etym": "라틴어 charta(파피루스·종이·문서) -> 고대 프랑스어 chartre -> 'charter'. '권리를 적은 공식 문서'가 핵심. charta(종이)는 charter·card(카드)·chart(도표)·cartoon(만화)의 뿌리.",
+  "deriv": "charta(문서) -> 'charter'. '공식 문서 -> 헌장(the UN Charter, 유엔 헌장)·전세 내다(charter a plane, 비행기를 전세 내다)'. 한국 학습자 핵심: charta(종이·문서) 갈래 — card(카드)·chart(도표)·cartoon(만화)·cartography(지도 제작)·Magna Carta(대헌장)! a charter flight(전세기), a charter member(창립 회원), grant a charter(인가하다). constitution(헌법)·document(문서)·hire(빌리다)와 유의어.",
+  "syn": [
+   "constitution(헌법)",
+   "document(문서)",
+   "hire(빌리다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "the UN Charter(유엔 헌장)",
+   "a charter flight(전세기)"
+  ],
+  "colloc": [
+   "charter a plane(비행기를 전세 내다)",
+   "charter flight(전세기)",
+   "grant a charter(인가하다)"
+  ],
+  "ex_add": "The company chartered a plane for the trip.  (charter=전세 내다)"
+ },
+ {
+  "num": "3827",
+  "hw": "choir",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "합창단 -> '성가대·합창단 / 성가대석'.",
+  "senses": [
+   "1) 성가대·합창단",
+   "2) (교회의) 성가대석"
+  ],
+  "etym": "그리스어 khoros(군무·합창단) -> 라틴어 chorus -> 고대 프랑스어 quer -> 'choir'. chorus(합창)와 한 뿌리 — '함께 노래하는 무리'가 핵심. khoros(합창)는 choir·chorus(합창)·choreography(안무)의 뿌리.",
+  "deriv": "khoros(합창단) -> chorus -> 'choir'. '합창단 -> 성가대(a church choir, 교회 성가대)'. 한국 학습자 핵심: 발음 주의 — choir[kwaɪər](콰이어)! ch[k], 철자와 발음이 매우 다름! khoros(합창) 갈래 — chorus(합창·후렴)·choral(합창의)·choreography(안무, choros 춤+graphein 쓰기)! a choir practice(성가대 연습), sing in a choir(성가대에서 노래하다), a gospel choir(가스펠 합창단). chorus(합창단)·ensemble(앙상블)과 유의어.",
+  "syn": [
+   "chorus(합창단)",
+   "ensemble(앙상블)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a church choir(교회 성가대)",
+   "sing in a choir(성가대에서 노래하다)"
+  ],
+  "colloc": [
+   "church choir(교회 성가대)",
+   "choir practice(성가대 연습)",
+   "join a choir(합창단에 들어가다)"
+  ],
+  "ex_add": "She sings in the school choir.  (choir=합창단)"
+ },
+ {
+  "num": "3828",
+  "hw": "chronic",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "오래 끄는 -> '만성의·고질적인 / 상습적인'.",
+  "senses": [
+   "1) (병이) 만성의·고질적인",
+   "2) (문제가) 만성적인·고질적인·끊이지 않는",
+   "3) 상습적인"
+  ],
+  "etym": "그리스어 khronos(시간) -> khronikos(시간에 관한·오래 끄는) -> 라틴어 chronicus -> 'chronic'. '오랜 시간 끄는'이 핵심. khronos(시간)는 chronic·chronicle(연대기)·chronology(연표)·anachronism(시대착오)·synchronize(동기화)의 뿌리.",
+  "deriv": "khronos(시간) -> 'chronic'. '오래 끄는 -> 만성의(chronic pain, 만성 통증)'. 한국 학습자 핵심: khronos(시간) 갈래 — chronicle(연대기)·chronology(연표)·anachronism(시대착오)·synchronize(동기화)·chronometer(정밀 시계)! 의학 구별: chronic(만성) vs acute(3668, 급성)! a chronic illness(만성 질환), chronic unemployment(만성적 실업), a chronic shortage(고질적 부족). persistent(끈질긴)·long-standing(오래된)·recurrent(재발하는)과 유의어. 반대 acute(급성의)·temporary(3506, 일시적인).",
+  "syn": [
+   "persistent(끈질긴)",
+   "long-standing(오래된)",
+   "recurrent(재발하는)"
+  ],
+  "anti": [
+   "acute(급성의)",
+   "temporary(일시적인)"
+  ],
+  "idiom": [
+   "a chronic illness(만성 질환)",
+   "chronic pain(만성 통증)"
+  ],
+  "colloc": [
+   "chronic disease(만성 질환)",
+   "chronic shortage(고질적 부족)",
+   "chronic unemployment(만성적 실업)"
+  ],
+  "ex_add": "She suffers from chronic back pain.  (chronic=만성의)"
+ },
+ {
+  "num": "3829",
+  "hw": "chunk",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "큰 덩어리 -> '큰 덩어리·토막 / 상당 부분'.",
+  "senses": [
+   "1) (두툼한) 큰 덩어리·토막",
+   "2) 상당한 양·상당 부분(a chunk of)"
+  ],
+  "etym": "chunk는 chuck(덩어리·통나무 토막)의 변형으로 추정. '뭉텅 잘린 큰 덩어리'가 핵심.",
+  "deriv": "chuck(덩어리) -> 'chunk'. '큰 덩어리 -> 토막(a chunk of cheese, 치즈 덩어리)·(a chunk of) 상당 부분(a big chunk of time, 상당한 시간)'. 한국 학습자 핵심: a chunk of(~의 큰 덩어리·상당 부분), a big chunk of(상당한 ~), chunky(두툼한·큼직한), break into chunks(덩어리로 부수다), bite-sized chunks(한입 크기 덩어리). lump(덩어리)·block(덩이)·piece(조각)와 유의어. 반대 sliver(가느다란 조각)·crumb(부스러기).",
+  "syn": [
+   "lump(덩어리)",
+   "block(덩이)",
+   "piece(조각)"
+  ],
+  "anti": [
+   "sliver(가느다란 조각)",
+   "crumb(부스러기)"
+  ],
+  "idiom": [
+   "a chunk of(~의 큰 덩어리)",
+   "a big chunk of(상당한 ~)"
+  ],
+  "colloc": [
+   "a chunk of cheese(치즈 덩어리)",
+   "a large chunk(큰 덩어리)",
+   "chunks of meat(고기 토막)"
+  ],
+  "ex_add": "Rent takes up a big chunk of my salary.  (chunk=상당 부분)"
+ },
+ {
+  "num": "3830",
+  "hw": "circulate",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "둥글게 돌다 -> '순환하다·돌다 / 유포하다·배부하다'.",
+  "senses": [
+   "1) (혈액·공기가) 순환하다·돌다",
+   "2) (소문·정보가) 퍼지다·돌다",
+   "3) 유포하다·배부하다·돌리다"
+  ],
+  "etym": "라틴어 circulus(작은 원, circus 원의 축소형) -> circulare(둥글게 돌다) -> 'circulate'. '원을 그리며 돎'이 핵심. circulus(원)는 circulate·circle(원)·circuit(회로)·circus(서커스)·circumference(둘레)의 뿌리.",
+  "deriv": "circulus(작은 원) -> 'circulate'. '둥글게 돎 -> 순환하다(blood circulates, 피가 순환하다)·유포하다(circulate a rumor, 소문을 퍼뜨리다)'. 한국 학습자 핵심: circ-(원·둘레) 대가족 — circle(원)·circuit(회로)·circus(서커스)·circumference(둘레)·circumstance(상황, 둘레에 선 것)·circulation(3831)! circulate freely(자유롭게 돌다), circulate a document(문서를 회람하다). spread(3439, 퍼지다)·distribute(배부하다)·flow(흐르다)와 유의어. 반대 stagnate(정체되다).",
+  "syn": [
+   "spread(퍼지다)",
+   "distribute(배부하다)",
+   "flow(흐르다)"
+  ],
+  "anti": [
+   "stagnate(정체되다)"
+  ],
+  "idiom": [
+   "circulate freely(자유롭게 돌다)",
+   "circulate a rumor(소문을 퍼뜨리다)"
+  ],
+  "colloc": [
+   "blood circulates(피가 순환하다)",
+   "circulate a document(문서를 회람하다)",
+   "widely circulate(널리 유포되다)"
+  ],
+  "ex_add": "Rumors began to circulate around the office.  (circulate=퍼지다)"
+ },
+ {
+  "num": "3831",
+  "hw": "circulation",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "둥글게 돎 -> '순환 / 유통·발행 부수'.",
+  "senses": [
+   "1) (혈액·공기의) 순환",
+   "2) (화폐·정보의) 유통",
+   "3) (신문·잡지의) 발행 부수"
+  ],
+  "etym": "라틴어 circulus(작은 원) -> circulate(3830)의 명사형. '원을 그리며 돎'이 핵심.",
+  "deriv": "circulate(3830, 순환하다) -> 'circulation'. '둥글게 돎 -> 순환(blood circulation, 혈액 순환)·발행 부수(a daily circulation, 일일 발행 부수)'. 한국 학습자 핵심: circ-(원) 대가족 — circle(원)·circuit(회로)·circus(서커스)·circumference(둘레)·circumstance(상황)·circulate(3830)! poor circulation(혈액 순환 불량), in circulation(유통되고 있는), out of circulation(유통되지 않는), a wide circulation(많은 발행 부수). flow(흐름)·distribution(유통)과 유의어.",
+  "syn": [
+   "flow(흐름)",
+   "distribution(유통)"
+  ],
+  "anti": [
+   "stagnation(정체)"
+  ],
+  "idiom": [
+   "in circulation(유통되고 있는)",
+   "out of circulation(유통되지 않는)"
+  ],
+  "colloc": [
+   "blood circulation(혈액 순환)",
+   "poor circulation(순환 불량)",
+   "daily circulation(일일 발행 부수)"
+  ],
+  "ex_add": "The newspaper has a circulation of two million.  (circulation=발행 부수)"
+ },
+ {
+  "num": "3832",
+  "hw": "citizenship",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "시민의 자격 -> '시민권·국적 / 시민 의식'.",
+  "senses": [
+   "1) 시민권·국적",
+   "2) 시민으로서의 신분·자격",
+   "3) 시민 의식·시민의 도리"
+  ],
+  "etym": "라틴어 civis(시민) -> 고대 프랑스어 citeain -> citizen(시민) + -ship(자격·신분). '시민의 자격'이 핵심. civis(시민)는 citizenship·city(도시)·civic(3833)·civil(시민의)·civilization(문명)의 뿌리.",
+  "deriv": "civis(시민) -> citizen -> 'citizenship'. '시민의 자격 -> 시민권(apply for citizenship, 시민권을 신청하다)'. 한국 학습자 핵심: civis(시민) 대가족 — city(도시)·civic(3833)·civil(시민의·민간의)·civilian(3834)·civilization(문명)·citizen(시민)! -ship(자격·신분) — citizenship·membership(회원 자격)·scholarship(3350)·leadership(지도력)! dual citizenship(이중 국적), grant citizenship(시민권을 부여하다), good citizenship(올바른 시민 의식). nationality(국적)과 유의어.",
+  "syn": [
+   "nationality(국적)"
+  ],
+  "anti": [],
+  "idiom": [
+   "apply for citizenship(시민권을 신청하다)",
+   "dual citizenship(이중 국적)"
+  ],
+  "colloc": [
+   "grant citizenship(시민권을 부여하다)",
+   "dual citizenship(이중 국적)",
+   "obtain citizenship(시민권을 얻다)"
+  ],
+  "ex_add": "She applied for British citizenship.  (citizenship=시민권)"
+ },
+ {
+  "num": "3833",
+  "hw": "civic",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "시민의 -> '시민의·도시의 / 공민의'.",
+  "senses": [
+   "1) 시민의·도시의·자치의",
+   "2) 공민으로서의·시민의 의무에 관한"
+  ],
+  "etym": "라틴어 civis(시민) -> civicus(시민의) -> 'civic'. '시민·도시 공동체에 관한'이 핵심.",
+  "deriv": "civis(시민) -> civicus -> 'civic'. '시민의 -> 시민의(civic duty, 시민의 의무)'. 한국 학습자 핵심: civis(시민) 대가족 — city(도시)·citizen(시민)·citizenship(3832)·civil(시민의)·civilian(3834)·civilization(문명)! civic duty(시민의 의무), civic pride(애향심), a civic center(시민 회관), civic engagement(시민 참여). municipal(지방 자치의)·communal(공동체의)·public(공공의)과 유의어.",
+  "syn": [
+   "municipal(지방 자치의)",
+   "communal(공동체의)",
+   "public(공공의)"
+  ],
+  "anti": [],
+  "idiom": [
+   "civic duty(시민의 의무)",
+   "civic pride(애향심)"
+  ],
+  "colloc": [
+   "civic duty(시민의 의무)",
+   "civic center(시민 회관)",
+   "civic engagement(시민 참여)"
+  ],
+  "ex_add": "Voting is an important civic duty.  (civic=시민의)"
+ },
+ {
+  "num": "3834",
+  "hw": "civilian",
+  "pos": "n., adj.",
+  "cefr": "C1",
+  "core": "시민(군인이 아닌) -> '민간인 / 민간의·비군사적인'.",
+  "senses": [
+   "1) 민간인(군인·경찰이 아닌)",
+   "2) (형용사) 민간의·비군사적인·사복의"
+  ],
+  "etym": "라틴어 civis(시민) -> civilis(시민의) -> civilian. 군인과 대비되는 '일반 시민'이 핵심.",
+  "deriv": "civis(시민) -> civilis -> 'civilian'. '시민(군인이 아닌) -> 민간인(civilian casualties, 민간인 사상자)'. 한국 학습자 핵심: civis(시민) 대가족 — city(도시)·citizen(시민)·citizenship(3832)·civic(3833)·civil(시민의)·civilization(문명)! 군대와 대비 — civilian(민간인) vs military(군인)·soldier(군인). civilian life(민간 생활), civilian clothes(사복), a civilian population(민간인 인구). noncombatant(비전투원)과 유의어. 반대 soldier(군인)·military(군인)·serviceman(군인).",
+  "syn": [
+   "noncombatant(비전투원)",
+   "private citizen(일반 시민)"
+  ],
+  "anti": [
+   "soldier(군인)",
+   "military(군인)",
+   "serviceman(군인)"
+  ],
+  "idiom": [
+   "civilian casualties(민간인 사상자)",
+   "civilian life(민간 생활)"
+  ],
+  "colloc": [
+   "civilian population(민간인 인구)",
+   "civilian clothes(사복)",
+   "innocent civilians(무고한 민간인)"
+  ],
+  "ex_add": "Many civilians were caught in the conflict.  (civilian=민간인)"
+ },
+ {
+  "num": "3835",
+  "hw": "clarity",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "맑고 또렷함 -> '명료성·명확성 / (이미지의) 선명함'.",
+  "senses": [
+   "1) (생각·표현의) 명료성·명확성",
+   "2) (영상·소리의) 선명함·또렷함",
+   "3) (액체의) 투명함"
+  ],
+  "etym": "라틴어 clarus(맑은·밝은·또렷한) -> claritas(밝음) -> 'clarity'. '맑고 또렷함'이 핵심. clarus(맑은)는 clarity·clear(맑은)·clarify(명확히 하다)·declare(선언하다)·clarinet(클라리넷)의 뿌리.",
+  "deriv": "clarus(맑은) -> claritas -> 'clarity'. '맑고 또렷함 -> 명료성(with clarity, 명료하게)'. 한국 학습자 핵심: clarus(맑은·밝은) 갈래 — clear(맑은)·clarify(명확히 하다)·declare(선언하다, 분명히 말하다)·clarion(나팔 소리)·clarinet(클라리넷)! clarity of thought(사고의 명료함), with great clarity(아주 또렷하게), for clarity(명확히 하기 위해). clearness(명료)·lucidity(명료)·transparency(투명)와 유의어. 반대 vagueness(모호함)·obscurity(불명확)·confusion(혼란).",
+  "syn": [
+   "clearness(명료)",
+   "lucidity(명료)",
+   "transparency(투명)"
+  ],
+  "anti": [
+   "vagueness(모호함)",
+   "obscurity(불명확)",
+   "confusion(혼란)"
+  ],
+  "idiom": [
+   "with clarity(명료하게)",
+   "clarity of thought(사고의 명료함)"
+  ],
+  "colloc": [
+   "clarity of thought(사고의 명료함)",
+   "with great clarity(아주 또렷하게)",
+   "image clarity(이미지 선명도)"
+  ],
+  "ex_add": "She explained the plan with great clarity.  (clarity=명료성)"
+ },
+ {
+  "num": "3836",
+  "hw": "clash",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "쨍그랑 부딪침 -> '충돌·격돌 / (의견) 대립 / (색이) 안 어울림'.",
+  "senses": [
+   "1) (사람·세력의) 충돌·격돌·교전",
+   "2) (의견·이해의) 대립·불일치",
+   "3) (색·일정이) 안 어울리다·겹치다; (동사) 부딪치다"
+  ],
+  "etym": "의성어 clash(쨍그랑·철커덕 부딪치는 소리). '맞부딪쳐 쨍그랑 울림'이 핵심.",
+  "deriv": "clash(부딪치는 소리) -> '쨍그랑 부딪침 -> 충돌(a clash of cultures, 문화 충돌)·(의견) 대립·(색이) 안 어울리다'. 한국 학습자 핵심: 의성어 — crash(쾅 충돌)·clash(쨍그랑 격돌)·crack(쩍)·clatter(달가닥)! a clash of opinions(의견 충돌), a personality clash(성격 차이로 인한 갈등), clash with(~과 충돌하다·안 어울리다). 일정이 'clash'=겹치다, 색이 'clash'=안 어울리다. conflict(충돌)·collision(충돌)·confrontation(대치)과 유의어. 반대 agreement(일치)·harmony(조화).",
+  "syn": [
+   "conflict(충돌)",
+   "collision(충돌)",
+   "confrontation(대치)"
+  ],
+  "anti": [
+   "agreement(일치)",
+   "harmony(조화)"
+  ],
+  "idiom": [
+   "a clash of cultures(문화 충돌)",
+   "a personality clash(성격 갈등)"
+  ],
+  "colloc": [
+   "a clash of opinions(의견 충돌)",
+   "violent clash(격렬한 충돌)",
+   "clash with police(경찰과 충돌하다)"
+  ],
+  "ex_add": "There was a violent clash between protesters and police.  (clash=충돌)"
+ },
+ {
+  "num": "3837",
+  "hw": "classification",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "등급별로 나눔 -> '분류·유별 / 분류된 범주·등급'.",
+  "senses": [
+   "1) 분류·유별·구분",
+   "2) 분류된 범주·등급·등급 매김"
+  ],
+  "etym": "라틴어 classis(등급·계급·군대 부대) -> classify(분류하다) + -ication. 로마 시민을 재산 등급으로 나눈 데서. '등급별로 나눔'이 핵심. classis(등급)는 classification·class(학급·계급)·classic(고전의)의 뿌리.",
+  "deriv": "classis(등급) -> classify -> 'classification'. '등급별로 나눔 -> 분류(scientific classification, 과학적 분류)'. 한국 학습자 핵심: classis(등급·계급) 갈래 — class(학급·계급·종류)·classic(고전의·일류의)·classical(고전의)·classify(분류하다)·classified(기밀의·항목별 광고의)! a classification system(분류 체계), age classification(연령 등급). categorization(범주화)·grouping(분류)·grading(등급 매김)과 유의어.",
+  "syn": [
+   "categorization(범주화)",
+   "grouping(분류)",
+   "grading(등급 매김)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a classification system(분류 체계)",
+   "scientific classification(과학적 분류)"
+  ],
+  "colloc": [
+   "classification system(분류 체계)",
+   "age classification(연령 등급)",
+   "scientific classification(과학적 분류)"
+  ],
+  "ex_add": "Scientists use a classification system for animals.  (classification=분류)"
+ },
+ {
+  "num": "3838",
+  "hw": "cling",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "달라붙다 -> '꼭 붙잡다·매달리다 / 집착하다 / 들러붙다'.",
+  "senses": [
+   "1) 꼭 붙잡다·매달리다·달라붙다",
+   "2) (cling to) (생각·습관에) 집착하다·고수하다",
+   "3) (옷·냄새가) 들러붙다·배다"
+  ],
+  "etym": "고대 영어 clingan(달라붙다·오그라들다). 게르만어 계열로 '바짝 들러붙음'이 핵심.",
+  "deriv": "clingan(달라붙다) -> 'cling'. '달라붙음 -> 매달리다(cling to one's mother, 엄마에게 매달리다)·집착하다(cling to hope, 희망을 버리지 않다)'. 한국 학습자 핵심: 불규칙 cling-clung-clung! cling to(~에 매달리다·집착하다), cling film(랩, 영국), clingy(달라붙는·의존적인). 비슷한 '붙다' — cling(매달려 붙다)·stick(달라붙다)·adhere(3670, 부착하다)·grip(꽉 쥐다). grip(꽉 쥐다)·cleave(들러붙다)·hold on(매달리다)과 유의어. 반대 release(놓다)·let go(놓아주다).",
+  "syn": [
+   "grip(꽉 쥐다)",
+   "hold on(매달리다)",
+   "stick(달라붙다)"
+  ],
+  "anti": [
+   "release(놓다)",
+   "let go(놓아주다)"
+  ],
+  "idiom": [
+   "cling to(~에 매달리다)",
+   "cling to hope(희망을 버리지 않다)"
+  ],
+  "colloc": [
+   "cling to power(권력에 집착하다)",
+   "cling tightly(꼭 붙잡다)",
+   "cling to the past(과거에 집착하다)"
+  ],
+  "ex_add": "The frightened child clung to her mother.  (cling=매달리다)"
+ },
+ {
+  "num": "3839",
+  "hw": "clinical",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "병상의 -> '임상의 / (태도가) 냉정한·객관적인'.",
+  "senses": [
+   "1) (의학) 임상의·진료의",
+   "2) (태도가) 냉정한·감정이 배제된·객관적인"
+  ],
+  "etym": "그리스어 kline(침상·병상, klinein 기울다·눕다) -> klinikos(병상의) -> 라틴어 clinicus -> 'clinical'. '병상 곁에서 직접 환자를 보는'이 핵심. klinein(기울다·눕다)은 clinical·clinic(진료소)·recline(눕다)·incline(기울다)·decline(기울다·거절하다)의 뿌리.",
+  "deriv": "kline(병상) -> 'clinical'. '병상의 -> 임상의(clinical trials, 임상 시험, 3547 trial)·(병상처럼 감정 없는) 냉정한(a clinical manner, 사무적인 태도)'. 한국 학습자 핵심: klinein(기울다·눕다) 갈래 — clinic(진료소)·recline(기대 눕다)·incline(기울다·경향)·decline(기울다·감소·거절)·lean(기대다)! clinical trials(임상 시험), clinical depression(임상적 우울증), with clinical precision(냉정하리만치 정확하게). medical(의학의)·detached(거리를 둔)·objective(객관적인)와 유의어. 반대 emotional(감정적인).",
+  "syn": [
+   "medical(의학의)",
+   "detached(거리를 둔)",
+   "objective(객관적인)"
+  ],
+  "anti": [
+   "emotional(감정적인)"
+  ],
+  "idiom": [
+   "clinical trials(임상 시험)",
+   "clinical depression(임상적 우울증)"
+  ],
+  "colloc": [
+   "clinical trials(임상 시험)",
+   "clinical study(임상 연구)",
+   "clinical precision(냉정한 정확성)"
+  ],
+  "ex_add": "The new drug passed its clinical trials.  (clinical=임상의)"
+ },
+ {
+  "num": "3840",
+  "hw": "closure",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "닫음 -> '폐쇄·폐점 / (감정의) 종결·매듭'.",
+  "senses": [
+   "1) (시설·도로의) 폐쇄·폐점·휴업",
+   "2) (마음의) 종결·매듭·정리",
+   "3) (토론의) 종결"
+  ],
+  "etym": "라틴어 claudere(닫다) -> clausura(닫음) -> 'closure'. close(닫다)와 한 뿌리 — '완전히 닫아 마무리함'이 핵심. claudere(닫다)는 closure·close(닫다)·conclude(결론짓다)·include(포함하다)·exclude(배제하다)·disclose(드러내다)의 뿌리.",
+  "deriv": "claudere(닫다) -> close -> 'closure'. '닫음 -> 폐쇄(factory closure, 공장 폐쇄)·(감정의) 종결(find closure, 마음을 정리하다)'. 한국 학습자 핵심: claudere(닫다) 대가족 — close(닫다)·conclude(결론짓다)·include(포함)·exclude(배제)·disclose(드러내다)·enclose(둘러싸다)·seclude(은둔시키다)! 심리 용어 closure(마음의 매듭·응어리 해소)가 빈출! road closure(도로 폐쇄), bring closure(매듭짓다), emotional closure(감정적 정리). shutdown(폐쇄)·conclusion(종결)·ending(끝맺음)과 유의어. 반대 opening(개방).",
+  "syn": [
+   "shutdown(폐쇄)",
+   "conclusion(종결)",
+   "ending(끝맺음)"
+  ],
+  "anti": [
+   "opening(개방)"
+  ],
+  "idiom": [
+   "find closure(마음을 정리하다)",
+   "bring closure(매듭짓다)"
+  ],
+  "colloc": [
+   "factory closure(공장 폐쇄)",
+   "road closure(도로 폐쇄)",
+   "emotional closure(감정적 정리)"
+  ],
+  "ex_add": "The factory closure left hundreds jobless.  (closure=폐쇄)"
+ },
+ {
+  "num": "3841",
+  "hw": "cluster",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "엉겨 모인 덩이 -> '무리·송이·집단 / 무리 짓다'.",
+  "senses": [
+   "1) (한데 모인) 무리·집단·송이",
+   "2) (사건의) 집중 발생·다발",
+   "3) (동사) 무리 짓다·모이다"
+  ],
+  "etym": "고대 영어 clyster(송이·다발). clot(엉긴 덩어리)·clay(점토)와 같은 게르만어 계열로 '엉겨 한데 모임'이 핵심.",
+  "deriv": "clyster(송이) -> 'cluster'. '엉겨 모인 덩이 -> 무리·송이(a cluster of stars, 별 무리·성단)·무리 짓다(cluster together, 한데 모이다)'. 한국 학습자 핵심: clot(엉긴 덩이)·clay(점토)·club(곤봉·동호회)과 같은 cl- 계열(엉김·뭉침)! a cluster of(한 무리의·한 떼의), a cluster of grapes(포도 한 송이), a star cluster(성단), cluster around(~ 주위에 모여들다). group(무리)·bunch(다발)·gather(모이다)와 유의어. 반대 scatter(흩어지다)·disperse(분산되다).",
+  "syn": [
+   "group(무리)",
+   "bunch(다발)",
+   "gather(모이다)"
+  ],
+  "anti": [
+   "scatter(흩어지다)",
+   "disperse(분산되다)"
+  ],
+  "idiom": [
+   "a cluster of(한 무리의)",
+   "cluster around(~ 주위에 모여들다)"
+  ],
+  "colloc": [
+   "a cluster of stars(별 무리)",
+   "cluster together(한데 모이다)",
+   "a cluster of houses(밀집한 집들)"
+  ],
+  "ex_add": "A cluster of tourists gathered around the statue.  (cluster=무리)"
+ }
+]
