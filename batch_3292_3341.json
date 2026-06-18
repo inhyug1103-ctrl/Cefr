@@ -1,0 +1,1592 @@
+[
+ {
+  "num": "3292",
+  "hw": "remark",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "거듭 표시해 짚음 -> '발언·논평 / 언급하다·말하다'.",
+  "senses": [
+   "1) 발언·논평·말",
+   "2) 언급하다·~라고 말하다",
+   "3) (remark on) ~에 대해 언급하다·주목하다"
+  ],
+  "etym": "프랑스어 re(거듭·강조) + marquer(표시하다) -> remarquer(주목하다·짚어 말하다) -> 'remark'. '거듭 표시해 짚어 말함'이 핵심. mark(표시)는 remark·remarkable(3293)·landmark(랜드마크)·trademark(상표)와 같은 뿌리.",
+  "deriv": "re(거듭)+marquer(표시하다) -> 'remark'. '짚어 말함 -> 발언·논평(a rude remark, 무례한 발언)·언급하다(he remarked that..., ~라고 말했다)'. 한국 학습자 핵심: mark(표시) 갈래 — remark·remarkable(3293)·landmark·trademark·benchmark! make a remark(발언하다), pass a remark(한마디 하다), remark on(~에 대해 언급하다). comment(논평)·observation(소견)·note(언급하다)와 유의어.",
+  "syn": [
+   "comment(논평)",
+   "observation(소견)",
+   "note(언급하다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "make a remark(발언하다)",
+   "pass a remark(한마디 하다)",
+   "remark on(~에 대해 언급하다)"
+  ],
+  "colloc": [
+   "rude remark(무례한 발언)",
+   "casual remark(무심한 말)",
+   "opening remarks(개회사)"
+  ],
+  "ex_add": "She made a remark about the weather.  (remark=발언)"
+ },
+ {
+  "num": "3293",
+  "hw": "remarkable",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "거듭 짚어 볼 만한 -> '주목할 만한·놀라운·비범한'.",
+  "senses": [
+   "1) 주목할 만한·놀라운",
+   "2) 비범한·뛰어난·두드러진"
+  ],
+  "etym": "프랑스어 remarquer(주목하다) -> remark(3292) + -able(~할 만한). '거듭 짚어 볼 만한 -> 주목할 가치가 있는'이 핵심.",
+  "deriv": "remark(3292, 짚어 말하다) -> 'remarkable'. '짚어 볼 만한 -> 주목할 만한(a remarkable achievement, 놀라운 업적)·비범한'. 한국 학습자 핵심: mark(표시) 갈래 — remark(3292)·remarkably(3294)·landmark·trademark! -able(~할 만한) — remarkable·comfortable(편안한)·valuable(귀중한). remarkable for(~로 유명한), nothing remarkable(특별할 것 없는). extraordinary(놀라운)·striking(두드러진)·notable(주목할 만한)과 유의어. 반대 ordinary(평범한)·unremarkable(평범한).",
+  "syn": [
+   "extraordinary(놀라운)",
+   "striking(두드러진)",
+   "notable(주목할 만한)"
+  ],
+  "anti": [
+   "ordinary(평범한)",
+   "unremarkable(평범한)"
+  ],
+  "idiom": [
+   "remarkable for(~로 유명한)",
+   "nothing remarkable(특별할 것 없는)"
+  ],
+  "colloc": [
+   "remarkable achievement(놀라운 업적)",
+   "remarkable success(놀라운 성공)",
+   "truly remarkable(정말 놀라운)"
+  ],
+  "ex_add": "She made a remarkable recovery after the accident.  (remarkable=놀라운)"
+ },
+ {
+  "num": "3294",
+  "hw": "remarkably",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "주목할 만큼 -> '놀랍게도·현저히·두드러지게'.",
+  "senses": [
+   "1) 놀랍게도·현저히",
+   "2) 두드러지게·아주"
+  ],
+  "etym": "프랑스어 remarquer(주목하다) -> remarkable(3293) + -ly(부사). '주목할 만큼'이 핵심.",
+  "deriv": "remarkable(3293, 놀라운) -> 'remarkably'. '주목할 만큼 -> 놀랍게도(remarkably good, 놀랍도록 좋은)·현저히'. 한국 학습자 핵심: mark(표시) 갈래 — remark(3292)·remarkable(3293)·landmark! remarkably similar(놀랍도록 비슷한), remarkably well(아주 잘). 문장 전체를 수식하면 '놀랍게도'(=surprisingly). strikingly(두드러지게)·exceptionally(예외적으로)·surprisingly(놀랍게도)와 유의어.",
+  "syn": [
+   "strikingly(두드러지게)",
+   "exceptionally(예외적으로)",
+   "surprisingly(놀랍게도)"
+  ],
+  "anti": [],
+  "idiom": [
+   "remarkably similar(놀랍도록 비슷한)",
+   "remarkably well(아주 잘)"
+  ],
+  "colloc": [
+   "remarkably good(놀랍도록 좋은)",
+   "remarkably consistent(현저히 일관된)",
+   "remarkably few(놀랄 만큼 적은)"
+  ],
+  "ex_add": "The two paintings are remarkably similar.  (remarkably=놀랍도록)"
+ },
+ {
+  "num": "3295",
+  "hw": "reporting",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "도로 가져와 알림 -> '보도·보고'.",
+  "senses": [
+   "1) (언론) 보도·취재",
+   "2) (정보의) 보고·전달"
+  ],
+  "etym": "라틴어 re(도로) + portare(나르다) -> reportare(도로 가져오다) -> report(보고하다) + -ing. '소식을 도로 가져와 알림'이 핵심. portare(나르다)는 report·transport(수송)·export(수출)·import(수입)·portable(휴대용의)의 뿌리.",
+  "deriv": "re(도로)+portare(나르다) -> report -> 'reporting'. '소식을 가져와 알림 -> 보도(news reporting, 뉴스 보도)·보고(financial reporting, 재무 보고)'. 한국 학습자 핵심: portare(나르다) 갈래 — report·transport(수송)·export(수출)·import(수입)·portable(휴대용)·porter(짐꾼)·support(2222 지지)! investigative reporting(탐사 보도), reporting requirements(보고 의무). coverage(보도)·journalism(언론)과 유의어.",
+  "syn": [
+   "coverage(보도)",
+   "journalism(언론)"
+  ],
+  "anti": [],
+  "idiom": [
+   "news reporting(뉴스 보도)",
+   "investigative reporting(탐사 보도)"
+  ],
+  "colloc": [
+   "financial reporting(재무 보고)",
+   "media reporting(언론 보도)",
+   "reporting requirements(보고 의무)"
+  ],
+  "ex_add": "The newspaper won an award for its reporting.  (reporting=보도)"
+ },
+ {
+  "num": "3296",
+  "hw": "representative",
+  "pos": "n., adj.",
+  "cefr": "B2",
+  "core": "대신 내보이는 사람 -> '대표·대리인 / 대표하는·전형적인'.",
+  "senses": [
+   "1) 대표·대리인·대의원",
+   "2) (회사) 영업 사원; (미) 하원 의원",
+   "3) (adj.) 대표하는·전형적인"
+  ],
+  "etym": "라틴어 re(다시·강조) + praesentare(눈앞에 내놓다) -> represent(대표하다·나타내다) + -ative. praesentare는 prae(앞에) + esse(있다). '남을 대신해 앞에 내보이는 사람'이 핵심.",
+  "deriv": "represent(대표하다) -> 'representative'. '대신 내보이는 사람 -> 대표·대리인(a sales representative, 영업 사원)·(adj.) 전형적인(a representative sample, 대표 표본)'. 한국 학습자 핵심: prae(앞)+esse(있다) 갈래 — present(3208 presence)·represent(대표·나타내다)·presentation(발표)! representative of(~을 대표하는·전형적인), House of Representatives(미 하원). delegate(대표)·agent(대리인)·spokesperson(대변인)과 유의어.",
+  "syn": [
+   "delegate(대표)",
+   "agent(대리인)",
+   "spokesperson(대변인)"
+  ],
+  "anti": [],
+  "idiom": [
+   "representative of(~을 대표하는)",
+   "House of Representatives(미 하원)"
+  ],
+  "colloc": [
+   "sales representative(영업 사원)",
+   "elected representative(선출직 대표)",
+   "representative sample(대표 표본)"
+  ],
+  "ex_add": "A union representative spoke on behalf of the workers.  (representative=대표)"
+ },
+ {
+  "num": "3297",
+  "hw": "reputation",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "거듭 따져 매겨진 평 -> '평판·명성·세평'.",
+  "senses": [
+   "1) 평판·세평",
+   "2) (좋은) 명성·신망",
+   "3) (특정한) 이름·정평"
+  ],
+  "etym": "라틴어 re(거듭) + putare(셈하다·따지다·여기다) -> reputare(거듭 따져 보다) -> reputation. '거듭 따져 매긴 평'이 핵심. putare(셈하다·여기다)는 reputation·compute(계산하다)·dispute(논쟁하다)·deputy(대리인)의 뿌리.",
+  "deriv": "re(거듭)+putare(따지다) -> 'reputation'. '거듭 따져 매긴 평 -> 평판(a good reputation, 좋은 평판)·명성'. 한국 학습자 핵심: putare(셈하다·여기다) 갈래 — compute(계산)·dispute(논쟁)·deputy(대리인)·reputable(평판 좋은)·impute(~탓으로 돌리다)! have a reputation for(~로 유명하다), live up to one's reputation(명성에 부응하다), damage one's reputation(평판을 해치다). fame(명성)·standing(지위)·name(평판)과 유의어.",
+  "syn": [
+   "fame(명성)",
+   "standing(지위)",
+   "renown(명성)"
+  ],
+  "anti": [
+   "disgrace(불명예)",
+   "infamy(악명)"
+  ],
+  "idiom": [
+   "have a reputation for(~로 유명하다)",
+   "live up to one's reputation(명성에 부응하다)"
+  ],
+  "colloc": [
+   "good reputation(좋은 평판)",
+   "damage one's reputation(평판을 해치다)",
+   "international reputation(국제적 명성)"
+  ],
+  "ex_add": "The restaurant has a reputation for excellent service.  (reputation=평판)"
+ },
+ {
+  "num": "3298",
+  "hw": "requirement",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "거듭 찾아 구함 -> '필요조건·요건 / 필요한 것'.",
+  "senses": [
+   "1) (충족해야 할) 필요조건·요건·자격",
+   "2) 필요·요구",
+   "3) 필요한 것"
+  ],
+  "etym": "라틴어 re(거듭) + quaerere(찾다·구하다) -> require(요구하다) + -ment. '거듭 찾아 구함 -> 꼭 갖춰야 할 것'이 핵심. quaerere(찾다)는 require·request(요청)·inquire(문의)·acquire(획득)·conquer(정복)·questionnaire(3246)의 뿌리.",
+  "deriv": "re(거듭)+quaerere(찾다) -> require -> 'requirement'. '거듭 구함 -> 꼭 갖춰야 할 것 -> 필요조건(entry requirements, 입학 요건)'. 한국 학습자 핵심: quaerere(찾다·구하다) 갈래 — require·request(요청)·inquire(문의)·acquire(획득)·conquer(정복)·questionnaire(3246)·query(질의)! meet the requirements(요건을 충족하다), legal requirement(법적 요건), minimum requirement(최소 요건). prerequisite(전제 조건)·necessity(필수품)·condition(조건)과 유의어.",
+  "syn": [
+   "prerequisite(전제 조건)",
+   "necessity(필수품)",
+   "condition(조건)"
+  ],
+  "anti": [],
+  "idiom": [
+   "meet the requirements(요건을 충족하다)",
+   "minimum requirement(최소 요건)"
+  ],
+  "colloc": [
+   "entry requirements(입학 요건)",
+   "legal requirement(법적 요건)",
+   "basic requirement(기본 요건)"
+  ],
+  "ex_add": "The job has strict educational requirements.  (requirement=요건)"
+ },
+ {
+  "num": "3299",
+  "hw": "rescue",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "뒤흔들어 떼어 냄 -> '구조하다·구출하다 / 구조'.",
+  "senses": [
+   "1) 구조하다·구출하다·구해 내다",
+   "2) (구조)·구출·구제"
+  ],
+  "etym": "라틴어 re(강조) + ex(밖으로) + quatere(흔들다) -> 고대 프랑스어 rescoure(되찾다·구하다) -> 'rescue'. '뒤흔들어 위험에서 떼어 냄'이 핵심. quatere(흔들다)는 rescue·discuss(논의하다, dis+quatere)·concuss(뇌진탕을 일으키다)와 같은 뿌리.",
+  "deriv": "re+ex(밖)+quatere(흔들다) -> 'rescue'. '흔들어 떼어 냄 -> 위험에서 구해 내다(rescue a child, 아이를 구조하다)'. 한국 학습자 핵심: rescue team(구조대), rescue operation(구조 작전), come to the rescue(구하러 오다), air rescue(항공 구조). save(구하다)·free(풀어 주다)·deliver(구출하다)와 유의어. 반대 abandon(2347, 버리다)·endanger(위태롭게 하다).",
+  "syn": [
+   "save(구하다)",
+   "free(풀어 주다)",
+   "deliver(구출하다)"
+  ],
+  "anti": [
+   "abandon(버리다)",
+   "endanger(위태롭게 하다)"
+  ],
+  "idiom": [
+   "come to the rescue(구하러 오다)",
+   "rescue operation(구조 작전)"
+  ],
+  "colloc": [
+   "rescue team(구조대)",
+   "rescue workers(구조대원)",
+   "dramatic rescue(극적인 구조)"
+  ],
+  "ex_add": "Firefighters rescued the family from the burning house.  (rescue=구조하다)"
+ },
+ {
+  "num": "3300",
+  "hw": "reserve",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "도로 간직해 둠 -> '비축·예약하다 / 보호 구역 / 신중함'.",
+  "senses": [
+   "1) 비축(물)·예비; 따로 떼어 두다",
+   "2) 예약하다·잡아 두다",
+   "3) (자연·동물) 보호 구역; (성격) 신중함·삼감"
+  ],
+  "etym": "라틴어 re(도로) + servare(지키다·간직하다) -> reservare(따로 간직해 두다) -> 'reserve'. '도로 챙겨 간직해 둠'이 핵심. servare(지키다)는 reserve·preserve(3209)·conserve(보존하다)·observe(관찰하다)·serve의 뿌리.",
+  "deriv": "re(도로)+servare(지키다) -> 'reserve'. '간직해 둠 -> 비축(reserves of oil, 석유 매장량)·예약하다(reserve a table, 자리를 예약하다)·보호 구역(nature reserve, 자연 보호 구역)·(자신을 안으로 간직 ->) 신중함'. 한국 학습자 핵심: servare(지키다) 갈래 — preserve(3209)·conserve(보존)·observe(관찰)·serve(섬기다)·reservoir(저수지)! in reserve(예비로), without reserve(거리낌 없이), reserve judgment(판단을 보류하다). book(예약하다)·stockpile(비축)와 유의어.",
+  "syn": [
+   "book(예약하다)",
+   "stockpile(비축)",
+   "set aside(따로 두다)"
+  ],
+  "anti": [
+   "use up(다 써 버리다)"
+  ],
+  "idiom": [
+   "in reserve(예비로)",
+   "without reserve(거리낌 없이)",
+   "reserve judgment(판단을 보류하다)"
+  ],
+  "colloc": [
+   "nature reserve(자연 보호 구역)",
+   "reserve a table(자리를 예약하다)",
+   "cash reserves(현금 보유고)"
+  ],
+  "ex_add": "I'd like to reserve a room for two nights.  (reserve=예약하다)"
+ },
+ {
+  "num": "3301",
+  "hw": "resident",
+  "pos": "n., adj.",
+  "cefr": "B2",
+  "core": "눌러앉아 있는 사람 -> '거주자·주민 / 거주하는'.",
+  "senses": [
+   "1) 거주자·주민·입주자",
+   "2) (병원) 전공의·레지던트",
+   "3) (adj.) 거주하는·상주하는"
+  ],
+  "etym": "라틴어 re(뒤에·계속) + sedere(앉다) -> residere(눌러앉아 있다) -> 'resident'. '한곳에 계속 앉아 있는 사람'이 핵심. sedere(앉다)는 resident·reside(거주하다)·president(3210 presidential)·session(회기)·sediment(침전물)의 뿌리.",
+  "deriv": "re(계속)+sedere(앉다) -> 'resident'. '눌러앉아 있는 사람 -> 거주자(local residents, 지역 주민)·(adj.) 상주하는'. 한국 학습자 핵심: sedere(앉다) 갈래 — reside(거주)·president(3210)·session(회기)·sediment(침전)·sedentary(앉아 있는)·subside(가라앉다)! permanent resident(영주권자), resident population(상주 인구). inhabitant(거주민)·occupant(점유자)·dweller(거주자)와 유의어. 반대 visitor(방문객)·nonresident(비거주자).",
+  "syn": [
+   "inhabitant(거주민)",
+   "occupant(점유자)",
+   "dweller(거주자)"
+  ],
+  "anti": [
+   "visitor(방문객)",
+   "nonresident(비거주자)"
+  ],
+  "idiom": [
+   "permanent resident(영주권자)",
+   "resident population(상주 인구)"
+  ],
+  "colloc": [
+   "local resident(지역 주민)",
+   "long-term resident(장기 거주자)",
+   "resident of the city(그 도시의 주민)"
+  ],
+  "ex_add": "Local residents protested against the new airport.  (resident=주민)"
+ },
+ {
+  "num": "3302",
+  "hw": "resign",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "도로 서명해 내려놓다 -> '사임하다·사퇴하다 / 체념하다'.",
+  "senses": [
+   "1) 사임하다·사직하다·물러나다",
+   "2) (resign oneself to) 체념하고 받아들이다"
+  ],
+  "etym": "라틴어 re(도로) + signare(서명하다·봉인하다) -> resignare(도로 내주다·취소하다) -> 'resign'. '서명해 권리를 도로 내놓음'이 핵심. signare(서명·표시)는 resign·sign(표시)·signal(신호)·designate(지정하다)·signature(서명)의 뿌리.",
+  "deriv": "re(도로)+signare(서명하다) -> 'resign'. '도로 내놓음 -> 자리를 내려놓다 -> 사임하다(resign from office, 사임하다)·(마음을 내려놓고) 체념하다(resign oneself to fate, 운명에 체념하다)'. 한국 학습자 핵심: signare(표시·서명) 갈래 — sign(표시)·signal(신호)·designate(지정)·signature(서명)·assign(할당)·resignation(사직)! resign from(~에서 사임하다), be resigned to(~을 체념하고 받아들이다). quit(그만두다)·step down(물러나다)과 유의어. 반대 stay(머무르다)·take office(취임하다).",
+  "syn": [
+   "quit(그만두다)",
+   "step down(물러나다)",
+   "abdicate(퇴위하다)"
+  ],
+  "anti": [
+   "stay(머무르다)",
+   "take office(취임하다)"
+  ],
+  "idiom": [
+   "resign from(~에서 사임하다)",
+   "be resigned to(~을 체념하고 받아들이다)"
+  ],
+  "colloc": [
+   "resign as CEO(CEO직에서 사임하다)",
+   "forced to resign(사임을 강요받다)",
+   "resign in protest(항의하여 사임하다)"
+  ],
+  "ex_add": "The minister was forced to resign over the scandal.  (resign=사임하다)"
+ },
+ {
+  "num": "3303",
+  "hw": "resist",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "맞서 버티고 서다 -> '저항하다·반대하다 / 견디다·참다'.",
+  "senses": [
+   "1) 저항하다·반항하다·맞서다",
+   "2) (변화·압력에) 버티다·견디다",
+   "3) (유혹을) 참다·억누르다"
+  ],
+  "etym": "라틴어 re(맞서·다시) + sistere(서다·세우다) -> resistere(맞서 버티고 서다) -> 'resist'. '맞서서 버티고 섬'이 핵심. sistere(서다)는 resist·insist(주장하다)·consist(이루어지다)·persist(고집하다)·assist(돕다)의 뿌리.",
+  "deriv": "re(맞서)+sistere(서다) -> 'resist'. '맞서 버팀 -> 저항하다(resist change, 변화에 저항하다)·(유혹을) 참다(resist temptation, 유혹을 참다)'. 한국 학습자 핵심: sistere(서다) 갈래 — insist(주장)·consist(구성)·persist(고집)·assist(돕다)·exist(존재)·resistance(저항)! can't resist(참을 수 없다), resist the urge(충동을 억누르다). oppose(반대하다)·withstand(견디다)·defy(거역하다)와 유의어. 반대 surrender(항복하다)·yield(굴복하다)·give in(굴복하다).",
+  "syn": [
+   "oppose(반대하다)",
+   "withstand(견디다)",
+   "defy(거역하다)"
+  ],
+  "anti": [
+   "surrender(항복하다)",
+   "yield(굴복하다)",
+   "give in(굴복하다)"
+  ],
+  "idiom": [
+   "can't resist(참을 수 없다)",
+   "resist the urge(충동을 억누르다)"
+  ],
+  "colloc": [
+   "resist change(변화에 저항하다)",
+   "resist temptation(유혹을 참다)",
+   "resist pressure(압력에 맞서다)"
+  ],
+  "ex_add": "I couldn't resist buying those shoes.  (resist=참다)"
+ },
+ {
+  "num": "3304",
+  "hw": "resolution",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "풀어냄 -> '결의·다짐 / 해결 / 해상도'.",
+  "senses": [
+   "1) 결심·다짐(new year's resolution)",
+   "2) (공식) 결의·결의안",
+   "3) (문제의) 해결; (화면의) 해상도"
+  ],
+  "etym": "라틴어 re(완전히) + solvere(풀다·느슨하게 하다) -> resolvere(풀어내다) -> resolution. '얽힌 것을 풀어냄'이 핵심. solvere(풀다)는 resolution·resolve(3305)·solve(풀다)·dissolve(녹이다)·solution(해법)의 뿌리.",
+  "deriv": "re(완전히)+solvere(풀다) -> 'resolution'. '풀어냄 -> (마음을 정해) 결심·다짐·(회의의) 결의안·(문제의) 해결·(상이) 또렷이 풀려 나옴 -> 해상도'. 한국 학습자 핵심: solvere(풀다) 갈래 — resolve(3305)·solve(풀다)·dissolve(녹이다)·solution(해법)·solvent(용제)·absolve(면죄하다)! new year's resolution(새해 결심), pass a resolution(결의안을 통과시키다), high resolution(고해상도). determination(결심)·settlement(해결)과 유의어.",
+  "syn": [
+   "determination(결심)",
+   "settlement(해결)",
+   "decision(결정)"
+  ],
+  "anti": [],
+  "idiom": [
+   "new year's resolution(새해 결심)",
+   "pass a resolution(결의안을 통과시키다)"
+  ],
+  "colloc": [
+   "high resolution(고해상도)",
+   "peaceful resolution(평화적 해결)",
+   "make a resolution(결심하다)"
+  ],
+  "ex_add": "My new year's resolution is to exercise more.  (resolution=결심)"
+ },
+ {
+  "num": "3305",
+  "hw": "resolve",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "완전히 풀어내다 -> '해결하다 / 결심하다 / 결의하다'.",
+  "senses": [
+   "1) (문제·갈등을) 해결하다·풀다",
+   "2) 결심하다·다짐하다",
+   "3) (회의에서) 결의하다·의결하다"
+  ],
+  "etym": "라틴어 re(완전히) + solvere(풀다) -> resolvere(풀어내다) -> 'resolve'. '얽힌 것을 완전히 풀어냄'이 핵심.",
+  "deriv": "re(완전히)+solvere(풀다) -> 'resolve'. '완전히 풀어냄 -> (문제를) 해결하다(resolve a dispute, 분쟁을 해결하다)·(마음을 정해) 결심하다(resolve to do, ~하기로 결심하다)'. 한국 학습자 핵심: solvere(풀다) 갈래 — resolution(3304)·solve(풀다)·dissolve(녹이다)·solution(해법)·absolve(면죄)! resolve to do(~하기로 결심하다), resolve a conflict(갈등을 해결하다). settle(해결하다)·determine(결심하다)·solve(풀다)와 유의어. 반대 complicate(복잡하게 하다)·aggravate(악화시키다).",
+  "syn": [
+   "settle(해결하다)",
+   "determine(결심하다)",
+   "solve(풀다)"
+  ],
+  "anti": [
+   "complicate(복잡하게 하다)",
+   "aggravate(악화시키다)"
+  ],
+  "idiom": [
+   "resolve to do(~하기로 결심하다)",
+   "resolve a conflict(갈등을 해결하다)"
+  ],
+  "colloc": [
+   "resolve a dispute(분쟁을 해결하다)",
+   "resolve an issue(문제를 해결하다)",
+   "firmly resolve(굳게 결심하다)"
+  ],
+  "ex_add": "The two sides finally resolved their differences.  (resolve=해결하다)"
+ },
+ {
+  "num": "3306",
+  "hw": "resort",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "거듭 나가 의지함 -> '휴양지·리조트 / 의지·수단'.",
+  "senses": [
+   "1) 휴양지·리조트",
+   "2) (의지하는) 수단·방책",
+   "3) (resort to) ~에 의지하다·호소하다"
+  ],
+  "etym": "고대 프랑스어 re(다시) + sortir(나가다) -> resortir(자주 드나들다·의지하러 가다) -> 'resort'. '거듭 찾아가 의지하는 곳'이 핵심.",
+  "deriv": "re(다시)+sortir(나가다) -> 'resort'. '거듭 찾아감 -> (사람이 모이는) 휴양지(a ski resort, 스키장)·(찾아가 기댈) 수단(a last resort, 최후의 수단)·의지하다(resort to violence, 폭력에 호소하다)'. 한국 학습자 핵심: as a last resort(최후의 수단으로), resort to(~에 의지하다·호소하다, 보통 나쁜 수단). holiday resort(휴양지), seaside resort(해변 휴양지). retreat(휴양지)·recourse(의지)와 유의어.",
+  "syn": [
+   "retreat(휴양지)",
+   "recourse(의지)",
+   "spa(온천 휴양지)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a last resort(최후의 수단)",
+   "resort to(~에 의지하다)",
+   "as a last resort(최후의 수단으로)"
+  ],
+  "colloc": [
+   "ski resort(스키 리조트)",
+   "holiday resort(휴양지)",
+   "seaside resort(해변 휴양지)"
+  ],
+  "ex_add": "Violence should only be a last resort.  (resort=수단)"
+ },
+ {
+  "num": "3307",
+  "hw": "restore",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "도로 세워 두다 -> '복원하다·회복시키다 / 반환하다'.",
+  "senses": [
+   "1) (원상태로) 복원하다·복구하다",
+   "2) (질서·신뢰를) 회복시키다",
+   "3) (지위·물건을) 되돌려주다·반환하다"
+  ],
+  "etym": "라틴어 re(다시) + staurare(세우다·갖추다) -> restaurare(다시 세우다) -> 'restore'. '도로 세워 갖춤'이 핵심. staurare(세우다)는 restore·restaurant(식당, 기력을 회복시키는 곳)·store(저장하다)와 관련.",
+  "deriv": "re(다시)+staurare(세우다) -> 'restore'. '도로 세움 -> 복원하다(restore a painting, 그림을 복원하다)·(질서를) 회복시키다(restore order, 질서를 회복하다)'. 한국 학습자 핵심: restaurant(식당)도 같은 뿌리(기운을 '회복시키는' 곳)! restore order(질서를 회복하다), restore confidence(신뢰를 회복시키다), restore to power(권좌에 복귀시키다). repair(수리하다)·renovate(개조하다)·reinstate(복직시키다)와 유의어. 반대 damage(손상시키다)·destroy(파괴하다).",
+  "syn": [
+   "repair(수리하다)",
+   "renovate(개조하다)",
+   "reinstate(복직시키다)"
+  ],
+  "anti": [
+   "damage(손상시키다)",
+   "destroy(파괴하다)"
+  ],
+  "idiom": [
+   "restore order(질서를 회복하다)",
+   "restore confidence(신뢰를 회복시키다)"
+  ],
+  "colloc": [
+   "restore a building(건물을 복원하다)",
+   "restore power(전력을 복구하다)",
+   "fully restore(완전히 복원하다)"
+  ],
+  "ex_add": "Experts spent years restoring the old castle.  (restore=복원하다)"
+ },
+ {
+  "num": "3308",
+  "hw": "restrict",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "도로 바짝 죄다 -> '제한하다·한정하다'.",
+  "senses": [
+   "1) (양·범위를) 제한하다·한정하다",
+   "2) (자유·활동을) 구속하다·억제하다"
+  ],
+  "etym": "라틴어 re(도로·강조) + stringere(바짝 죄다·당기다) -> restringere(바짝 죄다) -> 'restrict'. '도로 바짝 죄어 줄임'이 핵심. stringere(죄다)는 restrict·strict(엄격한)·strain(긴장)·constrain(제약하다)·stringent(엄격한)의 뿌리.",
+  "deriv": "re+stringere(죄다) -> 'restrict'. '바짝 죔 -> 제한하다(restrict access, 접근을 제한하다)'. 한국 학습자 핵심: stringere(죄다) 갈래 — strict(엄격한)·strain(긴장)·constrain(제약)·stringent(엄격한)·restriction(3309)·restraint(억제)! restrict to(~로 한정하다), restricted area(제한 구역). limit(제한하다)·confine(가두다)·curb(억제하다)와 유의어. 반대 allow(허용하다)·permit(3166, 허용하다)·free(풀어 주다).",
+  "syn": [
+   "limit(제한하다)",
+   "confine(가두다)",
+   "curb(억제하다)"
+  ],
+  "anti": [
+   "allow(허용하다)",
+   "permit(허용하다)",
+   "free(풀어 주다)"
+  ],
+  "idiom": [
+   "restrict to(~로 한정하다)",
+   "restricted area(제한 구역)"
+  ],
+  "colloc": [
+   "restrict access(접근을 제한하다)",
+   "severely restrict(심하게 제한하다)",
+   "restrict movement(이동을 제한하다)"
+  ],
+  "ex_add": "The new law restricts the sale of fireworks.  (restrict=제한하다)"
+ },
+ {
+  "num": "3309",
+  "hw": "restriction",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "바짝 죔 -> '제한·규제·제약'.",
+  "senses": [
+   "1) 제한·규제",
+   "2) 제약·구속·통제"
+  ],
+  "etym": "라틴어 re + stringere(죄다) -> restrict(3308)의 명사형. '바짝 죄어 제한함'이 핵심.",
+  "deriv": "restrict(3308, 제한하다) -> 'restriction'. '바짝 죔 -> 제한(travel restrictions, 여행 제한)·규제'. 한국 학습자 핵심: stringere(죄다) 갈래 — strict(엄격한)·strain(긴장)·constrain(제약)·restrict(3308)·stringent(엄격한)! place restrictions on(~에 제한을 두다), without restriction(제한 없이). limitation(제한)·constraint(제약)·control(통제)과 유의어. 반대 freedom(자유)·permission(허가).",
+  "syn": [
+   "limitation(제한)",
+   "constraint(제약)",
+   "control(통제)"
+  ],
+  "anti": [
+   "freedom(자유)",
+   "permission(허가)"
+  ],
+  "idiom": [
+   "place restrictions on(~에 제한을 두다)",
+   "without restriction(제한 없이)"
+  ],
+  "colloc": [
+   "travel restrictions(여행 제한)",
+   "import restrictions(수입 규제)",
+   "lift restrictions(제한을 풀다)"
+  ],
+  "ex_add": "There are strict restrictions on smoking in public places.  (restriction=제한)"
+ },
+ {
+  "num": "3310",
+  "hw": "retail",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "잘게 잘라 팖 -> '소매·소매업'.",
+  "senses": [
+   "1) 소매·소매업",
+   "2) (adj./adv.) 소매의·소매로",
+   "3) (동사) 소매하다·소매로 팔리다"
+  ],
+  "etym": "고대 프랑스어 retaillier(잘게 자르다) -> re(다시) + tailler(자르다) -> 'retail'. '크게 들여와 잘게 잘라 파는 것'이 핵심. tailler(자르다)는 retail·tailor(재단사)·detail(2562 세부)·entail(수반하다)의 뿌리.",
+  "deriv": "re(다시)+tailler(자르다) -> 'retail'. '잘게 잘라 팖 -> 소매(retail price, 소매가)'. 한국 학습자 핵심: tailler(자르다) 갈래 — tailor(재단사)·detail(세부)·entail(수반하다)·curtail(축소하다)! retail vs wholesale(도매) — retail=낱개 소비자 판매, wholesale=대량 도매. retail price(소매가), retail store(소매점), retail therapy(쇼핑으로 기분 전환). 반대 wholesale(도매).",
+  "syn": [
+   "selling(판매)",
+   "marketing(판매)"
+  ],
+  "anti": [
+   "wholesale(도매)"
+  ],
+  "idiom": [
+   "retail price(소매가)",
+   "retail therapy(쇼핑으로 기분 전환)"
+  ],
+  "colloc": [
+   "retail store(소매점)",
+   "retail sales(소매 판매)",
+   "retail industry(소매업)"
+  ],
+  "ex_add": "The recommended retail price is fifty dollars.  (retail=소매)"
+ },
+ {
+  "num": "3311",
+  "hw": "retain",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "도로 붙들어 두다 -> '유지하다·보유하다 / 간직하다'.",
+  "senses": [
+   "1) 계속 유지하다·보유하다",
+   "2) (기억·열을) 간직하다·담아 두다",
+   "3) (변호사를) 고용해 두다"
+  ],
+  "etym": "라틴어 re(도로) + tenere(잡다·붙들다) -> retinere(붙들어 두다) -> 'retain'. '도로 꽉 붙들어 둠'이 핵심. tenere(잡다)는 retain·contain(담다)·maintain(유지하다)·obtain(얻다)·sustain(2236 지탱하다)의 뿌리.",
+  "deriv": "re(도로)+tenere(잡다) -> 'retain'. '붙들어 둠 -> 유지하다(retain control, 통제권을 유지하다)·간직하다(retain heat, 열을 보존하다)'. 한국 학습자 핵심: tenere(잡다·붙들다) 갈래 — contain(담다)·maintain(유지)·obtain(얻다)·sustain(2236 지탱)·detain(억류)·retention(보유)! retain water(수분을 머금다), retain information(정보를 기억하다). keep(유지하다)·hold(잡고 있다)·preserve(3209, 보존하다)와 유의어. 반대 lose(잃다)·release(놓아주다).",
+  "syn": [
+   "keep(유지하다)",
+   "hold(잡고 있다)",
+   "preserve(보존하다)"
+  ],
+  "anti": [
+   "lose(잃다)",
+   "release(놓아주다)"
+  ],
+  "idiom": [
+   "retain control(통제권을 유지하다)",
+   "retain heat(열을 보존하다)"
+  ],
+  "colloc": [
+   "retain information(정보를 기억하다)",
+   "retain customers(고객을 유지하다)",
+   "retain its value(가치를 유지하다)"
+  ],
+  "ex_add": "The company struggles to retain skilled workers.  (retain=유지하다)"
+ },
+ {
+  "num": "3312",
+  "hw": "retirement",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "뒤로 물러남 -> '은퇴·퇴직'.",
+  "senses": [
+   "1) 은퇴·퇴직",
+   "2) 은퇴 후의 시기",
+   "3) 칩거·은둔"
+  ],
+  "etym": "프랑스어 re(뒤로) + tirer(끌다·당기다) -> retirer(뒤로 물러나다) -> retire(은퇴하다) + -ment. '일선에서 뒤로 물러남'이 핵심.",
+  "deriv": "re(뒤로)+tirer(끌다) -> retire(은퇴하다) -> 'retirement'. '뒤로 물러남 -> 은퇴(early retirement, 조기 은퇴)'. 한국 학습자 핵심: tirer(끌다) 갈래 — retire·tirade(긴 비난). go into retirement(은퇴하다), retirement age(정년), retirement plan(퇴직 연금). 주의: retire(은퇴하다)와 tired(피곤한)는 무관! resignation(사직)과 비교: retirement=정년·노령 은퇴, resign(3302)=중도 사임. 반대 employment(고용)·work(근로).",
+  "syn": [
+   "withdrawal(물러남)"
+  ],
+  "anti": [
+   "employment(고용)",
+   "work(근로)"
+  ],
+  "idiom": [
+   "go into retirement(은퇴하다)",
+   "early retirement(조기 은퇴)"
+  ],
+  "colloc": [
+   "retirement age(정년)",
+   "retirement plan(퇴직 연금)",
+   "take early retirement(조기 은퇴하다)"
+  ],
+  "ex_add": "He is looking forward to his retirement next year.  (retirement=은퇴)"
+ },
+ {
+  "num": "3313",
+  "hw": "reveal",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "베일을 도로 걷다 -> '드러내다·밝히다 / 폭로하다'.",
+  "senses": [
+   "1) (숨겨진 것을) 드러내다·보이다",
+   "2) (사실을) 밝히다·털어놓다",
+   "3) 폭로하다·누설하다"
+  ],
+  "etym": "라틴어 re(도로) + velare(베일로 가리다, velum=베일) -> revelare(베일을 걷다) -> 'reveal'. '덮개를 도로 걷어 드러냄'이 핵심. velare(가리다)는 reveal·veil(베일)·revelation(폭로·계시)과 같은 뿌리.",
+  "deriv": "re(도로)+velare(가리다) -> 'reveal'. '베일을 걷음 -> 드러내다(reveal a secret, 비밀을 밝히다)'. 한국 학습자 핵심: velum(베일) 갈래 — veil(베일)·revelation(폭로·계시)·unveil(베일을 벗기다·공개하다)! reveal that절(~을 밝히다), reveal itself(드러나다). disclose(공개하다)·expose(폭로하다)·uncover(밝혀내다)와 유의어. 반대 conceal(2496, 숨기다)·hide(감추다)·cover up(은폐하다).",
+  "syn": [
+   "disclose(공개하다)",
+   "expose(폭로하다)",
+   "uncover(밝혀내다)"
+  ],
+  "anti": [
+   "conceal(숨기다)",
+   "hide(감추다)",
+   "cover up(은폐하다)"
+  ],
+  "idiom": [
+   "reveal a secret(비밀을 밝히다)",
+   "reveal the truth(진실을 밝히다)"
+  ],
+  "colloc": [
+   "reveal details(세부 사항을 밝히다)",
+   "reveal identity(정체를 드러내다)",
+   "studies reveal(연구가 밝히다)"
+  ],
+  "ex_add": "The survey revealed surprising results.  (reveal=드러내다)"
+ },
+ {
+  "num": "3314",
+  "hw": "revenue",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "도로 들어오는 것 -> '수입·세입·매출'.",
+  "senses": [
+   "1) (정부의) 세입·수입",
+   "2) (기업의) 총수입·매출",
+   "3) 수익원"
+  ],
+  "etym": "라틴어 re(도로) + venire(오다) -> revenir(되돌아오다) -> 프랑스어 revenue(되돌아온 것). '도로 들어오는 돈'이 핵심. venire(오다)는 revenue·avenue(가로수길)·event(2647 사건)·prevent(막다)·convene(소집하다)의 뿌리.",
+  "deriv": "re(도로)+venire(오다) -> 'revenue'. '도로 들어오는 것 -> 수입·세입(tax revenue, 세수)·매출(annual revenue, 연 매출)'. 한국 학습자 핵심: venire(오다) 갈래 — avenue(가로수길)·event(사건)·prevent(막다)·convene(소집)·invent(발명)·income(소득)! 주의: revenue(매출 총액) vs profit(이익=매출-비용) 구별! tax revenue(세수), generate revenue(수익을 창출하다). income(수입)·earnings(수익)·proceeds(수익금)와 유의어. 반대 expenditure(지출)·expense(비용).",
+  "syn": [
+   "income(수입)",
+   "earnings(수익)",
+   "proceeds(수익금)"
+  ],
+  "anti": [
+   "expenditure(지출)",
+   "expense(비용)"
+  ],
+  "idiom": [
+   "tax revenue(세수)",
+   "generate revenue(수익을 창출하다)"
+  ],
+  "colloc": [
+   "annual revenue(연 매출)",
+   "advertising revenue(광고 수익)",
+   "total revenue(총수입)"
+  ],
+  "ex_add": "The company's revenue grew by ten percent.  (revenue=매출)"
+ },
+ {
+  "num": "3315",
+  "hw": "revision",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "다시 봄 -> '수정·개정 / (영) 복습'.",
+  "senses": [
+   "1) 수정·개정·교정",
+   "2) (영) 시험 복습",
+   "3) 변경·재검토"
+  ],
+  "etym": "라틴어 re(다시) + videre(보다) -> revidere(다시 보다) -> revise(개정하다)의 명사형. '다시 보아 고침'이 핵심. videre(보다)는 revision·vision(시야)·view(전망)·evident(명백한)·provide(제공하다)·supervise(감독하다)의 뿌리.",
+  "deriv": "re(다시)+videre(보다) -> revise -> 'revision'. '다시 봄 -> (글·계획을) 수정·개정(make revisions, 수정하다)·(영) 다시 봄 -> 시험 복습(do revision, 복습하다)'. 한국 학습자 핵심: videre(보다) 갈래 — vision(시야)·view(전망)·evident(명백)·provide(제공)·supervise(감독)·revise(개정)·visible(보이는)! 영국 영어에서 revision=시험 복습(=review). make revisions(수정하다), revision of the law(법 개정). amendment(개정)·correction(수정)·review(검토)와 유의어.",
+  "syn": [
+   "amendment(개정)",
+   "correction(수정)",
+   "review(검토)"
+  ],
+  "anti": [],
+  "idiom": [
+   "make revisions(수정하다)",
+   "do revision(복습하다)"
+  ],
+  "colloc": [
+   "major revision(대폭 수정)",
+   "revision of the law(법 개정)",
+   "exam revision(시험 복습)"
+  ],
+  "ex_add": "The essay needs some revision before submission.  (revision=수정)"
+ },
+ {
+  "num": "3316",
+  "hw": "revolution",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "굴러 돌아감 -> '혁명·대변혁 / 회전'.",
+  "senses": [
+   "1) (정치적) 혁명",
+   "2) (큰) 대변혁·획기적 변화",
+   "3) (천체·바퀴의) 회전·공전"
+  ],
+  "etym": "라틴어 re(다시) + volvere(구르다·돌다) -> revolvere(굴러 돌아오다) -> revolution. '한 바퀴 굴러 돎 -> 판이 뒤집힘'이 핵심. volvere(구르다)는 revolution·revolve(회전하다)·evolve(진화하다)·involve(2693 포함하다)·volume(부피)의 뿌리.",
+  "deriv": "re(다시)+volvere(구르다) -> 'revolution'. '굴러 돌아감 -> (천체의) 공전·(체제가 뒤집힘 ->) 혁명(the French Revolution, 프랑스 혁명)·대변혁(the digital revolution, 디지털 혁명)'. 한국 학습자 핵심: volvere(구르다) 갈래 — revolve(회전)·evolve(진화)·involve(2693 포함)·volume(부피)·revolt(반란)! industrial revolution(산업 혁명), spark a revolution(혁명을 일으키다). uprising(봉기)·upheaval(격변)·rotation(회전)과 유의어.",
+  "syn": [
+   "uprising(봉기)",
+   "upheaval(격변)",
+   "rotation(회전)"
+  ],
+  "anti": [],
+  "idiom": [
+   "spark a revolution(혁명을 일으키다)",
+   "industrial revolution(산업 혁명)"
+  ],
+  "colloc": [
+   "French Revolution(프랑스 혁명)",
+   "digital revolution(디지털 혁명)",
+   "lead a revolution(혁명을 이끌다)"
+  ],
+  "ex_add": "The internet caused a revolution in communication.  (revolution=대변혁)"
+ },
+ {
+  "num": "3317",
+  "hw": "reward",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "지켜본 데 대한 보답 -> '보상·보답·현상금 / 보상하다'.",
+  "senses": [
+   "1) 보상·보답·사례",
+   "2) 현상금·포상금",
+   "3) 보상하다·보답하다"
+  ],
+  "etym": "고대 노르만 프랑스어 rewarder(주의 깊게 보다·보살피다) -> re(다시) + warder(지켜보다). regard(3278)와 같은 뿌리(garder=지켜보다). '잘 지켜본 데 대한 보답'이 핵심.",
+  "deriv": "re+warder(지켜보다) -> 'reward'. '지켜본 데 대한 보답 -> 보상(a reward for hard work, 노고에 대한 보상)·현상금(offer a reward, 현상금을 걸다)'. 한국 학습자 핵심: garder/warder(지켜보다) 갈래 — regard(3278)·guard(경비)·guarantee(보증)·ward(병동·보호)·warden(관리인)! reward A for B(B에 대해 A에게 보상하다), reap the rewards(보상을 거두다). prize(상)·bonus(상여금)·compensation(보상)과 유의어. 반대 punishment(처벌)·penalty(3163, 벌칙).",
+  "syn": [
+   "prize(상)",
+   "bonus(상여금)",
+   "compensation(보상)"
+  ],
+  "anti": [
+   "punishment(처벌)",
+   "penalty(벌칙)"
+  ],
+  "idiom": [
+   "offer a reward(현상금을 걸다)",
+   "reap the rewards(보상을 거두다)"
+  ],
+  "colloc": [
+   "financial reward(금전적 보상)",
+   "reward for effort(노력에 대한 보상)",
+   "well rewarded(충분히 보상받은)"
+  ],
+  "ex_add": "He was given a reward for returning the lost wallet.  (reward=보상)"
+ },
+ {
+  "num": "3318",
+  "hw": "rhythm",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "흐름 -> '리듬·율동 / 규칙적 반복'.",
+  "senses": [
+   "1) (음악의) 리듬·박자",
+   "2) 율동·운율",
+   "3) (규칙적인) 흐름·주기"
+  ],
+  "etym": "그리스어 rhythmos(흐름·규칙적 운동, rhein=흐르다) -> 라틴어 rhythmus -> 'rhythm'. '규칙적으로 되풀이되는 흐름'이 핵심. rhein(흐르다)은 rhythm·rheum(점액)·diarrhea(설사)와 같은 뿌리.",
+  "deriv": "rhythmos(흐름) -> 'rhythm'. '규칙적 흐름 -> 리듬(a catchy rhythm, 귀에 착 감기는 리듬)·(생체의) 주기(circadian rhythm, 24시간 주기 리듬)'. 한국 학습자 핵심: 철자 악명 높음 — r-h-y-t-h-m (모음 없는 듯, y만 모음 역할)! 그리스어 어원이라 rh-, -th- 등장. rhythm and blues(R&B), get into the rhythm(리듬을 타다). beat(박자)·tempo(빠르기)·pulse(맥동)와 유의어.",
+  "syn": [
+   "beat(박자)",
+   "tempo(빠르기)",
+   "pulse(맥동)"
+  ],
+  "anti": [],
+  "idiom": [
+   "get into the rhythm(리듬을 타다)",
+   "rhythm and blues(R&B)"
+  ],
+  "colloc": [
+   "catchy rhythm(귀에 감기는 리듬)",
+   "natural rhythm(자연스러운 리듬)",
+   "circadian rhythm(24시간 주기 리듬)"
+  ],
+  "ex_add": "The dancers moved to the rhythm of the drums.  (rhythm=리듬)"
+ },
+ {
+  "num": "3319",
+  "hw": "rid",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "치워 없애다 -> '없애다·제거하다·벗어나게 하다'.",
+  "senses": [
+   "1) (rid of) 없애다·제거하다",
+   "2) (get rid of) ~을 처리하다·버리다·쫓아내다"
+  ],
+  "etym": "고대 노르드어 rythja(치우다·정리하다). '걸리적거리는 것을 치워 없앰'이 핵심.",
+  "deriv": "rythja(치우다) -> 'rid'. '치워 없앰 -> rid A of B(A에서 B를 없애다)·get rid of(~을 없애다·처분하다)'. 한국 학습자 핵심: get rid of(~을 없애다)가 압도적 빈출 숙어! 'be rid of'(~에서 벗어나다). 동사 변화: rid-rid-rid(또는 ridded). rid the house of pests(집에서 해충을 없애다). eliminate(제거하다)·remove(없애다)·dispose of(처분하다)와 유의어. 반대 keep(간직하다)·retain(3311, 보유하다).",
+  "syn": [
+   "eliminate(제거하다)",
+   "remove(없애다)",
+   "clear(치우다)"
+  ],
+  "anti": [
+   "keep(간직하다)",
+   "retain(보유하다)"
+  ],
+  "idiom": [
+   "get rid of(~을 없애다)",
+   "be rid of(~에서 벗어나다)"
+  ],
+  "colloc": [
+   "get rid of clutter(잡동사니를 치우다)",
+   "rid of pests(해충을 없애다)",
+   "rid the world of(세상에서 ~을 없애다)"
+  ],
+  "ex_add": "I need to get rid of these old clothes.  (get rid of=없애다)"
+ },
+ {
+  "num": "3320",
+  "hw": "ridiculous",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "웃음거리가 되는 -> '터무니없는·우스꽝스러운'.",
+  "senses": [
+   "1) 터무니없는·말도 안 되는",
+   "2) 우스꽝스러운·웃음거리인"
+  ],
+  "etym": "라틴어 ridere(웃다) -> ridiculus(웃음거리의) -> 'ridiculous'. '웃음거리가 될 만한'이 핵심. ridere(웃다)는 ridiculous·ridicule(조롱)·deride(비웃다)·derision(조롱)의 뿌리.",
+  "deriv": "ridere(웃다) -> 'ridiculous'. '웃음거리의 -> 터무니없는(a ridiculous idea, 터무니없는 생각)·우스꽝스러운'. 한국 학습자 핵심: ridere(웃다) 갈래 — ridicule(조롱하다)·deride(비웃다)·derision(조롱)·risible(웃기는)! look ridiculous(우스꽝스러워 보이다), absolutely ridiculous(완전히 터무니없는). absurd(불합리한)·preposterous(말도 안 되는)·laughable(가소로운)과 유의어. 반대 sensible(분별 있는)·reasonable(3264, 합리적인).",
+  "syn": [
+   "absurd(불합리한)",
+   "preposterous(말도 안 되는)",
+   "laughable(가소로운)"
+  ],
+  "anti": [
+   "sensible(분별 있는)",
+   "reasonable(합리적인)"
+  ],
+  "idiom": [
+   "look ridiculous(우스꽝스러워 보이다)",
+   "absolutely ridiculous(완전히 터무니없는)"
+  ],
+  "colloc": [
+   "ridiculous idea(터무니없는 생각)",
+   "ridiculous price(말도 안 되는 가격)",
+   "utterly ridiculous(아주 터무니없는)"
+  ],
+  "ex_add": "It's ridiculous to expect us to finish in an hour.  (ridiculous=터무니없는)"
+ },
+ {
+  "num": "3321",
+  "hw": "rise",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "위로 오르다 -> '오르다·일어서다 / 상승·증가'.",
+  "senses": [
+   "1) (위로) 오르다·올라가다·솟다",
+   "2) 일어서다·기상하다·(해가) 뜨다",
+   "3) (n.) 상승·증가; 출세·부상"
+  ],
+  "etym": "고대 영어 risan(일어서다·솟다). 게르만어 뿌리로 raise(들어 올리다)와 친척. '아래에서 위로 오름'이 핵심.",
+  "deriv": "risan(일어서다) -> 'rise'. '위로 오름 -> (해가) 뜨다·(물가가) 오르다(prices rise, 물가가 오르다)·일어서다·(n.) 상승(a rise in temperature, 기온 상승)'. 한국 학습자 핵심: 자동사 rise-rose-risen(스스로 오르다, 목적어 X) vs 타동사 raise-raised-raised(~을 올리다, 목적어 O) 구별 필수! arise(생기다)와도 구별. give rise to(~을 일으키다), rise to the occasion(난국에 잘 대처하다), rise and fall(흥망성쇠). climb(오르다)·increase(증가하다)·ascend(상승하다)와 유의어. 반대 fall(떨어지다)·drop(하락하다)·decline(감소하다).",
+  "syn": [
+   "climb(오르다)",
+   "increase(증가하다)",
+   "ascend(상승하다)"
+  ],
+  "anti": [
+   "fall(떨어지다)",
+   "drop(하락하다)",
+   "decline(감소하다)"
+  ],
+  "idiom": [
+   "give rise to(~을 일으키다)",
+   "rise to the occasion(난국에 잘 대처하다)",
+   "rise and fall(흥망성쇠)"
+  ],
+  "colloc": [
+   "rise sharply(급등하다)",
+   "rise in temperature(기온 상승)",
+   "rise to power(권력을 잡다)"
+  ],
+  "ex_add": "House prices have risen steadily this year.  (rise=오르다)"
+ },
+ {
+  "num": "3322",
+  "hw": "risky",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "위험을 안은 -> '위험한·모험적인'.",
+  "senses": [
+   "1) 위험한·아슬아슬한",
+   "2) 모험적인·도박 같은"
+  ],
+  "etym": "이탈리아어 risco/rischio(위험) -> 영어 risk(위험) + -y(형용사). '위험을 안고 있는'이 핵심.",
+  "deriv": "risk(위험) -> 'risky'. '위험을 안은 -> 위험한(a risky investment, 위험한 투자)'. 한국 학습자 핵심: risk(위험) 갈래 — risky·risk-taking(위험 감수)·at risk(위태로운)! risky business(위험한 일), too risky(너무 위험한). dangerous(위험한)·hazardous(위험한)·perilous(아주 위험한)와 유의어. 주의: dangerous는 '해를 끼칠 수 있는', risky는 '실패·손실 가능성이 있는'에 가까움. 반대 safe(안전한)·secure(안전한).",
+  "syn": [
+   "dangerous(위험한)",
+   "hazardous(위험한)",
+   "perilous(아주 위험한)"
+  ],
+  "anti": [
+   "safe(안전한)",
+   "secure(안전한)"
+  ],
+  "idiom": [
+   "risky business(위험한 일)",
+   "too risky(너무 위험한)"
+  ],
+  "colloc": [
+   "risky investment(위험한 투자)",
+   "risky behavior(위험한 행동)",
+   "highly risky(매우 위험한)"
+  ],
+  "ex_add": "Investing all your money in one stock is risky.  (risky=위험한)"
+ },
+ {
+  "num": "3323",
+  "hw": "rival",
+  "pos": "n., adj.",
+  "cefr": "B2",
+  "core": "같은 물을 쓰는 자 -> '경쟁자·맞수 / 경쟁하는'.",
+  "senses": [
+   "1) 경쟁자·맞수·라이벌",
+   "2) (adj.) 경쟁하는·대항하는",
+   "3) (동사) ~에 필적하다·견줄 만하다"
+  ],
+  "etym": "라틴어 rivalis(같은 강물을 함께 쓰는 사람, rivus=시내). 물을 두고 다투던 데서 '경쟁자'로 발전. '같은 자원을 두고 다투는 자'가 핵심. rivus(시내)는 rival·river(강)·derive(2569 끌어내다, 강에서 물을 끌어 옴)와 같은 뿌리.",
+  "deriv": "rivalis(같은 물을 쓰는 자) -> 'rival'. '물을 두고 다투는 자 -> 경쟁자(business rivals, 사업 경쟁자)·필적하다(rival the best, 최고에 견주다)'. 한국 학습자 핵심: rivus(시내) 갈래 — river(강)·derive(2569 끌어내다)·rivulet(개울)! arch-rival(숙적), without rival(견줄 데 없는), rival firms(경쟁사). competitor(경쟁자)·opponent(상대)·adversary(적수)와 유의어. 반대 ally(동맹)·partner(동반자).",
+  "syn": [
+   "competitor(경쟁자)",
+   "opponent(상대)",
+   "adversary(적수)"
+  ],
+  "anti": [
+   "ally(동맹)",
+   "partner(동반자)"
+  ],
+  "idiom": [
+   "arch-rival(숙적)",
+   "without rival(견줄 데 없는)"
+  ],
+  "colloc": [
+   "business rival(사업 경쟁자)",
+   "rival team(상대 팀)",
+   "main rival(주된 경쟁자)"
+  ],
+  "ex_add": "The two companies are fierce rivals.  (rival=경쟁자)"
+ },
+ {
+  "num": "3324",
+  "hw": "rob",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "(옷·재물을) 앗아 가다 -> '털다·강탈하다 / 빼앗다'.",
+  "senses": [
+   "1) (사람·장소를) 털다·강탈하다",
+   "2) (rob of) ~에게서 빼앗다·앗아 가다"
+  ],
+  "etym": "게르만어 raubon(약탈하다·앗아 가다). 'robe(옷)'와도 친척(약탈물로서의 옷). '폭력으로 재물을 앗아 감'이 핵심.",
+  "deriv": "raubon(약탈하다) -> 'rob'. '앗아 감 -> (은행을) 털다(rob a bank, 은행을 털다)·rob A of B(A에게서 B를 빼앗다)'. 한국 학습자 핵심: rob A of B 구문 필수(rob me of my wallet, 내 지갑을 빼앗다)! steal(물건 X를 훔치다, steal X) vs rob(사람·장소 Y를 털다, rob Y) 목적어 차이가 핵심 함정. robbery(3325)·robber(강도)가 가족. burglarize(빈집을 털다)·loot(약탈하다)·plunder(노략질하다)와 유의어.",
+  "syn": [
+   "steal from(~에게서 훔치다)",
+   "loot(약탈하다)",
+   "plunder(노략질하다)"
+  ],
+  "anti": [
+   "return(돌려주다)",
+   "restore(돌려주다)"
+  ],
+  "idiom": [
+   "rob A of B(A에게서 B를 빼앗다)",
+   "rob a bank(은행을 털다)"
+  ],
+  "colloc": [
+   "rob a store(가게를 털다)",
+   "rob someone at gunpoint(총으로 위협해 털다)",
+   "rob of dignity(존엄을 앗아 가다)"
+  ],
+  "ex_add": "Two men robbed the bank in broad daylight.  (rob=털다)"
+ },
+ {
+  "num": "3325",
+  "hw": "robbery",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "앗아 감 -> '강도(질)·약탈'.",
+  "senses": [
+   "1) 강도질·강탈",
+   "2) (구어) 바가지·터무니없는 가격"
+  ],
+  "etym": "게르만어 raubon(약탈하다) -> rob(3324) + -ery(행위). '폭력으로 앗아 가는 행위'가 핵심.",
+  "deriv": "rob(3324, 털다) -> 'robbery'. '앗아 감 -> 강도질(armed robbery, 무장 강도)'. 한국 학습자 핵심: rob(3324)·robber(강도)·robbery! 구별: robbery(강도, 폭력·위협으로 빼앗음) vs burglary(빈집털이, 침입 절도) vs theft(절도, 몰래 훔침). bank robbery(은행 강도), highway robbery(노상강도·바가지). theft(절도)·heist(강도)·mugging(노상강도)과 유의어.",
+  "syn": [
+   "theft(절도)",
+   "heist(강도)",
+   "mugging(노상강도)"
+  ],
+  "anti": [],
+  "idiom": [
+   "armed robbery(무장 강도)",
+   "highway robbery(바가지·노상강도)"
+  ],
+  "colloc": [
+   "bank robbery(은행 강도)",
+   "commit robbery(강도질을 하다)",
+   "robbery suspect(강도 용의자)"
+  ],
+  "ex_add": "He was arrested for armed robbery.  (robbery=강도)"
+ },
+ {
+  "num": "3326",
+  "hw": "rocket",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "물레가락 모양의 것 -> '로켓·미사일 / (동사) 치솟다'.",
+  "senses": [
+   "1) 로켓·우주 로켓",
+   "2) 로켓탄·미사일; 폭죽",
+   "3) (동사) 급등하다·치솟다"
+  ],
+  "etym": "이탈리아어 rocchetto(작은 실패·물레가락) -> rocca(실 감는 물레)의 축소형 -> 'rocket'. '물레가락처럼 길쭉한 원통 모양'이 핵심.",
+  "deriv": "rocchetto(물레가락) -> 'rocket'. '길쭉한 원통 -> 로켓(launch a rocket, 로켓을 발사하다)·(로켓처럼) 치솟다(prices rocketed, 물가가 치솟았다)'. 한국 학습자 핵심: rocket science(고난도의 일, 'it's not rocket science'=그리 어렵지 않다), rocket launcher(로켓 발사기), skyrocket(급등하다). 동사로 '급등하다'(=soar, surge). missile(미사일)·projectile(발사체)와 유의어.",
+  "syn": [
+   "missile(미사일)",
+   "projectile(발사체)",
+   "soar(치솟다)"
+  ],
+  "anti": [
+   "plummet(급락하다)"
+  ],
+  "idiom": [
+   "it's not rocket science(그리 어렵지 않다)",
+   "rocket science(고난도의 일)"
+  ],
+  "colloc": [
+   "launch a rocket(로켓을 발사하다)",
+   "rocket fuel(로켓 연료)",
+   "prices rocket(물가가 치솟다)"
+  ],
+  "ex_add": "The rocket successfully reached orbit.  (rocket=로켓)"
+ },
+ {
+  "num": "3327",
+  "hw": "romance",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "로마 말로 쓴 이야기 -> '연애·로맨스 / 연애 소설·낭만'.",
+  "senses": [
+   "1) 연애·로맨스·애정 관계",
+   "2) 연애 소설·전기 소설",
+   "3) 낭만·로맨틱한 분위기"
+  ],
+  "etym": "라틴어 Romanicus(로마식의) -> 고대 프랑스어 romanz(라틴어가 아닌 로마 속어로 쓴 이야기) -> 'romance'. 중세에 속어로 쓴 글이 주로 기사·연애 모험담이어서 '연애담'이 됨. '로마 속어로 쓴 모험·연애 이야기'가 핵심.",
+  "deriv": "Romanicus(로마식의) -> romanz(속어 이야기) -> 'romance'. '로마 말 이야기 -> 기사 모험담 -> 연애담 -> 연애(a holiday romance, 휴가지 연애)'. 한국 학습자 핵심: Roman(로마의) 갈래 — romance·romantic(낭만적인)·Romance languages(로망스어, 라틴어에서 갈라진 프랑스·스페인·이탈리아어 등)! whirlwind romance(번개 같은 연애). love affair(연애)·affair(정사)와 유의어.",
+  "syn": [
+   "love affair(연애)",
+   "affair(정사)",
+   "courtship(구애)"
+  ],
+  "anti": [],
+  "idiom": [
+   "whirlwind romance(번개 같은 연애)",
+   "holiday romance(휴가지 연애)"
+  ],
+  "colloc": [
+   "office romance(직장 내 연애)",
+   "romance novel(연애 소설)",
+   "budding romance(싹트는 연애)"
+  ],
+  "ex_add": "Their romance began at a summer camp.  (romance=연애)"
+ },
+ {
+  "num": "3328",
+  "hw": "root",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "뿌리 -> '뿌리 / 근원·원인 / 어근'.",
+  "senses": [
+   "1) (식물의) 뿌리",
+   "2) 근원·원인·근본",
+   "3) (단어의) 어근; (수학) 근; (사람의) 뿌리·고향(roots)"
+  ],
+  "etym": "고대 노르드어 rot(뿌리) -> 고대 영어 rot -> 'root'. 라틴어 radix(뿌리, radish·radical의 어원)와 친척. '땅에 박혀 양분을 빨아들이는 부분 -> 근본'이 핵심.",
+  "deriv": "rot(뿌리) -> 'root'. '뿌리 -> 근원·원인(the root of the problem, 문제의 근원)·어근(a Latin root, 라틴어 어근)'. 한국 학습자 핵심: 이 단어 자체가 우리 학습법의 핵심! 어근(root)을 알면 수많은 단어가 갈라져 나옴. take root(뿌리내리다·정착하다), root cause(근본 원인), get to the root of(~의 근원을 캐다), roots(혈통·고향). 동사 root for(~을 응원하다), root out(뿌리 뽑다). origin(기원)·source(근원)·basis(근거)와 유의어. 반대 branch(가지)·offshoot(파생물).",
+  "syn": [
+   "origin(기원)",
+   "source(근원)",
+   "basis(근거)"
+  ],
+  "anti": [
+   "branch(가지)",
+   "offshoot(파생물)"
+  ],
+  "idiom": [
+   "take root(뿌리내리다)",
+   "root cause(근본 원인)",
+   "get to the root of(~의 근원을 캐다)"
+  ],
+  "colloc": [
+   "root of the problem(문제의 근원)",
+   "deep roots(깊은 뿌리)",
+   "root out corruption(부패를 뿌리 뽑다)"
+  ],
+  "ex_add": "We need to address the root of the problem.  (root=근원)"
+ },
+ {
+  "num": "3329",
+  "hw": "rose",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "장미 -> '장미 / 장밋빛'.",
+  "senses": [
+   "1) 장미",
+   "2) 장밋빛·분홍빛",
+   "3) (rise의 과거형) 올랐다"
+  ],
+  "etym": "라틴어 rosa(장미) -> 고대 영어 rose. 그리스어 rhodon(장미)과 친척. '장미꽃'이 핵심.",
+  "deriv": "rosa(장미) -> 'rose'. '장미 -> 장밋빛(rose-tinted, 장밋빛의)'. 한국 학습자 핵심: 동음·동형 주의 — rose는 rise(3321)의 과거형이기도 함(rise-rose-risen)! a bed of roses(안락한 처지), see through rose-tinted glasses(낙관적으로 보다), come up roses(만사형통이다). 형용사로 rosy(장밋빛의·낙관적인). rosé(로제 와인)도 같은 뿌리. bloom(꽃)·flower(꽃)와 관련.",
+  "syn": [
+   "bloom(꽃)",
+   "flower(꽃)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a bed of roses(안락한 처지)",
+   "come up roses(만사형통이다)",
+   "rose-tinted glasses(장밋빛 안경·낙관)"
+  ],
+  "colloc": [
+   "a bunch of roses(장미 한 다발)",
+   "red rose(빨간 장미)",
+   "rose garden(장미 정원)"
+  ],
+  "ex_add": "He gave her a dozen red roses.  (rose=장미)"
+ },
+ {
+  "num": "3330",
+  "hw": "roughly",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "거칠게 -> '대략 / 거칠게·험하게'.",
+  "senses": [
+   "1) 대략·약·어림잡아",
+   "2) 거칠게·험하게·난폭하게",
+   "3) 개략적으로·대충"
+  ],
+  "etym": "고대 영어 ruh(거친) -> rough(거친) + -ly(부사). '매끈하게 다듬지 않은 -> 대충·어림잡아'가 핵심.",
+  "deriv": "rough(거친) -> 'roughly'. '거칠게 -> (세밀하지 않게) 대략(roughly 100, 대략 100)·거칠게(handle roughly, 거칠게 다루다)'. 한국 학습자 핵심: 두 뜻 모두 빈출 — 수치 앞 'roughly'(=about, approximately)와 동작 수식 'roughly'(거칠게). roughly speaking(대략적으로 말하면), roughly equal(거의 같은). approximately(대략)·about(약)·crudely(거칠게)와 유의어. 반대 exactly(정확히)·gently(부드럽게).",
+  "syn": [
+   "approximately(대략)",
+   "about(약)",
+   "crudely(거칠게)"
+  ],
+  "anti": [
+   "exactly(정확히)",
+   "gently(부드럽게)"
+  ],
+  "idiom": [
+   "roughly speaking(대략적으로 말하면)",
+   "roughly equal(거의 같은)"
+  ],
+  "colloc": [
+   "roughly half(대략 절반)",
+   "roughly the same(거의 같은)",
+   "handle roughly(거칠게 다루다)"
+  ],
+  "ex_add": "The trip takes roughly two hours.  (roughly=대략)"
+ },
+ {
+  "num": "3331",
+  "hw": "round",
+  "pos": "adj., adv., prep., n.",
+  "cefr": "B2",
+  "core": "둥근 -> '둥근 / 빙 둘러 / 한 회·한 차례'.",
+  "senses": [
+   "1) (adj.) 둥근·원형의",
+   "2) (adv./prep.) 빙 둘러·주위에",
+   "3) (n.) (경기의) 회·라운드; (술 등의) 한 차례·돌림"
+  ],
+  "etym": "라틴어 rotundus(둥근, rota=바퀴) -> 고대 프랑스어 ront -> 'round'. '바퀴처럼 둥근'이 핵심. rota(바퀴)는 round·rotate(회전하다)·rotund(둥근)·roll(구르다)의 뿌리.",
+  "deriv": "rotundus(둥근) -> 'round'. '둥근 -> (둥글게) 빙 둘러·(둥글게 한 바퀴 도는) 한 회·한 차례(the next round, 다음 라운드)'. 한국 학습자 핵심: rota(바퀴) 갈래 — rotate(회전)·rotund(둥근)·roll(구르다)·control(통제, contra+rotulus 대조 명부)·route(길)! round the clock(24시간 내내), a round of applause(박수갈채), the daily round(일과), round up/down(반올림/반내림). circular(원형의)·around(주위에)와 유의어.",
+  "syn": [
+   "circular(원형의)",
+   "around(주위에)",
+   "cycle(주기)"
+  ],
+  "anti": [
+   "square(네모난)",
+   "angular(각진)"
+  ],
+  "idiom": [
+   "round the clock(24시간 내내)",
+   "a round of applause(박수갈채)",
+   "round up(반올림하다)"
+  ],
+  "colloc": [
+   "round table(원탁)",
+   "the next round(다음 라운드)",
+   "round of talks(협상 회의)"
+  ],
+  "ex_add": "She made it to the final round of the competition.  (round=회·라운드)"
+ },
+ {
+  "num": "3332",
+  "hw": "routine",
+  "pos": "n., adj.",
+  "cefr": "B2",
+  "core": "늘 다니는 길 -> '일과·판에 박힌 일 / 일상적인'.",
+  "senses": [
+   "1) 일과·정해진 순서·루틴",
+   "2) (adj.) 일상적인·판에 박힌·정기적인",
+   "3) (공연의) 정해진 연기·동작"
+  ],
+  "etym": "프랑스어 route(길) -> routine(늘 다니는 길·관례). route는 라틴어 via rupta(뚫린 길). '늘 같은 길 -> 늘 같은 방식'이 핵심. rupta(뚫린)는 route·rupture(파열)·route·routine과 관련.",
+  "deriv": "route(길) -> 'routine'. '늘 다니는 길 -> 늘 같은 방식 -> 일과(daily routine, 일과)·(adj.) 판에 박힌(a routine check, 정기 점검)'. 한국 학습자 핵심: route(길)·routine·router(라우터)! get into a routine(규칙적 생활을 하다), break the routine(틀을 깨다), routine checkup(정기 검진). habit(습관)·practice(관행)·ordinary(평범한)와 유의어. 반대 exceptional(예외적인)·unusual(특이한).",
+  "syn": [
+   "habit(습관)",
+   "practice(관행)",
+   "procedure(절차)"
+  ],
+  "anti": [
+   "exceptional(예외적인)",
+   "unusual(특이한)"
+  ],
+  "idiom": [
+   "get into a routine(규칙적 생활을 하다)",
+   "break the routine(틀을 깨다)"
+  ],
+  "colloc": [
+   "daily routine(일과)",
+   "routine check(정기 점검)",
+   "morning routine(아침 일과)"
+  ],
+  "ex_add": "Exercise is part of my daily routine.  (routine=일과)"
+ },
+ {
+  "num": "3333",
+  "hw": "rub",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "문지르다 -> '문지르다·비비다 / 마찰하다'.",
+  "senses": [
+   "1) 문지르다·비비다·문대다",
+   "2) (연고 등을) 바르다·문질러 바르다",
+   "3) 마찰하다·쓸리다"
+  ],
+  "etym": "중세 영어 rubben(문지르다). 저지 독일어 rubben과 친척. '표면을 눌러 비빔'이 핵심.",
+  "deriv": "rubben(문지르다) -> 'rub'. '문지름 -> 비비다(rub one's eyes, 눈을 비비다)·바르다(rub in cream, 크림을 문질러 바르다)'. 한국 학습자 핵심: rub it in(아픈 데를 자꾸 들추다), rub shoulders with(~와 어울리다), rub the wrong way(비위를 거스르다), rub off on(~에게 영향을 미치다). 동사 변화: rub-rubbed-rubbed(b 두 번). massage(주무르다)·scrub(문질러 닦다)·wipe(닦다)와 유의어.",
+  "syn": [
+   "massage(주무르다)",
+   "scrub(문질러 닦다)",
+   "wipe(닦다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "rub shoulders with(~와 어울리다)",
+   "rub the wrong way(비위를 거스르다)",
+   "rub it in(아픈 데를 들추다)"
+  ],
+  "colloc": [
+   "rub one's eyes(눈을 비비다)",
+   "rub one's hands(손을 비비다)",
+   "rub off(문질러 지우다)"
+  ],
+  "ex_add": "She rubbed her hands together to keep warm.  (rub=비비다)"
+ },
+ {
+  "num": "3334",
+  "hw": "rubber",
+  "pos": "n., adj.",
+  "cefr": "B2",
+  "core": "문지르는 것 -> '고무 / (영) 지우개'.",
+  "senses": [
+   "1) 고무",
+   "2) (영) 지우개(=eraser)",
+   "3) 고무로 만든 것·고무의"
+  ],
+  "etym": "rub(3333, 문지르다) + -er(~하는 것). 처음에는 연필 자국을 '문질러 지우는 것(지우개)'을 뜻하다가, 그 재료인 '고무'로 확장. '문지르는 것'이 핵심.",
+  "deriv": "rub(3333, 문지르다) -> 'rubber'. '문지르는 것 -> (영) 지우개 -> (지우개 재료인) 고무(a rubber band, 고무줄)'. 한국 학습자 핵심: 영국 rubber(지우개) vs 미국 eraser! rub(3333)·rubber·rubbery(고무 같은)가 가족. rubber band(고무줄), rubber stamp(고무도장·형식적 승인), rubber gloves(고무장갑). burn rubber(급발진하다). elastic(탄력 있는 것)·latex(라텍스)와 관련.",
+  "syn": [
+   "eraser(지우개)",
+   "elastic(고무 밴드)"
+  ],
+  "anti": [],
+  "idiom": [
+   "rubber stamp(형식적 승인·고무도장)",
+   "burn rubber(급발진하다)"
+  ],
+  "colloc": [
+   "rubber band(고무줄)",
+   "rubber gloves(고무장갑)",
+   "rubber tire(고무 타이어)"
+  ],
+  "ex_add": "The tires are made of synthetic rubber.  (rubber=고무)"
+ },
+ {
+  "num": "3335",
+  "hw": "ruin",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "무너져 내림 -> '망치다·파멸시키다 / 폐허·파멸'.",
+  "senses": [
+   "1) 망치다·엉망으로 만들다",
+   "2) 파멸시키다·파산시키다",
+   "3) (n.) 파멸·붕괴; (ruins) 폐허·유적"
+  ],
+  "etym": "라틴어 ruere(무너지다·돌진하다) -> ruina(무너짐·붕괴) -> 'ruin'. '와르르 무너져 내림'이 핵심. ruere(무너지다)는 ruin과 관련.",
+  "deriv": "ruere(무너지다) -> ruina(붕괴) -> 'ruin'. '무너져 내림 -> 망치다(ruin the party, 파티를 망치다)·파멸시키다·(ruins) 폐허(ancient ruins, 고대 유적)'. 한국 학습자 핵심: in ruins(폐허가 된·엉망이 된), fall into ruin(폐허가 되다), the ruin of(~의 파멸), financial ruin(재정 파탄). destroy(파괴하다)·wreck(망가뜨리다)·spoil(망치다)과 유의어. 반대 build(짓다)·create(만들다)·restore(3307, 복원하다).",
+  "syn": [
+   "destroy(파괴하다)",
+   "wreck(망가뜨리다)",
+   "spoil(망치다)"
+  ],
+  "anti": [
+   "build(짓다)",
+   "create(만들다)",
+   "restore(복원하다)"
+  ],
+  "idiom": [
+   "in ruins(폐허가 된·엉망이 된)",
+   "fall into ruin(폐허가 되다)",
+   "financial ruin(재정 파탄)"
+  ],
+  "colloc": [
+   "ruin one's life(인생을 망치다)",
+   "ancient ruins(고대 유적)",
+   "ruin the surprise(깜짝 이벤트를 망치다)"
+  ],
+  "ex_add": "The bad weather ruined our holiday.  (ruin=망치다)"
+ },
+ {
+  "num": "3336",
+  "hw": "rural",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "시골의 -> '시골의·농촌의'.",
+  "senses": [
+   "1) 시골의·농촌의",
+   "2) 전원의·시골풍의"
+  ],
+  "etym": "라틴어 rus(시골·농촌, 속격 ruris) -> ruralis -> 'rural'. '도시 밖 들판의'가 핵심. rus(시골)는 rural·rustic(시골풍의)·rusticate(시골로 보내다)의 뿌리.",
+  "deriv": "rus(시골) -> 'rural'. '시골의 -> 농촌의(rural areas, 농촌 지역)'. 한국 학습자 핵심: rus(시골) 갈래 — rustic(소박한·시골풍의)·rusticate(시골로 보내다)! 혼동 주의: rural(시골의) vs urban(도시의) vs suburban(교외의)의 3종 세트 — 발음·철자 헷갈리기 쉬움(rural의 r-r 연속 발음 까다로움). rural community(농촌 공동체), rural life(전원 생활). country(시골의)·rustic(시골풍의)·pastoral(전원의)과 유의어. 반대 urban(도시의)·metropolitan(대도시의).",
+  "syn": [
+   "country(시골의)",
+   "rustic(시골풍의)",
+   "pastoral(전원의)"
+  ],
+  "anti": [
+   "urban(도시의)",
+   "metropolitan(대도시의)"
+  ],
+  "idiom": [
+   "rural areas(농촌 지역)",
+   "rural community(농촌 공동체)"
+  ],
+  "colloc": [
+   "rural life(전원 생활)",
+   "rural population(농촌 인구)",
+   "remote rural area(외딴 농촌 지역)"
+  ],
+  "ex_add": "Many young people are leaving rural areas for cities.  (rural=시골의)"
+ },
+ {
+  "num": "3337",
+  "hw": "rush",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "와락 몰아침 -> '서두르다·돌진하다 / 분주·쇄도'.",
+  "senses": [
+   "1) 서두르다·급히 가다·재촉하다",
+   "2) 돌진하다·달려들다·쇄도하다",
+   "3) (n.) 분주함·쇄도; 갑작스러운 흥분·격한 감정"
+  ],
+  "etym": "고대 프랑스어 ruser(밀쳐 내다·격퇴하다) -> 앵글로-노르만 russher -> 'rush'. (라틴어 recusare(거부하다)에서.) '와락 밀어붙임·몰아침'이 핵심.",
+  "deriv": "russher(밀쳐 내다) -> 'rush'. '와락 몰아침 -> 서두르다(rush to finish, 서둘러 끝내다)·쇄도하다·(n.) 분주·흥분(an adrenaline rush, 아드레날린 분출)'. 한국 학습자 핵심: rush hour(혼잡 시간대), in a rush(급히·서둘러), no rush(서두를 것 없어), gold rush(골드러시), rush job(급한 일). hurry(서두르다)·hasten(서두르다)·dash(돌진하다)와 유의어. 반대 dawdle(꾸물거리다)·linger(머뭇거리다).",
+  "syn": [
+   "hurry(서두르다)",
+   "hasten(서두르다)",
+   "dash(돌진하다)"
+  ],
+  "anti": [
+   "dawdle(꾸물거리다)",
+   "linger(머뭇거리다)"
+  ],
+  "idiom": [
+   "rush hour(혼잡 시간대)",
+   "in a rush(급히)",
+   "no rush(서두를 것 없어)"
+  ],
+  "colloc": [
+   "rush to(서둘러 ~하다)",
+   "gold rush(골드러시)",
+   "adrenaline rush(아드레날린 분출)"
+  ],
+  "ex_add": "Don't rush; we have plenty of time.  (rush=서두르다)"
+ },
+ {
+  "num": "3338",
+  "hw": "sample",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "골라낸 본보기 -> '표본·견본 / 시식·시험 삼아 해 보다'.",
+  "senses": [
+   "1) 표본·견본·샘플",
+   "2) (통계) 표본 집단",
+   "3) 시식·시음하다; 시험 삼아 경험하다"
+  ],
+  "etym": "라틴어 exemplum(본보기·예) -> 고대 프랑스어 essample -> 앞소리가 떨어져 'sample'. example(예)과 같은 뿌리. '전체에서 골라낸 본보기'가 핵심. exemplum(본보기)은 sample·example(예)·exemplary(모범적인)의 뿌리.",
+  "deriv": "exemplum(본보기) -> 'sample'. '골라낸 본보기 -> 표본·견본(a free sample, 무료 견본)·시식하다(sample the food, 음식을 맛보다)'. 한국 학습자 핵심: example(2630 예)과 형제 단어! exemplum(본보기) 갈래 — example·exemplary(모범적인)·exemplify(예시하다). free sample(무료 샘플), random sample(3253 무작위 표본), sample size(표본 크기). specimen(견본)·example(예)·taste(맛보기)와 유의어.",
+  "syn": [
+   "specimen(견본)",
+   "example(예)",
+   "taste(맛보기)"
+  ],
+  "anti": [],
+  "idiom": [
+   "free sample(무료 견본)",
+   "random sample(무작위 표본)"
+  ],
+  "colloc": [
+   "sample size(표본 크기)",
+   "blood sample(혈액 표본)",
+   "representative sample(대표 표본)"
+  ],
+  "ex_add": "The researchers collected a sample of 500 people.  (sample=표본)"
+ },
+ {
+  "num": "3339",
+  "hw": "satellite",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "따라다니는 수행원 -> '(인공)위성 / 위성 도시'.",
+  "senses": [
+   "1) (인공)위성",
+   "2) (천체의) 위성·달",
+   "3) 위성 도시·종속국"
+  ],
+  "etym": "라틴어 satelles(수행원·호위병, 속격 satellitis) -> 'satellite'. 큰 별을 졸졸 따라 도는 천체를 '수행원'에 빗댐. '주위를 따라다니는 것'이 핵심.",
+  "deriv": "satelles(수행원) -> 'satellite'. '따라다니는 수행원 -> (행성을 도는) 위성·인공위성(launch a satellite, 위성을 발사하다)·(큰 도시 주변의) 위성 도시'. 한국 학습자 핵심: satellite는 케플러가 목성의 위성을 가리키며 부활시킨 라틴어! satellite dish(위성 안테나), satellite TV(위성 방송), satellite navigation(위성 항법·GPS), satellite town(위성 도시). orbiter(궤도 비행체)·moon(위성)과 유의어.",
+  "syn": [
+   "orbiter(궤도 비행체)",
+   "moon(위성)"
+  ],
+  "anti": [],
+  "idiom": [
+   "satellite TV(위성 방송)",
+   "satellite navigation(위성 항법)"
+  ],
+  "colloc": [
+   "launch a satellite(위성을 발사하다)",
+   "satellite dish(위성 안테나)",
+   "weather satellite(기상 위성)"
+  ],
+  "ex_add": "The new satellite will improve weather forecasts.  (satellite=위성)"
+ },
+ {
+  "num": "3340",
+  "hw": "satisfaction",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "충분히 채워짐 -> '만족 / 충족 / (불만의) 해소'.",
+  "senses": [
+   "1) 만족·흡족",
+   "2) (욕구·조건의) 충족",
+   "3) (불만·요구의) 해소·배상"
+  ],
+  "etym": "라틴어 satis(충분히) + facere(만들다) -> satisfacere(충분히 만들다·채우다) -> satisfaction. '충분히 채워 줌 -> 흡족함'이 핵심. satis(충분히)는 satisfaction·satisfy·satiate(물리게 하다)·saturate(흠뻑 적시다)의 뿌리; facere(만들다)는 fact(2657)·factory(공장)·effect(효과)의 뿌리.",
+  "deriv": "satis(충분히)+facere(만들다) -> 'satisfaction'. '충분히 채워짐 -> 만족(job satisfaction, 직무 만족)'. 한국 학습자 핵심: satis(충분히) 갈래 — satisfy·satisfied(3341)·satiate(물리게 하다)·saturate(포화시키다)·sated(배부른)! facere(만들다) 갈래 — fact(2657)·factory(공장)·effect(효과)·manufacture(제조). to one's satisfaction(만족스럽게), a sense of satisfaction(만족감). contentment(만족)·gratification(흡족)·fulfillment(성취감)과 유의어. 반대 dissatisfaction(불만)·discontent(불만).",
+  "syn": [
+   "contentment(만족)",
+   "gratification(흡족)",
+   "fulfillment(성취감)"
+  ],
+  "anti": [
+   "dissatisfaction(불만)",
+   "discontent(불만)"
+  ],
+  "idiom": [
+   "to one's satisfaction(만족스럽게)",
+   "a sense of satisfaction(만족감)"
+  ],
+  "colloc": [
+   "job satisfaction(직무 만족)",
+   "customer satisfaction(고객 만족)",
+   "great satisfaction(큰 만족)"
+  ],
+  "ex_add": "She smiled with satisfaction at the finished painting.  (satisfaction=만족)"
+ },
+ {
+  "num": "3341",
+  "hw": "satisfied",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "충분히 채워진 -> '만족한·흡족한'.",
+  "senses": [
+   "1) 만족한·흡족한",
+   "2) (조건이) 충족된·납득한"
+  ],
+  "etym": "라틴어 satis(충분히) + facere(만들다) -> satisfy(만족시키다)의 과거분사형 형용사. '충분히 채워진 -> 흡족한'이 핵심.",
+  "deriv": "satisfy(만족시키다) -> 'satisfied'. '충분히 채워진 -> 만족한(a satisfied customer, 만족한 고객)'. 한국 학습자 핵심: satis(충분히) 갈래 — satisfy·satisfaction(3340)·satiate(물리게 하다)·saturate(포화)! 감정 형용사 -ed/-ing 구별: satisfied(사람이 만족한) vs satisfying(만족시키는·흐뭇한). be satisfied with(~에 만족하다), satisfied that절(~을 납득한). content(만족하는)·pleased(기쁜)·gratified(흡족한)와 유의어. 반대 dissatisfied(불만인)·discontented(불만스러운).",
+  "syn": [
+   "content(만족하는)",
+   "pleased(기쁜)",
+   "gratified(흡족한)"
+  ],
+  "anti": [
+   "dissatisfied(불만인)",
+   "discontented(불만스러운)"
+  ],
+  "idiom": [
+   "be satisfied with(~에 만족하다)",
+   "satisfied customer(만족한 고객)"
+  ],
+  "colloc": [
+   "highly satisfied(매우 만족한)",
+   "satisfied with the result(결과에 만족한)",
+   "perfectly satisfied(완전히 만족한)"
+  ],
+  "ex_add": "Customers are highly satisfied with the new service.  (satisfied=만족한)"
+ }
+]
