@@ -1,0 +1,1556 @@
+[
+ {
+  "num": "3692",
+  "hw": "allegation",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "증거 없이 내세운 주장 -> '(근거 없는) 혐의·주장'.",
+  "senses": [
+   "1) (증거가 충분치 않은) 혐의·주장",
+   "2) 단언·진술"
+  ],
+  "etym": "라틴어 ad(~로) + legare(보내다·위임하다·인용하다) -> allegare(내세우다·주장하다) -> allegation. (ad+l -> all 동화) '증거로 내세운 주장'이 핵심. legare(보내다)는 allegation·allege(3693)·delegate(위임하다)·legate(사절)의 뿌리.",
+  "deriv": "ad(~로)+legare(내세우다) -> allege -> 'allegation'. '증거 없이 내세운 주장 -> 혐의(make allegations, 혐의를 제기하다)'. 한국 학습자 핵심: ad+l -> all 동화(C1 빈출 패턴)! legare(보내다·위임) 갈래 — delegate(위임하다)·legate(사절)·legacy(유산)·colleague(동료)·allege(3693)! 구별: allegation(증거 불충분한 주장) vs accusation(3662, 공식 비난) vs proof(입증). deny the allegations(혐의를 부인하다), serious allegations(중대한 혐의). accusation(혐의)·claim(주장)·charge(고발)와 유의어. 반대 proof(증거)·evidence(입증).",
+  "syn": [
+   "accusation(혐의)",
+   "claim(주장)",
+   "charge(고발)"
+  ],
+  "anti": [
+   "proof(증거)",
+   "evidence(입증)"
+  ],
+  "idiom": [
+   "make allegations(혐의를 제기하다)",
+   "deny the allegations(혐의를 부인하다)"
+  ],
+  "colloc": [
+   "serious allegation(중대한 혐의)",
+   "false allegation(허위 주장)",
+   "allegations of fraud(사기 혐의)"
+  ],
+  "ex_add": "He denied all the allegations against him.  (allegation=혐의)"
+ },
+ {
+  "num": "3693",
+  "hw": "allege",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "증거 없이 내세우다 -> '(증거 없이) 주장하다·혐의를 제기하다'.",
+  "senses": [
+   "1) (증거 없이) 주장하다·단언하다",
+   "2) (~라고) 혐의를 제기하다"
+  ],
+  "etym": "라틴어 ad + legare(보내다·인용하다) -> allegare(내세우다) -> 'allege'. '증거로 내세워 주장함'이 핵심.",
+  "deriv": "ad(~로)+legare(내세우다) -> 'allege'. '증거 없이 내세움 -> 주장하다(allege that, ~라고 주장하다)'. 한국 학습자 핵심: legare(보내다·위임) 갈래 — allegation(3692)·allegedly(3694)·delegate(위임)·legate(사절)·colleague(동료)! allege는 주로 수동태·부사 allegedly로 자주 쓰임(아직 입증 안 된 주장임을 표시). It is alleged that(~라고 주장된다), the alleged crime(혐의를 받는 범죄). claim(주장하다)·assert(3732, 단언하다)·contend(주장하다)와 유의어. 반대 prove(입증하다)·deny(부인하다).",
+  "syn": [
+   "claim(주장하다)",
+   "assert(단언하다)",
+   "contend(주장하다)"
+  ],
+  "anti": [
+   "prove(입증하다)",
+   "deny(부인하다)"
+  ],
+  "idiom": [
+   "allege that(~라고 주장하다)",
+   "the alleged crime(혐의를 받는 범죄)"
+  ],
+  "colloc": [
+   "allege wrongdoing(부정행위를 주장하다)",
+   "it is alleged that(~라고 주장된다)",
+   "allege corruption(부패를 주장하다)"
+  ],
+  "ex_add": "The report alleges that officials accepted bribes.  (allege=주장하다)"
+ },
+ {
+  "num": "3694",
+  "hw": "allegedly",
+  "pos": "adv.",
+  "cefr": "C1",
+  "core": "주장에 따르면 -> '주장에 따르면·전해지는 바로는'.",
+  "senses": [
+   "1) (입증되지 않았으나) 주장에 따르면",
+   "2) 전해지는 바에 따르면·소문에 의하면"
+  ],
+  "etym": "라틴어 allegare(내세우다) -> allege(3693) + -ed + -ly. '주장된 바로는'이 핵심.",
+  "deriv": "allege(3693, 주장하다) -> 'allegedly'. '주장에 따르면 -> (he allegedly stole it, 그가 그것을 훔쳤다고 한다)'. 한국 학습자 핵심: legare(내세우다) 갈래 — allege(3693)·allegation(3692)·delegate(위임)·colleague(동료)! 언론에서 '아직 입증 안 됐지만 ~라는 주장이 있다'를 표시할 때 필수 — 명예훼손을 피하는 안전장치 부사! allegedly involved(연루된 것으로 알려진). supposedly(추정상)·reportedly(전하는 바로는)·apparently(보아하니)와 유의어.",
+  "syn": [
+   "supposedly(추정상)",
+   "reportedly(전하는 바로는)",
+   "apparently(보아하니)"
+  ],
+  "anti": [],
+  "idiom": [
+   "allegedly involved(연루된 것으로 알려진)",
+   "allegedly stole(훔쳤다고 주장되는)"
+  ],
+  "colloc": [
+   "allegedly committed(저질렀다고 주장되는)",
+   "allegedly said(말했다고 전해지는)",
+   "allegedly responsible(책임이 있다고 주장되는)"
+  ],
+  "ex_add": "The suspect allegedly broke into three houses.  (allegedly=주장에 따르면)"
+ },
+ {
+  "num": "3695",
+  "hw": "alliance",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "함께 묶임 -> '동맹·연합·제휴'.",
+  "senses": [
+   "1) (국가·조직 간의) 동맹·연합",
+   "2) 제휴·협력 관계"
+  ],
+  "etym": "라틴어 ad(~로) + ligare(묶다) -> 고대 프랑스어 aliance -> 'alliance'. (ad+l -> all) '함께 단단히 묶임'이 핵심. ligare(묶다)는 alliance·ally(3699)·rely(3291)·ligament(인대)·oblige(의무 지우다)·league(연맹)의 뿌리.",
+  "deriv": "ad(~로)+ligare(묶다) -> 'alliance'. '함께 묶임 -> 동맹(form an alliance, 동맹을 맺다)'. 한국 학습자 핵심: ligare(묶다) 대가족 — ally(3699)·rely(3291)·ligament(인대)·oblige(의무 지우다)·league(연맹)·religion(종교)·liable(책임 있는)! a military alliance(군사 동맹), a strategic alliance(전략적 제휴), in alliance with(~과 동맹하여), forge an alliance(동맹을 맺다). coalition(연합)·partnership(제휴)·union(연합)과 유의어. 반대 enmity(적대)·rivalry(경쟁).",
+  "syn": [
+   "coalition(연합)",
+   "partnership(제휴)",
+   "union(연합)"
+  ],
+  "anti": [
+   "enmity(적대)",
+   "rivalry(경쟁)"
+  ],
+  "idiom": [
+   "form an alliance(동맹을 맺다)",
+   "in alliance with(~과 동맹하여)"
+  ],
+  "colloc": [
+   "military alliance(군사 동맹)",
+   "strategic alliance(전략적 제휴)",
+   "forge an alliance(동맹을 맺다)"
+  ],
+  "ex_add": "The two nations formed a military alliance.  (alliance=동맹)"
+ },
+ {
+  "num": "3696",
+  "hw": "allocate",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "자리에 따라 나눠 주다 -> '할당하다·배분하다·배치하다'.",
+  "senses": [
+   "1) (자원·시간을) 할당하다·배분하다",
+   "2) (특정 용도에) 배정하다·책정하다"
+  ],
+  "etym": "라틴어 ad(~로) + locus(장소·자리) -> allocare(자리에 놓다·배정하다) -> 'allocate'. (ad+l -> all) '제자리에 맞춰 나눠 줌'이 핵심. locus(장소)는 allocate·location(위치)·local(지역의)·locate(위치를 찾다)·dislocate(탈구시키다)의 뿌리.",
+  "deriv": "ad(~로)+locus(장소) -> 'allocate'. '자리에 따라 나눠 줌 -> 할당하다(allocate funds, 자금을 배분하다)'. 한국 학습자 핵심: locus(장소) 갈래 — location(위치)·local(지역의)·locate(위치를 찾다)·dislocate(탈구)·allocation(3697)·locomotive(기관차)! allocate resources(자원을 할당하다), allocate time(시간을 배분하다), allocate a budget(예산을 책정하다). assign(배정하다)·distribute(분배하다)·apportion(할당하다)과 유의어. 반대 withhold(보류하다).",
+  "syn": [
+   "assign(배정하다)",
+   "distribute(분배하다)",
+   "apportion(할당하다)"
+  ],
+  "anti": [
+   "withhold(보류하다)"
+  ],
+  "idiom": [
+   "allocate funds(자금을 배분하다)",
+   "allocate resources(자원을 할당하다)"
+  ],
+  "colloc": [
+   "allocate time(시간을 배분하다)",
+   "allocate a budget(예산을 책정하다)",
+   "fairly allocate(공정하게 할당하다)"
+  ],
+  "ex_add": "The government allocated funds for new schools.  (allocate=배분하다)"
+ },
+ {
+  "num": "3697",
+  "hw": "allocation",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "자리에 따라 나눔 -> '할당·배분 / 할당량'.",
+  "senses": [
+   "1) 할당·배분·배정",
+   "2) 할당량·배정액"
+  ],
+  "etym": "라틴어 ad + locus(장소) -> allocate(3696)의 명사형. '제자리에 맞춰 나눔'이 핵심.",
+  "deriv": "allocate(3696, 할당하다) -> 'allocation'. '자리에 따라 나눔 -> 할당(resource allocation, 자원 배분)'. 한국 학습자 핵심: locus(장소) 갈래 — allocate(3696)·location(위치)·local(지역의)·locate(찾다)·dislocate(탈구)! budget allocation(예산 배정), resource allocation(자원 배분), the allocation of funds(자금 배분). distribution(분배)·assignment(배정)·apportionment(할당)과 유의어.",
+  "syn": [
+   "distribution(분배)",
+   "assignment(배정)",
+   "apportionment(할당)"
+  ],
+  "anti": [],
+  "idiom": [
+   "resource allocation(자원 배분)",
+   "budget allocation(예산 배정)"
+  ],
+  "colloc": [
+   "the allocation of funds(자금 배분)",
+   "fair allocation(공정한 할당)",
+   "time allocation(시간 배분)"
+  ],
+  "ex_add": "The allocation of resources must be fair.  (allocation=배분)"
+ },
+ {
+  "num": "3698",
+  "hw": "allowance",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "허용해 주는 몫 -> '수당·용돈 / 허용량 / 참작'.",
+  "senses": [
+   "1) 수당·용돈·급여 보조",
+   "2) 허용량·한도",
+   "3) (make allowance(s)) 참작·감안"
+  ],
+  "etym": "고대 프랑스어 alouer(인정하다·할당하다, 라틴어 allaudare 칭찬하다 + allocare 배정하다가 섞임) -> allow + -ance. '허용해 떼어 주는 몫'이 핵심.",
+  "deriv": "allow(허용하다) -> 'allowance'. '허용해 주는 몫 -> 수당(a monthly allowance, 월 수당)·(make allowances) 참작'. 한국 학습자 핵심: allow(허락하다)에서 온 명사. a travel allowance(출장 수당), a baggage allowance(수하물 허용량), make allowances for(~을 참작하다·감안하다), a tax allowance(세금 공제). pocket money(용돈)·grant(보조금)·quota(할당량)와 유의어.",
+  "syn": [
+   "pocket money(용돈)",
+   "grant(보조금)",
+   "quota(할당량)"
+  ],
+  "anti": [],
+  "idiom": [
+   "make allowances for(~을 참작하다)",
+   "a monthly allowance(월 수당)"
+  ],
+  "colloc": [
+   "travel allowance(출장 수당)",
+   "baggage allowance(수하물 허용량)",
+   "weekly allowance(주간 용돈)"
+  ],
+  "ex_add": "His parents give him a weekly allowance.  (allowance=용돈)"
+ },
+ {
+  "num": "3699",
+  "hw": "ally",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "함께 묶인 자 -> '동맹국·협력자 / 한편이 되다'.",
+  "senses": [
+   "1) 동맹국·동맹자",
+   "2) 협력자·지지자·내 편",
+   "3) (동사) 동맹하다·제휴하다"
+  ],
+  "etym": "라틴어 ad(~로) + ligare(묶다) -> 고대 프랑스어 alier -> 'ally'. (ad+l -> all) '함께 묶인 자'가 핵심.",
+  "deriv": "ad(~로)+ligare(묶다) -> 'ally'. '함께 묶인 자 -> 동맹국(a close ally, 긴밀한 동맹)·한편이 되다(ally with, ~과 제휴하다)'. 한국 학습자 핵심: ligare(묶다) 대가족 — alliance(3695)·rely(3291)·ligament(인대)·oblige(의무 지우다)·league(연맹)·liable(책임 있는)! 발음 주의 — 명사 ally[ǽlaɪ], 동사 ally[əláɪ]! the Allies(연합국, 2차 대전), a key ally(핵심 동맹), ally oneself with(~과 동맹하다). partner(동반자)·associate(제휴자)·supporter(지지자)와 유의어. 반대 enemy(적)·adversary(적수)·rival(3323, 경쟁자).",
+  "syn": [
+   "partner(동반자)",
+   "associate(제휴자)",
+   "supporter(지지자)"
+  ],
+  "anti": [
+   "enemy(적)",
+   "adversary(적수)",
+   "rival(경쟁자)"
+  ],
+  "idiom": [
+   "a close ally(긴밀한 동맹)",
+   "ally with(~과 제휴하다)",
+   "the Allies(연합국)"
+  ],
+  "colloc": [
+   "key ally(핵심 동맹)",
+   "political ally(정치적 협력자)",
+   "close ally(긴밀한 동맹)"
+  ],
+  "ex_add": "Japan is a close ally of the United States.  (ally=동맹국)"
+ },
+ {
+  "num": "3700",
+  "hw": "aluminum",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "백반에서 얻은 금속 -> '알루미늄'.",
+  "senses": [
+   "1) 알루미늄(가벼운 은백색 금속)"
+  ],
+  "etym": "라틴어 alumen(백반·명반) -> 데이비가 명명한 'aluminium/aluminum'. 백반에서 추출한 금속이라 붙은 이름. '백반에서 얻은 가벼운 금속'이 핵심.",
+  "deriv": "alumen(백반) -> 'aluminum'. '백반에서 얻은 금속 -> 알루미늄(aluminum foil, 알루미늄 포일)'. 한국 학습자 핵심: 미국 aluminum[əlúːmɪnəm] vs 영국 aluminium[æljumíniəm] — 철자·발음·강세 모두 다름! aluminum foil(알루미늄 포일·은박지), aluminum can(알루미늄 캔), recycled aluminum(재활용 알루미늄). metal(금속)과 관련. 가볍고 녹슬지 않는 금속.",
+  "syn": [
+   "metal(금속)"
+  ],
+  "anti": [],
+  "idiom": [
+   "aluminum foil(알루미늄 포일)",
+   "aluminum can(알루미늄 캔)"
+  ],
+  "colloc": [
+   "aluminum foil(알루미늄 포일)",
+   "recycled aluminum(재활용 알루미늄)",
+   "lightweight aluminum(경량 알루미늄)"
+  ],
+  "ex_add": "The frame is made of lightweight aluminum.  (aluminum=알루미늄)"
+ },
+ {
+  "num": "3701",
+  "hw": "amateur",
+  "pos": "adj., n.",
+  "cefr": "C1",
+  "core": "좋아서 하는 사람 -> '아마추어·비전문가 / 취미로 하는'.",
+  "senses": [
+   "1) 아마추어·취미로 하는 사람·비전문가",
+   "2) (형용사) 아마추어의·비직업적인",
+   "3) (경멸) 어설픈·서투른"
+  ],
+  "etym": "라틴어 amare(사랑하다) -> amator(애호가) -> 프랑스어 amateur(애호가) -> 'amateur'. '돈이 아니라 좋아서 하는 사람'이 핵심. amare(사랑하다)는 amateur·amiable(상냥한)·amorous(연애의)·enamored(매혹된)의 뿌리.",
+  "deriv": "amare(사랑하다) -> amator(애호가) -> 'amateur'. '좋아서 하는 사람 -> 아마추어(an amateur photographer, 아마추어 사진가)'. 한국 학습자 핵심: amare(사랑하다) 갈래 — amiable(상냥한)·amorous(연애의)·enamored(매혹된)·amity(친선)! 어원이 '사랑(돈 X, 애정으로 함)'! professional(직업적인)의 반대. an amateur athlete(아마추어 선수), strictly amateur(순전히 취미인). nonprofessional(비전문가)·hobbyist(취미가)와 유의어. 반대 professional(전문가)·expert(전문가).",
+  "syn": [
+   "nonprofessional(비전문가)",
+   "hobbyist(취미가)"
+  ],
+  "anti": [
+   "professional(전문가)",
+   "expert(전문가)"
+  ],
+  "idiom": [
+   "an amateur photographer(아마추어 사진가)",
+   "strictly amateur(순전히 취미인)"
+  ],
+  "colloc": [
+   "amateur athlete(아마추어 선수)",
+   "amateur dramatics(아마추어 연극)",
+   "talented amateur(재능 있는 아마추어)"
+  ],
+  "ex_add": "He is an amateur musician who plays for fun.  (amateur=아마추어)"
+ },
+ {
+  "num": "3702",
+  "hw": "ambassador",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "보내진 사절 -> '대사·사절 / 대표·홍보 대사'.",
+  "senses": [
+   "1) (외교) 대사",
+   "2) 사절·특사",
+   "3) (단체·브랜드의) 홍보 대사·대표"
+  ],
+  "etym": "라틴어 ambactus(하인·심부름꾼) -> 중세 라틴어 ambactiare(파견하다) -> 이탈리아어 ambasciatore -> 'ambassador'. '보내진 심부름꾼·사절'이 핵심. embassy(대사관)와 한 뿌리.",
+  "deriv": "ambactus(심부름꾼) -> 'ambassador'. '보내진 사절 -> 대사(the British ambassador, 영국 대사)·홍보 대사(a brand ambassador, 브랜드 홍보 대사)'. 한국 학습자 핵심: embassy(대사관)·ambassador(대사)가 한 뿌리! an ambassador to(~ 주재 대사), a goodwill ambassador(친선 대사), a brand ambassador(브랜드 모델). envoy(사절)·diplomat(외교관)·representative(3296, 대표)와 유의어.",
+  "syn": [
+   "envoy(사절)",
+   "diplomat(외교관)",
+   "representative(대표)"
+  ],
+  "anti": [],
+  "idiom": [
+   "an ambassador to(~ 주재 대사)",
+   "a goodwill ambassador(친선 대사)"
+  ],
+  "colloc": [
+   "British ambassador(영국 대사)",
+   "brand ambassador(브랜드 홍보 대사)",
+   "appoint an ambassador(대사를 임명하다)"
+  ],
+  "ex_add": "She was appointed ambassador to France.  (ambassador=대사)"
+ },
+ {
+  "num": "3703",
+  "hw": "amend",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "흠을 없애 고치다 -> '(법·문서를) 개정하다·수정하다 / 바로잡다'.",
+  "senses": [
+   "1) (법·규정·문서를) 개정하다·수정하다",
+   "2) 바로잡다·고치다"
+  ],
+  "etym": "라틴어 ex(밖으로) + mendum(흠·결점) -> emendare(흠을 없애다) -> 고대 프랑스어 amender -> 'amend'. '흠을 없애 바로잡음'이 핵심. mendum(흠)은 amend·emend(교정하다)·mend(고치다)·mendacious(거짓의)의 뿌리.",
+  "deriv": "ex(밖)+mendum(흠) -> 'amend'. '흠을 없애 고침 -> 개정하다(amend a law, 법을 개정하다)'. 한국 학습자 핵심: mendum(흠) 갈래 — emend(교정하다)·mend(고치다·수선하다)·amendment(3704)·mendacious(거짓말하는)! amend the constitution(헌법을 개정하다), make amends(보상하다·잘못을 보상하다). revise(3315 부근, 개정하다)·modify(수정하다)·alter(고치다)와 유의어. 반대 retain(3311, 유지하다)·preserve(3209, 보존하다).",
+  "syn": [
+   "revise(개정하다)",
+   "modify(수정하다)",
+   "alter(고치다)"
+  ],
+  "anti": [
+   "retain(유지하다)",
+   "preserve(보존하다)"
+  ],
+  "idiom": [
+   "amend a law(법을 개정하다)",
+   "make amends(잘못을 보상하다)"
+  ],
+  "colloc": [
+   "amend the constitution(헌법을 개정하다)",
+   "amend a contract(계약을 수정하다)",
+   "amend legislation(법안을 개정하다)"
+  ],
+  "ex_add": "The committee voted to amend the law.  (amend=개정하다)"
+ },
+ {
+  "num": "3704",
+  "hw": "amendment",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "흠을 없애 고침 -> '개정·수정 / 수정 조항'.",
+  "senses": [
+   "1) (법·문서의) 개정·수정",
+   "2) (헌법의) 수정 조항"
+  ],
+  "etym": "라틴어 emendare(흠을 없애다) -> amend(3703) + -ment. '바로잡아 고침'이 핵심.",
+  "deriv": "amend(3703, 개정하다) -> 'amendment'. '흠을 없애 고침 -> 개정(a constitutional amendment, 헌법 수정 조항)'. 한국 학습자 핵심: mendum(흠) 갈래 — amend(3703)·emend(교정)·mend(고치다)·mendacious(거짓의)! the First Amendment(미국 수정 헌법 제1조, 표현의 자유), propose an amendment(개정안을 발의하다), make amendments(수정하다). revision(3315, 개정)·modification(수정)·alteration(변경)과 유의어.",
+  "syn": [
+   "revision(개정)",
+   "modification(수정)",
+   "alteration(변경)"
+  ],
+  "anti": [],
+  "idiom": [
+   "the First Amendment(수정 헌법 제1조)",
+   "propose an amendment(개정안을 발의하다)"
+  ],
+  "colloc": [
+   "constitutional amendment(헌법 수정 조항)",
+   "propose an amendment(개정안을 내다)",
+   "minor amendment(소폭 수정)"
+  ],
+  "ex_add": "Congress passed an amendment to the bill.  (amendment=수정)"
+ },
+ {
+  "num": "3705",
+  "hw": "amid",
+  "pos": "prep.",
+  "cefr": "C1",
+  "core": "한가운데에 -> '~의 한가운데에·~ 가운데서·~ 중에'.",
+  "senses": [
+   "1) ~의 한가운데에·~에 둘러싸여",
+   "2) (어떤 상황) ~ 가운데서·~하는 중에"
+  ],
+  "etym": "고대 영어 on middan(가운데에), a- + mid(중간). '한가운데에'가 핵심. mid(중간)는 amid·middle(중간)·midst(한복판)·midnight(자정)의 뿌리.",
+  "deriv": "a-(에)+mid(중간) -> 'amid'. '한가운데에 -> ~ 가운데서(amid the chaos, 혼란 속에서)'. 한국 학습자 핵심: mid(중간) 갈래 — middle(중간)·midst(한복판)·midnight(자정)·amidst(=amid)! amid는 격식체로 추상적 상황에 자주 — amid concerns(우려 속에서), amid growing tension(고조되는 긴장 속에서). among(~ 사이에)과 구별: amid는 셀 수 없는 것/상황, among은 셀 수 있는 복수에 주로. in the middle of(~의 한가운데)·amidst(~ 가운데)와 유의어.",
+  "syn": [
+   "among(~ 사이에)",
+   "amidst(~ 가운데)",
+   "surrounded by(~에 둘러싸여)"
+  ],
+  "anti": [],
+  "idiom": [
+   "amid the chaos(혼란 속에서)",
+   "amid concerns(우려 속에서)"
+  ],
+  "colloc": [
+   "amid growing tension(고조되는 긴장 속에서)",
+   "amid speculation(추측이 무성한 가운데)",
+   "amid fears(공포 속에서)"
+  ],
+  "ex_add": "The company cut jobs amid growing financial concerns.  (amid=~ 가운데서)"
+ },
+ {
+  "num": "3706",
+  "hw": "analogy",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "비례에 따른 견줌 -> '비유·유추 / 유사성'.",
+  "senses": [
+   "1) 비유·유추",
+   "2) 유사점·유사성·상응"
+  ],
+  "etym": "그리스어 ana(~에 따라) + logos(비율·말·이치) -> analogia(비례) -> 'analogy'. '비율에 따라 견주어 봄'이 핵심. logos(말·이치)는 analogy·logic(논리)·dialogue(대화)·apology(사과)·-logy(학문)의 뿌리.",
+  "deriv": "ana(~에 따라)+logos(비율) -> 'analogy'. '비례에 따른 견줌 -> 유추(by analogy, 유추하여)·비유(draw an analogy, 비유하다)'. 한국 학습자 핵심: logos(말·이치·비율) 대가족 — logic(논리)·dialogue(대화)·apology(사과)·analyze(분석하다)·biology(생물학)·-logy(모든 학문)! draw an analogy between(~ 사이의 유사점을 들다), by analogy with(~에 빗대어), a useful analogy(유용한 비유). comparison(비교)·parallel(유사점)·similarity(유사성)와 유의어. 반대 difference(차이)·contrast(대조).",
+  "syn": [
+   "comparison(비교)",
+   "parallel(유사점)",
+   "similarity(유사성)"
+  ],
+  "anti": [
+   "difference(차이)",
+   "contrast(대조)"
+  ],
+  "idiom": [
+   "draw an analogy(비유하다)",
+   "by analogy(유추하여)"
+  ],
+  "colloc": [
+   "useful analogy(유용한 비유)",
+   "draw an analogy between(~ 사이의 유사점을 들다)",
+   "apt analogy(적절한 비유)"
+  ],
+  "ex_add": "He drew an analogy between the brain and a computer.  (analogy=비유)"
+ },
+ {
+  "num": "3707",
+  "hw": "anchor",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "배를 붙들어 매는 갈고리 -> '닻 / 의지가 되는 것 / 뉴스 진행자'.",
+  "senses": [
+   "1) 닻",
+   "2) 든든한 버팀목·의지가 되는 것",
+   "3) (방송) 뉴스 진행자; (동사) 단단히 고정하다"
+  ],
+  "etym": "그리스어 ankyra(갈고리·닻) -> 라틴어 anchora -> 'anchor'. '구부러진 갈고리로 배를 붙들어 맴'이 핵심. ankyra(갈고리)는 angle(각)·ankle(발목)과 먼 친척(구부러진 것).",
+  "deriv": "ankyra(갈고리) -> 'anchor'. '닻 -> (붙들어 주는) 버팀목·뉴스 진행자(a news anchor, 뉴스 앵커)·고정하다'. 한국 학습자 핵심: 묵음 ch[k] — anchor[ǽŋkər]! drop anchor(닻을 내리다·정박하다), weigh anchor(닻을 올리다·출항하다), an emotional anchor(정서적 버팀목), a news anchor(뉴스 앵커). 동사 anchor=고정하다·중심을 잡다. mainstay(중심)·support(버팀목)와 유의어.",
+  "syn": [
+   "mainstay(중심)",
+   "support(버팀목)",
+   "fasten(고정하다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "drop anchor(정박하다)",
+   "weigh anchor(출항하다)",
+   "a news anchor(뉴스 앵커)"
+  ],
+  "colloc": [
+   "drop anchor(닻을 내리다)",
+   "news anchor(뉴스 진행자)",
+   "emotional anchor(정서적 버팀목)"
+  ],
+  "ex_add": "The ship dropped anchor in the harbor.  (anchor=닻)"
+ },
+ {
+  "num": "3708",
+  "hw": "angel",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "(신의) 전령 -> '천사 / 천사 같은 사람 / 후원자'.",
+  "senses": [
+   "1) 천사",
+   "2) 천사 같은 사람·고운 사람",
+   "3) (기업의) 투자 후원자(angel investor)"
+  ],
+  "etym": "그리스어 angelos(전령·사자) -> 라틴어 angelus -> 고대 영어 engel -> 'angel'. 성경 번역에서 '신의 전령'을 가리킴. '신의 소식을 전하는 자'가 핵심. angelos(전령)는 angel·evangelist(전도사, 좋은 소식 전하는 이)의 뿌리.",
+  "deriv": "angelos(전령) -> 'angel'. '신의 전령 -> 천사(a guardian angel, 수호천사)·후원자'. 한국 학습자 핵심: angelos(전령) 갈래 — evangelist(복음 전도사, eu 좋은+angelos 소식)·evangelical(복음주의의)! 발음 주의 — angel[éɪndʒəl] vs angle[ǽŋɡl](각도)! a guardian angel(수호천사), an angel investor(엔젤 투자자), be an angel(천사 같다·정말 착하다). 반의어 격 devil(악마). saint(성인)·cherub(아기 천사)과 관련. 반대 devil(악마)·demon(악령).",
+  "syn": [
+   "saint(성인)",
+   "cherub(아기 천사)"
+  ],
+  "anti": [
+   "devil(악마)",
+   "demon(악령)"
+  ],
+  "idiom": [
+   "a guardian angel(수호천사)",
+   "an angel investor(엔젤 투자자)",
+   "be an angel(천사 같다)"
+  ],
+  "colloc": [
+   "guardian angel(수호천사)",
+   "fallen angel(타락 천사)",
+   "angel investor(엔젤 투자자)"
+  ],
+  "ex_add": "She's an angel for helping us move.  (angel=천사 같은 사람)"
+ },
+ {
+  "num": "3709",
+  "hw": "anonymous",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "이름이 없는 -> '익명의·작자 미상의 / 특색 없는'.",
+  "senses": [
+   "1) 익명의·이름을 밝히지 않은",
+   "2) 작자 미상의·이름 없는",
+   "3) 특색 없는·평범한"
+  ],
+  "etym": "그리스어 an(없는) + onyma(이름) -> anonymos(이름 없는) -> 'anonymous'. '이름을 드러내지 않는'이 핵심. onyma(이름)는 anonymous·synonym(동의어)·pseudonym(필명)·antonym(반의어)의 뿌리.",
+  "deriv": "an(없는)+onyma(이름) -> 'anonymous'. '이름이 없는 -> 익명의(an anonymous donor, 익명의 기부자)'. 한국 학습자 핵심: onyma/onoma(이름) 대가족 — synonym(동의어)·pseudonym(필명)·antonym(반의어)·homonym(동음이의어)·acronym(두문자어)! an-(없는) — anonymous·atheist(무신론자)·anarchy(무정부)·apathy(무관심)! remain anonymous(익명을 유지하다), an anonymous tip(익명 제보), Alcoholics Anonymous(익명의 알코올 중독자 모임). unnamed(이름 없는)·unidentified(신원 미상의)·nameless(이름 없는)와 유의어. 반대 named(이름이 밝혀진)·identified(신원이 확인된).",
+  "syn": [
+   "unnamed(이름 없는)",
+   "unidentified(신원 미상의)",
+   "nameless(이름 없는)"
+  ],
+  "anti": [
+   "named(이름이 밝혀진)",
+   "identified(신원이 확인된)"
+  ],
+  "idiom": [
+   "remain anonymous(익명을 유지하다)",
+   "an anonymous tip(익명 제보)"
+  ],
+  "colloc": [
+   "anonymous donor(익명의 기부자)",
+   "anonymous source(익명의 출처)",
+   "wish to remain anonymous(익명을 원하다)"
+  ],
+  "ex_add": "The donor wished to remain anonymous.  (anonymous=익명의)"
+ },
+ {
+  "num": "3710",
+  "hw": "apparatus",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "갖춰 준비된 것 -> '기구·장치 / 조직·기관'.",
+  "senses": [
+   "1) (특정 용도의) 기구·장치·설비",
+   "2) (조직의) 기구·기관·체제"
+  ],
+  "etym": "라틴어 ad(~로) + parare(준비하다·갖추다) -> apparatus(준비·장비). (ad+p -> app) '특정 목적에 맞춰 갖춰진 것'이 핵심. parare(준비하다)는 apparatus·prepare(준비하다)·repair(수리하다)·apparel(3711)·separate(분리하다)의 뿌리.",
+  "deriv": "ad(~로)+parare(준비하다) -> 'apparatus'. '갖춰 준비된 것 -> 기구·장치(breathing apparatus, 호흡 장치)·(조직) 기구(the state apparatus, 국가 기구)'. 한국 학습자 핵심: parare(준비하다) 대가족 — prepare(준비)·repair(수리)·apparel(3711)·separate(분리)·prepare(준비)·parade(행렬)! 단복수 동형 가능(apparatus 또는 apparatuses). breathing apparatus(호흡 장치), the security apparatus(보안 기구). equipment(장비)·device(장치)·machinery(기계)와 유의어.",
+  "syn": [
+   "equipment(장비)",
+   "device(장치)",
+   "machinery(기계)"
+  ],
+  "anti": [],
+  "idiom": [
+   "breathing apparatus(호흡 장치)",
+   "the state apparatus(국가 기구)"
+  ],
+  "colloc": [
+   "breathing apparatus(호흡 장치)",
+   "security apparatus(보안 기구)",
+   "complex apparatus(복잡한 장치)"
+  ],
+  "ex_add": "Firefighters wear breathing apparatus in smoke.  (apparatus=장치)"
+ },
+ {
+  "num": "3711",
+  "hw": "apparel",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "갖춰 차려입은 것 -> '의류·의복'.",
+  "senses": [
+   "1) (격식·상업) 의류·의복·복장"
+  ],
+  "etym": "라틴어 ad(~로) + parare(준비하다·갖추다) -> 고대 프랑스어 apareil(채비·복장) -> 'apparel'. '몸에 갖춰 차려입은 것'이 핵심.",
+  "deriv": "ad(~로)+parare(준비하다) -> 'apparel'. '갖춰 차려입은 것 -> 의류(sports apparel, 스포츠 의류)'. 한국 학습자 핵심: parare(준비하다) 갈래 — apparatus(3710)·prepare(준비)·repair(수리)·separate(분리)·parade(행렬)! 주로 상업·격식 용어(=clothing). men's apparel(남성 의류), athletic apparel(운동복), an apparel company(의류 회사). clothing(의류)·garments(의복)·attire(복장)와 유의어.",
+  "syn": [
+   "clothing(의류)",
+   "garments(의복)",
+   "attire(복장)"
+  ],
+  "anti": [],
+  "idiom": [
+   "sports apparel(스포츠 의류)",
+   "men's apparel(남성 의류)"
+  ],
+  "colloc": [
+   "athletic apparel(운동복)",
+   "apparel company(의류 회사)",
+   "women's apparel(여성 의류)"
+  ],
+  "ex_add": "The store sells a wide range of sports apparel.  (apparel=의류)"
+ },
+ {
+  "num": "3712",
+  "hw": "appealing",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "마음을 끌어당기는 -> '매력적인·마음을 끄는 / 애원하는'.",
+  "senses": [
+   "1) 매력적인·마음을 끄는·솔깃한",
+   "2) 애원하는·호소하는"
+  ],
+  "etym": "라틴어 ad(~로) + pellere(몰다·밀다) -> appellare(부르다·호소하다) -> appeal(호소하다) + -ing. (ad+p -> app) '마음을 끌어당겨 호소하는'이 핵심. pellere(몰다)는 appealing·appeal·compel(강요하다)·repel(물리치다)·expel(쫓아내다)·propel(추진하다)의 뿌리.",
+  "deriv": "ad(~로)+pellere(몰다) -> appeal -> 'appealing'. '마음을 끌어당기는 -> 매력적인(an appealing idea, 솔깃한 생각)·애원하는'. 한국 학습자 핵심: pellere(몰다·밀다) 대가족 — appeal·compel(강요)·repel(물리치다)·expel(쫓아내다)·propel(추진)·dispel(쫓아 버리다)·impel(몰아대다)! visually appealing(시각적으로 매력적인), an appealing offer(솔깃한 제안). attractive(매력적인)·tempting(솔깃한)·enticing(유혹적인)과 유의어. 반대 unappealing(매력 없는)·repulsive(혐오스러운).",
+  "syn": [
+   "attractive(매력적인)",
+   "tempting(솔깃한)",
+   "enticing(유혹적인)"
+  ],
+  "anti": [
+   "unappealing(매력 없는)",
+   "repulsive(혐오스러운)"
+  ],
+  "idiom": [
+   "an appealing idea(솔깃한 생각)",
+   "visually appealing(시각적으로 매력적인)"
+  ],
+  "colloc": [
+   "appealing offer(솔깃한 제안)",
+   "widely appealing(폭넓게 매력적인)",
+   "appealing design(매력적인 디자인)"
+  ],
+  "ex_add": "The idea of working from home is very appealing.  (appealing=매력적인)"
+ },
+ {
+  "num": "3713",
+  "hw": "appetite",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "~을 향해 구함 -> '식욕 / 욕구·갈망'.",
+  "senses": [
+   "1) 식욕·입맛",
+   "2) (~에 대한) 욕구·갈망·의욕"
+  ],
+  "etym": "라틴어 ad(~로) + petere(구하다·향하다) -> appetitus(욕구) -> 'appetite'. (ad+p -> app) '무언가를 향해 강하게 구함'이 핵심. petere(구하다)는 appetite·compete(경쟁하다)·petition(청원)·repeat(반복하다)·perpetual(영구적인)의 뿌리.",
+  "deriv": "ad(~로)+petere(구하다) -> 'appetite'. '~을 향해 구함 -> 식욕(lose one's appetite, 식욕을 잃다)·욕구(an appetite for risk, 위험에 대한 욕구)'. 한국 학습자 핵심: petere(구하다·향하다) 대가족 — compete(경쟁)·petition(청원)·repeat(반복)·perpetual(영구의)·appetizer(전채)·impetus(추진력)! whet one's appetite(식욕·흥미를 돋우다), a healthy appetite(왕성한 식욕), an appetite for knowledge(지식욕). hunger(허기)·craving(갈망)·desire(욕구)와 유의어. 반대 aversion(혐오)·distaste(싫음).",
+  "syn": [
+   "hunger(허기)",
+   "craving(갈망)",
+   "desire(욕구)"
+  ],
+  "anti": [
+   "aversion(혐오)",
+   "distaste(싫음)"
+  ],
+  "idiom": [
+   "lose one's appetite(식욕을 잃다)",
+   "whet one's appetite(식욕을 돋우다)"
+  ],
+  "colloc": [
+   "healthy appetite(왕성한 식욕)",
+   "appetite for knowledge(지식욕)",
+   "loss of appetite(식욕 부진)"
+  ],
+  "ex_add": "Exercise gave me a healthy appetite.  (appetite=식욕)"
+ },
+ {
+  "num": "3714",
+  "hw": "applaud",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "손뼉을 쳐 주다 -> '박수갈채하다 / 칭찬하다'.",
+  "senses": [
+   "1) 박수갈채하다·손뼉을 치다",
+   "2) (행동을) 칭찬하다·높이 평가하다"
+  ],
+  "etym": "라틴어 ad(~로) + plaudere(손뼉 치다) -> applaudere -> 'applaud'. (ad+p -> app) '~에게 손뼉을 쳐 줌'이 핵심. plaudere(손뼉 치다)는 applaud·applause(박수)·plausible(그럴듯한)·explode(폭발하다, 손뼉 쳐 쫓아냄)의 뿌리.",
+  "deriv": "ad(~로)+plaudere(손뼉 치다) -> 'applaud'. '손뼉을 쳐 줌 -> 박수갈채하다(applaud the performance, 공연에 박수치다)·칭찬하다(applaud the decision, 결정을 칭찬하다)'. 한국 학습자 핵심: plaudere(손뼉 치다) 갈래 — applause(박수)·plausible(그럴듯한, 박수받을 만한)·explode(폭발하다)·plaudit(찬사)! applaud someone for(~을 ~한 점에서 칭찬하다), warmly applaud(따뜻하게 박수치다). clap(손뼉 치다)·cheer(환호하다)·praise(칭찬하다)와 유의어. 반대 boo(야유하다)·criticize(비판하다)·jeer(조롱하다).",
+  "syn": [
+   "clap(손뼉 치다)",
+   "cheer(환호하다)",
+   "praise(칭찬하다)"
+  ],
+  "anti": [
+   "boo(야유하다)",
+   "criticize(비판하다)",
+   "jeer(조롱하다)"
+  ],
+  "idiom": [
+   "applaud the performance(공연에 박수치다)",
+   "applaud someone for(~을 칭찬하다)"
+  ],
+  "colloc": [
+   "applaud the decision(결정을 칭찬하다)",
+   "warmly applaud(따뜻하게 박수치다)",
+   "loudly applaud(크게 박수치다)"
+  ],
+  "ex_add": "The audience applauded loudly at the end.  (applaud=박수갈채하다)"
+ },
+ {
+  "num": "3715",
+  "hw": "applicable",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "갖다 붙일 수 있는 -> '적용되는·해당되는·적절한'.",
+  "senses": [
+   "1) (규칙·법이) 적용되는·해당되는",
+   "2) 적절한·들어맞는"
+  ],
+  "etym": "라틴어 ad(~로) + plicare(접다·붙이다) -> applicare(갖다 붙이다·적용하다) -> apply(적용하다) + -able. (ad+p -> app) '갖다 붙일 수 있는'이 핵심. plicare(접다)는 applicable·apply·complicate(복잡하게 하다)·imply(암시하다)·reply(답하다)·duplicate(복제)의 뿌리.",
+  "deriv": "ad(~로)+plicare(접다·붙이다) -> apply -> 'applicable'. '갖다 붙일 수 있는 -> 적용되는(applicable law, 적용 법규)'. 한국 학습자 핵심: plicare(접다·붙이다) 대가족 — apply·complicate(복잡하게)·imply(암시)·reply(답하다)·duplicate(복제)·explicit(명백한)·multiply(곱하다)·complex(복잡한)! applicable to(~에 적용되는), where applicable(해당되는 경우), generally applicable(일반적으로 적용되는). relevant(3287, 관련된)·pertinent(적절한)·valid(3583, 유효한)와 유의어. 반대 inapplicable(적용 불가한)·irrelevant(무관한).",
+  "syn": [
+   "relevant(관련된)",
+   "pertinent(적절한)",
+   "valid(유효한)"
+  ],
+  "anti": [
+   "inapplicable(적용 불가한)",
+   "irrelevant(무관한)"
+  ],
+  "idiom": [
+   "applicable to(~에 적용되는)",
+   "where applicable(해당되는 경우)"
+  ],
+  "colloc": [
+   "applicable law(적용 법규)",
+   "generally applicable(일반적으로 적용되는)",
+   "directly applicable(직접 적용되는)"
+  ],
+  "ex_add": "This rule is applicable to all employees.  (applicable=적용되는)"
+ },
+ {
+  "num": "3716",
+  "hw": "appoint",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "콕 짚어 정하다 -> '임명하다·지명하다 / (때·장소를) 정하다'.",
+  "senses": [
+   "1) (직책에) 임명하다·지명하다",
+   "2) (시간·장소를) 정하다·약속하다"
+  ],
+  "etym": "라틴어 ad(~로) + punctum(점) -> 고대 프랑스어 apointier(점을 찍어 정하다) -> 'appoint'. (ad+p -> app) '콕 짚어 정함'이 핵심. punctum(점)은 appoint·point(점)·punctual(시간을 지키는)·puncture(구멍)·punctuation(구두점)의 뿌리.",
+  "deriv": "ad(~로)+punctum(점) -> 'appoint'. '콕 짚어 정함 -> 임명하다(appoint a manager, 관리자를 임명하다)·(때를) 정하다'. 한국 학습자 핵심: punctum(점) 대가족 — point(점)·punctual(시간 엄수하는)·puncture(구멍을 내다)·punctuation(구두점)·appointment(약속·임명)! appoint someone as(~을 ~로 임명하다), be appointed to a position(직책에 임명되다), at the appointed time(정해진 시각에). nominate(지명하다)·designate(지정하다)·assign(배정하다)과 유의어. 반대 dismiss(해임하다)·remove(해임하다).",
+  "syn": [
+   "nominate(지명하다)",
+   "designate(지정하다)",
+   "assign(배정하다)"
+  ],
+  "anti": [
+   "dismiss(해임하다)",
+   "remove(해임하다)"
+  ],
+  "idiom": [
+   "appoint someone as(~을 ~로 임명하다)",
+   "at the appointed time(정해진 시각에)"
+  ],
+  "colloc": [
+   "appoint a manager(관리자를 임명하다)",
+   "appoint a committee(위원회를 구성하다)",
+   "newly appointed(새로 임명된)"
+  ],
+  "ex_add": "She was appointed head of the department.  (appoint=임명하다)"
+ },
+ {
+  "num": "3717",
+  "hw": "appreciation",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "값을 매겨 알아줌 -> '감사 / 감상·이해 / (가치) 상승'.",
+  "senses": [
+   "1) 감사·고마움",
+   "2) 감상·이해·올바른 평가",
+   "3) (가치·가격의) 상승"
+  ],
+  "etym": "라틴어 ad(~로) + pretium(값·가격) -> appretiare(값을 매기다·평가하다) -> appreciate + -ion. (ad+p -> app) '값을 제대로 매겨 알아줌'이 핵심. pretium(값)은 appreciation·price(가격)·precious(3192)·praise(칭찬)·appraise(평가하다)의 뿌리.",
+  "deriv": "ad(~로)+pretium(값) -> appreciate -> 'appreciation'. '값을 매겨 알아줌 -> 감사(in appreciation of, ~에 감사하여)·감상·(가치) 상승(currency appreciation, 통화 가치 상승)'. 한국 학습자 핵심: pretium(값) 대가족 — price(가격)·precious(3192)·praise(칭찬)·appraise(평가)·depreciate(가치가 떨어지다)! show appreciation(감사를 표하다), in appreciation of(~에 대한 감사로). gratitude(감사)·recognition(3271, 인정)·understanding(이해)과 유의어. 반대 depreciation(가치 하락)·ingratitude(배은망덕).",
+  "syn": [
+   "gratitude(감사)",
+   "recognition(인정)",
+   "understanding(이해)"
+  ],
+  "anti": [
+   "depreciation(가치 하락)",
+   "ingratitude(배은망덕)"
+  ],
+  "idiom": [
+   "in appreciation of(~에 감사하여)",
+   "show appreciation(감사를 표하다)"
+  ],
+  "colloc": [
+   "express appreciation(감사를 표하다)",
+   "deep appreciation(깊은 감사)",
+   "currency appreciation(통화 가치 상승)"
+  ],
+  "ex_add": "He gave her flowers in appreciation of her help.  (appreciation=감사)"
+ },
+ {
+  "num": "3718",
+  "hw": "arbitrary",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "심판 마음대로의 -> '임의의·자의적인·독단적인'.",
+  "senses": [
+   "1) 임의의·제멋대로의·근거 없는",
+   "2) (권력이) 독단적인·전횡적인"
+  ],
+  "etym": "라틴어 arbiter(중재자·심판) -> arbitrarius(심판의 재량에 달린) -> 'arbitrary'. '심판이 마음대로 정하는'이 핵심. arbiter(심판)는 arbitrary·arbitrate(중재하다)·arbiter(결정권자)의 뿌리.",
+  "deriv": "arbiter(심판) -> arbitrarius(재량의) -> 'arbitrary'. '심판 마음대로의 -> 임의의(an arbitrary decision, 자의적 결정)·독단적인'. 한국 학습자 핵심: arbiter(심판·중재자) 갈래 — arbitrate(중재하다)·arbitration(중재)·arbiter(결정권자)·arbitrarily(임의로)! an arbitrary choice(임의적 선택), arbitrary arrest(불법 자의적 체포), purely arbitrary(순전히 자의적인). random(3253, 무작위의)·capricious(변덕스러운)·despotic(독재적인)과 유의어. 반대 reasoned(근거 있는)·systematic(체계적인)·deliberate(2566, 신중한).",
+  "syn": [
+   "random(무작위의)",
+   "capricious(변덕스러운)",
+   "despotic(독재적인)"
+  ],
+  "anti": [
+   "reasoned(근거 있는)",
+   "systematic(체계적인)",
+   "deliberate(신중한)"
+  ],
+  "idiom": [
+   "an arbitrary decision(자의적 결정)",
+   "arbitrary arrest(자의적 체포)"
+  ],
+  "colloc": [
+   "arbitrary choice(임의적 선택)",
+   "completely arbitrary(완전히 자의적인)",
+   "arbitrary power(독단적 권력)"
+  ],
+  "ex_add": "The decision seemed completely arbitrary.  (arbitrary=자의적인)"
+ },
+ {
+  "num": "3719",
+  "hw": "architectural",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "으뜸 목수의 -> '건축의·건축학의'.",
+  "senses": [
+   "1) 건축의·건축학의",
+   "2) 건축 양식의·구조상의"
+  ],
+  "etym": "그리스어 arkhi(으뜸의) + tekton(목수·건축가) -> arkhitekton(우두머리 건축가) -> architecture(건축) + -al. '으뜸 목수가 짓는 것의'가 핵심. tekton(목수)은 architectural·technique(기술)·technology(기술)와 친척.",
+  "deriv": "arkhi(으뜸)+tekton(목수) -> architecture -> 'architectural'. '으뜸 목수의 -> 건축의(architectural design, 건축 설계)'. 한국 학습자 핵심: arkhi(으뜸) 갈래 — architect(건축가)·archbishop(대주교)·archenemy(숙적)·monarchy(군주제)·hierarchy(위계)·anarchy(무정부)! tekton(목수) 갈래 — technique·technology·tectonic(지각의)! architectural style(건축 양식), architectural masterpiece(건축 걸작). structural(구조의)·building(건축의)과 유의어.",
+  "syn": [
+   "structural(구조의)",
+   "building(건축의)"
+  ],
+  "anti": [],
+  "idiom": [
+   "architectural design(건축 설계)",
+   "architectural style(건축 양식)"
+  ],
+  "colloc": [
+   "architectural masterpiece(건축 걸작)",
+   "architectural heritage(건축 유산)",
+   "architectural feature(건축적 특징)"
+  ],
+  "ex_add": "The city is famous for its architectural beauty.  (architectural=건축의)"
+ },
+ {
+  "num": "3720",
+  "hw": "archive",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "관청에 보관된 기록 -> '기록 보관소·기록물 / 보관하다'.",
+  "senses": [
+   "1) 기록 보관소·자료실",
+   "2) (archives) 기록물·보관 자료",
+   "3) (동사) 보관하다·기록 보관소에 넣다"
+  ],
+  "etym": "그리스어 arkheion(관청·정부 청사, arkhe 통치) -> 라틴어 archivum -> 'archive'. 관청에 공문서를 보관하던 데서. '관청에 보관된 공식 기록'이 핵심. arkhe(통치·시작)는 archive·archaic(고대의)·archaeology(고고학)·monarchy(군주제)의 뿌리.",
+  "deriv": "arkheion(관청) -> 'archive'. '관청에 보관된 기록 -> 기록 보관소(the national archives, 국가 기록원)·보관하다'. 한국 학습자 핵심: arkhe(통치·시작·으뜸) 갈래 — archaic(고대의)·archaeology(고고학)·monarchy(군주제)·architect(건축가, 3719)·anarchy(무정부)! the national archives(국가 기록보관소), digital archive(디지털 아카이브), archive footage(기록 영상). record(기록)·repository(저장소)·register(3280, 기록부)와 유의어.",
+  "syn": [
+   "record(기록)",
+   "repository(저장소)",
+   "register(기록부)"
+  ],
+  "anti": [],
+  "idiom": [
+   "the national archives(국가 기록원)",
+   "archive footage(기록 영상)"
+  ],
+  "colloc": [
+   "digital archive(디지털 아카이브)",
+   "online archive(온라인 기록물)",
+   "historical archive(역사 기록물)"
+  ],
+  "ex_add": "The documents are kept in the national archive.  (archive=기록 보관소)"
+ },
+ {
+  "num": "3721",
+  "hw": "arena",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "모래를 깐 경기장 -> '경기장·공연장 / (활동·경쟁의) 장'.",
+  "senses": [
+   "1) (원형) 경기장·공연장",
+   "2) (활동·경쟁이 벌어지는) 장·무대·영역"
+  ],
+  "etym": "라틴어 harena(모래) -> '모래를 깐 원형 투기장'에서 'arena'. 로마 검투장 바닥에 피를 흡수하려 모래를 깔았던 데서. '모래를 깐 경기장'이 핵심.",
+  "deriv": "harena(모래) -> 'arena'. '모래를 깐 경기장 -> (경쟁의) 장(the political arena, 정치 무대)'. 한국 학습자 핵심: 어원이 '모래(harena)' — 로마 콜로세움 바닥의 모래! the political arena(정치판), enter the arena(경쟁에 뛰어들다), a sports arena(스포츠 경기장), the global arena(국제 무대). stadium(경기장)·field(분야)·sphere(영역)와 유의어.",
+  "syn": [
+   "stadium(경기장)",
+   "field(분야)",
+   "sphere(영역)"
+  ],
+  "anti": [],
+  "idiom": [
+   "the political arena(정치 무대)",
+   "enter the arena(경쟁에 뛰어들다)"
+  ],
+  "colloc": [
+   "sports arena(스포츠 경기장)",
+   "global arena(국제 무대)",
+   "public arena(공적 영역)"
+  ],
+  "ex_add": "She entered the political arena at a young age.  (arena=무대)"
+ },
+ {
+  "num": "3722",
+  "hw": "arm",
+  "pos": "n., v.",
+  "cefr": "C1",
+  "core": "맞춰진 것 -> '팔 / (arms) 무기 / 무장시키다'.",
+  "senses": [
+   "1) 팔; (의자의) 팔걸이; (조직의) 부문",
+   "2) (arms) 무기·병기",
+   "3) (동사) 무장시키다·갖추게 하다"
+  ],
+  "etym": "(1) 팔: 라틴어 armus(어깨·팔). (2) 무기: 라틴어 arma(무기·장비). 둘 다 인도유럽어 ar-(맞추다·끼우다)에서 — '몸에 맞춰진 것 / 잘 갖춰진 장비'가 핵심. arma(무기)는 arm·army(군대)·armor(갑옷)·alarm(경보)의 뿌리.",
+  "deriv": "ar-(맞추다) -> arm. '맞춰진 것 -> 팔·(갖춘 장비) 무기·무장시키다(arm the soldiers, 병사들을 무장시키다)'. 한국 학습자 핵심: 같은 ar-(맞추다) 뿌리에서 '팔'과 '무기'가 갈라짐! arma(무기) 갈래 — army(군대)·armor(갑옷)·alarm(경보, all'arme '무기를 들어라')·disarm(무장 해제)·armament(군비)! arms race(군비 경쟁), bear arms(무기를 소지하다), with open arms(두 팔 벌려 환영), arm in arm(팔짱을 끼고), up in arms(분개하여). weapon(무기)·equip(갖추다)와 유의어.",
+  "syn": [
+   "weapon(무기)",
+   "equip(갖추다)",
+   "limb(팔다리)"
+  ],
+  "anti": [
+   "disarm(무장 해제하다)"
+  ],
+  "idiom": [
+   "arms race(군비 경쟁)",
+   "with open arms(두 팔 벌려 환영)",
+   "up in arms(분개하여)"
+  ],
+  "colloc": [
+   "arm the soldiers(병사들을 무장시키다)",
+   "bear arms(무기를 소지하다)",
+   "arms control(군비 통제)"
+  ],
+  "ex_add": "The rebels were armed with rifles.  (arm=무장시키다)"
+ },
+ {
+  "num": "3723",
+  "hw": "array",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "줄지어 갖춰 놓음 -> '(인상적인) 집합·진열 / 배열 / 정렬하다'.",
+  "senses": [
+   "1) (인상적인) 집합·모음·다수(an array of)",
+   "2) (가지런한) 배열·진열·정렬",
+   "3) (동사) 정렬시키다·배치하다"
+  ],
+  "etym": "고대 프랑스어 areer(정돈하다·줄 세우다), 라틴어 ad + 게르만어 red-(준비하다) -> 'array'. '줄지어 갖춰 늘어놓음'이 핵심. ready(준비된)와 먼 친척.",
+  "deriv": "ad+red-(준비하다) -> 'array'. '줄지어 갖춰 놓음 -> (다양한) 집합(an array of products, 다양한 제품들)·배열'. 한국 학습자 핵심: an array of(다채로운·다수의)가 가장 빈출 — '인상적일 만큼 많은'! a dazzling array(눈부신 진열), a wide array of(폭넓은 다양함), a solar array(태양 전지판 배열). 컴퓨터에서 array=배열(자료 구조). collection(모음)·range(3254, 다양함)·display(진열)와 유의어.",
+  "syn": [
+   "collection(모음)",
+   "range(다양함)",
+   "display(진열)"
+  ],
+  "anti": [],
+  "idiom": [
+   "an array of(다양한 ~)",
+   "a dazzling array(눈부신 진열)"
+  ],
+  "colloc": [
+   "a wide array of(폭넓은 다양함)",
+   "an array of products(다양한 제품들)",
+   "impressive array(인상적인 집합)"
+  ],
+  "ex_add": "The store offers a wide array of products.  (array=다양한 집합)"
+ },
+ {
+  "num": "3724",
+  "hw": "articulate",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "마디마디 또렷이 잇다 -> '또렷이 말하다·분명히 표현하다 / (adj.) 언변이 좋은'.",
+  "senses": [
+   "1) (생각을) 또렷이 말하다·분명히 표현하다",
+   "2) (소리를) 또박또박 발음하다",
+   "3) (형용사) 언변이 좋은·조리 있는"
+  ],
+  "etym": "라틴어 artus(관절·마디) -> articulus(작은 마디) -> articulare(마디마디 나누어 말하다) -> 'articulate'. '마디마디 또렷이 이어 말함'이 핵심. artus(관절)는 articulate·article(기사·조항)·art(기술)·artisan(장인)의 뿌리.",
+  "deriv": "artus(마디) -> articulare(또렷이 말하다) -> 'articulate'. '마디마디 또렷이 잇다 -> 분명히 표현하다(articulate one's thoughts, 생각을 또렷이 표현하다)·(adj.) 언변이 좋은'. 한국 학습자 핵심: artus(마디·관절) 갈래 — article(기사·조항, 글의 마디)·art(기술)·artisan(장인)·artificial(인공의)! 발음 주의 — 동사 articulate[-leɪt], 형용사 articulate[-lət]! clearly articulate(분명히 표현하다), an articulate speaker(말을 조리 있게 하는 사람). express(표현하다)·voice(말하다)·enunciate(또렷이 발음하다)와 유의어. 반대 mumble(웅얼거리다)·inarticulate(말을 제대로 못 하는).",
+  "syn": [
+   "express(표현하다)",
+   "voice(말하다)",
+   "enunciate(또렷이 발음하다)"
+  ],
+  "anti": [
+   "mumble(웅얼거리다)",
+   "inarticulate(말을 제대로 못 하는)"
+  ],
+  "idiom": [
+   "articulate one's thoughts(생각을 또렷이 표현하다)",
+   "an articulate speaker(언변이 좋은 사람)"
+  ],
+  "colloc": [
+   "clearly articulate(분명히 표현하다)",
+   "articulate a vision(비전을 명확히 밝히다)",
+   "articulate concerns(우려를 분명히 말하다)"
+  ],
+  "ex_add": "She articulated her ideas clearly and confidently.  (articulate=또렷이 표현하다)"
+ },
+ {
+  "num": "3725",
+  "hw": "ash",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "타고 남은 가루 -> '재 / 유골 / 물푸레나무'.",
+  "senses": [
+   "1) 재·잿더미",
+   "2) (ashes) 유골·화장한 재",
+   "3) 물푸레나무"
+  ],
+  "etym": "고대 영어 æsce(재). 게르만어 askon(재)에서 — '타고 남은 가루'가 핵심. (나무 '물푸레'는 고대 영어 æsc로 별개 어원이나 철자가 같아짐.)",
+  "deriv": "æsce(재) -> 'ash'. '타고 남은 가루 -> 재(volcanic ash, 화산재)·(ashes) 유골'. 한국 학습자 핵심: rise from the ashes(잿더미에서 부활하다·재기하다, 불사조 phoenix 이미지), reduce to ashes(잿더미로 만들다), volcanic ash(화산재), ashtray(재떨이), Ash Wednesday(재의 수요일). cinder(타다 남은 것)·dust(먼지)와 유의어.",
+  "syn": [
+   "cinder(타다 남은 것)",
+   "dust(먼지)",
+   "remains(유해)"
+  ],
+  "anti": [],
+  "idiom": [
+   "rise from the ashes(잿더미에서 부활하다)",
+   "reduce to ashes(잿더미로 만들다)"
+  ],
+  "colloc": [
+   "volcanic ash(화산재)",
+   "cigarette ash(담뱃재)",
+   "scatter the ashes(유골을 뿌리다)"
+  ],
+  "ex_add": "The fire reduced the house to ashes.  (ash=재)"
+ },
+ {
+  "num": "3726",
+  "hw": "aspiration",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "~을 향해 숨을 들이쉼 -> '열망·포부·대망'.",
+  "senses": [
+   "1) 열망·포부·대망·갈망",
+   "2) (의학) 흡인; (음성) 기식음"
+  ],
+  "etym": "라틴어 ad(~로) + spirare(숨 쉬다) -> aspirare(~을 향해 숨을 들이쉬다·갈망하다) -> aspiration. '높은 곳을 향해 숨차게 바람'이 핵심. spirare(숨 쉬다)는 aspiration·aspire(3727)·spirit(정신)·inspire(영감)·respire(호흡)·conspire(공모)의 뿌리.",
+  "deriv": "ad(~로)+spirare(숨 쉬다) -> aspire -> 'aspiration'. '~을 향해 숨을 들이쉼 -> 열망(career aspirations, 직업적 포부)'. 한국 학습자 핵심: spirare(숨 쉬다) 대가족 — aspire(3727)·spirit(정신)·spiritual(3429)·inspire(영감)·respire(호흡)·conspire(공모)·perspire(땀 흘리다)·expire(만료되다)! 어원상 '높은 것을 향해 숨이 차도록 바람'! political aspirations(정치적 야망), realize one's aspirations(포부를 실현하다). ambition(야망)·desire(갈망)·goal(목표)과 유의어. 반대 indifference(무관심)·apathy(무관심).",
+  "syn": [
+   "ambition(야망)",
+   "desire(갈망)",
+   "goal(목표)"
+  ],
+  "anti": [
+   "indifference(무관심)",
+   "apathy(무관심)"
+  ],
+  "idiom": [
+   "career aspirations(직업적 포부)",
+   "realize one's aspirations(포부를 실현하다)"
+  ],
+  "colloc": [
+   "political aspirations(정치적 야망)",
+   "personal aspirations(개인적 포부)",
+   "high aspirations(높은 포부)"
+  ],
+  "ex_add": "She has aspirations to become a doctor.  (aspiration=포부)"
+ },
+ {
+  "num": "3727",
+  "hw": "aspire",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "~을 향해 숨차게 바라다 -> '열망하다·갈망하다·포부를 품다'.",
+  "senses": [
+   "1) (aspire to) 열망하다·갈망하다·포부를 품다",
+   "2) 높은 목표를 향해 노력하다"
+  ],
+  "etym": "라틴어 ad(~로) + spirare(숨 쉬다) -> aspirare(~을 향해 숨을 들이쉬다) -> 'aspire'. '높은 곳을 향해 숨차게 바람'이 핵심.",
+  "deriv": "ad(~로)+spirare(숨 쉬다) -> 'aspire'. '~을 향해 숨차게 바람 -> 열망하다(aspire to greatness, 위대해지기를 열망하다)'. 한국 학습자 핵심: spirare(숨 쉬다) 대가족 — aspiration(3726)·spirit(정신)·spiritual(3429)·inspire(영감)·respire(호흡)·conspire(공모)·expire(만료)! aspire to do/to be(~하기를·~이 되기를 열망하다), an aspiring artist(예술가 지망생). long for(갈망하다)·yearn(동경하다)·strive(분투하다)와 유의어. 반대 give up(포기하다).",
+  "syn": [
+   "long for(갈망하다)",
+   "yearn(동경하다)",
+   "strive(분투하다)"
+  ],
+  "anti": [
+   "give up(포기하다)"
+  ],
+  "idiom": [
+   "aspire to(~을 열망하다)",
+   "an aspiring artist(예술가 지망생)"
+  ],
+  "colloc": [
+   "aspire to greatness(위대해지기를 열망하다)",
+   "aspire to be(~이 되기를 열망하다)",
+   "aspire to higher things(더 높은 것을 추구하다)"
+  ],
+  "ex_add": "Many young people aspire to fame and fortune.  (aspire=열망하다)"
+ },
+ {
+  "num": "3728",
+  "hw": "assassination",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "(요인) 암살 -> '암살'.",
+  "senses": [
+   "1) (요인·정치인의) 암살",
+   "2) (명예의) 훼손(character assassination)"
+  ],
+  "etym": "아랍어 hashshashin(대마초를 먹는 자들, 중세 암살 비밀결사) -> 중세 라틴어 assassinus -> assassinate + -ion. '비밀결사가 요인을 살해함'이 핵심.",
+  "deriv": "hashshashin(암살단) -> assassinate -> 'assassination'. '요인 암살 -> (the assassination of, ~의 암살)'. 한국 학습자 핵심: 어원이 중세 십자군 시대의 암살 비밀결사(하사신파)! assassin(암살자)·assassinate(암살하다)가 가족. 구별: assassination(요인·유명인 암살) vs murder(일반 살인) vs homicide(살인). an assassination attempt(암살 시도), character assassination(인신공격·명예 훼손), a political assassination(정치적 암살). murder(살인)·killing(살해)과 유의어.",
+  "syn": [
+   "murder(살인)",
+   "killing(살해)"
+  ],
+  "anti": [],
+  "idiom": [
+   "an assassination attempt(암살 시도)",
+   "character assassination(인신공격)"
+  ],
+  "colloc": [
+   "political assassination(정치적 암살)",
+   "the assassination of(~의 암살)",
+   "assassination plot(암살 음모)"
+  ],
+  "ex_add": "The assassination of the leader shocked the nation.  (assassination=암살)"
+ },
+ {
+  "num": "3729",
+  "hw": "assault",
+  "pos": "n., v.",
+  "cefr": "C1",
+  "core": "덤벼들어 뛰어듦 -> '폭행·공격 / 폭행하다·공격하다'.",
+  "senses": [
+   "1) 폭행·(신체적) 공격",
+   "2) (군사) 습격·맹공",
+   "3) (동사) 폭행하다·공격하다"
+  ],
+  "etym": "라틴어 ad(~로) + saltare(뛰다, salire 뛰어오르다의 반복형) -> assaltare(덤벼들다) -> 'assault'. (ad+s -> ass) '상대에게 뛰어들어 덮침'이 핵심. salire(뛰다)는 assault·insult(모욕)·result(결과)·somersault(공중제비)·salient(두드러진)의 뿌리.",
+  "deriv": "ad(~로)+saltare(뛰다) -> 'assault'. '덤벼들어 뛰어듦 -> 폭행(physical assault, 신체적 폭행)·공격하다'. 한국 학습자 핵심: salire(뛰다·뛰어오르다) 대가족 — insult(모욕, 위로 뛰어듦)·result(결과, 도로 튀어나옴)·somersault(공중제비)·salient(두드러진)·resilient(회복력 있는)! sexual assault(성폭행), assault and battery(폭행죄), an armed assault(무장 공격). attack(공격)·strike(3463, 치다)·aggression(3684, 공격)과 유의어. 반대 defend(방어하다)·protect(보호하다).",
+  "syn": [
+   "attack(공격)",
+   "strike(치다)",
+   "aggression(공격)"
+  ],
+  "anti": [
+   "defend(방어하다)",
+   "protect(보호하다)"
+  ],
+  "idiom": [
+   "physical assault(신체적 폭행)",
+   "assault and battery(폭행죄)"
+  ],
+  "colloc": [
+   "sexual assault(성폭행)",
+   "armed assault(무장 공격)",
+   "commit assault(폭행을 저지르다)"
+  ],
+  "ex_add": "He was charged with assault after the fight.  (assault=폭행)"
+ },
+ {
+  "num": "3730",
+  "hw": "assemble",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "함께 모으다 -> '모으다·모이다 / 조립하다'.",
+  "senses": [
+   "1) (사람·물건을) 모으다·소집하다·모이다",
+   "2) (부품을) 조립하다·짜 맞추다"
+  ],
+  "etym": "라틴어 ad(~로) + simul(함께·동시에) -> 고대 프랑스어 assembler(함께 모으다) -> 'assemble'. (ad+s -> ass) '함께 모음'이 핵심. simul(함께)은 assemble·similar(비슷한)·simultaneous(동시의)·resemble(닮다)의 뿌리.",
+  "deriv": "ad(~로)+simul(함께) -> 'assemble'. '함께 모음 -> 모으다(assemble a crowd, 군중을 모으다)·조립하다(assemble furniture, 가구를 조립하다)'. 한국 학습자 핵심: simul(함께·같은) 대가족 — similar(비슷한)·simultaneous(동시의)·resemble(닮다)·simulate(모의 실험하다)·assembly(3731)! assemble the parts(부품을 조립하다), assemble the team(팀을 소집하다). gather(모으다)·collect(수집하다)·construct(조립하다)와 유의어. 반대 disassemble(분해하다)·disperse(흩어지다)·scatter(흩뿌리다).",
+  "syn": [
+   "gather(모으다)",
+   "collect(수집하다)",
+   "construct(조립하다)"
+  ],
+  "anti": [
+   "disassemble(분해하다)",
+   "disperse(흩어지다)",
+   "scatter(흩뿌리다)"
+  ],
+  "idiom": [
+   "assemble a crowd(군중을 모으다)",
+   "assemble the parts(부품을 조립하다)"
+  ],
+  "colloc": [
+   "assemble furniture(가구를 조립하다)",
+   "assemble the team(팀을 소집하다)",
+   "assemble evidence(증거를 모으다)"
+  ],
+  "ex_add": "It took hours to assemble the bookshelf.  (assemble=조립하다)"
+ },
+ {
+  "num": "3731",
+  "hw": "assembly",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "함께 모임 -> '집회·의회 / 조립 / 조회'.",
+  "senses": [
+   "1) 집회·모임",
+   "2) 의회·입법 기관",
+   "3) (부품의) 조립; (학교의) 조회"
+  ],
+  "etym": "라틴어 ad + simul(함께) -> assemble(3730)의 명사형. '함께 모임'이 핵심.",
+  "deriv": "assemble(3730, 모으다) -> 'assembly'. '함께 모임 -> 집회·의회(the National Assembly, 국회)·조립(an assembly line, 조립 라인)'. 한국 학습자 핵심: simul(함께) 갈래 — similar(비슷한)·simultaneous(동시의)·resemble(닮다)·assemble(3730)! freedom of assembly(집회의 자유), an assembly line(조립 라인·일관 작업), the General Assembly(유엔 총회), a school assembly(학교 조회). gathering(모임)·congress(의회)·parliament(의회)와 유의어. 반대 dispersal(해산).",
+  "syn": [
+   "gathering(모임)",
+   "congress(의회)",
+   "parliament(의회)"
+  ],
+  "anti": [
+   "dispersal(해산)"
+  ],
+  "idiom": [
+   "freedom of assembly(집회의 자유)",
+   "an assembly line(조립 라인)"
+  ],
+  "colloc": [
+   "the National Assembly(국회)",
+   "general assembly(총회)",
+   "assembly line(조립 라인)"
+  ],
+  "ex_add": "The new law was passed by the assembly.  (assembly=의회)"
+ },
+ {
+  "num": "3732",
+  "hw": "assert",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "내 편으로 끌어 붙여 주장하다 -> '단언하다·주장하다 / (권리를) 행사하다'.",
+  "senses": [
+   "1) 단언하다·강력히 주장하다",
+   "2) (권리·권위를) 행사하다·주장하다",
+   "3) (assert oneself) 자기 주장을 내세우다"
+  ],
+  "etym": "라틴어 ad(~로) + serere(잇다·엮다) -> asserere(내 쪽으로 엮어 주장하다·해방을 선언하다) -> 'assert'. (ad+s -> ass) '내 편으로 끌어 붙여 단언함'이 핵심. serere(잇다)는 assert·series(연속)·insert(끼우다)·desert(버리다)·exert(발휘하다)의 뿌리.",
+  "deriv": "ad(~로)+serere(잇다) -> 'assert'. '내 편으로 끌어 붙여 주장함 -> 단언하다(assert that, ~라고 단언하다)·(권리를) 행사하다'. 한국 학습자 핵심: serere(잇다·엮다) 갈래 — series(연속)·insert(끼우다)·desert(버리다)·exert(발휘하다)·assertion(3733)·assertive(적극적인)! assert oneself(자기 주장을 펴다), assert one's rights(권리를 주장하다), assert authority(권위를 행사하다). claim(주장하다)·declare(선언하다)·maintain(주장하다)과 유의어. 반대 deny(부인하다)·retract(철회하다).",
+  "syn": [
+   "claim(주장하다)",
+   "declare(선언하다)",
+   "maintain(주장하다)"
+  ],
+  "anti": [
+   "deny(부인하다)",
+   "retract(철회하다)"
+  ],
+  "idiom": [
+   "assert oneself(자기 주장을 펴다)",
+   "assert one's rights(권리를 주장하다)"
+  ],
+  "colloc": [
+   "assert that(~라고 단언하다)",
+   "assert authority(권위를 행사하다)",
+   "firmly assert(단호히 주장하다)"
+  ],
+  "ex_add": "She asserted that she was innocent.  (assert=단언하다)"
+ },
+ {
+  "num": "3733",
+  "hw": "assertion",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "끌어 붙여 내세움 -> '주장·단언 / (권리) 행사'.",
+  "senses": [
+   "1) 주장·단언·언명",
+   "2) (권리·권위의) 행사·표명"
+  ],
+  "etym": "라틴어 ad + serere(잇다) -> assert(3732)의 명사형. '내 편으로 끌어 붙여 내세움'이 핵심.",
+  "deriv": "assert(3732, 단언하다) -> 'assertion'. '끌어 붙여 내세움 -> 주장(a bold assertion, 대담한 주장)'. 한국 학습자 핵심: serere(잇다) 갈래 — series(연속)·insert(끼우다)·desert(버리다)·exert(발휘)·assert(3732)·assertive(적극적인)! make an assertion(주장을 펴다), a bold assertion(대담한 주장), self-assertion(자기 주장). claim(주장)·declaration(선언)·statement(진술)과 유의어. 반대 denial(부인)·retraction(철회).",
+  "syn": [
+   "claim(주장)",
+   "declaration(선언)",
+   "statement(진술)"
+  ],
+  "anti": [
+   "denial(부인)",
+   "retraction(철회)"
+  ],
+  "idiom": [
+   "make an assertion(주장을 펴다)",
+   "a bold assertion(대담한 주장)"
+  ],
+  "colloc": [
+   "bold assertion(대담한 주장)",
+   "support an assertion(주장을 뒷받침하다)",
+   "false assertion(거짓 주장)"
+  ],
+  "ex_add": "There is no evidence to support this assertion.  (assertion=주장)"
+ },
+ {
+  "num": "3734",
+  "hw": "assurance",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "확실하게 해 줌 -> '보장·확언 / 확신·자신감'.",
+  "senses": [
+   "1) 보장·확언·다짐",
+   "2) 확신·자신감",
+   "3) (영) 생명 보험"
+  ],
+  "etym": "라틴어 ad(~로) + securus(걱정 없는·안전한) -> 고대 프랑스어 aseurer(안심시키다) -> assure(확언하다) + -ance. (ad+s -> ass) '걱정 없게 확실히 해 줌'이 핵심. securus(안전한)는 assurance·secure(3357)·sure(확실한)·insurance(보험)의 뿌리.",
+  "deriv": "ad(~로)+securus(안전한) -> assure -> 'assurance'. '확실하게 해 줌 -> 보장(give an assurance, 보장하다)·확신(self-assurance, 자신감)'. 한국 학습자 핵심: securus(걱정 없는·안전한) 갈래 — secure(3357)·security(안보)·sure(확실한)·insurance(보험)·ensure(보장하다)·reassure(안심시키다)! give an assurance(확약하다), with assurance(자신 있게), quality assurance(품질 보증). guarantee(보증)·confidence(확신)·certainty(확실성)와 유의어. 반대 doubt(의심)·uncertainty(3563, 불확실성).",
+  "syn": [
+   "guarantee(보증)",
+   "confidence(확신)",
+   "certainty(확실성)"
+  ],
+  "anti": [
+   "doubt(의심)",
+   "uncertainty(불확실성)"
+  ],
+  "idiom": [
+   "give an assurance(확약하다)",
+   "with assurance(자신 있게)"
+  ],
+  "colloc": [
+   "quality assurance(품질 보증)",
+   "written assurance(서면 보장)",
+   "self-assurance(자신감)"
+  ],
+  "ex_add": "He gave us his assurance that the work would be done.  (assurance=확언)"
+ },
+ {
+  "num": "3735",
+  "hw": "asylum",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "붙잡을 수 없는 곳 -> '망명·피난처 / (옛) 정신병원'.",
+  "senses": [
+   "1) (정치적) 망명·비호",
+   "2) 피난처·안식처",
+   "3) (옛) 정신병원"
+  ],
+  "etym": "그리스어 a(없는) + sylon(붙잡을 권리) -> asylon(붙잡을 수 없는 안전한 곳) -> 라틴어 asylum -> 'asylum'. '함부로 붙잡지 못하는 보호처'가 핵심.",
+  "deriv": "a(없는)+sylon(붙잡음) -> 'asylum'. '붙잡을 수 없는 곳 -> 망명·피난처(seek asylum, 망명을 신청하다)'. 한국 학습자 핵심: a-(없는, 그리스어 부정 접두사) — asylum·anonymous(3709)·atheist(무신론자)·apathy(무관심)·atom(원자, 쪼갤 수 없는)! seek asylum(망명을 구하다), grant asylum(망명을 허가하다), an asylum seeker(망명 신청자, 3359 seeker), political asylum(정치적 망명). refuge(피난처)·sanctuary(보호처)·shelter(3384, 피난처)와 유의어.",
+  "syn": [
+   "refuge(피난처)",
+   "sanctuary(보호처)",
+   "shelter(피난처)"
+  ],
+  "anti": [],
+  "idiom": [
+   "seek asylum(망명을 신청하다)",
+   "grant asylum(망명을 허가하다)"
+  ],
+  "colloc": [
+   "political asylum(정치적 망명)",
+   "asylum seeker(망명 신청자)",
+   "claim asylum(망명을 요청하다)"
+  ],
+  "ex_add": "The refugees sought asylum in a neighboring country.  (asylum=망명)"
+ },
+ {
+  "num": "3736",
+  "hw": "atrocity",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "끔찍하게 잔혹한 짓 -> '잔혹 행위·만행'.",
+  "senses": [
+   "1) (전쟁·학살의) 잔혹 행위·만행",
+   "2) 극악무도함·잔학성"
+  ],
+  "etym": "라틴어 atrox(잔혹한·무시무시한, ater 검은 + ox 모습 = '검은 얼굴의') -> atrocitas -> 'atrocity'. '검은 마음에서 나온 잔혹함'이 핵심. atrox(잔혹한)는 atrocity·atrocious(끔찍한)의 뿌리.",
+  "deriv": "atrox(잔혹한) -> 'atrocity'. '끔찍하게 잔혹한 짓 -> 만행(commit atrocities, 만행을 저지르다)'. 한국 학습자 핵심: atrox(잔혹한, '검은 얼굴') 갈래 — atrocious(극악무도한·형편없는)! war atrocities(전쟁 만행), commit an atrocity(만행을 저지르다), wartime atrocities(전시 잔혹 행위). barbarity(야만)·cruelty(잔혹)·brutality(만행)와 유의어. 반대 kindness(친절)·mercy(자비).",
+  "syn": [
+   "barbarity(야만)",
+   "cruelty(잔혹)",
+   "brutality(만행)"
+  ],
+  "anti": [
+   "kindness(친절)",
+   "mercy(자비)"
+  ],
+  "idiom": [
+   "commit atrocities(만행을 저지르다)",
+   "war atrocities(전쟁 만행)"
+  ],
+  "colloc": [
+   "wartime atrocities(전시 잔혹 행위)",
+   "human rights atrocities(인권 유린)",
+   "commit an atrocity(만행을 저지르다)"
+  ],
+  "ex_add": "The soldiers were accused of committing atrocities.  (atrocity=만행)"
+ },
+ {
+  "num": "3737",
+  "hw": "attain",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "손을 뻗어 닿다 -> '이루다·달성하다 / (수준에) 이르다'.",
+  "senses": [
+   "1) (노력하여) 이루다·달성하다·획득하다",
+   "2) (수준·나이에) 이르다·도달하다"
+  ],
+  "etym": "라틴어 ad(~로) + tangere(닿다·만지다) -> attingere(닿다·이르다) -> 고대 프랑스어 ataindre -> 'attain'. (ad+t -> att) '손을 뻗어 닿음'이 핵심. tangere(닿다)는 attain·contact(접촉)·tangent(접선)·tangible(만질 수 있는)·contagious(전염성의)·integrity(고결)의 뿌리.",
+  "deriv": "ad(~로)+tangere(닿다) -> 'attain'. '손을 뻗어 닿음 -> 이루다(attain a goal, 목표를 달성하다)·(수준에) 이르다'. 한국 학습자 핵심: tangere(닿다) 대가족 — contact(접촉)·tangent(접선)·tangible(만질 수 있는)·contagious(전염성의)·integrity(고결, 손대지 않은 온전함)·intact(온전한)·contaminate(오염시키다)! attain a goal(목표를 달성하다), attain success(성공을 거두다), attainment(성취). achieve(달성하다)·accomplish(이루다)·reach(3262, 이르다)와 유의어. 반대 fail(실패하다)·lose(잃다).",
+  "syn": [
+   "achieve(달성하다)",
+   "accomplish(이루다)",
+   "reach(이르다)"
+  ],
+  "anti": [
+   "fail(실패하다)",
+   "lose(잃다)"
+  ],
+  "idiom": [
+   "attain a goal(목표를 달성하다)",
+   "attain success(성공을 거두다)"
+  ],
+  "colloc": [
+   "attain a goal(목표를 달성하다)",
+   "attain a high level(높은 수준에 이르다)",
+   "attain independence(독립을 이루다)"
+  ],
+  "ex_add": "She finally attained her goal of becoming a lawyer.  (attain=달성하다)"
+ },
+ {
+  "num": "3738",
+  "hw": "attendance",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "마음을 뻗어 참석함 -> '출석·참석 / 출석률·참석자 수'.",
+  "senses": [
+   "1) 출석·참석",
+   "2) 출석률·참석자 수·관객 수"
+  ],
+  "etym": "라틴어 ad(~로) + tendere(뻗다) -> attendere(주의를 기울이다·참석하다) -> attend + -ance. (ad+t -> att) '마음을 ~로 뻗어 참석함'이 핵심. tendere(뻗다)는 attendance·attend·tendency(3507)·tension(3508)·extend(뻗다)·intend(의도)의 뿌리.",
+  "deriv": "ad(~로)+tendere(뻗다) -> attend -> 'attendance'. '마음을 뻗어 참석함 -> 출석(take attendance, 출석을 부르다)'. 한국 학습자 핵심: tendere(뻗다) 대가족 — attend·tendency(3507)·tension(3508)·extend(뻗다)·intend(의도)·pretend(~체하다)·tense(긴장된)! take attendance(출석을 확인하다), in attendance(참석한), poor attendance(저조한 출석률), attendance record(출석 기록). presence(참석)·turnout(참가자 수)와 유의어. 반대 absence(3648, 결석)·nonattendance(불참).",
+  "syn": [
+   "presence(참석)",
+   "turnout(참가자 수)"
+  ],
+  "anti": [
+   "absence(결석)",
+   "nonattendance(불참)"
+  ],
+  "idiom": [
+   "take attendance(출석을 부르다)",
+   "in attendance(참석한)"
+  ],
+  "colloc": [
+   "poor attendance(저조한 출석률)",
+   "record attendance(기록적 관객 수)",
+   "daily attendance(일일 출석)"
+  ],
+  "ex_add": "Attendance at the meeting was very low.  (attendance=출석)"
+ },
+ {
+  "num": "3739",
+  "hw": "attribute",
+  "pos": "v., n.",
+  "cefr": "C1",
+  "core": "~의 몫으로 배정하다 -> '~의 탓으로 돌리다·~의 덕분으로 보다 / 속성'.",
+  "senses": [
+   "1) (attribute to) ~의 결과·탓·덕분으로 보다·돌리다",
+   "2) (작품을) ~의 작품으로 여기다",
+   "3) (n.) 속성·특성·자질"
+  ],
+  "etym": "라틴어 ad(~로) + tribuere(나누어 주다·할당하다, tribus 부족에 분배) -> attribuere(~에게 배정하다) -> 'attribute'. (ad+t -> att) '~의 몫으로 돌림'이 핵심. tribuere(나누어 주다)는 attribute·tribe(3548)·contribute(2521)·distribute(분배)·tribute(공물)의 뿌리.",
+  "deriv": "ad(~로)+tribuere(나누어 주다) -> 'attribute'. '~의 몫으로 배정함 -> ~의 탓/덕분으로 돌리다(attribute success to luck, 성공을 운 덕분으로 보다)·(n.) 속성'. 한국 학습자 핵심: tribuere(나누어 주다) 대가족 — tribe(3548)·contribute(2521 기여)·distribute(분배)·tribute(공물·찬사)·tributary(지류)! 발음 주의 — 동사 attribute[ətríbjuːt], 명사 attribute[ǽtrɪbjuːt]! attribute A to B(A를 B의 탓·덕분으로 보다), a key attribute(핵심 자질). ascribe(~의 탓으로 돌리다)·credit(공으로 돌리다)·quality(특성)와 유의어.",
+  "syn": [
+   "ascribe(~의 탓으로 돌리다)",
+   "credit(공으로 돌리다)",
+   "quality(특성)"
+  ],
+  "anti": [],
+  "idiom": [
+   "attribute A to B(A를 B의 탓으로 돌리다)",
+   "a key attribute(핵심 자질)"
+  ],
+  "colloc": [
+   "attribute success to(성공을 ~의 덕분으로 보다)",
+   "personal attributes(개인적 자질)",
+   "physical attributes(신체적 특성)"
+  ],
+  "ex_add": "She attributes her success to hard work.  (attribute=~의 덕분으로 보다)"
+ },
+ {
+  "num": "3740",
+  "hw": "auction",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "값을 올려 가는 거래 -> '경매 / 경매에 부치다'.",
+  "senses": [
+   "1) 경매·공매",
+   "2) (동사) 경매에 부치다·경매로 팔다"
+  ],
+  "etym": "라틴어 augere(늘리다·올리다) -> auctio(증가·값 올리기) -> 'auction'. 값을 점점 '올려' 가며 파는 데서. '값을 올려 가는 거래'가 핵심. augere(늘리다)는 auction·augment(증대하다)·author(저자, 만들어 내는 이)·authority(권위)·auxiliary(보조의)의 뿌리.",
+  "deriv": "augere(늘리다) -> auctio(값 올리기) -> 'auction'. '값을 올려 가는 거래 -> 경매(sell at auction, 경매로 팔다)'. 한국 학습자 핵심: augere(늘리다·키우다) 갈래 — augment(증대하다)·author(저자)·authority(권위)·auxiliary(보조의)·august(위엄 있는)! put up for auction(경매에 부치다), an auction house(경매 회사), a silent auction(침묵 경매), the highest bidder(최고가 입찰자). sale(판매)·bidding(입찰)과 유의어.",
+  "syn": [
+   "sale(판매)",
+   "bidding(입찰)"
+  ],
+  "anti": [],
+  "idiom": [
+   "put up for auction(경매에 부치다)",
+   "an auction house(경매 회사)"
+  ],
+  "colloc": [
+   "sell at auction(경매로 팔다)",
+   "online auction(온라인 경매)",
+   "charity auction(자선 경매)"
+  ],
+  "ex_add": "The painting sold for millions at auction.  (auction=경매)"
+ },
+ {
+  "num": "3741",
+  "hw": "audit",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "들어 보는 회계 검사 -> '회계 감사 / 감사하다'.",
+  "senses": [
+   "1) 회계 감사·회계 검사",
+   "2) (전반적) 점검·실태 조사",
+   "3) (동사) 회계 감사를 하다; (강의를) 청강하다"
+  ],
+  "etym": "라틴어 audire(듣다) -> auditus(들음) -> audit. 옛날 회계 보고를 소리 내어 '들으며' 검사한 데서. '들으며 회계를 검사함'이 핵심. audire(듣다)는 audit·audience(청중)·audio(음성)·audible(들리는)·auditorium(강당)의 뿌리.",
+  "deriv": "audire(듣다) -> 'audit'. '들어 보는 회계 검사 -> 감사(a financial audit, 재무 감사)'. 한국 학습자 핵심: audire(듣다) 대가족 — audience(청중)·audio(음성)·audible(들리는)·auditorium(강당)·audition(오디션)·auditory(청각의)! 어원이 '듣다' — 옛날엔 회계를 낭독해 들으며 검사! a financial audit(재무 감사), an energy audit(에너지 진단), audit the accounts(회계를 감사하다). inspection(점검)·review(검토)·examination(검사)과 유의어.",
+  "syn": [
+   "inspection(점검)",
+   "review(검토)",
+   "examination(검사)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a financial audit(재무 감사)",
+   "audit the accounts(회계를 감사하다)"
+  ],
+  "colloc": [
+   "internal audit(내부 감사)",
+   "tax audit(세무 감사)",
+   "annual audit(연례 감사)"
+  ],
+  "ex_add": "The company underwent a financial audit last year.  (audit=회계 감사)"
+ }
+]
