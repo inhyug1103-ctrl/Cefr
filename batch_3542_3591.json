@@ -1,0 +1,1596 @@
+[
+ {
+  "num": "3542",
+  "hw": "transform",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "건너편 형태로 바꾸다 -> '변형시키다·완전히 바꾸다·탈바꿈시키다'.",
+  "senses": [
+   "1) (모습·성질을) 완전히 바꾸다·변형시키다",
+   "2) (상황·생활을) 탈바꿈시키다·혁신하다",
+   "3) (수학·전기) 변환하다"
+  ],
+  "etym": "라틴어 trans(가로질러·완전히) + formare(모양 짓다, forma=형태) -> transformare(형태를 바꾸다) -> 'transform'. '형태를 건너편으로 완전히 바꿈'이 핵심. forma(형태)는 transform·form(형태)·reform(개혁)·uniform(제복)·inform(알리다)의 뿌리.",
+  "deriv": "trans(완전히)+formare(형태 짓다) -> 'transform'. '형태를 바꿈 -> 완전히 바꾸다(transform the city, 도시를 탈바꿈시키다)'. 한국 학습자 핵심: trans(건너·완전히) 갈래 — transfer(3541)·transmit(3544)·transition(3543)·translate(번역)·transport(수송)! forma(형태) 갈래 — form(형태)·reform(개혁)·uniform(제복)·inform(알리다)·perform(수행)·transformation(변형)! transform A into B(A를 B로 바꾸다). change(바꾸다)·convert(전환하다)·alter(고치다)와 유의어. 반대 preserve(3209, 보존하다)·maintain(유지하다).",
+  "syn": [
+   "change(바꾸다)",
+   "convert(전환하다)",
+   "alter(고치다)"
+  ],
+  "anti": [
+   "preserve(보존하다)",
+   "maintain(유지하다)"
+  ],
+  "idiom": [
+   "transform A into B(A를 B로 바꾸다)",
+   "completely transform(완전히 바꾸다)"
+  ],
+  "colloc": [
+   "transform the economy(경제를 탈바꿈시키다)",
+   "radically transform(근본적으로 바꾸다)",
+   "transform lives(삶을 바꾸다)"
+  ],
+  "ex_add": "The internet has transformed the way we communicate.  (transform=바꾸다)"
+ },
+ {
+  "num": "3543",
+  "hw": "transition",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "건너서 넘어감 -> '이행·전환·과도기'.",
+  "senses": [
+   "1) (한 상태에서 다른 상태로의) 이행·전환·변천",
+   "2) 과도기·전환기"
+  ],
+  "etym": "라틴어 trans(가로질러) + ire(가다) -> transitio(건너감) -> 'transition'. '건너편으로 넘어감'이 핵심. ire(가다)는 transition·exit(출구)·initial(처음의)·transit(통과)·circuit(회로)의 뿌리.",
+  "deriv": "trans(건너)+ire(가다) -> 'transition'. '건너서 넘어감 -> 이행·전환(a smooth transition, 순조로운 이행)·과도기'. 한국 학습자 핵심: ire(가다) 갈래 — exit(출구)·initial(처음의)·transit(통과)·circuit(회로)·ambition(야망)·perish(소멸하다)! trans(건너) — transfer(3541)·transform(3542)·transmit(3544). a transition period(과도기), the transition to(~로의 이행), in transition(전환기에 있는). change(변화)·shift(3385, 전환)·changeover(전환)와 유의어.",
+  "syn": [
+   "change(변화)",
+   "shift(전환)",
+   "changeover(전환)"
+  ],
+  "anti": [
+   "continuity(연속성)"
+  ],
+  "idiom": [
+   "a smooth transition(순조로운 이행)",
+   "in transition(전환기에 있는)"
+  ],
+  "colloc": [
+   "transition period(과도기)",
+   "smooth transition(순조로운 전환)",
+   "transition to democracy(민주주의로의 이행)"
+  ],
+  "ex_add": "The transition from school to work can be difficult.  (transition=이행)"
+ },
+ {
+  "num": "3544",
+  "hw": "transmit",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "건너편으로 보내다 -> '전송하다·전달하다 / (병을) 옮기다'.",
+  "senses": [
+   "1) (신호·정보를) 전송하다·송신하다",
+   "2) (질병·성질을) 전염시키다·전하다·유전하다",
+   "3) (힘·열을) 전도하다"
+  ],
+  "etym": "라틴어 trans(가로질러) + mittere(보내다) -> transmittere(건너로 보내다) -> 'transmit'. '한쪽에서 건너편으로 보냄'이 핵심. mittere(보내다)는 transmit·submit(3471)·permit(3166)·commit(저지르다)·emit(방출하다)·mission(임무)의 뿌리.",
+  "deriv": "trans(건너)+mittere(보내다) -> 'transmit'. '건너편으로 보냄 -> 전송하다(transmit data, 데이터를 전송하다)·(병을) 옮기다(transmit a disease, 병을 전염시키다)'. 한국 학습자 핵심: mittere(보내다) 대가족 — submit(3471)·permit(3166)·commit(저지르다)·emit(방출)·omit(생략)·mission(임무)·promising(3211)·transmission(전송·변속기)! sexually transmitted(성적으로 전염되는). broadcast(방송하다)·send(보내다)·convey(전달하다)와 유의어. 반대 receive(받다).",
+  "syn": [
+   "broadcast(방송하다)",
+   "send(보내다)",
+   "convey(전달하다)"
+  ],
+  "anti": [
+   "receive(받다)"
+  ],
+  "idiom": [
+   "transmit a disease(병을 전염시키다)",
+   "transmit data(데이터를 전송하다)"
+  ],
+  "colloc": [
+   "transmit a signal(신호를 전송하다)",
+   "transmit information(정보를 전달하다)",
+   "transmit a virus(바이러스를 옮기다)"
+  ],
+  "ex_add": "The disease is transmitted through contaminated water.  (transmit=전염시키다)"
+ },
+ {
+  "num": "3545",
+  "hw": "trap",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "덫 -> '덫·함정 / 가두다·옭아매다'.",
+  "senses": [
+   "1) 덫·함정·올가미",
+   "2) (동사) 덫으로 잡다·가두다·옭아매다",
+   "3) (감정·기체를) 가두다·포착하다"
+  ],
+  "etym": "고대 영어 træppe(덫). 게르만어 계열로 '걸려들게 하는 장치'가 핵심.",
+  "deriv": "træppe(덫) -> 'trap'. '덫 -> 함정·(덫에) 가두다(be trapped, 갇히다)'. 한국 학습자 핵심: 변화 trap-trapped-trapped(p 두 번)! set a trap(덫을 놓다), fall into a trap(함정에 빠지다), a tourist trap(바가지 관광지), a speed trap(과속 단속 구간), be trapped(갇히다·옴짝달싹 못 하다). snare(올가미)·catch(잡다)·confine(가두다)과 유의어. 반대 free(풀어 주다)·release(놓아주다).",
+  "syn": [
+   "snare(올가미)",
+   "catch(잡다)",
+   "confine(가두다)"
+  ],
+  "anti": [
+   "free(풀어 주다)",
+   "release(놓아주다)"
+  ],
+  "idiom": [
+   "set a trap(덫을 놓다)",
+   "fall into a trap(함정에 빠지다)",
+   "a tourist trap(바가지 관광지)"
+  ],
+  "colloc": [
+   "be trapped(갇히다)",
+   "a death trap(아주 위험한 곳)",
+   "trap heat(열을 가두다)"
+  ],
+  "ex_add": "The miners were trapped underground for days.  (trap=가두다)"
+ },
+ {
+  "num": "3546",
+  "hw": "treasure",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "쌓아 둔 보물 -> '보물·보배 / 소중히 여기다'.",
+  "senses": [
+   "1) 보물·재보",
+   "2) 매우 귀중한 것·소중한 사람",
+   "3) (동사) 소중히 간직하다·아끼다"
+  ],
+  "etym": "그리스어 thesauros(보물 창고·쌓아 둔 것) -> 라틴어 thesaurus -> 고대 프랑스어 tresor -> 'treasure'. thesis(3522)와 같은 tithenai(놓다)에서 — '소중히 쌓아 둔 것'이 핵심. thesauros는 treasure·thesaurus(유의어 사전, 말의 보고)의 뿌리.",
+  "deriv": "thesauros(보물 창고) -> 'treasure'. '쌓아 둔 보물 -> 보물(buried treasure, 묻힌 보물)·소중히 여기다(treasure a memory, 추억을 소중히 간직하다)'. 한국 학습자 핵심: thesaurus(유의어 사전)와 한 뿌리 — '말의 보물 창고'! tithenai(놓다) 갈래 — thesis(3522)·thesaurus·treasure! a treasure hunt(보물찾기), a national treasure(국보), treasure trove(매장물·보고). riches(부)·valuables(귀중품)·cherish(소중히 하다)와 유의어.",
+  "syn": [
+   "riches(부)",
+   "valuables(귀중품)",
+   "cherish(소중히 하다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a treasure hunt(보물찾기)",
+   "a national treasure(국보)",
+   "treasure trove(보고)"
+  ],
+  "colloc": [
+   "buried treasure(묻힌 보물)",
+   "hidden treasure(숨겨진 보물)",
+   "treasure a memory(추억을 소중히 간직하다)"
+  ],
+  "ex_add": "The pirates buried their treasure on the island.  (treasure=보물)"
+ },
+ {
+  "num": "3547",
+  "hw": "trial",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "해 보는 시험 -> '재판·공판 / 시험·실험 / 시련'.",
+  "senses": [
+   "1) (법) 재판·공판",
+   "2) 시험·시도·실험; 예선 경기(trials)",
+   "3) 시련·고난"
+  ],
+  "etym": "앵글로-노르만 trial(시험·검증) <- trier(시험하다·가려내다) -> try(3556)의 명사형. '해 보고 가려냄'이 핵심.",
+  "deriv": "trier(시험하다) -> try(3556) -> 'trial'. '해 보는 시험 -> (사실을 가리는) 재판·시험·시련'. 한국 학습자 핵심: try(3556)·trial이 한 뿌리! trial and error(시행착오), a trial period(시험 기간), on trial(재판 중인·시험 중인), a fair trial(공정한 재판), a clinical trial(임상 시험), stand trial(재판을 받다). test(시험)·experiment(실험)·hearing(심리)과 유의어.",
+  "syn": [
+   "test(시험)",
+   "experiment(실험)",
+   "hearing(심리)"
+  ],
+  "anti": [],
+  "idiom": [
+   "trial and error(시행착오)",
+   "on trial(재판 중인)",
+   "stand trial(재판을 받다)"
+  ],
+  "colloc": [
+   "fair trial(공정한 재판)",
+   "clinical trial(임상 시험)",
+   "trial period(시험 기간)"
+  ],
+  "ex_add": "The new drug is undergoing clinical trials.  (trial=시험)"
+ },
+ {
+  "num": "3548",
+  "hw": "tribe",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "(로마의) 한 부족 -> '부족·종족 / 무리'.",
+  "senses": [
+   "1) 부족·종족",
+   "2) (생물) 족(분류 단위)",
+   "3) (구어) 무리·집단"
+  ],
+  "etym": "라틴어 tribus(고대 로마를 이루던 세 부족, tri=셋과 연관). '한 갈래의 부족'이 핵심. tribus는 tribe·tribute(공물)·attribute(~의 탓으로 돌리다)·contribute(2521 기여하다)·distribute(분배하다)의 뿌리.",
+  "deriv": "tribus(부족) -> 'tribe'. '로마의 한 부족 -> 부족(a nomadic tribe, 유목 부족)'. 한국 학습자 핵심: tribus(부족) 갈래 — tribute(공물·찬사)·attribute(~의 탓으로 돌리다)·contribute(2521 기여)·distribute(분배)·tribal(부족의)! 옛 로마인이 부족별로 세금(tribute)을 냈던 데서 의미가 갈라짐. a tribal chief(부족장), a nomadic tribe(유목 부족). clan(씨족)·ethnic group(민족 집단)과 유의어.",
+  "syn": [
+   "clan(씨족)",
+   "ethnic group(민족 집단)",
+   "people(종족)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a nomadic tribe(유목 부족)",
+   "a tribal chief(부족장)"
+  ],
+  "colloc": [
+   "native tribe(원주민 부족)",
+   "ancient tribe(고대 부족)",
+   "tribal customs(부족 관습)"
+  ],
+  "ex_add": "The tribe has lived in the rainforest for centuries.  (tribe=부족)"
+ },
+ {
+  "num": "3549",
+  "hw": "trillion",
+  "pos": "number",
+  "cefr": "B2",
+  "core": "세 번째 백만 -> '1조 (10^12)'.",
+  "senses": [
+   "1) 1조(10의 12제곱)",
+   "2) (trillions of) 무수히 많은"
+  ],
+  "etym": "라틴어 tri(셋) + million(백만) -> '백만의 세제곱 묶음' 개념에서 -> 'trillion'. 현대 영미식으로 10^12. '세 번째 자릿수 묶음(백만 다음다음)'이 핵심.",
+  "deriv": "tri(셋)+million -> 'trillion'. '백만(million)·십억(billion)·1조(trillion) 순'. 한국 학습자 핵심: 큰 수 순서 외우기 — thousand(천)·million(백만)·billion(십억)·trillion(1조)! tri(셋) 갈래 — triangle(삼각형)·tricycle(세발자전거)·trio(3인조)·triple(세 배)·tribe(3548)! trillions of(수조의·무수한), a trillion dollars(1조 달러). 반대 개념 없음, 수사.",
+  "syn": [],
+  "anti": [],
+  "idiom": [
+   "trillions of(수조의)",
+   "a trillion dollars(1조 달러)"
+  ],
+  "colloc": [
+   "a trillion dollars(1조 달러)",
+   "trillions of cells(수조 개의 세포)",
+   "several trillion(수조의)"
+  ],
+  "ex_add": "The national debt has reached trillions of dollars.  (trillion=1조)"
+ },
+ {
+  "num": "3550",
+  "hw": "trip",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "발을 헛디딤 -> '여행·이동 / 발을 헛디디다·걸려 넘어지다'.",
+  "senses": [
+   "1) (짧은) 여행·이동·나들이",
+   "2) (동사) 발을 헛디디다·발이 걸려 넘어지다",
+   "3) (trip up) 실수하게 만들다·실수하다"
+  ],
+  "etym": "중세 영어 trippen(가볍게 밟다·경쾌하게 디디다) <- 고대 프랑스어 triper. 본래 '가볍게 발을 놀림'에서 '여행' / '발을 헛디딤'으로 갈라짐. '발을 놀려 다님'이 핵심.",
+  "deriv": "trippen(가볍게 밟다) -> 'trip'. '발을 놀려 다님 -> 여행(a business trip, 출장)·발을 헛디디다(trip over a rock, 돌에 걸려 넘어지다)'. 한국 학습자 핵심: 변화 trip-tripped-tripped! a round trip(왕복 여행), a day trip(당일치기 여행), trip over(~에 걸려 넘어지다), trip up(말실수하게 하다·헛디디다). 여행 비교: trip(짧은 여행)·journey(긴 여정)·tour(관광)·voyage(항해). journey(여행)·excursion(소풍)·stumble(발을 헛디디다)과 유의어.",
+  "syn": [
+   "journey(여행)",
+   "excursion(소풍)",
+   "stumble(발을 헛디디다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a round trip(왕복 여행)",
+   "trip over(~에 걸려 넘어지다)",
+   "trip up(말실수하게 하다)"
+  ],
+  "colloc": [
+   "business trip(출장)",
+   "day trip(당일치기 여행)",
+   "field trip(현장 학습)"
+  ],
+  "ex_add": "We're planning a trip to the mountains this weekend.  (trip=여행)"
+ },
+ {
+  "num": "3551",
+  "hw": "troop",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "떼 지어 움직이는 무리 -> '병력·부대(troops) / 무리·떼'.",
+  "senses": [
+   "1) (troops) 군대·병력·부대원",
+   "2) (사람·동물의) 무리·떼",
+   "3) (동사) 떼 지어 가다"
+  ],
+  "etym": "프랑스어 troupe(무리) <- 후기 라틴어 troppus(가축 떼). '떼 지어 움직이는 무리'가 핵심. troupe(공연단)와 한 뿌리.",
+  "deriv": "troppus(가축 떼) -> 'troop'. '떼 지어 움직이는 무리 -> (troops) 군대·병력·무리(a troop of monkeys, 원숭이 무리)'. 한국 학습자 핵심: troops(복수)가 보통 '병력·군대'를 뜻함! troupe(공연단·극단)와 철자·뜻 구별 — troop(군대)·troupe(공연단). deploy troops(병력을 배치하다), withdraw troops(병력을 철수하다), ground troops(지상군). soldiers(병사들)·forces(군대)·band(무리)와 유의어.",
+  "syn": [
+   "soldiers(병사들)",
+   "forces(군대)",
+   "band(무리)"
+  ],
+  "anti": [],
+  "idiom": [
+   "deploy troops(병력을 배치하다)",
+   "withdraw troops(병력을 철수하다)"
+  ],
+  "colloc": [
+   "ground troops(지상군)",
+   "send troops(병력을 파견하다)",
+   "a troop of(~의 무리)"
+  ],
+  "ex_add": "The government sent troops to the border.  (troop=병력)"
+ },
+ {
+  "num": "3552",
+  "hw": "tropical",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "회귀선 안의 -> '열대의·열대 지방의'.",
+  "senses": [
+   "1) 열대의·열대 지방의",
+   "2) (날씨가) 무덥고 습한"
+  ],
+  "etym": "그리스어 tropos(돌기·회전, trepein=돌다) -> tropikos(태양이 방향을 바꾸는 회귀선의) -> 'tropical'. 태양이 남·북 회귀선(tropic)에서 방향을 '돌리는' 데서. '회귀선 사이 열대 지역의'가 핵심. tropos(돌기)는 tropical·tropic(회귀선)·trophy(전리품, 적을 돌려 세운 것)의 뿌리.",
+  "deriv": "tropos(돌기) -> tropic(회귀선) -> 'tropical'. '회귀선 안의 -> 열대의(a tropical rainforest, 열대 우림)'. 한국 학습자 핵심: tropos(돌기) 갈래 — tropic(회귀선)·trophy(트로피)! 기후 구분 — tropical(열대)·subtropical(아열대)·temperate(온대)·polar(한대). a tropical climate(열대 기후), a tropical storm(열대성 폭풍), tropical fish(열대어). 반대 polar(극지의)·arctic(북극의).",
+  "syn": [
+   "equatorial(적도의)",
+   "hot(더운)"
+  ],
+  "anti": [
+   "polar(극지의)",
+   "arctic(북극의)",
+   "temperate(온대의)"
+  ],
+  "idiom": [
+   "a tropical rainforest(열대 우림)",
+   "a tropical storm(열대성 폭풍)"
+  ],
+  "colloc": [
+   "tropical climate(열대 기후)",
+   "tropical fish(열대어)",
+   "tropical island(열대 섬)"
+  ],
+  "ex_add": "The island has a hot, tropical climate.  (tropical=열대의)"
+ },
+ {
+  "num": "3553",
+  "hw": "trouble",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "휘저어 놓음 -> '문제·곤란·골칫거리 / 괴롭히다·수고를 끼치다'.",
+  "senses": [
+   "1) 문제·곤란·어려움·골칫거리",
+   "2) 분쟁·소동; 고장·이상",
+   "3) (동사) 괴롭히다·걱정시키다; 수고를 끼치다"
+  ],
+  "etym": "라틴어 turbare(휘젓다·어지럽히다, turba=혼란) -> 고대 프랑스어 trubler -> 'trouble'. '마음·상황을 휘저어 어지럽힘'이 핵심. turbare(휘젓다)는 trouble·disturb(방해하다)·turbulent(격동의)·turbine(터빈)의 뿌리.",
+  "deriv": "turbare(휘젓다) -> 'trouble'. '휘저어 놓음 -> 문제·곤란(in trouble, 곤경에 처한)·괴롭히다'. 한국 학습자 핵심: turbare(휘젓다) 갈래 — disturb(방해하다)·turbulent(격동의)·turbine(터빈)·perturb(불안하게 하다)·turmoil(혼란)! in trouble(곤경에 처한), get into trouble(말썽을 일으키다), take the trouble to(수고스럽게 ~하다), ask for trouble(화를 자초하다), trouble-free(말썽 없는). problem(문제)·difficulty(어려움)·bother(괴롭히다)와 유의어. 반대 ease(편안함)·help(도움).",
+  "syn": [
+   "problem(문제)",
+   "difficulty(어려움)",
+   "bother(괴롭히다)"
+  ],
+  "anti": [
+   "ease(편안함)",
+   "help(도움)"
+  ],
+  "idiom": [
+   "in trouble(곤경에 처한)",
+   "get into trouble(말썽을 일으키다)",
+   "ask for trouble(화를 자초하다)"
+  ],
+  "colloc": [
+   "cause trouble(문제를 일으키다)",
+   "serious trouble(심각한 곤경)",
+   "engine trouble(엔진 고장)"
+  ],
+  "ex_add": "He's in serious trouble with the police.  (trouble=곤경)"
+ },
+ {
+  "num": "3554",
+  "hw": "truly",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "참되게 -> '진실로·정말로 / 참으로'.",
+  "senses": [
+   "1) 진실로·정말로·참으로",
+   "2) (강조) 참된·진정한 의미에서",
+   "3) (편지 맺음말) 올림"
+  ],
+  "etym": "고대 영어 treowe(참된·신실한) -> true(참된) + -ly. '참되게·거짓 없이'가 핵심.",
+  "deriv": "true(참된) -> 'truly'. '참되게 -> 진실로(truly grateful, 진심으로 감사한)·정말로'. 한국 학습자 핵심: true(참된)·truly·truth(진실)·truthful(진실한)이 가족 — 철자 주의: true에서 e가 빠지고 -ly(truly, 흔한 철자 함정!). Yours truly(올림·드림, 편지 맺음말), truly amazing(정말 놀라운), well and truly(완전히). genuinely(진정으로)·really(정말)·sincerely(3404, 진심으로)와 유의어. 반대 falsely(거짓으로).",
+  "syn": [
+   "genuinely(진정으로)",
+   "really(정말)",
+   "sincerely(진심으로)"
+  ],
+  "anti": [
+   "falsely(거짓으로)"
+  ],
+  "idiom": [
+   "Yours truly(올림·드림)",
+   "truly amazing(정말 놀라운)",
+   "well and truly(완전히)"
+  ],
+  "colloc": [
+   "truly grateful(진심으로 감사한)",
+   "truly remarkable(정말 놀라운)",
+   "truly believe(진심으로 믿다)"
+  ],
+  "ex_add": "I am truly grateful for your help.  (truly=진심으로)"
+ },
+ {
+  "num": "3555",
+  "hw": "trust",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "굳게 믿음 -> '신뢰·신임 / 신탁 / 믿다·맡기다'.",
+  "senses": [
+   "1) 신뢰·신임·믿음",
+   "2) (법) 신탁(재산); (기업) 트러스트",
+   "3) (동사) 믿다·신뢰하다·맡기다"
+  ],
+  "etym": "고대 노르드어 traust(신뢰·도움). 게르만어 treu-(굳건한·충실한)에서 — true(참된)·truly(3554)와 한 뿌리. '굳게 의지하고 믿음'이 핵심.",
+  "deriv": "traust(신뢰) -> 'trust'. '굳게 믿음 -> 신뢰(build trust, 신뢰를 쌓다)·믿다(trust someone, ~을 믿다)·(재산을) 맡김 -> 신탁'. 한국 학습자 핵심: true(참된)·trust·truth(진실)가 인도유럽어 친척! trust in(~을 신뢰하다), take on trust(곧이곧대로 믿다), a position of trust(신임받는 자리), trust fund(신탁 기금). faith(믿음)·confidence(신뢰)·rely(3291, 의지하다)와 유의어. 반대 distrust(불신)·suspicion(의심)·doubt(의심).",
+  "syn": [
+   "faith(믿음)",
+   "confidence(신뢰)",
+   "rely on(의지하다)"
+  ],
+  "anti": [
+   "distrust(불신)",
+   "suspicion(의심)",
+   "doubt(의심)"
+  ],
+  "idiom": [
+   "build trust(신뢰를 쌓다)",
+   "take on trust(곧이곧대로 믿다)",
+   "a position of trust(신임받는 자리)"
+  ],
+  "colloc": [
+   "trust someone(~을 믿다)",
+   "gain trust(신뢰를 얻다)",
+   "betray trust(신뢰를 배신하다)"
+  ],
+  "ex_add": "It takes years to build trust between people.  (trust=신뢰)"
+ },
+ {
+  "num": "3556",
+  "hw": "try",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "가려내려 해 보다 -> '시도하다·노력하다 / 시험 삼아 해 보다 / 재판하다'.",
+  "senses": [
+   "1) 시도하다·해 보다·노력하다",
+   "2) 시험 삼아 써 보다·먹어 보다·입어 보다",
+   "3) (법) 재판하다·심리하다; (n.) 시도"
+  ],
+  "etym": "고대 프랑스어 trier(고르다·가려내다·시험하다). 어원 불확실하나 '가려내려고 해 봄'이 핵심. trial(3547)과 한 뿌리.",
+  "deriv": "trier(가려내다) -> 'try'. '해 봄 -> 시도하다(try hard, 열심히 하다)·시험 삼아 ~해 보다(try on, 입어 보다)·(사실을 가리는) 재판하다'. 한국 학습자 핵심: try(3556)·trial(3547)이 한 뿌리! try to do(~하려고 애쓰다) vs try doing(시험 삼아 ~해 보다) 구별 중요! try on(입어 보다), try out(시험해 보다), try one's best(최선을 다하다), give it a try(한번 해 보다). attempt(시도하다)·attempt(시도)·endeavor(노력하다)와 유의어.",
+  "syn": [
+   "attempt(시도하다)",
+   "endeavor(노력하다)",
+   "test(시험하다)"
+  ],
+  "anti": [
+   "give up(포기하다)"
+  ],
+  "idiom": [
+   "try on(입어 보다)",
+   "try out(시험해 보다)",
+   "give it a try(한번 해 보다)"
+  ],
+  "colloc": [
+   "try hard(열심히 하다)",
+   "try one's best(최선을 다하다)",
+   "try again(다시 시도하다)"
+  ],
+  "ex_add": "Why don't you try a different approach?  (try=시도하다)"
+ },
+ {
+  "num": "3557",
+  "hw": "tsunami",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "항구의 파도 -> '지진 해일·쓰나미'.",
+  "senses": [
+   "1) 지진 해일·쓰나미",
+   "2) (비유) 밀려드는 큰 물결·쇄도"
+  ],
+  "etym": "일본어 津波(tsunami, 津 tsu 항구 + 波 nami 파도) -> '항구를 덮치는 파도'. 영어에 그대로 차용. '거대한 지진 해일'이 핵심.",
+  "deriv": "津波(항구의 파도) -> 'tsunami'. '항구를 덮치는 파도 -> 지진 해일·(비유) 밀려드는 큰 물결(a tsunami of orders, 주문 쇄도)'. 한국 학습자 핵심: 일본어에서 온 외래어(영어 발음 [수나미]·[쓰나미])! 발음 주의: 첫 t는 거의 묵음. trigger a tsunami(쓰나미를 일으키다), a tsunami warning(쓰나미 경보). tidal wave(해일)·flood(범람)과 유의어.",
+  "syn": [
+   "tidal wave(해일)",
+   "flood(범람)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a tsunami warning(쓰나미 경보)",
+   "trigger a tsunami(쓰나미를 일으키다)"
+  ],
+  "colloc": [
+   "devastating tsunami(파괴적인 쓰나미)",
+   "tsunami warning(쓰나미 경보)",
+   "tsunami hit(쓰나미가 덮치다)"
+  ],
+  "ex_add": "The earthquake triggered a massive tsunami.  (tsunami=쓰나미)"
+ },
+ {
+  "num": "3558",
+  "hw": "tune",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "음을 맞춤 -> '곡조·선율 / 음을 맞추다·조정하다'.",
+  "senses": [
+   "1) 곡조·선율·가락",
+   "2) (동사) 음을 맞추다·조율하다·조정하다",
+   "3) (tune in) 채널을 맞추다·청취하다"
+  ],
+  "etym": "라틴어 tonus(음·음조) -> tone(3533)의 변형 -> 'tune'. tone(3533)과 한 뿌리 — '맞춰진 음·가락'이 핵심.",
+  "deriv": "tonus(음) -> tone(3533) -> 'tune'. '음을 맞춤 -> 곡조(hum a tune, 곡조를 흥얼거리다)·음을 맞추다(tune a guitar, 기타를 조율하다)'. 한국 학습자 핵심: tone(3533)·tune·attune(맞추다)이 한 뿌리! in tune(음이 맞는·잘 어울리는), out of tune(음이 안 맞는), tune in(채널을 맞추다·주파수를 맞추다), tune out(귀를 닫다), change one's tune(태도를 바꾸다), to the tune of(~의 금액에 달하는). melody(선율)·adjust(조정하다)와 유의어.",
+  "syn": [
+   "melody(선율)",
+   "adjust(조정하다)",
+   "song(노래)"
+  ],
+  "anti": [],
+  "idiom": [
+   "in tune(음이 맞는)",
+   "out of tune(음이 안 맞는)",
+   "change one's tune(태도를 바꾸다)"
+  ],
+  "colloc": [
+   "hum a tune(곡조를 흥얼거리다)",
+   "tune a guitar(기타를 조율하다)",
+   "catchy tune(귀에 쏙 들어오는 곡조)"
+  ],
+  "ex_add": "She was humming a familiar tune.  (tune=곡조)"
+ },
+ {
+  "num": "3559",
+  "hw": "tunnel",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "통 모양의 통로 -> '터널·굴 / 굴을 파다'.",
+  "senses": [
+   "1) 터널·굴·지하도",
+   "2) (동사) 굴을 파다·터널을 뚫다"
+  ],
+  "etym": "고대 프랑스어 tonel(통·원통) <- tonne(큰 술통). 둥근 통 모양의 통로에서 '터널'로. '통처럼 둥근 통로'가 핵심.",
+  "deriv": "tonel(통) -> 'tunnel'. '통 모양 통로 -> 터널(dig a tunnel, 터널을 파다)·굴을 파다'. 한국 학습자 핵심: 큰 통 tonne(=ton 톤, 무게 단위)와 한 뿌리! a railway tunnel(철도 터널), the light at the end of the tunnel(터널 끝의 빛·고난 끝의 희망), tunnel vision(좁은 시야·외골수). passage(통로)·underpass(지하도)와 유의어.",
+  "syn": [
+   "passage(통로)",
+   "underpass(지하도)",
+   "burrow(굴)"
+  ],
+  "anti": [],
+  "idiom": [
+   "light at the end of the tunnel(고난 끝의 희망)",
+   "tunnel vision(좁은 시야)"
+  ],
+  "colloc": [
+   "dig a tunnel(터널을 파다)",
+   "railway tunnel(철도 터널)",
+   "underground tunnel(지하 터널)"
+  ],
+  "ex_add": "The train passed through a long tunnel.  (tunnel=터널)"
+ },
+ {
+  "num": "3560",
+  "hw": "ultimate",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "맨 마지막의 -> '궁극적인·최종의 / 최고의·근본적인'.",
+  "senses": [
+   "1) 궁극적인·최종의·마지막의",
+   "2) 최고의·더없는",
+   "3) 근본적인·가장 본질적인; (the ultimate) 극치"
+  ],
+  "etym": "라틴어 ultimus(가장 먼·맨 마지막의, ulter=저편의 최상급) -> ultimare(끝내다) -> 'ultimate'. '맨 끝·저 너머의'가 핵심. ultimus는 ultimate·ultimately(3561)·ultimatum(최후통첩)·ulterior(숨은)의 뿌리.",
+  "deriv": "ultimus(맨 마지막의) -> 'ultimate'. '맨 끝의 -> 궁극적인(the ultimate goal, 궁극적 목표)·최고의(the ultimate luxury, 최고의 사치)'. 한국 학습자 핵심: ultimus(맨 끝) 갈래 — ultimately(3561)·ultimatum(최후통첩)·ulterior(숨은·이면의)·ultra-(초~)! the ultimate aim(궁극적 목표), the ultimate decision(최종 결정). final(최종의)·supreme(최고의)·fundamental(근본적인)과 유의어. 반대 initial(최초의)·preliminary(예비의).",
+  "syn": [
+   "final(최종의)",
+   "supreme(최고의)",
+   "fundamental(근본적인)"
+  ],
+  "anti": [
+   "initial(최초의)",
+   "preliminary(예비의)"
+  ],
+  "idiom": [
+   "the ultimate goal(궁극적 목표)",
+   "the ultimate decision(최종 결정)"
+  ],
+  "colloc": [
+   "ultimate aim(궁극적 목표)",
+   "ultimate responsibility(최종 책임)",
+   "ultimate sacrifice(궁극의 희생)"
+  ],
+  "ex_add": "Their ultimate goal is world peace.  (ultimate=궁극적인)"
+ },
+ {
+  "num": "3561",
+  "hw": "ultimately",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "맨 마지막에 -> '궁극적으로·결국·근본적으로'.",
+  "senses": [
+   "1) 궁극적으로·결국·마침내",
+   "2) 근본적으로·따지고 보면"
+  ],
+  "etym": "라틴어 ultimus(맨 마지막의) -> ultimate(3560) + -ly. '맨 끝에 가서는'이 핵심.",
+  "deriv": "ultimate(3560, 궁극적인) -> 'ultimately'. '맨 마지막에 -> 결국(ultimately succeed, 결국 성공하다)·근본적으로'. 한국 학습자 핵심: ultimus(맨 끝) 갈래 — ultimate(3560)·ultimatum(최후통첩)·ulterior(숨은)! 문두에 쓰여 '궁극적으로는·따지고 보면'(=in the end, fundamentally). ultimately responsible(궁극적으로 책임이 있는). eventually(결국)·finally(마침내)·in the end(결국)와 유의어. 반대 initially(처음에)·at first(처음에).",
+  "syn": [
+   "eventually(결국)",
+   "finally(마침내)",
+   "in the end(결국)"
+  ],
+  "anti": [
+   "initially(처음에)",
+   "at first(처음에)"
+  ],
+  "idiom": [
+   "ultimately responsible(궁극적으로 책임이 있는)",
+   "ultimately succeed(결국 성공하다)"
+  ],
+  "colloc": [
+   "ultimately depend on(궁극적으로 ~에 달려 있다)",
+   "ultimately lead to(결국 ~로 이어지다)",
+   "ultimately fail(결국 실패하다)"
+  ],
+  "ex_add": "Ultimately, the decision is up to you.  (ultimately=궁극적으로)"
+ },
+ {
+  "num": "3562",
+  "hw": "unacceptable",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "받아들일 수 없는 -> '용납할 수 없는·받아들이기 어려운'.",
+  "senses": [
+   "1) 받아들일 수 없는·용납할 수 없는",
+   "2) (수준·행동이) 용인되지 않는"
+  ],
+  "etym": "un(아닌) + 라틴어 ad(~로) + capere(잡다) -> accept(받아들이다) + -able. '받아들일 수 없는'이 핵심. capere(잡다)는 accept·capture(붙잡다)·receive(3268)·perceive(3168)·concept(개념)의 뿌리.",
+  "deriv": "un(아닌)+accept(받아들이다)+-able -> 'unacceptable'. '받아들일 수 없는 -> 용납할 수 없는(unacceptable behavior, 용납할 수 없는 행동)'. 한국 학습자 핵심: capere(잡다) 대가족 — accept·capture(붙잡다)·receive(3268)·perceive(3168)·concept(개념)·capable(유능한)·participate(참여하다)! un-(부정)+-able(가능)로 둘러싸인 구조 — acceptable(받아들일 만한)의 반대. completely unacceptable(완전히 용납할 수 없는), socially unacceptable(사회적으로 용인되지 않는). intolerable(참을 수 없는)·inadmissible(허용되지 않는)과 유의어. 반대 acceptable(받아들일 만한)·satisfactory(만족스러운).",
+  "syn": [
+   "intolerable(참을 수 없는)",
+   "inadmissible(허용되지 않는)",
+   "objectionable(못마땅한)"
+  ],
+  "anti": [
+   "acceptable(받아들일 만한)",
+   "satisfactory(만족스러운)"
+  ],
+  "idiom": [
+   "completely unacceptable(완전히 용납할 수 없는)",
+   "socially unacceptable(사회적으로 용인되지 않는)"
+  ],
+  "colloc": [
+   "unacceptable behavior(용납할 수 없는 행동)",
+   "unacceptable level(용인할 수 없는 수준)",
+   "deemed unacceptable(용납할 수 없는 것으로 간주된)"
+  ],
+  "ex_add": "Such rude behavior is completely unacceptable.  (unacceptable=용납할 수 없는)"
+ },
+ {
+  "num": "3563",
+  "hw": "uncertainty",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "확실하지 않음 -> '불확실성·불확정 / 반신반의'.",
+  "senses": [
+   "1) 불확실성·불확정",
+   "2) 확신이 없음·반신반의",
+   "3) (uncertainties) 불확실한 요소들"
+  ],
+  "etym": "un(아닌) + 라틴어 certus(확실한, cernere=가려내다·결정하다) -> certain(확실한) + -ty. '확실히 가려지지 않은 상태'가 핵심. cernere(가려내다)는 certain·certainty·discern(식별하다)·concern(2510, 관심)·secret(비밀)의 뿌리.",
+  "deriv": "un(아닌)+certus(확실한)+-ty -> 'uncertainty'. '확실하지 않음 -> 불확실성(economic uncertainty, 경제적 불확실성)'. 한국 학습자 핵심: cernere(가려내다) 갈래 — certain(확실한)·certainty(확실성)·discern(식별)·concern(2510, 관심)·secret(비밀)·discrete(별개의)! a period of uncertainty(불확실한 시기), great uncertainty(큰 불확실성). doubt(의심)·unpredictability(예측 불가능성)와 유의어. 반대 certainty(확실성)·confidence(확신).",
+  "syn": [
+   "doubt(의심)",
+   "unpredictability(예측 불가능성)",
+   "hesitation(망설임)"
+  ],
+  "anti": [
+   "certainty(확실성)",
+   "confidence(확신)"
+  ],
+  "idiom": [
+   "a period of uncertainty(불확실한 시기)",
+   "great uncertainty(큰 불확실성)"
+  ],
+  "colloc": [
+   "economic uncertainty(경제적 불확실성)",
+   "considerable uncertainty(상당한 불확실성)",
+   "future uncertainty(미래의 불확실성)"
+  ],
+  "ex_add": "There is a lot of uncertainty about the future.  (uncertainty=불확실성)"
+ },
+ {
+  "num": "3564",
+  "hw": "unconscious",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "의식이 없는 -> '의식을 잃은 / 무의식의·자각하지 못하는'.",
+  "senses": [
+   "1) 의식을 잃은·인사불성의",
+   "2) 무의식의·자기도 모르는·자각하지 못하는",
+   "3) (the unconscious) 무의식"
+  ],
+  "etym": "un(아닌) + 라틴어 con(함께) + scire(알다) -> conscious(의식하는) + un-. scire는 '알다'. '함께 알지(의식하지) 못하는'이 핵심. scire(알다)는 conscious·science(과학)·conscience(양심)·conscientious(성실한)의 뿌리.",
+  "deriv": "un(아닌)+con(함께)+scire(알다) -> 'unconscious'. '의식하지 못하는 -> 의식을 잃은(knocked unconscious, 의식을 잃은)·무의식의(an unconscious bias, 무의식적 편견)'. 한국 학습자 핵심: scire(알다) 대가족 — science(과학)·conscious(의식하는)·conscience(양심)·conscientious(성실한)·omniscient(전지의)! be unconscious of(~을 자각하지 못하다), unconscious bias(무의식적 편견). senseless(의식 없는)·involuntary(무의식적인)와 유의어. 반대 conscious(의식 있는)·aware(2425, 자각하는)·deliberate(2566, 의도적인).",
+  "syn": [
+   "senseless(의식 없는)",
+   "involuntary(무의식적인)",
+   "instinctive(본능적인)"
+  ],
+  "anti": [
+   "conscious(의식 있는)",
+   "aware(자각하는)",
+   "deliberate(의도적인)"
+  ],
+  "idiom": [
+   "knocked unconscious(의식을 잃은)",
+   "unconscious bias(무의식적 편견)"
+  ],
+  "colloc": [
+   "fall unconscious(의식을 잃다)",
+   "unconscious mind(무의식)",
+   "unconscious of(~을 자각하지 못하는)"
+  ],
+  "ex_add": "The blow knocked him unconscious.  (unconscious=의식을 잃은)"
+ },
+ {
+  "num": "3565",
+  "hw": "undergo",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "밑을 거쳐 지나가다 -> '겪다·받다·경험하다'.",
+  "senses": [
+   "1) (변화·검사·수술을) 받다·거치다",
+   "2) (시련·고난을) 겪다·견디다"
+  ],
+  "etym": "고대 영어 undergan(아래로 지나가다·견디다), under(아래) + gan(가다). '밑을 거쳐 지나가며 겪음'이 핵심.",
+  "deriv": "under(아래)+go(가다) -> 'undergo'. '밑을 거쳐 지나감 -> 겪다·(검사·수술을) 받다(undergo surgery, 수술을 받다)'. 한국 학습자 핵심: 불규칙 undergo-underwent-undergone (go의 변화 따름)! under- 복합어 — undergo·undertake(3566)·understand(이해하다)·undergraduate(학부생)·underground(지하)! undergo change(변화를 겪다), undergo treatment(치료를 받다), undergo testing(검사를 받다). experience(경험하다)·endure(견디다)·go through(겪다)와 유의어.",
+  "syn": [
+   "experience(경험하다)",
+   "endure(견디다)",
+   "go through(겪다)"
+  ],
+  "anti": [
+   "avoid(피하다)"
+  ],
+  "idiom": [
+   "undergo surgery(수술을 받다)",
+   "undergo change(변화를 겪다)"
+  ],
+  "colloc": [
+   "undergo treatment(치료를 받다)",
+   "undergo testing(검사를 받다)",
+   "undergo a transformation(변화를 겪다)"
+  ],
+  "ex_add": "The building is undergoing major renovations.  (undergo=거치다)"
+ },
+ {
+  "num": "3566",
+  "hw": "undertake",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "(일을) 떠맡아 잡다 -> '착수하다·맡다 / 약속하다'.",
+  "senses": [
+   "1) (일·책임을) 떠맡다·착수하다·수행하다",
+   "2) (격식) ~하기로 약속하다·동의하다"
+  ],
+  "etym": "고대 영어 under(아래에·~을 맡아) + tacan(잡다, take) -> 'undertake'. '일을 손에 잡아 떠맡음'이 핵심.",
+  "deriv": "under(맡아)+take(잡다) -> 'undertake'. '떠맡아 잡음 -> 착수하다(undertake a project, 프로젝트에 착수하다)·약속하다(undertake to pay, 지불하기로 약속하다)'. 한국 학습자 핵심: 불규칙 undertake-undertook-undertaken (take의 변화 따름)! under- 복합어 — undergo(3565)·undertake·understand(이해하다)·undertaking(사업·약속)·undertaker(장의사)! undertake a task(과업을 맡다), undertake research(연구에 착수하다). assume(떠맡다)·embark on(착수하다)·pledge(약속하다)와 유의어. 반대 abandon(2347, 포기하다)·decline(거절하다).",
+  "syn": [
+   "assume(떠맡다)",
+   "embark on(착수하다)",
+   "pledge(약속하다)"
+  ],
+  "anti": [
+   "abandon(포기하다)",
+   "decline(거절하다)"
+  ],
+  "idiom": [
+   "undertake a project(프로젝트에 착수하다)",
+   "undertake to do(~하기로 약속하다)"
+  ],
+  "colloc": [
+   "undertake a task(과업을 맡다)",
+   "undertake research(연구에 착수하다)",
+   "undertake responsibility(책임을 떠맡다)"
+  ],
+  "ex_add": "The company undertook a major research project.  (undertake=착수하다)"
+ },
+ {
+  "num": "3567",
+  "hw": "unexpected",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "내다보지 못한 -> '예기치 못한·뜻밖의'.",
+  "senses": [
+   "1) 예기치 못한·뜻밖의·의외의"
+  ],
+  "etym": "un(아닌) + 라틴어 ex(밖) + spectare(보다) -> expect(예상하다) + un- + -ed. '미리 내다보지 못한'이 핵심. spectare(보다)는 expect·spectator(3423)·inspect(점검)·respect(존경)·prospect(3222)의 뿌리.",
+  "deriv": "un(아닌)+ex(밖)+spectare(보다) -> expect -> 'unexpected'. '내다보지 못한 -> 뜻밖의(an unexpected visit, 뜻밖의 방문)'. 한국 학습자 핵심: spectare(보다) 대가족 — expect(예상)·spectator(3423)·inspect(점검)·respect(존경)·prospect(3222)·perspective(3175)·suspect(3487)! unexpectedly(뜻밖에)가 부사. an unexpected turn(예기치 못한 전환), the unexpected(뜻밖의 일). surprising(놀라운)·unforeseen(예견 못 한)·sudden(갑작스러운)과 유의어. 반대 expected(예상된)·anticipated(예상된)·predictable(예측 가능한).",
+  "syn": [
+   "surprising(놀라운)",
+   "unforeseen(예견 못 한)",
+   "sudden(갑작스러운)"
+  ],
+  "anti": [
+   "expected(예상된)",
+   "anticipated(예상된)",
+   "predictable(예측 가능한)"
+  ],
+  "idiom": [
+   "an unexpected turn(예기치 못한 전환)",
+   "expect the unexpected(뜻밖의 일을 대비하다)"
+  ],
+  "colloc": [
+   "unexpected visit(뜻밖의 방문)",
+   "unexpected result(예기치 못한 결과)",
+   "completely unexpected(완전히 뜻밖의)"
+  ],
+  "ex_add": "His sudden resignation was completely unexpected.  (unexpected=뜻밖의)"
+ },
+ {
+  "num": "3568",
+  "hw": "unfold",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "접힌 것을 펴다 -> '펴다·펼치다 / (일이) 전개되다'.",
+  "senses": [
+   "1) (접힌 것을) 펴다·펼치다",
+   "2) (이야기·사건이) 전개되다·펼쳐지다",
+   "3) (계획을) 밝히다·드러내다"
+  ],
+  "etym": "고대 영어 unfealdan, un(반대로) + fealdan(접다, fold). '접은 것을 도로 펴다'가 핵심.",
+  "deriv": "un(반대로)+fold(접다) -> 'unfold'. '접힌 것을 폄 -> 펼치다(unfold a map, 지도를 펴다)·(사건이) 전개되다(the story unfolds, 이야기가 펼쳐지다)'. 한국 학습자 핵심: un-(반대 동작) 접두사가 동사에 붙으면 '거꾸로 하다' — unfold(펴다)·undo(원상태로 돌리다)·unlock(잠금을 풀다)·untie(풀다)·unpack(짐을 풀다)! events unfold(사건이 전개되다), as the plot unfolds(줄거리가 전개되면서). open(펴다)·spread(3439, 펼치다)·develop(전개되다)와 유의어. 반대 fold(접다)·wrap up(마무리하다).",
+  "syn": [
+   "open(펴다)",
+   "spread(펼치다)",
+   "develop(전개되다)"
+  ],
+  "anti": [
+   "fold(접다)"
+  ],
+  "idiom": [
+   "events unfold(사건이 전개되다)",
+   "as the plot unfolds(줄거리가 전개되면서)"
+  ],
+  "colloc": [
+   "unfold a map(지도를 펴다)",
+   "the story unfolds(이야기가 펼쳐지다)",
+   "watch events unfold(사건 전개를 지켜보다)"
+  ],
+  "ex_add": "The drama unfolds over three generations.  (unfold=전개되다)"
+ },
+ {
+  "num": "3569",
+  "hw": "unfortunate",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "운이 따르지 않는 -> '불운한·불행한 / 유감스러운'.",
+  "senses": [
+   "1) 불운한·불행한·운이 나쁜",
+   "2) 유감스러운·부적절한·안타까운"
+  ],
+  "etym": "un(아닌) + 라틴어 fortuna(운·행운) -> fortunate(운 좋은) + un-. '운이 따르지 않는'이 핵심. fortuna(운)는 fortunate·fortune(행운·재산)·misfortune(불운)의 뿌리.",
+  "deriv": "un(아닌)+fortuna(운) -> 'unfortunate'. '운이 따르지 않는 -> 불운한(an unfortunate accident, 불운한 사고)·유감스러운(an unfortunate remark, 부적절한 발언)'. 한국 학습자 핵심: fortuna(운) 갈래 — fortunate(운 좋은)·fortune(행운·재산)·misfortune(불운)·unfortunately(불행히도)! It's unfortunate that(~라니 안타깝다), an unfortunate choice(부적절한 선택). unlucky(운 없는)·unhappy(불행한)·regrettable(유감스러운)과 유의어. 반대 fortunate(운 좋은)·lucky(운 좋은).",
+  "syn": [
+   "unlucky(운 없는)",
+   "unhappy(불행한)",
+   "regrettable(유감스러운)"
+  ],
+  "anti": [
+   "fortunate(운 좋은)",
+   "lucky(운 좋은)"
+  ],
+  "idiom": [
+   "an unfortunate accident(불운한 사고)",
+   "It's unfortunate that(~라니 안타깝다)"
+  ],
+  "colloc": [
+   "unfortunate situation(불운한 상황)",
+   "unfortunate remark(부적절한 발언)",
+   "deeply unfortunate(매우 안타까운)"
+  ],
+  "ex_add": "It was an unfortunate mistake.  (unfortunate=유감스러운)"
+ },
+ {
+  "num": "3570",
+  "hw": "unique",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "오직 하나뿐인 -> '유일한·독특한·특유의'.",
+  "senses": [
+   "1) 유일무이한·하나뿐인",
+   "2) 독특한·특이한",
+   "3) (unique to) ~에 특유한·고유한"
+  ],
+  "etym": "라틴어 unus(하나) -> unicus(유일한) -> 프랑스어 unique -> 'unique'. '오직 하나뿐인'이 핵심. unus(하나)는 unique·unite(3571)·unity(3572)·universe(3574)·union(연합)·unit(단위)의 뿌리.",
+  "deriv": "unus(하나) -> unicus(유일한) -> 'unique'. '오직 하나뿐인 -> 유일한·독특한(a unique style, 독특한 스타일)·(unique to) ~에 특유한'. 한국 학습자 핵심: unus(하나) 대가족 — unite(3571)·unity(3572)·universe(3574)·union(연합)·unit(단위)·unanimous(만장일치의)·universal(3573)! 주의: unique는 본래 '유일한'이라 'very unique'(매우 유일한)는 논리상 어색 — 다만 구어에서 '독특한'으로 쓰여 정도 표현이 붙기도 함. one of a kind(유일무이한), unique to(~에 고유한). distinctive(독특한)·exceptional(특출한)·singular(유일한)과 유의어. 반대 common(흔한)·ordinary(평범한).",
+  "syn": [
+   "distinctive(독특한)",
+   "exceptional(특출한)",
+   "singular(유일한)"
+  ],
+  "anti": [
+   "common(흔한)",
+   "ordinary(평범한)"
+  ],
+  "idiom": [
+   "one of a kind(유일무이한)",
+   "unique to(~에 고유한)"
+  ],
+  "colloc": [
+   "unique opportunity(유일한 기회)",
+   "unique style(독특한 스타일)",
+   "truly unique(정말 독특한)"
+  ],
+  "ex_add": "Each snowflake has a unique shape.  (unique=독특한)"
+ },
+ {
+  "num": "3571",
+  "hw": "unite",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "하나로 만들다 -> '연합하다·통합하다 / 단결시키다'.",
+  "senses": [
+   "1) 연합하다·하나로 합치다·통합하다",
+   "2) 단결시키다·뭉치다",
+   "3) (성질을) 겸비하다"
+  ],
+  "etym": "라틴어 unus(하나) -> unire(하나로 만들다) -> 'unite'. '여럿을 하나로 만듦'이 핵심.",
+  "deriv": "unus(하나) -> unire(하나로 만들다) -> 'unite'. '하나로 만듦 -> 연합하다(unite against, ~에 맞서 단결하다)'. 한국 학습자 핵심: unus(하나) 대가족 — unique(3570)·unity(3572)·universe(3574)·union(연합)·unit(단위)·reunite(재결합하다)·unanimous(만장일치의)! the United States(미국), the United Nations(유엔), United we stand, divided we fall(뭉치면 살고 흩어지면 죽는다). combine(결합하다)·merge(합병하다)·join(합치다)과 유의어. 반대 divide(나누다)·separate(분리하다)·split(3431, 쪼개다).",
+  "syn": [
+   "combine(결합하다)",
+   "merge(합병하다)",
+   "join(합치다)"
+  ],
+  "anti": [
+   "divide(나누다)",
+   "separate(분리하다)",
+   "split(쪼개다)"
+  ],
+  "idiom": [
+   "unite against(~에 맞서 단결하다)",
+   "United we stand(뭉치면 산다)"
+  ],
+  "colloc": [
+   "unite the country(나라를 통합하다)",
+   "unite people(사람들을 단결시키다)",
+   "unite behind(~을 중심으로 뭉치다)"
+  ],
+  "ex_add": "The crisis united the nation.  (unite=단결시키다)"
+ },
+ {
+  "num": "3572",
+  "hw": "unity",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "하나임 -> '통합·단결·일치 / 통일성'.",
+  "senses": [
+   "1) 통합·단결·결속",
+   "2) 일치·조화",
+   "3) (작품의) 통일성·일관성"
+  ],
+  "etym": "라틴어 unus(하나) -> unitas(하나임) -> 'unity'. '여럿이 하나가 된 상태'가 핵심.",
+  "deriv": "unus(하나) -> unitas(하나임) -> 'unity'. '하나임 -> 단결(national unity, 국민 통합)·통일성'. 한국 학습자 핵심: unus(하나) 대가족 — unique(3570)·unite(3571)·universe(3574)·union(연합)·unit(단위)·unanimous(만장일치)! a sense of unity(일체감), in unity(단결하여), unity in diversity(다양성 속의 통합). solidarity(연대)·harmony(조화)·oneness(하나됨)와 유의어. 반대 division(분열)·disunity(불화)·discord(불화).",
+  "syn": [
+   "solidarity(연대)",
+   "harmony(조화)",
+   "oneness(하나됨)"
+  ],
+  "anti": [
+   "division(분열)",
+   "disunity(불화)",
+   "discord(불화)"
+  ],
+  "idiom": [
+   "a sense of unity(일체감)",
+   "unity in diversity(다양성 속의 통합)"
+  ],
+  "colloc": [
+   "national unity(국민 통합)",
+   "promote unity(단결을 촉진하다)",
+   "political unity(정치적 통합)"
+  ],
+  "ex_add": "The leader called for national unity.  (unity=단결)"
+ },
+ {
+  "num": "3573",
+  "hw": "universal",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "하나로 돌아 아우르는 -> '보편적인·전 세계적인·만인의'.",
+  "senses": [
+   "1) 보편적인·일반적인",
+   "2) 전 세계적인·만인 공통의",
+   "3) 만능의·다용도의"
+  ],
+  "etym": "라틴어 unus(하나) + versus(돌려진, vertere=돌다) -> universalis(전체를 하나로 아우르는) -> 'universal'. '하나로 돌아 전체를 아우르는'이 핵심. versus(돌려진)는 universal·universe(3574)·version(판)·reverse(뒤집다)·convert(전환)의 뿌리.",
+  "deriv": "unus(하나)+vertere(돌다) -> 'universal'. '하나로 아우르는 -> 보편적인(a universal truth, 보편적 진리)·전 세계적인'. 한국 학습자 핵심: unus(하나)+vertere(돌다) 갈래 — universe(3574)·version(판)·reverse(뒤집다)·convert(전환)·diverse(다양한)·anniversary(기념일)! universal health care(전 국민 의료), a universal language(만국 공용어). global(세계적인)·worldwide(전 세계의)·general(일반적인)과 유의어. 반대 particular(특정한)·local(지역적인)·specific(구체적인).",
+  "syn": [
+   "global(세계적인)",
+   "worldwide(전 세계의)",
+   "general(일반적인)"
+  ],
+  "anti": [
+   "particular(특정한)",
+   "local(지역적인)",
+   "specific(구체적인)"
+  ],
+  "idiom": [
+   "a universal truth(보편적 진리)",
+   "a universal language(만국 공용어)"
+  ],
+  "colloc": [
+   "universal health care(전 국민 의료)",
+   "universal appeal(보편적 매력)",
+   "near-universal(거의 보편적인)"
+  ],
+  "ex_add": "Music has a universal appeal across cultures.  (universal=보편적인)"
+ },
+ {
+  "num": "3574",
+  "hw": "universe",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "하나로 돌아가는 전체 -> '우주·만물 / (특정) 세계'.",
+  "senses": [
+   "1) 우주·삼라만상",
+   "2) 만물·전 세계",
+   "3) (특정한) 세계·영역"
+  ],
+  "etym": "라틴어 unus(하나) + versus(돌려진) -> universum(하나로 돌아가는 전체) -> 'universe'. '모든 것이 하나로 돌아가는 전체'가 핵심.",
+  "deriv": "unus(하나)+vertere(돌다) -> universum(전체) -> 'universe'. '하나로 돌아가는 전체 -> 우주(the origin of the universe, 우주의 기원)'. 한국 학습자 핵심: unus(하나)+vertere(돌다) 대가족 — universal(3573)·version(판)·reverse(뒤집다)·convert(전환)·university(대학, 학자들이 하나로 모인 곳)·diverse(다양한)! the entire universe(온 우주), a parallel universe(평행 우주), the center of the universe(우주의 중심). cosmos(우주)·creation(만물)과 유의어.",
+  "syn": [
+   "cosmos(우주)",
+   "creation(만물)",
+   "space(우주 공간)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a parallel universe(평행 우주)",
+   "the center of the universe(우주의 중심)"
+  ],
+  "colloc": [
+   "the entire universe(온 우주)",
+   "origin of the universe(우주의 기원)",
+   "expanding universe(팽창하는 우주)"
+  ],
+  "ex_add": "Scientists study the origin of the universe.  (universe=우주)"
+ },
+ {
+  "num": "3575",
+  "hw": "unknown",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "알려지지 않은 -> '알려지지 않은·미지의·무명의'.",
+  "senses": [
+   "1) 알려지지 않은·미지의",
+   "2) 무명의·이름 없는",
+   "3) (the unknown) 미지의 것·세계"
+  ],
+  "etym": "un(아닌) + 고대 영어 cnawan(알다, know)의 과거분사 known. '알려지지 않은'이 핵심.",
+  "deriv": "un(아닌)+known(알려진) -> 'unknown'. '알려지지 않은 -> 미지의(an unknown cause, 알 수 없는 원인)·무명의(an unknown artist, 무명 예술가)'. 한국 학습자 핵심: know(알다)·known(알려진)·unknown·unknowingly(모르고)! a fear of the unknown(미지에 대한 두려움), an unknown quantity(알 수 없는 존재), for reasons unknown(알 수 없는 이유로). unfamiliar(낯선)·mysterious(불가사의한)·obscure(잘 알려지지 않은)와 유의어. 반대 known(알려진)·familiar(친숙한)·famous(유명한).",
+  "syn": [
+   "unfamiliar(낯선)",
+   "mysterious(불가사의한)",
+   "obscure(잘 알려지지 않은)"
+  ],
+  "anti": [
+   "known(알려진)",
+   "familiar(친숙한)",
+   "famous(유명한)"
+  ],
+  "idiom": [
+   "a fear of the unknown(미지에 대한 두려움)",
+   "an unknown quantity(알 수 없는 존재)"
+  ],
+  "colloc": [
+   "unknown cause(알 수 없는 원인)",
+   "unknown artist(무명 예술가)",
+   "largely unknown(거의 알려지지 않은)"
+  ],
+  "ex_add": "The cause of the fire is still unknown.  (unknown=알 수 없는)"
+ },
+ {
+  "num": "3576",
+  "hw": "upper",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "더 위의 -> '위쪽의·상부의 / 상위의'.",
+  "senses": [
+   "1) 위쪽의·상부의",
+   "2) (지위·계급이) 상위의·고위의",
+   "3) (신발의) 갑피"
+  ],
+  "etym": "고대 영어 up(위) -> upper(up의 비교급 형용사). '더 위에 있는'이 핵심.",
+  "deriv": "up(위) -> 'upper'. '더 위의 -> 위쪽의(the upper floor, 위층)·상위의(the upper class, 상류층)'. 한국 학습자 핵심: up 파생 — upper·upward(3577)·upset(뒤집다)·update(갱신)·uphold(지지하다)! get the upper hand(우위를 점하다), the upper class(상류층), the upper limit(상한). higher(더 높은)·superior(상급의)·top(꼭대기의)과 유의어. 반대 lower(아래쪽의)·bottom(맨 아래의).",
+  "syn": [
+   "higher(더 높은)",
+   "superior(상급의)",
+   "top(꼭대기의)"
+  ],
+  "anti": [
+   "lower(아래쪽의)",
+   "bottom(맨 아래의)"
+  ],
+  "idiom": [
+   "get the upper hand(우위를 점하다)",
+   "the upper class(상류층)"
+  ],
+  "colloc": [
+   "upper floor(위층)",
+   "upper limit(상한)",
+   "upper body(상체)"
+  ],
+  "ex_add": "The bedrooms are on the upper floor.  (upper=위쪽의)"
+ },
+ {
+  "num": "3577",
+  "hw": "upward",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "위쪽으로 -> '위로·위쪽으로 / 상승하는'.",
+  "senses": [
+   "1) 위로·위쪽으로(upward(s))",
+   "2) (adj.) 상승하는·증가하는",
+   "3) (upward of) ~ 이상의"
+  ],
+  "etym": "고대 영어 upweard, up(위) + -weard(~쪽으로, -ward). '위쪽 방향으로'가 핵심.",
+  "deriv": "up(위)+-ward(쪽으로) -> 'upward'. '위쪽으로 -> 위로(look upward, 위를 보다)·(adj.) 상승하는(an upward trend, 상승 추세)'. 한국 학습자 핵심: -ward(방향) 접미사 — upward·downward(아래로)·forward(앞으로)·backward(뒤로)·toward(~쪽으로)·inward(안쪽으로)! upward(s) 둘 다 가능(영국은 upwards 선호). an upward trend(상승세), upward mobility(신분 상승), upward of(~이 넘는). rising(상승하는)과 유의어. 반대 downward(아래쪽으로).",
+  "syn": [
+   "rising(상승하는)",
+   "ascending(올라가는)"
+  ],
+  "anti": [
+   "downward(아래쪽으로)",
+   "descending(내려가는)"
+  ],
+  "idiom": [
+   "an upward trend(상승 추세)",
+   "upward mobility(신분 상승)",
+   "upward of(~이 넘는)"
+  ],
+  "colloc": [
+   "look upward(위를 보다)",
+   "move upward(위로 이동하다)",
+   "upward pressure(상승 압력)"
+  ],
+  "ex_add": "House prices continued their upward trend.  (upward=상승하는)"
+ },
+ {
+  "num": "3578",
+  "hw": "urban",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "도시의 -> '도시의·도회의'.",
+  "senses": [
+   "1) 도시의·도회의",
+   "2) 도시에 사는·도시 특유의"
+  ],
+  "etym": "라틴어 urbs(도시, 속격 urbis) -> urbanus(도시의) -> 'urban'. '도시에 속한'이 핵심. urbs(도시)는 urban·suburb(3474)·urbane(세련된)·suburban(교외의)의 뿌리.",
+  "deriv": "urbs(도시) -> urbanus(도시의) -> 'urban'. '도시의 -> 도시의(urban areas, 도시 지역)'. 한국 학습자 핵심: urbs(도시) 갈래 — suburb(3474)·suburban(교외의)·urbane(세련된)·urbanization(도시화)! urban과 urbane[어베인] 구별 — urban(도시의), urbane(세련된·교양 있는). urban planning(도시 계획), urban sprawl(도시의 무질서한 확산), urban legend(도시 전설). metropolitan(대도시의)·city(도시의)와 유의어. 반대 rural(3336, 시골의)·rustic(시골풍의).",
+  "syn": [
+   "metropolitan(대도시의)",
+   "city(도시의)"
+  ],
+  "anti": [
+   "rural(시골의)",
+   "rustic(시골풍의)"
+  ],
+  "idiom": [
+   "urban planning(도시 계획)",
+   "urban legend(도시 전설)",
+   "urban sprawl(도시의 무질서한 확산)"
+  ],
+  "colloc": [
+   "urban areas(도시 지역)",
+   "urban development(도시 개발)",
+   "urban population(도시 인구)"
+  ],
+  "ex_add": "More people are moving to urban areas for work.  (urban=도시의)"
+ },
+ {
+  "num": "3579",
+  "hw": "urge",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "밀어붙이다 -> '촉구하다·강력히 권하다 / 충동·욕구'.",
+  "senses": [
+   "1) 촉구하다·강력히 권하다·재촉하다",
+   "2) (앞으로) 몰아대다·밀어붙이다",
+   "3) (n.) 충동·강한 욕구"
+  ],
+  "etym": "라틴어 urgere(밀어붙이다·압박하다) -> 'urge'. '세게 밀어붙여 재촉함'이 핵심. urgere(밀어붙이다)는 urge·urgent(3580)·urgency(긴급)의 뿌리.",
+  "deriv": "urgere(밀어붙이다) -> 'urge'. '밀어붙임 -> 촉구하다(urge caution, 신중을 촉구하다)·(n.) 충동(an urge to laugh, 웃고 싶은 충동)'. 한국 학습자 핵심: urgere(밀어붙이다) 갈래 — urgent(3580)·urgency(긴급성)! urge someone to do(~에게 ~하라고 강력히 권하다), resist the urge(충동을 억누르다), a sudden urge(갑작스러운 충동). encourage(권하다)·press(촉구하다)·impulse(충동)와 유의어. 반대 discourage(말리다)·deter(단념시키다).",
+  "syn": [
+   "encourage(권하다)",
+   "press(촉구하다)",
+   "impulse(충동)"
+  ],
+  "anti": [
+   "discourage(말리다)",
+   "deter(단념시키다)"
+  ],
+  "idiom": [
+   "urge someone to do(~하라고 강력히 권하다)",
+   "resist the urge(충동을 억누르다)"
+  ],
+  "colloc": [
+   "urge caution(신중을 촉구하다)",
+   "strongly urge(강력히 촉구하다)",
+   "an urge to(~하고 싶은 충동)"
+  ],
+  "ex_add": "Doctors urge people to exercise regularly.  (urge=촉구하다)"
+ },
+ {
+  "num": "3580",
+  "hw": "urgent",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "밀어붙이는 -> '긴급한·다급한·절박한'.",
+  "senses": [
+   "1) 긴급한·다급한·시급한",
+   "2) (말투가) 절박한·간곡한"
+  ],
+  "etym": "라틴어 urgere(밀어붙이다) -> 현재분사 urgens(밀어붙이는) -> 'urgent'. '시간이 밀어붙여 다급한'이 핵심.",
+  "deriv": "urgere(밀어붙이다) -> urgens -> 'urgent'. '밀어붙이는 -> 긴급한(an urgent matter, 긴급한 사안)'. 한국 학습자 핵심: urgere(밀어붙이다) 갈래 — urge(3579)·urgency(긴급성)·urgently(긴급히)! an urgent need(시급한 필요), urgent action(긴급 조치), an urgent message(긴급 메시지). pressing(긴급한)·critical(위급한)·immediate(즉각적인)과 유의어. 반대 trivial(사소한)·unimportant(중요하지 않은).",
+  "syn": [
+   "pressing(긴급한)",
+   "critical(위급한)",
+   "immediate(즉각적인)"
+  ],
+  "anti": [
+   "trivial(사소한)",
+   "unimportant(중요하지 않은)"
+  ],
+  "idiom": [
+   "an urgent matter(긴급한 사안)",
+   "an urgent need(시급한 필요)"
+  ],
+  "colloc": [
+   "urgent need(시급한 필요)",
+   "urgent action(긴급 조치)",
+   "urgent care(응급 진료)"
+  ],
+  "ex_add": "There is an urgent need for clean water.  (urgent=긴급한)"
+ },
+ {
+  "num": "3581",
+  "hw": "usage",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "쓰임새 -> '사용·사용량 / (언어) 용법·어법'.",
+  "senses": [
+   "1) 사용·이용; 사용량",
+   "2) (언어의) 용법·어법·관용법"
+  ],
+  "etym": "라틴어 uti(사용하다) -> usus(사용) -> use(사용하다) + -age(상태·집합). '쓰는 방식·쓰임새'가 핵심. uti(사용하다)는 usage·use·useful(유용한)·utility(유용성)·utensil(도구)·abuse(남용)의 뿌리.",
+  "deriv": "uti(사용하다) -> use -> 'usage'. '쓰임새 -> 사용량(water usage, 물 사용량)·(언어) 용법(English usage, 영어 어법)'. 한국 학습자 핵심: uti(사용) 갈래 — use·useful(유용한)·useless(3582)·utility(유용성)·utensil(도구)·abuse(남용)·utilize(활용하다)! 구별: usage(쓰는 방식·관용법)와 use(사용 행위) 미묘한 차이. data usage(데이터 사용량), common usage(일반적 용법). use(사용)·application(적용)·consumption(소비)과 유의어.",
+  "syn": [
+   "use(사용)",
+   "application(적용)",
+   "consumption(소비)"
+  ],
+  "anti": [],
+  "idiom": [
+   "common usage(일반적 용법)",
+   "in common usage(흔히 쓰이는)"
+  ],
+  "colloc": [
+   "water usage(물 사용량)",
+   "data usage(데이터 사용량)",
+   "language usage(언어 용법)"
+  ],
+  "ex_add": "The word has fallen out of common usage.  (usage=용법)"
+ },
+ {
+  "num": "3582",
+  "hw": "useless",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "쓸모가 없는 -> '쓸모없는·무용한 / (구어) 형편없는'.",
+  "senses": [
+   "1) 쓸모없는·무용한·헛된",
+   "2) (구어) 형편없는·무능한"
+  ],
+  "etym": "라틴어 uti(사용하다) -> use(쓸모) + -less(없는). '쓸모가 없는'이 핵심.",
+  "deriv": "use(쓸모) + -less(없는) -> 'useless'. '쓸모가 없는 -> 무용한(a useless gadget, 쓸모없는 도구)·(구어) 무능한(useless at cooking, 요리에 젬병인)'. 한국 학습자 핵심: -less(없는) 접미사 — useless·hopeless(가망 없는)·careless(부주의한)·endless(끝없는)·worthless(가치 없는)! uti(사용) 갈래 — use·useful(유용한)·usage(3581)·utility(유용성)! It's useless to do(~해 봐야 소용없다), worse than useless(아무짝에도 쓸모없는). worthless(가치 없는)·futile(헛된)·pointless(무의미한)과 유의어. 반대 useful(유용한)·helpful(도움이 되는)·valuable(귀중한).",
+  "syn": [
+   "worthless(가치 없는)",
+   "futile(헛된)",
+   "pointless(무의미한)"
+  ],
+  "anti": [
+   "useful(유용한)",
+   "helpful(도움이 되는)",
+   "valuable(귀중한)"
+  ],
+  "idiom": [
+   "It's useless to do(~해 봐야 소용없다)",
+   "worse than useless(아무짝에도 쓸모없는)"
+  ],
+  "colloc": [
+   "completely useless(완전히 쓸모없는)",
+   "useless information(쓸모없는 정보)",
+   "feel useless(쓸모없다고 느끼다)"
+  ],
+  "ex_add": "This old phone is completely useless now.  (useless=쓸모없는)"
+ },
+ {
+  "num": "3583",
+  "hw": "valid",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "힘이 있는 -> '유효한 / 타당한·근거 있는'.",
+  "senses": [
+   "1) (법적·공식적으로) 유효한·효력이 있는",
+   "2) (논리가) 타당한·근거 있는·정당한"
+  ],
+  "etym": "라틴어 valere(힘이 있다·강하다) -> validus(강한·효력 있는) -> 'valid'. '효력의 힘이 살아 있는'이 핵심. valere(힘이 있다)는 valid·value(3584)·valuable(귀중한)·evaluate(평가하다)·prevail(우세하다)의 뿌리.",
+  "deriv": "valere(힘이 있다) -> validus(강한) -> 'valid'. '힘이 있는 -> (효력이 살아 있는) 유효한(a valid ticket, 유효한 표)·(논리가) 타당한(a valid point, 타당한 지적)'. 한국 학습자 핵심: valere(힘) 대가족 — value(3584)·valuable(귀중한)·evaluate(평가)·prevail(우세하다)·valid·invalid(무효한·환자)·equivalent(동등한)! a valid passport(유효한 여권), a valid argument(타당한 논증), valid until(~까지 유효한). legitimate(정당한)·sound(타당한)·legal(법적인)과 유의어. 반대 invalid(무효한)·void(무효의).",
+  "syn": [
+   "legitimate(정당한)",
+   "sound(타당한)",
+   "legal(법적인)"
+  ],
+  "anti": [
+   "invalid(무효한)",
+   "void(무효의)"
+  ],
+  "idiom": [
+   "a valid point(타당한 지적)",
+   "valid until(~까지 유효한)"
+  ],
+  "colloc": [
+   "valid passport(유효한 여권)",
+   "valid argument(타당한 논증)",
+   "valid reason(타당한 이유)"
+  ],
+  "ex_add": "Your ticket is valid for one month.  (valid=유효한)"
+ },
+ {
+  "num": "3584",
+  "hw": "value",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "값어치 -> '가치·가격 / 소중히 여기다·평가하다'.",
+  "senses": [
+   "1) 가치·값어치·중요성",
+   "2) 가격·값; (values) 가치관·신념",
+   "3) (동사) 소중히 여기다·높이 평가하다; 값을 매기다"
+  ],
+  "etym": "라틴어 valere(힘이 있다·~의 값이 나가다) -> 프랑스어 value(값어치) -> 'value'. '얼마만큼의 힘·값이 나가는가'가 핵심. valere(힘)는 value·valid(3583)·valuable(귀중한)·evaluate(평가)의 뿌리.",
+  "deriv": "valere(힘·값이 나가다) -> 'value'. '값어치 -> 가치(of great value, 매우 가치 있는)·(values) 가치관·소중히 여기다(value your opinion, 의견을 소중히 여기다)'. 한국 학습자 핵심: valere(힘) 대가족 — valid(3583)·valuable(귀중한)·evaluate(평가)·prevail(우세)·equivalent(동등한)·invaluable(매우 귀중한)! good value for money(가격 대비 좋은), family values(가족 가치관), value added(부가 가치). worth(가치)·importance(중요성)·cherish(소중히 하다)와 유의어.",
+  "syn": [
+   "worth(가치)",
+   "importance(중요성)",
+   "cherish(소중히 하다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "good value for money(가격 대비 좋은)",
+   "family values(가족 가치관)",
+   "of great value(매우 가치 있는)"
+  ],
+  "colloc": [
+   "market value(시장 가치)",
+   "value your opinion(의견을 소중히 여기다)",
+   "core values(핵심 가치관)"
+  ],
+  "ex_add": "I really value your honest opinion.  (value=소중히 여기다)"
+ },
+ {
+  "num": "3585",
+  "hw": "van",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "지붕 덮인 짐차 -> '승합차·밴·유개 화물차'.",
+  "senses": [
+   "1) 승합차·밴",
+   "2) 유개 화물차·짐차"
+  ],
+  "etym": "caravan(대상·이동 주택)의 뒷부분을 잘라낸 축약형 -> 'van'. caravan은 페르시아어 karwan(대상 행렬). '짐·사람을 싣는 지붕 덮인 차'가 핵심.",
+  "deriv": "caravan(대상) -> 'van'. '지붕 덮인 짐차 -> 승합차·밴(a delivery van, 배달 밴)'. 한국 학습자 핵심: caravan(이동 주택·대상)의 끝부분에서 떨어져 나온 단어! a moving van(이삿짐 트럭), a delivery van(택배 밴), a camper van(캠핑카). 비슷한 차량 — van(밴)·truck(트럭)·minivan(미니밴). vehicle(차량)·truck(트럭)과 관련.",
+  "syn": [
+   "truck(트럭)",
+   "vehicle(차량)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a delivery van(배달 밴)",
+   "a moving van(이삿짐 트럭)"
+  ],
+  "colloc": [
+   "delivery van(배달 밴)",
+   "camper van(캠핑카)",
+   "white van(흰색 승합차)"
+  ],
+  "ex_add": "The workers loaded their tools into the van.  (van=밴)"
+ },
+ {
+  "num": "3586",
+  "hw": "variation",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "달라짐 -> '변화·차이 / 변형·변종 / (음악) 변주곡'.",
+  "senses": [
+   "1) 변화·변동·차이",
+   "2) 변형·변종·이형",
+   "3) (음악) 변주곡"
+  ],
+  "etym": "라틴어 varius(다양한·얼룩덜룩한) -> variare(다르게 하다) -> variatio -> 'variation'. '여러 가지로 달라짐'이 핵심. varius(다양한)는 variation·vary(3587)·various(다양한)·variety(다양성)·variable(변하는)의 뿌리.",
+  "deriv": "varius(다양한) -> variare(다르게 하다) -> 'variation'. '달라짐 -> 변화(seasonal variation, 계절적 변화)·변형'. 한국 학습자 핵심: varius(다양한) 갈래 — vary(3587)·various(다양한)·variety(다양성)·variable(변하는)·variant(변종)·invariably(변함없이)! variation in(~의 차이), regional variation(지역적 차이), a variation on a theme(주제의 변주). difference(차이)·diversity(다양성)·fluctuation(변동)과 유의어. 반대 uniformity(획일성)·consistency(일관성).",
+  "syn": [
+   "difference(차이)",
+   "diversity(다양성)",
+   "fluctuation(변동)"
+  ],
+  "anti": [
+   "uniformity(획일성)",
+   "consistency(일관성)"
+  ],
+  "idiom": [
+   "variation in(~의 차이)",
+   "a variation on a theme(주제의 변주)"
+  ],
+  "colloc": [
+   "seasonal variation(계절적 변화)",
+   "regional variation(지역적 차이)",
+   "slight variation(약간의 차이)"
+  ],
+  "ex_add": "There is wide variation in prices between stores.  (variation=차이)"
+ },
+ {
+  "num": "3587",
+  "hw": "vary",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "달라지다 -> '서로 다르다·각기 다르다 / 변하다·바꾸다'.",
+  "senses": [
+   "1) (것마다·때마다) 서로 다르다·각기 다르다",
+   "2) 변하다·달라지다",
+   "3) 다양하게 하다·바꾸다"
+  ],
+  "etym": "라틴어 varius(다양한) -> variare(다르게 하다) -> 'vary'. '여러 가지로 달라짐'이 핵심.",
+  "deriv": "varius(다양한) -> variare(다르게 하다) -> 'vary'. '달라짐 -> 서로 다르다(prices vary, 가격이 제각각이다)·변하다'. 한국 학습자 핵심: varius(다양한) 대가족 — variation(3586)·various(다양한)·variety(다양성)·variable(변하는)·invariably(변함없이)·variant(변종)! vary from A to B(A에서 B까지 다양하다), vary widely(크게 다르다), vary depending on(~에 따라 다르다). differ(다르다)·fluctuate(변동하다)·change(변하다)와 유의어. 반대 remain constant(일정하다)·stay the same(똑같다).",
+  "syn": [
+   "differ(다르다)",
+   "fluctuate(변동하다)",
+   "change(변하다)"
+  ],
+  "anti": [
+   "remain constant(일정하다)",
+   "stay the same(똑같다)"
+  ],
+  "idiom": [
+   "vary from A to B(A에서 B까지 다양하다)",
+   "vary depending on(~에 따라 다르다)"
+  ],
+  "colloc": [
+   "vary widely(크게 다르다)",
+   "vary greatly(크게 달라지다)",
+   "prices vary(가격이 제각각이다)"
+  ],
+  "ex_add": "Prices vary depending on the season.  (vary=다르다)"
+ },
+ {
+  "num": "3588",
+  "hw": "vast",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "텅 비도록 광대한 -> '광대한·막대한·방대한'.",
+  "senses": [
+   "1) (면적이) 광대한·드넓은",
+   "2) (양·정도가) 막대한·방대한·엄청난"
+  ],
+  "etym": "라틴어 vastus(텅 빈·황량한·광대한) -> 'vast'. '끝없이 펼쳐져 텅 빈 듯 광대한'이 핵심. vastus는 vast·waste(낭비·황무지)·devastate(완전히 파괴하다)와 한 뿌리.",
+  "deriv": "vastus(광대한) -> 'vast'. '광대한 -> 드넓은(a vast desert, 광활한 사막)·막대한(a vast amount, 막대한 양)'. 한국 학습자 핵심: vastus(텅 빈·광대한) 갈래 — waste(낭비·황무지)·devastate(완전히 파괴하다)·devastating(파괴적인)! the vast majority(대다수), a vast difference(엄청난 차이), vast wealth(막대한 부). huge(거대한)·immense(엄청난)·enormous(막대한)와 유의어. 반대 tiny(아주 작은)·minute(미세한)·limited(제한된).",
+  "syn": [
+   "huge(거대한)",
+   "immense(엄청난)",
+   "enormous(막대한)"
+  ],
+  "anti": [
+   "tiny(아주 작은)",
+   "minute(미세한)",
+   "limited(제한된)"
+  ],
+  "idiom": [
+   "the vast majority(대다수)",
+   "a vast difference(엄청난 차이)"
+  ],
+  "colloc": [
+   "vast amount(막대한 양)",
+   "vast area(광대한 지역)",
+   "vast experience(풍부한 경험)"
+  ],
+  "ex_add": "The vast majority of people agreed with the plan.  (vast=대다수의)"
+ },
+ {
+  "num": "3589",
+  "hw": "venue",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "사람들이 모여 오는 곳 -> '개최지·행사장·장소'.",
+  "senses": [
+   "1) (행사·경기의) 개최지·행사장",
+   "2) (법) 재판지·범행지"
+  ],
+  "etym": "라틴어 venire(오다) -> 프랑스어 venue(옴·도래) -> 'venue'. 사람들이 '모여 오는 곳'에서 '개최지'로. venire(오다)는 venue·revenue(3314)·event(2647)·prevent(막다)·convene(소집하다)·avenue(가로수길)의 뿌리.",
+  "deriv": "venire(오다) -> venue(옴) -> 'venue'. '모여 오는 곳 -> 개최지(a concert venue, 콘서트 장소)'. 한국 학습자 핵심: venire(오다) 대가족 — revenue(3314)·event(2647)·prevent(막다)·convene(소집)·avenue(가로수길)·convenient(편리한)·intervene(개입하다)·adventure(모험)! a wedding venue(결혼식장), change the venue(장소를 바꾸다), the venue for(~의 개최지). location(장소)·site(부지)·place(장소)와 유의어.",
+  "syn": [
+   "location(장소)",
+   "site(부지)",
+   "place(장소)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a concert venue(콘서트 장소)",
+   "change the venue(장소를 바꾸다)"
+  ],
+  "colloc": [
+   "wedding venue(결혼식장)",
+   "sports venue(경기장)",
+   "the venue for(~의 개최지)"
+  ],
+  "ex_add": "The stadium is a popular venue for concerts.  (venue=개최지)"
+ },
+ {
+  "num": "3590",
+  "hw": "vertical",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "꼭대기로 도는 -> '수직의·세로의'.",
+  "senses": [
+   "1) 수직의·세로의·연직의",
+   "2) (조직이) 수직 구조의·위계적인"
+  ],
+  "etym": "라틴어 vertere(돌다) -> vertex(돌아가는 꼭대기·정점) -> verticalis(꼭대기의·수직의) -> 'vertical'. '천정(꼭대기)을 향해 곧추선'이 핵심. vertere(돌다)는 vertical·vertex(정점)·convert(전환)·reverse(뒤집다)·universe(3574)의 뿌리.",
+  "deriv": "vertere(돌다) -> vertex(정점) -> 'vertical'. '꼭대기로 곧추선 -> 수직의(a vertical line, 수직선)'. 한국 학습자 핵심: vertere(돌다) 대가족 — vertex(정점)·convert(전환)·reverse(뒤집다)·universe(3574)·version(판)·divert(전환하다)·vertigo(현기증)! a vertical line(수직선), a vertical cliff(깎아지른 절벽). 반의어 horizontal(수평의). upright(곧추선)·perpendicular(수직의)와 유의어. 반대 horizontal(수평의)·flat(평평한).",
+  "syn": [
+   "upright(곧추선)",
+   "perpendicular(수직의)"
+  ],
+  "anti": [
+   "horizontal(수평의)",
+   "flat(평평한)"
+  ],
+  "idiom": [
+   "a vertical line(수직선)",
+   "a vertical drop(수직 낙하)"
+  ],
+  "colloc": [
+   "vertical line(수직선)",
+   "vertical cliff(깎아지른 절벽)",
+   "vertical axis(세로축)"
+  ],
+  "ex_add": "The graph has a vertical axis and a horizontal axis.  (vertical=수직의)"
+ },
+ {
+  "num": "3591",
+  "hw": "very",
+  "pos": "adv., adj.",
+  "cefr": "B2",
+  "core": "참된·바로 그 -> '매우·아주 / 바로 그·~조차'.",
+  "senses": [
+   "1) (부사) 매우·아주·대단히",
+   "2) (형용사·강조) 바로 그·정확히 그",
+   "3) (강조) ~조차도·맨 ~"
+  ],
+  "etym": "라틴어 verus(참된·진짜의) -> 고대 프랑스어 verai(진실한) -> 'very'. 본래 '참으로'에서 강조 부사 '매우'로 발전. verus(참된)는 very·verify(입증하다)·verdict(평결)·truth와 관련(아님, very는 verus)의 뿌리.",
+  "deriv": "verus(참된) -> 'very'. '참으로 -> (강조) 매우(very good, 아주 좋은)·바로 그(the very thing, 바로 그것)'. 한국 학습자 핵심: verus(참된) 갈래 — verify(입증하다)·verdict(평결)·veracity(진실성)·verisimilitude(핍진성)! 형용사 강조 용법 주의 — the very man(바로 그 사람), at the very end(맨 끝에), the very thought(생각만 해도). 부사 very는 형용사·부사만 수식(동사 수식 X). extremely(극히)·highly(대단히)·exactly(바로)와 유의어. 반대 slightly(약간).",
+  "syn": [
+   "extremely(극히)",
+   "highly(대단히)",
+   "exactly(바로)"
+  ],
+  "anti": [
+   "slightly(약간)",
+   "barely(거의 ~않은)"
+  ],
+  "idiom": [
+   "the very thing(바로 그것)",
+   "at the very end(맨 끝에)",
+   "the very thought(생각만 해도)"
+  ],
+  "colloc": [
+   "very good(아주 좋은)",
+   "very much(매우)",
+   "the very best(최고의)"
+  ],
+  "ex_add": "This is the very book I was looking for.  (very=바로 그)"
+ }
+]
