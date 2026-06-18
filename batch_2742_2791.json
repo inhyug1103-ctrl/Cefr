@@ -1,0 +1,952 @@
+[
+ {
+  "num": "2742",
+  "hw": "figure",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "빚어낸 꼴 -> '수치·숫자 / 인물·몸매 / 헤아리다'.",
+  "senses": [
+   "1) 수치·숫자·액수",
+   "2) 인물·몸매·모습 / 도형·삽화",
+   "3) (동사) 중요하다 / (figure out) 알아내다"
+  ],
+  "etym": "라틴어 figura(모양·형상) <- fingere(빚다·꼴을 만들다). '빚어 만든 꼴'이 핵심. fingere(빚다)는 fiction(꾸며낸 이야기)·feign(~인 척하다)·effigy(인형)·configure(설정하다)의 뿌리.",
+  "deriv": "fingere(빚다) -> figura -> 'figure'. '빚어낸 꼴 -> 숫자·수치(sales figures, 매출 수치)' -> '인물·몸매·도형(a public figure, 공인)' -> 동사 '중요하다(figure prominently)·알아내다(figure out)'. 한국 학습자 핵심: fingere(빚다) 갈래 — fiction(소설)·feign(가장하다)·effigy·configure·figment(허구)! figure out(알아내다·이해하다 — 빈출!), a key figure(핵심 인물), double figures(두 자릿수), a father figure(아버지 같은 존재), go figure(이상한 일이군), keep one's figure(몸매를 유지하다). number(숫자)·shape(모습)와 유의어.",
+  "syn": ["number(숫자)", "shape(모습)", "calculate(헤아리다)"],
+  "anti": [],
+  "idiom": ["figure out(알아내다)", "a key figure(핵심 인물)", "a father figure(아버지 같은 존재)", "go figure(참 이상하군)"],
+  "colloc": ["sales figures(매출 수치)", "a public figure(공인)", "figure out(알아내다)"],
+  "ex_add": "I can't figure out how this machine works.  (figure out=알아내다)"
+ },
+ {
+  "num": "2743",
+  "hw": "file",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "실에 꿴 서류 -> '파일·서류철 / 정리하다·제출하다'.",
+  "senses": [
+   "1) 서류철·파일 / (컴퓨터) 파일",
+   "2) 정리해 보관하다·철하다",
+   "3) (신청·소송을) 제출하다 / 한 줄로 가다"
+  ],
+  "etym": "라틴어 filum(실) -> filare(실에 꿰다). 옛날 서류를 '실(filum)에 꿰어' 보관한 데서 '서류철'이. filum(실)은 filament(필라멘트)·profile(옆모습=실로 그린 윤곽)·filigree(금은 세공)의 뿌리.",
+  "deriv": "filum(실) -> 'file'. '실에 꿴 서류 -> 서류철·파일(open a file)' -> 동사 '철해 두다(file documents)·제출하다(file a complaint, 고소하다)' -> 한 줄(single file, 일렬). 한국 학습자 핵심: filum(실) 갈래 — filament(가는 선)·profile(옆얼굴/개요)·filigree! file a complaint/lawsuit/claim(고소·소송·청구를 제기하다 — 빈출!), file for divorce(이혼 소송을 내다, 2622), in single file(한 줄로), on file(보관 중인), a file folder(서류철). (연장 file '줄'은 다른 어원!) submit(제출하다)과 유의어.",
+  "syn": ["folder(서류철)", "record(기록)", "submit(제출하다)"],
+  "anti": [],
+  "idiom": ["file a complaint(고소하다)", "in single file(한 줄로)", "on file(보관 중인)"],
+  "colloc": ["a computer file(컴퓨터 파일)", "file a lawsuit(소송을 제기하다)", "file documents(서류를 철하다)"],
+  "ex_add": "She decided to file a complaint against the company.  (file=제기하다)"
+ },
+ {
+  "num": "2744",
+  "hw": "finance",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "빚을 끝맺음 -> '재정·자금 / 자금을 대다'.",
+  "senses": [
+   "1) 재정·금융",
+   "2) (finances) 재정 상태·재원",
+   "3) (동사) 자금을 대다·융자하다"
+  ],
+  "etym": "라틴어 finis(끝·경계) -> 고대 프랑스어 finance(빚을 끝맺음·지불). 본래 '빚을 청산해 끝(finis)냄'에서 '돈 일·재정'으로. finis(끝)는 final(마지막의)·finish(끝내다)·define(한계를 긋다->정의하다)·confine(가두다)·finite(유한한)의 뿌리.",
+  "deriv": "finis(끝) -> finance. '빚을 끝맺음 -> 재정·금융(the world of finance)' -> 'finances(재정 상태)' -> 동사 '자금을 대다(finance a project)'. 한국 학습자 핵심: finis(끝) 대가족 — final·finish·define·confine·finite·infinite·refine! public finance(공공 재정), personal finances(개인 재정), finance a deal(거래에 자금을 대다), the finance minister(재무 장관), high finance(거액 금융). funding(2793)·capital(자본)과 유의어. financial(재정의)·financier(금융가)가 가족.",
+  "syn": ["funding(자금)", "capital(자본)", "fund(자금을 대다)"],
+  "anti": [],
+  "idiom": ["public finance(공공 재정)", "high finance(거액 금융)", "the finance minister(재무 장관)"],
+  "colloc": ["personal finances(개인 재정)", "finance a project(사업에 자금을 대다)", "the finance department(재무 부서)"],
+  "ex_add": "The new road was financed by the government.  (finance=자금을 대다)"
+ },
+ {
+  "num": "2745",
+  "hw": "finding",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "찾아낸 것 -> '(조사·연구) 결과·발견'.",
+  "senses": [
+   "1) (보통 복수) 조사·연구 결과",
+   "2) (법) 판결·평결·인정 사실",
+   "3) 발견 (사항)"
+  ],
+  "etym": "find(찾다·알아내다, 고대 영어 findan) + -ing. '찾아내어 밝혀낸 것'이 핵심. 보통 복수 findings로 '연구·조사의 결과'를 뜻한다.",
+  "deriv": "findan(찾다) -> find -> 'finding'. '찾아낸 것 -> 연구 결과(research findings, 연구 결과)' -> 법 '판결·인정 사실(the findings of the inquiry)'. 한국 학습자 핵심: 학술·보고서에서 거의 항상 복수 findings('결과')! key findings(주요 결과), the findings suggest/show that(결과가 ~을 시사하다), report the findings(결과를 보고하다), preliminary findings(예비 결과), in line with the findings(결과와 일치하여). result(결과)·conclusion(결론)·discovery(발견)와 유의어. find(찾다)의 명사형.",
+  "syn": ["result(결과)", "conclusion(결론)", "discovery(발견)"],
+  "anti": [],
+  "idiom": ["research findings(연구 결과)", "key findings(주요 결과)", "the findings suggest(결과가 시사하다)"],
+  "colloc": ["research findings(연구 결과)", "key findings(주요 발견)", "report the findings(결과를 보고하다)"],
+  "ex_add": "The findings of the study were published last month.  (finding=연구 결과)"
+ },
+ {
+  "num": "2746",
+  "hw": "firefighter",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "불과 싸우는 '소방관'.",
+  "senses": [
+   "1) 소방관",
+   "2) 소방대원",
+   "3) 진화 요원"
+  ],
+  "etym": "fire(불, 고대 영어 fyr) + fighter(싸우는 사람). '불(fire)과 싸우는(fight) 사람'이 글자 그대로의 뜻. 성중립 표현으로 fireman을 대체해 쓴다.",
+  "deriv": "fire(불) + fighter(투사) -> 'firefighter'. '불과 싸우는 사람 -> 소방관'. 한국 학습자 핵심: 성중립어 firefighter가 fireman(소방수)을 대체 — police officer, flight attendant처럼 직업명의 성중립화 흐름! a volunteer firefighter(자원 소방대원), firefighters battled the blaze(소방관들이 화재와 싸웠다), call the firefighters(소방관을 부르다). fire engine(소방차), fire station(소방서), fire extinguisher(소화기)와 함께 쓰인다. fire(불)·fight(싸우다) 합성어.",
+  "syn": ["fireman(소방수)", "fire officer(소방관)"],
+  "anti": ["arsonist(방화범)"],
+  "idiom": ["a volunteer firefighter(자원 소방대원)"],
+  "colloc": ["a brave firefighter(용감한 소방관)", "firefighters battled the blaze(소방관들이 화재와 싸웠다)", "call the firefighters(소방관을 부르다)"],
+  "ex_add": "The firefighters quickly put out the fire.  (firefighter=소방관)"
+ },
+ {
+  "num": "2747",
+  "hw": "firework",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "불로 만든 볼거리 -> '폭죽·불꽃놀이'.",
+  "senses": [
+   "1) 폭죽·불꽃",
+   "2) (fireworks) 불꽃놀이",
+   "3) (fireworks) (비유) 격한 감정 폭발·언쟁"
+  ],
+  "etym": "fire(불) + work(작품·제작물). '불(fire)로 만든 작품(work)'이 핵심. 보통 복수 fireworks로 '불꽃놀이'를 뜻한다.",
+  "deriv": "fire(불) + work(작품) -> 'firework'. '불로 만든 볼거리 -> 폭죽' -> 'fireworks(불꽃놀이)' -> 비유 'fireworks(격한 감정 폭발·불꽃 튀는 언쟁)'. 한국 학습자 핵심: 보통 복수 fireworks('불꽃놀이')! a fireworks display(불꽃놀이 쇼), let off fireworks(폭죽을 터뜨리다), set off fireworks(불꽃을 쏘다), watch the fireworks(불꽃놀이를 구경하다). 비유로 'There will be fireworks(불꽃 튀는 일이 벌어질 것이다)'. fire(불)·work(작업) 합성어.",
+  "syn": ["pyrotechnics(불꽃 기술)", "firecracker(폭죽)"],
+  "anti": [],
+  "idiom": ["a fireworks display(불꽃놀이)", "let off fireworks(폭죽을 터뜨리다)", "there will be fireworks(한바탕 소동이 일 것이다)"],
+  "colloc": ["a fireworks display(불꽃놀이 쇼)", "set off fireworks(불꽃을 쏘다)", "watch the fireworks(불꽃놀이를 보다)"],
+  "ex_add": "We watched the fireworks light up the night sky.  (firework=불꽃)"
+ },
+ {
+  "num": "2748",
+  "hw": "firm",
+  "pos": "n., adj.",
+  "cefr": "B2",
+  "core": "단단한 -> '회사 / 굳건한·확고한'.",
+  "senses": [
+   "1) 회사·상사(商社)",
+   "2) 단단한·굳은",
+   "3) 확고한·단호한"
+  ],
+  "etym": "라틴어 firmus(단단한·견고한). 회사 'firm'은 '서명으로 확정(firmare)한 상호'에서. firmus(단단한)는 firmly(2749)·confirm(확인하다)·affirm(단언하다)·infirm(허약한)·firmament(창공)의 뿌리.",
+  "deriv": "firmus(단단한) -> 'firm'. 형용사 '단단한(firm ground)·확고한(a firm decision)·단호한(be firm with)' -> 명사 '회사(a law firm, 법률 회사)'. 한국 학습자 핵심: firmus(단단한) 갈래 — firmly(2749)·confirm(확정하다)·affirm(긍정하다)·infirm(병약한)·firmament! a firm grip(꽉 쥠), a firm believer(확고한 신봉자), stand firm(굳게 버티다), a firm handshake(힘찬 악수), an accounting firm(회계 법인). company(회사)·solid(단단한)·resolute(단호한)와 유의어. 반대 soft(무른)·weak(약한).",
+  "syn": ["company(회사)", "solid(단단한)", "resolute(단호한)"],
+  "anti": ["soft(무른)", "weak(약한)", "flexible(유연한)"],
+  "idiom": ["stand firm(굳게 버티다)", "a firm believer(확고한 신봉자)", "a firm grip(꽉 쥠)"],
+  "colloc": ["a law firm(법률 회사)", "a firm decision(확고한 결정)", "firm ground(단단한 땅)"],
+  "ex_add": "She works for a small law firm downtown.  (firm=회사)"
+ },
+ {
+  "num": "2749",
+  "hw": "firmly",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'단단히·확고하게·단호히'.",
+  "senses": [
+   "1) 단단히·꽉",
+   "2) 확고하게·굳게",
+   "3) 단호히"
+  ],
+  "etym": "firm(단단한, 2748) + -ly. 라틴어 firmus(단단한) 뿌리. '흔들림 없이 굳게'가 핵심. confirm·affirm과 한 firmus 갈래.",
+  "deriv": "firm(2748) -> 'firmly'. '단단히 -> 꽉(hold firmly)' -> '확고하게(firmly believe, 굳게 믿다)' -> '단호히(say firmly)'. 한국 학습자 핵심: firmus(단단한) 갈래 — firm(2748)·confirm·affirm·infirm·firmament! firmly believe(굳게 믿다), firmly established(확고히 자리 잡은, 2682), firmly rooted(깊이 뿌리내린), hold firmly(꽉 잡다), firmly in place(단단히 고정된). securely(단단히)·resolutely(단호히)와 유의어. firm(2748) 가족. 반대 loosely(느슨하게)·weakly(약하게).",
+  "syn": ["securely(단단히)", "resolutely(단호히)", "tightly(꽉)"],
+  "anti": ["loosely(느슨하게)", "weakly(약하게)", "hesitantly(머뭇거리며)"],
+  "idiom": ["firmly believe(굳게 믿다)", "firmly established(확고히 자리 잡은)", "firmly rooted(깊이 뿌리내린)"],
+  "colloc": ["firmly believe(굳게 믿다)", "hold firmly(꽉 잡다)", "firmly in place(단단히 고정된)"],
+  "ex_add": "She firmly believes that hard work pays off.  (firmly=굳게)"
+ },
+ {
+  "num": "2750",
+  "hw": "fix",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "단단히 박다 -> '고치다·고정하다·정하다 / 곤경'.",
+  "senses": [
+   "1) 수리하다·고치다·바로잡다",
+   "2) 고정하다·붙박다 / (날짜를) 정하다",
+   "3) (구어) (음식을) 준비하다 / 곤경(명사)"
+  ],
+  "etym": "라틴어 figere(박다·고정하다)의 과거분사 fixus. '단단히 박아 움직이지 않게 함'이 핵심. figere(박다)는 fixed(고정된)·fixture(붙박이)·suffix(접미사)·prefix(접두사)·affix(붙이다)·transfix(꿰뚫다)의 뿌리.",
+  "deriv": "figere(박다) -> fixus -> 'fix'. '단단히 박다 -> 고정하다(fix a shelf to the wall)·정하다(fix a date)' -> '바로잡다 -> 고치다·수리하다(fix a car)' -> 구어 '준비하다(fix dinner)' / 명사 '곤경(be in a fix)'. 한국 학습자 핵심: figere(박다) 갈래 — fixed(고정된)·fixture·suffix·prefix·affix·transfix·fixation! fix up(수리하다/주선하다), fix on(~으로 정하다), a quick fix(임시변통), be fixed on(~에 고정되다), get a parking fix(주차 위반 딱지). repair(수리하다)·mend(고치다)·fasten(고정하다)과 유의어. 반대 break(망가뜨리다).",
+  "syn": ["repair(수리하다)", "mend(고치다)", "fasten(고정하다)"],
+  "anti": ["break(망가뜨리다)", "damage(손상시키다)", "loosen(풀다)"],
+  "idiom": ["a quick fix(임시변통)", "be in a fix(곤경에 처하다)", "fix up(수리하다·주선하다)"],
+  "colloc": ["fix a car(차를 고치다)", "fix a date(날짜를 정하다)", "fix the problem(문제를 해결하다)"],
+  "ex_add": "Can you fix my computer? It keeps crashing.  (fix=고치다)"
+ },
+ {
+  "num": "2751",
+  "hw": "flame",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "타오르는 '불꽃·불길' / 활활 타다.",
+  "senses": [
+   "1) 불꽃·불길",
+   "2) (감정의) 격정·정열",
+   "3) (동사) 활활 타오르다·붉어지다"
+  ],
+  "etym": "라틴어 flamma(불꽃) <- flagrare(타오르다). '활활 타오르는 불길'이 핵심. flamma(불꽃)는 flammable(가연성의)·inflame(불붙이다)·flagrant(노골적인=타오르듯 뻔한)·flamingo(불꽃색 새)의 뿌리.",
+  "deriv": "flagrare(타오르다) -> flamma -> 'flame'. '불꽃·불길(burst into flames, 불길에 휩싸이다)' -> 비유 '정열(an old flame, 옛 연인)' -> 동사 '타오르다·붉어지다'. 한국 학습자 핵심: flamma(불꽃) 갈래 — flammable(인화성의 — inflammable도 '잘 타는'이라 혼동 주의!)·inflame·flagrant(명백한)·flamingo! burst into flames(불길에 휩싸이다), go up in flames(불타 버리다/수포로 돌아가다), an old flame(옛 애인), fan the flames(부채질하다). blaze(불길)·fire(불)와 유의어.",
+  "syn": ["blaze(불길)", "fire(불)", "flare(확 타오름)"],
+  "anti": [],
+  "idiom": ["burst into flames(불길에 휩싸이다)", "go up in flames(불타 버리다)", "an old flame(옛 애인)", "fan the flames(부추기다)"],
+  "colloc": ["burst into flames(화염에 싸이다)", "a flickering flame(일렁이는 불꽃)", "an open flame(노출된 불꽃)"],
+  "ex_add": "The candle's flame flickered in the wind.  (flame=불꽃)"
+ },
+ {
+  "num": "2752",
+  "hw": "flash",
+  "pos": "v., n., adj.",
+  "cefr": "B2",
+  "core": "번쩍 빛나다 -> '번쩍이다·휙 지나가다 / 섬광·순간'.",
+  "senses": [
+   "1) 번쩍이다·번쩍 비추다",
+   "2) (생각·장면이) 휙 스치다·지나가다",
+   "3) 섬광·번쩍임 / (카메라) 플래시"
+  ],
+  "etym": "중세 영어 flasshen(튀다·번쩍이다). 빛이 '확' 번지는 모습·소리를 흉내 낸 의성·의태어로 본다. splash(첨벙)·dash(돌진)와 같은 -ash 계열 어감.",
+  "deriv": "flasshen(번쩍이다) -> 'flash'. '번쩍이다(lightning flashed)' -> '휙 스치다(a memory flashed)' -> 명사 '섬광·순간(a flash of light)·플래시'. 한국 학습자 핵심: in a flash(순식간에), a flash of inspiration(번뜩이는 영감), flash back(과거가 떠오르다 — flashback 회상 장면), a news flash(뉴스 속보), quick as a flash(전광석화처럼), a flash flood(돌발 홍수), a flash drive(USB 메모리). gleam(반짝이다)·glint(번득이다)과 유의어.",
+  "syn": ["gleam(반짝이다)", "glint(번득이다)", "blaze(빛나다)"],
+  "anti": [],
+  "idiom": ["in a flash(순식간에)", "a flash of inspiration(번뜩이는 영감)", "quick as a flash(전광석화처럼)", "a news flash(뉴스 속보)"],
+  "colloc": ["a flash of light(섬광)", "a flash of lightning(번개)", "a flash flood(돌발 홍수)"],
+  "ex_add": "A flash of lightning lit up the whole sky.  (flash=섬광)"
+ },
+ {
+  "num": "2753",
+  "hw": "flavor",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "혀로 느끼는 '맛·풍미' / 풍미를 더하다.",
+  "senses": [
+   "1) 맛·풍미",
+   "2) (특유의) 분위기·정취",
+   "3) (동사) 맛을 내다·풍미를 더하다"
+  ],
+  "etym": "고대 프랑스어 flaor(냄새·향기) -> flavour. 본래 '코로 맡는 향'에서 '혀로 느끼는 맛'으로 넓어졌다. '음식 고유의 맛·향'이 핵심. (영국식 flavour.)",
+  "deriv": "flaor(향) -> 'flavor'. '맛·풍미(a rich flavor)' -> 비유 '특유의 분위기(a local flavor, 지역색)' -> 동사 '맛을 내다(flavored with herbs)'. 한국 학습자 핵심: 영국식 flavour / 미국식 flavor! a strong flavor(진한 맛), add flavor(풍미를 더하다), natural flavoring(천연 향료), the flavor of the month(한때 인기 있는 것), full of flavor(풍미가 가득한). taste(맛)·tang(톡 쏘는 맛)과 유의어 — flavor는 '맛+향'을 아우르는 풍미. flavoring(조미료)이 가족.",
+  "syn": ["taste(맛)", "tang(풍미)", "savor(맛)"],
+  "anti": ["blandness(밋밋함)"],
+  "idiom": ["the flavor of the month(한때의 인기거리)", "add flavor(풍미를 더하다)"],
+  "colloc": ["a rich flavor(진한 풍미)", "add flavor(맛을 더하다)", "a subtle flavor(은은한 맛)"],
+  "ex_add": "The soup had a rich, smoky flavor.  (flavor=풍미)"
+ },
+ {
+  "num": "2754",
+  "hw": "flexible",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "잘 구부러지는 -> '유연한·융통성 있는'.",
+  "senses": [
+   "1) 잘 구부러지는·유연한",
+   "2) 융통성 있는·탄력적인",
+   "3) (사람이) 적응을 잘하는"
+  ],
+  "etym": "라틴어 flexibilis <- flectere(구부리다·휘다). '잘 휘는'이 핵심. flectere(구부리다)는 flex(구부리다)·reflect(되비추다)·deflect(빗나가게 하다)·inflexible(완고한)·circumflex(곡절 부호)의 뿌리.",
+  "deriv": "flectere(구부리다) -> 'flexible'. '잘 휘는 -> 유연한(flexible plastic)' -> 비유 '융통성 있는·탄력적인(flexible working hours, 탄력 근무제)' -> '적응을 잘하는'. 한국 학습자 핵심: flectere(구부리다) 갈래 — flex·reflect(반영하다)·deflect(빗나가게 하다)·inflect(굴절시키다)·circumflex·flexibility! flexible hours(유연 근무 시간), a flexible approach(융통성 있는 접근), remain flexible(융통성을 유지하다). adaptable(적응력 있는)·versatile(다재다능한)·pliable(유연한)과 유의어. 반대 rigid(뻣뻣한)·inflexible(완고한)·fixed(고정된).",
+  "syn": ["adaptable(적응력 있는)", "versatile(다재다능한)", "pliable(유연한)"],
+  "anti": ["rigid(뻣뻣한)", "inflexible(완고한)", "fixed(고정된)"],
+  "idiom": ["flexible hours(유연 근무 시간)", "a flexible approach(융통성 있는 접근)"],
+  "colloc": ["flexible working hours(탄력 근무제)", "a flexible approach(유연한 접근)", "remain flexible(융통성을 유지하다)"],
+  "ex_add": "My schedule is flexible, so we can meet anytime.  (flexible=융통성 있는)"
+ },
+ {
+  "num": "2755",
+  "hw": "float",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "물·공중에 '뜨다·떠다니다 / 부유물'.",
+  "senses": [
+   "1) (물·공중에) 뜨다·떠다니다",
+   "2) (생각을) 띄워 보다·제안하다",
+   "3) 부유물·뜨개 / (기업) 상장하다"
+  ],
+  "etym": "고대 영어 flotian(뜨다). 게르만 계열 토박이말로, fleet(함대·빠른)·flotilla(소함대)와 한 갈래. '가라앉지 않고 표면에 떠 있음'이 핵심.",
+  "deriv": "flotian(뜨다) -> 'float'. '물·공중에 뜨다(float on water)' -> 비유 '생각을 띄워 보다·제안하다(float an idea)' -> 명사 '부유물·뜨개' -> 금융 '상장하다·변동시키다'. 한국 학습자 핵심: fleet(함대)·flotilla와 한 갈래! float an idea(아이디어를 슬쩍 제안하다), float in the air(공중에 떠다니다), a floating voter(부동층 유권자), keep afloat(가라앉지 않다/파산을 면하다). drift(표류하다)·hover(맴돌다)와 유의어. 반대 sink(가라앉다)·drown(빠지다).",
+  "syn": ["drift(표류하다)", "hover(떠 있다)", "bob(까딱거리다)"],
+  "anti": ["sink(가라앉다)", "drown(빠지다)", "submerge(잠기다)"],
+  "idiom": ["float an idea(아이디어를 제안해 보다)", "keep afloat(가라앉지 않다)", "a floating voter(부동층)"],
+  "colloc": ["float on water(물에 뜨다)", "float in the air(공중에 떠다니다)", "float an idea(생각을 띄우다)"],
+  "ex_add": "Leaves were floating gently down the river.  (float=떠다니다)"
+ },
+ {
+  "num": "2756",
+  "hw": "fold",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "접다 -> '접다·포개다 / 접은 자국 / (사업이) 망하다'.",
+  "senses": [
+   "1) 접다·개키다·포개다",
+   "2) 접은 자국·주름 / 우리(양 떼)",
+   "3) (사업이) 망하다 / (팔짱을) 끼다"
+  ],
+  "etym": "고대 영어 fealdan(접다). 게르만 계열 토박이말로, '겹쳐 접다'가 핵심. -fold(~겹·~배: twofold 두 배, manifold 다양한)와 folding(2757)이 한 갈래.",
+  "deriv": "fealdan(접다) -> 'fold'. '접다·개키다(fold a shirt)·팔짱을 끼다(fold one's arms)' -> 명사 '접은 자국·주름' -> 비유 '(사업이) 접히다 -> 망하다(the company folded)'. 한국 학습자 핵심: -fold는 '~배·~겹'(a tenfold increase 10배 증가, manifold 다방면의)! fold up(접다/문을 닫다), fold one's arms(팔짱을 끼다), return to the fold(원래 자리로 돌아오다 — fold는 '양 우리'), a fold in the paper(종이의 접힌 자국). bend(굽히다)·crease(주름)와 유의어. 반대 unfold(펼치다)·spread(펴다).",
+  "syn": ["bend(접다)", "crease(주름 잡다)", "tuck(밀어 넣다)"],
+  "anti": ["unfold(펼치다)", "spread(펴다)", "open(펼치다)"],
+  "idiom": ["fold one's arms(팔짱을 끼다)", "return to the fold(제자리로 돌아오다)", "fold up(접다/폐업하다)"],
+  "colloc": ["fold a shirt(셔츠를 개다)", "fold the paper(종이를 접다)", "fold one's arms(팔짱을 끼다)"],
+  "ex_add": "She folded the letter and put it in the envelope.  (fold=접다)"
+ },
+ {
+  "num": "2757",
+  "hw": "folding",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "접을 수 있는 -> '접이식의'.",
+  "senses": [
+   "1) 접이식의·접게 된",
+   "2) 접을 수 있는·휴대용의",
+   "3) 개폐식의"
+  ],
+  "etym": "fold(접다, 2756) + -ing. 고대 영어 fealdan(접다) 뿌리. '접을 수 있게 만든'이 핵심. -fold(~겹)와 한 갈래.",
+  "deriv": "fold(2756) -> 'folding(접이식의)'. '접게 된 -> 접이식의(a folding chair, 접이식 의자)'. 한국 학습자 핵심: folding은 명사 앞에서 '접이식의' — a folding chair/table/bed/bike(접이식 의자·탁자·침대·자전거)! a folding screen(병풍), a folding fan(쥘부채), a folding door(접문), a folding umbrella(접는 우산). fold(2756) 가족. collapsible(접을 수 있는, 2437)·portable(휴대용의)과 유의어. 반대 fixed(고정식의)·rigid(뻣뻣한).",
+  "syn": ["collapsible(접을 수 있는)", "portable(휴대용의)", "foldable(접이식의)"],
+  "anti": ["fixed(고정식의)", "rigid(뻣뻣한)"],
+  "idiom": ["a folding chair(접이식 의자)", "a folding screen(병풍)"],
+  "colloc": ["a folding chair(접이식 의자)", "a folding table(접이식 탁자)", "a folding bike(접이식 자전거)"],
+  "ex_add": "We took some folding chairs to the picnic.  (folding=접이식의)"
+ },
+ {
+  "num": "2758",
+  "hw": "following",
+  "pos": "adj., n., prep.",
+  "cefr": "B2",
+  "core": "뒤따르는 -> '다음의·이하의 / 추종자들 / ~ 후에'.",
+  "senses": [
+   "1) 다음의·이하의(형용사)",
+   "2) 추종자·지지자 무리(명사)",
+   "3) (전치사) ~ 후에·~에 뒤이어"
+  ],
+  "etym": "follow(따르다, 고대 영어 folgian) + -ing. '뒤따라오는'이 핵심. '뒤따르는 것 -> 다음의 / 따르는 사람들 -> 추종자'로 갈렸다.",
+  "deriv": "folgian(따르다) -> follow -> 'following'. '뒤따르는 -> 다음의(the following day, 다음 날)' -> 명사 '추종자들(a large following, 많은 지지층)' -> 전치사 '~ 후에(following the meeting, 회의 후에)'. 한국 학습자 핵심: 세 가지 쓰임 주의 — the following examples(다음 예들, 형용사) / a loyal following(충성스러운 지지층, 명사) / following the accident(사고 후에, 전치사)! as follows(다음과 같이), a cult following(열성 팬층), the following(다음의 것). next(다음의)·subsequent(그다음의)와 유의어. 반대 preceding(앞선)·previous(이전의).",
+  "syn": ["next(다음의)", "subsequent(그다음의)", "supporters(지지자들)"],
+  "anti": ["preceding(앞선)", "previous(이전의)", "prior(앞의)"],
+  "idiom": ["as follows(다음과 같이)", "a cult following(열성 팬층)", "the following day(다음 날)"],
+  "colloc": ["the following day(다음 날)", "a large following(많은 추종자)", "following the meeting(회의 후에)"],
+  "ex_add": "The store is closed on the following days.  (following=다음의)"
+ },
+ {
+  "num": "2759",
+  "hw": "fond",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "푹 빠진 -> '좋아하는·애정 어린'.",
+  "senses": [
+   "1) (be fond of) ~을 좋아하는·아끼는",
+   "2) 다정한·애정 어린",
+   "3) (기억이) 정겨운"
+  ],
+  "etym": "중세 영어 fonned(어리석은) <- fon(바보). 본래 '바보같이 빠진'에서 '맹목적으로 좋아하는 -> 애정 어린'으로 부드러워졌다. '푹 빠져 아끼는'이 핵심.",
+  "deriv": "fon(바보) -> fonned(빠진) -> 'fond'. '푹 빠진 -> ~을 좋아하는(be fond of music)' -> '애정 어린·다정한(a fond farewell, 정다운 작별)' -> '정겨운(fond memories, 정겨운 추억)'. 한국 학습자 핵심: be fond of + 명사/동명사(~을 좋아하다 — like보다 정이 담긴 어감!), fond memories(아련한 추억), grow fond of(점점 좋아하게 되다), a fond hope(간절한 바람), fondly(다정하게/그립게). attached(정든)·affectionate(다정한)과 유의어. 반대 averse(싫어하는)·indifferent(무관심한).",
+  "syn": ["affectionate(다정한)", "attached(정든)", "keen on(좋아하는)"],
+  "anti": ["averse(싫어하는)", "indifferent(무관심한)", "hostile(적대적인)"],
+  "idiom": ["be fond of(~을 좋아하다)", "fond memories(정겨운 추억)", "grow fond of(점점 좋아하게 되다)"],
+  "colloc": ["be fond of(~을 좋아하다)", "fond memories(정겨운 추억)", "a fond farewell(정다운 작별)"],
+  "ex_add": "She is very fond of her younger brother.  (be fond of=~을 좋아하다)"
+ },
+ {
+  "num": "2760",
+  "hw": "fool",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "바보 -> '바보 / 속이다·바보짓하다'.",
+  "senses": [
+   "1) 바보·멍청이",
+   "2) 속이다·기만하다",
+   "3) (fool around) 빈둥대다·까불다"
+  ],
+  "etym": "라틴어 follis(풀무·바람 주머니) -> 고대 프랑스어 fol(미친·어리석은). '머릿속에 바람만 든 사람'이 핵심. folly(어리석음)·foolish(어리석은)가 한 follis 갈래.",
+  "deriv": "follis(바람 주머니) -> fol -> 'fool'. '바보(act like a fool)' -> 동사 '속이다(don't be fooled)·바보짓하다' -> 'fool around(빈둥대다·시시덕거리다)'. 한국 학습자 핵심: follis(바람 주머니) 갈래 — folly(어리석은 짓)·foolish(어리석은)·foolproof(아주 간단한)! make a fool of oneself(웃음거리가 되다), fool around(빈둥거리다/까불다), no fool(만만치 않은 사람), a fool's errand(헛걸음), April Fool's Day(만우절), play the fool(바보짓을 하다). idiot(바보)·deceive(속이다)와 유의어. 반대 genius(천재)·sage(현인).",
+  "syn": ["idiot(바보)", "deceive(속이다)", "dupe(속이다)"],
+  "anti": ["genius(천재)", "sage(현인)", "expert(전문가)"],
+  "idiom": ["make a fool of oneself(웃음거리가 되다)", "fool around(빈둥대다)", "a fool's errand(헛걸음)", "play the fool(바보짓하다)"],
+  "colloc": ["act like a fool(바보처럼 굴다)", "make a fool of(~을 놀림감으로 만들다)", "fool around(빈둥거리다)"],
+  "ex_add": "Don't be fooled by his friendly smile.  (fool=속이다)"
+ },
+ {
+  "num": "2761",
+  "hw": "forbid",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "하지 말라 명하다 -> '금지하다·못 하게 하다'.",
+  "senses": [
+   "1) 금지하다·못 하게 하다",
+   "2) (forbid sb to do) ~에게 ...하지 말라 명하다",
+   "3) (상황이) 허용하지 않다"
+  ],
+  "etym": "고대 영어 forbeodan = for-(반대·금지) + beodan(명하다·알리다). '하지 말라(for-) 명함(beodan)'이 핵심. beodan(명하다)은 bid(명하다·값을 부르다)·forbid의 뿌리. 과거형 forbid-forbade-forbidden(불규칙).",
+  "deriv": "for-(금지) + beodan(명하다) -> 'forbid'. '하지 말라 명하다 -> 금지하다(forbid smoking)'. 한국 학습자 핵심: 과거형 forbid-forbade-forbidden! forbid sb to do / forbid sb from V-ing(~가 ...하는 것을 금하다), strictly forbidden(엄금된), forbidden fruit(금단의 열매), God forbid!(천만에·그런 일은 없기를!), the forbidden zone(출입 금지 구역). prohibit(금지하다)·ban(금하다)과 유의어. 반대 allow(허용하다)·permit(허가하다). (forbid는 prohibit보다 일상적, 직접 명령 어감.)",
+  "syn": ["prohibit(금지하다)", "ban(금하다)", "outlaw(불법화하다)"],
+  "anti": ["allow(허용하다)", "permit(허가하다)", "authorize(승인하다)"],
+  "idiom": ["forbidden fruit(금단의 열매)", "God forbid!(천만에!)", "strictly forbidden(엄금된)"],
+  "colloc": ["forbid smoking(흡연을 금지하다)", "strictly forbidden(엄격히 금지된)", "forbid sb to do(~에게 ...을 금하다)"],
+  "ex_add": "The law forbids the sale of alcohol to minors.  (forbid=금지하다)"
+ },
+ {
+  "num": "2762",
+  "hw": "forecast",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "앞서 던져 봄 -> '예보·예측 / 예측하다'.",
+  "senses": [
+   "1) 예보·예측",
+   "2) (동사) 예측하다·예보하다",
+   "3) 전망"
+  ],
+  "etym": "fore-(미리·앞서) + cast(던지다, 2401). '결과를 미리(fore) 던져(cast) 봄'이 핵심. cast(던지다)는 broadcast(방송하다)·outcast(추방자)·overcast(흐린)의 뿌리. 과거형 forecast 또는 forecasted.",
+  "deriv": "fore-(미리) + cast(던지다) -> 'forecast'. '앞서 던져 봄 -> 예보·예측(the weather forecast, 일기 예보)' -> 동사 '예측하다(forecast sales)'. 한국 학습자 핵심: cast(던지다) 갈래 — broadcast·outcast·overcast·forecast! fore-(앞서)는 foresee(예견하다)·foretell(예언하다)·foresight(선견지명)에도! the weather forecast(일기 예보), a sales forecast(매출 전망), as forecast(예보대로), an economic forecast(경제 전망). predict(예측하다)·project(전망하다)와 유의어 — forecast는 주로 '날씨·경제 수치' 예측.",
+  "syn": ["predict(예측하다)", "project(전망하다)", "anticipate(예상하다)"],
+  "anti": [],
+  "idiom": ["the weather forecast(일기 예보)", "as forecast(예보대로)"],
+  "colloc": ["the weather forecast(일기 예보)", "a sales forecast(매출 예측)", "an economic forecast(경제 전망)"],
+  "ex_add": "The weather forecast says it will rain tomorrow.  (forecast=예보)"
+ },
+ {
+  "num": "2763",
+  "hw": "forgive",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "완전히 내어 주다 -> '용서하다·탕감하다'.",
+  "senses": [
+   "1) 용서하다·너그러이 봐주다",
+   "2) (빚을) 탕감하다·면제하다",
+   "3) (forgive me) 실례지만"
+  ],
+  "etym": "고대 영어 forgiefan = for-(완전히) + giefan(주다) -> '완전히 내어 줌(잘못을 없던 것으로)'. 라틴어 perdonare(완전히 주다->pardon 용서)를 본떠 만든 말. give(주다)와 한 갈래. 과거형 forgive-forgave-forgiven.",
+  "deriv": "for-(완전히) + giefan(주다) -> 'forgive'. '완전히 내어 주다 -> 용서하다(forgive sb for sth)' -> '(빚을) 탕감하다(forgive a debt)'. 한국 학습자 핵심: 과거형 forgive-forgave-forgiven! forgive sb for V-ing(~가 ...한 것을 용서하다), forgive and forget(용서하고 잊다), Forgive me, but...(실례지만), to err is human, to forgive divine(잘못은 인간의 일, 용서는 신의 일). pardon(2... )·excuse(2700)와 유의어 — forgive가 가장 깊은 '마음의 용서'. 반대 blame(탓하다)·punish(벌하다)·resent(원망하다).",
+  "syn": ["pardon(용서하다)", "excuse(봐주다)", "absolve(사면하다)"],
+  "anti": ["blame(탓하다)", "punish(벌하다)", "resent(원망하다)"],
+  "idiom": ["forgive and forget(용서하고 잊다)", "Forgive me, but...(실례지만)", "forgive a debt(빚을 탕감하다)"],
+  "colloc": ["forgive sb(~를 용서하다)", "forgive a mistake(실수를 용서하다)", "never forgive(결코 용서하지 않다)"],
+  "ex_add": "I will never forgive him for what he did.  (forgive=용서하다)"
+ },
+ {
+  "num": "2764",
+  "hw": "format",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "짜인 꼴 -> '형식·판형 / 형식을 정하다'.",
+  "senses": [
+   "1) 형식·구성·체재",
+   "2) (책·파일의) 판형·형식",
+   "3) (동사) 형식을 정하다 / (디스크를) 포맷하다"
+  ],
+  "etym": "라틴어 formatus(꼴 지어진) <- forma(모양·형태). '일정하게 짜인 꼴(forma)'이 핵심. forma(모양)는 form(형태)·formation(2765)·formal(격식의)·reform(개혁하다)·uniform(제복)·transform(변형하다)의 거대한 뿌리.",
+  "deriv": "forma(모양) -> formatus -> 'format'. '짜인 꼴 -> 형식·체재(the format of the show)' -> 책·파일의 '판형·형식(file format)' -> 동사 '형식을 잡다·포맷하다'. 한국 학습자 핵심: forma(모양) 대가족 — form·formation(2765)·formal·reform·uniform·transform·conform·inform·platform! a digital format(디지털 형식), change the format(형식을 바꾸다), a file format(파일 형식), in a new format(새로운 형식으로). layout(배치)·structure(구조)와 유의어.",
+  "syn": ["layout(배치)", "structure(구성)", "arrangement(편성)"],
+  "anti": [],
+  "idiom": ["a file format(파일 형식)", "a digital format(디지털 형식)"],
+  "colloc": ["a digital format(디지털 형식)", "change the format(형식을 바꾸다)", "a standard format(표준 형식)"],
+  "ex_add": "The book is also available in digital format.  (format=형식)"
+ },
+ {
+  "num": "2765",
+  "hw": "formation",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "꼴이 이루어짐 -> '형성·구성 / 대형'.",
+  "senses": [
+   "1) 형성·생성·결성",
+   "2) 구성·구조물",
+   "3) (군대·비행) 대형·편대"
+  ],
+  "etym": "라틴어 formare(모양을 만들다)의 명사형 formatio <- forma(모양). format(2764)·form·reform과 한 forma 갈래. '꼴이 갖춰져 가는 과정·결과'가 핵심.",
+  "deriv": "forma(모양) -> 'formation'. '꼴이 이루어짐 -> 형성(the formation of stars, 별의 형성)·결성(the formation of a band)' -> '대형·편대(fly in formation, 편대 비행하다)'. 한국 학습자 핵심: forma(모양) 대가족 — form·format(2764)·formal·reform·uniform·transform·conform·inform·platform! the formation of(~의 형성), rock formation(암석층), cloud formation(구름의 형성), in close formation(밀집 대형으로), team formation(팀 결성). creation(생성)·development(형성)과 유의어. 반대 dissolution(해체).",
+  "syn": ["creation(생성)", "development(형성)", "arrangement(배열)"],
+  "anti": ["dissolution(해체)", "breakup(해산)"],
+  "idiom": ["fly in formation(편대 비행하다)", "rock formation(암석층)"],
+  "colloc": ["the formation of(~의 형성)", "rock formation(암석 형성물)", "cloud formation(구름 형성)"],
+  "ex_add": "The formation of the new government took several weeks.  (formation=형성)"
+ },
+ {
+  "num": "2766",
+  "hw": "former",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "앞선 -> '이전의·전(前) / (the former) 전자'.",
+  "senses": [
+   "1) 이전의·전(前)~",
+   "2) 예전의·과거의",
+   "3) (the former) (둘 중) 전자"
+  ],
+  "etym": "고대 영어 forma(첫 번째의)의 비교급 -> '더 앞선'. fore(앞)·first(첫째)와 한 갈래로, '시간상 앞에 있던'이 핵심. formerly(2767)가 부사.",
+  "deriv": "forma(첫째의) -> 'former'. '더 앞선 -> 이전의·전~(the former president, 전 대통령)' -> '예전의(in former times, 옛날에)' -> '(둘 중) 전자(the former, vs the latter 후자)'. 한국 학습자 핵심: the former(전자) ↔ the latter(후자) 짝으로 외우기! a former colleague(예전 동료), the former champion(전 챔피언), in former times(예전에), one's former self(예전의 자기 모습). previous(이전의)·ex-(전~)와 유의어. 반대 latter(후자의)·current(현재의)·present(현재의). (forma '모양'의 format 2764과 어원이 다름!)",
+  "syn": ["previous(이전의)", "ex-(전~)", "past(과거의)"],
+  "anti": ["latter(후자의)", "current(현재의)", "present(현재의)"],
+  "idiom": ["the former ~ the latter(전자 ~ 후자)", "in former times(예전에)", "one's former self(예전의 자신)"],
+  "colloc": ["a former president(전 대통령)", "a former colleague(옛 동료)", "in former times(예전에)"],
+  "ex_add": "She is a former champion who now coaches young players.  (former=이전의)"
+ },
+ {
+  "num": "2767",
+  "hw": "formerly",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'이전에·예전에'.",
+  "senses": [
+   "1) 이전에·전에",
+   "2) 예전에·옛날에",
+   "3) 원래"
+  ],
+  "etym": "former(이전의, 2766) + -ly. 고대 영어 forma(첫째의) 뿌리. '시간상 앞선 때에'가 핵심. fore(앞)·first와 한 갈래.",
+  "deriv": "former(2766) -> 'formerly'. '이전에·예전에(formerly known as, 예전에 ~로 알려진)'. 한국 학습자 핵심: formerly(이전에)와 formally(격식을 갖춰, formal에서)를 발음·철자상 꼭 구별! formerly known as(구 ~, 예전 이름은 ~), the company, formerly a bank(예전에 은행이었던 그 회사), formerly a teacher(전직 교사). previously(이전에)·once(한때)·in the past(과거에)와 유의어. former(2766) 가족. 반대 currently(현재)·now(지금).",
+  "syn": ["previously(이전에)", "once(한때)", "in the past(과거에)"],
+  "anti": ["currently(현재)", "now(지금)", "presently(현재)"],
+  "idiom": ["formerly known as(예전 이름은 ~)", "formerly a ~(전직 ~)"],
+  "colloc": ["formerly known as(구 ~)", "formerly used(예전에 쓰이던)", "formerly owned(이전에 소유했던)"],
+  "ex_add": "This building was formerly a hospital.  (formerly=이전에)"
+ },
+ {
+  "num": "2768",
+  "hw": "fortunate",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "운이 따르는 -> '운 좋은·다행한'.",
+  "senses": [
+   "1) 운 좋은·복 받은",
+   "2) 다행한·잘된",
+   "3) 상서로운"
+  ],
+  "etym": "라틴어 fortunatus <- fortuna(운·행운) <- fors(우연). '운(fortuna)이 따르는'이 핵심. fortune(2769)·fortuitous(우연한)·misfortune(불운)이 한 fortuna 갈래.",
+  "deriv": "fortuna(운) -> 'fortunate'. '운이 따르는 -> 운 좋은(a fortunate man)' -> '다행한(it was fortunate that)'. 한국 학습자 핵심: fortuna(운) 갈래 — fortune(2769)·fortunately(다행히)·unfortunate(불운한)·misfortune(불행)·fortuitous(우연한)! be fortunate enough to do(운 좋게 ~하다), fortunate in(~의 면에서 운이 좋은), consider oneself fortunate(다행으로 여기다), how fortunate!(얼마나 다행인지!). lucky(운 좋은)·blessed(축복받은)와 유의어 — fortunate가 lucky보다 격식. 반대 unfortunate(불운한)·unlucky(운 없는).",
+  "syn": ["lucky(운 좋은)", "blessed(축복받은)", "favored(혜택받은)"],
+  "anti": ["unfortunate(불운한)", "unlucky(운 없는)", "ill-fated(기구한)"],
+  "idiom": ["be fortunate enough to(운 좋게 ~하다)", "consider oneself fortunate(다행으로 여기다)"],
+  "colloc": ["a fortunate man(운 좋은 사람)", "fortunate enough(운 좋게도)", "fortunate timing(운 좋은 시기)"],
+  "ex_add": "We were fortunate enough to get tickets to the concert.  (fortunate=운 좋은)"
+ },
+ {
+  "num": "2769",
+  "hw": "fortune",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "운 -> '운·운수 / 거액의 재산'.",
+  "senses": [
+   "1) 운·운수·운명",
+   "2) 거액·큰돈·재산",
+   "3) (fortunes) 흥망·성쇠"
+  ],
+  "etym": "라틴어 fortuna(운·행운) <- fors(우연). 로마 신화의 운명의 여신 Fortuna에서. '굴러 들어오는 운'이 핵심. fortunate(2768)·fortuitous(우연한)·misfortune(불운)이 한 갈래.",
+  "deriv": "fortuna(운) -> 'fortune'. '운·운수(good fortune, 행운)' -> '운이 가져다준 재물 -> 거액·재산(make a fortune, 큰돈을 벌다)' -> 'fortunes(흥망성쇠)'. 한국 학습자 핵심: fortuna(운) 갈래 — fortunate(2768)·unfortunate·misfortune·fortuitous! make a fortune(큰돈을 벌다), cost a fortune(엄청난 돈이 들다), tell sb's fortune(점을 봐 주다), a fortune teller(점쟁이), good/ill fortune(행운/불운), seek one's fortune(성공을 찾아 나서다). luck(운)·wealth(부)와 유의어. 반대 misfortune(불운)·poverty(가난).",
+  "syn": ["luck(운)", "wealth(부)", "riches(재물)"],
+  "anti": ["misfortune(불운)", "poverty(가난)", "bad luck(불운)"],
+  "idiom": ["make a fortune(큰돈을 벌다)", "cost a fortune(거금이 들다)", "tell sb's fortune(점을 보다)", "seek one's fortune(입신출세를 꾀하다)"],
+  "colloc": ["good fortune(행운)", "make a fortune(큰돈을 벌다)", "a small fortune(상당한 돈)"],
+  "ex_add": "He made a fortune in the property business.  (fortune=재산)"
+ },
+ {
+  "num": "2770",
+  "hw": "forum",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "광장 -> '공개 토론장·포럼'.",
+  "senses": [
+   "1) 공개 토론회·포럼",
+   "2) (의견 교환의) 장·매체",
+   "3) (인터넷) 게시판·포럼"
+  ],
+  "etym": "라틴어 forum(공공 광장·집회장). 고대 로마의 시민들이 모여 토론·재판하던 '광장(forum)'에서. forensic(법정의·과학수사의 = forum에서 다툼)이 한 갈래. 복수형은 forums 또는 fora.",
+  "deriv": "forum(광장) -> 'forum'. '시민이 모이던 광장 -> 공개 토론장(a public forum)' -> '의견 교환의 장(a forum for discussion)' -> 인터넷 '게시판(an online forum)'. 한국 학습자 핵심: forensic(법의학의·과학수사의)이 같은 forum(광장->법정) 갈래 — forensic evidence(법의학 증거)! a public forum(공개 토론회), a forum for debate(토론의 장), an online forum(온라인 포럼), provide a forum(장을 마련하다), the World Economic Forum(세계 경제 포럼). platform(발판·장)·venue(장소)와 유의어.",
+  "syn": ["platform(장)", "venue(장소)", "assembly(집회)"],
+  "anti": [],
+  "idiom": ["a public forum(공개 토론장)", "a forum for discussion(토론의 장)"],
+  "colloc": ["a public forum(공개 토론회)", "an online forum(온라인 포럼)", "a forum for debate(토론의 장)"],
+  "ex_add": "The conference provides a forum for sharing ideas.  (forum=토론의 장)"
+ },
+ {
+  "num": "2771",
+  "hw": "forward",
+  "pos": "adv., adj., v.",
+  "cefr": "B2",
+  "core": "앞쪽으로 -> '앞으로 / 앞으로 보내다·전달하다'.",
+  "senses": [
+   "1) (부사) 앞으로·앞쪽으로 / 미래로",
+   "2) (형용사) 앞으로 향한·진보적인",
+   "3) (동사) (우편·메일을) 전달하다·회송하다"
+  ],
+  "etym": "고대 영어 foreweard = fore(앞) + -weard(~쪽으로). '앞(fore) 방향으로'가 핵심. -ward(방향)는 backward(뒤로)·toward(~쪽으로)·downward(2629)의 짝. forward와 backward가 정반대.",
+  "deriv": "fore(앞) + -ward(방향) -> 'forward'. '앞으로(step forward)·미래로(look forward to)' -> 형용사 '앞으로 향한(forward motion)' -> 동사 '전달하다(forward an email)'. 한국 학습자 핵심: -ward 방향 무리 — backward·toward·downward(2629)·upward·inward! look forward to + 명사/동명사(~을 고대하다 — to부정사 아님! 빈출!), from this day forward(오늘부터), put forward(제안하다), bring forward(앞당기다), forward planning(사전 계획). ahead(앞으로)와 유의어. 반대 backward(뒤로).",
+  "syn": ["onward(앞으로)", "ahead(앞으로)", "send on(전달하다)"],
+  "anti": ["backward(뒤로)", "back(뒤로)"],
+  "idiom": ["look forward to(~을 고대하다)", "put forward(제안하다)", "bring forward(앞당기다)", "from this day forward(오늘부터)"],
+  "colloc": ["step forward(앞으로 나서다)", "look forward to(~을 고대하다)", "forward an email(이메일을 전달하다)"],
+  "ex_add": "Please forward this email to your colleagues.  (forward=전달하다)"
+ },
+ {
+  "num": "2772",
+  "hw": "fossil",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "땅에서 캐낸 것 -> '화석'.",
+  "senses": [
+   "1) 화석",
+   "2) (fossil fuel) 화석 연료",
+   "3) (비유) 시대에 뒤진 사람·것"
+  ],
+  "etym": "라틴어 fossilis(파낸·땅에서 캐낸) <- fodere(파다). '땅을 파(fodere) 캐낸 것'이 핵심. fodere(파다)는 fosse(해자)·fossa(움푹한 곳)의 뿌리로, 굴착·발굴의 어감.",
+  "deriv": "fodere(파다) -> fossilis(파낸) -> 'fossil'. '땅에서 캐낸 것 -> 화석(dinosaur fossils, 공룡 화석)' -> 'fossil fuel(화석 연료)' -> 비유 '구닥다리'. 한국 학습자 핵심: fodere(파다) 갈래 — fosse(해자)·fossa! fossil fuels(화석 연료 — coal/oil/gas! 빈출 환경 어휘), a fossil record(화석 기록), discover a fossil(화석을 발견하다), a living fossil(살아 있는 화석=오래된 것). 환경 단원에서 fossil fuels vs renewable energy(재생 에너지) 대비가 단골! relic(유물)과 유의어.",
+  "syn": ["relic(유물)", "remains(유해)"],
+  "anti": [],
+  "idiom": ["fossil fuels(화석 연료)", "a living fossil(살아 있는 화석)"],
+  "colloc": ["dinosaur fossils(공룡 화석)", "fossil fuels(화석 연료)", "a fossil record(화석 기록)"],
+  "ex_add": "Burning fossil fuels releases carbon dioxide.  (fossil=화석)"
+ },
+ {
+  "num": "2773",
+  "hw": "found",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "바닥을 놓다 -> '설립하다·세우다 / ~에 근거를 두다'.",
+  "senses": [
+   "1) 설립하다·창설하다",
+   "2) (be founded on) ~에 기초·근거를 두다",
+   "3) 기반을 다지다"
+  ],
+  "etym": "라틴어 fundare(기초를 놓다) <- fundus(바닥·기초). '바닥(fundus)을 다져 세움'이 핵심. fundus(바닥)는 foundation(2774)·founder(2775)·fund(2790)·fundamental(2791)·profound(심오한=바닥이 깊은)의 거대한 뿌리! (find의 과거형 found와 철자가 같지만 다른 단어.)",
+  "deriv": "fundus(바닥) -> fundare -> 'found'. '바닥을 놓다 -> 설립하다(found a company, 회사를 세우다)' -> 'be founded on(~에 기초하다)'. 한국 학습자 핵심: fundus(바닥) 대가족 — foundation(2774)·founder(2775)·fund(2790)·fundamental(2791)·profound(심오한)·founder! found-founded-founded(규칙변화! find의 found와 구별)! be founded on/upon(~에 근거를 두다), a newly founded company(신생 회사), the founding fathers(건국의 아버지들). establish(설립하다, 2682)·set up(세우다)과 유의어.",
+  "syn": ["establish(설립하다)", "set up(세우다)", "create(창설하다)"],
+  "anti": ["dissolve(해산하다)", "abolish(폐지하다)"],
+  "idiom": ["be founded on(~에 근거하다)", "the founding fathers(건국의 아버지들)"],
+  "colloc": ["found a company(회사를 설립하다)", "be founded on(~에 기초하다)", "newly founded(새로 설립된)"],
+  "ex_add": "The university was founded in 1885.  (found=설립하다)"
+ },
+ {
+  "num": "2774",
+  "hw": "foundation",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "바닥 다지기 -> '토대·기초 / 설립 / 재단'.",
+  "senses": [
+   "1) 토대·기초·근거",
+   "2) (건물의) 기초·주춧돌",
+   "3) 설립·창설 / (자선) 재단"
+  ],
+  "etym": "라틴어 fundatio(기초 놓기) <- fundare(기초를 놓다) <- fundus(바닥). found(2773)·founder(2775)·fund(2790)·fundamental(2791)과 한 fundus 갈래. '바닥을 다진 것·다지는 일'이 핵심.",
+  "deriv": "fundus(바닥) -> found(2773) -> 'foundation'. '바닥 다지기 -> 토대·기초(lay the foundation, 기초를 놓다)' -> 건물 '기초' -> '설립 / 자선 재단(a charitable foundation)'. 한국 학습자 핵심: fundus(바닥) 대가족 — found(2773)·founder(2775)·fund(2790)·fundamental(2791)·profound! lay the foundations for(~의 토대를 놓다), without foundation(근거 없는), a solid foundation(탄탄한 기반), a research foundation(연구 재단), the foundation of(~의 기초). basis(근거)·groundwork(기초 작업)와 유의어.",
+  "syn": ["basis(기초)", "groundwork(토대)", "base(기반)"],
+  "anti": ["superstructure(상부 구조)"],
+  "idiom": ["lay the foundation(기초를 놓다)", "without foundation(근거 없는)", "a solid foundation(탄탄한 기반)"],
+  "colloc": ["lay the foundations(토대를 놓다)", "a solid foundation(탄탄한 기초)", "a charitable foundation(자선 재단)"],
+  "ex_add": "A good education is the foundation of a successful career.  (foundation=토대)"
+ },
+ {
+  "num": "2775",
+  "hw": "founder",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "기초를 놓은 사람 -> '설립자·창립자 / (배가) 침몰하다'.",
+  "senses": [
+   "1) 설립자·창립자·창시자",
+   "2) (동사) (배가) 침몰하다",
+   "3) (계획이) 좌초하다·실패하다"
+  ],
+  "etym": "found(설립하다, 2773) + -er. 라틴어 fundus(바닥) 뿌리. '기초(fundus)를 놓은 사람'이 핵심. 동사 founder(침몰하다)도 '바닥(fundus)으로 가라앉다'에서 — 한 뿌리의 두 갈래! foundation(2774)·fund(2790)과 가족.",
+  "deriv": "fundus(바닥) -> found(2773) -> 'founder'. 명사 '기초를 놓은 사람 -> 설립자(the founder of the company)' / 동사 '바닥으로 가라앉다 -> 침몰하다(the ship foundered)·좌초하다(the plan foundered)'. 한국 학습자 핵심: fundus(바닥) 대가족 — found(2773)·foundation(2774)·fund(2790)·fundamental(2791)·profound! the founder of(~의 창립자), a co-founder(공동 창업자), the founding members(창립 회원). founder(침몰하다)와 flounder(허우적대다/가자미)를 혼동 주의! creator(창시자)·establisher(설립자)와 유의어.",
+  "syn": ["creator(창시자)", "originator(창설자)", "establisher(설립자)"],
+  "anti": ["successor(후계자)"],
+  "idiom": ["the founder of(~의 창립자)", "a co-founder(공동 창업자)", "the founding members(창립 멤버)"],
+  "colloc": ["the founder of(~의 설립자)", "a co-founder(공동 창립자)", "the company's founder(회사 창립자)"],
+  "ex_add": "She is the founder and CEO of a tech startup.  (founder=설립자)"
+ },
+ {
+  "num": "2776",
+  "hw": "fraction",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "쪼갠 조각 -> '분수 / 일부·아주 조금'.",
+  "senses": [
+   "1) (수학) 분수",
+   "2) 일부분·소량",
+   "3) 아주 조금·극히 적은 양"
+  ],
+  "etym": "라틴어 frangere(부수다·깨뜨리다)의 명사형 fractio -> '깨뜨려 쪼갠 것'. frangere(부수다)는 fragment(2777)·fracture(골절)·fragile(부서지기 쉬운)·frail(허약한)·refract(굴절시키다)의 뿌리.",
+  "deriv": "frangere(부수다) -> fractio -> 'fraction'. '쪼갠 조각 -> 분수(1/2 같은)' -> '일부·소량(a fraction of the cost, 비용의 극히 일부)'. 한국 학습자 핵심: frangere(부수다) 갈래 — fragment(2777)·fracture(골절)·fragile(깨지기 쉬운)·frail·refract(굴절)·infringe(침해하다)! a fraction of(~의 극히 일부), only a fraction(극히 일부분만), for a fraction of a second(아주 잠깐), a tiny fraction(아주 작은 부분). 수학: numerator(분자)/denominator(분모). part(부분)·portion(일부)과 유의어. 반대 whole(전체).",
+  "syn": ["portion(일부)", "part(부분)", "bit(조금)"],
+  "anti": ["whole(전체)", "entirety(전체)"],
+  "idiom": ["a fraction of(~의 일부)", "for a fraction of a second(아주 잠깐)", "only a fraction(극히 일부)"],
+  "colloc": ["a fraction of the cost(비용의 일부)", "a tiny fraction(아주 작은 부분)", "a small fraction(작은 일부)"],
+  "ex_add": "Only a small fraction of the budget was actually used.  (fraction=일부)"
+ },
+ {
+  "num": "2777",
+  "hw": "fragment",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "부서진 조각 -> '파편·단편 / 산산이 부수다'.",
+  "senses": [
+   "1) 파편·조각",
+   "2) (글·대화의) 단편·일부",
+   "3) (동사) 산산이 부수(어지)다·분열되다"
+  ],
+  "etym": "라틴어 fragmentum(부서진 조각) <- frangere(부수다). fraction(2776)·fracture·fragile과 한 frangere 갈래. '깨져 흩어진 작은 조각'이 핵심.",
+  "deriv": "frangere(부수다) -> fragmentum -> 'fragment'. '부서진 조각 -> 파편(fragments of glass, 유리 파편)' -> '단편(a fragment of conversation)' -> 동사 '산산이 부수다·분열되다(a fragmented society, 분열된 사회)'. 한국 학습자 핵심: frangere(부수다) 갈래 — fraction(2776)·fracture(골절)·fragile(깨지기 쉬운)·frail·refract·infringe! fragments of(~의 파편들), break into fragments(산산조각이 나다), a sentence fragment(불완전한 문장), fragmented(파편화된). piece(조각)·shard(파편)·splinter(가시 조각)와 유의어. 반대 whole(전체).",
+  "syn": ["piece(조각)", "shard(파편)", "splinter(부서진 조각)"],
+  "anti": ["whole(전체)", "unite(합치다)"],
+  "idiom": ["break into fragments(산산조각이 나다)", "a sentence fragment(불완전한 문장)"],
+  "colloc": ["fragments of glass(유리 파편)", "a small fragment(작은 조각)", "break into fragments(산산조각 나다)"],
+  "ex_add": "Archaeologists found fragments of ancient pottery.  (fragment=파편)"
+ },
+ {
+  "num": "2778",
+  "hw": "framework",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "뼈대 + 짜임 -> '틀·체계·뼈대'.",
+  "senses": [
+   "1) (이론·제도의) 틀·체계",
+   "2) (구조물의) 뼈대·골조",
+   "3) (사고의) 기본 구조"
+  ],
+  "etym": "frame(틀·뼈대, 고대 영어 framian '돕다·만들다') + work(작업·구조). '뼈대(frame)를 짜 놓은 것(work)'이 핵심. frame(짜다)이 토박이 뿌리.",
+  "deriv": "frame(틀) + work(짜임) -> 'framework'. '뼈대 짜임 -> (이론·제도의) 틀·체계(a legal framework, 법적 틀)' -> '구조물의 골조'. 한국 학습자 핵심: framework은 추상적 '틀·체계'로 매우 자주 쓰임 — a theoretical framework(이론적 틀), a legal/regulatory framework(법적·규제 체계), within the framework of(~의 틀 안에서), provide a framework(틀을 제공하다), a conceptual framework(개념적 틀). structure(구조)·system(체계)·skeleton(골격)과 유의어. frame(틀)·work(작업) 합성어.",
+  "syn": ["structure(구조)", "system(체계)", "skeleton(골격)"],
+  "anti": [],
+  "idiom": ["within the framework of(~의 틀 안에서)", "a theoretical framework(이론적 틀)"],
+  "colloc": ["a legal framework(법적 틀)", "a theoretical framework(이론적 체계)", "provide a framework(틀을 제공하다)"],
+  "ex_add": "The new law provides a framework for protecting the environment.  (framework=틀)"
+ },
+ {
+  "num": "2779",
+  "hw": "fraud",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "속임 -> '사기 / 사기꾼'.",
+  "senses": [
+   "1) 사기·기만·부정",
+   "2) 사기꾼·협잡꾼",
+   "3) 가짜·엉터리"
+  ],
+  "etym": "라틴어 fraus/fraud-(속임·기만). '남을 속여 이득을 취함'이 핵심. fraudulent(사기의)·defraud(사취하다)가 한 fraus 갈래.",
+  "deriv": "fraus(속임) -> 'fraud'. '속임 -> 사기·부정(commit fraud, 사기를 치다)' -> '사기꾼(he's a fraud)'. 한국 학습자 핵심: fraus(속임) 갈래 — fraudulent(사기의)·defraud(사취하다)·fraudster(사기꾼)! commit fraud(사기를 저지르다), credit card fraud(신용카드 사기), tax fraud(탈세), insurance fraud(보험 사기), fraud detection(사기 탐지), accuse sb of fraud(~를 사기로 고발하다). deception(기만)·scam(사기)·swindle(사취)과 유의어. 반대 honesty(정직). cheat(속이다)와 관련.",
+  "syn": ["deception(기만)", "scam(사기)", "swindle(사취)"],
+  "anti": ["honesty(정직)", "integrity(청렴)"],
+  "idiom": ["commit fraud(사기를 치다)", "credit card fraud(신용카드 사기)", "tax fraud(탈세)"],
+  "colloc": ["commit fraud(사기를 저지르다)", "credit card fraud(신용카드 사기)", "accuse of fraud(사기로 고발하다)"],
+  "ex_add": "He was arrested for credit card fraud.  (fraud=사기)"
+ },
+ {
+  "num": "2780",
+  "hw": "free",
+  "pos": "adj., adv., v.",
+  "cefr": "B2",
+  "core": "'자유로운 / 무료의 / 풀어 주다'.",
+  "senses": [
+   "1) 자유로운·구속 없는",
+   "2) 무료의·공짜의 / (free of/from) ~이 없는",
+   "3) 한가한·비어 있는 / (동사) 풀어 주다·해방하다"
+  ],
+  "etym": "고대 영어 freo(자유로운·속박 없는). 게르만 계열 토박이말로, 흥미롭게도 friend(친구)와 한 뿌리 — '자유민으로서 아끼는 이'에서. freedom(2781)·freely(2782)가 가족.",
+  "deriv": "freo(자유로운) -> 'free'. '자유로운(a free country)' -> '무료의(a free sample)·~이 없는(free of charge, 무료로)' -> '한가한(Are you free?)' -> 동사 '풀어 주다(free the prisoners)'. 한국 학습자 핵심: friend(친구)와 한 뿌리! free of/from(~이 없는, sugar-free 무설탕), feel free to(마음껏 ~하다), for free(공짜로), set free(풀어 주다), free up(시간·공간을 비우다), a free hand(전권). liberate(해방하다)와 유의어. 반대 captive(사로잡힌)·restricted(제한된).",
+  "syn": ["liberated(해방된)", "complimentary(무료의)", "release(풀어 주다)"],
+  "anti": ["captive(사로잡힌)", "restricted(제한된)", "imprisoned(수감된)"],
+  "idiom": ["for free(공짜로)", "feel free to(마음껏 ~하다)", "set free(풀어 주다)", "free of charge(무료로)"],
+  "colloc": ["a free sample(무료 샘플)", "free of charge(무료로)", "set free(석방하다)"],
+  "ex_add": "The museum offers free entry on Sundays.  (free=무료의)"
+ },
+ {
+  "num": "2781",
+  "hw": "freedom",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "자유로운 상태 -> '자유·해방 / 자유로이 쓸 권리'.",
+  "senses": [
+   "1) 자유·해방",
+   "2) (freedom of ~) ~의 자유(언론·종교 등)",
+   "3) (freedom from) ~으로부터의 자유·면제"
+  ],
+  "etym": "free(자유로운, 2780) + -dom(상태·영역). '자유로운(free) 상태'가 핵심. -dom은 kingdom(왕국)·wisdom(지혜)·boredom(지루함)의 접미사. free·freely(2782)와 한 갈래.",
+  "deriv": "free(2780) + -dom(상태) -> 'freedom'. '자유로운 상태 -> 자유(fight for freedom, 자유를 위해 싸우다)' -> 'freedom of speech(언론의 자유)' -> 'freedom from fear(공포로부터의 자유)'. 한국 학습자 핵심: -dom 무리 — kingdom(왕국)·wisdom(지혜)·boredom(지루함)·freedom! freedom of speech/religion/the press(언론·종교·출판의 자유), freedom from(~으로부터의 자유), academic freedom(학문의 자유), personal freedom(개인의 자유). liberty(자유)·independence(독립)와 유의어. 반대 captivity(속박)·oppression(억압).",
+  "syn": ["liberty(자유)", "independence(독립)", "liberation(해방)"],
+  "anti": ["captivity(속박)", "oppression(억압)", "slavery(노예 상태)"],
+  "idiom": ["freedom of speech(언론의 자유)", "freedom from(~으로부터의 자유)", "academic freedom(학문의 자유)"],
+  "colloc": ["freedom of speech(언론의 자유)", "fight for freedom(자유를 위해 싸우다)", "personal freedom(개인의 자유)"],
+  "ex_add": "Freedom of speech is a basic human right.  (freedom=자유)"
+ },
+ {
+  "num": "2782",
+  "hw": "freely",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'자유롭게·거리낌 없이·아낌없이'.",
+  "senses": [
+   "1) 자유롭게·구속 없이",
+   "2) 거리낌 없이·솔직하게",
+   "3) 아낌없이·후하게"
+  ],
+  "etym": "free(자유로운, 2780) + -ly. 고대 영어 freo(자유로운) 뿌리. '속박 없이'가 핵심. freedom(2781)·free와 한 갈래.",
+  "deriv": "free(2780) -> 'freely'. '자유롭게(move freely, 자유로이 이동하다)' -> '거리낌 없이(speak freely, 거리낌 없이 말하다)' -> '아낌없이(give freely, 아낌없이 주다)'. 한국 학습자 핵심: free(부사로 '무료로/풀려나') vs freely(부사로 '자유로이/아낌없이') 구별 — get in free(무료로 들어가다) / move freely(자유로이 움직이다)! breathe freely(편히 숨 쉬다), available freely(자유로이 이용 가능한), admit freely(솔직히 인정하다), donate freely(아낌없이 기부하다). openly(터놓고)·generously(후하게)와 유의어. free(2780)·freedom(2781) 가족.",
+  "syn": ["openly(터놓고)", "generously(후하게)", "willingly(기꺼이)"],
+  "anti": ["restrictedly(제한적으로)", "sparingly(아껴서)", "reluctantly(마지못해)"],
+  "idiom": ["speak freely(거리낌 없이 말하다)", "give freely(아낌없이 주다)", "breathe freely(편히 숨 쉬다)"],
+  "colloc": ["move freely(자유로이 이동하다)", "speak freely(거리낌 없이 말하다)", "available freely(자유롭게 이용 가능한)"],
+  "ex_add": "Citizens can travel freely between the two countries.  (freely=자유롭게)"
+ },
+ {
+  "num": "2783",
+  "hw": "frequency",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "자주 일어남 -> '빈도·잦음 / 주파수'.",
+  "senses": [
+   "1) 빈도·횟수·잦음",
+   "2) (물리) 진동수·주파수",
+   "3) (라디오) 방송 주파수"
+  ],
+  "etym": "라틴어 frequentia(붐빔·잦음) <- frequens(붐비는·잦은). '자주(frequens) 일어남'이 핵심. frequent(2784)·frequently(자주)가 한 갈래.",
+  "deriv": "frequens(잦은) -> 'frequency'. '자주 일어남 -> 빈도·횟수(with increasing frequency, 점점 잦은 빈도로)' -> 물리 '진동수·주파수(radio frequency, 무선 주파수)'. 한국 학습자 핵심: frequens(잦은) 갈래 — frequent(2784)·frequently(자주)·infrequent(드문)! high/low frequency(고/저주파), with alarming frequency(놀랄 만큼 자주), the frequency of(~의 빈도), increase in frequency(빈도가 늘다), a radio frequency(라디오 주파수). rate(비율)·incidence(발생률)와 유의어. 반대 rarity(드묾).",
+  "syn": ["rate(비율)", "incidence(발생률)", "regularity(규칙성)"],
+  "anti": ["rarity(드묾)", "infrequency(드문 일)"],
+  "idiom": ["with increasing frequency(점점 더 자주)", "radio frequency(무선 주파수)"],
+  "colloc": ["high frequency(고주파)", "the frequency of(~의 빈도)", "with alarming frequency(놀랄 만큼 자주)"],
+  "ex_add": "The frequency of earthquakes has increased in the region.  (frequency=빈도)"
+ },
+ {
+  "num": "2784",
+  "hw": "frequent",
+  "pos": "adj., v.",
+  "cefr": "B2",
+  "core": "잦은 -> '빈번한·잦은 / 자주 드나들다'.",
+  "senses": [
+   "1) 빈번한·잦은",
+   "2) 단골의·상습적인",
+   "3) (동사) 자주 드나들다·다니다"
+  ],
+  "etym": "라틴어 frequens(붐비는·잦은). '사람·일이 자주 모여듦'이 핵심. frequency(2783)·frequently(자주)·infrequent(드문)가 한 갈래. 명사·동사·형용사 강세가 살짝 다르다(FREquent 형용사 / freQUENT 동사).",
+  "deriv": "frequens(잦은) -> 'frequent'. '잦은·빈번한(frequent visits)' -> '단골의(a frequent customer)' -> 동사 '자주 다니다(frequent a café)'. 한국 학습자 핵심: frequens(잦은) 갈래 — frequency(2783)·frequently·infrequent(드문)! 형용사·동사 강세 다름(FREquent 빈번한 / freQUENT 드나들다). frequent flyer(상용 고객·단골 탑승객), make frequent use of(자주 이용하다), at frequent intervals(빈번히). common(흔한)·regular(잦은)·recurrent(되풀이되는)와 유의어. 반대 infrequent(드문)·rare(드문)·occasional(가끔의).",
+  "syn": ["common(흔한)", "regular(잦은)", "recurrent(되풀이되는)"],
+  "anti": ["infrequent(드문)", "rare(드문)", "occasional(가끔의)"],
+  "idiom": ["a frequent flyer(상용 탑승객)", "make frequent use of(자주 이용하다)"],
+  "colloc": ["frequent visits(잦은 방문)", "a frequent customer(단골손님)", "frequent use(잦은 사용)"],
+  "ex_add": "Heavy traffic is a frequent problem in this city.  (frequent=빈번한)"
+ },
+ {
+  "num": "2785",
+  "hw": "fuel",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "불을 지피는 것 -> '연료 / 부채질하다'.",
+  "senses": [
+   "1) 연료",
+   "2) (감정·사태를) 부추기는 것",
+   "3) (동사) 연료를 공급하다 / 부채질하다·악화시키다"
+  ],
+  "etym": "라틴어 focus(화덕·난로) -> 고대 프랑스어 fouaille(땔감). '화덕(focus)에 넣어 불을 지피는 것'이 핵심. focus(초점)·foyer(로비=난롯가)·curfew(통금=불을 끄는 시각)가 한 focus 갈래.",
+  "deriv": "focus(화덕) -> 'fuel'. '땔감 -> 연료(run out of fuel, 연료가 떨어지다)' -> 비유 '(감정을) 부추기는 것·부채질하다(fuel speculation, 추측을 부채질하다)'. 한국 학습자 핵심: focus(화덕->초점)·foyer(현관 로비)·curfew(통행금지)가 한 focus 갈래! fossil fuels(화석 연료, 2772), fuel efficiency(연비), add fuel to the fire(불난 집에 부채질하다), fuel consumption(연료 소비, 2489), run on fuel(연료로 가다). 동사로 fuel growth/fears/debate(성장·우려·논쟁을 부추기다). 반대 dampen(누그러뜨리다).",
+  "syn": ["energy source(에너지원)", "stoke(부추기다)", "stimulate(자극하다)"],
+  "anti": ["dampen(누그러뜨리다)", "quell(억누르다)"],
+  "idiom": ["add fuel to the fire(불난 집에 부채질하다)", "fossil fuels(화석 연료)", "run out of fuel(연료가 떨어지다)"],
+  "colloc": ["fossil fuels(화석 연료)", "fuel efficiency(연비)", "fuel growth(성장을 부추기다)"],
+  "ex_add": "The car ran out of fuel on the highway.  (fuel=연료)"
+ },
+ {
+  "num": "2786",
+  "hw": "fulfill",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "가득 채우다 -> '이행하다·충족시키다·실현하다'.",
+  "senses": [
+   "1) (약속·의무를) 이행하다·다하다",
+   "2) (조건·필요를) 충족시키다",
+   "3) (꿈·잠재력을) 실현하다·발휘하다"
+  ],
+  "etym": "고대 영어 fullfyllan = full(가득한) + fyllan(채우다). '가득(full) 채워(fill) 완수함'이 핵심. full·fill과 한 토박이 갈래. (미국식 fulfill / 영국식 fulfil.)",
+  "deriv": "full(가득) + fill(채우다) -> 'fulfill'. '가득 채우다 -> (약속을) 이행하다(fulfill a promise)·(조건을) 충족하다(fulfill the requirements)·(꿈을) 실현하다(fulfill one's dreams)'. 한국 학습자 핵심: 미국식 fulfill(l 두 개) / 영국식 fulfil(l 하나)! fulfill a promise/obligation/duty(약속·의무·임무를 다하다), fulfill one's potential(잠재력을 발휘하다), a fulfilling job(보람 있는 일), fulfillment(성취감). satisfy(충족하다)·achieve(달성하다)·carry out(수행하다)과 유의어. 반대 fail(이행하지 못하다)·neglect(소홀히 하다).",
+  "syn": ["satisfy(충족하다)", "achieve(달성하다)", "carry out(수행하다)"],
+  "anti": ["fail(이행하지 못하다)", "neglect(소홀히 하다)", "break(어기다)"],
+  "idiom": ["fulfill a promise(약속을 지키다)", "fulfill one's potential(잠재력을 발휘하다)", "a fulfilling job(보람 있는 일)"],
+  "colloc": ["fulfill a promise(약속을 이행하다)", "fulfill the requirements(요건을 충족하다)", "fulfill one's dreams(꿈을 실현하다)"],
+  "ex_add": "She finally fulfilled her dream of becoming a doctor.  (fulfill=실현하다)"
+ },
+ {
+  "num": "2787",
+  "hw": "full-time",
+  "pos": "adj., adv.",
+  "cefr": "B2",
+  "core": "전 시간의 -> '전임의·상근의 / 전임으로'.",
+  "senses": [
+   "1) 전임의·상근의·전일제의",
+   "2) (부사) 전임으로·풀타임으로",
+   "3) (구어) 온전히 ~에만 매달리는"
+  ],
+  "etym": "full(전부의·가득한) + time(시간). '근무 시간을 가득(full) 채우는'이 핵심. part-time(시간제의)과 정반대 짝. full(가득한)이 토박이 뿌리.",
+  "deriv": "full(가득) + time(시간) -> 'full-time'. '전 시간 근무하는 -> 전임의·상근의(a full-time job, 정규직)' -> 부사 '전임으로(work full-time)'. 한국 학습자 핵심: full-time(전임의) ↔ part-time(시간제의) 정반대 짝! a full-time job(정규직), a full-time student(전업 학생), work full-time(전일제로 일하다), full-time employment(정규 고용), a full-time mother(전업 주부). 명사 앞에서는 하이픈(a full-time job), 부사로는 보통 띄어 씀(work full time). 반대 part-time(시간제의).",
+  "syn": ["permanent(상근의)", "regular(정규의)"],
+  "anti": ["part-time(시간제의)", "temporary(임시의)", "casual(비정규의)"],
+  "idiom": ["a full-time job(정규직)", "work full-time(전임으로 일하다)"],
+  "colloc": ["a full-time job(정규직)", "a full-time student(전업 학생)", "full-time employment(정규 고용)"],
+  "ex_add": "She got a full-time job at the hospital.  (full-time=전임의)"
+ },
+ {
+  "num": "2788",
+  "hw": "fully",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'완전히·충분히·꼬박'.",
+  "senses": [
+   "1) 완전히·전적으로",
+   "2) 충분히·빠짐없이",
+   "3) (수량) 꼬박·족히"
+  ],
+  "etym": "full(가득한·완전한, 고대 영어 full) + -ly. '빠짐없이 가득'이 핵심. fulfill(2786)·full과 한 토박이 갈래.",
+  "deriv": "full(가득) -> 'fully'. '완전히(fully understand, 완전히 이해하다)' -> '충분히(fully equipped, 완비된)' -> 수량 '꼬박(fully two hours, 족히 두 시간)'. 한국 학습자 핵심: fully + 과거분사 형태가 흔함 — fully aware(충분히 인지한), fully booked(예약이 꽉 찬), fully recovered(완전히 회복된), fully automatic(전자동의), fully understand(완전히 이해하다), not fully(완전히 ~인 것은 아닌). completely(완전히)·entirely(2673)·thoroughly(철저히)와 유의어. full(가득한)·fulfill(2786) 가족. 반대 partly(부분적으로)·partially(일부).",
+  "syn": ["completely(완전히)", "entirely(전적으로)", "thoroughly(철저히)"],
+  "anti": ["partly(부분적으로)", "partially(일부)", "barely(간신히)"],
+  "idiom": ["fully aware(충분히 인지한)", "fully booked(예약이 꽉 찬)", "fully recovered(완전히 회복된)"],
+  "colloc": ["fully understand(완전히 이해하다)", "fully equipped(완비된)", "fully aware(충분히 인지하는)"],
+  "ex_add": "I fully understand your concerns.  (fully=완전히)"
+ },
+ {
+  "num": "2789",
+  "hw": "function",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "맡은 일을 함 -> '기능·작용·행사 / 작동하다'.",
+  "senses": [
+   "1) 기능·작용·구실",
+   "2) (공식) 행사·모임",
+   "3) (동사) 작동하다·기능하다 / (수학) 함수"
+  ],
+  "etym": "라틴어 functio(수행·이행) <- fungi(수행하다·임무를 다하다). '맡은 임무(fungi)를 해냄'이 핵심. fungi(수행하다)는 functional(기능적인)·defunct(소멸한)·perfunctory(형식적인)의 뿌리.",
+  "deriv": "fungi(수행하다) -> functio -> 'function'. '맡은 일을 함 -> 기능·작용(the function of the heart)' -> 공식 '행사(a social function)' -> 동사 '작동하다(function properly)' / 수학 '함수'. 한국 학습자 핵심: fungi(수행) 갈래 — functional(기능적인)·dysfunction(기능 장애)·defunct(없어진)·perfunctory(형식적인)·malfunction(오작동)! function as(~으로서 기능하다·역할을 하다), perform a function(기능을 수행하다), brain function(뇌 기능), function key(기능 키). role(역할)·purpose(목적)·operate(작동하다)와 유의어.",
+  "syn": ["role(역할)", "purpose(목적)", "operate(작동하다)"],
+  "anti": ["malfunction(오작동)", "breakdown(고장)"],
+  "idiom": ["function as(~의 역할을 하다)", "perform a function(기능을 수행하다)", "a function key(기능 키)"],
+  "colloc": ["a key function(핵심 기능)", "function properly(제대로 작동하다)", "brain function(뇌 기능)"],
+  "ex_add": "The main function of the heart is to pump blood.  (function=기능)"
+ },
+ {
+  "num": "2790",
+  "hw": "fund",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "밑천 -> '기금·자금 / 자금을 대다'.",
+  "senses": [
+   "1) 기금·자금",
+   "2) (funds) 재원·돈",
+   "3) (동사) 자금을 대다·재정 지원하다"
+  ],
+  "etym": "라틴어 fundus(바닥·기초·토대). '바탕이 되는 밑천'이 핵심. found(2773)·foundation(2774)·founder(2775)·fundamental(2791)·profound(심오한)와 한 fundus 갈래.",
+  "deriv": "fundus(바닥·밑천) -> 'fund'. '밑천 -> 기금·자금(a pension fund, 연금 기금)' -> 'funds(재원)' -> 동사 '자금을 대다(fund a project)'. 한국 학습자 핵심: fundus(바닥) 대가족 — found(2773)·foundation(2774)·founder(2775)·fundamental(2791)·funding(2793)·profound! raise funds(자금을 모으다), short of funds(자금이 부족한), a relief fund(구호 기금), an investment fund(투자 펀드), government-funded(정부 지원의). finance(자금을 대다, 2744)·sponsor(후원하다)와 유의어.",
+  "syn": ["finance(자금을 대다)", "sponsor(후원하다)", "capital(자본)"],
+  "anti": [],
+  "idiom": ["raise funds(자금을 모으다)", "short of funds(자금이 부족한)", "government-funded(정부 지원의)"],
+  "colloc": ["raise funds(기금을 모으다)", "a pension fund(연금 기금)", "fund a project(사업에 자금을 대다)"],
+  "ex_add": "The charity raises funds for sick children.  (fund=기금)"
+ },
+ {
+  "num": "2791",
+  "hw": "fundamental",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "바닥에 깔린 -> '근본적인·필수적인 / 기본 원리'.",
+  "senses": [
+   "1) 근본적인·기본적인",
+   "2) 필수적인·없어서는 안 될",
+   "3) (the fundamentals) 기본 원리·기초"
+  ],
+  "etym": "라틴어 fundamentum(토대·기초) <- fundare(기초를 놓다) <- fundus(바닥). '맨 밑바닥(fundus)에 깔린'이 핵심. found(2773)·foundation(2774)·fund(2790)·profound와 한 fundus 갈래.",
+  "deriv": "fundus(바닥) -> fundamentum -> 'fundamental'. '바닥에 깔린 -> 근본적인(a fundamental change, 근본적 변화)' -> '필수적인(fundamental rights, 기본권)' -> '기본 원리(the fundamentals of physics)'. 한국 학습자 핵심: fundus(바닥) 대가족 — found(2773)·foundation(2774)·founder(2775)·fund(2790)·fundamentally(2792)·profound! a fundamental difference(근본적 차이), fundamental to(~에 필수적인), fundamental human rights(기본적 인권), get back to the fundamentals(기본으로 돌아가다). basic(기본적인)·essential(필수의)·underlying(근원적인)과 유의어. 반대 superficial(피상적인)·trivial(사소한).",
+  "syn": ["basic(기본적인)", "essential(필수의)", "underlying(근원적인)"],
+  "anti": ["superficial(피상적인)", "trivial(사소한)", "secondary(부차적인)"],
+  "idiom": ["fundamental to(~에 필수적인)", "fundamental rights(기본권)", "the fundamentals(기본 원리)"],
+  "colloc": ["a fundamental change(근본적 변화)", "fundamental rights(기본권)", "a fundamental difference(근본적 차이)"],
+  "ex_add": "There is a fundamental difference between the two theories.  (fundamental=근본적인)"
+ }
+]
