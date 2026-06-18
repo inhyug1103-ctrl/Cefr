@@ -1,0 +1,952 @@
+[
+ {
+  "num": "1942",
+  "hw": "pin",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "꽂아 고정하는 '핀' -> 꽂다·꼼짝 못 하게 누르다.",
+  "senses": [
+   "1) 핀·옷핀·압정",
+   "2) (동사) 핀으로 꽂다·고정하다",
+   "3) (pin down) 꼼짝 못 하게 하다·콕 집어내다"
+  ],
+  "etym": "고대 영어 pinn(나무못·말뚝). 라틴어 pinna(깃·뾰족한 끝)와 관련. '뾰족하게 꽂는 것'이 핵심. pinpoint(정확히 집어내다)가 합성어.",
+  "deriv": "'꽂는 핀' -> 동사 '꽂다(pin a note to the board)' -> 'pin down(꼼짝 못 하게 누르다·콕 집다)·pin up(붙여 두다)'. pinpoint(정확히 지목하다)가 파생. 한국 학습자: pins and needles(손발 저림, 1898 needle 참고), pin one's hopes on(~에 희망을 걸다), on pins and needles(안절부절), you could hear a pin drop(쥐 죽은 듯 조용한). safety pin(안전핀), drawing pin(압정, 영국).",
+  "syn": ["fasten(고정하다)", "tack(압정으로 붙이다)", "secure(고정하다)"],
+  "anti": ["unpin(핀을 빼다)", "release(풀다)"],
+  "idiom": ["pin down(꼼짝 못 하게 하다·확정하다)", "pin one's hopes on(~에 희망을 걸다)", "on pins and needles(안절부절못하는)", "hear a pin drop(쥐 죽은 듯 조용한)"],
+  "colloc": ["safety pin(안전핀)", "pin a badge(배지를 달다)", "pin up a poster(포스터를 붙이다)"],
+  "ex_add": "She pinned the notice to the board.  (pin=핀으로 꽂다)"
+ },
+ {
+  "num": "1943",
+  "hw": "pipe",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "액체·기체가 흐르는 '관' / 담배 파이프 / 피리.",
+  "senses": [
+   "1) (수도·가스) 관·배관",
+   "2) 담뱃대·파이프",
+   "3) 피리·관악기 / (동사) 관으로 보내다"
+  ],
+  "etym": "고대 영어 pīpe(피리·관) < 라틴어 pipare(삐삐 울다). 본래 '삐 소리 나는 피리'에서, 그 관 모양이 '배관'으로. 의성어 계열. pipeline(송유관)이 합성어.",
+  "deriv": "'피리(관)' -> 수도 '배관(a water pipe)' -> '담뱃대(smoke a pipe)' -> 'pipe down(조용히 하다)·pipe up(불쑥 말하다)'. pipeline(송유관·진행 과정)이 파생. 한국 학습자: in the pipeline(진행 중인·준비 중인), pipe dream(헛된 꿈, 아편 파이프의 환상에서), put that in your pipe and smoke it(받아들여라). bagpipes(백파이프), exhaust pipe(배기관).",
+  "syn": ["tube(관)", "duct(도관)", "conduit(도관)"],
+  "anti": [],
+  "idiom": ["in the pipeline(진행 중인)", "pipe down(조용히 해)", "a pipe dream(허황된 꿈)", "pipe up(불쑥 말을 꺼내다)"],
+  "colloc": ["water pipe(수도관)", "burst pipe(터진 관)", "gas pipe(가스관)"],
+  "ex_add": "A new product is in the pipeline for next year.  (in the pipeline=준비 중인)"
+ },
+ {
+  "num": "1944",
+  "hw": "place",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "사물이 있는 '자리·장소' -> 놓다·두다.",
+  "senses": [
+   "1) 장소·곳·자리",
+   "2) 위치·입장·처지 / 등수",
+   "3) (동사) 놓다·두다·배치하다"
+  ],
+  "etym": "라틴어 platea(넓은 거리) < 그리스어 plateia(넓은 길). '넓게 트인 곳'이 핵심. plaza(광장)·plate(접시)·plain(평평한)·plateau(고원)가 같은 plat-(넓고 평평한) 뿌리.",
+  "deriv": "'넓은 곳(자리)' -> '장소(a quiet place)' -> '처지(in your place, 네 입장이라면)' -> 동사 '놓다(place an order, 주문하다)'. plat-(평평한) 뿌리로 plaza·plate·plain과 묶인다. 한국 학습자: take place(일어나다), in place(제자리에·시행 중인), in place of(~ 대신에), out of place(어울리지 않는), take the place of(~을 대신하다), all over the place(여기저기·엉망인), place an order(주문하다).",
+  "syn": ["location(위치)", "spot(지점)", "put(놓다)"],
+  "anti": ["remove(치우다)", "displace(쫓아내다)"],
+  "idiom": ["take place(일어나다)", "in place of(~ 대신)", "out of place(어울리지 않는)", "all over the place(사방에·엉망인)", "put someone in their place(코를 납작하게 하다)"],
+  "colloc": ["meeting place(만남의 장소)", "place an order(주문하다)", "the right place(적절한 곳)"],
+  "ex_add": "The wedding will take place in June.  (take place=일어나다)"
+ },
+ {
+  "num": "1945",
+  "hw": "planning",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "미리 '판을 짜는' 일 = 계획 수립·기획.",
+  "senses": [
+   "1) 계획 수립·기획",
+   "2) (도시) 계획·설계",
+   "3) 사전 준비"
+  ],
+  "etym": "plan(계획) + -ning. plan < 프랑스어 plan(평면도) < 라틴어 planum(평평한 면). 본래 '바닥에 그린 평면 설계도'에서. plain(평평한)·plane(평면)과 한 planum(평면) 뿌리.",
+  "deriv": "plan(계획하다) -> 'planning(계획 수립)'. '기획(careful planning)' -> '도시 계획(town planning)'. planum(평면) 뿌리로 plain·plane과 묶인다. 한국 학습자: planning(계획하는 과정·활동, 불가산)과 plan(개별 계획, 가산)의 구별. forward planning(사전 계획), family planning(가족계획), urban planning(도시 계획), planning permission(건축 허가, 영국). need careful planning(세심한 계획이 필요하다).",
+  "syn": ["preparation(준비)", "organization(조직화)", "scheduling(일정 수립)"],
+  "anti": ["improvisation(즉흥)"],
+  "idiom": ["forward planning(사전 계획)", "family planning(가족계획)", "town planning(도시 계획)"],
+  "colloc": ["careful planning(세심한 계획)", "urban planning(도시 계획)", "planning stage(기획 단계)"],
+  "ex_add": "The event was a success thanks to careful planning.  (planning=계획 수립)"
+ },
+ {
+  "num": "1946",
+  "hw": "pleasant",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "마음에 들어 '기분 좋은·쾌적한'.",
+  "senses": [
+   "1) 기분 좋은·즐거운",
+   "2) (날씨·장소가) 쾌적한",
+   "3) (사람이) 상냥한·붙임성 있는"
+  ],
+  "etym": "고대 프랑스어 plaisant < plaisir(기쁨) < 라틴어 placere(마음에 들다). '마음을 흡족하게 하는'이 핵심. please(기쁘게 하다)·pleasure(기쁨, 1947)·placid(차분한)이 같은 placere(마음에 들다) 뿌리.",
+  "deriv": "placere(마음에 들다) -> 'pleasant(기분 좋은)'. 일·경험 '즐거운(a pleasant surprise)' -> 날씨 '쾌적한(pleasant weather)' -> 사람 '상냥한(a pleasant manner)'. placere 뿌리로 please·pleasure·placid와 묶인다. pleasantly(기분 좋게)가 부사. 한국 학습자: a pleasant surprise(뜻밖의 즐거움), make pleasant conversation(즐거운 대화를 나누다). unpleasant(불쾌한)이 반의. nice보다 약간 격식.",
+  "syn": ["enjoyable(즐거운)", "agreeable(쾌적한)", "delightful(유쾌한)"],
+  "anti": ["unpleasant(불쾌한)", "disagreeable(불쾌한)", "nasty(고약한)"],
+  "idiom": ["a pleasant surprise(뜻밖의 기쁨)", "pleasant dreams(좋은 꿈 꿔)"],
+  "colloc": ["pleasant weather(쾌적한 날씨)", "pleasant evening(즐거운 저녁)", "pleasant surprise(반가운 놀라움)"],
+  "ex_add": "We had a pleasant evening together.  (pleasant=즐거운)"
+ },
+ {
+  "num": "1947",
+  "hw": "pleasure",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "마음이 흡족한 '기쁨·즐거움'.",
+  "senses": [
+   "1) 기쁨·즐거움·쾌락",
+   "2) 즐거운 일",
+   "3) (인사) 천만에요·영광입니다"
+  ],
+  "etym": "고대 프랑스어 plaisir < 라틴어 placere(마음에 들다). '마음의 흡족함'이 핵심. please(기쁘게 하다)·pleasant(기분 좋은, 1946)·placid(잔잔한)가 같은 placere 뿌리.",
+  "deriv": "placere(마음에 들다) -> 'pleasure(기쁨)'. '즐거움(take pleasure in, ~을 즐기다)' -> 인사 'My pleasure(천만에요)'. placere 뿌리로 please·pleasant와 묶인다. 한국 학습자: with pleasure(기꺼이), It's a pleasure / My pleasure(천만에요·제가 더 기쁩니다), take pleasure in V-ing(~을 즐기다), business or pleasure(업무인가 여행인가), a guilty pleasure(남몰래 즐기는 것). pain(고통)이 반의.",
+  "syn": ["joy(기쁨)", "delight(즐거움)", "enjoyment(즐김)"],
+  "anti": ["pain(고통)", "displeasure(불쾌)", "misery(괴로움)"],
+  "idiom": ["with pleasure(기꺼이)", "my pleasure(천만에요)", "take pleasure in(~을 즐기다)", "business or pleasure(업무인지 여가인지)"],
+  "colloc": ["great pleasure(큰 기쁨)", "simple pleasure(소박한 즐거움)", "pure pleasure(순수한 즐거움)"],
+  "ex_add": "It's been a pleasure working with you.  (pleasure=기쁨·영광)"
+ },
+ {
+  "num": "1948",
+  "hw": "plenty",
+  "pos": "pron., adv.",
+  "cefr": "B1",
+  "core": "넘칠 만큼 '가득함' = 풍부·충분.",
+  "senses": [
+   "1) (plenty of) 많음·충분한 양",
+   "2) 풍부함·넉넉함",
+   "3) (부사) 충분히·넉넉히"
+  ],
+  "etym": "고대 프랑스어 plente < 라틴어 plenitas < plenus(가득 찬). '가득 참'이 핵심. full(가득한)·complete(완전한)·plus(더하기)·plural(복수)·supply(공급)이 같은 ple-(채우다·가득) 뿌리.",
+  "deriv": "plenus(가득 찬) -> 'plenty(풍부)'. 'plenty of(많은)' -> 부사 'plenty more(훨씬 더)'. ple-(가득) 뿌리로 full·complete·plural과 묶인다. plentiful(풍부한)이 형용사. 한국 학습자 핵심: plenty of + 셀 수 있는 명사(복수)·셀 수 없는 명사 모두(plenty of time, plenty of books). there's plenty(충분히 있다), plenty to do(할 일이 많은). a lot of와 유의어. shortage(부족)가 반의 개념.",
+  "syn": ["abundance(풍부)", "a lot of(많은)", "ample(충분한)"],
+  "anti": ["shortage(부족)", "scarcity(결핍)", "lack(부족)"],
+  "idiom": ["plenty of(많은)", "plenty more fish in the sea(세상에 사람은 많다)", "in plenty(풍부하게)"],
+  "colloc": ["plenty of time(충분한 시간)", "plenty of room(넉넉한 공간)", "plenty of money(많은 돈)"],
+  "ex_add": "There's plenty of food for everyone.  (plenty of=많은·충분한)"
+ },
+ {
+  "num": "1949",
+  "hw": "poem",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "운율로 '지어낸' 시 한 편.",
+  "senses": [
+   "1) 시·운문 작품",
+   "2) (한 편의) 시",
+   "3) (비유) 더없이 아름다운 것"
+  ],
+  "etym": "그리스어 poiema(지어낸 것·창작물) < poiein(만들다·창작하다). '말로 빚어낸 작품'이 핵심. poet(시인, 1950)·poetry(시문학, 1951)가 같은 poiein(만들다) 뿌리.",
+  "deriv": "poiein(만들다) -> 'poem(시)'. poiein(만들다) 뿌리로 poet·poetry와 한 가족 — 시인은 '만드는 사람', 시는 '만들어진 것'. 한국 학습자 핵심 3종 구별: poem(시 한 편, 가산)·poetry(시 문학 전체, 불가산)·poet(시인, 사람). write a poem(시를 쓰다), recite a poem(시를 낭송하다), a love poem(연애시). a poem about(~에 관한 시).",
+  "syn": ["verse(운문)", "rhyme(운문)", "lyric(서정시)"],
+  "anti": ["prose(산문)"],
+  "idiom": ["a prose poem(산문시)", "an epic poem(서사시)"],
+  "colloc": ["write a poem(시를 쓰다)", "love poem(사랑 시)", "short poem(짧은 시)"],
+  "ex_add": "She wrote a beautiful poem about the sea.  (poem=시 한 편)"
+ },
+ {
+  "num": "1950",
+  "hw": "poet",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "시를 '지어내는' 사람 = 시인.",
+  "senses": [
+   "1) 시인",
+   "2) 운문 작가",
+   "3) (비유) 감성이 풍부한 사람"
+  ],
+  "etym": "그리스어 poietes(만드는 이·창작자) < poiein(만들다·짓다). '말로 빚어내는 사람'이 핵심. poem(시, 1949)·poetry(시문학, 1951)가 같은 poiein(만들다) 뿌리.",
+  "deriv": "poiein(만들다) -> 'poet(시인)'. poiein(만들다) 뿌리로 poem·poetry와 한 가족. poetic(시적인)이 형용사. 한국 학습자: poet(시인, 사람)·poem(시, 작품)·poetry(시문학, 분야)를 함께 정리. poet laureate(계관시인), a born poet(타고난 시인). 발음 /ˈpəʊɪt/ 2음절. novelist(소설가)·playwright(극작가)와 함께 writer 무리.",
+  "syn": ["versifier(운문 작가)", "bard(음유시인)", "lyricist(작사가)"],
+  "anti": [],
+  "idiom": ["poet laureate(계관시인)", "a born poet(타고난 시인)"],
+  "colloc": ["famous poet(유명 시인)", "great poet(위대한 시인)", "romantic poet(낭만주의 시인)"],
+  "ex_add": "He is one of the greatest poets of his generation.  (poet=시인)"
+ },
+ {
+  "num": "1951",
+  "hw": "poetry",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "시라는 문학 갈래 전체 = 시문학·운문.",
+  "senses": [
+   "1) 시(문학)·운문",
+   "2) 시집·시작품 전체",
+   "3) (비유) 시적인 아름다움"
+  ],
+  "etym": "그리스어 poietes(시인) < poiein(만들다)에서. '시 짓는 일·시 전체'가 핵심. poem(시, 1949)·poet(시인, 1950)이 같은 poiein(만들다) 뿌리.",
+  "deriv": "poiein(만들다) -> 'poetry(시문학)'. poiein(만들다) 뿌리로 poem·poet와 한 가족. 한국 학습자 핵심: poetry는 불가산명사(시 전체·갈래) — a poetry(X), much poetry(O). 개별 시는 a poem. read poetry(시를 읽다), modern poetry(현대시), poetry in motion(물 흐르듯 아름다운 움직임). prose(산문)와 대비. a book of poetry(시집).",
+  "syn": ["verse(운문)", "poems(시들)"],
+  "anti": ["prose(산문)"],
+  "idiom": ["poetry in motion(물 흐르는 듯한 아름다움)", "a poetry reading(시 낭송회)"],
+  "colloc": ["read poetry(시를 읽다)", "write poetry(시를 짓다)", "modern poetry(현대시)"],
+  "ex_add": "I enjoy reading poetry in my free time.  (poetry=시문학, 불가산)"
+ },
+ {
+  "num": "1952",
+  "hw": "point",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "뾰족하게 '콕 찍은' 점 -> 요점·시점·점수 / 가리키다.",
+  "senses": [
+   "1) (뾰족한) 끝·점 / 요점·핵심",
+   "2) 시점·지점 / 점수·득점",
+   "3) (동사) 가리키다·향하게 하다"
+  ],
+  "etym": "라틴어 punctum(찔러서 낸 점) < pungere(찌르다). '뾰족하게 찍은 점'이 핵심. puncture(구멍 내기)·punctual(시간을 지키는)·punctuation(구두점)이 같은 pungere(찌르다) 뿌리.",
+  "deriv": "pungere(찌르다) -> 'point'. '점(a decimal point)' -> '요점(the main point)' -> '시점(at this point)' -> '점수' -> 동사 '가리키다(point at)'. pungere 뿌리로 puncture·punctual과 묶인다. 한국 학습자: point out(지적하다), point of view(관점), get to the point(요점을 말하다), there's no point in V-ing(~해 봐야 소용없다), make a point(주장하다), to the point(적절한), miss the point(요점을 놓치다).",
+  "syn": ["dot(점)", "aspect(요점)", "indicate(가리키다)"],
+  "anti": [],
+  "idiom": ["point out(지적하다)", "point of view(관점)", "get to the point(본론으로 가다)", "there's no point in(~해도 소용없다)", "miss the point(핵심을 놓치다)"],
+  "colloc": ["main point(요점)", "starting point(출발점)", "point at(~을 가리키다)"],
+  "ex_add": "There's no point in arguing about it now.  (no point in V-ing=~해도 소용없다)"
+ },
+ {
+  "num": "1953",
+  "hw": "poison",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "마시면 해로운 '독' -> 독을 넣다·해치다.",
+  "senses": [
+   "1) 독·독약",
+   "2) (동사) 독을 넣다·중독시키다",
+   "3) (비유) 해악·악영향"
+  ],
+  "etym": "고대 프랑스어 poison(독한 약·물약) < 라틴어 potio(마실 것·물약) < potare(마시다). 본래 '마시는 약(물약)'에서 '독약'으로. potion(물약)·potable(마실 수 있는)이 같은 potare(마시다) 뿌리 — poison과 potion은 한 뿌리의 이중어!",
+  "deriv": "potare(마시다) -> potio(물약) -> 'poison(독)'. '독약(rat poison, 쥐약)' -> 동사 '독을 넣다(poison the well)' -> 비유 '해악(poison a relationship, 관계를 망치다)'. potare 뿌리로 potion·potable과 묶인다 — poison(독)과 potion(물약)이 쌍둥이! poisonous(유독한, 1954)가 파생. 한국 학습자: food poisoning(식중독), one man's meat is another man's poison(사람마다 취향이 다르다), poison-pen letter(악의적 익명 편지).",
+  "syn": ["toxin(독소)", "venom(독액)", "contaminate(오염시키다)"],
+  "anti": ["antidote(해독제)", "cure(치료제)", "remedy(치료약)"],
+  "idiom": ["food poisoning(식중독)", "one man's meat is another man's poison(제각각 취향이 다르다)", "name your poison(뭘 마시겠어요?)"],
+  "colloc": ["deadly poison(치명적인 독)", "rat poison(쥐약)", "poison gas(독가스)"],
+  "ex_add": "Some mushrooms contain a deadly poison.  (poison=독)"
+ },
+ {
+  "num": "1954",
+  "hw": "poisonous",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "독이 들어 '유독한·해로운'.",
+  "senses": [
+   "1) 유독한·독이 있는",
+   "2) (관계·말이) 해로운·악의에 찬",
+   "3) 중독을 일으키는"
+  ],
+  "etym": "poison(독, 라틴어 potio 물약 < potare 마시다) + -ous(~이 가득한). potare(마시다) 뿌리로 poison(1953)·potion과 묶인다.",
+  "deriv": "poison(독) -> 'poisonous(유독한)'. '독이 있는(a poisonous snake)' -> 비유 '해로운(a poisonous atmosphere, 험악한 분위기)'. potare 뿌리. 한국 학습자: poisonous(독을 품은·해를 끼치는, 능동적 위험)와 venomous(독니로 무는, 뱀·곤충), toxic(독성의, 화학·심리)의 미세한 차이. a poisonous plant(독초), poisonous gas(유독 가스). 비유로 '악의에 찬'(a poisonous remark).",
+  "syn": ["toxic(독성의)", "venomous(독이 있는)", "deadly(치명적인)"],
+  "anti": ["harmless(무해한)", "safe(안전한)", "edible(먹을 수 있는)"],
+  "idiom": ["a poisonous atmosphere(험악한 분위기)", "poisonous tongue(독설)"],
+  "colloc": ["poisonous snake(독사)", "poisonous gas(유독 가스)", "poisonous plant(독초)"],
+  "ex_add": "Be careful — these berries are poisonous.  (poisonous=독이 있는)"
+ },
+ {
+  "num": "1955",
+  "hw": "policy",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "나라·조직을 운영하는 '방침·정책' / 보험 증권.",
+  "senses": [
+   "1) 정책·방침",
+   "2) (개인의) 원칙·신조",
+   "3) 보험 증권"
+  ],
+  "etym": "그리스어 politeia(국정·시민권) < polis(도시국가). '도시(국가)를 다스리는 방식'이 핵심. police(경찰)·politics(정치, 1958)·political(정치의, 1956)·metropolis(대도시)가 같은 polis(도시) 뿌리.",
+  "deriv": "polis(도시국가) -> 'policy(정책)'. 국정 '정책(foreign policy, 외교 정책)' -> 개인 '신조(Honesty is my policy)' -> '보험 증권(an insurance policy)'. polis(도시) 뿌리로 police·politics·metropolis와 묶인다. 한국 학습자: policy(정책·방침)와 politics(정치)·police(경찰)의 철자·뜻 구별. company policy(회사 방침), Honesty is the best policy(정직이 최선의 방책), policy maker(정책 입안자). 보험의 policy(증권)도 같은 단어.",
+  "syn": ["principle(원칙)", "strategy(전략)", "guideline(지침)"],
+  "anti": [],
+  "idiom": ["Honesty is the best policy(정직이 최선책)", "company policy(회사 방침)", "policy maker(정책 입안자)"],
+  "colloc": ["foreign policy(외교 정책)", "government policy(정부 정책)", "insurance policy(보험 증권)"],
+  "ex_add": "The company has a strict no-smoking policy.  (policy=방침)"
+ },
+ {
+  "num": "1956",
+  "hw": "political",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "나라를 다스리는 일에 관한 = 정치의·정치적인.",
+  "senses": [
+   "1) 정치의·정치에 관한",
+   "2) 정치적인·당파적인",
+   "3) 정략적인"
+  ],
+  "etym": "그리스어 politikos(시민·국정의) < polis(도시국가). '도시(국가)를 운영하는 일에 관한'이 핵심. politics(정치, 1958)·politician(정치인, 1957)·policy(정책, 1955)·police가 같은 polis(도시) 뿌리.",
+  "deriv": "polis(도시국가) -> 'political(정치의)'. '정치의(a political party, 정당)' -> '정치적인(a political decision)'. polis(도시) 뿌리로 politics·politician·policy와 묶인다. politically(정치적으로)가 부사. 한국 학습자: political(정치의, 형용사)·politics(정치, 명사)·politician(정치인)·policy(정책)를 한 뿌리(polis)로 묶어 정리. politically correct(정치적으로 올바른, PC), a political prisoner(정치범), political science(정치학).",
+  "syn": ["governmental(정부의)", "partisan(당파적인)"],
+  "anti": ["apolitical(정치와 무관한)", "nonpolitical(비정치적인)"],
+  "idiom": ["politically correct(정치적으로 올바른)", "a political animal(정치 지향적인 사람)", "political football(정쟁의 도구)"],
+  "colloc": ["political party(정당)", "political system(정치 체제)", "political power(정치권력)"],
+  "ex_add": "The two countries have strong political ties.  (political=정치적인)"
+ },
+ {
+  "num": "1957",
+  "hw": "politician",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "정치를 직업으로 하는 사람 = 정치인.",
+  "senses": [
+   "1) 정치인·정치가",
+   "2) (선출직) 의원·공직자",
+   "3) (부정적) 정략가"
+  ],
+  "etym": "politics(정치) + -ian(~하는 사람). polis(도시국가) 뿌리로 political(1956)·politics(1958)·policy와 묶인다. '국정을 다루는 사람'이 핵심.",
+  "deriv": "polis(도시국가) -> 'politician(정치인)'. polis(도시) 뿌리로 politics·political과 한 가족. -ian(전문가·종사자: musician, technician)이 붙은 직업명. 한국 학습자: politician(정치인, 종종 부정적 뉘앙스 — '표만 의식하는')과 statesman(정치가, 존경의 뉘앙스 — '나라를 위하는')의 결 차이. a career politician(직업 정치인), a corrupt politician(부패 정치인). -ian 직업 무리(musician·physician·electrician)로 기억.",
+  "syn": ["statesman(정치가)", "lawmaker(입법자)", "legislator(의원)"],
+  "anti": ["voter(유권자)", "citizen(시민)"],
+  "idiom": ["a career politician(직업 정치인)", "a seasoned politician(노련한 정치인)"],
+  "colloc": ["leading politician(거물 정치인)", "corrupt politician(부패 정치인)", "local politician(지역 정치인)"],
+  "ex_add": "Voters are tired of politicians who break their promises.  (politician=정치인)"
+ },
+ {
+  "num": "1958",
+  "hw": "politics",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "나라를 다스리는 일 = 정치 / 정치학 / 권력 다툼.",
+  "senses": [
+   "1) 정치·정치 활동",
+   "2) 정치학",
+   "3) (조직 내) 정치·세력 다툼 / 정치적 견해"
+  ],
+  "etym": "그리스어 ta politika(국정에 관한 것들) < polis(도시국가). 아리스토텔레스의 저서 제목에서. polis(도시) 뿌리로 political(1956)·politician(1957)·policy(1955)·police와 묶인다.",
+  "deriv": "polis(도시국가) -> 'politics(정치)'. 나라 '정치(go into politics, 정계에 입문하다)' -> 학문 '정치학' -> 조직 '세력 다툼(office politics, 사내 정치)'. polis(도시) 뿌리. 한국 학습자: politics는 보통 단수 취급(Politics is ~), 형태는 -s. office/workplace politics(사내 정치), play politics(정치적으로 행동하다), get into politics(정계에 들어가다), the politics of(~을 둘러싼 역학). -ics 학문 무리(economics, physics, mathematics).",
+  "syn": ["government(정치)", "statecraft(국정 운영)"],
+  "anti": [],
+  "idiom": ["go into politics(정계에 입문하다)", "play politics(정치적 술수를 부리다)", "office politics(사내 정치)", "dirty politics(추악한 정치)"],
+  "colloc": ["enter politics(정계에 입문하다)", "party politics(정당 정치)", "world politics(세계 정치)"],
+  "ex_add": "She decided to go into politics after college.  (politics=정치)"
+ },
+ {
+  "num": "1959",
+  "hw": "port",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "배가 드나드는 '항구' -> 접속 포트.",
+  "senses": [
+   "1) 항구·항만",
+   "2) 항구 도시",
+   "3) (컴퓨터) 포트·접속구 / (배의) 좌현"
+  ],
+  "etym": "라틴어 portus(항구·드나드는 곳). porta(문)와 친척으로 '드나드는 어귀'가 핵심. import(수입)·export(수출)·portable(휴대용)의 portare(나르다)와 의미상 통하는 친족 — 항구는 짐을 나르는 곳.",
+  "deriv": "portus(항구) -> 'port'. '항구(a busy port)' -> '항구 도시' -> 컴퓨터 '포트(a USB port)' -> 배의 '좌현'. porta(문)·portus(항구) 뿌리로 portal(관문)·porch(현관)와 묶인다. 한국 학습자: port(항구)와 harbor(항만, 배가 정박하는 물리적 공간)의 결 차이 — port는 시설·교역 중심지. a port of call(기항지), any port in a storm(궁할 때는 찬밥 더운밥 가리지 않는다), seaport(항구 도시), airport(공항, air+port).",
+  "syn": ["harbor(항만)", "dock(부두)", "haven(피난항)"],
+  "anti": [],
+  "idiom": ["a port of call(기항지)", "any port in a storm(다급할 땐 가릴 처지가 아니다)", "port of entry(입국항)"],
+  "colloc": ["busy port(붐비는 항구)", "fishing port(어항)", "USB port(USB 포트)"],
+  "ex_add": "The ship arrived at the port early in the morning.  (port=항구)"
+ },
+ {
+  "num": "1960",
+  "hw": "portrait",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "사람의 모습을 '끄집어내 그린' 초상화.",
+  "senses": [
+   "1) 초상화·인물 사진",
+   "2) (글로 그린) 인물 묘사",
+   "3) (인쇄) 세로 방향"
+  ],
+  "etym": "고대 프랑스어 portrait < portraire(그려 내다) = 라틴어 pro(앞으로) + trahere(끌다). '모습을 끄집어내 그림'이 핵심. attract(끌다, 1518)·extract(뽑아내다)·contract(계약)·tractor가 같은 trahere(끌다) 뿌리.",
+  "deriv": "pro(앞으로) + trahere(끌다) -> 'portrait(초상화)'. 그림 '초상화(paint a portrait)' -> 글 '인물 묘사(a portrait of rural life)' -> 인쇄 '세로 방향'. trahere(끌다) 뿌리로 attract·extract·contract와 묶인다 — 모습을 '끌어내' 그림. portray(묘사하다)가 동사. 한국 학습자: portrait(세로)와 landscape(가로)가 인쇄·화면 방향 용어로 짝. a self-portrait(자화상), a family portrait(가족사진).",
+  "syn": ["likeness(초상)", "depiction(묘사)", "image(이미지)"],
+  "anti": ["landscape(풍경화·가로 방향)"],
+  "idiom": ["a self-portrait(자화상)", "paint a portrait of(~을 그리다·묘사하다)"],
+  "colloc": ["paint a portrait(초상화를 그리다)", "family portrait(가족 사진)", "portrait gallery(초상화 전시실)"],
+  "ex_add": "The artist painted a portrait of the queen.  (portrait=초상화)"
+ },
+ {
+  "num": "1961",
+  "hw": "possibly",
+  "pos": "adv.",
+  "cefr": "B1",
+  "core": "어쩌면·아마 / (강조) 도저히.",
+  "senses": [
+   "1) 어쩌면·아마",
+   "2) (강조) 가능한 한·도저히",
+   "3) (정중한 요청) 혹시"
+  ],
+  "etym": "possible(가능한) + -ly. possible < 라틴어 possibilis < posse(할 수 있다) = potis(능력 있는) + esse(있다). '될 수 있는'이 핵심. possess(소유하다)·power(힘)·potent(강력한)가 같은 pot-(능력) 뿌리.",
+  "deriv": "posse(할 수 있다) -> possible(가능한) -> 'possibly(어쩌면)'. 추측 '아마(Possibly, but I'm not sure)' -> 강조 'can't possibly(도저히 ~할 수 없다)' -> 요청 'Could you possibly ~?(혹시 ~해 주실 수 있을까요?)'. pot-(능력) 뿌리로 possess·power·potent와 묶인다. 한국 학습자: possibly가 정중한 부탁(Could you possibly...?)과 강한 부정(I can't possibly accept)에서 자주. as ~ as possibly can(가능한 한). maybe·perhaps와 유의어.",
+  "syn": ["perhaps(아마)", "maybe(어쩌면)", "conceivably(아마도)"],
+  "anti": ["definitely(확실히)", "certainly(틀림없이)"],
+  "idiom": ["can't possibly(도저히 ~할 수 없다)", "could you possibly(혹시 ~해 주시겠어요)", "as ~ as one possibly can(가능한 한)"],
+  "colloc": ["possibly true(어쩌면 사실인)", "quite possibly(아마도)", "how could you possibly(어떻게 ~할 수 있겠어)"],
+  "ex_add": "Could you possibly help me with this?  (could you possibly=혹시 ~해 주시겠어요)"
+ },
+ {
+  "num": "1962",
+  "hw": "pot",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "둥글고 깊은 '냄비·항아리·화분'.",
+  "senses": [
+   "1) 냄비·솥",
+   "2) 항아리·단지·화분",
+   "3) 한 주전자(분량) / (구어) 큰돈"
+  ],
+  "etym": "고대 영어 pott(단지). 후기 라틴어 pottus와 관련. '둥글고 우묵한 그릇'이 핵심. potter(도공)·pottery(도자기)가 한 가족.",
+  "deriv": "'우묵한 그릇' -> '냄비(a cooking pot)' -> '화분(a flower pot)·찻주전자(a pot of tea)' -> 구어 '거금(a pot of money)'. pottery(도자기)가 파생. 한국 학습자: pots and pans(취사도구), the pot calling the kettle black(똥 묻은 개가 겨 묻은 개 나무란다), go to pot(엉망이 되다), keep the pot boiling(생계를 이어 가다), a watched pot never boils(서두른다고 빨리 되지 않는다). pot(구어로 '대마초' 뜻도).",
+  "syn": ["pan(냄비)", "jar(항아리)", "container(용기)"],
+  "anti": [],
+  "idiom": ["the pot calling the kettle black(누워서 침 뱉기)", "go to pot(엉망이 되다)", "a watched pot never boils(조급해한다고 빨리 되지 않는다)", "pots of money(엄청난 돈)"],
+  "colloc": ["cooking pot(요리 냄비)", "flower pot(화분)", "a pot of tea(차 한 주전자)"],
+  "ex_add": "She made a big pot of soup for dinner.  (pot=냄비)"
+ },
+ {
+  "num": "1963",
+  "hw": "pour",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "액체를 '죽 쏟아붓다' -> 퍼붓다·쏟아져 나오다.",
+  "senses": [
+   "1) (액체를) 붓다·따르다",
+   "2) (비가) 퍼붓다",
+   "3) (사람·물건이) 쏟아져 나오다·몰려들다"
+  ],
+  "etym": "중세 영어 pouren, 어원이 확실치 않음(고대 프랑스어 또는 켈트어 추정). '액체를 쏟아 흐르게 함'이 핵심. 발음은 /pɔː/로 poor·paw와 비슷.",
+  "deriv": "'쏟아붓다(pour water)' -> 비가 '퍼붓다(It's pouring)' -> 사람이 '쏟아져 나오다(People poured out of the stadium)' -> 'pour out one's heart(속마음을 털어놓다)'. 한국 학습자: pour(액체를 따르다)와 발음 같은 poor(가난한)·paw(발) 혼동 주의. It never rains but it pours(불행은 겹쳐 온다·왔다 하면 몰린다), pour cold water on(찬물을 끼얹다), pour money into(~에 돈을 쏟아붓다), pour over(쏟아지다). 비 올 때 pouring rain(억수 같은 비).",
+  "syn": ["spill(쏟다)", "stream(흘려보내다)", "flood(쏟아지다)"],
+  "anti": ["dribble(조금씩 흐르다)"],
+  "idiom": ["it never rains but it pours(불행은 겹친다)", "pour out one's heart(속내를 털어놓다)", "pour cold water on(찬물을 끼얹다)", "pour money into(~에 돈을 쏟다)"],
+  "colloc": ["pour water(물을 붓다)", "pouring rain(억수 같은 비)", "pour a drink(음료를 따르다)"],
+  "ex_add": "Let me pour you a cup of coffee.  (pour=따르다)"
+ },
+ {
+  "num": "1964",
+  "hw": "poverty",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "가진 게 없어 '가난함' = 빈곤.",
+  "senses": [
+   "1) 가난·빈곤",
+   "2) 결핍·부족",
+   "3) (질·내용의) 빈약함"
+  ],
+  "etym": "고대 프랑스어 poverte < 라틴어 paupertas < pauper(가난한). '가진 게 적음'이 핵심. poor(가난한)·pauper(빈민)·impoverish(가난하게 하다)가 같은 pauper(가난한) 뿌리.",
+  "deriv": "pauper(가난한) -> poor(가난한) -> 'poverty(빈곤)'. '가난(live in poverty)' -> '결핍(poverty of ideas, 발상의 빈곤)'. pauper(가난한) 뿌리로 poor·impoverish와 묶인다. 한국 학습자: poor(형용사)/poverty(명사) 짝. live in poverty(빈곤하게 살다), the poverty line(빈곤선), extreme poverty(극빈), poverty-stricken(찢어지게 가난한), below the poverty line(빈곤선 이하의). wealth(부)·affluence(풍족)가 반의.",
+  "syn": ["hardship(궁핍)", "destitution(빈곤)", "need(곤궁)"],
+  "anti": ["wealth(부)", "affluence(풍족)", "riches(부유)"],
+  "idiom": ["live in poverty(가난하게 살다)", "the poverty line(빈곤선)", "poverty-stricken(찢어지게 가난한)"],
+  "colloc": ["extreme poverty(극빈)", "fight poverty(빈곤과 싸우다)", "below the poverty line(빈곤선 이하)"],
+  "ex_add": "Millions of people still live in extreme poverty.  (poverty=빈곤)"
+ },
+ {
+  "num": "1965",
+  "hw": "powder",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "잘게 빻은 '가루·분말'.",
+  "senses": [
+   "1) 가루·분말",
+   "2) 화장 분·파우더",
+   "3) 화약 / 가루눈"
+  ],
+  "etym": "고대 프랑스어 poudre < 라틴어 pulvis(먼지·가루). '잘게 부순 가루'가 핵심. pulverize(가루로 만들다)·pollen(꽃가루)이 같은 pulvis(먼지) 뿌리.",
+  "deriv": "pulvis(먼지) -> 'powder(가루)'. '분말(baking powder, 베이킹파우더)' -> 화장 '분(face powder)' -> '화약(gunpowder)' -> 스키장 '가루눈(fresh powder)'. pulvis(먼지) 뿌리로 pulverize·pollen과 묶인다. powdered(가루로 된)·powdery(가루 같은)가 파생. 한국 학습자: keep one's powder dry(만일에 대비하다, 화약을 마른 채 두다), powder room(화장실, 완곡), take a powder(슬쩍 사라지다, 미국 속어). washing powder(가루 세제), milk powder(분유).",
+  "syn": ["dust(가루)", "granules(과립)"],
+  "anti": [],
+  "idiom": ["keep one's powder dry(만반의 준비를 하다)", "powder keg(일촉즉발의 상황)", "take a powder(몰래 떠나다)"],
+  "colloc": ["baking powder(베이킹파우더)", "washing powder(가루 세제)", "fine powder(고운 가루)"],
+  "ex_add": "Add two spoons of cocoa powder to the milk.  (powder=가루)"
+ },
+ {
+  "num": "1966",
+  "hw": "powerful",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "힘이 '가득한' = 강력한·영향력 있는.",
+  "senses": [
+   "1) 강력한·힘센",
+   "2) (영향력이) 막강한",
+   "3) (효과·감정이) 강렬한"
+  ],
+  "etym": "power(힘) + -ful(가득한). power < 고대 프랑스어 poeir < 라틴어 posse(할 수 있다). '힘이 가득한'이 핵심. possible(가능한)·possess(소유하다)·potent(강력한)가 같은 pot-/posse(능력) 뿌리.",
+  "deriv": "posse(할 수 있다) -> power(힘) -> 'powerful(강력한)'. 물리 '힘센(a powerful engine)' -> 정치 '막강한(a powerful leader)' -> 감정 '강렬한(a powerful speech)'. pot-(능력) 뿌리로 possible·possess·potent와 묶인다. powerfully(강력하게)·powerless(무력한)가 파생. 한국 학습자: powerful(강력한)·strong(튼튼한·강한)·mighty(웅장한)의 결 차이. a powerful argument(설득력 있는 논거). powerless(무력한)가 반의.",
+  "syn": ["strong(강한)", "mighty(강력한)", "influential(영향력 있는)"],
+  "anti": ["powerless(무력한)", "weak(약한)", "feeble(허약한)"],
+  "idiom": ["a powerful argument(설득력 있는 주장)", "the rich and powerful(부유하고 권력 있는 사람들)"],
+  "colloc": ["powerful engine(강력한 엔진)", "powerful leader(막강한 지도자)", "powerful effect(강력한 효과)"],
+  "ex_add": "She gave a powerful speech that moved everyone.  (powerful=강렬한)"
+ },
+ {
+  "num": "1967",
+  "hw": "practical",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "이론보다 '실제로 해 보는' = 실용적인·실제적인.",
+  "senses": [
+   "1) 실용적인·실질적인",
+   "2) 실제의·현실적인",
+   "3) (사람이) 실속 있는·손재주 있는"
+  ],
+  "etym": "그리스어 praktikos(행동적인) < prassein(행하다·해내다). '말이 아니라 실제로 함'이 핵심. practice(연습·실행)·pragmatic(실용적인)·practitioner(개업의)가 같은 prassein(행하다) 뿌리.",
+  "deriv": "prassein(행하다) -> 'practical(실용적인)'. '실용적인(practical advice)' -> '현실적인(a practical solution)' -> 사람 '실속 있는(a practical person)'. prassein 뿌리로 practice·pragmatic과 묶인다. practically(실질적으로·거의)가 부사. 한국 학습자: practical(실용적인)과 practicable(실행 가능한), theoretical(이론적인, 반의)의 구별. a practical joke(짓궂은 장난), for all practical purposes(사실상), practical experience(실무 경험). 영국 시험의 practical(실기 시험).",
+  "syn": ["useful(쓸모 있는)", "realistic(현실적인)", "hands-on(실제적인)"],
+  "anti": ["theoretical(이론적인)", "impractical(비현실적인)", "academic(탁상공론의)"],
+  "idiom": ["a practical joke(짓궂은 장난)", "for all practical purposes(사실상)", "practical experience(실무 경험)"],
+  "colloc": ["practical advice(실용적 조언)", "practical solution(현실적 해결책)", "practical skills(실용 기술)"],
+  "ex_add": "She gave me some practical advice about job hunting.  (practical=실용적인)"
+ },
+ {
+  "num": "1968",
+  "hw": "pray",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "신께 '간절히 빌다·기도하다'.",
+  "senses": [
+   "1) 기도하다",
+   "2) 간절히 빌다·바라다",
+   "3) (격식) 부디 ~하기를"
+  ],
+  "etym": "고대 프랑스어 preier < 라틴어 precari(간청하다·빌다) < prex(기도). '간절히 청함'이 핵심. prayer(기도, 1969)·precarious(불안정한, '빌어야 할 만큼')·deprecate(비난하다)가 같은 precari(빌다) 뿌리.",
+  "deriv": "precari(빌다) -> 'pray(기도하다)'. 종교 '기도하다(pray to God)' -> '간절히 바라다(We prayed for good weather)'. precari 뿌리로 prayer·precarious와 묶인다. 한국 학습자: pray(기도하다, 동사)와 prey(먹이·사냥감, 1969 아님)는 발음이 같아 혼동 주의! pray for(~을 위해 기도하다), pray that절. praying mantis(사마귀, 기도하는 자세). prey on(잡아먹다)과 헷갈리지 말 것.",
+  "syn": ["beseech(간청하다)", "plead(탄원하다)", "hope(바라다)"],
+  "anti": ["curse(저주하다)"],
+  "idiom": ["pray for(~을 위해 기도하다)", "a praying mantis(사마귀)", "pray to God(신에게 기도하다)"],
+  "colloc": ["pray for peace(평화를 기원하다)", "pray silently(조용히 기도하다)", "pray for help(도움을 빌다)"],
+  "ex_add": "They prayed for the safe return of the sailors.  (pray for=~을 위해 기도하다)"
+ },
+ {
+  "num": "1969",
+  "hw": "prayer",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "신께 비는 '기도(문)'.",
+  "senses": [
+   "1) 기도·기원",
+   "2) 기도문",
+   "3) 간절한 소망"
+  ],
+  "etym": "고대 프랑스어 preiere < 라틴어 precaria < precari(빌다). pray(기도하다, 1968)·precarious(불안정한)와 같은 precari(빌다) 뿌리. '간청'이 핵심.",
+  "deriv": "pray(기도하다) -> 'prayer(기도)'. '기도(say a prayer, 기도를 드리다)' -> '기도문(the Lord's Prayer, 주기도문)' -> '소망(My prayers were answered, 소원이 이뤄졌다)'. precari 뿌리. 한국 학습자: prayer가 '기도(행위)'와 '기도문(글)' 둘 다. 발음 주의 — '기도' prayer는 /preə/(1음절), '기도하는 사람' prayer는 /ˈpreɪə/(2음절)로 다름! answer a prayer(기도에 응답하다), a prayer book(기도서), not have a prayer(가망이 전혀 없다).",
+  "syn": ["plea(간청)", "supplication(탄원)", "blessing(축원)"],
+  "anti": [],
+  "idiom": ["say a prayer(기도하다)", "answer a prayer(기도에 응답하다)", "not have a prayer(가망이 없다)", "the Lord's Prayer(주기도문)"],
+  "colloc": ["silent prayer(묵상 기도)", "morning prayer(아침 기도)", "answer to prayer(기도의 응답)"],
+  "ex_add": "She said a quiet prayer before the exam.  (prayer=기도)"
+ },
+ {
+  "num": "1970",
+  "hw": "prediction",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "앞일을 '미리 말함' = 예측·예언.",
+  "senses": [
+   "1) 예측·예상",
+   "2) 예언·전망",
+   "3) 추정"
+  ],
+  "etym": "라틴어 praedictio < praedicere = prae(미리) + dicere(말하다). '미리 말함'이 핵심. predict(예측하다)·dictate(받아쓰게 하다)·indicate(나타내다, 1813)·contradict(반박하다)가 같은 dicere(말하다) 뿌리.",
+  "deriv": "prae(미리) + dicere(말하다) -> 'prediction(예측)'. '예측(make a prediction)' -> '예언'. dicere(말하다) 뿌리로 predict·dictate·indicate·contradict와 묶인다. prae-(미리)는 prepare·previous·pretend의 그 접두사. 한국 학습자: prediction(예측, 명사)/predict(예측하다, 동사)/predictable(예측 가능한). make a prediction(예측하다), a bold prediction(과감한 전망), weather prediction(일기예보). forecast와 유의어.",
+  "syn": ["forecast(예보)", "prophecy(예언)", "projection(추정)"],
+  "anti": ["hindsight(뒤늦은 깨달음)"],
+  "idiom": ["make a prediction(예측하다)", "a bold prediction(과감한 예측)", "against all predictions(모든 예상을 뒤엎고)"],
+  "colloc": ["accurate prediction(정확한 예측)", "make predictions(예측하다)", "gloomy prediction(암울한 전망)"],
+  "ex_add": "His prediction about the election turned out to be right.  (prediction=예측)"
+ },
+ {
+  "num": "1971",
+  "hw": "prepared",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "미리 '갖춰 둔' = 준비된 / ~할 의향이 있는.",
+  "senses": [
+   "1) 준비된·채비된",
+   "2) (be prepared to V) 기꺼이 ~할 의향이 있는",
+   "3) 미리 만들어 둔"
+  ],
+  "etym": "prepare(준비하다, 라틴어 praeparare = prae(미리) + parare 갖추다)의 과거분사. '미리 갖춰 둠'이 핵심. parare(갖추다) 뿌리로 prepare·repair(수리하다, 2034)·apparatus(장치)·parade가 묶인다.",
+  "deriv": "prepare(준비하다) -> 'prepared(준비된)'. '준비된(be well prepared)' -> 'be prepared to V(기꺼이 ~할 작정인)'. prae(미리) + parare(갖추다). parare 뿌리로 repair·apparatus와 묶인다. 한국 학습자 핵심 구별: be prepared for(~에 대비된, 명사)와 be prepared to V(기꺼이 ~할 의향이 있는, 동사)! Be prepared(준비하라, 보이스카우트 표어). a prepared statement(미리 작성한 성명). unprepared(준비 안 된)가 반의.",
+  "syn": ["ready(준비된)", "willing(기꺼이 하는)", "set(채비된)"],
+  "anti": ["unprepared(준비 안 된)", "unwilling(꺼리는)", "reluctant(주저하는)"],
+  "idiom": ["be prepared to V(기꺼이 ~하다)", "be prepared for(~에 대비하다)", "Be prepared(만반의 준비를)"],
+  "colloc": ["well prepared(잘 준비된)", "fully prepared(완전히 준비된)", "prepared for the worst(최악에 대비한)"],
+  "ex_add": "Are you prepared to take the risk?  (be prepared to V=기꺼이 ~할 의향이 있다)"
+ },
+ {
+  "num": "1972",
+  "hw": "presentation",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "남 '앞에 내보여' 발표함 = 프레젠테이션·제시.",
+  "senses": [
+   "1) 발표·프레젠테이션",
+   "2) 제시·제출·보여 주는 방식",
+   "3) 수여(식)"
+  ],
+  "etym": "present(제시하다, 라틴어 praesentare < prae(앞에) + esse 있다)의 명사형. '앞에 있게 함 = 내보임'이 핵심. present(현재의·선물)·essence(본질)·represent(나타내다, 2037)가 같은 esse(있다) 뿌리.",
+  "deriv": "present(내보이다) -> 'presentation(발표)'. '발표(give a presentation)' -> '제시 방식(the presentation of data)' -> '수여(a presentation ceremony)'. prae(앞) + esse(있다). esse 뿌리로 present·essence·represent와 묶인다. 한국 학습자: give/make a presentation(발표하다), a slide presentation(슬라이드 발표), presentation skills(발표 기술). present(동사 /prɪˈzent/ 발표하다 vs 명사 /ˈprezənt/ 선물·현재)의 강세 차이.",
+  "syn": ["talk(발표)", "demonstration(시연)", "display(전시)"],
+  "anti": [],
+  "idiom": ["give a presentation(발표하다)", "presentation skills(발표 능력)", "a presentation ceremony(수여식)"],
+  "colloc": ["business presentation(업무 발표)", "make a presentation(발표하다)", "slide presentation(슬라이드 발표)"],
+  "ex_add": "She gave an excellent presentation at the conference.  (presentation=발표)"
+ },
+ {
+  "num": "1973",
+  "hw": "press",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "'꾹 누르다' -> 압박하다 / 언론·인쇄기.",
+  "senses": [
+   "1) 누르다·눌러서 펴다·다리다",
+   "2) 압박하다·재촉하다",
+   "3) (the press) 언론·신문 / 인쇄기"
+  ],
+  "etym": "라틴어 pressare < premere(누르다). '꾹 누름'이 핵심. pressure(압력, 1974)·impression(인상, 1808)·express(표현하다)·depress(우울하게 하다)·printing(인쇄, 1982)이 같은 premere(누르다) 뿌리.",
+  "deriv": "premere(누르다) -> 'press'. 물리 '누르다(press a button)' -> '압박하다(press for an answer)' -> 'the press(언론, 인쇄기에서)'. premere 뿌리로 pressure·impression·express·print와 묶인다. 한국 학습자: press for(~을 강력히 요구하다), be pressed for time(시간에 쫓기다), press conference(기자 회견), press release(보도 자료), press charges(고소하다), the freedom of the press(언론 자유). 인쇄기(printing press)에서 '언론'이 나옴.",
+  "syn": ["push(누르다)", "urge(재촉하다)", "media(언론)"],
+  "anti": ["release(놓다)"],
+  "idiom": ["press for(~을 강하게 요구하다)", "be pressed for time(시간에 쫓기다)", "press conference(기자회견)", "freedom of the press(언론의 자유)"],
+  "colloc": ["press a button(버튼을 누르다)", "press release(보도 자료)", "the local press(지역 언론)"],
+  "ex_add": "Reporters pressed the minister for an answer.  (press for=~을 강하게 요구하다)"
+ },
+ {
+  "num": "1974",
+  "hw": "pressure",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "내리누르는 '압력' -> 정신적 압박·강요.",
+  "senses": [
+   "1) 압력·압박(물리)",
+   "2) (정신적) 부담·스트레스",
+   "3) 강요·압박(행위)"
+  ],
+  "etym": "라틴어 pressura < premere(누르다). press(누르다, 1973)·impression(인상)·express(표현)와 같은 premere(누르다) 뿌리. '눌리는 힘'이 핵심.",
+  "deriv": "premere(누르다) -> 'pressure(압력)'. 물리 '압력(air pressure, 기압)' -> 정신 '부담(under pressure, 압박을 받는)' -> '강요(put pressure on, ~에 압력을 가하다)'. premere 뿌리로 press·impression·express와 묶인다. 한국 학습자: under pressure(압박/스트레스를 받는), put pressure on(압박하다), peer pressure(또래 압력), blood pressure(혈압), pressure cooker(압력솥·극심한 스트레스 상황). pressure A into V-ing(A에게 ~하도록 강요하다).",
+  "syn": ["stress(스트레스)", "strain(부담)", "force(압력)"],
+  "anti": ["relief(완화)", "relaxation(이완)"],
+  "idiom": ["under pressure(압박을 받는)", "put pressure on(압력을 가하다)", "peer pressure(또래 압력)", "pressure cooker(극심한 스트레스 상황)"],
+  "colloc": ["blood pressure(혈압)", "high pressure(고압)", "financial pressure(재정 압박)"],
+  "ex_add": "He works well even under pressure.  (under pressure=압박을 받는)"
+ },
+ {
+  "num": "1975",
+  "hw": "pretend",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "사실인 양 '앞에 내세워' ~인 척하다.",
+  "senses": [
+   "1) ~인 척하다·가장하다",
+   "2) (~ to V) ~하는 체하다",
+   "3) (아이들이) ~ 놀이를 하다"
+  ],
+  "etym": "라틴어 praetendere = prae(앞에) + tendere(뻗다·내밀다). '앞에 내밀어 보임 = ~인 양 꾸밈'이 핵심. tendere(뻗다) 뿌리로 intend(의도하다, 1823)·extend·attend·tension·pretend가 묶인다.",
+  "deriv": "prae(앞) + tendere(뻗다) -> 'pretend(~인 척하다)'. tendere(뻗다) 뿌리로 intend·extend·attend와 묶인다 — 모두 '뻗다'. pretense(가식)·pretentious(허세 부리는)가 파생. 한국 학습자: pretend to V(~인 척하다), pretend (that)절, pretend to be(~인 체하다). pretend는 '꾸며 보이다', 같은 tendere 가족 intend는 '마음을 뻗다(의도)', extend는 '밖으로 뻗다(늘이다)'. just pretend(그냥 ~인 척해).",
+  "syn": ["feign(가장하다)", "fake(꾸미다)", "make believe(~인 체하다)"],
+  "anti": ["admit(인정하다)", "reveal(드러내다)"],
+  "idiom": ["pretend to V(~인 척하다)", "pretend not to(~ 안 하는 척하다)", "let's pretend(~라고 치자)"],
+  "colloc": ["pretend to be(~인 체하다)", "merely pretend(그저 ~인 척하다)", "pretend to sleep(자는 척하다)"],
+  "ex_add": "He pretended not to notice me.  (pretend to V=~하는 척하다)"
+ },
+ {
+  "num": "1976",
+  "hw": "previous",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "그것보다 '앞서 간' = 이전의·앞의.",
+  "senses": [
+   "1) 이전의·앞의",
+   "2) 먼젓번의",
+   "3) (previous to) ~보다 앞선"
+  ],
+  "etym": "라틴어 praevius = prae(앞에) + via(길). '길을 앞서 감'이 핵심. obvious(명백한, 1907)·via(경유)·viaduct(고가교)가 같은 via(길) 뿌리. obvious와 previous가 '같은 via(길) + 다른 접두사' 형제어!",
+  "deriv": "prae(앞) + via(길) -> 'previous(이전의)'. '이전의(the previous week, 전주)' -> 'previous to(~보다 앞선)'. via(길) 뿌리로 obvious·viaduct와 묶인다 — obvious(ob+via, 길 앞의=뻔한), previous(prae+via, 길 앞선=이전의)를 짝으로! previously(이전에, 1977)가 부사. 한국 학습자: previous(바로 앞의)와 former(둘 중 전자)·prior(앞선, 격식)의 구별. no previous experience(이전 경력 없음), the previous owner(전 주인).",
+  "syn": ["former(이전의)", "preceding(앞선)", "prior(앞선)"],
+  "anti": ["next(다음의)", "following(다음의)", "subsequent(그 후의)"],
+  "idiom": ["previous to(~보다 앞서)", "no previous experience(이전 경험 없음)"],
+  "colloc": ["previous experience(이전 경력)", "previous year(전년)", "the previous owner(이전 소유주)"],
+  "ex_add": "She had no previous experience in teaching.  (previous=이전의)"
+ },
+ {
+  "num": "1977",
+  "hw": "previously",
+  "pos": "adv.",
+  "cefr": "B1",
+  "core": "그 전에·이전에·미리.",
+  "senses": [
+   "1) 이전에·예전에",
+   "2) (~보다) 먼저",
+   "3) 그때까지"
+  ],
+  "etym": "previous(이전의, 라틴어 praevius = prae(앞) + via 길) + -ly. via(길) 뿌리로 previous(1976)·obvious와 묶인다.",
+  "deriv": "previous(이전의) -> 부사 'previously(이전에)'. '예전에(I had previously met her)'. via(길) 뿌리. 한국 학습자: previously는 보통 과거완료·과거시제와 함께 '(그 시점보다) 이전에'를 뜻함 — As previously mentioned(앞서 언급했듯이), previously unknown(이전엔 알려지지 않은), three years previously(그 3년 전에). before·earlier와 유의어이나 다소 격식.",
+  "syn": ["before(전에)", "earlier(이전에)", "formerly(예전에)"],
+  "anti": ["subsequently(그 후에)", "later(나중에)", "afterwards(이후)"],
+  "idiom": ["as previously mentioned(앞서 언급했듯이)", "previously unknown(이전엔 알려지지 않은)"],
+  "colloc": ["previously mentioned(앞서 언급된)", "previously recorded(미리 녹화된)", "previously owned(중고의)"],
+  "ex_add": "The building was previously used as a school.  (previously=이전에)"
+ },
+ {
+  "num": "1978",
+  "hw": "priest",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "종교 의식을 맡은 '사제·성직자'.",
+  "senses": [
+   "1) 사제·신부",
+   "2) 성직자·제사장",
+   "3) (특정 종교의) 사제"
+  ],
+  "etym": "고대 영어 prēost < 그리스어 presbyteros(연장자·장로). 초대 교회에서 '나이 든 지도자(장로)'가 '사제'로. presbyterian(장로교의)이 같은 presbyteros(연장자) 뿌리.",
+  "deriv": "presbyteros(연장자) -> 'priest(사제)'. presbyteros 뿌리로 Presbyterian(장로교)과 묶인다. priesthood(성직)·priestly(성직자의)가 파생. 한국 학습자: priest(가톨릭 신부·일반 사제)·minister/pastor(개신교 목사)·monk(수도승)·nun(수녀)·bishop(주교)의 종교별 구별. become a priest(사제가 되다), a parish priest(본당 신부), a high priest(대제사장).",
+  "syn": ["clergyman(성직자)", "minister(목사)", "father(신부)"],
+  "anti": ["layman(평신도)", "congregation(신도)"],
+  "idiom": ["a parish priest(본당 신부)", "a high priest(대제사장)"],
+  "colloc": ["Catholic priest(가톨릭 사제)", "become a priest(사제가 되다)", "village priest(마을 신부)"],
+  "ex_add": "The priest led the congregation in prayer.  (priest=사제)"
+ },
+ {
+  "num": "1979",
+  "hw": "primary",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "맨 '첫째가는' = 주된·기초의·초등의.",
+  "senses": [
+   "1) 주된·가장 중요한",
+   "2) 최초의·초기의 / 초등의",
+   "3) (미국) 예비 선거의"
+  ],
+  "etym": "라틴어 primarius < primus(첫째의). '첫째가는'이 핵심. prime(최고의)·primitive(원시의)·prince(군주, 1980)·principal(주요한)·first가 같은 prim-(첫째) 뿌리.",
+  "deriv": "primus(첫째) -> 'primary(주된)'. '가장 중요한(the primary cause, 주된 원인)' -> '초등의(primary school, 초등학교)' -> 미국 '예비 선거(the primaries)'. prim-(첫째) 뿌리로 prime·primitive·prince·principal과 묶인다. primarily(주로, 1929 particularly와 함께 정도부사)가 파생. 한국 학습자: primary school(영국 초등학교), primary colors(삼원색), of primary importance(가장 중요한), primary care(1차 진료). secondary(2차의)가 반의.",
+  "syn": ["main(주된)", "chief(으뜸의)", "fundamental(기초적인)"],
+  "anti": ["secondary(부차적인)", "minor(사소한)"],
+  "idiom": ["primary school(초등학교)", "primary colors(삼원색)", "of primary importance(가장 중요한)"],
+  "colloc": ["primary cause(주된 원인)", "primary concern(주요 관심사)", "primary source(1차 자료)"],
+  "ex_add": "Our primary concern is the safety of the children.  (primary=주된)"
+ },
+ {
+  "num": "1980",
+  "hw": "prince",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "'첫째가는 우두머리' = 왕자·군주.",
+  "senses": [
+   "1) 왕자",
+   "2) (소국의) 군주·제후",
+   "3) (비유) 제일인자·거물"
+  ],
+  "etym": "라틴어 princeps(우두머리) = primus(첫째) + capere(취하다). '맨 먼저 차지하는 자 = 으뜸'이 핵심. primary(주된, 1979)·principal(교장·주요한)·principle(원칙)이 같은 prim-(첫째)/capere(잡다) 뿌리.",
+  "deriv": "primus(첫째) + capere(잡다) -> 'prince(군주·왕자)'. '으뜸가는 자'에서. prim-(첫째) 뿌리로 primary·principal·principle과, capere(잡다) 뿌리로 capture·participate(1928)와 묶인다. princess(공주, 1981)·princely(왕자다운)가 파생. 한국 학습자: prince(왕자)·princess(공주)·king(왕)·queen(여왕)·royal(왕실의) 무리. Prince Charming(백마 탄 왕자), a prince among men(걸출한 인물), the Crown Prince(왕세자).",
+  "syn": ["monarch(군주)", "ruler(통치자)", "sovereign(주권자)"],
+  "anti": ["princess(공주)", "subject(신하)", "commoner(평민)"],
+  "idiom": ["Prince Charming(이상형 남자)", "a prince among men(훌륭한 인물)", "the Crown Prince(왕세자)"],
+  "colloc": ["crown prince(왕세자)", "young prince(어린 왕자)", "prince and princess(왕자와 공주)"],
+  "ex_add": "The young prince will one day become king.  (prince=왕자)"
+ },
+ {
+  "num": "1981",
+  "hw": "princess",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "왕의 딸 또는 왕자의 아내 = 공주.",
+  "senses": [
+   "1) 공주",
+   "2) 왕자비",
+   "3) (비유) 떠받들어진 여성"
+  ],
+  "etym": "prince(왕자·군주, 라틴어 princeps = primus 첫째 + capere 잡다) + -ess(여성형). prim-(첫째) 뿌리로 prince(1980)·primary와 묶인다.",
+  "deriv": "prince(왕자) + -ess(여성) -> 'princess(공주)'. -ess는 여성형 접미사(actor-actress, host-hostess, waiter-waitress). prim-(첫째) 뿌리로 prince·primary와 한 가족. 한국 학습자: -ess 여성 접미사 무리로 기억 — prince/princess, actor/actress, host/hostess. a fairy-tale princess(동화 속 공주), princess cut(프린세스 컷 다이아몬드), a Disney princess. 요즘은 성중립 표현을 선호해 -ess 형이 줄어드는 추세.",
+  "syn": ["royal(왕족)"],
+  "anti": ["prince(왕자)"],
+  "idiom": ["a fairy-tale princess(동화 속 공주)", "princess treatment(공주 대접)"],
+  "colloc": ["beautiful princess(아름다운 공주)", "young princess(어린 공주)", "royal princess(왕족 공주)"],
+  "ex_add": "In the story, the princess marries a brave knight.  (princess=공주)"
+ },
+ {
+  "num": "1982",
+  "hw": "printing",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "글자·그림을 '눌러 찍어 내는' 인쇄.",
+  "senses": [
+   "1) 인쇄(술)",
+   "2) (책의) 쇄·발행",
+   "3) 정자(正字) 쓰기"
+  ],
+  "etym": "print(인쇄하다) < 고대 프랑스어 preinte(눌린 자국) < 라틴어 premere(누르다). '눌러 찍은 자국'이 핵심. press(누르다·인쇄기, 1973)·impression(인상)·pressure(압력, 1974)가 같은 premere(누르다) 뿌리.",
+  "deriv": "premere(누르다) -> print(찍다) -> 'printing(인쇄)'. '인쇄술(the printing press, 인쇄기)' -> '쇄(the first printing)' -> '정자 쓰기'. premere 뿌리로 press·impression·pressure와 묶인다 — 인쇄는 '눌러 찍기'. 한국 학습자: printing press(인쇄기, 구텐베르크의 발명), 3D printing(3D 프린팅), fingerprinting(지문 채취), out of print(절판된), in print(출간 중인). printer(프린터·인쇄업자)가 파생.",
+  "syn": ["publishing(출판)", "typography(활자 인쇄)"],
+  "anti": ["handwriting(필기)"],
+  "idiom": ["the printing press(인쇄기)", "out of print(절판된)", "in print(인쇄·출간된)"],
+  "colloc": ["printing press(인쇄기)", "color printing(컬러 인쇄)", "3D printing(3D 프린팅)"],
+  "ex_add": "The invention of printing changed the world.  (printing=인쇄)"
+ },
+ {
+  "num": "1983",
+  "hw": "prisoner",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "붙잡혀 갇힌 사람 = 죄수·포로.",
+  "senses": [
+   "1) 죄수·수감자",
+   "2) 포로",
+   "3) (비유) ~에 사로잡힌 사람"
+  ],
+  "etym": "prison(감옥) + -er. prison < 라틴어 prehensio(붙잡음) < prehendere(붙잡다). '붙잡혀 갇힌 사람'이 핵심. comprehend(이해하다, '완전히 붙잡다')·apprehend(체포하다)가 같은 prehendere(붙잡다) 뿌리.",
+  "deriv": "prehendere(붙잡다) -> prison(감옥) -> 'prisoner(죄수)'. '수감자(release a prisoner)' -> '포로(a prisoner of war, 전쟁 포로 POW)' -> 비유 '사로잡힌 사람(a prisoner of one's past)'. prehendere 뿌리로 comprehend·apprehend와 묶인다. 한국 학습자: prisoner(죄수)·prison(감옥)·imprison(투옥하다). take someone prisoner(포로로 잡다), a political prisoner(정치범), hold someone prisoner(가둬 두다). inmate·convict와 유의어.",
+  "syn": ["inmate(재소자)", "captive(포로)", "convict(기결수)"],
+  "anti": ["guard(간수)", "free person(자유인)"],
+  "idiom": ["a prisoner of war(전쟁 포로, POW)", "take someone prisoner(포로로 잡다)", "a political prisoner(정치범)", "hold prisoner(가둬 두다)"],
+  "colloc": ["release a prisoner(죄수를 석방하다)", "escaped prisoner(탈옥수)", "prisoner of war(전쟁 포로)"],
+  "ex_add": "The prisoners were released after ten years.  (prisoner=죄수)"
+ },
+ {
+  "num": "1984",
+  "hw": "private",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "남과 '떼어 둔' = 개인의·사적인·비공개의.",
+  "senses": [
+   "1) 사적인·개인의",
+   "2) 비공개의·은밀한",
+   "3) 민간의·사립의"
+  ],
+  "etym": "라틴어 privatus(공직에서 물러난·개인의) < privare(떼어 내다·빼앗다) < privus(개별의). '공공에서 떼어 낸'이 핵심. deprive(빼앗다)·privilege(특권, '개인에게 주어진 법')·privacy(사생활)가 같은 priv-(개별) 뿌리.",
+  "deriv": "privus(개별) -> 'private(사적인)'. '개인의(private life, 사생활)' -> '비공개의(a private conversation)' -> '민간의(a private company, 사기업)'. priv-(개별) 뿌리로 deprive·privilege·privacy와 묶인다. privately(사적으로)가 부사. 한국 학습자: private(사적인)과 public(공공의, 반의)의 대비. in private(사적으로·은밀히), a private matter(사적인 일), private school(사립학교), Private!(사유지·관계자 외 출입금지).",
+  "syn": ["personal(개인의)", "confidential(비밀의)", "secluded(외진)"],
+  "anti": ["public(공공의)", "open(공개된)", "state(국영의)"],
+  "idiom": ["in private(은밀히)", "a private matter(사적인 일)", "private life(사생활)"],
+  "colloc": ["private life(사생활)", "private property(사유 재산)", "private school(사립학교)"],
+  "ex_add": "Can I speak to you in private for a moment?  (in private=은밀히)"
+ },
+ {
+  "num": "1985",
+  "hw": "producer",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "물건·작품을 '앞으로 내놓아 만드는' 사람·나라.",
+  "senses": [
+   "1) 생산자·생산국·제조사",
+   "2) (영화·방송) 제작자·프로듀서",
+   "3) (생태) 생산자"
+  ],
+  "etym": "produce(생산하다) < 라틴어 producere = pro(앞으로) + ducere(이끌다). '앞으로 이끌어 내놓음'이 핵심. ducere(이끌다) 뿌리로 educate(1683)·conduct·reduce·introduce가 묶인다.",
+  "deriv": "pro(앞으로) + ducere(이끌다) -> produce(만들어 내다) -> 'producer(생산자)'. 경제 '생산자(an oil producer, 산유국)' -> 영상 '제작자(a film producer)' -> 생태 '생산자(식물)'. ducere(이끌다) 뿌리로 educate·conduct·reduce와 묶인다. consumer(소비자, 1614)가 반의. production(생산, 1986)이 짝. 한국 학습자: -er(행위자) — produce(동사)/producer(생산자)/product(제품)/production(생산). a major producer(주요 생산국).",
+  "syn": ["manufacturer(제조사)", "maker(생산자)", "grower(재배자)"],
+  "anti": ["consumer(소비자)", "buyer(구매자)"],
+  "idiom": ["a film producer(영화 제작자)", "executive producer(총괄 제작자)"],
+  "colloc": ["major producer(주요 생산국)", "film producer(영화 제작자)", "leading producer(선도 생산자)"],
+  "ex_add": "Brazil is one of the world's largest coffee producers.  (producer=생산국)"
+ },
+ {
+  "num": "1986",
+  "hw": "production",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "'앞으로 내놓아 만들어 냄' = 생산·제작.",
+  "senses": [
+   "1) 생산·제조",
+   "2) 생산량·산출",
+   "3) (영화·연극) 제작·작품"
+  ],
+  "etym": "produce(생산하다, 라틴어 producere = pro(앞으로) + ducere 이끌다)의 명사형. ducere(이끌다) 뿌리로 producer(1985)·educate·conduct와 묶인다.",
+  "deriv": "pro(앞으로) + ducere(이끌다) -> 'production(생산)'. '생산(mass production, 대량 생산)' -> '생산량(increase production)' -> 영상 '제작(film production)'. ducere(이끌다) 뿌리로 produce·producer·conduct와 묶인다. 한국 학습자: in production(생산 중인), go into production(생산에 들어가다), mass production(대량 생산), production line(생산 라인), a stage production(무대 작품). produce/producer/product/production 가족으로 정리.",
+  "syn": ["manufacturing(제조)", "output(산출)", "creation(제작)"],
+  "anti": ["consumption(소비)", "destruction(파괴)"],
+  "idiom": ["mass production(대량 생산)", "in production(생산 중인)", "go into production(생산에 들어가다)"],
+  "colloc": ["mass production(대량 생산)", "production line(생산 라인)", "increase production(생산을 늘리다)"],
+  "ex_add": "The factory increased production to meet demand.  (production=생산)"
+ },
+ {
+  "num": "1987",
+  "hw": "profession",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "공개적으로 '내세워 밝힌' 전문 직업.",
+  "senses": [
+   "1) (전문) 직업",
+   "2) (the ~) 동업자 집단·업계",
+   "3) (격식) 공언·표명"
+  ],
+  "etym": "라틴어 professio(공개 선언) < profiteri = pro(앞에서·공개적으로) + fateri(고백하다·말하다). 본래 '공언한 천직'에서 '전문직'으로. confess(고백하다)·confession이 같은 fateri(말하다) 뿌리.",
+  "deriv": "pro(공개적으로) + fateri(말하다) -> 'profession(전문직)'. '전문 직업(the medical profession, 의료계)' -> '공언(a profession of love)'. fateri(말하다) 뿌리로 confess와 묶인다. professional(전문적인)·professor(교수, '공개적으로 가르치는 이')가 파생. 한국 학습자: profession(전문 지식이 필요한 직업: 의사·변호사)과 job(일반 일자리)·occupation(직업, 격식)·career(경력)의 결 차이. by profession(직업상), enter a profession(직업에 입문하다).",
+  "syn": ["occupation(직업)", "career(경력)", "vocation(천직)"],
+  "anti": ["hobby(취미)", "amateur(아마추어 활동)"],
+  "idiom": ["by profession(직업상)", "the oldest profession(가장 오래된 직업)", "enter the profession(그 분야에 입문하다)"],
+  "colloc": ["medical profession(의료직)", "teaching profession(교직)", "legal profession(법조계)"],
+  "ex_add": "She is a lawyer by profession.  (by profession=직업상)"
+ },
+ {
+  "num": "1988",
+  "hw": "profit",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "들인 것보다 '앞서 남는' 이익·수익.",
+  "senses": [
+   "1) (금전적) 이익·수익",
+   "2) 흑자",
+   "3) (격식) 득·이득"
+  ],
+  "etym": "라틴어 profectus(진전·이득) < proficere = pro(앞으로) + facere(만들다). '앞으로 나아가 만들어 낸 이득'이 핵심. facere(만들다) 뿌리로 effect·perfect·fact·factory·effective가 묶인다.",
+  "deriv": "pro(앞으로) + facere(만들다) -> 'profit(이익)'. '수익(make a profit, 이윤을 내다)' -> '흑자' -> '득(profit from experience)'. facere(만들다) 뿌리로 effect·perfect와 묶인다. profitable(수익성 있는)·profiteer(폭리꾼)가 파생. loss(손실, 1865)가 반의. 한국 학습자: profit(이익)과 benefit(혜택, 1540)·gain(이득)·revenue(매출, 비용 차감 전)의 구별. net profit(순이익), profit margin(이윤 폭), non-profit(비영리의), profit from(~에서 이득을 보다).",
+  "syn": ["gain(이득)", "earnings(수익)", "return(수익)"],
+  "anti": ["loss(손실)", "deficit(적자)"],
+  "idiom": ["make a profit(이익을 내다)", "profit from(~에서 득을 보다)", "profit margin(이윤 폭)", "non-profit(비영리의)"],
+  "colloc": ["net profit(순이익)", "huge profit(막대한 이익)", "profit and loss(손익)"],
+  "ex_add": "The company made a large profit last year.  (profit=이익)"
+ },
+ {
+  "num": "1989",
+  "hw": "program",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "'미리 써 둔' 계획표·방송 프로·컴퓨터 프로그램.",
+  "senses": [
+   "1) (방송·공연) 프로그램·순서",
+   "2) (활동) 계획·일정·제도",
+   "3) (컴퓨터) 프로그램 / (동사) 프로그래밍하다"
+  ],
+  "etym": "그리스어 programma(공고문) = pro(미리·앞에) + graphein(쓰다). '미리 써서 내건 것'이 핵심. graph(그래프)·diagram(도해, 1655)·photography(사진술, 1941)가 같은 graphein(쓰다) 뿌리.",
+  "deriv": "pro(미리) + graphein(쓰다) -> 'program(프로그램)'. '방송 프로(a TV program)' -> '계획·제도(a training program)' -> 컴퓨터 '프로그램'. graphein(쓰다) 뿌리로 graph·diagram·photography와 묶인다. 한국 학습자: 영국식 철자 programme(컴퓨터 프로그램은 영국도 program), 미국식 program. programmer(프로그래머), a space program(우주 계획), a fitness program(운동 프로그램). 동사 program-programmed-programmed.",
+  "syn": ["schedule(일정)", "plan(계획)", "software(소프트웨어)"],
+  "anti": [],
+  "idiom": ["a TV program(텔레비전 프로그램)", "a training program(연수 과정)", "get with the program(시류에 따르다)"],
+  "colloc": ["computer program(컴퓨터 프로그램)", "training program(교육 프로그램)", "TV program(TV 방송)"],
+  "ex_add": "They launched a new training program for staff.  (program=프로그램·과정)"
+ },
+ {
+  "num": "1990",
+  "hw": "promote",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "'앞으로 밀어' 올리다 -> 승진시키다·촉진하다·홍보하다.",
+  "senses": [
+   "1) 승진시키다",
+   "2) 촉진하다·증진하다",
+   "3) 홍보하다·판촉하다"
+  ],
+  "etym": "라틴어 promovere = pro(앞으로) + movere(움직이다). '앞으로 밀어 올림'이 핵심. movere(움직이다) 뿌리로 move(1884)·emotion(1694)·remove·motion·remote(2032)가 묶인다.",
+  "deriv": "pro(앞으로) + movere(움직이다) -> 'promote(승진시키다)'. 직위를 '올리다(be promoted to manager)' -> 발전을 '촉진하다(promote health)' -> 상품을 '홍보하다(promote a new product)'. movere(움직이다) 뿌리로 move·emotion·remove·remote와 묶인다. promotion(승진·판촉)이 명사. 한국 학습자: be promoted to(~로 승진하다), promote A to B, demote(강등시키다)가 반의. promote understanding(이해를 증진하다), self-promotion(자기 홍보).",
+  "syn": ["advance(승진시키다)", "encourage(촉진하다)", "advertise(홍보하다)"],
+  "anti": ["demote(강등시키다)", "discourage(저해하다)", "hinder(방해하다)"],
+  "idiom": ["be promoted to(~로 승진하다)", "promote understanding(이해를 증진하다)", "self-promotion(자기 홍보)"],
+  "colloc": ["promote growth(성장을 촉진하다)", "promote a product(상품을 홍보하다)", "promote health(건강을 증진하다)"],
+  "ex_add": "She was promoted to senior manager last month.  (be promoted to=~로 승진하다)"
+ },
+ {
+  "num": "1991",
+  "hw": "proper",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "'제 것에 꼭 맞는' = 적절한·제대로 된.",
+  "senses": [
+   "1) 적절한·올바른·제대로 된",
+   "2) (격식·예절에) 맞는·점잖은",
+   "3) (명사 뒤) 본래 의미의·엄밀한"
+  ],
+  "etym": "라틴어 proprius(자기 자신의·고유한). '제 것에 꼭 맞는'이 핵심. property(재산·속성, 1993)·appropriate(적절한)·proper가 같은 proprius(고유한) 뿌리.",
+  "deriv": "proprius(고유한) -> 'proper(적절한)'. '제대로 된(the proper way, 올바른 방식)' -> 예절에 '맞는(proper behavior)' -> '엄밀한(the city proper, 시내 본 구역)'. proprius 뿌리로 property·appropriate와 묶인다. properly(제대로, 1992)가 부사. 한국 학습자: a proper noun(고유명사), in the proper sense(엄밀한 의미에서), do something properly(제대로 하다). 영국 구어로 proper가 '진짜·완전한'(a proper mess, 완전 엉망)으로도. improper(부적절한)가 반의.",
+  "syn": ["appropriate(적절한)", "correct(올바른)", "suitable(알맞은)"],
+  "anti": ["improper(부적절한)", "wrong(잘못된)", "inappropriate(어울리지 않는)"],
+  "idiom": ["a proper noun(고유명사)", "the proper way(올바른 방식)", "in the proper sense(엄밀한 의미로)"],
+  "colloc": ["proper way(올바른 방식)", "proper training(제대로 된 훈련)", "proper procedure(적절한 절차)"],
+  "ex_add": "There's a proper way to do this.  (proper=올바른·제대로 된)"
+ }
+]
