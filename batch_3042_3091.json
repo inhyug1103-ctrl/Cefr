@@ -1,0 +1,952 @@
+[
+ {
+  "num": "3042",
+  "hw": "mistake",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "잘못 집음 -> '실수·잘못 / 오해하다·착각하다'.",
+  "senses": [
+   "1) 실수·잘못·오류",
+   "2) (동사) 오해하다·착각하다",
+   "3) (mistake A for B) A를 B로 잘못 알다"
+  ],
+  "etym": "mis-(잘못) + take(잡다·취하다, 고대 노르드어 taka). '잘못(mis) 집음·잘못 받아들임'이 핵심. take(잡다)는 mistake·undertake(떠맡다)·overtake(추월하다)의 갈래. 과거형 mistake-mistook-mistaken(불규칙).",
+  "deriv": "mis-(잘못) + take(잡다) -> 'mistake'. '잘못 집음 -> 실수(make a mistake, 실수하다)' -> 동사 '오해하다·착각하다(mistake A for B, A를 B로 착각하다)'. 한국 학습자 핵심: 과거형 mistake-mistook-mistaken! make a mistake(실수하다 — do a mistake는 틀림!), by mistake(실수로), there's no mistaking(틀림없다), mistake A for B(A를 B로 잘못 알다), a costly mistake(값비싼 실수), learn from one's mistakes(실수에서 배우다). error(오류)·blunder(큰 실수)·slip(실수)과 유의어. 반대 accuracy(정확).",
+  "syn": ["error(오류)", "blunder(큰 실수)", "slip(실수)"],
+  "anti": ["accuracy(정확)", "correctness(정확함)"],
+  "idiom": ["make a mistake(실수하다)", "by mistake(실수로)", "mistake A for B(A를 B로 착각하다)", "learn from one's mistakes(실수에서 배우다)"],
+  "colloc": ["make a mistake(실수하다)", "a costly mistake(값비싼 실수)", "by mistake(실수로)"],
+  "ex_add": "I took your bag by mistake; sorry!  (by mistake=실수로)"
+ },
+ {
+  "num": "3043",
+  "hw": "mixed",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "섞인 -> '뒤섞인·혼성의 / 엇갈리는'.",
+  "senses": [
+   "1) 뒤섞인·혼합의·여러 가지의",
+   "2) 남녀 혼성의·여러 부류가 섞인",
+   "3) (반응·감정이) 엇갈리는·복합적인"
+  ],
+  "etym": "mix(섞다)의 과거분사. mix는 라틴어 miscere(섞다). '여러 가지를 한데 섞은'이 핵심. miscere(섞다)는 mixture(혼합물)·miscellaneous(잡다한)·promiscuous(난잡한)의 뿌리.",
+  "deriv": "miscere(섞다) -> mix -> 'mixed'. '섞인 -> 뒤섞인(a mixed group, 잡다한 무리)·혼성의(a mixed school, 남녀공학)' -> '엇갈리는(mixed feelings, 복잡한 심정)'. 한국 학습자 핵심: miscere(섞다) 갈래 — mix·mixture(혼합물)·miscellaneous(갖가지의)·promiscuous! mixed feelings(엇갈린 감정), a mixed reaction(엇갈린 반응), a mixed bag(좋고 나쁨이 섞인 것), mixed results(엇갈린 결과), a mixed blessing(좋기도 나쁘기도 한 것), mixed race(혼혈). varied(다양한)·assorted(여러 가지의)·combined(혼합된)과 유의어. 반대 pure(순수한)·uniform(균일한).",
+  "syn": ["varied(다양한)", "assorted(여러 가지의)", "combined(혼합된)"],
+  "anti": ["pure(순수한)", "uniform(균일한)", "single(단일의)"],
+  "idiom": ["mixed feelings(엇갈린 감정)", "a mixed bag(좋고 나쁨이 섞인 것)", "a mixed blessing(좋기도 나쁘기도 한 것)"],
+  "colloc": ["mixed feelings(복잡한 심정)", "a mixed reaction(엇갈린 반응)", "mixed results(엇갈린 결과)"],
+  "ex_add": "I have mixed feelings about leaving my hometown.  (mixed=엇갈리는)"
+ },
+ {
+  "num": "3044",
+  "hw": "mode",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "재는 방식 -> '방식·양식 / (기기) 모드'.",
+  "senses": [
+   "1) 방식·방법·양식",
+   "2) (기기의) 모드·작동 상태",
+   "3) 유행·풍조 / (음악) 선법"
+  ],
+  "etym": "라틴어 modus(척도·방식·한도). '일정한 척도·방식'이 핵심. modus는 model(3045)·modest(3046)·modify(3047)·moderate(적당한)·modern(현대의)·accommodate(맞추다)의 거대한 뿌리.",
+  "deriv": "modus(방식) -> 'mode'. '재는 방식 -> 방식·양식(a mode of transport, 교통수단)' -> 기기 '모드(airplane mode, 비행기 모드)'. 한국 학습자 핵심: modus(방식·척도) 대가족 — model(3045)·modest(3046)·modify(3047)·moderate(온건한)·modern·accommodate·commodity(상품)·module(모듈)! a mode of transport/communication(교통·소통 방식), safe mode(안전 모드), switch to ~ mode(~ 모드로 전환하다), be in survival mode(생존 모드에 들어가다). method(방법)·manner(방식)·way(방식)와 유의어.",
+  "syn": ["method(방법)", "manner(방식)", "way(방식)"],
+  "anti": [],
+  "idiom": ["a mode of transport(교통수단)", "airplane mode(비행기 모드)", "in survival mode(생존 모드)"],
+  "colloc": ["a mode of transport(교통수단)", "safe mode(안전 모드)", "a mode of communication(소통 방식)"],
+  "ex_add": "The phone was switched to silent mode.  (mode=모드)"
+ },
+ {
+  "num": "3045",
+  "hw": "model",
+  "pos": "n., v., adj.",
+  "cefr": "B2",
+  "core": "작은 본 -> '모형·본보기·모델 / 본떠 만들다'.",
+  "senses": [
+   "1) 모형·축소 모형 / 모델·기종",
+   "2) 본보기·모범 / (패션) 모델",
+   "3) (동사) 모형을 만들다·본떠 만들다 / 모델로 활동하다"
+  ],
+  "etym": "라틴어 modulus(작은 척도) <- modus(척도·방식)의 축소형 -> 이탈리아어 modello. '본이 되는 작은 척도'가 핵심. mode(3044)·modest(3046)·modify(3047)와 한 modus 갈래.",
+  "deriv": "modus(척도) -> modulus -> 'model'. '작은 본 -> 모형(a model airplane, 모형 비행기)·기종(the latest model)' -> '본보기(a role model, 본받을 사람)·패션 모델' -> 동사 '본떠 만들다(model A on B)'. 한국 학습자 핵심: modus(척도) 대가족 — mode(3044)·modest(3046)·modify(3047)·moderate·modern·module·accommodate! a role model(롤 모델·귀감), a model student(모범생), the latest model(최신 기종), model oneself on(~을 본받다), be modeled on(~을 본떠 만들다). example(본보기)·prototype(원형)·replica(복제품)와 유의어.",
+  "syn": ["example(본보기)", "prototype(원형)", "replica(모형)"],
+  "anti": [],
+  "idiom": ["a role model(롤 모델)", "a model student(모범생)", "be modeled on(~을 본떠 만들어지다)"],
+  "colloc": ["a role model(본받을 사람)", "the latest model(최신 모델)", "a model airplane(모형 비행기)"],
+  "ex_add": "She is a wonderful role model for young girls.  (model=본보기)"
+ },
+ {
+  "num": "3046",
+  "hw": "modest",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "분수를 지키는 -> '겸손한·적당한·수수한'.",
+  "senses": [
+   "1) 겸손한·잘난 체하지 않는",
+   "2) (크기·정도가) 적당한·그리 크지 않은",
+   "3) 수수한·소박한 / 정숙한"
+  ],
+  "etym": "라틴어 modestus(절도를 지키는) <- modus(척도·한도). '분수(modus)를 지켜 넘치지 않는'이 핵심. mode(3044)·model(3045)·modify(3047)·moderate(적당한)와 한 modus 갈래.",
+  "deriv": "modus(한도) -> modestus -> 'modest'. '분수를 지키는 -> 겸손한(a modest person)·적당한(a modest income, 그리 많지 않은 수입)·수수한(a modest house)'. 한국 학습자 핵심: modus(척도·한도) 대가족 — mode(3044)·model(3045)·modify(3047)·moderate(온건한)·modern·modesty(겸손)! a modest increase(소폭 증가), a modest salary(많지 않은 봉급), too modest(너무 겸손한), modest in size(크기가 아담한). humble(겸손한)·unassuming(겸손한)·moderate(적당한)와 유의어. 반대 arrogant(거만한)·boastful(자랑하는)·grand(2821, 거창한).",
+  "syn": ["humble(겸손한)", "unassuming(겸손한)", "moderate(적당한)"],
+  "anti": ["arrogant(거만한)", "boastful(자랑하는)", "grand(거창한)"],
+  "idiom": ["a modest increase(소폭 증가)", "too modest(너무 겸손한)", "modest in size(아담한)"],
+  "colloc": ["a modest person(겸손한 사람)", "a modest income(많지 않은 수입)", "a modest increase(소폭 증가)"],
+  "ex_add": "Despite his success, he remained modest.  (modest=겸손한)"
+ },
+ {
+  "num": "3047",
+  "hw": "modify",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "척도를 손보다 -> '수정하다·변경하다·조절하다'.",
+  "senses": [
+   "1) (부분적으로) 수정하다·변경하다",
+   "2) 조절하다·완화하다",
+   "3) (문법) 수식하다"
+  ],
+  "etym": "라틴어 modificare = modus(척도) + facere(만들다) -> '척도(modus)를 손봐 만듦'. mode(3044)·model(3045)·modest(3046)와 한 modus 갈래. facere(만들다)는 -fy 동사의 뿌리.",
+  "deriv": "modus(척도) + facere(만들다) -> 'modify'. '척도를 손보다 -> 수정하다(modify a plan, 계획을 수정하다)·조절하다·완화하다'. 한국 학습자 핵심: modus(척도) 대가족 — mode(3044)·model(3045)·modest(3046)·moderate·modern·accommodate! genetically modified(유전자 변형된, GMO, 2804 genetic), modify behavior(행동을 바꾸다), slightly modify(약간 수정하다), a modified version(수정판), modification(수정). adjust(조정하다)·alter(바꾸다)·amend(개정하다)와 유의어. -fy(=만들다) 동사: clarify(2428)·justify(2957)·simplify. 반대 maintain(3001, 유지하다)·preserve(보존하다).",
+  "syn": ["adjust(조정하다)", "alter(바꾸다)", "amend(개정하다)"],
+  "anti": ["maintain(유지하다)", "preserve(보존하다)", "keep(그대로 두다)"],
+  "idiom": ["genetically modified(유전자 변형의)", "a modified version(수정판)"],
+  "colloc": ["modify a plan(계획을 수정하다)", "genetically modified(유전자 변형의)", "slightly modify(약간 변경하다)"],
+  "ex_add": "We had to modify the design to cut costs.  (modify=수정하다)"
+ },
+ {
+  "num": "3048",
+  "hw": "monitor",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "일깨워 살피다 -> '감시·관찰하다 / 화면·감시 장치'.",
+  "senses": [
+   "1) 감시·관찰하다·추적하다",
+   "2) (컴퓨터) 모니터·화면",
+   "3) 감시 장치 / (학급) 반장"
+  ],
+  "etym": "라틴어 monitor(일깨우는 사람·감독자) <- monere(일깨우다·경고하다). '주의를 일깨워(monere) 살핌'이 핵심. monere(경고)는 monster(3049)·monument(3051)·demonstrate(2572)·summon(소환하다)·premonition(예감)·admonish(타이르다)의 뿌리.",
+  "deriv": "monere(일깨우다) -> 'monitor'. '일깨워 살피다 -> 감시·관찰하다(monitor progress, 진척을 지켜보다)' -> '화면·감시 장치(a heart monitor, 심장 모니터)'. 한국 학습자 핵심: monere(경고·일깨움) 대가족 — monster(3049)·monument(3051)·demonstrate(2572)·summon·premonition·admonish·monitory! monitor closely(면밀히 감시하다), monitor the situation(상황을 주시하다), a baby monitor(아기 모니터), a computer monitor(컴퓨터 모니터). watch(지켜보다)·observe(3097, 관찰하다)·track(추적하다)과 유의어.",
+  "syn": ["observe(관찰하다)", "watch(지켜보다)", "track(추적하다)"],
+  "anti": ["ignore(무시하다)", "neglect(방치하다)"],
+  "idiom": ["monitor closely(면밀히 감시하다)", "monitor the situation(상황을 주시하다)", "a baby monitor(아기 모니터)"],
+  "colloc": ["monitor progress(진척을 살피다)", "monitor closely(면밀히 감시하다)", "a computer monitor(컴퓨터 모니터)"],
+  "ex_add": "Doctors monitored the patient's heart rate closely.  (monitor=감시하다)"
+ },
+ {
+  "num": "3049",
+  "hw": "monster",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "불길한 징조 -> '괴물 / 괴물 같은 것·악인'.",
+  "senses": [
+   "1) 괴물·괴수",
+   "2) 괴물처럼 크거나 무서운 것",
+   "3) (인간 같지 않은) 악인·잔인한 사람"
+  ],
+  "etym": "라틴어 monstrum(불길한 징조·기형) <- monere(경고하다). 본래 '신이 경고로 보낸 불길한 징조(monstrum)'에서 '괴물'로. monere(경고)는 monitor(3048)·monument(3051)·demonstrate(2572)·premonition의 뿌리.",
+  "deriv": "monere(경고하다) -> monstrum -> 'monster'. '불길한 징조 -> 괴물(a sea monster, 바다 괴물)' -> 비유 '거대한 것·악인(a monster of a man, 괴물 같은 사람)'. 한국 학습자 핵심: monere(경고) 대가족 — monitor(3048)·monument(3051)·demonstrate(2572)·summon·premonition·admonish! a monster(괴물), monstrous(괴물 같은/끔찍한), the green-eyed monster(질투), a monster hit(엄청난 히트), create a monster(감당 못 할 것을 만들다). beast(짐승)·fiend(악마)·brute(짐승 같은 자)와 유의어.",
+  "syn": ["beast(짐승)", "fiend(악마)", "brute(잔인한 자)"],
+  "anti": [],
+  "idiom": ["the green-eyed monster(질투)", "a monster hit(엄청난 흥행작)", "create a monster(감당 못 할 것을 만들다)"],
+  "colloc": ["a sea monster(바다 괴물)", "a monster truck(몬스터 트럭)", "a terrifying monster(무시무시한 괴물)"],
+  "ex_add": "The children were scared of the monster in the story.  (monster=괴물)"
+ },
+ {
+  "num": "3050",
+  "hw": "monthly",
+  "pos": "adj., adv., n.",
+  "cefr": "B2",
+  "core": "달마다의 -> '매월의·월간의 / 월간지'.",
+  "senses": [
+   "1) 매월의·월 단위의(형용사)",
+   "2) 한 달에 한 번·매달(부사)",
+   "3) 월간지(명사)"
+  ],
+  "etym": "month(달, 고대 영어 monath <- mona '달moon') + -ly. '달(month)마다의'가 핵심. month(달)는 moon(달)과 한 갈래 — 옛날 한 달을 달의 주기로 셈한 데서. daily·weekly·yearly와 같은 주기 짝.",
+  "deriv": "month(달) -> 'monthly'. '달마다의 -> 매월의(a monthly payment, 월납입금)' -> 부사 '매달(paid monthly, 월급으로 받는)' -> 명사 '월간지'. 한국 학습자 핵심: 주기 부사 무리 — daily(매일)·weekly(매주)·monthly(매월)·quarterly(분기별)·yearly/annually(매년)! a monthly salary(월급), a monthly fee(월회비), a monthly magazine(월간지), monthly installments(월부), on a monthly basis(월 단위로). month(달)·moon(달)이 가족.",
+  "syn": ["per month(월 단위로)", "every month(매달)"],
+  "anti": ["daily(매일의)", "yearly(연간의)"],
+  "idiom": ["a monthly payment(월 납입금)", "on a monthly basis(월 단위로)", "monthly installments(월부)"],
+  "colloc": ["a monthly salary(월급)", "a monthly fee(월회비)", "a monthly magazine(월간지)"],
+  "ex_add": "She pays a monthly fee for the gym.  (monthly=매월의)"
+ },
+ {
+  "num": "3051",
+  "hw": "monument",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "기억을 일깨우는 것 -> '기념비·기념물 / 불후의 업적'.",
+  "senses": [
+   "1) 기념비·기념물·기념상",
+   "2) 유적·사적",
+   "3) (불후의) 위업·금자탑"
+  ],
+  "etym": "라틴어 monumentum(기억나게 하는 것) <- monere(일깨우다·상기시키다). '기억을 일깨우려(monere) 세운 것'이 핵심. monere(경고·상기)는 monitor(3048)·monster(3049)·demonstrate(2572)·premonition의 뿌리.",
+  "deriv": "monere(상기시키다) -> monumentum -> 'monument'. '기억을 일깨우는 것 -> 기념비·기념물(a war monument, 전쟁 기념비)' -> 비유 '불후의 업적(a monument to his genius)'. 한국 학습자 핵심: monere(일깨움) 대가족 — monitor(3048)·monster(3049)·monument·demonstrate(2572)·summon·premonition·admonish! a national monument(국가 기념물), an ancient monument(고대 유적), a monument to(~을 기리는 기념물/~의 증거), monumental(기념비적인·엄청난). memorial(기념비)·landmark(랜드마크)와 유의어.",
+  "syn": ["memorial(기념비)", "landmark(랜드마크)", "shrine(성지)"],
+  "anti": [],
+  "idiom": ["a national monument(국가 기념물)", "a monument to(~을 기리는 기념물)", "an ancient monument(고대 유적)"],
+  "colloc": ["a war monument(전쟁 기념비)", "an ancient monument(고대 유적)", "a national monument(국가 기념물)"],
+  "ex_add": "They built a monument to honor the fallen soldiers.  (monument=기념비)"
+ },
+ {
+  "num": "3052",
+  "hw": "moral",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "관습에 맞는 -> '도덕의·도덕적인 / 교훈'.",
+  "senses": [
+   "1) 도덕의·도덕적인·윤리적인",
+   "2) 도덕성에 관한·정신적인",
+   "3) (the moral) 교훈 / (morals) 도덕·품행"
+  ],
+  "etym": "라틴어 moralis(관습의·도덕의) <- mores/mor-(관습·풍습). 그리스어 ethos(2685 ethic의 뿌리)를 라틴어로 옮긴 말. '사회 관습(mores)에 맞는'이 핵심. mores는 moral·morale(사기)·morality(도덕성)·demoralize(사기를 꺾다)의 뿌리.",
+  "deriv": "mores(관습) -> moralis -> 'moral'. '관습에 맞는 -> 도덕의·도덕적인(a moral question, 도덕적 문제)' -> 명사 '교훈(the moral of the story, 이야기의 교훈)·품행(morals)'. 한국 학습자 핵심: mores(관습) 갈래 — morale(사기)·morality(도덕성)·demoralize(의기소침하게 하다)·immoral(부도덕한)·amoral(도덕관념이 없는)! a moral dilemma(도덕적 딜레마), moral support(정신적 지지), the moral of the story(이야기의 교훈), moral values(도덕적 가치), a moral obligation(도덕적 의무). ethical(2686, 윤리적인)·virtuous(도덕적인)와 유의어. moral(도덕적)과 morale(사기)을 철자·강세 구별! 반대 immoral(부도덕한).",
+  "syn": ["ethical(윤리적인)", "virtuous(도덕적인)", "principled(원칙 있는)"],
+  "anti": ["immoral(부도덕한)", "unethical(비윤리적인)", "corrupt(타락한)"],
+  "idiom": ["a moral dilemma(도덕적 딜레마)", "moral support(정신적 지지)", "the moral of the story(이야기의 교훈)"],
+  "colloc": ["a moral question(도덕적 문제)", "moral values(도덕적 가치)", "moral support(정신적 지지)"],
+  "ex_add": "She faced a difficult moral dilemma.  (moral=도덕적)"
+ },
+ {
+  "num": "3053",
+  "hw": "moreover",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "그 위에 더 -> '게다가·더욱이'.",
+  "senses": [
+   "1) 게다가·더욱이",
+   "2) 그뿐 아니라",
+   "3) 또한"
+  ],
+  "etym": "more(더) + over(위에·넘어). '그보다 더(more) 위에(over)'가 핵심. 앞 진술에 정보를 보태는 격식 있는 접속 부사. furthermore(2795)·besides와 같은 무리.",
+  "deriv": "more(더) + over(위에) -> 'moreover'. '그 위에 더 -> 게다가·더욱이(Moreover, it's cheaper)'. 한국 학습자 핵심: moreover = furthermore(2795) = in addition = besides(게다가) — 격식 있는 글에서 논거를 추가할 때 문장 첫머리에 콤마와 함께! 'The plan is risky. Moreover, it's expensive(위험하고, 게다가 비싸다)'. additionally(추가로)·what's more(더구나)와 유의어. 논설문·에세이 핵심 연결어. 반대 however(그러나)·nonetheless(그럼에도). furthermore(2795)와 거의 동의어.",
+  "syn": ["furthermore(게다가)", "in addition(덧붙여)", "besides(게다가)"],
+  "anti": ["however(그러나)", "nonetheless(그럼에도)"],
+  "idiom": ["Moreover, ~(게다가 ~)", "what's more(더구나)"],
+  "colloc": ["moreover, ~(게다가)", "and moreover(그리고 게다가)"],
+  "ex_add": "The house is too small. Moreover, it's too expensive.  (moreover=게다가)"
+ },
+ {
+  "num": "3054",
+  "hw": "mortgage",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "죽음의 담보 -> '(주택) 담보 대출·융자'.",
+  "senses": [
+   "1) (주택) 담보 대출·융자",
+   "2) 저당(권)",
+   "3) (동사) 저당 잡히다"
+  ],
+  "etym": "고대 프랑스어 mortgage = mort(죽은) + gage(담보) -> '죽은(mort) 담보(gage)'. 빚을 갚으면 담보가 '죽고(소멸)', 못 갚으면 권리가 '죽는' 데서. mort(죽음)는 mortal(죽을 운명의)·mortality(사망률)·murder(살인), gage는 engage(2665)·wage의 갈래. (t는 묵음 — '모기지'.)",
+  "deriv": "mort(죽음) + gage(담보) -> 'mortgage'. '죽음의 담보 -> 주택 담보 대출(take out a mortgage, 주택 융자를 받다)'. 한국 학습자 핵심: mort(죽음) 갈래 — mortal(필멸의)·mortality(사망률)·immortal(불멸의)·murder·mortuary(영안실) / gage(담보) 갈래 — engage(2665)·wage·mortgage! 발음 — t 묵음 [ˈmɔːrɡɪdʒ] '모기지'! a mortgage payment(주택 융자 상환금), pay off a mortgage(융자를 다 갚다), a mortgage rate(주택 담보 금리), apply for a mortgage(주택 대출을 신청하다). loan(2988, 대출)과 유의어 — mortgage는 '집을 담보로 한 대출'.",
+  "syn": ["loan(대출)", "home loan(주택 융자)"],
+  "anti": [],
+  "idiom": ["take out a mortgage(주택 융자를 받다)", "pay off a mortgage(융자를 갚다)", "a mortgage payment(상환금)"],
+  "colloc": ["take out a mortgage(주택 융자를 받다)", "a mortgage payment(주택 융자 상환금)", "a mortgage rate(주택 담보 금리)"],
+  "ex_add": "They took out a mortgage to buy their first home.  (mortgage=주택 융자)"
+ },
+ {
+  "num": "3055",
+  "hw": "mosque",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "이슬람 예배당 -> '모스크·이슬람 사원'.",
+  "senses": [
+   "1) 모스크·이슬람 사원",
+   "2) 회교 예배당",
+   "3) 무슬림 예배 장소"
+  ],
+  "etym": "아랍어 masjid(엎드려 절하는 곳) <- sajada(엎드려 절하다) -> 스페인어 mezquita -> 프랑스어 mosquée -> 'mosque'. '무슬림이 절하며 예배하는 곳'이 핵심. 아랍어 차용어.",
+  "deriv": "masjid(절하는 곳) -> 'mosque'. '이슬람 예배당 -> 모스크(pray at a mosque, 모스크에서 기도하다)'. 한국 학습자 핵심: 종교 건물 어휘 — a church(교회)·a temple(절·사원)·a mosque(이슬람 사원)·a synagogue(유대교 회당)·a cathedral(대성당)! go to the mosque(모스크에 가다), the Grand Mosque(대모스크), build a mosque(모스크를 짓다), worship at a mosque(모스크에서 예배하다). Islam(이슬람교)·Muslim(무슬림)·Quran(쿠란)과 함께 쓰인다. 발음 [mɒsk] '모스크'.",
+  "syn": ["Islamic temple(이슬람 사원)", "place of worship(예배 장소)"],
+  "anti": [],
+  "idiom": ["the Grand Mosque(대모스크)", "pray at a mosque(모스크에서 기도하다)"],
+  "colloc": ["go to the mosque(모스크에 가다)", "build a mosque(모스크를 짓다)", "a local mosque(지역 모스크)"],
+  "ex_add": "Muslims gather at the mosque for Friday prayers.  (mosque=모스크)"
+ },
+ {
+  "num": "3056",
+  "hw": "mosquito",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "작은 파리 -> '모기'.",
+  "senses": [
+   "1) 모기",
+   "2) (병을 옮기는) 모기",
+   "3) 흡혈 곤충 모기"
+  ],
+  "etym": "스페인어·포르투갈어 mosquito(작은 파리) <- 라틴어 musca(파리)의 축소형. '작은(-ito) 파리(musca)'가 핵심. musca(파리)는 mosquito·midge(각다귀)와 친척. 복수형 mosquitoes.",
+  "deriv": "musca(파리) -> mosquito. '작은 파리 -> 모기(a mosquito bite, 모기 물림)'. 한국 학습자 핵심: -ito는 스페인어 '작은' 축소 접미사(burrito, señorito)! 복수형 mosquitoes(또는 mosquitos)! a mosquito bite(모기에 물린 자국), a mosquito net(모기장), a mosquito-borne disease(모기 매개 질병, 말라리아·뎅기열), repel mosquitoes(모기를 쫓다), mosquito repellent(모기 기피제). insect(곤충)·bug(벌레)와 관련. 보건·환경 단원 어휘(말라리아 등).",
+  "syn": ["bug(벌레)", "insect(곤충)"],
+  "anti": [],
+  "idiom": ["a mosquito bite(모기 물린 자국)", "a mosquito net(모기장)", "a mosquito-borne disease(모기 매개 질병)"],
+  "colloc": ["a mosquito bite(모기 물림)", "a mosquito net(모기장)", "mosquito repellent(모기 기피제)"],
+  "ex_add": "Mosquitoes can spread serious diseases like malaria.  (mosquito=모기)"
+ },
+ {
+  "num": "3057",
+  "hw": "motion",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "움직임 -> '운동·동작 / 발의 / 몸짓으로 신호하다'.",
+  "senses": [
+   "1) 움직임·운동·동작",
+   "2) (회의) 발의·동의(動議)",
+   "3) (동사) 몸짓으로 신호하다"
+  ],
+  "etym": "라틴어 motio(움직임) <- movere(움직이다). '움직이는 일'이 핵심. movere(움직이다)는 motivate(3058)·motor(3060)·moving(3062)·emotion(2658)·promote(승진시키다)·remove(제거하다)·motive(동기)의 거대한 뿌리.",
+  "deriv": "movere(움직이다) -> motio -> 'motion'. '움직임 -> 운동·동작(slow motion, 슬로 모션)' -> 회의 '발의(propose a motion, 동의를 제출하다)' -> 동사 '몸짓으로 신호하다(motion sb to sit)'. 한국 학습자 핵심: movere(움직이다) 대가족 — motivate(3058)·motivation(3059)·motor(3060)·moving(3062)·emotion(2658)·promote·remove·remote·commotion·locomotive! in motion(움직이는·진행 중인), set in motion(시작하다·작동시키다), go through the motions(마지못해 형식적으로 하다), a motion sensor(동작 감지기), put forward a motion(동의를 발의하다). movement(움직임)·gesture(2809, 몸짓)와 유의어.",
+  "syn": ["movement(움직임)", "gesture(몸짓)", "proposal(발의)"],
+  "anti": ["stillness(정지)", "rest(정지)"],
+  "idiom": ["in motion(움직이는)", "set in motion(작동시키다)", "go through the motions(형식적으로 하다)"],
+  "colloc": ["slow motion(슬로 모션)", "in motion(움직이는)", "a motion sensor(동작 감지기)"],
+  "ex_add": "The motion of the boat made her feel sick.  (motion=움직임)"
+ },
+ {
+  "num": "3058",
+  "hw": "motivate",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "마음을 움직이다 -> '동기를 부여하다·자극하다'.",
+  "senses": [
+   "1) 동기를 부여하다·의욕을 북돋다",
+   "2) (행동을) 일으키다·자극하다",
+   "3) ~의 원동력이 되다"
+  ],
+  "etym": "라틴어 motivus(움직이게 하는) <- movere(움직이다). '마음을 움직여(movere) 행동하게 함'이 핵심. motion(3057)·motivation(3059)·motor(3060)·emotion(2658)·promote와 한 movere 갈래.",
+  "deriv": "movere(움직이다) -> motivus -> 'motivate'. '마음을 움직이다 -> 동기를 부여하다(motivate students, 학생들을 의욕적으로 만들다)'. 한국 학습자 핵심: movere(움직이다) 대가족 — motion(3057)·motivation(3059)·motor(3060)·moving(3062)·emotion(2658)·promote·remove·motive(동기)! motivate sb to do(~가 ...하도록 동기를 주다), highly motivated(의욕이 넘치는), motivate and inspire(동기를 주고 고무하다, 2921 inspire), a motivating factor(동기 요인). encourage(격려하다)·inspire(2921, 고무하다)·drive(추진하다)와 유의어. 반대 discourage(2604, 의욕을 꺾다)·demotivate.",
+  "syn": ["encourage(격려하다)", "inspire(고무하다)", "drive(추진하다)"],
+  "anti": ["discourage(낙담시키다)", "demotivate(의욕을 꺾다)", "dishearten(맥 빠지게 하다)"],
+  "idiom": ["motivate sb to do(~가 ...하도록 동기를 주다)", "highly motivated(의욕이 넘치는)"],
+  "colloc": ["motivate students(학생들에게 동기를 주다)", "highly motivated(의욕이 넘치는)", "motivate employees(직원들을 독려하다)"],
+  "ex_add": "A good teacher knows how to motivate students.  (motivate=동기를 부여하다)"
+ },
+ {
+  "num": "3059",
+  "hw": "motivation",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "마음을 움직이는 힘 -> '동기 (부여)·의욕'.",
+  "senses": [
+   "1) 동기·동기 부여",
+   "2) 의욕·열의",
+   "3) 행동의 이유·원동력"
+  ],
+  "etym": "motivate(동기를 부여하다, 3058)의 명사형. 라틴어 movere(움직이다) 뿌리. '마음을 움직이게 하는 힘'이 핵심. motion(3057)·motor(3060)·emotion(2658)과 한 movere 갈래.",
+  "deriv": "movere(움직이다) -> motivate(3058) -> 'motivation'. '마음을 움직이는 힘 -> 동기·의욕(lack motivation, 의욕이 없다)'. 한국 학습자 핵심: movere(움직이다) 대가족 — motion(3057)·motivate(3058)·motor(3060)·moving(3062)·emotion(2658)·promote·remove·motive! lack of motivation(의욕 부족), the motivation to do(~할 동기), intrinsic/extrinsic motivation(내재적/외재적 동기), boost motivation(의욕을 높이다), find motivation(동기를 찾다). drive(추진력)·incentive(2887, 유인)·enthusiasm(2670, 열의)과 유의어. motivate(3058)·motive(동기)가 가족.",
+  "syn": ["drive(추진력)", "incentive(유인)", "enthusiasm(열의)"],
+  "anti": ["apathy(무기력)", "indifference(무관심)"],
+  "idiom": ["lack of motivation(의욕 부족)", "the motivation to do(~할 동기)", "intrinsic motivation(내재적 동기)"],
+  "colloc": ["lack motivation(의욕이 없다)", "boost motivation(의욕을 높이다)", "the motivation to(~할 동기)"],
+  "ex_add": "She lost all motivation to study after failing the test.  (motivation=의욕)"
+ },
+ {
+  "num": "3060",
+  "hw": "motor",
+  "pos": "n., adj.",
+  "cefr": "B2",
+  "core": "움직이게 하는 것 -> '모터·전동기 / 자동차의·운동 신경의'.",
+  "senses": [
+   "1) 모터·전동기·발동기",
+   "2) (영) 자동차의·자동차 관련의",
+   "3) (의학) 운동의·운동 신경의"
+  ],
+  "etym": "라틴어 motor(움직이게 하는 것) <- movere(움직이다). '동력을 일으켜 움직이게 하는 장치'가 핵심. motion(3057)·motivate(3058)·emotion(2658)·promote·remove와 한 movere 갈래.",
+  "deriv": "movere(움직이다) -> 'motor'. '움직이게 하는 것 -> 모터·전동기(an electric motor, 전동기)' -> (영) '자동차의(motor racing, 자동차 경주)' -> 의학 '운동의(motor skills, 운동 능력)'. 한국 학습자 핵심: movere(움직이다) 대가족 — motion(3057)·motivate(3058)·motivation(3059)·moving(3062)·emotion(2658)·promote·remove·locomotive(기관차)! a motor vehicle(자동차), motor skills(운동 신경·소근육 발달), the motor industry(영, 자동차 산업), a motorbike(오토바이), motor neuron(운동 뉴런). engine(엔진)과 유의어 — 영국에서 motor는 '자동차' 관련 폭넓게 쓰임.",
+  "syn": ["engine(엔진)", "machine(기계)"],
+  "anti": [],
+  "idiom": ["motor skills(운동 능력)", "a motor vehicle(자동차)", "motor racing(자동차 경주)"],
+  "colloc": ["an electric motor(전동기)", "motor skills(운동 능력)", "a motor vehicle(자동차)"],
+  "ex_add": "The toy car runs on a small electric motor.  (motor=모터)"
+ },
+ {
+  "num": "3061",
+  "hw": "mount",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "산처럼 올라가다 -> '오르다·올라타다·차츰 커지다 / 설치하다'.",
+  "senses": [
+   "1) (말·자전거에) 올라타다 / (산을) 오르다",
+   "2) (수·정도가) 점점 커지다·쌓이다(mount up)",
+   "3) (작품·전시를) 마련하다 / 끼워 고정하다"
+  ],
+  "etym": "라틴어 mons/mont-(산) -> 동사 montare(산처럼 오르다) -> 'mount'. '높이 올라감'이 핵심. mons(산)는 mountain(산)·amount(올라간 양->총액)·paramount(최고의)·surmount(극복하다)의 뿌리.",
+  "deriv": "mons(산) -> montare -> 'mount'. '산처럼 올라가다 -> 올라타다(mount a horse)·오르다' -> '점점 커지다(tension mounted, 긴장이 고조되다)' -> '전시를 마련하다(mount an exhibition)·끼워 고정하다(mount a camera)'. 한국 학습자 핵심: mons(산) 갈래 — mountain·amount(총액=쌓인 양)·paramount(가장 중요한)·surmount(극복하다)·dismount(내리다)! mount up(쌓이다·불어나다), mounting pressure(점증하는 압박), mount a campaign(캠페인을 벌이다), Mount Everest(에베레스트산). climb(오르다)·increase(증가하다)·stage(벌이다)와 유의어. 반대 dismount(내리다)·diminish(줄다).",
+  "syn": ["climb(오르다)", "increase(증가하다)", "stage(마련하다)"],
+  "anti": ["dismount(내리다)", "descend(내려가다)", "diminish(줄다)"],
+  "idiom": ["mount up(쌓이다)", "mounting pressure(점증하는 압박)", "mount a campaign(캠페인을 벌이다)"],
+  "colloc": ["mount a horse(말에 올라타다)", "tension mounts(긴장이 고조되다)", "mount an exhibition(전시를 열다)"],
+  "ex_add": "Pressure is mounting on the government to act.  (mount=점점 커지다)"
+ },
+ {
+  "num": "3062",
+  "hw": "moving",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "마음을 움직이는 -> '감동적인 / 움직이는'.",
+  "senses": [
+   "1) 감동적인·심금을 울리는",
+   "2) 움직이는·이동하는",
+   "3) 원동력이 되는"
+  ],
+  "etym": "move(움직이다·감동시키다) + -ing. 라틴어 movere(움직이다) 뿌리. '마음을 움직이는(move)'이 핵심. motion(3057)·motivate(3058)·motor(3060)·emotion(2658)과 한 movere 갈래.",
+  "deriv": "movere(움직이다) -> move -> 'moving'. '마음을 움직이는 -> 감동적인(a moving story, 감동적인 이야기)' -> '움직이는(a moving target, 움직이는 표적)'. 한국 학습자 핵심: movere(움직이다) 대가족 — motion(3057)·motivate(3058)·motor(3060)·emotion(2658)·promote·remove! move는 '움직이다'와 '감동시키다' 두 뜻 — 그래서 moving이 '감동적인'! a moving speech(감동적인 연설), deeply moving(깊이 감동적인), a moving experience(가슴 뭉클한 경험), moving parts(가동 부품). touching(감동적인)·emotional(2658, 감정적인)과 유의어. 반대 unmoving(움직이지 않는)·static(정적인).",
+  "syn": ["touching(감동적인)", "emotional(감동적인)", "stirring(가슴 뭉클한)"],
+  "anti": ["static(정적인)", "unmoving(움직이지 않는)"],
+  "idiom": ["a moving story(감동적인 이야기)", "deeply moving(깊이 감동적인)", "moving parts(가동 부품)"],
+  "colloc": ["a moving story(감동적인 이야기)", "deeply moving(깊이 감동적인)", "a moving speech(감동적인 연설)"],
+  "ex_add": "The film was so moving that I cried.  (moving=감동적인)"
+ },
+ {
+  "num": "3063",
+  "hw": "multiple",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "여러 겹으로 접힌 -> '다수의·복합적인 / 배수'.",
+  "senses": [
+   "1) 다수의·여럿의·복합적인",
+   "2) 여러 부분으로 된",
+   "3) (수학) 배수(명사)"
+  ],
+  "etym": "라틴어 multiplex = multus(많은) + plicare(접다) -> '여러(multus) 겹으로 접힌'. multus(많은)는 multitude(다수)·multimedia(멀티미디어), plicare(접다)는 multiply(3064)·complicated(2453)·apply·display(2609)의 뿌리.",
+  "deriv": "multus(많은) + plicare(접다) -> 'multiple'. '여러 겹으로 접힌 -> 다수의·복합적인(multiple choices, 다수의 선택)' -> 수학 '배수'. 한국 학습자 핵심: multus(많은) 갈래 — multitude(군중)·multimedia·multinational(다국적의)·multicultural(다문화의) / plicare(접다) 갈래 — multiply(3064)·complicated(2453)·apply·display(2609)·exploit(2711)·complex(2452)! multiple choice(객관식 선택), multiple times(여러 번), multiple injuries(여러 군데 부상), a common multiple(공배수). numerous(3088, 다수의)·various(다양한)와 유의어. 반대 single(단일의).",
+  "syn": ["numerous(다수의)", "various(다양한)", "manifold(다양한)"],
+  "anti": ["single(단일의)", "sole(유일한)"],
+  "idiom": ["multiple choice(객관식)", "multiple times(여러 번)", "a common multiple(공배수)"],
+  "colloc": ["multiple choices(다수의 선택)", "multiple times(여러 번)", "multiple injuries(여러 부상)"],
+  "ex_add": "The exam consists of multiple-choice questions.  (multiple=다수의)"
+ },
+ {
+  "num": "3064",
+  "hw": "multiply",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "여러 겹으로 늘리다 -> '곱하다·크게 늘리다·번식하다'.",
+  "senses": [
+   "1) (수학) 곱하다",
+   "2) 크게 늘리다·증가시키다",
+   "3) 번식하다·증식하다"
+  ],
+  "etym": "라틴어 multiplicare = multus(많은) + plicare(접다) -> '여러(multus) 겹으로 접어 늘림'. multiple(3063)·multitude와 한 multus 갈래, plicare(접다)는 complicated(2453)·apply·display(2609)의 뿌리.",
+  "deriv": "multus(많은) + plicare(접다) -> 'multiply'. '여러 겹으로 늘리다 -> 곱하다(multiply 3 by 4)·크게 늘리다(multiply the risk)·번식하다(bacteria multiply)'. 한국 학습자 핵심: multus(많은) 갈래 — multiple(3063)·multitude·multimedia·multicultural / plicare(접다) 갈래 — complicated(2453)·apply·imply(2883)·display(2609)·exploit(2711)! multiply A by B(A에 B를 곱하다), rapidly multiply(빠르게 증식하다), multiply tenfold(열 배로 늘다). 수학: add(더하다)·subtract(빼다)·multiply(곱하다)·divide(2620, 나누다)! increase(증가시키다)·breed(번식하다)와 유의어. 반대 divide(2620, 나누다)·decrease(2557, 줄이다).",
+  "syn": ["increase(증가시키다)", "breed(번식하다)", "proliferate(증식하다)"],
+  "anti": ["divide(나누다)", "decrease(줄이다)", "reduce(줄이다)"],
+  "idiom": ["multiply A by B(A에 B를 곱하다)", "multiply tenfold(열 배로 늘다)"],
+  "colloc": ["multiply by(~으로 곱하다)", "rapidly multiply(빠르게 증식하다)", "multiply the risk(위험을 키우다)"],
+  "ex_add": "If you multiply six by seven, you get forty-two.  (multiply=곱하다)"
+ },
+ {
+  "num": "3065",
+  "hw": "mysterious",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "비밀에 싸인 -> '신비로운·불가사의한·수수께끼 같은'.",
+  "senses": [
+   "1) 신비로운·불가사의한",
+   "2) 수수께끼 같은·알 수 없는",
+   "3) 비밀스러운·정체불명의"
+  ],
+  "etym": "그리스어 mysterion(비밀 의식) <- mystes(입문자) <- myein(눈·입을 닫다) -> mystery + -ous. '눈·입을 닫고 함구하는 비밀'이 핵심. mystery(신비)·mystic(신비주의자)·mystify(어리둥절하게 하다)가 한 갈래.",
+  "deriv": "myein(닫다) -> mysterion -> mystery -> 'mysterious'. '비밀에 싸인 -> 신비로운·불가사의한(a mysterious figure, 정체불명의 인물)'. 한국 학습자 핵심: myein(닫다) 갈래 — mystery(신비/추리물)·mystic(신비주의의)·mystify(혼란시키다)·mysteriously(불가사의하게)! a mysterious stranger(수수께끼의 낯선 이), a mysterious illness(원인 모를 병), mysterious circumstances(의문의 정황), in mysterious ways(불가사의한 방식으로). puzzling(아리송한)·enigmatic(수수께끼 같은)·baffling(이해 안 되는)과 유의어. 반대 obvious(명백한)·clear(분명한)·ordinary(평범한).",
+  "syn": ["puzzling(아리송한)", "enigmatic(수수께끼 같은)", "baffling(이해 안 되는)"],
+  "anti": ["obvious(명백한)", "clear(분명한)", "ordinary(평범한)"],
+  "idiom": ["a mysterious figure(정체불명의 인물)", "in mysterious ways(불가사의한 방식으로)", "mysterious circumstances(의문의 정황)"],
+  "colloc": ["a mysterious stranger(수수께끼의 이방인)", "a mysterious illness(원인 모를 병)", "mysterious circumstances(의문의 정황)"],
+  "ex_add": "His sudden disappearance remains a mysterious event.  (mysterious=불가사의한)"
+ },
+ {
+  "num": "3066",
+  "hw": "myth",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "옛이야기 -> '신화 / (근거 없는) 통념·낭설'.",
+  "senses": [
+   "1) 신화·설화",
+   "2) (널리 퍼진) 잘못된 통념·낭설",
+   "3) 꾸며낸 이야기"
+  ],
+  "etym": "그리스어 mythos(이야기·전설). '입에서 입으로 전해 온 옛이야기'가 핵심. mythos는 myth·mythology(신화학)·mythical(신화의)의 뿌리. logos(이성적 말)와 대비되는 '서사적 말'.",
+  "deriv": "mythos(이야기) -> 'myth'. '옛이야기 -> 신화(Greek myths, 그리스 신화)' -> 비유 '근거 없는 통념(a popular myth, 흔한 오해)'. 한국 학습자 핵심: mythos(이야기) 갈래 — mythology(신화·신화학)·mythical(신화 속의)·mythological! dispel a myth(잘못된 통념을 깨다), debunk a myth(낭설을 반박하다), a common myth(흔한 오해), an urban myth(도시 괴담=urban legend 2973), the myth that(~라는 통념). legend(2973, 전설)·fable(우화)·misconception(오해)과 유의어 — '근거 없는 통념' 뜻이 시험에 자주! 반대 fact(사실)·reality(현실).",
+  "syn": ["legend(전설)", "fable(우화)", "misconception(오해)"],
+  "anti": ["fact(사실)", "reality(현실)", "truth(진실)"],
+  "idiom": ["dispel a myth(통념을 깨다)", "debunk a myth(낭설을 반박하다)", "an urban myth(도시 괴담)"],
+  "colloc": ["a popular myth(흔한 오해)", "Greek myths(그리스 신화)", "dispel a myth(통념을 깨다)"],
+  "ex_add": "It's a myth that we only use 10% of our brains.  (myth=통념)"
+ },
+ {
+  "num": "3067",
+  "hw": "naked",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "벗은 -> '벌거벗은·맨- / 적나라한'.",
+  "senses": [
+   "1) 벌거벗은·나체의",
+   "2) (가리개 없이) 맨-·드러난",
+   "3) 적나라한·노골적인"
+  ],
+  "etym": "고대 영어 nacod(벌거벗은). 게르만 계열 토박이말로, '아무것도 걸치지 않은'이 핵심. 라틴어 nudus(nude 누드)와 먼 인도유럽 친척.",
+  "deriv": "nacod(벗은) -> 'naked'. '벌거벗은(stark naked, 완전 나체의)' -> '맨-(the naked eye, 맨눈)' -> '적나라한(the naked truth, 적나라한 진실)'. 한국 학습자 핵심: the naked eye(맨눈, visible to the naked eye 맨눈으로 보이는 — 빈출!), stark naked(실오라기 하나 안 걸친), the naked truth(있는 그대로의 진실), a naked flame(노출된 불꽃). nude(누드, 예술)·bare(맨-)와 유의어 — naked는 일상적, nude는 예술적. 발음 [ˈneɪkɪd] '네이키드'(2음절)! 반대 clothed(옷 입은)·covered(가려진).",
+  "syn": ["nude(나체의)", "bare(맨-)", "undressed(옷을 안 입은)"],
+  "anti": ["clothed(옷 입은)", "covered(가려진)", "dressed(차려입은)"],
+  "idiom": ["the naked eye(맨눈)", "stark naked(완전 나체의)", "the naked truth(적나라한 진실)", "a naked flame(노출된 불꽃)"],
+  "colloc": ["the naked eye(맨눈)", "stark naked(완전 나체의)", "the naked truth(있는 그대로의 진실)"],
+  "ex_add": "The stars are visible to the naked eye tonight.  (naked eye=맨눈)"
+ },
+ {
+  "num": "3068",
+  "hw": "narrow",
+  "pos": "adj., v.",
+  "cefr": "B2",
+  "core": "폭이 좁은 -> '좁은·아슬아슬한 / 좁히다'.",
+  "senses": [
+   "1) (폭이) 좁은",
+   "2) 아슬아슬한·근소한 / 편협한",
+   "3) (동사) 좁히다·좁아지다·줄이다"
+  ],
+  "etym": "고대 영어 nearu(좁은·답답한). 게르만 계열 토박이말로, '폭이 좁아 빠듯한'이 핵심. wide(넓은)와 정반대 짝. narrowly(가까스로)·narrow-minded(편협한)가 가족.",
+  "deriv": "nearu(좁은) -> 'narrow'. '폭이 좁은(a narrow street, 좁은 길)' -> '아슬아슬한(a narrow escape, 가까스로 모면)·편협한(a narrow view)' -> 동사 '좁히다(narrow down the options, 선택을 좁히다)'. 한국 학습자 핵심: narrow(좁은) ↔ wide/broad(넓은) 정반대! a narrow escape(구사일생), a narrow margin(근소한 차이, 3011 margin), narrow down(범위를 좁히다), a narrow majority(근소한 과반), narrow-minded(편협한), the straight and narrow(올바른 길). thin(가는)·tight(빠듯한)·limited(2981, 제한된)과 유의어. 반대 wide(넓은)·broad(넓은)·spacious(넓은).",
+  "syn": ["thin(가는)", "tight(빠듯한)", "restricted(제한된)"],
+  "anti": ["wide(넓은)", "broad(넓은)", "spacious(넓은)"],
+  "idiom": ["a narrow escape(구사일생)", "narrow down(범위를 좁히다)", "narrow-minded(편협한)", "the straight and narrow(올바른 길)"],
+  "colloc": ["a narrow street(좁은 길)", "a narrow escape(가까스로 모면)", "narrow down(좁히다)"],
+  "ex_add": "The car could barely fit through the narrow gate.  (narrow=좁은)"
+ },
+ {
+  "num": "3069",
+  "hw": "nasty",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "고약한 -> '심술궂은·고약한·역겨운'.",
+  "senses": [
+   "1) (사람·태도가) 심술궂은·못된",
+   "2) (냄새·맛이) 역겨운·불쾌한",
+   "3) (사고·날씨가) 고약한·심각한"
+  ],
+  "etym": "중세 영어 nasty(더러운·불결한). 어원이 불확실하나 '더럽고 불쾌한'이 본뜻으로, 거기서 '심술궂은·고약한'으로 넓어졌다. nice(좋은)와 대비되는 일상 형용사.",
+  "deriv": "nasty(불결한) -> '고약한·심술궂은(a nasty person, 못된 사람)·역겨운(a nasty smell, 역한 냄새)·심각한(a nasty accident, 끔찍한 사고)'. 한국 학습자 핵심: nasty는 구어에서 매우 자주 — a nasty surprise(불쾌한 뜻밖의 일), a nasty cut(심하게 베인 상처), turn nasty(상황이 험악해지다), a nasty piece of work(고약한 인간), say nasty things(험한 말을 하다). unpleasant(불쾌한)·vicious(악랄한)·foul(역겨운)과 유의어. 반대 nice(좋은)·pleasant(유쾌한)·kind(친절한). (구어체 — 격식 글에서는 unpleasant를.)",
+  "syn": ["unpleasant(불쾌한)", "vicious(악랄한)", "foul(역겨운)"],
+  "anti": ["nice(좋은)", "pleasant(유쾌한)", "kind(친절한)"],
+  "idiom": ["a nasty surprise(불쾌한 뜻밖의 일)", "turn nasty(험악해지다)", "a nasty piece of work(고약한 인간)"],
+  "colloc": ["a nasty smell(역한 냄새)", "a nasty accident(끔찍한 사고)", "a nasty surprise(불쾌한 충격)"],
+  "ex_add": "He gave me a nasty look and walked away.  (nasty=심술궂은)"
+ },
+ {
+  "num": "3070",
+  "hw": "national",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "한 나라에서 태어난 -> '국가의·전국적인 / 국민'.",
+  "senses": [
+   "1) 국가의·국립의·국가적인",
+   "2) 전국적인",
+   "3) 국민·동포(명사)"
+  ],
+  "etym": "라틴어 natio(태생·민족) <- nasci(태어나다) + -al. '한 나라에 태어난(nasci) 무리에 관한'이 핵심. nasci(태어나다)는 nation(국가)·native(타고난)·nature(본성)·innate(타고난)·prenatal(출생 전의)의 뿌리.",
+  "deriv": "nasci(태어나다) -> natio -> national. '한 나라에서 태어난 -> 국가의(national security, 국가 안보)·전국적인(national news)' -> 명사 '국민(a foreign national, 외국 국적자)'. 한국 학습자 핵심: nasci(태어나다) 대가족 — nation(국가)·native(원주민의)·nature(자연·본성)·innate(타고난)·prenatal·natal·nationality(국적)! national security(국가 안보), a national park(국립공원), the national anthem(국가), national identity(국가 정체성), a national of(~국적의 사람). 반대 international(국제의)·local(지역의). nation(국가)·nationality(국적)가 가족.",
+  "syn": ["nationwide(전국적인)", "state(국가의)", "civic(국민의)"],
+  "anti": ["international(국제의)", "local(지역의)", "regional(지방의)"],
+  "idiom": ["national security(국가 안보)", "a national park(국립공원)", "the national anthem(국가)"],
+  "colloc": ["national security(국가 안보)", "a national park(국립공원)", "national identity(국가 정체성)"],
+  "ex_add": "The story made the national news.  (national=전국적인)"
+ },
+ {
+  "num": "3071",
+  "hw": "navigation",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "배를 몰아 감 -> '항해·운항 / (길) 안내'.",
+  "senses": [
+   "1) 항해·운항·비행",
+   "2) 항법·길찾기",
+   "3) (화면·웹) 내비게이션·탐색"
+  ],
+  "etym": "라틴어 navigare = navis(배) + agere(몰다·움직이다) -> 명사형 navigatio. '배(navis)를 몰아(agere) 감'이 핵심. navis(배)는 navy(해군)·naval(해군의)·navigate(항해하다)·navigator의 뿌리.",
+  "deriv": "navis(배) + agere(몰다) -> navigate -> 'navigation'. '배를 몰아 감 -> 항해·운항(safe navigation, 안전 항해)' -> '길찾기(satellite navigation, 위성 내비게이션)'. 한국 학습자 핵심: navis(배) 갈래 — navy(해군)·naval(해군의)·navigate(길을 찾다)·navigator·circumnavigate(일주하다) / agere(몰다) 갈래 — act·agent·agenda! satellite navigation(위성 항법, GPS), aids to navigation(항행 보조 장치), navigation skills(길찾기 능력), web navigation(웹 탐색). steering(조종)·piloting(조종)과 유의어. navigate(항해하다)·navigator(항해사)가 가족.",
+  "syn": ["steering(조종)", "piloting(조종)", "guidance(안내)"],
+  "anti": [],
+  "idiom": ["satellite navigation(위성 내비게이션)", "aids to navigation(항행 보조 장치)"],
+  "colloc": ["satellite navigation(위성 항법)", "safe navigation(안전 항해)", "navigation skills(길찾기 능력)"],
+  "ex_add": "The ship used GPS for navigation across the ocean.  (navigation=항해)"
+ },
+ {
+  "num": "3072",
+  "hw": "nearby",
+  "pos": "adj., adv.",
+  "cefr": "B2",
+  "core": "가까이의 -> '인근의·가까운 / 근처에'.",
+  "senses": [
+   "1) 인근의·가까운(형용사)",
+   "2) 근처에·가까이에(부사)",
+   "3) 이웃한"
+  ],
+  "etym": "near(가까운, 고대 영어 near) + by(곁에). '가까이(near) 곁에(by)'가 핵심. near(가까운)·nearly(거의)·nearby와 한 갈래. far(먼)와 대비.",
+  "deriv": "near(가까운) + by(곁에) -> 'nearby'. '가까이의 -> 인근의(a nearby town, 인근 도시)' -> 부사 '근처에(live nearby, 근처에 살다)'. 한국 학습자 핵심: near(가까운, 전치사/형용사)·nearly(거의, 부사)·nearby(인근의/근처에)를 구별! a nearby village(인근 마을), somewhere nearby(근처 어딘가), a nearby hospital(가까운 병원). near(~ 근처에)와 달리 nearby는 단독으로 쓰임(near the station 역 근처 / a station nearby 근처의 역). neighboring(이웃한)·close(2434, 가까운)·adjacent(인접한)과 유의어. 반대 far(먼)·distant(2610, 멀리 떨어진)·remote(외딴).",
+  "syn": ["neighboring(이웃한)", "close(가까운)", "adjacent(인접한)"],
+  "anti": ["far(먼)", "distant(멀리 떨어진)", "remote(외딴)"],
+  "idiom": ["a nearby town(인근 도시)", "somewhere nearby(근처 어딘가)"],
+  "colloc": ["a nearby village(인근 마을)", "live nearby(근처에 살다)", "a nearby hospital(가까운 병원)"],
+  "ex_add": "We stopped for lunch at a nearby restaurant.  (nearby=인근의)"
+ },
+ {
+  "num": "3073",
+  "hw": "necessity",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "피할 수 없음 -> '필요(성)·필수품 / 필연'.",
+  "senses": [
+   "1) 필요(성)·불가피함",
+   "2) 필수품·없어서는 안 될 것",
+   "3) 필연·궁핍"
+  ],
+  "etym": "라틴어 necessitas <- necesse(피할 수 없는·불가피한) = ne-(없이) + cedere(물러나다) -> '물러설(cedere) 수 없는'. necessary(필요한)·necessitate(필요로 하다)와 한 갈래. cedere(가다)는 exceed(2696)·proceed의 뿌리.",
+  "deriv": "necesse(불가피한) -> necessitas -> 'necessity'. '피할 수 없음 -> 필요성(out of necessity, 필요에 의해)·필수품(the necessities of life, 생활필수품)'. 한국 학습자 핵심: necesse(피할 수 없는)=ne-(없이)+cedere(물러나다 — exceed 2696 갈래)! out of necessity(어쩔 수 없이), Necessity is the mother of invention(필요는 발명의 어머니 — 속담!), a basic necessity(기본 필수품), of necessity(필연적으로), bare necessities(최소한의 필수품). need(필요)·requirement(필요 조건)·essential(필수품)과 유의어. 반대 luxury(사치품). necessary(필요한)가 형용사.",
+  "syn": ["need(필요)", "requirement(필요 조건)", "essential(필수품)"],
+  "anti": ["luxury(사치품)", "option(선택 사항)"],
+  "idiom": ["out of necessity(어쩔 수 없이)", "Necessity is the mother of invention(필요는 발명의 어머니)", "bare necessities(최소한의 필수품)"],
+  "colloc": ["out of necessity(필요에 의해)", "a basic necessity(기본 필수품)", "the necessities of life(생활필수품)"],
+  "ex_add": "A car is a necessity, not a luxury, in this area.  (necessity=필수품)"
+ },
+ {
+  "num": "3074",
+  "hw": "negative",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "아니라고 하는 -> '부정적인·음성의 / 음극·음화'.",
+  "senses": [
+   "1) 부정적인·비관적인·반대의",
+   "2) (검사) 음성의 / (전기) 음극의",
+   "3) 부정·음수 / (사진) 음화(명사)"
+  ],
+  "etym": "라틴어 negativus <- negare(부정하다·아니라고 하다) = 부정의 neg-. '아니라고 함'이 핵심. negare(부정하다)는 deny(2574)·negate(부정하다)·renegade(배신자)·abnegate(버리다)·negotiate(3075)의 뿌리.",
+  "deriv": "negare(부정하다) -> negativus -> 'negative'. '아니라고 하는 -> 부정적인(a negative attitude, 부정적 태도)·음성의(test negative, 음성 판정)·음극의' -> 명사 '음수·음화'. 한국 학습자 핵심: negare(부정) 갈래 — deny(2574)·negate(부정하다)·renegade(변절자)·abnegate·negligible(무시할 만한)·negotiate(3075)! a negative effect(악영향), a negative response(부정적 반응), test negative(음성이 나오다), a negative number(음수), on the negative side(단점으로는). pessimistic(비관적인)·adverse(불리한)와 유의어. 반대 positive(긍정적인·양성의)·affirmative(긍정의).",
+  "syn": ["pessimistic(비관적인)", "adverse(불리한)", "unfavorable(부정적인)"],
+  "anti": ["positive(긍정적인)", "affirmative(긍정의)", "favorable(호의적인)"],
+  "idiom": ["a negative effect(악영향)", "test negative(음성 판정을 받다)", "on the negative side(단점으로는)"],
+  "colloc": ["a negative effect(부정적 영향)", "a negative attitude(부정적 태도)", "a negative response(부정적 반응)"],
+  "ex_add": "Stress can have a negative effect on your health.  (negative=부정적인)"
+ },
+ {
+  "num": "3075",
+  "hw": "negotiate",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "한가하지 않게 일하다 -> '협상하다 / (난관을) 헤쳐 나가다'.",
+  "senses": [
+   "1) 협상하다·교섭하다",
+   "2) 협상으로 타결하다·성사시키다",
+   "3) (장애물·난관을) 통과하다·헤쳐 나가다"
+  ],
+  "etym": "라틴어 negotiari(장사하다) <- negotium(일·사업) = neg-(아닌) + otium(여가) -> '여가(otium)가 아닌 것 = 일'. 본래 '거래·사업'에서 '협상'으로. neg-는 negative(3074)·deny(2574)의 부정 갈래.",
+  "deriv": "neg-(아닌) + otium(여가) -> negotium(일) -> 'negotiate'. '일하다 -> 거래·협상하다(negotiate a deal, 거래를 협상하다)' -> '(난관을) 헤쳐 나가다(negotiate a sharp bend, 급커브를 통과하다)'. 한국 학습자 핵심: negotium = neg(아닌)+otium(여가) — '한가하지 않은 것=일'에서! negotiate with(~와 협상하다), negotiate a contract(계약을 협상하다), negotiate a settlement(합의를 이끌어내다), a negotiating table(협상 테이블), negotiable(협상 가능한). bargain(2344, 흥정하다)·discuss(논의하다)와 유의어. negotiation(3076)이 명사.",
+  "syn": ["bargain(흥정하다)", "discuss(논의하다)", "mediate(중재하다)"],
+  "anti": ["dictate(일방적으로 정하다)"],
+  "idiom": ["negotiate a deal(거래를 협상하다)", "the negotiating table(협상 테이블)", "negotiate with(~와 협상하다)"],
+  "colloc": ["negotiate a contract(계약을 협상하다)", "negotiate with(~와 협상하다)", "negotiate a settlement(합의를 도출하다)"],
+  "ex_add": "The two sides are negotiating a peace deal.  (negotiate=협상하다)"
+ },
+ {
+  "num": "3076",
+  "hw": "negotiation",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "협상함 -> '협상·교섭'.",
+  "senses": [
+   "1) 협상·교섭",
+   "2) (보통 복수) 협상 과정·회담",
+   "3) 절충·조율"
+  ],
+  "etym": "negotiate(협상하다, 3075)의 명사형. 라틴어 neg-(아닌) + otium(여가) -> negotium(일·거래). negotiate(3075)·negative(3074)와 한 neg 갈래. '거래를 위해 밀고 당기는 일'이 핵심.",
+  "deriv": "negotium(일) -> negotiate(3075) -> 'negotiation'. '협상함 -> 협상·교섭(under negotiation, 협상 중인)'. 한국 학습자 핵심: 보통 복수 negotiations('협상 과정·회담')! peace negotiations(평화 협상), enter into negotiations(협상에 들어가다), break off negotiations(협상을 결렬시키다), be open to negotiation(협상의 여지가 있는), trade negotiations(무역 협상), through negotiation(협상을 통해). discussion(논의)·bargaining(흥정)·talks(회담)과 유의어. negotiate(3075)·negotiator(협상가)가 가족.",
+  "syn": ["discussion(논의)", "bargaining(흥정)", "talks(회담)"],
+  "anti": [],
+  "idiom": ["under negotiation(협상 중인)", "break off negotiations(협상을 결렬시키다)", "open to negotiation(협상 가능한)"],
+  "colloc": ["peace negotiations(평화 협상)", "enter into negotiations(협상에 들어가다)", "trade negotiations(무역 협상)"],
+  "ex_add": "After long negotiations, both sides reached an agreement.  (negotiation=협상)"
+ },
+ {
+  "num": "3077",
+  "hw": "nerve",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "힘줄 -> '신경 / 용기·담력 / 뻔뻔함'.",
+  "senses": [
+   "1) (몸의) 신경",
+   "2) 용기·배짱·담력",
+   "3) (nerves) 긴장·불안 / 뻔뻔함"
+  ],
+  "etym": "라틴어 nervus(힘줄·근육·신경). 본래 '힘줄'에서 '신경'으로. nervus는 nervous(긴장한)·nervy(뻔뻔한/신경질적인)·enervate(기력을 빼앗다)의 뿌리. 그리스어 neuron(신경)과 친척.",
+  "deriv": "nervus(힘줄) -> 'nerve'. '신경(the optic nerve, 시신경)' -> 비유 '용기·담력(lose one's nerve, 겁을 먹다)·뻔뻔함(have the nerve to, 뻔뻔하게 ~하다)' -> 'nerves(긴장)'. 한국 학습자 핵심: nervus(힘줄·신경) 갈래 — nervous(긴장한)·nervy·enervate / 그리스어 neuron(뉴런·신경)! get on sb's nerves(~의 신경을 거스르다), have the nerve to(뻔뻔하게 ~하다), lose one's nerve(겁먹다), nerves of steel(강심장), a bundle of nerves(잔뜩 긴장한 사람), hit a nerve(아픈 데를 건드리다). courage(2512, 용기)·cheek(2418, 뻔뻔함)과 유의어.",
+  "syn": ["courage(용기)", "boldness(대담함)", "cheek(뻔뻔함)"],
+  "anti": ["timidity(소심함)", "cowardice(비겁)"],
+  "idiom": ["get on sb's nerves(신경을 거스르다)", "have the nerve to(뻔뻔하게 ~하다)", "lose one's nerve(겁먹다)", "nerves of steel(강심장)"],
+  "colloc": ["the optic nerve(시신경)", "lose one's nerve(겁먹다)", "get on sb's nerves(신경을 건드리다)"],
+  "ex_add": "He didn't have the nerve to ask for a raise.  (nerve=용기)"
+ },
+ {
+  "num": "3078",
+  "hw": "neutral",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "어느 쪽도 아닌 -> '중립의·중성의 / 중립 기어'.",
+  "senses": [
+   "1) (편들지 않는) 중립의",
+   "2) (색·태도가) 무난한·무채색의 / (화학) 중성의",
+   "3) (자동차) 중립 기어"
+  ],
+  "etym": "라틴어 neutralis <- neuter(어느 쪽도 아닌) = ne-(아닌) + uter(둘 중 어느 한쪽). '둘 중 어느 쪽(uter)도 아닌'이 핵심. neuter(중성의)·neutron(중성자)·neither(둘 다 아닌)와 한 갈래.",
+  "deriv": "ne-(아닌) + uter(어느 쪽) -> neuter -> 'neutral'. '어느 쪽도 아닌 -> 중립의(stay neutral, 중립을 지키다)·무채색의(neutral colors)·중성의(pH neutral)' -> 명사 '중립 기어(in neutral)'. 한국 학습자 핵심: neuter(어느 쪽도 아닌) 갈래 — neuter(중성)·neutron(중성자)·neither(둘 다 아닌)·neutrality(중립)·neutralize(중화하다)! remain neutral(중립을 유지하다), neutral ground(중립 지대), a neutral country(중립국), gender-neutral(성 중립적인, 2801 gender), neutral colors(무난한 색). impartial(공정한)·unbiased(편견 없는)와 유의어. 반대 biased(편향된)·partisan(당파적인).",
+  "syn": ["impartial(공정한)", "unbiased(편견 없는)", "indifferent(중립적인)"],
+  "anti": ["biased(편향된)", "partisan(당파적인)", "committed(한쪽에 가담한)"],
+  "idiom": ["stay neutral(중립을 지키다)", "neutral ground(중립 지대)", "gender-neutral(성 중립적인)", "in neutral(중립 기어로)"],
+  "colloc": ["remain neutral(중립을 유지하다)", "a neutral country(중립국)", "neutral colors(무채색)"],
+  "ex_add": "Switzerland remained neutral during the war.  (neutral=중립의)"
+ },
+ {
+  "num": "3079",
+  "hw": "nevertheless",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "그럼에도 -> '그럼에도 불구하고·그렇지만'.",
+  "senses": [
+   "1) 그럼에도 불구하고·그렇지만",
+   "2) 그래도·여전히",
+   "3) 그렇기는 하나"
+  ],
+  "etym": "never(결코) + the + less(덜) -> '그것에도(the) 결코(never) 덜하지(less) 않게'. 앞 내용과 상반되는 결과를 잇는 격식 부사. nonetheless(그럼에도)와 거의 동의어.",
+  "deriv": "never + the + less -> 'nevertheless'. '그럼에도 결코 덜하지 않게 -> 그럼에도 불구하고(It was hard. Nevertheless, we succeeded)'. 한국 학습자 핵심: 양보·역접의 격식 부사 — nevertheless = nonetheless = even so = all the same(그럼에도)! 보통 문장 첫머리에 콤마와 함께 또는 문중에. however(2... 그러나)와 비슷하나 nevertheless가 더 '그런 사정에도 불구하고' 어감! 'The plan was risky; nevertheless, they went ahead(위험했지만 그래도 진행했다)'. but(그러나)·still(그래도)·yet(그렇지만)과 유의어. 반대 therefore(2... 그러므로)·consequently(2474).",
+  "syn": ["nonetheless(그럼에도)", "however(그러나)", "even so(그렇다 해도)"],
+  "anti": ["therefore(그러므로)", "consequently(따라서)"],
+  "idiom": ["Nevertheless, ~(그럼에도 불구하고 ~)", "and yet nevertheless(그럼에도)"],
+  "colloc": ["nevertheless, ~(그럼에도)", "but nevertheless(그렇지만)"],
+  "ex_add": "The task was difficult; nevertheless, they completed it.  (nevertheless=그럼에도)"
+ },
+ {
+  "num": "3080",
+  "hw": "newly",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'새로·갓·최근에'.",
+  "senses": [
+   "1) 새로·갓·막",
+   "2) 최근에·요즘",
+   "3) (newly + 과거분사) 갓 ~한"
+  ],
+  "etym": "new(새로운, 고대 영어 niwe) + -ly. '새롭게'가 핵심. new(새로운)·renew(갱신하다)·novel(새로운, 라틴어 novus는 다른 갈래)과 한 게르만 갈래. 주로 과거분사 앞에서 '갓 ~한'으로 쓴다.",
+  "deriv": "new(새로운) -> 'newly'. '새로·갓(newly built, 갓 지어진)'. 한국 학습자 핵심: newly는 보통 과거분사 앞에서 '갓·새로 ~한' — newly built(신축의), newly married(갓 결혼한), newly elected(새로 선출된, 2649 elect), newly appointed(새로 임명된), the newlyweds(신혼부부), newly opened(새로 문 연), newly discovered(새로 발견된)! recently(최근에)·freshly(갓)와 유의어 — newly는 '갓·새로', freshly는 '신선하게/방금'(freshly baked 갓 구운). new(새로운)·newcomer(신참)가 가족. 반대 long-established(오래된).",
+  "syn": ["recently(최근에)", "freshly(갓)", "just(막)"],
+  "anti": ["long-established(오래된)", "formerly(이전에)"],
+  "idiom": ["newly married(갓 결혼한)", "the newlyweds(신혼부부)", "newly built(신축의)"],
+  "colloc": ["newly built(신축의)", "newly married(갓 결혼한)", "newly elected(새로 선출된)"],
+  "ex_add": "They moved into a newly built apartment.  (newly=새로)"
+ },
+ {
+  "num": "3081",
+  "hw": "nickel",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "(금속) 니켈 / (미) 5센트 동전.",
+  "senses": [
+   "1) (금속 원소) 니켈",
+   "2) (미·캐나다) 5센트 동전",
+   "3) 푼돈"
+  ],
+  "etym": "독일어 Kupfernickel(구리 악마) -> Nickel. 광부들이 구리인 줄 알고 캤다가 구리가 안 나와 '악마(Nickel=장난꾸러기 도깨비)가 홀린 광석'이라 부른 데서. '도깨비 금속'이 핵심.",
+  "deriv": "Kupfernickel(구리 도깨비) -> 'nickel'. '금속 니켈' -> 5센트 동전이 니켈 합금이라 '5센트 동전(a nickel)'. 한국 학습자 핵심: nickel은 금속명이자 미국 5센트 동전! 미국 동전: a penny(1¢) - a nickel(5¢) - a dime(2596, 10¢) - a quarter(25¢)! nickel and dime(푼돈을 아끼다/사소한 비용으로 괴롭히다), not worth a nickel(한 푼 값어치도 없는), a nickel-plated(니켈 도금한). 화학 원소(Ni)이자 화폐 단위로 둘 다 쓰임. coin(동전)·metal(금속)과 관련.",
+  "syn": ["coin(동전)", "metal(금속)"],
+  "anti": [],
+  "idiom": ["nickel and dime(푼돈을 아끼다)", "not worth a nickel(한 푼 값어치도 없는)"],
+  "colloc": ["a nickel coin(5센트 동전)", "nickel and dime(푼돈)", "nickel-plated(니켈 도금한)"],
+  "ex_add": "He paid for the candy with a nickel.  (nickel=5센트 동전)"
+ },
+ {
+  "num": "3082",
+  "hw": "nightmare",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "밤의 악령 -> '악몽 / 끔찍한 경험'.",
+  "senses": [
+   "1) 악몽·가위눌림",
+   "2) 악몽 같은 경험·끔찍한 일",
+   "3) 골칫거리"
+  ],
+  "etym": "night(밤) + mare(악령·몽마). mare는 고대 영어 mære(잠자는 사람을 짓누르는 악령) — '암말(mare)'이 아니라 '밤(night)에 가슴을 짓누르는 악령(mære)'! 그 악령이 일으키는 무서운 꿈이 핵심.",
+  "deriv": "night(밤) + mære(악령) -> 'nightmare'. '밤의 악령 -> 악몽(have a nightmare, 악몽을 꾸다)' -> 비유 '끔찍한 경험(a logistical nightmare, 물류 악몽)'. 한국 학습자 핵심: mare는 '암말'이 아니라 고대 영어 '가슴을 짓누르는 악령(mære)'! have a nightmare(악몽을 꾸다), a living nightmare(생지옥 같은 현실), a nightmare scenario(최악의 시나리오), turn into a nightmare(악몽이 되다), every parent's nightmare(모든 부모의 악몽). bad dream(나쁜 꿈)·ordeal(시련)과 유의어. 반대 dream(꿈)·delight(2567, 기쁨).",
+  "syn": ["bad dream(악몽)", "ordeal(시련)", "horror(공포)"],
+  "anti": ["dream(꿈)", "delight(기쁨)", "paradise(낙원)"],
+  "idiom": ["have a nightmare(악몽을 꾸다)", "a living nightmare(생지옥)", "a nightmare scenario(최악의 시나리오)"],
+  "colloc": ["have a nightmare(악몽을 꾸다)", "a living nightmare(생지옥)", "a nightmare scenario(악몽 같은 시나리오)"],
+  "ex_add": "Getting through the traffic was an absolute nightmare.  (nightmare=끔찍한 일)"
+ },
+ {
+  "num": "3083",
+  "hw": "norm",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "잣대 -> '규범·표준 / 일반적인 것'.",
+  "senses": [
+   "1) (사회적) 규범·관행",
+   "2) 표준·기준",
+   "3) (the norm) 보통·일반적인 것"
+  ],
+  "etym": "라틴어 norma(목수의 직각자·잣대). '재는 잣대(norma) -> 따라야 할 기준'이 핵심. norma는 normal(정상의)·enormous(거대한=기준 밖의)·abnormal(비정상의)·normalize(정상화하다)의 뿌리.",
+  "deriv": "norma(잣대) -> 'norm'. '잣대 -> 규범(social norms, 사회 규범)·표준' -> 'the norm(일반적인 것, become the norm 일반화되다)'. 한국 학습자 핵심: norma(잣대) 갈래 — normal(정상의)·enormous(거대한, ex-+norma '기준을 벗어난')·abnormal(비정상의)·normalize·paranormal(초자연적인)! social norms(사회적 규범), cultural norms(문화적 관습), become the norm(일반화되다), the norm rather than the exception(예외가 아닌 통례), deviate from the norm(규범에서 벗어나다). standard(기준)·convention(2498, 관습)·rule(규칙)과 유의어.",
+  "syn": ["standard(기준)", "convention(관습)", "rule(규칙)"],
+  "anti": ["exception(예외)", "anomaly(이례)"],
+  "idiom": ["become the norm(일반화되다)", "social norms(사회 규범)", "deviate from the norm(규범에서 벗어나다)"],
+  "colloc": ["social norms(사회 규범)", "cultural norms(문화적 관습)", "become the norm(통례가 되다)"],
+  "ex_add": "Working from home has become the norm for many.  (norm=일반적인 것)"
+ },
+ {
+  "num": "3084",
+  "hw": "notebook",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "메모하는 책 -> '공책·노트 / 노트북 컴퓨터'.",
+  "senses": [
+   "1) 공책·필기장·수첩",
+   "2) 노트북 컴퓨터",
+   "3) 비망록"
+  ],
+  "etym": "note(메모·적다) + book(책). note는 라틴어 nota(표시·기호) <- noscere(알다). '적어 두는(note) 책(book)'이 핵심. nota(표시)는 note·notice·notion(3085)·notable(주목할 만한)의 뿌리.",
+  "deriv": "nota(표시) -> note -> 'notebook'. '메모하는 책 -> 공책(write in a notebook, 공책에 쓰다)' -> '노트북 컴퓨터(a notebook PC)'. 한국 학습자 핵심: nota(표시·앎) 갈래 — note(메모)·notice(알아채다)·notion(3085, 관념)·notable(주목할 만한)·notify(통지하다)·notorious(악명 높은)! a spiral notebook(스프링 공책), keep a notebook(공책을 쓰다), a notebook computer(노트북). 한국어 '노트북'은 영어로 a laptop이 더 흔함(notebook도 가능)! 학용품 '노트'는 a notebook(note 아님)! diary(일기장)·journal(2951, 일지)과 유의어. note·book 합성어.",
+  "syn": ["notepad(메모장)", "journal(일지)", "exercise book(연습장)"],
+  "anti": [],
+  "idiom": ["a spiral notebook(스프링 공책)", "a notebook computer(노트북)"],
+  "colloc": ["write in a notebook(공책에 쓰다)", "a spiral notebook(스프링 노트)", "keep a notebook(공책을 쓰다)"],
+  "ex_add": "She wrote down the address in her notebook.  (notebook=공책)"
+ },
+ {
+  "num": "3085",
+  "hw": "notion",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "머리에 새긴 것 -> '개념·관념·생각'.",
+  "senses": [
+   "1) 개념·관념",
+   "2) 막연한 생각·견해",
+   "3) 의향·충동"
+  ],
+  "etym": "라틴어 notio(앎·개념) <- noscere(알다)의 명사형. '머릿속에 새겨 아는 것(noscere)'이 핵심. noscere(알다)는 note(메모)·notice(알아채다)·notebook(3084)·notable(주목할 만한)·notify(통지하다)·recognize(알아보다)의 뿌리.",
+  "deriv": "noscere(알다) -> notio -> 'notion'. '머리에 새긴 것 -> 개념·관념(an abstract notion, 추상적 개념)·막연한 생각(have no notion, 전혀 모르다)'. 한국 학습자 핵심: noscere(알다) 대가족 — note·notice·notebook(3084)·notable·notify·notorious(악명 높은)·recognize·acknowledge! the notion that(~라는 개념), have a notion that(~라는 생각이 들다), reject the notion(생각을 일축하다), a romantic notion(낭만적 관념), have no notion of(~을 전혀 모르다). idea(생각)·concept(2462, 개념)·conception과 유의어 — notion은 '막연한 관념' 어감.",
+  "syn": ["idea(생각)", "concept(개념)", "belief(견해)"],
+  "anti": [],
+  "idiom": ["the notion that(~라는 개념)", "have no notion(전혀 모르다)", "reject the notion(생각을 일축하다)"],
+  "colloc": ["an abstract notion(추상적 개념)", "the notion that(~라는 생각)", "a romantic notion(낭만적 관념)"],
+  "ex_add": "I have no notion of what he is talking about.  (notion=생각)"
+ },
+ {
+  "num": "3086",
+  "hw": "novelist",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "새 이야기를 짓는 사람 -> '소설가'.",
+  "senses": [
+   "1) 소설가",
+   "2) 장편 소설 작가",
+   "3) 소설 저자"
+  ],
+  "etym": "novel(소설) + -ist. novel은 라틴어 novus(새로운) -> 이탈리아어 novella(새로운 이야기). '새로운(novus) 이야기를 쓰는 사람'이 핵심. novus(새로운)는 novel(소설/새로운)·novelty(참신함)·innovation(2913)·renovate(개조하다)의 뿌리.",
+  "deriv": "novus(새로운) -> novel(새 이야기) -> 'novelist'. '새 이야기를 짓는 사람 -> 소설가(a best-selling novelist, 베스트셀러 작가)'. 한국 학습자 핵심: novus(새로운) 대가족 — novel(소설/새로운)·novelty(신기함)·innovation(2913)·innovative(2914)·renovate(개조하다)·novice(초보자)·nova(신성)! a famous novelist(유명 소설가), an aspiring novelist(소설가 지망생), a crime novelist(추리 소설가). writer(작가)·author(저자)와 유의어 — novelist는 특히 '소설가'! novel(소설)·novella(중편 소설)이 가족. -ist는 '~하는 사람'(artist, scientist).",
+  "syn": ["writer(작가)", "author(저자)", "storyteller(이야기꾼)"],
+  "anti": ["reader(독자)"],
+  "idiom": ["a best-selling novelist(베스트셀러 작가)", "an aspiring novelist(소설가 지망생)"],
+  "colloc": ["a famous novelist(유명 소설가)", "a best-selling novelist(베스트셀러 작가)", "an aspiring novelist(소설가 지망생)"],
+  "ex_add": "The award was given to a young novelist.  (novelist=소설가)"
+ },
+ {
+  "num": "3087",
+  "hw": "nowadays",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'요즈음·오늘날'.",
+  "senses": [
+   "1) 요즈음·오늘날",
+   "2) 현재·요사이",
+   "3) 지금은 (예전과 달리)"
+  ],
+  "etym": "now(지금) + a(전치사 on의 옛 형태) + days(날들) -> '지금(now)의 날들에(adays)'. '오늘날에 이르러'가 핵심. 옛날과 대비해 '지금은'이라는 어감을 담는다.",
+  "deriv": "now + adays(날들에) -> 'nowadays'. '요즈음·오늘날(Nowadays, everyone has a phone)'. 한국 학습자 핵심: nowadays는 보통 현재 시제와 함께 — 과거와 대비해 '지금은'이라는 어감! 문장 첫머리·끝에 자주 — Nowadays, people travel more(요즘은 사람들이 더 많이 여행한다). these days(요즘)·today(오늘날)·currently(현재)와 유의어. lately(2966, 최근에)와 구별 — lately는 완료 시제, nowadays는 현재 시제와 '일반적 현재 상황'! 반대 in the past(과거에)·formerly(2767, 이전에)·in those days(그 시절엔).",
+  "syn": ["these days(요즘)", "today(오늘날)", "currently(현재)"],
+  "anti": ["formerly(이전에)", "in the past(과거에)", "in those days(그 시절엔)"],
+  "idiom": ["Nowadays, ~(요즈음 ~)", "even nowadays(요즘에도)"],
+  "colloc": ["nowadays(요즈음)", "these days(요즘)", "common nowadays(요즘 흔한)"],
+  "ex_add": "Nowadays, most people shop online.  (nowadays=요즈음)"
+ },
+ {
+  "num": "3088",
+  "hw": "numerous",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "수가 많은 -> '많은·수많은'.",
+  "senses": [
+   "1) 수많은·다수의",
+   "2) 여러 차례의",
+   "3) 헤아릴 수 없이 많은"
+  ],
+  "etym": "라틴어 numerosus <- numerus(수). '수(numerus)가 많은'이 핵심. numerus(수)는 number(수)·numeral(숫자)·enumerate(열거하다)·innumerable(무수한)·numeric(숫자의)의 뿌리.",
+  "deriv": "numerus(수) -> numerosus -> 'numerous'. '수가 많은 -> 수많은(numerous occasions, 수많은 경우)'. 한국 학습자 핵심: numerus(수) 갈래 — number(수)·numeral(숫자)·enumerate(열거하다)·innumerable(셀 수 없는)·numeric(수치의)·numerical(수의)! numerous times(여러 번), on numerous occasions(수차례), too numerous to count(셀 수 없이 많은), numerous examples(많은 예). many(많은)·countless(무수한)·myriad(무수한)와 유의어 — numerous는 many의 격식체! 셀 수 있는 명사 복수와 함께. 반대 few(거의 없는)·scarce(부족한). number(수)가 가족.",
+  "syn": ["many(많은)", "countless(무수한)", "myriad(무수한)"],
+  "anti": ["few(거의 없는)", "scarce(부족한)", "limited(제한된)"],
+  "idiom": ["on numerous occasions(수차례)", "too numerous to count(셀 수 없이 많은)"],
+  "colloc": ["numerous occasions(수많은 경우)", "numerous examples(많은 예)", "numerous times(여러 번)"],
+  "ex_add": "She has won numerous awards for her work.  (numerous=수많은)"
+ },
+ {
+  "num": "3089",
+  "hw": "nursing",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "돌봐 기름 -> '간호 (직)·보육'.",
+  "senses": [
+   "1) 간호·간병 (직업)",
+   "2) (아기) 수유·양육",
+   "3) (병자·노인) 돌봄"
+  ],
+  "etym": "nurse(간호하다·젖을 먹이다) + -ing. nurse는 라틴어 nutrire(영양을 주다·기르다). '돌보고 길러 줌(nutrire)'이 핵심. nutrire(기르다)는 nutrition(3090)·nourish(영양을 주다)·nurture(양육하다)·nutrient(영양소)의 뿌리.",
+  "deriv": "nutrire(기르다) -> nurse -> 'nursing'. '돌봐 기름 -> 간호(a nursing career, 간호직)·수유'. 한국 학습자 핵심: nutrire(기르다) 갈래 — nurse(간호사/유모)·nutrition(3090)·nourish(영양을 공급하다)·nurture(양육하다)·nutrient(영양소)! a nursing home(요양원), a nursing career(간호 경력), nursing care(간병), a nursing mother(수유모), the nursing profession(간호직), study nursing(간호학을 공부하다). care(돌봄)·nurture(양육)와 유의어. nurse(간호사)·nursery(2958 kindergarten 관련, 탁아소)와 가족.",
+  "syn": ["care(돌봄)", "nurture(양육)", "tending(간병)"],
+  "anti": [],
+  "idiom": ["a nursing home(요양원)", "a nursing career(간호직)", "nursing care(간병)"],
+  "colloc": ["a nursing home(요양원)", "a nursing career(간호 경력)", "study nursing(간호학을 공부하다)"],
+  "ex_add": "She works in nursing at the local hospital.  (nursing=간호)"
+ },
+ {
+  "num": "3090",
+  "hw": "nutrition",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "영양 공급 -> '영양 (섭취)·영양학'.",
+  "senses": [
+   "1) 영양·영양 섭취",
+   "2) 영양분·영양물",
+   "3) 영양학"
+  ],
+  "etym": "라틴어 nutrire(영양을 주다·기르다)의 명사형 nutritio. '몸을 길러 주는(nutrire) 영양'이 핵심. nursing(3089)·nourish(영양을 주다)·nurture(양육하다)·nutrient(영양소)와 한 nutrire 갈래.",
+  "deriv": "nutrire(기르다) -> nutritio -> 'nutrition'. '영양 공급 -> 영양·영양 섭취(good nutrition, 양질의 영양)'. 한국 학습자 핵심: nutrire(기르다) 갈래 — nurse·nursing(3089)·nourish(영양을 주다)·nurture(양육하다)·nutrient(영양소)·nutritious(영양가 높은)·malnutrition(영양실조)! good/poor nutrition(양호한/부실한 영양), nutrition facts(영양 성분표), proper nutrition(적절한 영양), nutritional value(영양가). nourishment(영양분)·diet(식단)와 유의어. nutrition(영양)·nutritious(영양가 있는)·nutrient(영양소)를 구별! 보건·식품 단원 핵심어.",
+  "syn": ["nourishment(영양분)", "diet(식단)", "sustenance(자양분)"],
+  "anti": ["malnutrition(영양실조)", "starvation(굶주림)"],
+  "idiom": ["good nutrition(양질의 영양)", "nutrition facts(영양 성분표)", "nutritional value(영양가)"],
+  "colloc": ["good nutrition(양질의 영양)", "proper nutrition(적절한 영양)", "nutrition facts(영양 성분)"],
+  "ex_add": "Good nutrition is essential for children's growth.  (nutrition=영양)"
+ },
+ {
+  "num": "3091",
+  "hw": "obesity",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "지나치게 먹어 살찜 -> '비만'.",
+  "senses": [
+   "1) 비만",
+   "2) 과도한 비만 상태",
+   "3) 비만증"
+  ],
+  "etym": "라틴어 obesus(살찐) = ob-(지나치게) + edere(먹다)의 명사형 obesitas -> '지나치게(ob) 먹어(edere) 살찐 상태'. edere(먹다)는 obese·edible(먹을 수 있는)·obesity의 갈래.",
+  "deriv": "ob-(지나치게) + edere(먹다) -> obese -> 'obesity'. '지나치게 먹어 살찜 -> 비만(childhood obesity, 소아 비만)'. 한국 학습자 핵심: edere(먹다) 갈래 — obese(비만의)·edible(식용의)·inedible(못 먹는)! childhood obesity(소아 비만), the obesity epidemic(비만 만연), obesity rates(비만율), combat obesity(비만과 싸우다), lead to obesity(비만을 초래하다), an obesity crisis(비만 위기). 보건 단원 핵심어 — diet(식단)·nutrition(3090)·overweight(과체중)와 함께! 형용사는 obese(비만의). 반대 thinness(마름). overweight(과체중의)와 유의어 — obesity가 더 심한 의학적 상태.",
+  "syn": ["overweight(과체중)", "fatness(비만)"],
+  "anti": ["thinness(마름)", "leanness(날씬함)"],
+  "idiom": ["childhood obesity(소아 비만)", "the obesity epidemic(비만 만연)", "an obesity crisis(비만 위기)"],
+  "colloc": ["childhood obesity(소아 비만)", "obesity rates(비만율)", "combat obesity(비만과 싸우다)"],
+  "ex_add": "Childhood obesity has become a serious health problem.  (obesity=비만)"
+ }
+]

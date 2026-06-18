@@ -1,0 +1,952 @@
+[
+ {
+  "num": "3092",
+  "hw": "obey",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "귀 기울여 따르다 -> '복종하다·따르다'.",
+  "senses": [
+   "1) (명령·법을) 따르다·복종하다",
+   "2) (규칙을) 준수하다",
+   "3) (지시대로) 작동하다·반응하다"
+  ],
+  "etym": "라틴어 oboedire = ob-(~을 향해) + audire(듣다) -> '귀 기울여(audire) 따름'. audire(듣다)는 obey·audio(음성)·audience(청중)·audit(회계 감사)·auditorium(강당)의 뿌리.",
+  "deriv": "ob-(~을 향해) + audire(듣다) -> 'obey'. '귀 기울여 따르다 -> 복종하다·따르다(obey the rules, 규칙을 따르다)'. 한국 학습자 핵심: audire(듣다) 갈래 — audio·audience(청중)·audit(감사)·auditorium(강당)·audible(들리는)·audition! obey orders(명령에 따르다), obey the law(법을 지키다), refuse to obey(복종을 거부하다), obey one's parents(부모님 말씀을 따르다). obedient(순종적인)·obedience(복종)가 가족. follow(따르다)·comply(준수하다)·submit(굴복하다)과 유의어. 반대 disobey(거역하다)·defy(반항하다)·rebel(반란하다).",
+  "syn": ["follow(따르다)", "comply(준수하다)", "submit(굴복하다)"],
+  "anti": ["disobey(거역하다)", "defy(반항하다)", "rebel(반란하다)"],
+  "idiom": ["obey orders(명령에 따르다)", "obey the law(법을 지키다)", "refuse to obey(복종을 거부하다)"],
+  "colloc": ["obey the rules(규칙을 따르다)", "obey orders(명령에 복종하다)", "obey the law(법을 준수하다)"],
+  "ex_add": "Soldiers are trained to obey orders without question.  (obey=복종하다)"
+ },
+ {
+  "num": "3093",
+  "hw": "object",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "앞에 던져진 것 -> '물체·대상·목적 / 반대하다'.",
+  "senses": [
+   "1) 물체·사물",
+   "2) 대상·목표·목적 / (문법) 목적어",
+   "3) (동사) 반대하다·이의를 제기하다"
+  ],
+  "etym": "라틴어 objectum(앞에 던져진 것) = ob-(앞에·맞서) + jacere(던지다). '눈앞에(ob) 던져진(jacere) 것'이 핵심. jacere(던지다)는 objective(3094)·eject·inject·project·reject·subject·jet(2949)의 거대한 뿌리.",
+  "deriv": "ob-(앞에) + jacere(던지다) -> 'object'. '앞에 던져진 것 -> 물체·대상(an everyday object, 일상 물건)·목적(the object of the game)' -> 동사 '맞서 던지다 -> 반대하다(object to the plan)'. 한국 학습자 핵심: jacere(던지다) 대가족 — objective(3094)·eject·inject·project·reject·subject·jet(2949)·adjacent·conjecture! 명사·동사 강세 다름(OBject 물체 / obJECT 반대하다). object to + 명사/동명사(~에 반대하다 — to부정사 아님!), an object of ridicule(조롱거리), money is no object(돈은 문제가 안 된다). protest(항의하다)·oppose(3116, 반대하다)와 유의어. 반대 agree(동의하다)·approve(찬성하다).",
+  "syn": ["thing(물체)", "protest(반대하다)", "oppose(반대하다)"],
+  "anti": ["agree(동의하다)", "approve(찬성하다)", "consent(동의하다)"],
+  "idiom": ["object to(~에 반대하다)", "money is no object(돈은 문제가 안 된다)", "an object of ridicule(조롱거리)"],
+  "colloc": ["object to(~에 반대하다)", "an everyday object(일상 물건)", "the object of(~의 대상)"],
+  "ex_add": "Many local people object to the new airport.  (object to=~에 반대하다)"
+ },
+ {
+  "num": "3094",
+  "hw": "objective",
+  "pos": "n., adj.",
+  "cefr": "B2",
+  "core": "겨냥한 것 -> '목표 / 객관적인'.",
+  "senses": [
+   "1) 목표·목적(명사)",
+   "2) 객관적인·사실에 근거한(형용사)",
+   "3) (문법) 목적격의"
+  ],
+  "etym": "라틴어 objectum(앞에 던져진 것, 3093) + -ive -> '눈앞에 던져 놓고 겨냥하는 것'. ob-(앞에) + jacere(던지다) 뿌리. object(3093)·eject·project·reject와 한 jacere 갈래. '나 밖에 놓인 것 -> 객관적'으로!",
+  "deriv": "ob-(앞에) + jacere(던지다) -> 'objective'. '겨냥한 것 -> 목표(achieve an objective, 목표를 달성하다)' -> '나 밖에 놓인 -> 객관적인(an objective view, 객관적 견해)'. 한국 학습자 핵심: jacere(던지다) 대가족 — object(3093)·eject·inject·project·reject·subject·jet(2949)! objective(객관적인) ↔ subjective(주관적인, sub-+jacere) 정반대! the main objective(주요 목표), objective analysis(객관적 분석), remain objective(객관성을 유지하다), meet an objective(목표를 충족하다). goal(목표)·aim(목적) / impartial(공정한)과 유의어. 반대 subjective(주관적인)·biased(편향된).",
+  "syn": ["goal(목표)", "aim(목적)", "impartial(공정한)"],
+  "anti": ["subjective(주관적인)", "biased(편향된)"],
+  "idiom": ["the main objective(주요 목표)", "remain objective(객관성을 유지하다)", "objective analysis(객관적 분석)"],
+  "colloc": ["achieve an objective(목표를 달성하다)", "an objective view(객관적 견해)", "the main objective(주된 목표)"],
+  "ex_add": "Our main objective is to increase sales.  (objective=목표)"
+ },
+ {
+  "num": "3095",
+  "hw": "obligation",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "묶여 있음 -> '의무·책무'.",
+  "senses": [
+   "1) (법적·도덕적) 의무·책무",
+   "2) 채무·해야 할 일",
+   "3) 은혜·신세"
+  ],
+  "etym": "라틴어 obligare = ob-(~에 대해) + ligare(묶다) -> 명사형 obligatio -> '~에 묶여(ligare) 매임'. ligare(묶다)는 oblige(의무를 지우다)·league(2970)·ligament(인대)·ally(동맹)·rely(의지하다)의 뿌리.",
+  "deriv": "ob-(~에) + ligare(묶다) -> oblige -> 'obligation'. '묶여 있음 -> 의무·책무(a moral obligation, 도덕적 의무)'. 한국 학습자 핵심: ligare(묶다) 갈래 — oblige(의무를 지우다)·league(2970)·ligament(인대)·ally(동맹)·alliance·rely(의지하다)·liable(책임 있는)·religion(종교)! a legal obligation(법적 의무), have an obligation to do(~할 의무가 있다), be under no obligation(~할 의무가 없다), fulfill an obligation(의무를 다하다, 2786 fulfill), without obligation(의무 없이). duty(의무)·responsibility(책임)·commitment(2447)과 유의어. 반대 right(권리)·freedom(2781, 자유). oblige(의무를 지우다)·obligatory(의무적인)가 가족.",
+  "syn": ["duty(의무)", "responsibility(책임)", "commitment(책무)"],
+  "anti": ["right(권리)", "freedom(자유)", "choice(선택)"],
+  "idiom": ["a moral obligation(도덕적 의무)", "be under no obligation(~할 의무가 없다)", "have an obligation to(~할 의무가 있다)"],
+  "colloc": ["a legal obligation(법적 의무)", "a moral obligation(도덕적 의무)", "fulfill an obligation(의무를 이행하다)"],
+  "ex_add": "Parents have a legal obligation to educate their children.  (obligation=의무)"
+ },
+ {
+  "num": "3096",
+  "hw": "observation",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "지켜봄 -> '관찰·관측 / 소견'.",
+  "senses": [
+   "1) 관찰·관측·주시",
+   "2) (관찰을 통한) 의견·소견·논평",
+   "3) 감시·관찰 (대상)"
+  ],
+  "etym": "라틴어 observare = ob-(~을 향해) + servare(지키다·살피다) -> 명사형 observatio -> '눈여겨(ob) 지켜봄(servare)'. servare(지키다)는 observe(3097)·observer(3098)·conservation(2475)·preserve·reserve·conserve의 뿌리.",
+  "deriv": "ob-(향해) + servare(지키다) -> observe -> 'observation'. '지켜봄 -> 관찰·관측(careful observation, 면밀한 관찰)' -> '소견(make an observation, 의견을 말하다)'. 한국 학습자 핵심: servare(지키다) 대가족 — observe(3097)·observer(3098)·conservation(2475)·conservative(2476)·preserve·reserve·reservoir! under observation(관찰[감시] 중인), powers of observation(관찰력), make an observation(소견을 말하다), close observation(면밀한 관찰), observation deck(전망대). watching(주시)·remark(논평)과 유의어. observe(3097)·observatory(천문대)가 가족.",
+  "syn": ["watching(주시)", "remark(논평)", "monitoring(관찰)"],
+  "anti": [],
+  "idiom": ["under observation(관찰 중인)", "powers of observation(관찰력)", "make an observation(소견을 말하다)"],
+  "colloc": ["careful observation(면밀한 관찰)", "under observation(관찰 중)", "make an observation(소견을 말하다)"],
+  "ex_add": "His theory is based on careful observation.  (observation=관찰)"
+ },
+ {
+  "num": "3097",
+  "hw": "observe",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "눈여겨 지키다 -> '관찰하다·목격하다 / 준수하다·기념하다'.",
+  "senses": [
+   "1) 관찰하다·관측하다·목격하다",
+   "2) (소견을) 말하다·언급하다",
+   "3) (법·관습을) 지키다·준수하다 / 기념하다"
+  ],
+  "etym": "라틴어 observare = ob-(~을 향해) + servare(지키다·살피다). '눈여겨 지켜봄'과 '규칙을 지킴' 두 뜻이 한 servare에서. observation(3096)·observer(3098)·conservation(2475)·preserve와 한 갈래.",
+  "deriv": "ob-(향해) + servare(지키다) -> 'observe'. '눈여겨 지키다 -> 관찰하다(observe the stars, 별을 관측하다)·목격하다' -> '말하다(observe that S+V)' -> '준수하다(observe the law)·기념하다(observe a holiday)'. 한국 학습자 핵심: servare(지키다) 대가족 — observation(3096)·observer(3098)·conservation(2475)·conservative(2476)·preserve·reserve·conserve·reservoir! observe closely(면밀히 관찰하다), observe the rules(규칙을 지키다), observe a tradition(전통을 지키다), be observed(관찰되다). watch(지켜보다)·notice(알아채다)·comply(준수하다)와 유의어. observer(3098)·observatory(관측소)가 가족.",
+  "syn": ["watch(지켜보다)", "notice(알아채다)", "comply(준수하다)"],
+  "anti": ["ignore(무시하다)", "violate(위반하다)", "overlook(간과하다)"],
+  "idiom": ["observe the rules(규칙을 지키다)", "observe closely(면밀히 관찰하다)", "observe a tradition(전통을 지키다)"],
+  "colloc": ["observe closely(면밀히 관찰하다)", "observe the rules(규칙을 준수하다)", "observe behavior(행동을 관찰하다)"],
+  "ex_add": "Scientists observed the animals in their natural habitat.  (observe=관찰하다)"
+ },
+ {
+  "num": "3098",
+  "hw": "observer",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "지켜보는 사람 -> '관찰자·목격자·참관인'.",
+  "senses": [
+   "1) 관찰자·목격자",
+   "2) (전문) 평론가·논평가",
+   "3) (회의·선거) 참관인·옵서버"
+  ],
+  "etym": "observe(관찰하다, 3097) + -er. 라틴어 ob-(향해) + servare(지키다) 뿌리. '눈여겨 지켜보는 사람'이 핵심. observation(3096)·conservation(2475)·preserve와 한 servare 갈래.",
+  "deriv": "observe(3097) -> 'observer'. '지켜보는 사람 -> 관찰자·목격자(a casual observer, 무심한 관찰자)' -> '평론가(political observers, 정치 평론가)·참관인(an election observer, 선거 참관인)'. 한국 학습자 핵심: servare(지키다) 대가족 — observe(3097)·observation(3096)·conservation(2475)·preserve·reserve·conserve! a keen observer(예리한 관찰자), an impartial observer(공정한 참관인), to the casual observer(언뜻 보기에), UN observers(유엔 참관단), an outside observer(외부 관찰자). spectator(구경꾼)·witness(목격자)·commentator(논평가)와 유의어. observe(3097)·observation(3096)이 가족.",
+  "syn": ["spectator(구경꾼)", "witness(목격자)", "commentator(논평가)"],
+  "anti": ["participant(참가자)"],
+  "idiom": ["a casual observer(무심한 관찰자)", "an election observer(선거 참관인)", "to the casual observer(언뜻 보기에)"],
+  "colloc": ["a keen observer(예리한 관찰자)", "political observers(정치 평론가)", "an impartial observer(공정한 참관인)"],
+  "ex_add": "Political observers expect the law to pass.  (observer=평론가)"
+ },
+ {
+  "num": "3099",
+  "hw": "obstacle",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "앞에 서 있는 것 -> '장애물·방해물'.",
+  "senses": [
+   "1) (길을 막는) 장애물",
+   "2) (목표를 막는) 방해·걸림돌",
+   "3) (경기) 장애물"
+  ],
+  "etym": "라틴어 obstaculum <- obstare = ob-(앞에·맞서) + stare(서다) -> '앞을 가로막고 서 있는(stare) 것'. stare(서다)는 obstacle·constant(2483)·distant(2610)·instant(2925)·circumstance(2423)·stable·status의 거대한 뿌리.",
+  "deriv": "ob-(앞에) + stare(서다) -> 'obstacle'. '앞에 서서 막는 것 -> 장애물(overcome an obstacle, 장애를 극복하다)'. 한국 학습자 핵심: stare(서다) 대가족 — obstacle·constant(2483)·distant(2610)·instant(2925)·circumstance(2423)·stable·status·establish(2682)·obstruct(가로막다)! an obstacle to(~에 대한 장애), overcome an obstacle(장애를 극복하다, 3132 overcome), an obstacle course(장애물 코스), a major obstacle(큰 걸림돌), put obstacles in sb's way(~를 방해하다). barrier(장벽)·hurdle(허들)·hindrance(방해)와 유의어. 반대 aid(도움)·help(도움).",
+  "syn": ["barrier(장벽)", "hurdle(허들)", "hindrance(방해)"],
+  "anti": ["aid(도움)", "help(도움)", "advantage(이점)"],
+  "idiom": ["overcome an obstacle(장애를 극복하다)", "an obstacle to(~에 대한 장애)", "an obstacle course(장애물 코스)"],
+  "colloc": ["overcome an obstacle(장애를 극복하다)", "a major obstacle(큰 장애물)", "an obstacle to(~의 걸림돌)"],
+  "ex_add": "Lack of money was the biggest obstacle to her plans.  (obstacle=장애물)"
+ },
+ {
+  "num": "3100",
+  "hw": "obtain",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "꽉 붙잡아 두다 -> '얻다·획득하다'.",
+  "senses": [
+   "1) (노력해서) 얻다·획득하다·입수하다",
+   "2) (격식) 통용되다·존재하다",
+   "3) 손에 넣다"
+  ],
+  "etym": "라틴어 obtinere = ob-(~을 향해·꽉) + tenere(붙들다) -> '꽉 붙들어 손에 넣음'. tenere(붙들다)는 maintain(3001)·contain(담다)·retain(보유하다)·sustain(지탱하다)·entertaining(2669)·tenant의 거대한 뿌리.",
+  "deriv": "ob-(꽉) + tenere(붙들다) -> 'obtain'. '꽉 붙잡아 두다 -> 얻다·획득하다(obtain permission, 허가를 얻다)'. 한국 학습자 핵심: tenere(붙들다) 대가족 — maintain(3001)·contain·retain·sustain·detain·entertaining(2669)·tenant·tenure! obtain information/permission/a degree(정보·허가·학위를 얻다), difficult to obtain(구하기 어려운), obtain access to(~에 대한 접근권을 얻다), legally obtain(합법적으로 취득하다). get(얻다)·acquire(획득하다)·gain(2796, 얻다)과 유의어 — obtain은 격식체! 반대 lose(잃다)·forfeit(상실하다).",
+  "syn": ["get(얻다)", "acquire(획득하다)", "gain(얻다)"],
+  "anti": ["lose(잃다)", "forfeit(상실하다)", "give up(포기하다)"],
+  "idiom": ["obtain permission(허가를 얻다)", "difficult to obtain(구하기 어려운)", "obtain access to(~에 접근권을 얻다)"],
+  "colloc": ["obtain information(정보를 얻다)", "obtain permission(허가를 받다)", "obtain a degree(학위를 취득하다)"],
+  "ex_add": "You must obtain permission before entering the area.  (obtain=얻다)"
+ },
+ {
+  "num": "3101",
+  "hw": "occasionally",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "이따금 일이 떨어질 때 -> '가끔·때때로'.",
+  "senses": [
+   "1) 가끔·이따금·때때로",
+   "2) 어쩌다 한 번씩",
+   "3) 산발적으로"
+  ],
+  "etym": "occasion(때·경우) + -al + -ly. occasion은 라틴어 occasio <- ob-(~에) + cadere(떨어지다) -> '어쩌다 떨어진(cadere) 때'. cadere(떨어지다)는 occasion·coincidence(2436)·incident(2889)·casual(2403)·accident·decay의 뿌리.",
+  "deriv": "ob-(~에) + cadere(떨어지다) -> occasion -> 'occasionally'. '이따금 일이 떨어질 때 -> 가끔·때때로(occasionally happen, 가끔 일어나다)'. 한국 학습자 핵심: cadere(떨어지다) 대가족 — occasion(경우)·coincidence(2436)·incident(2889)·casual(2403)·accident·decay·occasional(가끔의)! 빈도 부사 순서 — always(항상) > usually(보통) > often(자주) > sometimes(때때로) > occasionally(가끔) > rarely(드물게) > never(결코)! occasionally meet(가끔 만나다), only occasionally(아주 가끔). sometimes(때때로)·now and then(이따금)·from time to time(때때로)과 유의어. 반대 frequently(자주)·constantly(2484, 끊임없이).",
+  "syn": ["sometimes(때때로)", "now and then(이따금)", "periodically(주기적으로)"],
+  "anti": ["frequently(자주)", "constantly(끊임없이)", "always(항상)"],
+  "idiom": ["only occasionally(아주 가끔)", "occasionally happen(가끔 일어나다)"],
+  "colloc": ["occasionally meet(가끔 만나다)", "only occasionally(아주 가끔)", "occasionally happen(때때로 일어나다)"],
+  "ex_add": "We occasionally go out for dinner on weekends.  (occasionally=가끔)"
+ },
+ {
+  "num": "3102",
+  "hw": "occupation",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "붙잡아 차지함 -> '직업 / 점령 / 점유'.",
+  "senses": [
+   "1) 직업·생업",
+   "2) (군사) 점령·점거",
+   "3) (공간) 점유·사용 / 소일거리"
+  ],
+  "etym": "라틴어 occupare = ob-(~을 향해) + capere(붙잡다) -> 명사형 occupatio -> '붙잡아(capere) 차지함'. capere(잡다)는 occupy(3103)·capable(2397)·capture(2399)·accept·receive·concept(2462)의 거대한 뿌리.",
+  "deriv": "ob-(향해) + capere(붙잡다) -> occupy(3103) -> 'occupation'. '붙잡아 차지함 -> 직업(state your occupation, 직업을 적다)·점령(military occupation, 군사 점령)·점유'. 한국 학습자 핵심: capere(잡다) 대가족 — occupy(3103)·capable(2397)·capture(2399)·accept·receive·concept(2462)·except·anticipate! occupation은 '직업'과 '점령' 두 뜻 모두 빈출! occupational(직업의, occupational hazard 직업상 위험), under occupation(점령하에), by occupation(직업은). job(일)·profession(직업)·career(경력)와 유의어 — occupation은 격식 있는 '직업'. occupy(3103)가 동사.",
+  "syn": ["job(직업)", "profession(직업)", "career(경력)"],
+  "anti": ["unemployment(실업)", "liberation(해방)"],
+  "idiom": ["military occupation(군사 점령)", "occupational hazard(직업상 위험)", "by occupation(직업상)"],
+  "colloc": ["state your occupation(직업을 적다)", "military occupation(군사 점령)", "an occupational hazard(직업병)"],
+  "ex_add": "Please write your name and occupation on the form.  (occupation=직업)"
+ },
+ {
+  "num": "3103",
+  "hw": "occupy",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "붙잡아 차지하다 -> '차지하다·점령하다·바쁘게 하다'.",
+  "senses": [
+   "1) (공간·시간을) 차지하다·점하다",
+   "2) (군사) 점령하다",
+   "3) (마음·시간을) 바쁘게 하다·몰두시키다"
+  ],
+  "etym": "라틴어 occupare = ob-(~을 향해) + capere(붙잡다) -> '붙잡아(capere) 차지함'. occupation(3102)·capable(2397)·capture(2399)와 한 capere 갈래.",
+  "deriv": "ob-(향해) + capere(붙잡다) -> 'occupy'. '붙잡아 차지하다 -> (공간을) 차지하다(occupy a seat, 자리를 차지하다)·점령하다(occupy a city)·(시간을) 바쁘게 하다(occupy oneself, 시간을 보내다)'. 한국 학습자 핵심: capere(잡다) 대가족 — occupation(3102)·capable(2397)·capture(2399)·accept·receive·concept(2462)·except·anticipate·participate! be occupied(사용 중인/바쁜), occupy one's time(시간을 보내다), occupy a position(직위를 차지하다), keep sb occupied(~를 바쁘게 하다), occupied territory(점령지). fill(채우다)·take up(차지하다)·seize(점령하다)와 유의어. occupant(점유자)·occupation(3102)이 가족.",
+  "syn": ["fill(채우다)", "take up(차지하다)", "seize(점령하다)"],
+  "anti": ["vacate(비우다)", "abandon(버리다)", "liberate(해방하다)"],
+  "idiom": ["be occupied(사용 중인)", "keep sb occupied(~를 바쁘게 하다)", "occupy one's time(시간을 보내다)"],
+  "colloc": ["occupy a seat(자리를 차지하다)", "occupy a position(직위를 차지하다)", "occupy a city(도시를 점령하다)"],
+  "ex_add": "The toys kept the children occupied for hours.  (occupy=바쁘게 하다)"
+ },
+ {
+  "num": "3104",
+  "hw": "offend",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "맞부딪쳐 치다 -> '기분 상하게 하다·불쾌하게 하다 / 범하다'.",
+  "senses": [
+   "1) 기분 상하게 하다·불쾌하게 하다",
+   "2) (감각·관념에) 거슬리다",
+   "3) (법을) 어기다·범죄를 저지르다"
+  ],
+  "etym": "라틴어 offendere = ob-(맞서) + fendere(치다) -> '맞부딪쳐 침'. fendere(치다)는 offender(3105)·offense(3106)·offensive(3107)·defend(2560)·defense(2562)·fender의 뿌리.",
+  "deriv": "ob-(맞서) + fendere(치다) -> 'offend'. '맞부딪쳐 치다 -> 기분 상하게 하다(offend sb, ~의 기분을 상하게 하다)·거슬리다' -> '법을 어기다(offend against the law)'. 한국 학습자 핵심: fendere(치다) 대가족 — offender(3105)·offense(3106)·offensive(3107)·defend(2560)·defender(2561)·defense(2562)·fender! be offended by(~에 기분이 상하다), no offense(기분 나쁘게 듣지 마), offend sb's sensibilities(~의 감수성을 건드리다), easily offended(쉽게 발끈하는). insult(모욕하다)·upset(속상하게 하다)와 유의어. 반대 please(기쁘게 하다)·flatter(치켜세우다). offense(3106)·offensive(3107)가 가족.",
+  "syn": ["insult(모욕하다)", "upset(속상하게 하다)", "annoy(화나게 하다)"],
+  "anti": ["please(기쁘게 하다)", "flatter(치켜세우다)", "delight(즐겁게 하다)"],
+  "idiom": ["no offense(기분 나쁘게 듣지 마)", "be offended by(~에 기분이 상하다)", "easily offended(쉽게 발끈하는)"],
+  "colloc": ["offend sb(~의 기분을 상하게 하다)", "be offended by(~에 불쾌해하다)", "deeply offend(크게 불쾌하게 하다)"],
+  "ex_add": "I hope my comments didn't offend you.  (offend=기분 상하게 하다)"
+ },
+ {
+  "num": "3105",
+  "hw": "offender",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "법을 친 사람 -> '범죄자·위반자'.",
+  "senses": [
+   "1) 범죄자·위반자",
+   "2) 상습범·반칙자",
+   "3) (문제를 일으키는) 원인·주범"
+  ],
+  "etym": "offend(범하다, 3104) + -er. 라틴어 ob-(맞서) + fendere(치다) 뿌리. '법·규칙을 친(어긴) 사람'이 핵심. offense(3106)·offensive(3107)·defend(2560)와 한 fendere 갈래.",
+  "deriv": "offend(3104) -> 'offender'. '법을 친 사람 -> 범죄자·위반자(a first offender, 초범)'. 한국 학습자 핵심: fendere(치다) 대가족 — offend(3104)·offense(3106)·offensive(3107)·defend(2560)·defender(2561)·defense(2562)! a first-time offender(초범), a repeat/persistent offender(상습범), a young offender(청소년 범죄자), a sex offender(성범죄자). 비유 — '주범'(The biggest offender is plastic, 가장 큰 원인은 플라스틱)! criminal(범죄자)·culprit(범인)·wrongdoer(범법자)와 유의어. 반대 victim(피해자)·law-abiding citizen(준법 시민).",
+  "syn": ["criminal(범죄자)", "culprit(범인)", "wrongdoer(범법자)"],
+  "anti": ["victim(피해자)", "law-abider(준법자)"],
+  "idiom": ["a first offender(초범)", "a repeat offender(상습범)", "a young offender(청소년 범죄자)"],
+  "colloc": ["a first-time offender(초범)", "a repeat offender(상습범)", "a sex offender(성범죄자)"],
+  "ex_add": "As a first offender, he received a light sentence.  (offender=범죄자)"
+ },
+ {
+  "num": "3106",
+  "hw": "offense",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "맞부딪쳐 침 -> '위반·범죄 / 모욕 / 공격'.",
+  "senses": [
+   "1) 위반·범죄·반칙",
+   "2) 모욕·기분 상함",
+   "3) (미) 공격·공격진"
+  ],
+  "etym": "라틴어 offensa(부딪침) <- offendere(치다, 3104) = ob-(맞서) + fendere(치다). offend(3104)·offender(3105)·offensive(3107)·defense(2562)와 한 fendere 갈래. (영국식 offence.)",
+  "deriv": "ob-(맞서) + fendere(치다) -> 'offense'. '맞부딪쳐 침 -> 위반·범죄(a criminal offense, 형사 범죄)·모욕(take offense, 기분 상해하다)·공격(the offense, 공격진)'. 한국 학습자 핵심: fendere(치다) 대가족 — offend(3104)·offender(3105)·offensive(3107)·defend(2560)·defense(2562)! 영국식 offence / 미국식 offense! take offense at(~에 기분 상해하다), give offense(기분을 상하게 하다), no offense(악의는 없어), a minor offense(경범죄), commit an offense(범죄를 저지르다). 스포츠 — offense(공격) ↔ defense(2562, 수비)! crime(범죄)·insult(모욕)·attack(공격)과 유의어.",
+  "syn": ["crime(범죄)", "insult(모욕)", "attack(공격)"],
+  "anti": ["defense(수비)", "compliment(칭찬)"],
+  "idiom": ["take offense(기분 상해하다)", "no offense(악의는 없어)", "commit an offense(범죄를 저지르다)"],
+  "colloc": ["a criminal offense(형사 범죄)", "take offense(기분 상해하다)", "a minor offense(경범죄)"],
+  "ex_add": "Driving without a license is a serious offense.  (offense=범죄)"
+ },
+ {
+  "num": "3107",
+  "hw": "offensive",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "치고 드는 -> '모욕적인·불쾌한 / 공격의 / 공세'.",
+  "senses": [
+   "1) 모욕적인·무례한·불쾌한",
+   "2) 공격(용)의·공세의",
+   "3) 공세·공격 (작전)(명사)"
+  ],
+  "etym": "offend(치다, 3104) + -ive. 라틴어 ob-(맞서) + fendere(치다) 뿌리. '치고 드는'이 핵심. offense(3106)·offender(3105)·defensive(방어적인)와 한 fendere 갈래.",
+  "deriv": "ob-(맞서) + fendere(치다) -> 'offensive'. '치고 드는 -> 모욕적인·불쾌한(an offensive remark, 모욕적인 말)·공격의(an offensive weapon, 공격용 무기)' -> 명사 '공세(launch an offensive, 공세를 펼치다)'. 한국 학습자 핵심: fendere(치다) 대가족 — offend(3104)·offender(3105)·offense(3106)·defend(2560)·defensive(방어적인)! deeply offensive(매우 모욕적인), find sth offensive(~을 불쾌하게 여기다), an offensive smell(역겨운 냄새), go on the offensive(공세로 나가다), a charm offensive(매력 공세). insulting(모욕적인)·rude(무례한) / aggressive(공격적인)와 유의어. 반대 inoffensive(무해한)·defensive(방어적인).",
+  "syn": ["insulting(모욕적인)", "rude(무례한)", "aggressive(공격적인)"],
+  "anti": ["inoffensive(무해한)", "defensive(방어적인)", "polite(공손한)"],
+  "idiom": ["go on the offensive(공세로 나서다)", "a charm offensive(매력 공세)", "find sth offensive(~을 불쾌하게 여기다)"],
+  "colloc": ["an offensive remark(모욕적인 말)", "deeply offensive(매우 모욕적인)", "launch an offensive(공세를 펴다)"],
+  "ex_add": "Many viewers found the joke offensive.  (offensive=모욕적인)"
+ },
+ {
+  "num": "3108",
+  "hw": "official",
+  "pos": "adj., n.",
+  "cefr": "B2",
+  "core": "직무의 -> '공식의·공무의 / 공무원·임원'.",
+  "senses": [
+   "1) 공식의·정식의·공인된",
+   "2) 공무의·직무상의",
+   "3) 공무원·관리·임원(명사)"
+  ],
+  "etym": "라틴어 officialis <- officium(직무·의무) = opus(일) + facere(하다) -> '맡은 일(officium)에 관한'. officium은 office(사무실)·officer(장교)·officiate(주재하다)의 뿌리. opus(일)는 opera(3112)·operate(3113)의 뿌리.",
+  "deriv": "officium(직무) -> officialis -> 'official'. '직무의 -> 공식의(an official statement, 공식 성명)' -> 명사 '공무원·관리(a government official, 정부 관리)'. 한국 학습자 핵심: officium(직무)=opus(일)+facere(하다) 갈래 — office(사무실)·officer(관리/장교)·officiate(주관하다) / opus 갈래 — opera(3112)·operate(3113)! an official statement(공식 발표), official business(공무), make it official(공식화하다), a senior official(고위 관리), official languages(공용어). formal(공식의)·authorized(공인된)와 유의어. 반대 unofficial(비공식의)·informal(비격식의). officially(공식적으로)가 부사.",
+  "syn": ["formal(공식의)", "authorized(공인된)", "officer(관리)"],
+  "anti": ["unofficial(비공식의)", "informal(비격식의)"],
+  "idiom": ["an official statement(공식 성명)", "make it official(공식화하다)", "a government official(정부 관리)"],
+  "colloc": ["an official statement(공식 성명)", "a government official(정부 관리)", "official languages(공용어)"],
+  "ex_add": "The government issued an official statement.  (official=공식의)"
+ },
+ {
+  "num": "3109",
+  "hw": "ongoing",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "계속 진행 중인 -> '진행 중인·계속되는'.",
+  "senses": [
+   "1) 진행 중인·계속되는",
+   "2) 끝나지 않은·현재 진행형의",
+   "3) 지속적인"
+  ],
+  "etym": "on(계속) + going(가는, go의 -ing형). '계속(on) 나아가는(going)'이 핵심. go(가다)·going·ongoing과 한 토박이 갈래. 형용사로 '아직 끝나지 않고 이어지는'을 뜻한다.",
+  "deriv": "on(계속) + going(가는) -> 'ongoing'. '계속 진행 중인 -> 진행 중인(an ongoing investigation, 진행 중인 조사)'. 한국 학습자 핵심: ongoing은 명사 앞에서 '진행 중인·계속되는' — an ongoing process(진행 중인 과정), an ongoing debate(계속되는 논쟁), ongoing support(지속적인 지원), an ongoing investigation(진행 중인 수사, 2942), ongoing problems(계속되는 문제), on an ongoing basis(지속적으로)! continuing(계속되는)·continuous(끊임없는)·current(2536, 현재의)와 유의어. 반대 finished(끝난)·completed(완료된). go(가다)·going 합성어.",
+  "syn": ["continuing(계속되는)", "current(진행 중인)", "in progress(진행 중인)"],
+  "anti": ["finished(끝난)", "completed(완료된)", "concluded(마무리된)"],
+  "idiom": ["an ongoing process(진행 중인 과정)", "on an ongoing basis(지속적으로)", "an ongoing investigation(진행 중인 수사)"],
+  "colloc": ["an ongoing process(진행 중인 과정)", "an ongoing debate(계속되는 논쟁)", "ongoing support(지속적 지원)"],
+  "ex_add": "The negotiations are still ongoing.  (ongoing=진행 중인)"
+ },
+ {
+  "num": "3110",
+  "hw": "opening",
+  "pos": "n., adj.",
+  "cefr": "B2",
+  "core": "열림 -> '개막·시작 / 빈자리·기회 / 트인 구멍'.",
+  "senses": [
+   "1) 개막·개시·시작 / 개점·개통",
+   "2) 빈자리·공석 / 좋은 기회",
+   "3) 트인 구멍·틈 / 시작의(형용사)"
+  ],
+  "etym": "open(열다·열린, 고대 영어 openian) + -ing. '여는 일·열린 곳'이 핵심. open(열다)·opener(따개)·openly(3111)와 한 토박이 갈래. closing(마감)과 정반대 짝.",
+  "deriv": "open(열다) -> 'opening'. '열림 -> 개막·시작(the opening of the exhibition, 전시 개막)' -> '빈자리·기회(a job opening, 일자리 공석)' -> '트인 구멍(an opening in the fence)'. 한국 학습자 핵심: opening(개막/공석) ↔ closing(마감) 정반대! a job opening(채용 공석), the opening ceremony(개막식), an opening night(개막 첫날 공연), a narrow opening(좁은 틈), opening hours(영업 시간), the opening scene(첫 장면). beginning(시작)·gap(틈)·vacancy(공석)와 유의어. open(3111 openly)·opener가 가족.",
+  "syn": ["beginning(시작)", "gap(틈)", "vacancy(공석)"],
+  "anti": ["closing(마감)", "ending(끝)", "closure(폐쇄)"],
+  "idiom": ["a job opening(일자리 공석)", "the opening ceremony(개막식)", "opening hours(영업 시간)"],
+  "colloc": ["a job opening(채용 공석)", "the opening ceremony(개막식)", "the opening scene(첫 장면)"],
+  "ex_add": "There's a job opening in the marketing department.  (opening=공석)"
+ },
+ {
+  "num": "3111",
+  "hw": "openly",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "터놓고 -> '공공연히·터놓고·솔직하게'.",
+  "senses": [
+   "1) 공공연히·드러내 놓고",
+   "2) 터놓고·솔직하게",
+   "3) 숨김없이"
+  ],
+  "etym": "open(열린·솔직한, 고대 영어 open) + -ly. '마음을 열고(open) 드러내어'가 핵심. open(열다)·opening(3110)·opener와 한 토박이 갈래.",
+  "deriv": "open(열린) -> 'openly'. '터놓고 -> 공공연히·솔직하게(speak openly, 터놓고 말하다)'. 한국 학습자 핵심: openly는 '숨기지 않고 드러내 놓고' — talk openly about(~에 대해 터놓고 이야기하다), openly admit(공공연히 인정하다), openly criticize(공개적으로 비판하다), openly gay(커밍아웃한, 2800 gay), weep openly(드러내 놓고 울다). frankly(솔직히)·publicly(3... 공개적으로)·candidly(숨김없이)와 유의어. open(열린)·opening(3110)이 가족. 반대 secretly(몰래)·privately(은밀히)·covertly(은밀하게).",
+  "syn": ["frankly(솔직히)", "publicly(공개적으로)", "candidly(숨김없이)"],
+  "anti": ["secretly(몰래)", "privately(은밀히)", "covertly(은밀하게)"],
+  "idiom": ["talk openly about(~을 터놓고 이야기하다)", "openly admit(공공연히 인정하다)"],
+  "colloc": ["speak openly(터놓고 말하다)", "openly admit(공공연히 인정하다)", "openly criticize(공개적으로 비판하다)"],
+  "ex_add": "They talked openly about their problems.  (openly=터놓고)"
+ },
+ {
+  "num": "3112",
+  "hw": "opera",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "공들인 작품 -> '오페라·가극'.",
+  "senses": [
+   "1) 오페라·가극",
+   "2) 오페라 작품·공연",
+   "3) 오페라단·오페라 극장"
+  ],
+  "etym": "라틴어 opera(수고·작품들) <- opus(일·작품)의 복수. '여러 예술(노래·연기·음악)을 들인 작품(opera)'이 핵심. opus(일)는 operate(3113)·operator(3114)·operation·cooperate·official(3108)의 뿌리.",
+  "deriv": "opus(작품) -> opera. '공들인 작품 -> 오페라·가극(go to the opera, 오페라를 보러 가다)'. 한국 학습자 핵심: opus(일·작품) 갈래 — operate(3113)·operator(3114)·operation·cooperate(협력하다)·opus(작품 번호)! a soap opera(연속극·드라마 — 옛날 비누 회사가 후원해서!), an opera house(오페라 극장), an opera singer(오페라 가수), a rock opera(록 오페라). 'soap opera'의 어원이 흥미 — 비누(soap) 광고 후원 멜로드라마! musical(뮤지컬)·theater(극장)와 관련. operate(3113)·operatic(오페라의)이 가족.",
+  "syn": ["musical drama(악극)"],
+  "anti": [],
+  "idiom": ["a soap opera(연속극)", "an opera house(오페라 극장)", "an opera singer(오페라 가수)"],
+  "colloc": ["go to the opera(오페라를 보러 가다)", "an opera house(오페라 극장)", "a soap opera(연속극)"],
+  "ex_add": "We went to see an opera at the theater last night.  (opera=오페라)"
+ },
+ {
+  "num": "3113",
+  "hw": "operate",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "일하게 하다 -> '작동하다·운영하다·수술하다'.",
+  "senses": [
+   "1) (기계가) 작동하다 / (기계를) 조작하다",
+   "2) (사업을) 운영하다·경영하다",
+   "3) (의학) 수술하다(operate on)"
+  ],
+  "etym": "라틴어 operari(일하다) <- opus(일·작품). '일(opus)을 하게 함·작동시킴'이 핵심. opus(일)는 opera(3112)·operator(3114)·operation·cooperate(협력하다)·official(3108)의 뿌리.",
+  "deriv": "opus(일) -> operari -> 'operate'. '일하게 하다 -> 작동하다(the machine operates, 기계가 작동하다)·운영하다(operate a business)·수술하다(operate on a patient)'. 한국 학습자 핵심: opus(일) 갈래 — opera(3112)·operator(3114)·operation·cooperate·cooperation·official(3108)·opus! operate on sb(~를 수술하다 — on 필수!), operate a machine(기계를 조작하다), operate efficiently(효율적으로 작동하다), fully operational(완전 가동 중인). work(작동하다)·run(운영하다)·function(2789, 기능하다)과 유의어. operation(작전·수술·운영)·operator(3114)가 가족.",
+  "syn": ["run(운영하다)", "function(작동하다)", "work(작동하다)"],
+  "anti": ["shut down(가동을 멈추다)"],
+  "idiom": ["operate on sb(~를 수술하다)", "fully operational(완전 가동 중인)", "operate a business(사업을 운영하다)"],
+  "colloc": ["operate a machine(기계를 조작하다)", "operate on a patient(환자를 수술하다)", "operate efficiently(효율적으로 작동하다)"],
+  "ex_add": "The surgeon will operate on her tomorrow morning.  (operate on=~을 수술하다)"
+ },
+ {
+  "num": "3114",
+  "hw": "operator",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "조작하는 사람 -> '운영자·기사·교환원'.",
+  "senses": [
+   "1) (기계) 조작자·기사",
+   "2) (전화) 교환원",
+   "3) (사업) 운영 회사·사업자"
+  ],
+  "etym": "operate(작동하다, 3113) + -or. 라틴어 opus(일) 뿌리. '일(opus)을 다루는 사람'이 핵심. opera(3112)·operate(3113)·operation·cooperate와 한 opus 갈래.",
+  "deriv": "operate(3113) -> 'operator'. '조작하는 사람 -> 기사(a crane operator, 크레인 기사)·교환원(call the operator, 교환원을 부르다)·운영사(a tour operator, 여행사)'. 한국 학습자 핵심: opus(일) 갈래 — opera(3112)·operate(3113)·operation·cooperate·official(3108)! a telephone operator(전화 교환원), a tour operator(여행 업체), a machine operator(기계 기사), a network operator(통신사), a smooth operator(수완가). 옛날 전화는 교환원(operator)을 거쳐 연결! manager(운영자)·technician(기사)과 유의어. operate(3113)·operation이 가족.",
+  "syn": ["technician(기사)", "manager(운영자)", "controller(조작자)"],
+  "anti": [],
+  "idiom": ["a tour operator(여행사)", "a smooth operator(수완가)", "call the operator(교환원을 부르다)"],
+  "colloc": ["a telephone operator(전화 교환원)", "a tour operator(여행 업체)", "a machine operator(기계 기사)"],
+  "ex_add": "If you need help, dial zero to reach the operator.  (operator=교환원)"
+ },
+ {
+  "num": "3115",
+  "hw": "opponent",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "맞은편에 선 자 -> '상대·적수·반대자'.",
+  "senses": [
+   "1) (경기·논쟁의) 상대·적수",
+   "2) (정치적) 적수·경쟁자",
+   "3) 반대자·반대론자"
+  ],
+  "etym": "라틴어 opponere = ob-(맞서) + ponere(놓다)의 현재분사 opponens -> '맞은편에(ob) 놓인(ponere) 자'. ponere(놓다)는 oppose(3116)·opposed(3117)·opposition(3118)·compose(2455)·expose(2713)·impose(2884)의 거대한 뿌리.",
+  "deriv": "ob-(맞서) + ponere(놓다) -> 'opponent'. '맞은편에 선 자 -> 상대·적수(a worthy opponent, 만만찮은 상대)·반대자(opponents of the plan)'. 한국 학습자 핵심: ponere(놓다) 대가족 — oppose(3116)·opposed(3117)·opposition(3118)·compose(2455)·expose(2713)·impose(2884)·component(2454)·deposit(2577)·propose! a political opponent(정적), a worthy opponent(훌륭한 적수), beat one's opponent(상대를 이기다), a formidable opponent(가공할 상대). rival(경쟁자)·adversary(적수)·challenger(도전자)와 유의어. 반대 ally(동맹)·supporter(지지자)·partner(동료).",
+  "syn": ["rival(경쟁자)", "adversary(적수)", "challenger(도전자)"],
+  "anti": ["ally(동맹)", "supporter(지지자)", "partner(동료)"],
+  "idiom": ["a worthy opponent(만만찮은 상대)", "a political opponent(정적)", "a formidable opponent(가공할 상대)"],
+  "colloc": ["a worthy opponent(훌륭한 적수)", "a political opponent(정적)", "beat an opponent(상대를 이기다)"],
+  "ex_add": "She defeated her opponent in the final match.  (opponent=상대)"
+ },
+ {
+  "num": "3116",
+  "hw": "oppose",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "맞서 놓다 -> '반대하다·맞서다'.",
+  "senses": [
+   "1) 반대하다·이의를 제기하다",
+   "2) 맞서다·대항하다",
+   "3) 대조시키다"
+  ],
+  "etym": "라틴어 opponere = ob-(맞서) + ponere(놓다) -> '맞은편에(ob) 놓아(ponere) 대항함'. opponent(3115)·opposed(3117)·opposition(3118)·compose(2455)·expose(2713)·impose(2884)와 한 ponere 갈래.",
+  "deriv": "ob-(맞서) + ponere(놓다) -> 'oppose'. '맞서 놓다 -> 반대하다(oppose the plan, 계획에 반대하다)·맞서다'. 한국 학습자 핵심: ponere(놓다) 대가족 — opponent(3115)·opposed(3117)·opposition(3118)·compose(2455)·expose(2713)·impose(2884)·component(2454)·deposit(2577)·propose·postpone! strongly oppose(강력히 반대하다), oppose a decision(결정에 반대하다), as opposed to(~과 대조적으로/~이 아니라). resist(저항하다)·object(3093, 반대하다)·fight(맞서다)와 유의어. 반대 support(지지하다)·favor(2735, 찬성하다)·back(후원하다). opposite(맞은편의)가 가족.",
+  "syn": ["resist(저항하다)", "object to(반대하다)", "fight(맞서다)"],
+  "anti": ["support(지지하다)", "favor(찬성하다)", "back(후원하다)"],
+  "idiom": ["as opposed to(~과 대조적으로)", "strongly oppose(강력히 반대하다)", "oppose a decision(결정에 반대하다)"],
+  "colloc": ["strongly oppose(강력히 반대하다)", "oppose a plan(계획에 반대하다)", "fiercely oppose(맹렬히 반대하다)"],
+  "ex_add": "Many residents oppose the building of the new road.  (oppose=반대하다)"
+ },
+ {
+  "num": "3117",
+  "hw": "opposed",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "맞서 놓인 -> '반대하는 / 대립되는'.",
+  "senses": [
+   "1) (be opposed to) ~에 반대하는",
+   "2) 대립되는·상반되는",
+   "3) (as opposed to) ~과 대조적으로"
+  ],
+  "etym": "oppose(반대하다, 3116)의 과거분사. 라틴어 ob-(맞서) + ponere(놓다) 뿌리. '맞은편에 놓여 대립된' 상태가 핵심. opponent(3115)·opposition(3118)·compose(2455)와 한 ponere 갈래.",
+  "deriv": "ob-(맞서) + ponere(놓다) -> oppose(3116) -> 'opposed'. '맞서 놓인 -> 반대하는(be opposed to, ~에 반대하다)·상반되는(diametrically opposed, 정반대인)'. 한국 학습자 핵심: ponere(놓다) 대가족 — opponent(3115)·oppose(3116)·opposition(3118)·compose(2455)·expose(2713)·impose(2884)! be opposed to + 명사/동명사(~에 반대하다 — to부정사 아님!), as opposed to(~이 아니라·~과는 대조적으로 — 빈출!), diametrically opposed(정반대의), strongly opposed(강력히 반대하는). against(반대하는)·hostile(적대적인)과 유의어. 반대 in favor of(찬성하는)·supportive(지지하는).",
+  "syn": ["against(반대하는)", "hostile(적대적인)", "contrary(상반되는)"],
+  "anti": ["in favor(찬성하는)", "supportive(지지하는)"],
+  "idiom": ["be opposed to(~에 반대하다)", "as opposed to(~과 대조적으로)", "diametrically opposed(정반대의)"],
+  "colloc": ["be opposed to(~에 반대하다)", "strongly opposed(강력히 반대하는)", "as opposed to(~이 아니라)"],
+  "ex_add": "She is strongly opposed to any form of violence.  (be opposed to=~에 반대하다)"
+ },
+ {
+  "num": "3118",
+  "hw": "opposition",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "맞서 놓임 -> '반대·저항 / 야당 / 상대편'.",
+  "senses": [
+   "1) 반대·저항·반발",
+   "2) (the opposition) 야당",
+   "3) 상대편·경쟁 상대"
+  ],
+  "etym": "라틴어 oppositio <- opponere(맞서 놓다, 3116) = ob-(맞서) + ponere(놓다). opponent(3115)·oppose(3116)·opposed(3117)·compose(2455)와 한 ponere 갈래. '맞은편에 놓여 맞섬'이 핵심.",
+  "deriv": "ob-(맞서) + ponere(놓다) -> oppose(3116) -> 'opposition'. '맞서 놓임 -> 반대·저항(meet with opposition, 반대에 부딪히다)·야당(the opposition party)·상대편'. 한국 학습자 핵심: ponere(놓다) 대가족 — opponent(3115)·oppose(3116)·opposed(3117)·compose(2455)·expose(2713)·impose(2884)·component(2454)·deposit(2577)! fierce opposition(거센 반대), in opposition to(~에 반대하여), the leader of the opposition(야당 대표), face opposition(반대에 직면하다), strong opposition(강한 반발). resistance(저항)·objection(반대)과 유의어. 반대 support(지지)·agreement(동의). 정치 — opposition(야당) ↔ ruling party(여당)!",
+  "syn": ["resistance(저항)", "objection(반대)", "defiance(반항)"],
+  "anti": ["support(지지)", "agreement(동의)", "approval(찬성)"],
+  "idiom": ["in opposition to(~에 반대하여)", "meet with opposition(반대에 부딪히다)", "the leader of the opposition(야당 대표)"],
+  "colloc": ["fierce opposition(거센 반대)", "face opposition(반대에 직면하다)", "the opposition party(야당)"],
+  "ex_add": "The plan met with fierce opposition from local residents.  (opposition=반대)"
+ },
+ {
+  "num": "3119",
+  "hw": "optimistic",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "가장 좋게 보는 -> '낙관적인·낙천적인'.",
+  "senses": [
+   "1) 낙관적인·낙천적인",
+   "2) 희망적인·긍정적으로 보는",
+   "3) 잘될 거라 믿는"
+  ],
+  "etym": "라틴어 optimus(가장 좋은) -> optimism + -istic. '모든 것을 가장 좋게(optimus) 보는'이 핵심. optimus(최선)는 optimism(낙관주의)·optimum(최적)·optimize(최적화하다)의 뿌리. pessimistic(비관적인, pessimus 가장 나쁜)과 정반대 짝!",
+  "deriv": "optimus(가장 좋은) -> optimism -> 'optimistic'. '가장 좋게 보는 -> 낙관적인(an optimistic outlook, 낙관적 전망)'. 한국 학습자 핵심: optimus(최선) 갈래 — optimism(낙관주의)·optimist(낙관론자)·optimum(최적의)·optimize(최적화하다)·optimal(최적의)! optimistic(낙관적) ↔ pessimistic(비관적) 정반대! be optimistic about(~에 대해 낙관하다), cautiously optimistic(조심스럽게 낙관하는), remain optimistic(낙관을 유지하다), an optimistic view(낙관적 견해). hopeful(희망적인)·positive(긍정적인)·upbeat(긍정적인)과 유의어. 반대 pessimistic(비관적인)·gloomy(우울한).",
+  "syn": ["hopeful(희망적인)", "positive(긍정적인)", "upbeat(긍정적인)"],
+  "anti": ["pessimistic(비관적인)", "gloomy(우울한)", "negative(부정적인)"],
+  "idiom": ["be optimistic about(~에 낙관하다)", "cautiously optimistic(조심스럽게 낙관하는)", "an optimistic outlook(낙관적 전망)"],
+  "colloc": ["an optimistic view(낙관적 견해)", "cautiously optimistic(조심스럽게 낙관하는)", "remain optimistic(낙관을 유지하다)"],
+  "ex_add": "She is optimistic about her chances of winning.  (optimistic=낙관적인)"
+ },
+ {
+  "num": "3120",
+  "hw": "orchestra",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "무대 앞 악단석 -> '관현악단·오케스트라'.",
+  "senses": [
+   "1) 관현악단·오케스트라",
+   "2) (the orchestra) 오케스트라석",
+   "3) (미) 극장 일층 앞자리"
+  ],
+  "etym": "그리스어 orkhestra(합창단이 춤추던 무대 앞 공간) <- orkheisthai(춤추다). 본래 '무대 앞 춤·연주 공간'에서 그 자리에서 연주하는 '악단'으로. '무대 앞에서 함께 연주하는 큰 악단'이 핵심.",
+  "deriv": "orkheisthai(춤추다) -> orkhestra(악단석) -> 'orchestra'. '무대 앞 악단석 -> 관현악단(a symphony orchestra, 교향악단)'. 한국 학습자 핵심: 그리스 극장의 '무대 앞 공간(orkhestra)'에서 유래 — 거기서 악단이 연주! a symphony orchestra(교향악단), a chamber orchestra(실내악단), conduct an orchestra(오케스트라를 지휘하다), the school orchestra(학교 관현악단), orchestral music(관현악). 동사 orchestrate(조직하다·편곡하다)도 여기서 — '여러 요소를 오케스트라처럼 조율하다'! band(악단)·ensemble(앙상블)과 유의어. conductor(지휘자)·composer(2456)와 함께.",
+  "syn": ["band(악단)", "ensemble(앙상블)"],
+  "anti": [],
+  "idiom": ["a symphony orchestra(교향악단)", "conduct an orchestra(오케스트라를 지휘하다)", "a chamber orchestra(실내악단)"],
+  "colloc": ["a symphony orchestra(교향악단)", "conduct an orchestra(오케스트라를 지휘하다)", "orchestral music(관현악)"],
+  "ex_add": "The orchestra played a beautiful symphony.  (orchestra=오케스트라)"
+ },
+ {
+  "num": "3121",
+  "hw": "organ",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "일하는 도구 -> '(신체) 장기 / 오르간 / 기관'.",
+  "senses": [
+   "1) (신체) 장기·기관",
+   "2) (악기) 오르간",
+   "3) (조직의) 기관·기구 / 기관지"
+  ],
+  "etym": "그리스어 organon(도구·악기) <- ergon(일·작업). '일(ergon)을 하는 도구'가 핵심. organon은 organic(3122)·organize(조직하다)·organism(유기체)·organ의 뿌리. ergon(일)은 energy(에너지)·ergonomics(인체공학)와 친척.",
+  "deriv": "ergon(일) -> organon(도구) -> 'organ'. '일하는 도구 -> 신체 장기(internal organs, 내장)·악기 오르간·조직 기관(an organ of government, 정부 기관)'. 한국 학습자 핵심: organon(도구) 갈래 — organic(3122)·organize(조직하다)·organism(생물)·organization(조직)·organ! ergon(일)은 energy·ergonomic(인체공학적)과 친척! a vital organ(중요 장기), organ donation(장기 기증, 2627 donation), an organ transplant(장기 이식), a pipe organ(파이프 오르간), the official organ(공식 기관지). 다의어 — 장기/악기/기관! organize·organism이 가족.",
+  "syn": ["body part(신체 부위)", "instrument(기관)"],
+  "anti": [],
+  "idiom": ["a vital organ(중요 장기)", "organ donation(장기 기증)", "an organ transplant(장기 이식)"],
+  "colloc": ["internal organs(내장 기관)", "organ donation(장기 기증)", "a vital organ(주요 장기)"],
+  "ex_add": "The heart is one of the body's most vital organs.  (organ=장기)"
+ },
+ {
+  "num": "3122",
+  "hw": "organic",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "생물 기관의 -> '유기농의·유기적인·생물의'.",
+  "senses": [
+   "1) 유기농의·화학 비료를 안 쓴",
+   "2) (화학) 유기의·탄소 화합물의",
+   "3) 유기적인·자연스럽게 발전하는"
+  ],
+  "etym": "그리스어 organon(생물 기관·도구) + -ic. '생물 기관(organon)에서 나온·생명체의'가 핵심. organ(3121)·organize·organism과 한 organon 갈래.",
+  "deriv": "organon(기관) -> organ(3121) -> 'organic'. '생물 기관의 -> 유기의(organic matter, 유기물)·유기농의(organic food, 유기농 식품)·유기적인(organic growth, 자연스러운 성장)'. 한국 학습자 핵심: organon(기관·도구) 갈래 — organ(3121)·organize(조직하다)·organism(생물체)·organization·organically! organic food/farming(유기농 식품·농업), organic matter(유기물), organic chemistry(유기 화학), an organic whole(유기적 전체), grow organically(자연스럽게 성장하다). natural(자연의) / inorganic(무기의)과 대비! 반대 inorganic(무기의)·artificial(인공의)·synthetic(합성의).",
+  "syn": ["natural(자연의)", "chemical-free(무화학의)"],
+  "anti": ["inorganic(무기의)", "artificial(인공의)", "synthetic(합성의)"],
+  "idiom": ["organic food(유기농 식품)", "organic farming(유기 농업)", "organic chemistry(유기 화학)"],
+  "colloc": ["organic food(유기농 식품)", "organic matter(유기물)", "organic farming(유기 농업)"],
+  "ex_add": "Many people prefer to buy organic vegetables.  (organic=유기농의)"
+ },
+ {
+  "num": "3123",
+  "hw": "origin",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "솟아 나온 곳 -> '기원·근원·출신'.",
+  "senses": [
+   "1) 기원·발단·근원",
+   "2) (사물의) 유래·출처",
+   "3) (사람의) 출신·태생"
+  ],
+  "etym": "라틴어 origo/origin-(시작·근원) <- oriri(솟아오르다·생기다). '솟아 나온(oriri) 처음'이 핵심. oriri(솟다)는 original(최초의)·originate(유래하다)·orient(동쪽=해 뜨는 곳)·aborigine(원주민)의 뿌리.",
+  "deriv": "oriri(솟다) -> origo -> 'origin'. '솟아 나온 곳 -> 기원·근원(the origin of life, 생명의 기원)·출신(of humble origins, 미천한 출신)'. 한국 학습자 핵심: oriri(솟다) 갈래 — original(원래의)·originate(비롯되다)·originality(독창성)·orient(동양=해 뜨는 쪽)·orientation(방향)·aboriginal(원주민의)! the origin of(~의 기원), country of origin(원산지), the origins of(~의 유래), ethnic origin(민족적 기원, 2687 ethnic), have its origins in(~에서 비롯되다). source(근원)·root(뿌리)·beginning(시작)과 유의어. original(최초의)·originate가 가족.",
+  "syn": ["source(근원)", "root(뿌리)", "beginning(시작)"],
+  "anti": ["end(끝)", "outcome(결과)", "destination(목적지)"],
+  "idiom": ["the origin of(~의 기원)", "country of origin(원산지)", "have its origins in(~에서 비롯되다)"],
+  "colloc": ["the origin of(~의 기원)", "country of origin(원산지)", "ethnic origin(민족적 기원)"],
+  "ex_add": "Scientists are studying the origin of the universe.  (origin=기원)"
+ },
+ {
+  "num": "3124",
+  "hw": "otherwise",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "다른 방식으로 -> '그렇지 않으면 / 그 외에는 / 달리'.",
+  "senses": [
+   "1) 그렇지 않으면·안 그러면",
+   "2) 그 외에는·그 밖에는",
+   "3) 다르게·달리"
+  ],
+  "etym": "other(다른) + wise(방식, 고대 영어 wise '방법'). '다른(other) 방식(wise)으로'가 핵심. -wise(방식)는 likewise(2979)·clockwise(시계 방향)·lengthwise의 접미사.",
+  "deriv": "other(다른) + wise(방식) -> 'otherwise'. '다른 방식으로 -> 그렇지 않으면(Hurry, otherwise we'll be late)·그 외에는(otherwise healthy, 그 밖에는 건강한)·달리(think otherwise, 달리 생각하다)'. 한국 학습자 핵심: -wise(방식) 무리 — likewise(2979)·clockwise(시계 방향으로)·lengthwise(길이로)·otherwise! 세 가지 용법 — (1) '안 그러면'(조건), (2) '그 외에는'(예외), (3) '달리'(방식)! or otherwise(또는 그 반대로), unless otherwise stated(달리 명시되지 않으면), prove otherwise(아니라고 입증하다). or else(아니면)·differently(다르게)와 유의어.",
+  "syn": ["or else(아니면)", "differently(다르게)", "apart from that(그 외에는)"],
+  "anti": [],
+  "idiom": ["or otherwise(또는 그 반대로)", "unless otherwise stated(달리 명시되지 않으면)", "think otherwise(달리 생각하다)"],
+  "colloc": ["otherwise(그렇지 않으면)", "unless otherwise stated(달리 명시되지 않는 한)", "otherwise healthy(그 외에는 건강한)"],
+  "ex_add": "Write it down, otherwise you'll forget.  (otherwise=그렇지 않으면)"
+ },
+ {
+  "num": "3125",
+  "hw": "outcome",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "나온 결과 -> '결과·성과'.",
+  "senses": [
+   "1) 결과·성과",
+   "2) (과정의) 귀결·결말",
+   "3) (예상되는) 산출 결과"
+  ],
+  "etym": "out(밖으로) + come(오다). '밖으로(out) 나온(come) 것 -> 결과'가 핵심. come(오다)과 한 토박이 갈래. income(2890, 들어온 것=소득)과 대비되는 발상.",
+  "deriv": "out(밖으로) + come(오다) -> 'outcome'. '나온 결과 -> 결과·성과(the outcome of the election, 선거 결과)'. 한국 학습자 핵심: out + come = '밖으로 나온 것 = 결과'! income(2890, 들어온 것=소득)과 발상이 짝! the outcome of(~의 결과), a positive/successful outcome(긍정적/성공적 결과), the final outcome(최종 결과), affect the outcome(결과에 영향을 미치다), a likely outcome(있음 직한 결과), regardless of the outcome(결과와 상관없이). result(결과)·consequence(결과)·conclusion(결론)과 유의어. 반대 cause(원인)·input(2915, 투입).",
+  "syn": ["result(결과)", "consequence(결과)", "conclusion(결말)"],
+  "anti": ["cause(원인)", "input(투입)"],
+  "idiom": ["the outcome of(~의 결과)", "a positive outcome(긍정적 결과)", "regardless of the outcome(결과와 상관없이)"],
+  "colloc": ["the outcome of(~의 결과)", "a positive outcome(긍정적 결과)", "the final outcome(최종 결과)"],
+  "ex_add": "Nobody could predict the outcome of the match.  (outcome=결과)"
+ },
+ {
+  "num": "3126",
+  "hw": "outer",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "더 바깥의 -> '바깥쪽의·외부의'.",
+  "senses": [
+   "1) 바깥쪽의·외부의",
+   "2) 중심에서 먼·외곽의",
+   "3) (outer space) 우주의"
+  ],
+  "etym": "out(밖)의 비교급 outer. '더 바깥(out)에 있는'이 핵심. out·outside(바깥)·outermost(가장 바깥의)와 한 토박이 갈래. inner(2912, 안쪽의)와 정반대 짝.",
+  "deriv": "out(밖) -> 'outer(더 바깥의)'. '바깥쪽의·외부의(the outer layer, 바깥 층)·외곽의(the outer suburbs, 외곽 교외)'. 한국 학습자 핵심: outer(바깥쪽의) ↔ inner(2912, 안쪽의) 정반대 짝! outer space(우주 — 빈출!), the outer edge(바깥 가장자리), outer layers(바깥 층), the outer world(바깥세상), outer London(런던 외곽). external(2720, 외부의)·outside(바깥의)·outermost(맨 바깥의)와 유의어. 반대 inner(2912)·internal(2935, 내부의)·central(중심의). out(밖)·outside가 가족.",
+  "syn": ["external(외부의)", "outside(바깥의)", "outermost(맨 바깥의)"],
+  "anti": ["inner(안쪽의)", "internal(내부의)", "central(중심의)"],
+  "idiom": ["outer space(우주)", "the outer edge(바깥 가장자리)", "the outer world(바깥세상)"],
+  "colloc": ["outer space(우주 공간)", "the outer layer(바깥 층)", "the outer suburbs(외곽 교외)"],
+  "ex_add": "The rocket traveled into outer space.  (outer=바깥쪽의)"
+ },
+ {
+  "num": "3127",
+  "hw": "outfit",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "갖춰 입은 한 벌 -> '옷차림·복장 / 장비 / 채비시키다'.",
+  "senses": [
+   "1) (한 벌의) 옷차림·복장",
+   "2) (특정 용도의) 장비 일습",
+   "3) (구어) 회사·단체 / (동사) 채비를 갖추게 하다"
+  ],
+  "etym": "out(밖으로) + fit(맞추다·갖추다). '밖에 나가도록(out) 갖춰(fit) 입은 것'이 핵심. fit(맞다·갖추다)과 한 토박이 갈래.",
+  "deriv": "out(밖으로) + fit(갖추다) -> 'outfit'. '갖춰 입은 한 벌 -> 옷차림(a stylish outfit, 멋진 옷차림)' -> '장비 일습 / 회사(a small outfit)' -> 동사 '채비시키다(outfit a ship)'. 한국 학습자 핵심: outfit은 '위아래 맞춘 한 벌 옷차림' — a new outfit(새 옷차림), a matching outfit(깔맞춤 옷, 3017 matching), a Halloween outfit(핼러윈 의상), wear an outfit(옷을 차려입다). clothes(옷)는 막연한 '옷', outfit은 '한 세트로 갖춘 차림'! ensemble(앙상블)·costume(의상)·gear(장비)와 유의어. fit(맞다)·fitting(어울리는)이 가족.",
+  "syn": ["ensemble(앙상블)", "costume(의상)", "gear(장비)"],
+  "anti": [],
+  "idiom": ["a matching outfit(깔맞춤 옷)", "a new outfit(새 옷차림)"],
+  "colloc": ["a stylish outfit(멋진 옷차림)", "a new outfit(새 옷차림)", "a matching outfit(어울리는 한 벌)"],
+  "ex_add": "She bought a new outfit for the wedding.  (outfit=옷차림)"
+ },
+ {
+  "num": "3128",
+  "hw": "outline",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "바깥 선 -> '윤곽·개요 / 윤곽을 그리다·개요를 말하다'.",
+  "senses": [
+   "1) 윤곽·외형선",
+   "2) 개요·요점·골자",
+   "3) (동사) 윤곽을 그리다 / 개요를 설명하다"
+  ],
+  "etym": "out(밖) + line(선·줄, 2982). '바깥(out) 선(line)을 그린 것'이 핵심. line(선)은 라틴어 linea(아마실 줄)에서 — linear·lining과 한 갈래. '겉테두리·뼈대'가 핵심.",
+  "deriv": "out(밖) + line(선) -> 'outline'. '바깥 선 -> 윤곽(the outline of a building, 건물의 윤곽)' -> '개요·골자(a brief outline, 간략한 개요)' -> 동사 '윤곽을 그리다·개요를 설명하다(outline a plan)'. 한국 학습자 핵심: line(선, 2982)은 linea(실) 갈래 — linear·lining·linen·underline·delineate! a rough outline(대략적 개요), in outline(개략적으로), outline the main points(요점을 간추리다), a course outline(강의 개요). summary(요약)·sketch(스케치)·silhouette(실루엣)과 유의어. line(2982)·underline(밑줄)이 가족.",
+  "syn": ["summary(요약)", "sketch(개략)", "silhouette(윤곽)"],
+  "anti": ["detail(세부 사항)"],
+  "idiom": ["in outline(개략적으로)", "a rough outline(대략적 개요)", "outline the main points(요점을 간추리다)"],
+  "colloc": ["a brief outline(간략한 개요)", "outline a plan(계획의 개요를 말하다)", "the outline of(~의 윤곽)"],
+  "ex_add": "She gave a brief outline of the project.  (outline=개요)"
+ },
+ {
+  "num": "3129",
+  "hw": "output",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "내놓음 -> '산출(량)·생산량 / 출력'.",
+  "senses": [
+   "1) 생산량·산출량",
+   "2) (컴퓨터) 출력 (데이터)",
+   "3) (작가·예술가의) 작품량 / (동사) 출력하다"
+  ],
+  "etym": "out(밖으로) + put(놓다·내다). '밖으로(out) 내놓는(put) 것'이 핵심. put(놓다)과 한 토박이 갈래. input(2915, 안에 넣음)과 정반대 짝.",
+  "deriv": "out(밖으로) + put(내다) -> 'output'. '내놓음 -> 산출량·생산량(increase output, 생산량을 늘리다)' -> 컴퓨터 '출력(data output)'. 한국 학습자 핵심: output(산출, out-) ↔ input(2915, 투입, in-) 정반대 짝! industrial output(산업 생산량), increase output(생산량을 늘리다), creative output(창작 활동량), economic output(경제 산출), output and input(출력과 입력). production(생산)·yield(산출)와 유의어. 반대 input(2915, 투입). put(놓다)·input(2915) 합성어.",
+  "syn": ["production(생산)", "yield(산출)", "productivity(생산성)"],
+  "anti": ["input(투입)", "consumption(소비)"],
+  "idiom": ["increase output(생산량을 늘리다)", "creative output(창작량)", "industrial output(산업 생산량)"],
+  "colloc": ["industrial output(산업 생산량)", "increase output(생산량을 늘리다)", "economic output(경제 산출)"],
+  "ex_add": "The factory increased its output by 20 percent.  (output=생산량)"
+ },
+ {
+  "num": "3130",
+  "hw": "outstanding",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "밖으로 솟아 있는 -> '뛰어난·두드러진 / 미지불된'.",
+  "senses": [
+   "1) 뛰어난·우수한·탁월한",
+   "2) 두드러진·눈에 띄는",
+   "3) (빚·일이) 미지불된·미해결의"
+  ],
+  "etym": "out(밖으로) + standing(서 있는, stand의 -ing). '밖으로(out) 솟아 서 있는(stand)'이 핵심. stand(서다)는 라틴어 stare(서다)와 친척으로 constant(2483)·obstacle(3099) 갈래. '남들보다 우뚝 선'이 핵심.",
+  "deriv": "out(밖으로) + standing(서 있는) -> 'outstanding'. '밖으로 솟아 있는 -> 뛰어난(an outstanding performance, 뛰어난 연기)' -> '아직 처리 안 되고 남아 있는 -> 미지불된(an outstanding debt, 미상환 부채)'. 한국 학습자 핵심: 두 뜻 모두 빈출 — (1) '뛰어난'(긍정), (2) '미해결·미지불된'(중립)! an outstanding student(우수한 학생), outstanding achievements(눈부신 업적), an outstanding balance(미결제 잔액), outstanding issues(미해결 사안). excellent(뛰어난)·exceptional(특출난)·remarkable(놀라운) / unpaid(미지불된)와 유의어. 반대 mediocre(평범한)·paid(지불된).",
+  "syn": ["excellent(뛰어난)", "exceptional(특출난)", "remarkable(놀라운)"],
+  "anti": ["mediocre(평범한)", "ordinary(보통의)", "paid(지불된)"],
+  "idiom": ["an outstanding debt(미상환 부채)", "outstanding achievements(눈부신 업적)", "outstanding issues(미해결 사안)"],
+  "colloc": ["an outstanding performance(뛰어난 연기)", "an outstanding student(우수한 학생)", "an outstanding debt(미지불 빚)"],
+  "ex_add": "She gave an outstanding performance in the play.  (outstanding=뛰어난)"
+ },
+ {
+  "num": "3131",
+  "hw": "overall",
+  "pos": "adj., adv., n.",
+  "cefr": "B2",
+  "core": "전체에 걸친 -> '전반적인·종합적인 / 대체로 / 작업복'.",
+  "senses": [
+   "1) 전반적인·종합적인·전체의",
+   "2) (부사) 전반적으로·대체로",
+   "3) (overalls) 작업용 멜빵바지"
+  ],
+  "etym": "over(전체에 걸쳐) + all(모두). '전체(all)에 두루(over) 걸친'이 핵심. over(위·걸쳐)·all(모두)과 한 토박이 갈래. 옷의 overall(작업복)은 '겉옷 전체를 덮는' 데서.",
+  "deriv": "over(걸쳐) + all(모두) -> 'overall'. '전체에 걸친 -> 전반적인(the overall cost, 총비용)' -> 부사 '대체로(Overall, it was a success)' -> '작업복(overalls)'. 한국 학습자 핵심: 세 품사 — 형용사(the overall result 종합 결과), 부사(Overall, ~ 전반적으로), 명사 복수(overalls 멜빵 작업복)! the overall picture(전체적 그림), the overall impression(전반적 인상), overall performance(종합 성적), overall, ~(대체로 ~). general(전반적인)·total(전체의)과 유의어. 반대 specific(구체적인)·partial(부분적인). over·all 합성어.",
+  "syn": ["general(전반적인)", "total(전체의)", "comprehensive(종합적인)"],
+  "anti": ["specific(구체적인)", "partial(부분적인)", "individual(개별의)"],
+  "idiom": ["Overall, ~(전반적으로 ~)", "the overall picture(전체적 그림)", "the overall impression(전반적 인상)"],
+  "colloc": ["the overall cost(총비용)", "overall performance(종합 성적)", "the overall result(종합 결과)"],
+  "ex_add": "Overall, the project was a great success.  (overall=전반적으로)"
+ },
+ {
+  "num": "3132",
+  "hw": "overcome",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "넘어서 이기다 -> '극복하다·이겨내다 / (감정에) 압도되다'.",
+  "senses": [
+   "1) (어려움을) 극복하다·이겨내다",
+   "2) (상대를) 이기다·제압하다",
+   "3) (be overcome by) (감정·연기에) 압도되다"
+  ],
+  "etym": "over(위로·넘어) + come(오다). '~위로(over) 넘어와(come) 이김'이 핵심. come(오다)·overcome·become(되다)과 한 토박이 갈래. 과거형 overcome-overcame-overcome(불규칙).",
+  "deriv": "over(넘어) + come(오다) -> 'overcome'. '넘어서 이기다 -> 극복하다(overcome difficulties, 어려움을 극복하다)' -> '(감정에) 압도되다(be overcome by emotion, 감정에 북받치다)'. 한국 학습자 핵심: 과거형 overcome-overcame-overcome(과거분사가 원형과 같음)! overcome an obstacle(장애를 극복하다, 3099 obstacle), overcome fear/addiction(두려움·중독을 이겨내다), be overcome by smoke/grief(연기·슬픔에 압도되다), overcome the odds(역경을 딛다). conquer(정복하다)·defeat(2559, 이기다)·surmount(극복하다)와 유의어. 반대 succumb(굴복하다)·give in(굴복하다).",
+  "syn": ["conquer(정복하다)", "defeat(이기다)", "surmount(극복하다)"],
+  "anti": ["succumb(굴복하다)", "give in(굴복하다)", "yield(굴복하다)"],
+  "idiom": ["overcome difficulties(어려움을 극복하다)", "be overcome by emotion(감정에 북받치다)", "overcome the odds(역경을 딛다)"],
+  "colloc": ["overcome difficulties(어려움을 극복하다)", "overcome fear(두려움을 이겨내다)", "overcome an obstacle(장애를 극복하다)"],
+  "ex_add": "She worked hard to overcome her fear of public speaking.  (overcome=극복하다)"
+ },
+ {
+  "num": "3133",
+  "hw": "overnight",
+  "pos": "adv., adj.",
+  "cefr": "B2",
+  "core": "밤사이에 -> '밤새·하룻밤 동안 / 하룻밤 사이의·갑작스러운'.",
+  "senses": [
+   "1) 밤새·하룻밤 동안",
+   "2) 하룻밤 사이에·갑자기",
+   "3) 하룻밤의·일박의(형용사)"
+  ],
+  "etym": "over(걸쳐) + night(밤). '밤(night)에 걸쳐(over)'가 핵심. over·night과 한 토박이 갈래. '하룻밤 만에 = 갑자기'라는 비유 뜻으로도 쓴다.",
+  "deriv": "over(걸쳐) + night(밤) -> 'overnight'. '밤사이에 -> 밤새(stay overnight, 하룻밤 묵다)' -> 비유 '하룻밤 사이에·갑자기(become famous overnight, 하루아침에 유명해지다)' -> 형용사 '일박의(an overnight stay, 1박)'. 한국 학습자 핵심: overnight은 '밤새'와 '하루아침에(갑자기)' 두 뜻! stay overnight(하룻밤 자다), an overnight success(하루아침에 이룬 성공·벼락 성공), overnight delivery(익일 배송), an overnight bag(1박용 가방), not happen overnight(하루아침에 되지 않다). suddenly(갑자기)와 유의어(비유 뜻). 반대 gradually(2820, 점차).",
+  "syn": ["suddenly(갑자기)", "all night(밤새)"],
+  "anti": ["gradually(점차)", "slowly(서서히)"],
+  "idiom": ["an overnight success(벼락 성공)", "stay overnight(하룻밤 묵다)", "not happen overnight(하루아침에 되지 않다)"],
+  "colloc": ["stay overnight(하룻밤 묵다)", "an overnight success(하루아침의 성공)", "overnight delivery(익일 배송)"],
+  "ex_add": "The band became famous almost overnight.  (overnight=하루아침에)"
+ },
+ {
+  "num": "3134",
+  "hw": "owe",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "지니고 있어 갚아야 함 -> '빚지다 / (은혜를) 입다·~ 덕분이다'.",
+  "senses": [
+   "1) (돈을) 빚지다·갚아야 하다",
+   "2) (은혜·의무를) 지다",
+   "3) (owe A to B) A는 B 덕분이다"
+  ],
+  "etym": "고대 영어 agan(소유하다·가지고 있다). 본래 '가지고 있다'에서 '남의 것을 가지고 있어 갚아야 한다'로. own(소유하다)·ought(~해야 한다)와 한 갈래 — '가진 것에 따른 의무'가 핵심.",
+  "deriv": "agan(가지다) -> 'owe'. '갚아야 함 -> 빚지다(owe money, 돈을 빚지다)·은혜를 입다(I owe you, 신세 졌다)·~ 덕분이다(owe success to luck)'. 한국 학습자 핵심: agan(가지다) 갈래 — own(소유하다)·ownership(3135)·ought(~해야 한다)! owe A B = owe B to A(A에게 B를 빚지다), I owe you one(신세 한 번 졌다), owe it to sb to do(~를 위해 ...할 의무가 있다), owe one's life to(~에게 목숨을 빚지다), owe a debt of gratitude(은혜를 입다, 2550 debt). 반대 own(소유하다)·repay(갚다). debt(2550, 빚)와 관련.",
+  "syn": ["be in debt(빚지다)", "be indebted(신세 지다)"],
+  "anti": ["own(소유하다)", "repay(갚다)", "lend(빌려주다)"],
+  "idiom": ["I owe you one(신세 한 번 졌다)", "owe it to sb(~에게 은혜를 입다)", "owe a debt of gratitude(은혜를 입다)"],
+  "colloc": ["owe money(돈을 빚지다)", "owe sb a favor(~에게 신세 지다)", "owe success to(~ 덕분에 성공하다)"],
+  "ex_add": "I still owe him fifty dollars.  (owe=빚지다)"
+ },
+ {
+  "num": "3135",
+  "hw": "ownership",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "소유한 상태 -> '소유(권)·주인 자격'.",
+  "senses": [
+   "1) 소유·소유권",
+   "2) 소유주의 신분·주인 자격",
+   "3) (일에 대한) 주인 의식·책임감"
+  ],
+  "etym": "own(자기 소유의·소유하다, 고대 영어 agen) + -er + -ship(자격·상태). '소유하는(own) 사람의 자격·상태'가 핵심. own(소유하다)·owe(3134)·owner와 한 agan 갈래. -ship은 membership(3030)·leadership(2969)의 접미사.",
+  "deriv": "own(소유하다) -> owner -> 'ownership'. '소유한 상태 -> 소유권(transfer ownership, 소유권을 넘기다)' -> 비유 '주인 의식(take ownership of a problem, 문제에 책임을 지다)'. 한국 학습자 핵심: -ship(자격·상태) 무리 — membership(3030)·leadership(2969)·ownership·partnership·citizenship(시민권)! agan(가지다) 갈래 — own·owe(3134)·owner! home ownership(주택 소유), private ownership(사유), transfer of ownership(소유권 이전), under new ownership(새 주인하에), take ownership(주인 의식을 갖다·책임지다). possession(소유)·proprietorship(소유권)과 유의어. own(소유하다)·owner(주인)가 가족.",
+  "syn": ["possession(소유)", "title(소유권)", "proprietorship(소유권)"],
+  "anti": [],
+  "idiom": ["transfer ownership(소유권을 이전하다)", "take ownership(주인 의식을 갖다)", "under new ownership(새 주인하에)"],
+  "colloc": ["home ownership(주택 소유)", "private ownership(사유)", "transfer of ownership(소유권 이전)"],
+  "ex_add": "Ownership of the company passed to his son.  (ownership=소유권)"
+ },
+ {
+  "num": "3136",
+  "hw": "oxygen",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "산을 만드는 원소 -> '산소(O)'.",
+  "senses": [
+   "1) (원소) 산소",
+   "2) 산소 기체",
+   "3) (호흡용) 산소"
+  ],
+  "etym": "그리스어 oxys(신·날카로운) + -gen(만들어 내는) -> '산(acid)을 만든다고 여겨진 원소'. 라부아지에가 명명. oxys(신)는 oxygen·oxide(산화물)·oxymoron(모순 어법=날카롭게-둔하게)의 뿌리. -gen(낳다)은 gene(2802)·generate(2803) 갈래.",
+  "deriv": "oxys(신) + -gen(만드는) -> 'oxygen'. '산을 만드는 원소 -> 산소(breathe oxygen, 산소를 들이쉬다)'. 한국 학습자 핵심: oxys(날카로운·신) 갈래 — oxide(산화물)·oxymoron(모순 형용=jumbo shrimp 같은) / -gen(낳다) 갈래 — gene(2802)·generate(2803)·hydrogen(수소)·nitrogen(질소)! an oxygen mask(산소마스크), an oxygen tank(산소통), oxygen supply(산소 공급), run out of oxygen(산소가 떨어지다), oxygen levels(산소 농도). 과학 단원 핵심어 — hydrogen(수소)·carbon(2400, 탄소)·nitrogen(질소)과 함께! 화학 기호 O.",
+  "syn": ["O2(산소)", "air(공기)"],
+  "anti": ["carbon dioxide(이산화탄소)"],
+  "idiom": ["an oxygen mask(산소마스크)", "run out of oxygen(산소가 떨어지다)", "oxygen supply(산소 공급)"],
+  "colloc": ["breathe oxygen(산소를 들이쉬다)", "an oxygen mask(산소마스크)", "oxygen levels(산소 농도)"],
+  "ex_add": "Plants release oxygen into the atmosphere.  (oxygen=산소)"
+ },
+ {
+  "num": "3137",
+  "hw": "pace",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "한 걸음 -> '속도·걸음 / 서성이다·속도를 조절하다'.",
+  "senses": [
+   "1) (걷거나 일하는) 속도·페이스",
+   "2) 걸음·보폭",
+   "3) (동사) 서성이다 / 속도를 조절하다"
+  ],
+  "etym": "라틴어 passus(걸음·보폭) <- pandere(펼치다·뻗다). '한 걸음에 다리를 뻗은(pandere) 거리'가 핵심. passus(걸음)는 pass(지나가다)·passage(통로)·expansion(2706 pandere 친척)의 갈래.",
+  "deriv": "passus(걸음) -> 'pace'. '한 걸음 -> 속도·페이스(at a slow pace, 느린 속도로)·보폭' -> 동사 '서성이다(pace the room)·조절하다(pace oneself)'. 한국 학습자 핵심: passus(걸음)는 pass(지나가다)·passage(통로)와 한 갈래! keep pace with(~에 뒤지지 않다·보조를 맞추다 — 빈출!), set the pace(속도를 선도하다), at one's own pace(자기 페이스대로), pick up the pace(속도를 높이다), a hectic pace(정신없는 속도). speed(속도)·rate(속도)·tempo(박자)와 유의어. pacemaker(심박 조율기)가 가족.",
+  "syn": ["speed(속도)", "rate(속도)", "tempo(박자)"],
+  "anti": [],
+  "idiom": ["keep pace with(~에 보조를 맞추다)", "set the pace(속도를 선도하다)", "at one's own pace(자기 속도대로)", "pick up the pace(속도를 높이다)"],
+  "colloc": ["a slow pace(느린 속도)", "keep pace with(~에 보조를 맞추다)", "set the pace(페이스를 선도하다)"],
+  "ex_add": "He walked at a steady pace down the street.  (pace=속도)"
+ },
+ {
+  "num": "3138",
+  "hw": "package",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "꾸려 묶은 것 -> '소포·꾸러미 / 일괄 상품·패키지 / 포장하다'.",
+  "senses": [
+   "1) 소포·꾸러미·포장물",
+   "2) 일괄 상품·종합 세트·패키지",
+   "3) (동사) 포장하다·꾸리다"
+  ],
+  "etym": "pack(꾸리다·묶다, 게르만어 pak) + -age. '짐을 꾸려(pack) 묶은 것'이 핵심. pack(묶음)·packet(3139)·packaging(포장)과 한 갈래.",
+  "deriv": "pack(꾸리다) -> 'package'. '꾸려 묶은 것 -> 소포(send a package, 소포를 보내다)' -> '일괄 상품(a holiday package, 패키지여행)·종합안(a financial package)' -> 동사 '포장하다(neatly packaged)'. 한국 학습자 핵심: pack(꾸리다) 갈래 — pack·packet(3139)·packaging(포장재)·packed(꽉 찬)·backpack(배낭)·unpack(짐을 풀다)! a package deal(일괄 거래), a package tour(패키지여행), a software package(소프트웨어 묶음), a benefits package(복리후생 일괄), a care package(위문품). parcel(소포)·bundle(꾸러미)과 유의어. (미국은 package, 영국은 parcel을 소포로 자주!)",
+  "syn": ["parcel(소포)", "bundle(꾸러미)", "packet(꾸러미)"],
+  "anti": [],
+  "idiom": ["a package deal(일괄 거래)", "a package tour(패키지여행)", "a care package(위문품)"],
+  "colloc": ["send a package(소포를 보내다)", "a package tour(패키지여행)", "a software package(소프트웨어 패키지)"],
+  "ex_add": "A package arrived for you this morning.  (package=소포)"
+ },
+ {
+  "num": "3139",
+  "hw": "packet",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "작은 묶음 -> '(작은) 봉지·갑 / (통신) 패킷'.",
+  "senses": [
+   "1) (영) (작은) 봉지·갑·통",
+   "2) 한 묶음·소포",
+   "3) (통신) 데이터 패킷"
+  ],
+  "etym": "pack(꾸러미·묶다) + -et(작은 것을 뜻하는 축소 접미사). '작은(packet) 꾸러미'가 핵심. package(3138)·pack과 한 갈래. -et은 pocket(작은 주머니)·ticket의 축소 접미사.",
+  "deriv": "pack(묶음) + -et(작은) -> 'packet'. '작은 묶음 -> 봉지·갑(a packet of crisps, 감자칩 한 봉지)' -> 통신 '데이터 패킷'. 한국 학습자 핵심: -et(작은) 축소 접미사 — pocket(주머니)·ticket·packet·booklet(소책자)·islet(작은 섬)! (영) a packet of cigarettes/biscuits(담배 한 갑·비스킷 한 봉), a seed packet(씨앗 봉지), a data packet(데이터 패킷), a wage packet(영, 급여 봉투). 미국은 packet 대신 pack(a pack of gum 껌 한 통)을 자주! package(3138)·pack과 가족 — packet은 더 작은 단위! sachet(작은 봉지)·pack(갑)과 유의어.",
+  "syn": ["pack(갑)", "sachet(작은 봉지)", "envelope(봉투)"],
+  "anti": [],
+  "idiom": ["a packet of crisps(감자칩 한 봉지)", "a data packet(데이터 패킷)", "a wage packet(급여 봉투)"],
+  "colloc": ["a packet of(~ 한 봉지)", "a seed packet(씨앗 봉지)", "a data packet(데이터 패킷)"],
+  "ex_add": "She bought a packet of biscuits at the shop.  (packet=봉지)"
+ },
+ {
+  "num": "3140",
+  "hw": "palm",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "손바닥 -> '손바닥 / 야자나무 / 슬쩍 감추다'.",
+  "senses": [
+   "1) 손바닥",
+   "2) 야자나무·종려나무",
+   "3) (동사) 손바닥에 슬쩍 감추다 / (palm off) 떠넘기다"
+  ],
+  "etym": "라틴어 palma(손바닥·야자 잎). 야자 잎이 활짝 편 손바닥(palma)을 닮아 '야자나무'도 palm! '쫙 펼친 손바닥'이 핵심. palmistry(손금 보기)가 가족.",
+  "deriv": "palma(손바닥) -> 'palm'. '손바닥(the palm of one's hand)' -> 잎이 손바닥 모양인 '야자나무(a palm tree)' -> 동사 '슬쩍 감추다(palm a card)'. 한국 학습자 핵심: 손바닥(palm)과 야자나무(palm)가 같은 단어 — 야자 잎이 손바닥 모양이라서! read sb's palm(손금을 보다), the palm of your hand(손바닥), have sb in the palm of one's hand(~를 손아귀에 쥐다), palm off(억지로 떠넘기다·속여 팔다), a palm tree(야자나무), Palm Sunday(종려 주일). 손가락 부위: palm(손바닥)·fingers(손가락)·wrist(손목). 발음 — l 묵음 [pɑːm] '팜'!",
+  "syn": ["(손바닥) hand(손)"],
+  "anti": ["back of the hand(손등)"],
+  "idiom": ["read sb's palm(손금을 보다)", "in the palm of one's hand(손아귀에)", "palm off(떠넘기다)", "a palm tree(야자나무)"],
+  "colloc": ["the palm of one's hand(손바닥)", "read sb's palm(손금을 보다)", "a palm tree(야자나무)"],
+  "ex_add": "She held the small coin in the palm of her hand.  (palm=손바닥)"
+ },
+ {
+  "num": "3141",
+  "hw": "panel",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "한 조각 천·판 -> '판·패널 / 토론단·심사단'.",
+  "senses": [
+   "1) (벽·문의) 판·널 / 계기판",
+   "2) (토론·심사) 패널·위원단",
+   "3) (옷감) 한 폭"
+  ],
+  "etym": "라틴어 pannus(천 조각) -> 고대 프랑스어 panel(작은 천 조각·명단) -> 'panel'. 본래 '한 조각 천'에서 '판·널' 그리고 '명단에 오른 사람들 -> 위원단'으로. pannus(천)는 pane(창유리 한 장)·panel의 뿌리.",
+  "deriv": "pannus(천 조각) -> 'panel'. '한 조각 판 -> 판·패널(a solar panel, 태양 전지판)·계기판(the control panel)' -> '명단의 사람들 -> 토론단·심사단(a panel of experts, 전문가 패널)'. 한국 학습자 핵심: pannus(천) 갈래 — pane(창유리 한 장)·panel·counterpane(침대보)! a solar panel(태양광 패널), a control panel(제어판), a panel of judges(심사위원단), a panel discussion(공개 토론), an advisory panel(자문단), a panel of experts(전문가 패널). board(위원회)·jury(2955, 심사단)와 유의어 — '판'과 '심사단' 두 뜻!",
+  "syn": ["board(판/위원회)", "jury(심사단)", "committee(위원회)"],
+  "anti": [],
+  "idiom": ["a panel of experts(전문가 패널)", "a solar panel(태양광 패널)", "a panel discussion(공개 토론)"],
+  "colloc": ["a solar panel(태양광 패널)", "a panel of judges(심사위원단)", "a control panel(제어판)"],
+  "ex_add": "A panel of experts will judge the competition.  (panel=심사단)"
+ }
+]
