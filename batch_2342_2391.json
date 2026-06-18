@@ -1,0 +1,952 @@
+[
+ {
+  "num": "2342",
+  "hw": "bar",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "가로지른 '막대' -> 막다 / 술집·법조계.",
+  "senses": [
+   "1) 막대·빗장 / 술집·바",
+   "2) (동사) 빗장을 지르다·가로막다·금지하다",
+   "3) (the bar) 법조계 / ~을 제외하고"
+  ],
+  "etym": "고대 프랑스어 barre(막대·장벽). '가로지른 막대'가 핵심. barrier(장벽, 2345)·barricade(바리케이드)·embarrass(쩔쩔매게 하다, 1691)·barrister(법정 변호사)가 같은 barre(막대) 뿌리.",
+  "deriv": "barre(막대) -> 'bar'. '막대(an iron bar)·술집(a coffee bar)' -> 동사 '가로막다(bar the way)·금지하다(bar from entering)' -> 'the bar(법조계, 법정의 난간에서)'. barre 뿌리로 barrier(2345)·barricade·embarrass(1691)와 묶인다. 한국 학습자: behind bars(수감된, 쇠창살 뒤), bar none(예외 없이), a chocolate bar(초콜릿 바), raise the bar(기준을 높이다, 2009 raise), call to the bar(변호사 자격을 얻다). bar A from V-ing(A가 ~하는 것을 막다).",
+  "syn": ["rod(막대)", "block(막다)", "ban(금지하다)"],
+  "anti": ["allow(허용하다)", "admit(들이다)"],
+  "idiom": ["behind bars(수감된)", "bar none(예외 없이)", "raise the bar(기준을 높이다)", "bar from(~을 금지하다)"],
+  "colloc": ["iron bar(쇠막대)", "bar from entering(출입을 막다)", "chocolate bar(초콜릿 바)"],
+  "ex_add": "He was barred from entering the building.  (bar from=~을 막다)"
+ },
+ {
+  "num": "2343",
+  "hw": "barely",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "'가까스로·간신히' / 거의 ~ 않게.",
+  "senses": [
+   "1) 간신히·가까스로",
+   "2) 거의 ~ 않게(준부정)",
+   "3) ~하자마자"
+  ],
+  "etym": "bare(벌거벗은·간신한, 고대 영어 bær) + -ly. '꾸밈없이 딱 그 정도만'에서 '간신히'로. bare(맨~)·barely가 한 가족. '겨우 ~할 만큼'이 핵심.",
+  "deriv": "bare(벌거벗은) -> 'barely(간신히)'. '가까스로(barely enough, 겨우 충분한)' -> 준부정 '거의 ~않게(I could barely hear, 거의 안 들렸다)'. 한국 학습자 핵심: barely는 hardly(1782)·scarcely처럼 준부정어 — 그 자체로 부정 의미라 not과 안 씀! barely + 동사(barely manage, 가까스로 해내다), barely any(거의 없는), barely had ~ when(~하자마자). hardly(거의 ~않다)·scarcely와 유의어. bare(맨~)/barely 가족.",
+  "syn": ["hardly(거의 ~않다)", "scarcely(가까스로)", "only just(겨우)"],
+  "anti": ["easily(쉽게)", "amply(충분히)", "comfortably(여유 있게)"],
+  "idiom": ["barely enough(겨우 충분한)", "barely any(거의 없는)", "barely had ~ when(~하자마자)"],
+  "colloc": ["barely enough(겨우 충분한)", "barely visible(거의 보이지 않는)", "barely manage(가까스로 해내다)"],
+  "ex_add": "I could barely hear him over the noise.  (barely=거의 ~ 못하다)"
+ },
+ {
+  "num": "2344",
+  "hw": "bargain",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "값을 깎는 '흥정' -> 싸게 산 물건.",
+  "senses": [
+   "1) 싸게 산 물건·특가품",
+   "2) 거래·합의·흥정",
+   "3) (동사) 흥정하다·값을 깎다"
+  ],
+  "etym": "고대 프랑스어 bargaignier(흥정하다). 게르만어 계열로 '주고받으며 값을 다툼'이 핵심. 어원이 다소 불확실하나 '거래·흥정'이 본뜻.",
+  "deriv": "'흥정' -> '특가품(a real bargain, 거저나 다름없는 것)' -> 동사 '흥정하다(bargain over the price)'. 한국 학습자: a bargain(싸게 잘 산 것), a bargain price(특가), bargain hunting(알뜰 쇼핑), drive a hard bargain(좀처럼 양보하지 않고 흥정하다), into the bargain(덤으로·게다가), keep one's side of the bargain(약속을 지키다), strike a bargain(거래를 성사시키다). bargain for(예상하다, more than I bargained for 예상보다 큰일). haggle(값을 깎다)과 유의어.",
+  "syn": ["deal(거래)", "haggle(흥정하다)", "negotiate(협상하다)"],
+  "anti": ["rip-off(바가지)"],
+  "idiom": ["drive a hard bargain(완강하게 흥정하다)", "into the bargain(덤으로)", "more than one bargained for(예상보다 큰일)", "strike a bargain(거래를 맺다)"],
+  "colloc": ["a real bargain(아주 싼 물건)", "bargain price(특가)", "bargain hunting(특가 사냥)"],
+  "ex_add": "At that price, the car was a real bargain.  (bargain=싸게 산 물건)"
+ },
+ {
+  "num": "2345",
+  "hw": "barrier",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "가로막은 '장벽·장애물'.",
+  "senses": [
+   "1) 장벽·차단막·방벽",
+   "2) (추상적) 장애·걸림돌",
+   "3) 경계·한계"
+  ],
+  "etym": "고대 프랑스어 barriere < barre(막대·빗장). '가로막는 것'이 핵심. barre(막대) 뿌리로 bar(2342)·barricade·embarrass(1691)가 묶인다.",
+  "deriv": "barre(막대) -> 'barrier'. 물리 '방벽(a crash barrier, 충돌 방지벽)' -> 추상 '장애(a language barrier, 언어 장벽)'. barre 뿌리로 bar(2342)·barricade와 묶인다. 한국 학습자: a language barrier(언어 장벽), a barrier to(~에 대한 장애물), break down barriers(장벽을 허물다), trade barriers(무역 장벽), the sound barrier(음속 장벽), a barrier between A and B. obstacle(1)·obstruction과 유의어. break the barrier(한계를 깨다).",
+  "syn": ["obstacle(장애물)", "barricade(방벽)", "obstruction(방해물)"],
+  "anti": ["opening(통로)", "gateway(관문)"],
+  "idiom": ["a language barrier(언어 장벽)", "break down barriers(장벽을 허물다)", "the sound barrier(음속 장벽)", "a barrier to(~에 대한 장애)"],
+  "colloc": ["language barrier(언어 장벽)", "trade barrier(무역 장벽)", "break a barrier(장벽을 깨다)"],
+  "ex_add": "Language can be a major barrier to communication.  (barrier=장벽)"
+ },
+ {
+  "num": "2346",
+  "hw": "basement",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "건물 맨 아래 '토대' 층 = 지하층.",
+  "senses": [
+   "1) 지하층·지하실",
+   "2) (건물의) 기초 부분",
+   "3) 지하 매장"
+  ],
+  "etym": "base(토대, 1531) + -ment. base < 그리스어 basis(받침·딛는 곳). '맨 아래 토대 부분'이 핵심. basis(근거, 1533)·basic(기초의, 1532)·base(1531)가 같은 basis 뿌리.",
+  "deriv": "base(토대, 1531) -> 'basement'. '지하층(in the basement, 지하에)'. basis(받침) 뿌리로 base(1531)·basic(1532)·basis(1533)와 묶인다. 한국 학습자: a basement apartment(반지하 집), the basement floor(지하층), a finished basement(완공된 지하 공간), a bargain basement(지하 특가 매장). 층 표현 — basement(지하)/ground floor(1층, 영국)/first floor. cellar(저장용 지하실)와 유의어. base(1531) 가족.",
+  "syn": ["cellar(지하 저장실)", "lower level(아래층)"],
+  "anti": ["attic(다락방)", "top floor(꼭대기 층)"],
+  "idiom": ["a bargain basement(지하 특가 매장)", "the basement floor(지하층)"],
+  "colloc": ["in the basement(지하실에)", "basement apartment(반지하 아파트)", "basement floor(지하층)"],
+  "ex_add": "We store old furniture in the basement.  (basement=지하실)"
+ },
+ {
+  "num": "2347",
+  "hw": "basically",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "근본적으로·요컨대 = 기본적으로.",
+  "senses": [
+   "1) 기본적으로·근본적으로",
+   "2) (요약) 요컨대·사실상",
+   "3) (구어) 한마디로"
+  ],
+  "etym": "basic(기초의, 1532) + -ally. basic < base(토대) < 그리스어 basis(받침). '바탕에서 보면'이 핵심. basis(1533)·base(1531)·basement(2346)와 한 basis 뿌리.",
+  "deriv": "basic(기초의, 1532) -> 'basically'. '기본적으로(basically the same, 근본적으로 같은)' -> 요약 '요컨대(Basically, we failed)'. basis(받침) 뿌리. 한국 학습자: basically는 구어에서 '한마디로·요컨대'로 매우 자주 — 복잡한 걸 요약할 때(Basically, it didn't work). essentially·fundamentally와 유의어. basic(1532)/basically 가족. 회화에서 군말처럼 남발하기도 하니 글에선 절제. 발음 /ˈbeɪsɪkli/.",
+  "syn": ["essentially(본질적으로)", "fundamentally(근본적으로)", "in essence(요컨대)"],
+  "anti": ["superficially(피상적으로)"],
+  "idiom": ["basically the same(근본적으로 같은)", "basically speaking(요컨대)"],
+  "colloc": ["basically the same(기본적으로 같은)", "basically correct(대체로 맞는)", "basically agree(기본적으로 동의하다)"],
+  "ex_add": "Basically, the plan didn't work out.  (basically=요컨대)"
+ },
+ {
+  "num": "2348",
+  "hw": "basket",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "엮어 만든 '바구니' -> 한 묶음.",
+  "senses": [
+   "1) 바구니·광주리",
+   "2) (농구) 골대·득점",
+   "3) (장바구니·상품) 묶음"
+  ],
+  "etym": "어원이 확실치 않음(앵글로프랑스어 바스켓 추정). '엮어 만든 담는 통'이 핵심. basketball(농구)·breadbasket(곡창지대)이 합성어.",
+  "deriv": "'엮은 바구니' -> 농구 '골대·득점(score a basket)' -> '한 묶음(a basket of goods, 상품 묶음)'. basketball(농구)·basketwork(바구니 세공)이 파생. 한국 학습자: a shopping basket(장바구니), a wastebasket(휴지통), a basket case(가망 없는 사람·것, 구어), put all your eggs in one basket(한곳에 다 걸다·위험을 분산 안 하다), a fruit basket(과일 바구니). 농구의 basket(골·득점). a gift basket(선물 바구니).",
+  "syn": ["hamper(바구니)", "container(용기)"],
+  "anti": [],
+  "idiom": ["put all your eggs in one basket(한곳에 모두 걸다)", "a basket case(가망 없는 사람)", "a shopping basket(장바구니)"],
+  "colloc": ["shopping basket(장바구니)", "fruit basket(과일 바구니)", "score a basket(골을 넣다)"],
+  "ex_add": "Don't put all your eggs in one basket.  (basket=바구니)"
+ },
+ {
+  "num": "2349",
+  "hw": "battle",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "치고받는 '전투' -> 싸움·투쟁.",
+  "senses": [
+   "1) 전투·교전",
+   "2) (비유) 싸움·투쟁·격전",
+   "3) (동사) 싸우다·분투하다"
+  ],
+  "etym": "고대 프랑스어 bataille < 후기 라틴어 battualia(검술 훈련) < battuere(치다·때리다). '치고받음'이 핵심. battuere(치다) 뿌리로 battery(전지·구타, 1534)·beat(2351)·combat·batter가 묶인다.",
+  "deriv": "battuere(치다) -> 'battle'. '전투(a fierce battle)' -> 비유 '투쟁(a battle against cancer, 암과의 싸움)' -> 동사 '분투하다(battle with illness)'. battuere(치다) 뿌리로 battery(1534)·beat(2351)·combat과 묶인다 — 같은 battuere를 battery에서 봤음. 한국 학습자: a battle against/with(~과의 싸움), an uphill battle(힘겨운 싸움), fight a losing battle(승산 없는 싸움을 하다), a battle of wills(기 싸움), do battle(전투를 벌이다). war(전쟁, 1453)보다 작은 단위. battlefield(전장).",
+  "syn": ["combat(전투)", "fight(싸움)", "struggle(투쟁)"],
+  "anti": ["peace(평화)", "truce(휴전)"],
+  "idiom": ["an uphill battle(힘겨운 싸움)", "fight a losing battle(승산 없는 싸움을 하다)", "a battle of wills(기 싸움)", "half the battle(성공의 절반)"],
+  "colloc": ["fierce battle(치열한 전투)", "battle against(~과의 싸움)", "win a battle(전투에서 이기다)"],
+  "ex_add": "She fought a long battle against the disease.  (battle=싸움)"
+ },
+ {
+  "num": "2350",
+  "hw": "bear",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "무게를 '짊어져' 견디다·지니다·낳다.",
+  "senses": [
+   "1) (고통·무게를) 견디다·참다",
+   "2) (책임·이름을) 지니다·떠안다",
+   "3) (열매를) 맺다 / (아이를) 낳다"
+  ],
+  "etym": "고대 영어 beran(나르다·낳다). '짊어져 나름'이 핵심. birth(출생)·burden(짐)·bring(가져오다)이 같은 ber-(나르다) 뿌리. bear-bore-borne/born(불규칙). (동물 bear(곰)는 별개 어원.)",
+  "deriv": "beran(나르다) -> 'bear'. '견디다(can't bear the pain)' -> '지니다(bear a resemblance, 닮다)' -> '낳다(bear a child)' / '맺다(bear fruit)'. ber-(나르다) 뿌리로 birth·burden·bring과 묶인다. bear-bore-borne(낳다 의미는 born). 한국 학습자: can't bear(견딜 수 없다, = can't stand), bear in mind(명심하다), bear fruit(결실을 맺다), bear with me(좀 참아 주세요), bear the cost/responsibility(비용/책임을 떠안다), bear a resemblance to(~과 닮다). 동물 bear(곰)와 동음이의.",
+  "syn": ["endure(견디다)", "carry(지니다)", "tolerate(참다)"],
+  "anti": [],
+  "idiom": ["can't bear(견딜 수 없다)", "bear in mind(명심하다)", "bear fruit(결실을 맺다)", "bear with me(참아 주세요)", "grin and bear it(꾹 참다)"],
+  "colloc": ["bear the cost(비용을 부담하다)", "bear responsibility(책임을 지다)", "bear in mind(명심하다)"],
+  "ex_add": "Please bear with me while I find the file.  (bear with=참고 기다려 주다)"
+ },
+ {
+  "num": "2351",
+  "hw": "beat",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "거듭 '치다·두드리다' -> 이기다 / 박자.",
+  "senses": [
+   "1) (계속) 치다·때리다·두드리다",
+   "2) (상대를) 이기다·물리치다",
+   "3) (심장이) 뛰다 / (n.) 박자·고동"
+  ],
+  "etym": "고대 영어 beatan(치다). 라틴어 battuere(치다, battle 2349·battery 1534의 뿌리)와 의미가 통하는 게르만 동족. '거듭 침'이 핵심. beat-beat-beaten(불규칙).",
+  "deriv": "'치다(beat a drum)' -> '이기다(beat the team)' -> 심장이 '뛰다(my heart beats)' -> 명사 '박자(the beat of the music)'. beat-beat-beaten. 한국 학습자 핵심: win(경기·상을 따다, 2224)과 beat(상대를 이기다)의 구별 — beat the other team(O), win the other team(X). beat around the bush(빙빙 둘러 말하다), if you can't beat them, join them(못 이기면 합류하라), beat it(꺼져), off the beaten track(인적 드문 곳), heartbeat(심장 박동). lose(지다)가 반의.",
+  "syn": ["hit(치다)", "defeat(이기다)", "rhythm(박자)"],
+  "anti": ["lose to(~에게 지다)"],
+  "idiom": ["beat around the bush(에둘러 말하다)", "beat it(꺼져)", "off the beaten track(인적 드문)", "if you can't beat them, join them(못 이기면 합류하라)"],
+  "colloc": ["beat a team(팀을 이기다)", "heart beats(심장이 뛰다)", "beat a drum(북을 치다)"],
+  "ex_add": "Our team beat them three to one.  (beat=이기다)"
+ },
+ {
+  "num": "2352",
+  "hw": "beg",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "간절히 '빌다·구걸하다'.",
+  "senses": [
+   "1) 간청하다·애원하다",
+   "2) 구걸하다·빌어먹다",
+   "3) (격식) 정중히 청하다"
+  ],
+  "etym": "중세 영어 beggen. 어원이 확실치 않으나 '간절히 청함'이 핵심. beggar(거지)·begging(구걸)이 파생.",
+  "deriv": "'간청하다(beg for mercy, 자비를 빌다)' -> '구걸하다(beg on the street)'. beggar(거지)가 명사. 한국 학습자: beg someone to V(~에게 ~해 달라고 애원하다), beg for(~을 간청하다), I beg your pardon(다시 말씀해 주시겠어요·죄송합니다), beg to differ(외람되지만 생각이 다르다), beg the question(논점을 교묘히 피하다·당연시하다), go begging(임자가 없다). plead·implore와 유의어. beggars can't be choosers(찬밥 더운밥 가릴 처지가 아니다).",
+  "syn": ["plead(애원하다)", "implore(간청하다)", "beseech(탄원하다)"],
+  "anti": ["demand(요구하다)", "offer(제공하다)"],
+  "idiom": ["I beg your pardon(다시 말씀해 주시겠어요)", "beg to differ(생각이 다르다)", "beg the question(논점을 회피하다)", "beggars can't be choosers(찬밥 더운밥 가릴 때가 아니다)"],
+  "colloc": ["beg for mercy(자비를 빌다)", "beg for help(도움을 간청하다)", "beg someone to(~에게 애원하다)"],
+  "ex_add": "She begged him to stay a little longer.  (beg someone to V=~에게 애원하다)"
+ },
+ {
+  "num": "2353",
+  "hw": "being",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "존재함 / 살아 있는 '존재·생명체'.",
+  "senses": [
+   "1) 존재·실재",
+   "2) 존재물·생명체 (a human being)",
+   "3) (the being) 본질·내면"
+  ],
+  "etym": "be(있다·존재하다)의 동명사. '있음 그 자체'가 핵심. be 동사에서 나온 추상명사. essence·present·absent의 esse(있다)와 의미상 통함.",
+  "deriv": "be(존재하다) -> 'being(존재)'. '존재(come into being, 생겨나다)' -> 생명체 'a human being(인간)·a living being(생물)'. 한국 학습자: a human being(인간), a living being(생명체), come into being(생겨나다·탄생하다), for the time being(당분간), the meaning of being(존재의 의미), with one's whole being(온 존재로). existence(존재)와 유의어. for the time being(당분간은)이 빈출 관용구. well-being(안녕·복지).",
+  "syn": ["existence(존재)", "creature(생명체)", "entity(실체)"],
+  "anti": ["nonexistence(부재)", "nothingness(무)"],
+  "idiom": ["come into being(생겨나다)", "for the time being(당분간)", "a human being(인간)", "with one's whole being(온 존재를 다해)"],
+  "colloc": ["human being(인간)", "living being(생명체)", "come into being(생겨나다)"],
+  "ex_add": "Every human being deserves respect.  (being=존재)"
+ },
+ {
+  "num": "2354",
+  "hw": "beneficial",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "'좋게 해 주는' = 유익한·이로운.",
+  "senses": [
+   "1) 유익한·이로운",
+   "2) 도움이 되는",
+   "3) 유리한"
+  ],
+  "etym": "라틴어 beneficium(은혜·선행) = bene(잘·좋게) + facere(하다). '좋게 해 줌'이 핵심. bene(좋게) 뿌리로 benefit(혜택, 1540)·benefactor(은인)·benevolent(자비로운)가, facere(하다) 뿌리로 effect·affair(2267)·artificial(2311)이 묶인다.",
+  "deriv": "bene(좋게) + facere(하다) -> 'beneficial'. '유익한(beneficial to health, 건강에 이로운)'. bene(좋게) 뿌리로 benefit(1540)·benefactor·benevolent와 묶인다 — 같은 bene를 benefit에서 봤음. 한국 학습자: beneficial to/for(~에 이로운), mutually beneficial(상호 이익이 되는), highly beneficial(매우 유익한). benefit(혜택, 1540, 명사·동사)/beneficial(형용사) 짝. harmful(해로운)·detrimental(해로운)이 반의. advantageous와 유의어.",
+  "syn": ["helpful(도움이 되는)", "advantageous(유리한)", "favorable(이로운)"],
+  "anti": ["harmful(해로운)", "detrimental(해로운)", "damaging(해를 끼치는)"],
+  "idiom": ["beneficial to(~에 이로운)", "mutually beneficial(상호 이익이 되는)"],
+  "colloc": ["beneficial effect(이로운 효과)", "beneficial to health(건강에 유익한)", "mutually beneficial(상호 이익의)"],
+  "ex_add": "Regular exercise is beneficial to your health.  (beneficial to=~에 이로운)"
+ },
+ {
+  "num": "2355",
+  "hw": "bent",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "구부러진 / 마음이 '~로 기운'.",
+  "senses": [
+   "1) 구부러진·휜",
+   "2) (bent on) ~에 열중한·작정한",
+   "3) (영 속어) 부정한·구부정한"
+  ],
+  "etym": "bend(구부리다, 1539)의 과거분사. '활처럼 휜'이 핵심. bend(1539)·bond(2371)·band·bind와 한 게르만 뿌리. '당겨 굽힘'.",
+  "deriv": "bend(구부리다, 1539) -> 'bent(구부러진)'. '휜(a bent nail)' -> 'bent on(~에 작정한, bent on revenge 복수에 혈안인)'. bend(1539)·bond(2371)와 묶인다. 한국 학습자: be bent on V-ing(~하기로 작정하다·~에 혈안이 되다), bent out of shape(잔뜩 화난·뒤틀린), a bent for(~에 대한 소질, = a knack). 명사 bent(소질·성향: a natural bent for music). straight(곧은)가 반의. bend/bent 가족. hell-bent on(기를 쓰고 ~하려는).",
+  "syn": ["curved(휜)", "crooked(구부러진)", "determined(작정한)"],
+  "anti": ["straight(곧은)", "upright(곧추선)"],
+  "idiom": ["bent on(~에 작정한)", "bent out of shape(몹시 화난)", "hell-bent on(기를 쓰고 ~하려는)", "a bent for(~에 대한 소질)"],
+  "colloc": ["bent on(~에 열중한)", "bent over(몸을 구부린)", "slightly bent(약간 휜)"],
+  "ex_add": "He seems bent on causing trouble.  (bent on=~에 작정한)"
+ },
+ {
+  "num": "2356",
+  "hw": "beside",
+  "pos": "prep.",
+  "cefr": "B2",
+  "core": "바로 '옆에' / ~에 비하면.",
+  "senses": [
+   "1) ~ 옆에·곁에",
+   "2) ~에 비하면",
+   "3) (beside oneself) 제정신이 아닌"
+  ],
+  "etym": "be(~에) + side(옆). 'by the side of(~의 곁에)'가 한 단어로 굳음. side(옆) 뿌리로 alongside(2279)·aside(2315)·besides(2357)가 묶인다.",
+  "deriv": "be + side(옆) -> 'beside'. '~ 옆에(sit beside me)' -> 'beside oneself(제정신이 아닌, beside oneself with joy 기뻐 어쩔 줄 모르는)'. side(옆) 뿌리로 alongside(2279)·aside(2315)와 묶인다. 한국 학습자 핵심 구별: beside(~ 옆에, 위치)와 besides(~ 외에도·게다가, 2357)는 전혀 다름 — s 하나 차이! beside the point(요점에서 벗어난), beside oneself(이성을 잃은). next to·alongside(2279)와 유의어(위치 뜻). beside(2356)/besides(2357)를 짝으로 구별.",
+  "syn": ["next to(~ 옆에)", "alongside(~ 곁에)", "by(~ 옆에)"],
+  "anti": ["far from(~에서 멀리)"],
+  "idiom": ["beside oneself(제정신이 아닌)", "beside the point(요점에서 벗어난)", "beside the sea(바닷가에)"],
+  "colloc": ["sit beside(옆에 앉다)", "beside the road(길가에)", "beside me(내 옆에)"],
+  "ex_add": "Come and sit beside me.  (beside=~ 옆에)"
+ },
+ {
+  "num": "2357",
+  "hw": "besides",
+  "pos": "prep., adv.",
+  "cefr": "B2",
+  "core": "그 '옆에 더하여' = ~ 외에도·게다가.",
+  "senses": [
+   "1) (전치사) ~ 외에도·~을 제외하고",
+   "2) (부사) 게다가·뿐만 아니라",
+   "3) 그 밖에"
+  ],
+  "etym": "beside(옆에, 2356) + -s(부사화). '옆에 더하여'가 핵심. side(옆) 뿌리로 beside(2356)·alongside(2279)와 묶인다.",
+  "deriv": "beside(옆에) + -s -> 'besides(게다가)'. 전치사 '~ 외에도(besides English, 영어 외에도)' -> 부사 'Besides, it's too late(게다가 너무 늦었어)'. 한국 학습자 핵심 구별: besides(~ 외에도·게다가, 추가)와 beside(~ 옆에, 위치, 2356)! 또 besides(~을 포함해 그 외에도, 추가)와 except(~을 제외하고, 1712)도 구별 — Besides me, three others came(나 말고도 셋이 더 왔다, 나 포함). in addition to·moreover와 유의어. besides(2357)/beside(2356)를 -s로 구별.",
+  "syn": ["in addition to(~에 더하여)", "moreover(게다가)", "as well as(~뿐 아니라)"],
+  "anti": ["except(~을 제외하고)"],
+  "idiom": ["besides, ~(게다가)", "besides which(게다가)", "besides the point(요점 외에)"],
+  "colloc": ["besides that(게다가)", "besides English(영어 외에)", "what else besides(그 밖에 또)"],
+  "ex_add": "Besides being expensive, the car uses too much fuel.  (besides=~ 외에도)"
+ },
+ {
+  "num": "2358",
+  "hw": "bet",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "결과에 돈을 '걸다' -> 장담하다.",
+  "senses": [
+   "1) (돈을) 걸다·내기하다",
+   "2) (구어) 장담하다·틀림없다",
+   "3) (n.) 내기·판돈"
+  ],
+  "etym": "16세기 영어, 어원이 확실치 않음(abet '부추기다'의 축약 추정). '결과에 돈을 거는 내기'가 핵심. bet-bet-bet(불변).",
+  "deriv": "'돈을 걸다(bet on a horse)' -> 구어 '장담하다(I bet he forgot)' -> 명사 '내기(place a bet)'. bet-bet-bet. 한국 학습자: bet on(~에 걸다), I bet (that)(틀림없이 ~일 거야, 구어 추측), You bet!(물론이지!), a safe bet(확실한 선택), hedge one's bets(양다리를 걸치다), bet your bottom dollar(전 재산을 걸 만큼 확신하다), Don't bet on it(장담은 못 한다). gamble·wager와 유의어. place/make a bet(내기를 걸다).",
+  "syn": ["wager(내기하다)", "gamble(도박하다)", "guarantee(장담하다)"],
+  "anti": [],
+  "idiom": ["I bet(틀림없이)", "You bet!(물론이지!)", "a safe bet(확실한 선택)", "hedge one's bets(양다리를 걸치다)", "Don't bet on it(장담 못 한다)"],
+  "colloc": ["bet on(~에 걸다)", "place a bet(내기를 걸다)", "safe bet(확실한 선택)"],
+  "ex_add": "I bet she'll be late again.  (I bet=틀림없이 ~할 거야)"
+ },
+ {
+  "num": "2359",
+  "hw": "beyond",
+  "pos": "prep., adv.",
+  "cefr": "B2",
+  "core": "그 '너머로·넘어서' = ~을 넘어선.",
+  "senses": [
+   "1) (공간·시간) ~ 너머에·~ 이후로",
+   "2) (범위·한계) ~을 넘어서·~ 이상으로",
+   "3) (이해·능력) ~ 밖의·~할 수 없는"
+  ],
+  "etym": "고대 영어 begeondan = be(~에) + geond(저쪽으로·너머). '저 너머에'가 핵심. yon·yonder(저쪽의)와 한 가족. '한계를 넘어선'으로 추상 확장.",
+  "deriv": "be + geond(너머) -> 'beyond'. 공간 '너머(beyond the mountains)' -> 한계 '넘어서(beyond repair, 수리 불가)' -> 능력 '~ 밖의(beyond my understanding)'. 한국 학습자: beyond belief(믿기 어려운), beyond doubt(의심할 여지 없이), beyond control(통제 불능의), beyond one's means(분수에 넘치는), go beyond(넘어서다), above and beyond(기대 이상으로), beyond reach(손이 닿지 않는). within(~ 이내, 2226)이 반의 개념. the great beyond(저승).",
+  "syn": ["past(~을 지나)", "above(~ 이상의)", "outside(~ 밖의)"],
+  "anti": ["within(~ 이내에)", "before(~ 이전에)", "inside(~ 안에)"],
+  "idiom": ["beyond belief(믿기 어려운)", "beyond doubt(의심의 여지 없이)", "beyond control(통제 불능의)", "above and beyond(기대 이상으로)", "beyond one's means(분수에 넘치는)"],
+  "colloc": ["beyond repair(수리 불가능한)", "beyond doubt(확실히)", "go beyond(넘어서다)"],
+  "ex_add": "The damage was beyond repair.  (beyond=~을 넘어선)"
+ },
+ {
+  "num": "2360",
+  "hw": "bias",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "한쪽으로 '치우친' 편견·편향.",
+  "senses": [
+   "1) 편견·선입견",
+   "2) 편향·치우침",
+   "3) (동사) 편견을 갖게 하다"
+  ],
+  "etym": "고대 프랑스어 biais(비스듬함·사선). 본래 '한쪽으로 비스듬함'에서 '치우친 견해'로. '기울어짐'이 핵심.",
+  "deriv": "biais(비스듬함) -> 'bias'. '편견(racial bias, 인종 편견)' -> 동사 '편견을 심다(bias the result)'. biased(편향된)·unbiased(공정한)가 파생. 한국 학습자: bias against/toward(~에 대한 편견/~로의 편향), a bias in favor of(~을 편드는 성향), media bias(언론 편향), confirmation bias(확증 편향), gender bias(성 편견). prejudice(편견)와 유의어. unbiased(편견 없는)·impartial(공정한)이 반의. biased(2)와 짝.",
+  "syn": ["prejudice(편견)", "partiality(편파성)", "slant(편향)"],
+  "anti": ["impartiality(공정성)", "fairness(공평)", "objectivity(객관성)"],
+  "idiom": ["bias against(~에 대한 편견)", "a bias in favor of(~을 편드는 편향)", "confirmation bias(확증 편향)"],
+  "colloc": ["racial bias(인종 편견)", "media bias(언론 편향)", "gender bias(성 편견)"],
+  "ex_add": "The report showed a clear bias against women.  (bias against=~에 대한 편견)"
+ },
+ {
+  "num": "2361",
+  "hw": "bid",
+  "pos": "n., v.",
+  "cefr": "B2",
+  "core": "값을 '부르다·제시하다' = 입찰 / 시도.",
+  "senses": [
+   "1) 입찰(하다)·가격을 부르다",
+   "2) (얻으려는) 시도·노력",
+   "3) (격식) 명령하다·청하다"
+  ],
+  "etym": "고대 영어 biddan(청하다·명하다)과 beodan(제안하다)이 합쳐짐. '값을 청해 부름'이 핵심. bid-bid-bid(입찰) / bid-bade-bidden(명하다). forbid(금하다)와 한 가족.",
+  "deriv": "'값을 부르다(bid for the painting)' -> 명사 '입찰(a higher bid)' -> '시도(a bid for power, 권력 장악 시도)' -> 격식 '명하다(bid farewell, 작별을 고하다)'. 한국 학습자: bid for(~을 따내려 입찰/노력하다), make a bid(입찰하다·시도하다), a takeover bid(인수 시도), bid farewell(작별 인사를 하다), in a bid to V(~하려는 시도로). 경매의 highest bidder(최고 입찰자). auction(경매)과 연관. forbid(금지하다)와 어원 친족.",
+  "syn": ["offer(제시하다)", "attempt(시도)", "tender(입찰)"],
+  "anti": [],
+  "idiom": ["bid for(~에 입찰하다·~을 노리다)", "make a bid(시도하다)", "a takeover bid(인수 시도)", "in a bid to(~하려는 노력으로)", "bid farewell(작별을 고하다)"],
+  "colloc": ["make a bid(입찰하다)", "winning bid(낙찰)", "bid for power(권력을 노리다)"],
+  "ex_add": "She made a bid for the leadership.  (bid=시도)"
+ },
+ {
+  "num": "2362",
+  "hw": "bill",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "갚을 돈을 적은 '청구서·계산서' -> 지폐·법안.",
+  "senses": [
+   "1) 청구서·계산서·고지서",
+   "2) (미국) 지폐",
+   "3) 법안 / (동사) 청구하다"
+  ],
+  "etym": "중세 라틴어 billa < 라틴어 bulla(봉인·도장 찍힌 문서). '공식 문서'에서 '청구서·법안'으로. bull(교황 칙서)·bulletin(공고)이 같은 bulla 뿌리.",
+  "deriv": "bulla(봉인 문서) -> 'bill'. '계산서(pay the bill)' -> 미국 '지폐(a ten-dollar bill)' -> '법안(pass a bill, 법안을 통과시키다)'. bulla 뿌리로 bulletin·bull과 묶인다. 한국 학습자: 영국 '계산서' bill / 미국 식당 check, 미국 '지폐' bill / 영국 note(1904). foot the bill(비용을 부담하다), fit the bill(요건에 들어맞다), a phone/electricity bill(전화/전기 요금), pass a bill(법안을 통과시키다). invoice(송장)와 유의어(청구서 뜻).",
+  "syn": ["invoice(청구서)", "check(계산서, 미)", "banknote(지폐)"],
+  "anti": [],
+  "idiom": ["foot the bill(비용을 부담하다)", "fit the bill(딱 들어맞다)", "pass a bill(법안을 통과시키다)", "a clean bill of health(이상 없다는 진단)"],
+  "colloc": ["pay the bill(계산하다)", "electricity bill(전기 요금)", "pass a bill(법안을 통과시키다)"],
+  "ex_add": "Could we have the bill, please?  (bill=계산서)"
+ },
+ {
+  "num": "2363",
+  "hw": "biological",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "생명·생물에 관한 = 생물학의·생물의.",
+  "senses": [
+   "1) 생물학의·생물의",
+   "2) 생명체의·생체의",
+   "3) 친(親)~의 (혈연상의)"
+  ],
+  "etym": "biology(생물학) + -ical. biology = bios(생명) + logos(학문). '생명에 관한 학문'이 핵심. bios(생명) 뿌리로 biography(전기)·antibiotic(항생제)·biosphere(생물권)가, logos(학문) 뿌리로 geology·psychology가 묶인다.",
+  "deriv": "bios(생명) + logos(학문) -> biology -> 'biological'. '생물학의(biological research)' -> '생체의(a biological clock, 생체 시계)' -> '친~(biological parents, 친부모)'. bios(생명) 뿌리로 biography·antibiotic·biosphere와 묶인다. biologically(생물학적으로)가 부사. 한국 학습자: biological weapons(생물 무기), a biological clock(생체 시계), biological parents(친부모, vs adoptive 양부모), biological diversity(생물 다양성). bio-(생명) 접두사로 biotech(생명공학). -logy 학문 무리(biology/geology/psychology).",
+  "syn": ["organic(유기체의)", "living(생물의)"],
+  "anti": ["chemical(화학의)", "artificial(인공의)", "adoptive(입양의)"],
+  "idiom": ["a biological clock(생체 시계)", "biological parents(친부모)", "biological weapons(생물 무기)"],
+  "colloc": ["biological research(생물학 연구)", "biological clock(생체 시계)", "biological diversity(생물 다양성)"],
+  "ex_add": "The biological clock affects our sleep patterns.  (biological=생물의)"
+ },
+ {
+  "num": "2364",
+  "hw": "bitter",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "혀를 '쏘는' 쓴맛 -> 쓰라린·격렬한.",
+  "senses": [
+   "1) (맛이) 쓴",
+   "2) (마음이) 쓰라린·원통한·분개한",
+   "3) (다툼·추위가) 격렬한·혹독한"
+  ],
+  "etym": "고대 영어 biter < bitan(물다·쏘다). '쏘는 듯한 맛'이 핵심. bite(물다, 1542)·bitter가 한 가족 — 쓴맛이 '혀를 무는(쏘는)' 느낌에서.",
+  "deriv": "bitan(물다) -> 'bitter'. 맛 '쓴(bitter coffee)' -> 감정 '쓰라린(bitter disappointment, 쓰라린 실망)' -> 다툼 '격렬한(a bitter dispute)·혹독한(bitter cold, 살을 에는 추위)'. bite(1542) 뿌리 — 쓴맛이 '쏘는' 데서. bitterly(몹시·쓰라리게)·bitterness가 파생. 한국 학습자: a bitter taste(쓴맛), bitter rivals(앙숙), to the bitter end(끝까지·죽기 살기로), a bitter pill (to swallow)(받아들이기 힘든 일). sweet(단)이 반의. bite(1542)와 어원 친족.",
+  "syn": ["sour(신)", "resentful(원통한)", "harsh(혹독한)"],
+  "anti": ["sweet(단)", "mild(순한)", "pleasant(기분 좋은)"],
+  "idiom": ["a bitter pill to swallow(받아들이기 힘든 일)", "to the bitter end(끝까지)", "bitter cold(살을 에는 추위)", "a bitter rival(앙숙)"],
+  "colloc": ["bitter taste(쓴맛)", "bitter disappointment(쓰라린 실망)", "bitter cold(혹한)"],
+  "ex_add": "The medicine had a bitter taste.  (bitter=쓴)"
+ },
+ {
+  "num": "2365",
+  "hw": "blame",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "잘못의 '탓을 돌리다' = 비난하다.",
+  "senses": [
+   "1) ~의 탓으로 돌리다·비난하다",
+   "2) (blame for) ~을 ~의 책임으로 돌리다",
+   "3) (n.) 책임·탓·비난"
+  ],
+  "etym": "고대 프랑스어 blasmer < 후기 라틴어 blasphemare(비방하다) < 그리스어 blasphemein(불경한 말을 하다). '비난·비방'이 핵심. blasphemy(신성모독)와 한 뿌리.",
+  "deriv": "blasphemein(비방하다) -> 'blame'. '탓하다(blame him for the loss)' -> 명사 '책임(take the blame, 책임을 지다)'. blasphemy(신성모독)와 한 가족. 한국 학습자 핵심: blame A for B(B를 A의 탓으로 돌리다)와 blame B on A(B를 A 탓으로 돌리다) — 전치사 주의! be to blame (for)(~에 책임이 있다), take/shift the blame(책임을 지다/전가하다), Don't blame me(내 탓 하지 마). accuse(고발하다, 2251)와 달리 blame은 '탓을 돌림'. fault(잘못)와 유의어.",
+  "syn": ["fault(탓하다)", "hold responsible(책임을 묻다)", "accuse(비난하다)"],
+  "anti": ["praise(칭찬하다)", "credit(공을 돌리다)", "excuse(용서하다)"],
+  "idiom": ["blame A for B(B를 A의 탓으로 돌리다)", "be to blame(책임이 있다)", "take the blame(책임을 지다)", "shift the blame(책임을 전가하다)"],
+  "colloc": ["blame for(~의 탓으로 돌리다)", "take the blame(책임을 지다)", "lay the blame(책임을 지우다)"],
+  "ex_add": "Don't blame me for your mistakes.  (blame A for B=B를 A의 탓으로 돌리다)"
+ },
+ {
+  "num": "2366",
+  "hw": "blanket",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "몸을 덮는 '담요' -> 온통 뒤덮은 것.",
+  "senses": [
+   "1) 담요·이불",
+   "2) (눈·안개 등의) 두꺼운 층",
+   "3) (형용사적) 전면적인·일괄적인"
+  ],
+  "etym": "고대 프랑스어 blanchet(흰 모직 천) < blanc(흰). 본래 '흰 모직 천'에서 '담요'로. blanc(흰) 뿌리로 blank(빈)·blanch(데치다·하얗게 되다)가 묶인다.",
+  "deriv": "blanc(흰) -> 'blanket'. '담요(a warm blanket)' -> 비유 '뒤덮은 층(a blanket of snow, 눈이불)' -> 형용사 '전면적인(a blanket ban, 전면 금지)'. blanc(흰) 뿌리로 blank·blanch와 묶인다. 한국 학습자: a security blanket(애착 담요·심리적 위안물), a wet blanket(흥을 깨는 사람, 1461 wet), a blanket of fog(자욱한 안개), a blanket ban/statement(일괄 금지/싸잡은 진술). cover·quilt와 유의어. blanc(흰)에서 blank(빈칸)도.",
+  "syn": ["cover(덮개)", "quilt(누비이불)", "layer(층)"],
+  "anti": [],
+  "idiom": ["a wet blanket(흥을 깨는 사람)", "a security blanket(심리적 위안물)", "a blanket of snow(눈이불)", "a blanket ban(전면 금지)"],
+  "colloc": ["warm blanket(따뜻한 담요)", "blanket of snow(눈이 덮인 층)", "electric blanket(전기담요)"],
+  "ex_add": "She wrapped the baby in a soft blanket.  (blanket=담요)"
+ },
+ {
+  "num": "2367",
+  "hw": "blind",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "눈이 '안 보이는' = 시각 장애의 -> 분별 못 하는.",
+  "senses": [
+   "1) 눈이 먼·시각 장애의",
+   "2) (blind to) ~을 보지 못하는·알아채지 못하는",
+   "3) 맹목적인·무분별한 / (n.) 블라인드"
+  ],
+  "etym": "고대 영어 blind(눈먼). 게르만어 계열. '보지 못하는'이 핵심. blindfold(눈가리개)·blindness(실명)가 파생.",
+  "deriv": "'눈먼(blind from birth)' -> 'blind to(~을 못 보는, blind to the danger 위험을 못 알아채는)' -> '맹목적인(blind faith, 맹신)' -> 명사 '블라인드(window blinds)'. blindfold(눈을 가리다)·blindly(맹목적으로)가 파생. 한국 학습자: blind to(~을 알아채지 못하는), turn a blind eye to(~을 못 본 척하다), a blind date(소개팅), love is blind(사랑은 맹목적), a blind spot(맹점·사각지대), as blind as a bat(눈이 몹시 나쁜). the blind(시각 장애인들, the + 형용사). sighted(눈이 보이는)가 반의.",
+  "syn": ["sightless(앞을 못 보는)", "unaware(알아채지 못하는)", "unseeing(못 보는)"],
+  "anti": ["sighted(눈이 보이는)", "aware(알아채는)", "perceptive(통찰력 있는)"],
+  "idiom": ["turn a blind eye to(~을 못 본 척하다)", "a blind date(소개팅)", "a blind spot(맹점)", "love is blind(사랑은 맹목적이다)", "blind to(~을 못 보는)"],
+  "colloc": ["go blind(눈이 멀다)", "blind to(~을 알아채지 못하는)", "blind faith(맹신)"],
+  "ex_add": "He was completely blind to her feelings.  (blind to=~을 알아채지 못하는)"
+ },
+ {
+  "num": "2368",
+  "hw": "blow",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "①바람이 '불다' ②세게 친 '타격'·충격.",
+  "senses": [
+   "1) (바람이) 불다 / (입으로) 불다",
+   "2) (바람에) 날리다·날아가다",
+   "3) (n.) 강타·세찬 일격 / 충격·타격"
+  ],
+  "etym": "①blow(불다)는 고대 영어 blawan(불다). ②blow(타격)는 어원이 다른 동음이의어(중세 영어 blaw). ①은 blow-blew-blown(불규칙). '바람을 일으킴'과 '세게 침'이 두 갈래.",
+  "deriv": "①'불다(The wind blew)' -> '날리다(blow away)'. ②명사 '타격(a heavy blow)·충격(a blow to her pride)'. blow-blew-blown. 한국 학습자: blow up(폭발하다·부풀리다·화내다), blow out(불어서 끄다), blow away(날려 버리다·압도하다), blow one's nose(코를 풀다), a blow to(~에 대한 타격), come to blows(주먹다짐을 하다), blow the whistle on(내부 고발하다), blow it(망치다). ②의 '타격·충격' 명사가 빈출. soften the blow(충격을 완화하다).",
+  "syn": ["puff(불다)", "gust(돌풍)", "strike(강타)"],
+  "anti": [],
+  "idiom": ["blow up(폭발하다·화내다)", "blow away(날려 버리다·압도하다)", "a blow to(~에 대한 타격)", "come to blows(주먹다짐하다)", "blow the whistle(내부 고발하다)"],
+  "colloc": ["wind blows(바람이 불다)", "heavy blow(큰 타격)", "blow out a candle(촛불을 끄다)"],
+  "ex_add": "Losing his job was a terrible blow.  (blow=타격)"
+ },
+ {
+  "num": "2369",
+  "hw": "bold",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "겁 없이 '대담한' -> 뚜렷한·굵은.",
+  "senses": [
+   "1) 대담한·용감한·과감한",
+   "2) (디자인·색이) 뚜렷한·선명한",
+   "3) (글씨가) 굵은(볼드체)"
+  ],
+  "etym": "고대 영어 beald(대담한). 게르만어 계열. '겁 없는'이 핵심. boldly(대담하게)·boldness가 파생.",
+  "deriv": "beald(대담한) -> 'bold'. 성격 '대담한(a bold decision)' -> 시각 '뚜렷한(bold colors, 선명한 색)' -> 글씨 '굵은(in bold, 볼드체로)'. boldly(대담하게)가 부사. 한국 학습자: a bold move/decision(과감한 행보/결정), be (so) bold as to(외람되지만 ~하다), put it in bold(굵게 표시하다), as bold as brass(아주 뻔뻔한), make bold(대담하게 굴다). brave(용감한, 1549)·daring(대담한)과 유의어. timid(소심한)·cautious(신중한)가 반의. bold(굵은 글씨)는 워드 프로그램 용어로도.",
+  "syn": ["daring(대담한)", "brave(용감한)", "striking(뚜렷한)"],
+  "anti": ["timid(소심한)", "cautious(신중한)", "faint(희미한)"],
+  "idiom": ["a bold move(과감한 조치)", "as bold as brass(아주 뻔뻔한)", "be so bold as to(외람되지만 ~하다)", "in bold(굵은 글씨로)"],
+  "colloc": ["bold decision(과감한 결정)", "bold colors(선명한 색)", "bold move(대담한 행보)"],
+  "ex_add": "It was a bold move to quit his job.  (bold=대담한)"
+ },
+ {
+  "num": "2370",
+  "hw": "bombing",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "폭탄으로 치는 '폭격·폭파'.",
+  "senses": [
+   "1) 폭격·공습",
+   "2) 폭탄 테러·폭파(사건)",
+   "3) 투하"
+  ],
+  "etym": "bomb(폭탄·폭격하다, 1545) + -ing. bomb < 그리스어 bombos(쾅 하는 소리)의 의성어. bomb(1545)·bombard(포격하다)·bomber(폭격기)와 한 가족.",
+  "deriv": "bomb(폭격하다, 1545) -> 'bombing'. '폭격(an air bombing, 공습)' -> '폭탄 테러(a suicide bombing, 자살 폭탄 테러)'. bomb(1545)·bombard·bomber와 묶인다. 한국 학습자: a suicide bombing(자살 폭탄 테러), an air/aerial bombing(공습), a bombing raid(폭격), carpet bombing(융단 폭격), the bombing campaign(폭격 작전). bomb(폭탄·폭격, 1545, 명사·동사)/bombing(폭격, 명사) 가족. attack(공격)과 함께 군사·테러 어휘.",
+  "syn": ["air raid(공습)", "bombardment(포격)", "attack(공격)"],
+  "anti": [],
+  "idiom": ["a suicide bombing(자살 폭탄 테러)", "carpet bombing(융단 폭격)", "a bombing raid(폭격)"],
+  "colloc": ["suicide bombing(자폭 테러)", "air bombing(공습)", "bombing campaign(폭격 작전)"],
+  "ex_add": "The bombing destroyed much of the old city.  (bombing=폭격)"
+ },
+ {
+  "num": "2371",
+  "hw": "bond",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "둘을 '묶는' 끈 -> 유대·결속 / 채권.",
+  "senses": [
+   "1) 유대·결속·끈",
+   "2) (화학) 결합·접착",
+   "3) (금융) 채권 / (동사) 유대를 맺다"
+  ],
+  "etym": "band(묶는 띠)의 변형 < 고대 노르드어 band(끈). '묶는 것'이 핵심. bind(묶다)·band(띠)·bend(구부리다, 1539)·bondage(속박)가 한 게르만 뿌리.",
+  "deriv": "band(끈) -> 'bond'. '유대(a strong bond, 끈끈한 유대)' -> 화학 '결합(a chemical bond)' -> 금융 '채권(government bonds)' -> 동사 '유대를 맺다(bond with)'. bind·band·bend(1539)와 묶인다. bonding(유대 형성)이 파생. 한국 학습자: a bond between A and B(A와 B의 유대), form/forge a bond(유대를 맺다), bond with(~와 친해지다), a common bond(공통의 끈). 금융의 '채권'(stocks and bonds 주식과 채권). bind/band/bond 가족. James Bond와는 무관.",
+  "syn": ["tie(유대)", "connection(연결)", "link(끈)"],
+  "anti": [],
+  "idiom": ["form a bond(유대를 맺다)", "a common bond(공통의 끈)", "bond with(~와 친해지다)", "stocks and bonds(주식과 채권)"],
+  "colloc": ["strong bond(끈끈한 유대)", "family bond(가족 간 유대)", "government bond(국채)"],
+  "ex_add": "There's a strong bond between the two sisters.  (bond=유대)"
+ },
+ {
+  "num": "2372",
+  "hw": "boost",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "'밀어 올려' 끌어올리다 = 신장시키다.",
+  "senses": [
+   "1) (수치·사기를) 끌어올리다·북돋우다",
+   "2) 신장시키다·촉진하다",
+   "3) (n.) 증대·격려·힘"
+  ],
+  "etym": "18세기 미국 영어, 어원이 확실치 않음(아래에서 '밀어 올림'을 흉내 낸 말로 추정). '위로 밀어 올림'이 핵심.",
+  "deriv": "'밀어 올리다(boost sales, 판매를 끌어올리다)' -> 명사 '증대(a boost to the economy, 경제에 활력)'. booster(촉진제·추진기)가 파생. 한국 학습자: boost confidence/morale(자신감/사기를 북돋우다), boost the economy(경제를 활성화하다), give a boost to(~에 활력을 주다), a confidence boost(자신감 상승), a booster shot(추가 접종). increase·raise(2009)와 유의어이나 boost는 '확 끌어올림'의 활기찬 뉘앙스. lower(낮추다)가 반의.",
+  "syn": ["increase(증대시키다)", "raise(올리다)", "improve(신장시키다)"],
+  "anti": ["lower(낮추다)", "reduce(줄이다)", "undermine(약화시키다)"],
+  "idiom": ["boost morale(사기를 높이다)", "give a boost to(~에 활력을 주다)", "a confidence boost(자신감 상승)", "a booster shot(추가 접종)"],
+  "colloc": ["boost sales(판매를 늘리다)", "boost confidence(자신감을 북돋우다)", "boost the economy(경제를 활성화하다)"],
+  "ex_add": "The discount helped boost sales.  (boost=끌어올리다)"
+ },
+ {
+  "num": "2373",
+  "hw": "border",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "두 영역을 가르는 '가장자리' = 국경·경계.",
+  "senses": [
+   "1) 국경·경계(선)",
+   "2) 가장자리·테두리",
+   "3) (동사) ~과 경계를 접하다·테를 두르다"
+  ],
+  "etym": "고대 프랑스어 bordure(가장자리) < bord(가장자리·뱃전). '가장자리'가 핵심. board(판자·뱃전, 1544)와 한 게르만 뿌리. border·borderline이 한 가족.",
+  "deriv": "bord(가장자리) -> 'border'. 국가 '국경(cross the border)' -> '테두리(a border around the photo)' -> 동사 '경계를 접하다(border France)·~에 가깝다(border on)'. board(1544)와 묶인다. 한국 학습자: cross the border(국경을 넘다), the border between A and B(A와 B의 국경), border on(~에 가깝다·거의 ~이다, border on madness 거의 미친 짓이다), a borderline case(경계선상의 사례). boundary(경계)·frontier(국경 지대)와 유의어. 발음 /ˈbɔːdə/.",
+  "syn": ["boundary(경계)", "frontier(국경)", "edge(가장자리)"],
+  "anti": ["center(중심)", "interior(내부)"],
+  "idiom": ["cross the border(국경을 넘다)", "border on(~에 가깝다)", "a borderline case(경계선상의 경우)"],
+  "colloc": ["national border(국경)", "cross the border(국경을 넘다)", "border control(국경 통제)"],
+  "ex_add": "They crossed the border into Mexico.  (border=국경)"
+ },
+ {
+  "num": "2374",
+  "hw": "bound",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "①묶인·~할 수밖에 없는 ②~행의 ③경계 (여러 갈래).",
+  "senses": [
+   "1) (be bound to) 반드시 ~하게 마련인",
+   "2) (be bound for) ~행인·~로 향하는",
+   "3) 묶인·의무가 있는 / (bounds) 경계·한계"
+  ],
+  "etym": "①bound(묶인)는 bind(묶다)의 과거분사. ②bound(~행의)는 고대 노르드어 buinn(준비된). ③bound(경계)는 라틴어 bodina(경계). 어원이 다른 동음이의어들이 합류. bind(묶다)·bond(2371)와 ①이 한 가족.",
+  "deriv": "①bind(묶다) -> 'bound(묶인)' -> 'be bound to V(반드시 ~하기 마련이다)'. ②'be bound for(~행이다, a train bound for Seoul)'. ③'out of bounds(경계 밖의·출입 금지)'. 한국 학습자: be bound to V(틀림없이 ~할 것이다·~할 의무가 있다), be bound for(~로 향하다), bound up with(~과 밀접히 얽힌), out of bounds(출입 금지), know no bounds(끝이 없다), within bounds(적정 선에서). bind/bound/bond 가족.",
+  "syn": ["certain(확실한)", "obliged(의무가 있는)", "heading for(~로 향하는)"],
+  "anti": ["unlikely(가망 없는)", "free(자유로운)"],
+  "idiom": ["be bound to V(반드시 ~하기 마련이다)", "be bound for(~행이다)", "out of bounds(출입 금지)", "know no bounds(한이 없다)", "bound up with(~과 얽힌)"],
+  "colloc": ["bound to happen(일어나기 마련인)", "bound for(~행의)", "duty-bound(의무가 있는)"],
+  "ex_add": "If you don't study, you're bound to fail.  (be bound to V=반드시 ~하기 마련이다)"
+ },
+ {
+  "num": "2375",
+  "hw": "breast",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "가슴 앞부분 = 젖가슴·흉부.",
+  "senses": [
+   "1) 젖가슴·유방",
+   "2) 가슴·흉부",
+   "3) (닭 등의) 가슴살"
+  ],
+  "etym": "고대 영어 brēost(가슴). 게르만어 계열(독일어 Brust). '몸통 앞 가슴 부위'가 핵심. breaststroke(평영)·breastfeed(모유를 먹이다)가 합성어.",
+  "deriv": "brēost(가슴) -> 'breast'. '젖가슴(breast cancer, 유방암)' -> '흉부' -> '가슴살(chicken breast)'. breaststroke(평영)·breastfeed(모유 수유하다)가 파생. 한국 학습자: breast cancer(유방암), chicken breast(닭가슴살), breastfeed(모유를 먹이다), make a clean breast of(~을 다 털어놓다), beat one's breast(가슴을 치며 한탄하다). chest(흉부, 1578, 가슴 일반)와 breast(젖가슴·앞가슴)의 구별. 신체 어휘.",
+  "syn": ["chest(가슴)", "bust(가슴)", "bosom(품)"],
+  "anti": ["back(등)"],
+  "idiom": ["make a clean breast of(~을 다 털어놓다)", "beat one's breast(가슴을 치다)", "breast cancer(유방암)"],
+  "colloc": ["breast cancer(유방암)", "chicken breast(닭가슴살)", "breastfeed(모유 수유하다)"],
+  "ex_add": "Grilled chicken breast is low in fat.  (breast=가슴살)"
+ },
+ {
+  "num": "2376",
+  "hw": "brick",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "흙을 구워 만든 '벽돌'.",
+  "senses": [
+   "1) 벽돌",
+   "2) 벽돌 모양의 덩어리",
+   "3) (비유) 믿음직한 사람"
+  ],
+  "etym": "고대 프랑스어 brique(벽돌·조각) < 중세 네덜란드어 bricke. '쌓아 짓는 네모난 흙덩이'가 핵심. bricklayer(벽돌공)·brickwork(벽돌 공사)가 합성어.",
+  "deriv": "'벽돌(a brick wall)' -> 비유 '믿음직한 사람(He's a brick)'. bricklayer(벽돌공)가 파생. 한국 학습자: a brick wall(벽돌 벽·넘기 힘든 장벽), hit a brick wall(난관에 부딪히다), bang/beat one's head against a brick wall(헛수고하다), like a ton of bricks(벼락같이, 2165 ton), drop a brick(실언하다, 영국). build brick by brick(벽돌 한 장씩 쌓듯 차근차근). 건축 재료 — brick(벽돌)/concrete(콘크리트)/timber(목재).",
+  "syn": ["block(블록)"],
+  "anti": [],
+  "idiom": ["hit a brick wall(난관에 부딪히다)", "bang one's head against a brick wall(헛수고하다)", "like a ton of bricks(벼락같이)", "brick by brick(차근차근)"],
+  "colloc": ["brick wall(벽돌 벽)", "red brick(붉은 벽돌)", "lay bricks(벽돌을 쌓다)"],
+  "ex_add": "The house was built of red brick.  (brick=벽돌)"
+ },
+ {
+  "num": "2377",
+  "hw": "brief",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "짧고 '간결한' -> 잠깐의.",
+  "senses": [
+   "1) (시간이) 짧은·잠깐의",
+   "2) (말·글이) 간결한·간단한",
+   "3) (동사) 간단히 보고하다 / (n.) 지침"
+  ],
+  "etym": "라틴어 brevis(짧은). '길지 않은'이 핵심. brevis(짧은) 뿌리로 briefly(2378)·abbreviate(줄이다)·abridge(요약하다)·brevity(간결)가 묶인다.",
+  "deriv": "brevis(짧은) -> 'brief'. 시간 '잠깐의(a brief visit)' -> 말 '간결한(a brief summary)' -> 동사 '브리핑하다(brief the team)'. brevis 뿌리로 briefly(2378)·abbreviate·brevity와 묶인다. 한국 학습자: in brief(요컨대), to be brief(간단히 말하면), a brief moment(잠깐), hold a briefing(브리핑하다). 명사 brief(소송 적요·지침), briefs(짧은 속옷). short(짧은)와 유의어이나 brief는 '시간·말의 짧음'. lengthy(긴)가 반의. brief/briefly/brevity 가족.",
+  "syn": ["short(짧은)", "concise(간결한)", "fleeting(순식간의)"],
+  "anti": ["long(긴)", "lengthy(장황한)", "detailed(상세한)"],
+  "idiom": ["in brief(요컨대)", "to be brief(간단히 말하면)", "a brief moment(잠깐)"],
+  "colloc": ["brief visit(짧은 방문)", "brief summary(간단한 요약)", "brief moment(잠깐)"],
+  "ex_add": "Let me give you a brief summary of the report.  (brief=간결한)"
+ },
+ {
+  "num": "2378",
+  "hw": "briefly",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "짧게·간단히·잠깐.",
+  "senses": [
+   "1) 간단히·간결하게",
+   "2) 잠깐·잠시",
+   "3) 요컨대"
+  ],
+  "etym": "brief(짧은, 라틴어 brevis) + -ly. brevis(짧은) 뿌리로 brief(2377)·abbreviate·brevity와 묶인다.",
+  "deriv": "brief(짧은) -> 'briefly'. 시간 '잠깐(pause briefly)' -> 말 '간단히(explain briefly)' -> 'briefly, ~(요컨대)'. brevis 뿌리. 한국 학습자: briefly explain/describe(간단히 설명/묘사하다), meet briefly(잠깐 만나다), to put it briefly(간단히 말하면), briefly mention(잠깐 언급하다). shortly(곧)와 혼동 주의 — briefly는 '짧게', shortly는 '곧'! in brief(요컨대, 2377)와 통함. brief/briefly/brevity 가족. 발음 /ˈbriːfli/.",
+  "syn": ["concisely(간결하게)", "for a moment(잠깐)", "in short(요컨대)"],
+  "anti": ["at length(장황하게·상세히)", "in detail(상세하게)"],
+  "idiom": ["briefly put(간단히 말해)", "to put it briefly(요컨대)", "briefly mention(잠깐 언급하다)"],
+  "colloc": ["briefly explain(간단히 설명하다)", "briefly mention(잠깐 언급하다)", "pause briefly(잠시 멈추다)"],
+  "ex_add": "He spoke only briefly about his plans.  (briefly=간단히)"
+ },
+ {
+  "num": "2379",
+  "hw": "broad",
+  "pos": "adj.",
+  "cefr": "B2",
+  "core": "폭이 '넓은' -> 광범위한·대략적인.",
+  "senses": [
+   "1) 폭이 넓은",
+   "2) (범위가) 광범위한·폭넓은",
+   "3) 대략적인·개략의"
+  ],
+  "etym": "고대 영어 brad(넓은). '폭이 넓은'이 핵심. broad 뿌리로 breadth(폭)·broaden(넓히다)·abroad(해외로, 2235)·broadcast(2380)가 묶인다.",
+  "deriv": "brad(넓은) -> 'broad'. 폭 '넓은(broad shoulders, 떡 벌어진 어깨)' -> 범위 '광범위한(a broad range, 폭넓은 범위)' -> '대략의(in broad terms, 대략적으로)'. broad 뿌리로 breadth·broaden·abroad(2235)·broadcast(2380)와 묶인다. 한국 학습자: a broad range of(다양한), in broad daylight(대낮에·버젓이), broad-minded(마음이 넓은), a broad smile(활짝 웃음), broad outlines(대략적 윤곽). wide(넓은, 1464)와 유의어이나 broad는 '폭이 넓고 포괄적'. narrow(좁은)가 반의. abroad(2235)와 어원 친족.",
+  "syn": ["wide(넓은)", "extensive(광범위한)", "general(전반적인)"],
+  "anti": ["narrow(좁은)", "limited(한정된)", "specific(구체적인)"],
+  "idiom": ["in broad daylight(대낮에)", "broad-minded(마음이 넓은)", "a broad range of(폭넓은)", "in broad terms(대략적으로)"],
+  "colloc": ["broad range(폭넓은 범위)", "broad shoulders(넓은 어깨)", "broad smile(환한 미소)"],
+  "ex_add": "The course covers a broad range of topics.  (broad=폭넓은)"
+ },
+ {
+  "num": "2380",
+  "hw": "broadcast",
+  "pos": "v., n.",
+  "cefr": "B2",
+  "core": "전파로 '널리 뿌려' 방송하다.",
+  "senses": [
+   "1) 방송하다·중계하다",
+   "2) (널리) 퍼뜨리다·전하다",
+   "3) (n.) 방송(프로그램)"
+  ],
+  "etym": "broad(넓게, 2379) + cast(뿌리다·던지다). 본래 '씨를 넓게 흩뿌림(broadcast sowing)'에서 '전파를 널리 뿌림 = 방송'으로. broad(2379)·cast(던지다, 2401)의 합성어.",
+  "deriv": "broad(넓게) + cast(뿌리다) -> 'broadcast'. '방송하다(broadcast live, 생방송하다)' -> '퍼뜨리다(broadcast the news)' -> 명사 '방송(a live broadcast)'. broad(2379)·cast(2401)와 묶인다. broadcast-broadcast-broadcast(불변, 또는 -ed). broadcaster(방송인, 2381)가 파생. 한국 학습자: a live broadcast(생방송), broadcast live(생중계하다), a news broadcast(뉴스 방송), broadcasting(방송업). cast(씨를 뿌리다·던지다)에서 '널리 뿌림'. air(방송하다)와 유의어.",
+  "syn": ["air(방송하다)", "transmit(송출하다)", "televise(TV로 방영하다)"],
+  "anti": [],
+  "idiom": ["a live broadcast(생방송)", "broadcast live(생중계하다)", "a news broadcast(뉴스 방송)"],
+  "colloc": ["live broadcast(생방송)", "broadcast a program(프로그램을 방송하다)", "TV broadcast(텔레비전 방송)"],
+  "ex_add": "The match will be broadcast live on TV.  (broadcast=방송하다)"
+ },
+ {
+  "num": "2381",
+  "hw": "broadcaster",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "방송하는 사람·기관 = 방송인·방송사.",
+  "senses": [
+   "1) 방송인·아나운서·진행자",
+   "2) 방송사·방송 기관",
+   "3) 중계자"
+  ],
+  "etym": "broadcast(방송하다, 2380) + -er(~하는 사람/것). broad(2379) + cast(2401)의 합성어에서. '널리 뿌리는 이'가 핵심.",
+  "deriv": "broadcast(방송하다, 2380) -> 'broadcaster'. 사람 '방송인(a TV broadcaster)' -> 기관 '방송사(a public broadcaster, 공영 방송사)'. broad(2379)·cast(2401) 뿌리. 한국 학습자: a public broadcaster(공영 방송, 예: BBC), a sports broadcaster(스포츠 중계자), a national broadcaster(국영 방송사). -er이 '사람'과 '기관' 둘 다(broadcaster = 방송인/방송사). broadcast(2380)/broadcaster/broadcasting(방송) 가족. presenter(진행자)·anchor(앵커)와 유의어.",
+  "syn": ["presenter(진행자)", "anchor(앵커)", "network(방송망)"],
+  "anti": ["viewer(시청자)", "listener(청취자)"],
+  "idiom": ["a public broadcaster(공영 방송사)", "a national broadcaster(국영 방송사)"],
+  "colloc": ["public broadcaster(공영 방송사)", "TV broadcaster(방송인)", "national broadcaster(국영 방송)"],
+  "ex_add": "She works as a sports broadcaster.  (broadcaster=방송인)"
+ },
+ {
+  "num": "2382",
+  "hw": "broadly",
+  "pos": "adv.",
+  "cefr": "B2",
+  "core": "넓게·대체로·대략.",
+  "senses": [
+   "1) 대체로·전반적으로",
+   "2) 폭넓게·광범위하게",
+   "3) (입을) 활짝"
+  ],
+  "etym": "broad(넓은, 2379) + -ly. broad 뿌리로 broad(2379)·breadth·broaden·abroad(2235)가 묶인다.",
+  "deriv": "broad(넓은) -> 'broadly'. '대체로(broadly similar, 대체로 비슷한)' -> '폭넓게(broadly defined)' -> '활짝(smile broadly)'. broad(2379) 뿌리. 한국 학습자: broadly speaking(대체로 말하면), broadly similar(대체로 비슷한), broadly defined(폭넓게 정의된), grin broadly(활짝 웃다). generally(일반적으로, 1762)·largely(대체로)와 유의어. narrowly(좁게·간신히)가 반의. broad/broadly 가족. 글에서 일반화할 때 'broadly speaking'을 자주.",
+  "syn": ["generally(대체로)", "largely(대부분)", "widely(폭넓게)"],
+  "anti": ["narrowly(좁게)", "specifically(구체적으로)", "precisely(정확히)"],
+  "idiom": ["broadly speaking(대체로 말하면)", "broadly similar(대체로 비슷한)", "grin broadly(활짝 웃다)"],
+  "colloc": ["broadly speaking(대체로)", "broadly similar(대체로 비슷한)", "broadly defined(폭넓게 정의된)"],
+  "ex_add": "Broadly speaking, the two plans are similar.  (broadly=대체로)"
+ },
+ {
+  "num": "2383",
+  "hw": "buck",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "①(미 구어) 달러 ②수사슴 -> 책임.",
+  "senses": [
+   "1) (미국 구어) 달러",
+   "2) 수사슴·수컷",
+   "3) (the buck) 책임 / (동사) 날뛰다·저항하다"
+  ],
+  "etym": "고대 영어 bucca(수사슴·수염소). 달러 뜻은 옛 모피 거래에서 '사슴 가죽(buckskin)'이 화폐 단위였던 데서 유래한 미국 속어. '수컷 짐승'이 본뜻.",
+  "deriv": "bucca(수사슴) -> 'buck'. ②'수사슴' -> ①미국 속어 '달러(make a quick buck, 손쉽게 돈을 벌다)' -> 'pass the buck(책임을 전가하다)'. 한국 학습자: make a fast/quick buck(쉽게 한몫 벌다), pass the buck(책임을 떠넘기다), the buck stops here(모든 책임은 내가 진다), buck the trend(대세를 거스르다, 2177 trend), big bucks(거금). dollar(달러)의 구어. doe(암사슴)가 짝(수컷 buck). '날뛰다'(말이 등을 솟구치다)도.",
+  "syn": ["dollar(달러)", "stag(수사슴)"],
+  "anti": ["doe(암사슴)"],
+  "idiom": ["pass the buck(책임을 전가하다)", "make a quick buck(쉽게 돈을 벌다)", "the buck stops here(책임은 내가 진다)", "big bucks(거금)"],
+  "colloc": ["make a buck(돈을 벌다)", "a few bucks(몇 달러)", "big bucks(큰돈)"],
+  "ex_add": "He's just trying to make a quick buck.  (buck=달러, 미국 구어)"
+ },
+ {
+  "num": "2384",
+  "hw": "budget",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "'작은 돈주머니'에서 온 예산·경비.",
+  "senses": [
+   "1) 예산·경비",
+   "2) (개인의) 생활비·가용 금액",
+   "3) (형) 저가의 / (동사) 예산을 세우다"
+  ],
+  "etym": "고대 프랑스어 bougette(작은 가방) < 라틴어 bulga(가죽 주머니). 본래 '돈주머니'에서 '예산'으로. bill(2362)의 bulla와는 다르나 '주머니·문서'와 연결. bulge(불룩함)와 한 뿌리.",
+  "deriv": "bougette(작은 주머니) -> 'budget'. '예산(a tight budget, 빠듯한 예산)' -> 형용사 '저가의(a budget airline, 저가 항공)' -> 동사 '예산을 짜다(budget for)'. bulga(주머니) 뿌리. 한국 학습자: on a budget(빠듯한 예산으로·알뜰하게), a tight budget(빠듯한 예산), within budget(예산 내에서), over budget(예산 초과), the national budget(국가 예산), a budget hotel(저가 호텔). budget for(~을 위한 예산을 짜다). 어원이 '돈주머니'임이 흥미.",
+  "syn": ["allowance(할당액)", "funds(자금)", "finances(재정)"],
+  "anti": [],
+  "idiom": ["on a budget(빠듯한 예산으로)", "within budget(예산 내에서)", "over budget(예산을 초과한)", "a tight budget(빠듯한 예산)"],
+  "colloc": ["tight budget(빠듯한 예산)", "annual budget(연간 예산)", "budget cuts(예산 삭감)"],
+  "ex_add": "We're decorating the house on a tight budget.  (budget=예산)"
+ },
+ {
+  "num": "2385",
+  "hw": "bug",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "작은 '벌레' -> 병균·결함·도청기 / 성가시게 하다.",
+  "senses": [
+   "1) (작은) 벌레·곤충",
+   "2) 병균 / (프로그램의) 오류·결함",
+   "3) 도청 장치 / (동사) 성가시게 하다·도청하다"
+  ],
+  "etym": "중세 영어 bugge(도깨비·무서운 것), 어원이 확실치 않음. '작고 성가신 것'이 핵심. bugbear(골칫거리)와 관련. 컴퓨터 '버그'는 초기 컴퓨터에 낀 실제 벌레에서 유래했다는 일화로 유명.",
+  "deriv": "'벌레' -> 병균 '바이러스(catch a bug, 병에 걸리다)' -> 프로그램 '결함(a software bug)' -> '도청기' -> 동사 '성가시게 하다(Stop bugging me)·도청하다'. 한국 학습자: a software bug(소프트웨어 오류), catch a bug(잔병에 걸리다), the travel bug(여행에 푹 빠짐), bug someone(누구를 귀찮게 하다), debug(버그를 잡다), a stomach bug(배탈을 일으키는 균). 컴퓨터 bug(결함)와 debug(2)가 IT 필수어. insect(곤충)와 유의어(벌레 뜻).",
+  "syn": ["insect(곤충)", "germ(병균)", "fault(결함)"],
+  "anti": [],
+  "idiom": ["catch a bug(잔병에 걸리다)", "the travel bug(여행 욕구)", "bug someone(성가시게 하다)", "a software bug(소프트웨어 오류)"],
+  "colloc": ["software bug(소프트웨어 버그)", "catch a bug(병에 걸리다)", "fix a bug(버그를 고치다)"],
+  "ex_add": "There's a bug in the program that keeps crashing it.  (bug=오류)"
+ },
+ {
+  "num": "2386",
+  "hw": "bullet",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "총에서 나가는 작은 '총알'.",
+  "senses": [
+   "1) 총알·탄환",
+   "2) (글머리) 불릿(•) 기호",
+   "3) 작고 빠른 것"
+  ],
+  "etym": "프랑스어 boulette(작은 공) < boule(공) < 라틴어 bulla(둥근 것). '작은 공 모양 탄환'이 핵심. ball(공)·balloon(풍선, 2341)·boulevard와 먼 친척. bill(2362)의 bulla(둥근 봉인)와 연결.",
+  "deriv": "boule(공) -> boulette(작은 공) -> 'bullet'. '총알(fire a bullet)' -> 'a bullet point(글머리 기호 •)'. 한국 학습자: bite the bullet(이를 악물고 견디다, 1542 bite), dodge a bullet(가까스로 위기를 모면하다), a bullet point(불릿, 목록 항목), a magic bullet(특효약·만능 해결책), sweat bullets(식은땀을 흘리다), bulletproof(방탄의), a bullet train(고속 열차). '작은 공'이 어원. ball(공) 가족.",
+  "syn": ["round(탄환)", "shot(탄알)", "slug(총알)"],
+  "anti": [],
+  "idiom": ["bite the bullet(이 악물고 참다)", "dodge a bullet(위기를 모면하다)", "a magic bullet(만능 해결책)", "a bullet point(글머리 기호)", "sweat bullets(진땀을 빼다)"],
+  "colloc": ["fire a bullet(총알을 발사하다)", "stray bullet(유탄)", "bullet point(글머리 기호)"],
+  "ex_add": "Just bite the bullet and apologize.  (bite the bullet=이를 악물고 하다)"
+ },
+ {
+  "num": "2387",
+  "hw": "bunch",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "한데 묶인 '다발·송이' -> 한 무리.",
+  "senses": [
+   "1) (꽃·열매의) 다발·송이",
+   "2) (사람·것의) 무리·떼",
+   "3) (a bunch of) 많은·한 무더기의"
+  ],
+  "etym": "중세 영어 bunche(혹·다발), 어원이 확실치 않음. '한데 뭉친 것'이 핵심.",
+  "deriv": "'다발(a bunch of flowers, 꽃다발)' -> 무리 'a bunch of kids(아이들 무리)' -> 구어 '많은(a bunch of stuff, 잔뜩)'. 한국 학습자: a bunch of(한 다발의·한 무리의·많은, a bunch of grapes 포도 한 송이 / a bunch of friends 친구 무리), the best of the bunch(그중 최고), thanks a bunch(정말 고마워, 때로 반어). cluster·bundle과 유의어. 구어에서 a bunch of로 '꽤 많은'을 자주(= a lot of). a whole bunch(아주 많이).",
+  "syn": ["cluster(송이)", "bundle(묶음)", "group(무리)"],
+  "anti": [],
+  "idiom": ["a bunch of(한 다발·한 무리의·많은)", "the best of the bunch(그중 최고)", "thanks a bunch(정말 고마워)"],
+  "colloc": ["a bunch of flowers(꽃다발)", "a bunch of grapes(포도 한 송이)", "a whole bunch(아주 많이)"],
+  "ex_add": "He gave her a bunch of red roses.  (a bunch of=한 다발의)"
+ },
+ {
+  "num": "2388",
+  "hw": "burn",
+  "pos": "v.",
+  "cefr": "B2",
+  "core": "불에 '타다·태우다' -> 데다.",
+  "senses": [
+   "1) 타다·태우다·불에 타다",
+   "2) (살갗을) 데다·그을리다",
+   "3) (n.) 화상 / (열량을) 태우다"
+  ],
+  "etym": "고대 영어 bærnan(태우다)/beornan(타다). 게르만어 계열. '불로 태움'이 핵심. burn-burned/burnt-burned/burnt. brand(낙인, 1548)와 한 가족.",
+  "deriv": "'타다·태우다(burn paper)' -> '데다(burn one's hand)' -> 명사 '화상(a severe burn)'. burning(불타는·시급한)·burnt(탄)이 파생. 한국 학습자: burn down(전소되다·태워 없애다), burn out(다 타 버리다·번아웃되다), burn up(다 태우다), burn calories(칼로리를 태우다), get burned(데다·손해 보다·배신당하다), burn the midnight oil(밤늦게까지 공부하다), burn bridges(돌아갈 길을 끊다). 과거형 burned(미)/burnt(영) 둘 다. a burning question(초미의 관심사).",
+  "syn": ["scorch(그을리다)", "char(태우다)", "ignite(불붙이다)"],
+  "anti": ["extinguish(불을 끄다)", "freeze(얼다)"],
+  "idiom": ["burn down(전소되다)", "burn out(번아웃되다)", "burn the midnight oil(밤늦게까지 일하다)", "burn bridges(인연을 끊다)", "get burned(손해를 보다)"],
+  "colloc": ["burn fuel(연료를 태우다)", "burn calories(칼로리를 소모하다)", "burn down(불타 무너지다)"],
+  "ex_add": "Be careful not to burn yourself on the stove.  (burn=데다)"
+ },
+ {
+  "num": "2389",
+  "hw": "bush",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "키 작은 '관목·덤불'.",
+  "senses": [
+   "1) 관목·덤불",
+   "2) (the bush) (호주·아프리카의) 미개간지·오지",
+   "3) 무성한 것"
+  ],
+  "etym": "고대 영어 busc/중세 영어 bush(덤불). 게르만어 계열(독일어 Busch). '낮게 우거진 나무'가 핵심. ambush(매복, '덤불에 숨음')와 관련.",
+  "deriv": "'덤불(a rose bush, 장미 덤불)' -> 'the bush(오지, 호주 등)'. ambush(매복)와 친족. 한국 학습자: beat around the bush(빙빙 둘러 말하다, 2351 beat), a bird in the hand is worth two in the bush(손안의 새 한 마리가 덤불 속 두 마리보다 낫다), bushy(무성한, bushy eyebrows 짙은 눈썹), the bush telegraph(소문이 퍼지는 통로). tree(나무)<bush(관목)<shrub(키 작은 떨기나무)의 크기. 호주 영어로 the bush는 '시골·오지'.",
+  "syn": ["shrub(관목)", "thicket(덤불)", "scrub(덤불숲)"],
+  "anti": [],
+  "idiom": ["beat around the bush(에둘러 말하다)", "a bird in the hand is worth two in the bush(확실한 하나가 불확실한 둘보다 낫다)", "the bush telegraph(입소문)"],
+  "colloc": ["rose bush(장미 덤불)", "thorn bush(가시덤불)", "berry bush(베리 덤불)"],
+  "ex_add": "Stop beating around the bush and tell me.  (beat around the bush=빙빙 둘러 말하다)"
+ },
+ {
+  "num": "2390",
+  "hw": "but",
+  "pos": "conj., prep.",
+  "cefr": "B2",
+  "core": "'그러나' (대조) / ~을 제외하고.",
+  "senses": [
+   "1) (접속사) 그러나·하지만",
+   "2) (전치사) ~을 제외하고·~ 외에는",
+   "3) (부사) 그저·단지(격식)"
+  ],
+  "etym": "고대 영어 butan = be(~에) + utan(밖에). 본래 '~ 밖에 = ~을 제외하고'에서 '그러나'로. out(밖)과 한 가족. '~을 빼면'이 핵심.",
+  "deriv": "butan(밖에) -> 'but'. 대조 '그러나(small but strong)' -> 제외 'everyone but me(나만 빼고 모두)' -> 격식 부사 '그저(but a child, 한낱 아이)'. 한국 학습자: not A but B(A가 아니라 B), but for(~이 없었다면, But for your help, I'd have failed), nothing but(오직 ~뿐, = only), cannot but V(~하지 않을 수 없다), anything but(결코 ~이 아닌), all but(거의). everyone/nobody/anywhere + but(~을 제외한)에서 but이 전치사. however(그러나)보다 구어·일상. 어원이 '밖에(제외)'.",
+  "syn": ["however(그러나)", "yet(하지만)", "except(~을 제외하고)"],
+  "anti": ["and(그리고)", "so(그래서)"],
+  "idiom": ["not A but B(A가 아니라 B)", "but for(~이 없었다면)", "nothing but(오직 ~뿐)", "anything but(결코 ~이 아닌)", "cannot but(~하지 않을 수 없다)"],
+  "colloc": ["but also(~뿐만 아니라)", "everyone but(~을 제외한 모두)", "last but one(끝에서 두 번째)"],
+  "ex_add": "Everyone but Tom agreed with the plan.  (but=~을 제외하고)"
+ },
+ {
+  "num": "2391",
+  "hw": "cabin",
+  "pos": "n.",
+  "cefr": "B2",
+  "core": "작은 '오두막' / 배·비행기의 객실.",
+  "senses": [
+   "1) 통나무집·오두막",
+   "2) (배의) 선실 / (비행기) 객실·조종실",
+   "3) (산장 등의) 작은 숙소"
+  ],
+  "etym": "고대 프랑스어 cabane < 후기 라틴어 capanna(오두막). '작은 거처'가 핵심. cabin·cabinet(작은 방·내각)이 한 capanna 뿌리.",
+  "deriv": "capanna(오두막) -> 'cabin'. '오두막(a log cabin, 통나무집)' -> 배·비행기 '객실(the cabin crew, 객실 승무원)'. cabinet(장식장·내각)이 파생 — '작은 방'에서. 한국 학습자: a log cabin(통나무 오두막), the cabin crew(승무원), cabin pressure(기내 압력), cabin fever(밀실 공포증·답답증, 오래 갇혀 생기는 짜증), economy cabin(일반석). hut(오두막)·cottage(시골집)와 유의어. cabinet(내각·수납장)과 어원 친족.",
+  "syn": ["hut(오두막)", "cottage(시골집)", "lodge(산장)"],
+  "anti": [],
+  "idiom": ["a log cabin(통나무집)", "the cabin crew(객실 승무원)", "cabin fever(밀실에 갇힌 답답증)"],
+  "colloc": ["log cabin(통나무집)", "cabin crew(승무원)", "ship's cabin(선실)"],
+  "ex_add": "They spent the weekend in a cabin by the lake.  (cabin=오두막)"
+ }
+]
