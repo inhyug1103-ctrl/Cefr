@@ -162738,5 +162738,1650 @@
   "ex_add": "The job requires specialized knowledge.  (specialized=전문적인)",
   "ex_orig": "She had highly specialized in and become somewhat dependent on the production of articles like dyestuffs and the commodities of the pharmacopoeia.",
   "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4742",
+  "hw": "specification",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "종류(species)별로 자세히 적음 -> '명세·사양'.",
+  "senses": [
+   "1) (보통 specifications) (제품의) 사양, 명세",
+   "2) 명확한 기술, 상세 설명",
+   "3) (설계) 시방서"
+  ],
+  "etym": "라틴어 species(종류·모양, specere 보다) -> specificare(자세히 밝히다) -> specify + -ation -> 'specification'. species(종류)는 specific(구체적인)·special(특별한)·specimen(표본, 4743)·specialized(전문화된, 4741)의 공통 뿌리.",
+  "deriv": "species(종류) -> specify -> 'specification'. 한국 학습자 핵심: species/specere(종류·보다)계열 — specific(구체적인)·special(특별한)·specimen(표본, 4743)·specialize(4741)·specification! 줄임말 spec(스펙)! technical specifications(기술 사양), meet the specifications(사양을 충족하다), product specifications(제품 명세), detailed specifications(상세 사양). 동사 specify(명시하다). 유의어 detail(세부사항)·requirement(요건)·description(기술). 제품·공학 지문 빈출.",
+  "syn": [
+   "detail(세부사항)",
+   "requirement(요건)",
+   "description(기술)"
+  ],
+  "anti": [],
+  "idiom": [
+   "meet the specifications(사양을 충족하다)"
+  ],
+  "colloc": [
+   "technical specifications(기술 사양)",
+   "product specifications(제품 명세)",
+   "detailed specifications(상세 사양)"
+  ],
+  "ex_add": "The product must meet strict specifications.  (specification=사양)",
+  "ex_orig": "Shipbuilding steel proved to be in short supply in 1940, and a number of batches were rejected because they did not meet specifications.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4743",
+  "hw": "specimen",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "보여 주는(specere) 본보기 -> '표본·견본·시료'.",
+  "senses": [
+   "1) (생물·광물의) 표본",
+   "2) (검사용) 시료, 채취물",
+   "3) 견본, 본보기"
+  ],
+  "etym": "라틴어 specere(보다) -> specimen(보여 주는 것·본보기) -> 'specimen'. specere(보다)는 spectacle(구경거리, 4744)·inspect(점검하다, 4273)·species(종류)·specific(구체적인)의 공통 뿌리. '대표로 보여 주는 표본'이 핵심.",
+  "deriv": "specere(보다) -> 'specimen'. 한국 학습자 핵심: specere(보다)계열 — spectacle(4744)·inspect(4273)·species(종)·specimen·specification(4742)·specific! a biological specimen(생물 표본), a blood specimen(혈액 시료), a rare specimen(희귀 표본), collect specimens(표본을 채집하다). 유의어 sample(견본)·example(예)·exhibit(전시물). 과학·의학 지문 빈출. sample(일부 견본)과 비슷하나 specimen은 연구·검사용 표본.",
+  "syn": [
+   "sample(견본)",
+   "example(예)",
+   "exhibit(전시물)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a biological specimen(생물 표본)"
+  ],
+  "colloc": [
+   "biological specimen(생물 표본)",
+   "blood specimen(혈액 시료)",
+   "rare specimen(희귀 표본)"
+  ],
+  "ex_add": "The museum displayed rare specimens.  (specimen=표본)",
+  "ex_orig": "In spite of the cheapness of wine, however, the German soldier is well disciplined and does not \"go the limit\"; I have never seen an intoxicated specimen afield.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4744",
+  "hw": "spectacle",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "볼만한(spectare) 광경 -> '장관·구경거리'.",
+  "senses": [
+   "1) 장관, 볼거리, 구경거리",
+   "2) (보기 민망한) 꼴, 광경",
+   "3) (spectacles) 안경"
+  ],
+  "etym": "라틴어 spectare(보다·구경하다) -> spectaculum(구경거리) -> 'spectacle'. spectare(보다)는 spectator(관중)·inspect(점검하다, 4273)·respect(존경)·prospect(전망)·spectacular(장관의)의 공통 뿌리. '눈을 사로잡는 볼거리'가 핵심.",
+  "deriv": "spectare(보다) -> 'spectacle'. 한국 학습자 핵심: spectare(보다)계열 거대군 — spectator(관중)·inspect(4273)·respect(존경)·prospect(전망)·perspective(관점)·prospective(4575)·spectacular(장관의)·spectacle! a magnificent spectacle(장엄한 장관), make a spectacle of oneself(추태를 보이다), a public spectacle(공개적 볼거리). spectacles(안경, 격식)도! 형용사 spectacular(장관의·극적인). 유의어 sight(광경)·display(볼거리)·show(쇼). 비유로 '꼴불견'.",
+  "syn": [
+   "sight(광경)",
+   "display(볼거리)",
+   "show(쇼)"
+  ],
+  "anti": [],
+  "idiom": [
+   "make a spectacle of oneself(추태를 보이다)"
+  ],
+  "colloc": [
+   "magnificent spectacle(장엄한 장관)",
+   "public spectacle(공개적 볼거리)",
+   "impressive spectacle(인상적인 장관)"
+  ],
+  "ex_add": "The fireworks were a magnificent spectacle.  (spectacle=장관)",
+  "ex_orig": "This ought to be a very sobering spectacle, but it seems to arouse the delighted enthusiasm of an American majority.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4745",
+  "hw": "spectrum",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "눈에 비친(spectare) 색의 띠 -> '스펙트럼·범위'.",
+  "senses": [
+   "1) (빛의) 스펙트럼, 분광",
+   "2) (사상·의견의) 범위, 영역, 전 영역",
+   "3) (전파의) 주파수대"
+  ],
+  "etym": "라틴어 spectare(보다) -> spectrum(나타나 보이는 것·영상) -> 'spectrum'. spectare(보다)는 spectacle(장관, 4744)·spectator(관중)·inspect(4273)의 공통 뿌리. 뉴턴이 프리즘으로 분광한 색의 띠를 가리킨 데서 유래. '연속적으로 펼쳐진 범위'가 핵심.",
+  "deriv": "spectare(보다) -> 'spectrum'. 한국 학습자 핵심: spectare(보다)계열 — spectacle(4744)·spectator·inspect(4273)·spectrum! 복수 spectra/spectrums! the color spectrum(색 스펙트럼), a broad/wide spectrum of(폭넓은 범위의 ~), across the political spectrum(정치 성향 전반에 걸쳐), the autism spectrum(자폐 스펙트럼). 비유로 '광범위한 범위'! 유의어 range(범위)·scope(범위, 4684)·gamut(전 영역). 과학·사회 지문 빈출.",
+  "syn": [
+   "range(범위)",
+   "scope(범위)",
+   "gamut(전 영역)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a broad spectrum of(폭넓은 범위의)",
+   "across the political spectrum(정치 성향 전반에 걸쳐)"
+  ],
+  "colloc": [
+   "color spectrum(색 스펙트럼)",
+   "broad spectrum(넓은 범위)",
+   "political spectrum(정치 성향 범위)"
+  ],
+  "ex_add": "The disorder covers a wide spectrum of symptoms.  (spectrum=범위)",
+  "ex_orig": "There also exist chemically peculiar stars that show unusual of certain elements in their spectrum; especially and rare earth elements.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4746",
+  "hw": "spell",
+  "pos": "v., n.",
+  "cefr": "C1",
+  "core": "철자를 말하다; (별개)주문·한동안 -> '철자를 쓰다·주문·한동안'.",
+  "senses": [
+   "1) (v.) 철자를 쓰다/말하다(일상 A1)",
+   "2) (n.) 주문, 마법",
+   "3) (n.) (날씨·일의) 한동안, 기간"
+  ],
+  "etym": "철자 spell은 고대 프랑스어 espeller(글자를 읽다)에서, 주문 spell은 고대 영어 spell(이야기·주문)에서, 기간 spell은 고대 영어 spelian(대신하다)에서 온 여러 어원이 합류한 복합어.",
+  "deriv": "espeller(읽다) / spell(주문) / spelian(교대) -> 'spell'. 한국 학습자 핵심: 동철 다의 — ① 철자를 쓰다(A1) ② 주문·마법(cast a spell 주문을 걸다, under a spell 홀린) ③ 한동안(a cold spell 한파, a dry spell 가뭄 기간)! spell out(또박또박 설명하다·철자를 말하다), spell trouble(불행을 예고하다), a dizzy spell(어지럼증). 유의어(주문) charm(마력); (기간) period(기간)·stretch(기간). 세 뜻 모두 빈출.",
+  "syn": [
+   "charm(마력)",
+   "period(기간)",
+   "stretch(기간)"
+  ],
+  "anti": [],
+  "idiom": [
+   "cast a spell(주문을 걸다)",
+   "spell out(또박또박 설명하다)",
+   "a cold spell(한파)"
+  ],
+  "colloc": [
+   "cast a spell(주문을 걸다)",
+   "cold spell(한파)",
+   "spell out(또박또박 설명하다)"
+  ],
+  "ex_add": "We had a long dry spell this summer.  (spell=한동안)",
+  "ex_orig": "For some individuals, then, the European war will spell strict economy; for a comparatively few, let us hope, ruin.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4747",
+  "hw": "sphere",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "공(sphaira) 모양 -> '구·영역·분야'.",
+  "senses": [
+   "1) 구(球), 구체",
+   "2) (활동·영향의) 영역, 분야",
+   "3) (사회) 계층, 권역"
+  ],
+  "etym": "그리스어 sphaira(공) -> 라틴어 sphaera -> 'sphere'. sphaira(공)는 hemisphere(반구, hemi-반)·atmosphere(대기권, atmos-증기)·biosphere(생물권)·stratosphere(성층권)의 공통 뿌리. '둥근 공 -> 영향이 미치는 둥근 권역'으로 의미 확장.",
+  "deriv": "sphaira(공) -> 'sphere'. 한국 학습자 핵심: sphaira(공)계열 — hemisphere(반구)·atmosphere(대기·분위기)·biosphere(생물권)·stratosphere(성층권)·spherical(구형의)·sphere! a sphere of influence(세력권), the public sphere(공공 영역), the political sphere(정치 영역), in the social sphere(사회적 영역에서). 형용사 spherical(구형의). 유의어(영역) realm(영역, 4602)·domain(영역)·field(분야)·area(분야). '영향력의 영역' 의미로 빈출.",
+  "syn": [
+   "realm(영역)",
+   "domain(영역)",
+   "field(분야)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a sphere of influence(세력권)",
+   "the public sphere(공공 영역)"
+  ],
+  "colloc": [
+   "sphere of influence(세력권)",
+   "public sphere(공공 영역)",
+   "political sphere(정치 영역)"
+  ],
+  "ex_add": "The region fell within the empire's sphere of influence.  (sphere=영역)",
+  "ex_orig": "The decisive factor was that more binding military agreements for the case eventually of a Continental war were concluded outside the political sphere.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4748",
+  "hw": "spin",
+  "pos": "v., n.",
+  "cefr": "C1",
+  "core": "빙글빙글 돌리다 -> '돌다·실을 잣다·교묘한 왜곡'.",
+  "senses": [
+   "1) (v.) 빙빙 돌(리)다, 회전하다",
+   "2) (v.) (실을) 잣다; (거미가 줄을) 치다",
+   "3) (n.) 회전; (정보의) 그럴듯한 왜곡, 편향"
+  ],
+  "etym": "고대 영어 spinnan(실을 잣다)에서 -> 'spin'. spider(거미, 줄을 잣는 것)·spindle(물레 가락)과 친족. '빙빙 돌려 실을 자아내다 -> 회전하다'로 확장. 불규칙 spin-spun-spun.",
+  "deriv": "spinnan(실을 잣다) -> 'spin'. 한국 학습자 핵심: 불규칙 spin-spun-spun! spider(거미)와 친족(줄을 잣다)! spin around(빙 돌다), spin a tale(이야기를 지어내다), put a spin on(~을 그럴듯하게 포장하다·왜곡하다), my head is spinning(머리가 핑 돈다), a spin-off(파생 상품·파생작), spin doctor(언론 조작 전문가). 유의어(돌다) rotate(회전하다, 4673)·twirl(빙글 돌리다)·whirl(빙빙 돌다). 정보 '편향·왜곡' 의미가 시사 빈출.",
+  "syn": [
+   "rotate(회전하다)",
+   "twirl(빙글 돌리다)",
+   "whirl(빙빙 돌다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "put a spin on(~을 그럴듯하게 포장하다)",
+   "a spin-off(파생작)",
+   "spin a tale(이야기를 지어내다)"
+  ],
+  "colloc": [
+   "spin around(빙 돌다)",
+   "put a spin on(~을 왜곡하다)",
+   "spin-off(파생 상품)"
+  ],
+  "ex_add": "The wheel began to spin faster.  (spin=돌다)",
+  "ex_orig": "The song references a yo - yo; this is a metaphor for Roberts herself, a spinning yo - yo \" on the finger of a hot ' n ' cold lover \".",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4749",
+  "hw": "spine",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "등의 가시 같은 뼈(spina) -> '척추·가시·책등'.",
+  "senses": [
+   "1) 척추, 등뼈",
+   "2) (동식물의) 가시",
+   "3) 책등; (비유) 기개, 줏대"
+  ],
+  "etym": "라틴어 spina(가시·등뼈) -> 'spine'. spina(가시)는 spinal(척추의)·spine·porcupine(호저, 가시 돼지)의 공통 뿌리. '등을 따라 난 가시 같은 뼈'가 핵심.",
+  "deriv": "spina(가시·등뼈) -> 'spine'. 한국 학습자 핵심: spina(가시·척추)계열 — spinal(척추의, spinal cord 척수)·spine·porcupine(호저)! 신체: spine(척추)·vertebra(척추뼈)·backbone(등뼈·중추)! a spinal injury(척추 손상), send shivers down one's spine(등골을 오싹하게 하다), the spine of a book(책등), have no spine(줏대가 없다). 형용사 spinal(척추의). 유의어 backbone(등뼈)·vertebrae(척추골). 비유로 '기개·줏대'(spineless 줏대 없는).",
+  "syn": [
+   "backbone(등뼈)",
+   "vertebrae(척추골)"
+  ],
+  "anti": [],
+  "idiom": [
+   "send shivers down one's spine(등골을 오싹하게 하다)",
+   "have no spine(줏대가 없다)"
+  ],
+  "colloc": [
+   "spinal injury(척추 손상)",
+   "spine of a book(책등)",
+   "curved spine(휜 척추)"
+  ],
+  "ex_add": "The fall injured his spine.  (spine=척추)",
+  "ex_orig": "Both elements support a spine - like neural arch, and well - developed projections called strengthen the connections between vertebrae.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4750",
+  "hw": "spotlight",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "한 지점(spot)을 비추는 빛(light) -> '스포트라이트·세간의 주목'.",
+  "senses": [
+   "1) 스포트라이트, 집중 조명",
+   "2) (the spotlight) 세간의 주목, 관심의 초점",
+   "3) (v.) 집중 조명하다, 주목하게 하다"
+  ],
+  "etym": "spot(점·지점, 중세 네덜란드어 spotte) + light(빛)의 합성어 -> 'spotlight'. '한 지점만 환히 비추는 빛'에서 '세간의 집중적 관심'으로 비유 확장.",
+  "deriv": "spot(지점) + light(빛) -> 'spotlight'. 한국 학습자 핵심: spot(점·지점·발견하다) 합성 — spotlight·spotless(티 없는)·hotspot(명소·집중 지역)! light 합성 — spotlight·highlight(강조하다)·limelight(각광)·daylight(일광)! in the spotlight(세간의 주목을 받는), steal the spotlight(이목을 독차지하다), under the spotlight(주목받는), turn the spotlight on(~에 주목하게 하다). 유의어 limelight(각광)·attention(주목)·focus(초점). 'in the spotlight'(주목받는)이 핵심 비유.",
+  "syn": [
+   "limelight(각광)",
+   "attention(주목)",
+   "focus(초점)"
+  ],
+  "anti": [
+   "obscurity(무명)"
+  ],
+  "idiom": [
+   "in the spotlight(세간의 주목을 받는)",
+   "steal the spotlight(이목을 독차지하다)"
+  ],
+  "colloc": [
+   "in the spotlight(주목받는)",
+   "steal the spotlight(이목을 독차지하다)",
+   "under the spotlight(주목받는)"
+  ],
+  "ex_add": "The scandal put her in the spotlight.  (spotlight=주목)",
+  "ex_orig": "The game was first announced in June 2007 and won an award at the 2008 Independent Games Festival and entered the public spotlight.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4751",
+  "hw": "spouse",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "혼인을 약속한(spondere) 상대 -> '배우자'.",
+  "senses": [
+   "1) 배우자 (남편 또는 아내)"
+  ],
+  "etym": "라틴어 spondere(엄숙히 약속하다·맹세하다) -> sponsus(약혼한 사람) -> 고대 프랑스어 spous -> 'spouse'. spondere(약속하다)는 sponsor(후원자, 보증인)·respond(응답하다)·responsible(책임 있는)·correspond(일치하다)의 공통 뿌리. '혼인을 서약한 상대'가 핵심.",
+  "deriv": "spondere(약속하다) -> 'spouse'. 한국 학습자 핵심: spondere(약속하다)계열 — sponsor(후원자·보증인)·respond(응답하다)·response(응답)·responsible(책임 있는)·correspond(일치하다·서신을 주고받다)·spouse! 가족 어휘 — spouse(배우자)·partner(동반자)·in-laws(인척)! a surviving spouse(유족 배우자), a spouse's income(배우자의 소득), your spouse(당신의 배우자). 격식·법률 용어로 husband/wife보다 중립적. 유의어 partner(동반자)·mate(배우자)·husband/wife.",
+  "syn": [
+   "partner(동반자)",
+   "mate(배우자)",
+   "companion(동반자)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a surviving spouse(유족 배우자)"
+  ],
+  "colloc": [
+   "surviving spouse(유족 배우자)",
+   "spouse's income(배우자의 소득)",
+   "your spouse(당신의 배우자)"
+  ],
+  "ex_add": "You may bring your spouse to the event.  (spouse=배우자)",
+  "ex_orig": "To make them credible spouses for Amanda and, Coward was determined that two outstandingly attractive performers should play the parts.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4752",
+  "hw": "spy",
+  "pos": "n., v.",
+  "cefr": "C1",
+  "core": "몰래 살피는(specere) 자 -> '첩자·염탐하다'.",
+  "senses": [
+   "1) (n.) 첩자, 스파이",
+   "2) (v.) 염탐하다, 몰래 살피다(spy on)",
+   "3) (v.) (문어) 발견하다, 알아채다"
+  ],
+  "etym": "라틴어 specere(보다) -> 고대 프랑스어 espier(몰래 보다) -> 'spy'. specere(보다)는 spectacle(4744)·inspect(4273)·specimen(4743)·espionage(첩보 활동)의 공통 뿌리. '몰래 살펴보는 자'가 핵심.",
+  "deriv": "specere(보다) -> espier -> 'spy'. 한국 학습자 핵심: specere(보다)계열 — spectacle(4744)·inspect(4273)·specimen(4743)·spectrum(4745)·espionage(첩보)·spy! spy on(~을 염탐하다), a spy ring(간첩망), a spy thriller(첩보 스릴러), industrial spying(산업 스파이 활동). 명사 espionage(첩보 활동)·spyware(스파이웨어). 유의어 agent(요원)·informant(정보원); (염탐) snoop(기웃거리다)·surveil(감시하다). 첩보·보안 지문 빈출.",
+  "syn": [
+   "agent(요원)",
+   "informant(정보원)",
+   "snoop(기웃거리다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "spy on(~을 염탐하다)",
+   "a spy ring(간첩망)"
+  ],
+  "colloc": [
+   "spy on(~을 염탐하다)",
+   "spy ring(간첩망)",
+   "spy thriller(첩보 스릴러)"
+  ],
+  "ex_add": "He was accused of spying for a foreign government.  (spy=염탐하다)",
+  "ex_orig": "27--Commander of the Yorcke gets two-year term for losing vessel; German spy seized while trying to enter Gibraltar disguised as a Moor.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4753",
+  "hw": "squad",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "사각(quadra) 대형의 부대 -> '분대·팀·반'.",
+  "senses": [
+   "1) (군) 분대, 소대",
+   "2) (경찰의) 반, 특수 부대",
+   "3) (스포츠) 선수단, 팀"
+  ],
+  "etym": "라틴어 quadra(사각형, quattuor 넷) -> 이탈리아어 squadra(사각 대형의 병사들) -> 'squad'. quadra(사각)는 square(정사각형)·quadrant(사분원)·quad(사각 안뜰)·squadron(편대)의 공통 뿌리. '사각 대형으로 모인 소규모 무리'가 핵심.",
+  "deriv": "quadra(사각) -> 'squad'. 한국 학습자 핵심: quadra(넷·사각)계열 — square(정사각형)·quadrant(사분면)·quad(사각 안뜰)·squadron(비행 편대)·squad! a bomb squad(폭발물 처리반), a riot squad(진압 부대, 4665 riot), the squad(선수단), a hit squad(암살단), a death squad(암살대). 유의어 team(팀)·unit(부대)·crew(팀). 군대·경찰·스포츠 빈출.",
+  "syn": [
+   "team(팀)",
+   "unit(부대)",
+   "crew(팀)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a bomb squad(폭발물 처리반)",
+   "a riot squad(진압 부대)"
+  ],
+  "colloc": [
+   "bomb squad(폭발물 처리반)",
+   "riot squad(진압 부대)",
+   "squad of(~의 부대)"
+  ],
+  "ex_add": "The bomb squad defused the device.  (squad=처리반)",
+  "ex_orig": "A firing squad was prepared and five or six prisoners were put up, but were not shot.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4754",
+  "hw": "squeeze",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "꽉 짜다 -> '짜다·압착하다·비집고 들다'.",
+  "senses": [
+   "1) 꽉 짜다, 쥐어짜다",
+   "2) (좁은 곳에) 밀어 넣다/비집고 들어가다",
+   "3) (재정적으로) 압박하다; (n.) 압박, 긴축"
+  ],
+  "etym": "중세 영어 queisen(누르다)에 s가 덧붙은 형태로 추정 -> 'squeeze'. '강하게 눌러 짜내다'가 핵심. 정확한 더 깊은 어원은 불확실.",
+  "deriv": "queisen(누르다) -> 'squeeze'. 한국 학습자 핵심: 여러 용법 — squeeze juice(주스를 짜다), squeeze in(비집고 들어가다·일정에 끼워 넣다), squeeze through(비집고 통과하다), a tight squeeze(빠듯한 상황·비좁음), a credit squeeze(신용 긴축), squeeze out(짜내다·밀어내다). 유의어 compress(압축하다)·press(누르다)·crush(으스러뜨리다)·cram(밀어 넣다). 물리적·재정적 '압박' 양쪽 빈출.",
+  "syn": [
+   "compress(압축하다)",
+   "press(누르다)",
+   "cram(밀어 넣다)"
+  ],
+  "anti": [
+   "release(풀다)",
+   "loosen(느슨하게 하다)"
+  ],
+  "idiom": [
+   "a tight squeeze(빠듯한 상황)",
+   "squeeze in(끼워 넣다)",
+   "a credit squeeze(신용 긴축)"
+  ],
+  "colloc": [
+   "squeeze juice(주스를 짜다)",
+   "squeeze in(비집고 들어가다)",
+   "squeeze through(비집고 통과하다)"
+  ],
+  "ex_add": "She squeezed the lemon into the glass.  (squeeze=짜다)",
+  "ex_orig": "What waist would shun th' indenture Of such a gallant squeeze?",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4755",
+  "hw": "stab",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "뾰족한 것으로 찌르다 -> '찌르다·찌르듯 아프다'.",
+  "senses": [
+   "1) (칼 등으로) 찌르다",
+   "2) (날카롭게) 찌르듯 하다",
+   "3) (n.) 찌르기; 시도(have a stab at)"
+  ],
+  "etym": "중세 영어 stabbe(찌름, stub 그루터기와 관련)에서 -> 'stab'. '뾰족한 것으로 푹 찌름'이 핵심. 게르만 뿌리.",
+  "deriv": "stabbe(찌름) -> 'stab'. 한국 학습자 핵심: stab in the back(등 뒤에서 찌르다 -> 배신하다), a stab of pain(찌르는 듯한 통증), have a stab at(~을 한번 시도해 보다), a stabbing pain(쑤시는 통증), stab someone to death(찔러 죽이다). 비유: a stab in the dark(어림짐작). 유의어 pierce(꿰뚫다)·jab(쿡 찌르다)·thrust(찌르다). 범죄·통증 묘사 빈출. 'stab in the back'(배신)이 핵심 비유.",
+  "syn": [
+   "pierce(꿰뚫다)",
+   "jab(쿡 찌르다)",
+   "thrust(찌르다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "stab in the back(배신하다)",
+   "have a stab at(~을 시도해 보다)",
+   "a stab in the dark(어림짐작)"
+  ],
+  "colloc": [
+   "stab in the back(등 뒤에서 찌르다)",
+   "stab of pain(찌르는 통증)",
+   "stabbing pain(쑤시는 통증)"
+  ],
+  "ex_add": "He was stabbed in the arm.  (stab=찌르다)",
+  "ex_orig": "The wounds were generally stabs or cuts, and for the most part appear to have been inflicted with the bayonet.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4756",
+  "hw": "stability",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "굳게 서 있는(stare) 상태 -> '안정(성)'.",
+  "senses": [
+   "1) 안정(성), 안정 상태",
+   "2) (정서적) 안정, 침착",
+   "3) (구조의) 견고함"
+  ],
+  "etym": "라틴어 stare(서다) -> stabilis(굳건한) -> stabilitas -> 'stability'. stare(서다)는 stable(안정된)·stabilize(안정시키다, 4757)·stand(서다)·status(상태)·statue(조각상)·station(역)의 거대 뿌리.",
+  "deriv": "stare(서다) -> stable -> 'stability'. 한국 학습자 핵심: stare(서다)계열 초거대군 — stable(안정된·마구간)·stabilize(4757)·stand·status(지위)·statue(조각상)·station(역)·establish(설립하다)·constant(끊임없는)·stability! 정반대 짝: stability(안정) ↔ instability(불안정)! economic stability(경제 안정), political stability(정치 안정), financial stability(재정 안정), maintain stability(안정을 유지하다). 유의어 steadiness(안정)·firmness(견고). 반대 instability(불안정)·volatility(변동성).",
+  "syn": [
+   "steadiness(안정)",
+   "firmness(견고)",
+   "equilibrium(균형)"
+  ],
+  "anti": [
+   "instability(불안정)",
+   "volatility(변동성)"
+  ],
+  "idiom": [
+   "economic stability(경제 안정)"
+  ],
+  "colloc": [
+   "economic stability(경제 안정)",
+   "political stability(정치 안정)",
+   "maintain stability(안정을 유지하다)"
+  ],
+  "ex_add": "The country enjoyed years of political stability.  (stability=안정)",
+  "ex_orig": "The larger the gun, the slower it would be to load, the greater the stresses on the ship's hull, and the less the stability of the ship.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4757",
+  "hw": "stabilize",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "굳게 서게(stare) 만들다 -> '안정시키다·안정되다'.",
+  "senses": [
+   "1) 안정시키다, 안정되다",
+   "2) (수치를) 일정하게 유지하다"
+  ],
+  "etym": "라틴어 stare(서다) -> stabilis(굳건한) + -ize -> 'stabilize'. stability(안정, 4756)와 같은 stare(서다) 뿌리. '흔들리지 않게 굳게 세움'이 핵심.",
+  "deriv": "stare(서다) -> stable -> 'stabilize'. 한국 학습자 핵심: 정반대 짝 — stabilize(안정시키다) ↔ destabilize(불안정하게 하다)! stare(서다)계열 — stable·stability(4756)·stabilize·stand·status·establish! stabilize the economy(경제를 안정시키다), stabilize prices(물가를 안정시키다), prices stabilized(가격이 안정되었다), stabilize the patient(환자를 안정시키다). 명사 stabilization(안정화), 형용사 stable(안정된). 영국식 stabilise. 유의어 steady(안정시키다)·secure(안정시키다)·balance(균형 잡다). 반대 destabilize(불안정하게 하다).",
+  "syn": [
+   "steady(안정시키다)",
+   "secure(안정시키다)",
+   "balance(균형 잡다)"
+  ],
+  "anti": [
+   "destabilize(불안정하게 하다)",
+   "upset(뒤흔들다)"
+  ],
+  "idiom": [
+   "stabilize the economy(경제를 안정시키다)"
+  ],
+  "colloc": [
+   "stabilize the economy(경제를 안정시키다)",
+   "stabilize prices(물가를 안정시키다)",
+   "prices stabilized(가격이 안정되었다)"
+  ],
+  "ex_add": "The government acted to stabilize the currency.  (stabilize=안정시키다)",
+  "ex_orig": "Even after the waterway was stabilized, it proved unsatisfactory because of constant disputes with landowners on the Mexican side of the border.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4758",
+  "hw": "stake",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "땅에 박은 말뚝 -> '말뚝·지분·이해관계·내기'.",
+  "senses": [
+   "1) 지분, 출자, 이해관계",
+   "2) (도박의) 판돈, 내기 돈",
+   "3) 말뚝; (at stake) 위태로운 상태"
+  ],
+  "etym": "고대 영어 staca(말뚝)에서 -> 'stake'. '땅에 박은 말뚝'에서 '말뚝에 건 내기 돈 -> 지분·이해관계'로 의미 확장. stick(막대)·stockade(방책)와 친족.",
+  "deriv": "staca(말뚝) -> 'stake'. 한국 학습자 핵심: 동음 함정 — stake(말뚝·지분)·steak(스테이크)! 핵심 표현: at stake(위태로운, 빈출!), have a stake in(~에 이해관계가 있다), a high-stakes game(판돈이 큰 게임), raise the stakes(판돈을 올리다·위험을 높이다), a controlling stake(경영권 지분). 유의어(지분) share(주식, 4703 shareholder)·interest(이해관계); (내기) bet(내기). 'at stake'(위태로운)이 핵심 숙어. 비즈니스·도박 빈출.",
+  "syn": [
+   "share(지분)",
+   "interest(이해관계)",
+   "bet(내기)"
+  ],
+  "anti": [],
+  "idiom": [
+   "at stake(위태로운)",
+   "have a stake in(~에 이해관계가 있다)",
+   "raise the stakes(판돈을 올리다)"
+  ],
+  "colloc": [
+   "at stake(위태로운)",
+   "high-stakes(판돈이 큰)",
+   "controlling stake(경영권 지분)"
+  ],
+  "ex_add": "Thousands of lives are at stake.  (at stake=위태로운)",
+  "ex_orig": "In concluding our survey of the nations and the stake of each country in the war, there is one reflection that must be obvious to all thinking men.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4759",
+  "hw": "standing",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "계속 서 있는(stand) -> '상설의·지속적인'; (n.)'지위'.",
+  "senses": [
+   "1) (adj.) 상설의, 상비의, 지속적인",
+   "2) (adj.) 서 있는, 선 채로의",
+   "3) (n.) 지위, 신분; 평판"
+  ],
+  "etym": "고대 영어 standan(서다) -> stand + -ing -> 'standing'. standan(서다)은 라틴어 stare(서다)와 같은 인도유럽 뿌리. '계속 서 있는 -> 상설의·지속적인'으로 의미 확장.",
+  "deriv": "stand(서다) -> 'standing'. 한국 학습자 핵심: stand(서다) 가족 — standing·standstill(정지)·outstanding(뛰어난)·understand(이해하다)·withstand(견디다)·long-standing(오래된, 4362)! a standing committee(상임 위원회), a standing army(상비군), a standing ovation(기립 박수), social standing(사회적 지위), of long standing(오래된). 두 뜻: ① 상설의(형용사) ② 지위(명사)! 유의어(상설의) permanent(영구적인); (지위) status(지위)·rank(서열).",
+  "syn": [
+   "permanent(상설의)",
+   "status(지위)",
+   "rank(서열)"
+  ],
+  "anti": [
+   "temporary(임시의)"
+  ],
+  "idiom": [
+   "a standing ovation(기립 박수)",
+   "of long standing(오래된)"
+  ],
+  "colloc": [
+   "standing committee(상임 위원회)",
+   "standing ovation(기립 박수)",
+   "social standing(사회적 지위)"
+  ],
+  "ex_add": "The performance received a standing ovation.  (standing=기립의)",
+  "ex_orig": "Only one battleship that I could see was firing from off the western coast of the peninsula, standing well out off shore near Krithia.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4760",
+  "hw": "stark",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "뻣뻣하고 적나라한 -> '극명한·황량한·완전한'.",
+  "senses": [
+   "1) (차이가) 극명한, 뚜렷한",
+   "2) 황량한, 삭막한",
+   "3) (강조) 완전한, 순전한(stark naked)"
+  ],
+  "etym": "고대 영어 stearc(뻣뻣한·강한)에서 -> 'stark'. 독일어 stark(강한)와 친족. '꾸밈없이 그대로 드러나 뻣뻣한·삭막한'이 핵심.",
+  "deriv": "stearc(뻣뻣한) -> 'stark'. 한국 학습자 핵심: 세 뜻 — ① 극명한(a stark contrast 극명한 대조, 빈출!) ② 황량한(a stark landscape 삭막한 풍경) ③ 완전한 강조(stark naked 완전 알몸, stark raving mad 완전히 미친)! in stark contrast to(~와 극명히 대조되어), the stark reality(냉혹한 현실), a stark choice(극단적 선택). 부사 starkly. 유의어(극명한) sharp(뚜렷한)·marked(현저한); (황량한) bleak(황량한)·bare(헐벗은). 'stark contrast'(극명한 대조)가 핵심.",
+  "syn": [
+   "sharp(뚜렷한)",
+   "bleak(황량한)",
+   "bare(헐벗은)"
+  ],
+  "anti": [
+   "subtle(미묘한)",
+   "lush(무성한)"
+  ],
+  "idiom": [
+   "a stark contrast(극명한 대조)",
+   "stark naked(완전 알몸)",
+   "the stark reality(냉혹한 현실)"
+  ],
+  "colloc": [
+   "stark contrast(극명한 대조)",
+   "stark reality(냉혹한 현실)",
+   "in stark contrast to(~와 극명히 대조되어)"
+  ],
+  "ex_add": "There is a stark contrast between rich and poor.  (stark=극명한)",
+  "ex_orig": "None begs, none asks for money, and yet on the faces of these frontier refugees I saw stark hunger, the weakness come of long weeks of famine.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4761",
+  "hw": "statistical",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "국가(status) 자료 통계의 -> '통계의·통계적인'.",
+  "senses": [
+   "1) 통계의, 통계상의",
+   "2) 통계에 근거한"
+  ],
+  "etym": "라틴어 status(상태·국가) -> 독일어 Statistik(국가 자료학) -> statistics(통계) + -al -> 'statistical'. status(상태)는 state(국가·상태)·statistics(통계)·statue(조각상)·stable(안정된)·stare(서다)의 공통 뿌리. 원래 '국가 운영을 위한 자료'에서 유래.",
+  "deriv": "status(상태·국가) -> statistics -> 'statistical'. 한국 학습자 핵심: status/stare(상태·서다)계열 — state(국가·상태)·statistics(통계)·statistical·statue·statue·status(지위)·stable·stability(4756)! statistical data(통계 자료), statistical analysis(통계 분석), statistically significant(통계적으로 유의한), a statistical error(통계 오류). 명사 statistics(통계)·statistician(통계학자). 유의어 numerical(수치의)·quantitative(정량적인). 과학·사회 연구 지문 빈출.",
+  "syn": [
+   "numerical(수치의)",
+   "quantitative(정량적인)"
+  ],
+  "anti": [
+   "qualitative(정성적인)"
+  ],
+  "idiom": [
+   "statistically significant(통계적으로 유의한)"
+  ],
+  "colloc": [
+   "statistical data(통계 자료)",
+   "statistical analysis(통계 분석)",
+   "statistical error(통계 오류)"
+  ],
+  "ex_add": "The findings are statistically significant.  (statistical=통계적인)",
+  "ex_orig": "Statistical price curves of many nations usually show an upward turn when war begins and another when it ends.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4762",
+  "hw": "steer",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "키를 잡아 방향을 잡다 -> '조종하다·이끌다'.",
+  "senses": [
+   "1) (차·배의) 방향을 조종하다, 몰다",
+   "2) (사람·상황을) 이끌다, 인도하다",
+   "3) (특정 방향으로) 유도하다"
+  ],
+  "etym": "고대 영어 steoran(키를 잡다·인도하다)에서 -> 'steer'. starboard(우현)·steersman(키잡이)과 친족. '키를 잡아 배의 방향을 정함'이 핵심.",
+  "deriv": "steoran(키를 잡다) -> 'steer'. 한국 학습자 핵심: 비유 '이끌다' 빈출 — steer clear of(~을 피하다, 빈출!), steer the conversation(대화를 이끌다), steer the economy(경제를 이끌다), steer away from(~에서 벗어나게 하다), a steering wheel(운전대), a steering committee(운영 위원회). 유의어(조종) navigate(항해하다)·pilot(조종하다)·guide(인도하다). 'steer clear of'(~을 피하다)가 핵심 숙어. governance(통치, 4188 gubernare)와 어원적 친족 개념.",
+  "syn": [
+   "navigate(항해하다)",
+   "guide(인도하다)",
+   "direct(이끌다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "steer clear of(~을 피하다)",
+   "a steering wheel(운전대)",
+   "a steering committee(운영 위원회)"
+  ],
+  "colloc": [
+   "steer clear of(~을 피하다)",
+   "steer the conversation(대화를 이끌다)",
+   "steering wheel(운전대)"
+  ],
+  "ex_add": "Try to steer clear of trouble.  (steer clear of=~을 피하다)",
+  "ex_orig": "The Gulflight was then steering about true east, steaming about eight miles an hour, flying a large American ensign, six feet by ten feet.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4763",
+  "hw": "stem",
+  "pos": "n., v.",
+  "cefr": "C1",
+  "core": "식물의 줄기 -> '줄기·생겨나다·막다'.",
+  "senses": [
+   "1) (n.) (식물의) 줄기, 대",
+   "2) (v.) (stem from) ~에서 생겨나다, 유래하다",
+   "3) (v.) (흐름을) 막다, 저지하다"
+  ],
+  "etym": "고대 영어 stemn(줄기·나무 둥치)에서 -> 'stem'. '식물의 중심 줄기'가 핵심. 줄기에서 가지가 뻗어 나오듯 'stem from'(~에서 비롯되다)으로 비유 확장. 막다 stem은 고대 노르드어 stemma(막다)에서 온 별개.",
+  "deriv": "stemn(줄기) -> 'stem'. 한국 학습자 핵심: 세 뜻 — ① 줄기(the stem of a flower 꽃대) ② 생겨나다(stem from ~에서 비롯되다, 빈출!) ③ 막다(stem the tide 흐름을 막다)! 약어 STEM(Science·Technology·Engineering·Math 이공계)도! stem cells(줄기세포), stem from(~에서 유래하다), stem the flow(흐름을 막다). 유의어(유래하다) originate(유래하다, 4474)·derive(파생하다)·arise(생기다); (막다) curb(억제하다)·stop(막다). 'stem from'이 핵심 숙어.",
+  "syn": [
+   "originate(유래하다)",
+   "derive(파생하다)",
+   "curb(막다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "stem from(~에서 비롯되다)",
+   "stem the tide(흐름을 막다)",
+   "stem cells(줄기세포)"
+  ],
+  "colloc": [
+   "stem from(~에서 비롯되다)",
+   "stem the flow(흐름을 막다)",
+   "stem cells(줄기세포)"
+  ],
+  "ex_add": "His problems stem from a difficult childhood.  (stem from=~에서 비롯되다)",
+  "ex_orig": "For even if she had her whole army of many million men on the frontier, Austria and Germany together were strong enough to stem her advance.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4764",
+  "hw": "stereotype",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "단단히(stereos) 굳은 틀(typos) -> '고정관념·정형화된 이미지'.",
+  "senses": [
+   "1) 고정관념, 정형화된 이미지",
+   "2) (v.) 정형화하다, 고정관념을 갖다"
+  ],
+  "etym": "그리스어 stereos(단단한·입체의) + typos(형·틀) -> 'stereotype'(원래 인쇄용 연판). stereos(단단한)는 stereo(입체 음향)·stereoscopic(입체의)의 뿌리, typos(틀)는 type(유형)·typical(전형적인)·typo(오타)의 뿌리. '굳어 버린 틀에 박힌 이미지'가 핵심.",
+  "deriv": "stereos(단단한) + typos(틀) -> 'stereotype'. 한국 학습자 핵심: stereos(단단한·입체)계열 — stereo(스테레오)·stereoscopic(입체의)·stereotype! typos(틀)계열 — type(유형)·typical(전형적인)·typo(오타)·prototype(원형)·stereotype! a gender stereotype(성 고정관념), a racial stereotype(인종적 고정관념), break the stereotype(고정관념을 깨다), reinforce a stereotype(고정관념을 강화하다). 동사 stereotype(정형화하다). 유의어 cliché(상투적 생각)·generalization(일반화)·preconception(선입견, 4535 prejudice 연결).",
+  "syn": [
+   "cliché(상투적 생각)",
+   "generalization(일반화)",
+   "preconception(선입견)"
+  ],
+  "anti": [],
+  "idiom": [
+   "break the stereotype(고정관념을 깨다)"
+  ],
+  "colloc": [
+   "gender stereotype(성 고정관념)",
+   "racial stereotype(인종적 고정관념)",
+   "break the stereotype(고정관념을 깨다)"
+  ],
+  "ex_add": "The film challenges gender stereotypes.  (stereotype=고정관념)",
+  "ex_orig": "England is often mocked for the way in which she \"muddles through\" successive perils, yet she may feel that the stereotyping of her people in a rigid administrative frame might be too high a price to pay for constant preparedness.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4765",
+  "hw": "stimulus",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "콕 찌르는(stimulus 가시) 것 -> '자극(제)·촉진책'.",
+  "senses": [
+   "1) 자극, 자극제",
+   "2) (경제) 부양책, 촉진책",
+   "3) (생물) 자극 (반응을 일으키는)"
+  ],
+  "etym": "라틴어 stimulus(소를 모는 막대·가시) -> 'stimulus'. '가시로 찔러 움직이게 함'에서 '활동을 촉발하는 자극'으로 의미 확장. stimulate(자극하다)·stimulant(흥분제)의 뿌리.",
+  "deriv": "stimulus(가시·자극) -> 'stimulus'. 한국 학습자 핵심: 복수형 stimuli [스티뮬라이]! stimulus계열 — stimulate(자극하다)·stimulating(자극적인·흥미로운)·stimulant(흥분제)·stimulus! a stimulus to(~에 대한 자극), an economic stimulus(경기 부양책), a stimulus package(경기 부양 패키지), respond to a stimulus(자극에 반응하다), provide a stimulus(자극을 주다). 유의어 incentive(유인)·spur(자극)·boost(촉진). 반대 deterrent(억제책). 경제·생물 지문 빈출.",
+  "syn": [
+   "incentive(유인)",
+   "spur(자극)",
+   "boost(촉진)"
+  ],
+  "anti": [
+   "deterrent(억제책)"
+  ],
+  "idiom": [
+   "an economic stimulus(경기 부양책)",
+   "a stimulus package(경기 부양책)"
+  ],
+  "colloc": [
+   "economic stimulus(경기 부양책)",
+   "stimulus package(부양 패키지)",
+   "respond to a stimulus(자극에 반응하다)"
+  ],
+  "ex_add": "The tax cut acted as an economic stimulus.  (stimulus=부양책)",
+  "ex_orig": "What science has once begun she continues, and for every shipbuilder in the whole world there is now no sphere which offers a stronger stimulus to progressive activity than the sphere of the submarines.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4766",
+  "hw": "stir",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "휘저어 움직이다 -> '휘젓다·움직이다·불러일으키다'.",
+  "senses": [
+   "1) (액체를) 휘젓다, 섞다",
+   "2) 약간 움직이다, 꿈틀하다",
+   "3) (감정을) 불러일으키다, 동요시키다; (n.) 동요, 소동"
+  ],
+  "etym": "고대 영어 styrian(움직이다·휘젓다)에서 -> 'stir'. storm(폭풍)과 친족. '뒤섞어 움직이게 함 -> 감정을 동하게 함'으로 비유 확장. 게르만 뿌리.",
+  "deriv": "styrian(움직이다) -> 'stir'. 한국 학습자 핵심: 비유 빈출 — stir up(부추기다·일으키다), cause a stir(소동을 일으키다·화제가 되다), stir emotions(감정을 불러일으키다), stir the imagination(상상력을 자극하다), a stir-fry(볶음 요리), not stir(꼼짝도 안 하다). 유의어(휘젓다) mix(섞다)·blend(섞다); (불러일으키다) provoke(유발하다, 4582)·arouse(자극하다)·spark(촉발하다, 4740). 요리·감정 양쪽 빈출.",
+  "syn": [
+   "mix(섞다)",
+   "provoke(유발하다)",
+   "arouse(자극하다)"
+  ],
+  "anti": [
+   "calm(진정시키다)",
+   "settle(가라앉히다)"
+  ],
+  "idiom": [
+   "stir up(부추기다)",
+   "cause a stir(소동을 일으키다)",
+   "stir emotions(감정을 불러일으키다)"
+  ],
+  "colloc": [
+   "stir up(부추기다)",
+   "cause a stir(소동을 일으키다)",
+   "stir the imagination(상상력을 자극하다)"
+  ],
+  "ex_add": "The speech stirred up strong emotions.  (stir up=불러일으키다)",
+  "ex_orig": "This is most likely to happen when such a soldier has been incensed by an act of treachery or is stirred to revenge by the death of",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4767",
+  "hw": "storage",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "저장(store)해 둠 -> '저장·보관(소)·저장 공간'.",
+  "senses": [
+   "1) 저장, 보관",
+   "2) 저장소, 창고",
+   "3) (컴퓨터) 저장 용량, 기억 장치"
+  ],
+  "etym": "라틴어 instaurare(세우다·갖추다) -> 고대 프랑스어 estorer -> store(저장하다·가게) + -age -> 'storage'. store는 restore(복원하다, 4652 restoration)·restaurant과 친족. '쌓아 갖춰 두는 것'이 핵심.",
+  "deriv": "store(저장하다) -> 'storage'. 한국 학습자 핵심: -age(집합·상태) 접미사 — storage(저장)·shortage(부족)·package(꾸러미)·percentage(백분율)·footage(영상, 4159)! store 가족 — store(저장하다·가게)·storage·storehouse(창고)·restore(복원, 4652)! cold storage(냉장 보관), cloud storage(클라우드 저장), data storage(데이터 저장), storage space(저장 공간), in storage(보관 중인). 유의어 warehousing(창고 보관)·repository(저장소). IT·물류 지문 빈출.",
+  "syn": [
+   "warehousing(창고 보관)",
+   "repository(저장소)"
+  ],
+  "anti": [
+   "retrieval(인출)"
+  ],
+  "idiom": [
+   "in storage(보관 중인)",
+   "cold storage(냉장 보관)"
+  ],
+  "colloc": [
+   "cloud storage(클라우드 저장)",
+   "data storage(데이터 저장)",
+   "storage space(저장 공간)"
+  ],
+  "ex_add": "We put the furniture in storage.  (storage=보관)",
+  "ex_orig": "As with all preceding capital ships, the outer hull spaces between the hull wall and the torpedo bulkhead were used for coal storage.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4768",
+  "hw": "straightforward",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "곧장(straight) 앞으로(forward) -> '간단한·솔직한'.",
+  "senses": [
+   "1) 간단한, 쉬운, 복잡하지 않은",
+   "2) 솔직한, 정직한, 단도직입적인"
+  ],
+  "etym": "straight(곧은) + forward(앞으로)의 합성어 -> 'straightforward'. straight는 stretch(뻗다)와 친족. '에두르지 않고 곧장 나아가는 -> 간단하고 솔직한'이 핵심.",
+  "deriv": "straight(곧은) + forward(앞으로) -> 'straightforward'. 한국 학습자 핵심: straight 합성 — straightforward(간단한·솔직한)·straightaway(즉시)! forward 합성 — straightforward·forthcoming(다가오는, 4165)·henceforth(이후로)! 두 뜻: ① 간단한(a straightforward task 간단한 일) ② 솔직한(a straightforward answer 솔직한 답)! fairly straightforward(꽤 간단한), refreshingly straightforward(시원스럽게 솔직한). 유의어(간단) simple(단순한)·uncomplicated(복잡하지 않은); (솔직) honest(정직한)·frank(솔직한, 4169 frankly). 반대 complicated(복잡한)·evasive(얼버무리는).",
+  "syn": [
+   "simple(단순한)",
+   "uncomplicated(복잡하지 않은)",
+   "honest(정직한)"
+  ],
+  "anti": [
+   "complicated(복잡한)",
+   "evasive(얼버무리는)",
+   "convoluted(난해한)"
+  ],
+  "idiom": [
+   "a straightforward answer(솔직한 답)"
+  ],
+  "colloc": [
+   "straightforward task(간단한 일)",
+   "fairly straightforward(꽤 간단한)",
+   "straightforward answer(솔직한 답)"
+  ],
+  "ex_add": "The instructions are clear and straightforward.  (straightforward=간단한)",
+  "ex_orig": "According to Jana from Business Week, The Clean Tech Revolution is a \" readable, straightforward guide to earth - friendly business strategies \".",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4769",
+  "hw": "strain",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "팽팽히 당겨진(stringere) 긴장 -> '부담·긴장·접질림·변종'.",
+  "senses": [
+   "1) 부담, 압박, 중압",
+   "2) (근육의) 긴장, 접질림",
+   "3) (질병·생물의) 변종, 종류; (v.) 혹사하다·접질리다"
+  ],
+  "etym": "라틴어 stringere(팽팽히 당기다·조이다) -> 고대 프랑스어 estreindre -> 'strain'. stringere(조이다)는 restraint(억제, 4653)·strict(엄격한)·restrict(제한하다)·stress(압박)·string(줄)의 공통 뿌리. '팽팽히 당겨져 부담이 됨'이 핵심.",
+  "deriv": "stringere(조이다) -> 'strain'. 한국 학습자 핵심: stringere(조이다)계열 — restraint(억제, 4653)·strict(엄격한)·restrict(제한)·stress(압박)·string(줄)·stringent(엄격한)·strain! 여러 뜻: ① 부담(put a strain on ~에 부담을 주다, under strain 부담을 받는) ② 접질림(a muscle strain 근육 접질림) ③ 변종(a new strain of virus 새 바이러스 변종)! eye strain(눈의 피로), mental strain(정신적 부담). 유의어(부담) stress(스트레스)·pressure(압박); (변종) variety(품종)·variant(변종). 동음: strain(거르다)는 별개.",
+  "syn": [
+   "stress(스트레스)",
+   "pressure(압박)",
+   "variant(변종)"
+  ],
+  "anti": [
+   "relaxation(이완)",
+   "ease(편안함)"
+  ],
+  "idiom": [
+   "put a strain on(~에 부담을 주다)",
+   "under strain(부담을 받는)"
+  ],
+  "colloc": [
+   "put a strain on(~에 부담을 주다)",
+   "eye strain(눈의 피로)",
+   "muscle strain(근육 접질림)"
+  ],
+  "ex_add": "The long hours put a strain on his health.  (strain=부담)",
+  "ex_orig": "Thirdly--England, as is repeatedly demonstrated by the official documents, of both sides, strained every means to bring about a common understanding.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4770",
+  "hw": "strand",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "한 가닥·꼬임 -> '가닥·(이야기의) 한 갈래'; (v.)'발이 묶이게 하다'.",
+  "senses": [
+   "1) (실·머리카락의) 한 올, 가닥",
+   "2) (이야기·계획의) 한 가닥, 요소",
+   "3) (v.) 오도 가도 못하게 하다(be stranded)"
+  ],
+  "etym": "고대 프랑스어 estran(밧줄의 한 가닥)에서 -> 'strand'. '여러 가닥이 꼬여 밧줄이 됨'에서 '한 가닥·갈래'가 핵심. 동사 strand(좌초시키다)는 고대 영어 strand(해변)에서 와 '배가 해변에 얹힘 -> 발이 묶임'으로 발전.",
+  "deriv": "estran(가닥) -> 'strand'. 한국 학습자 핵심: 두 뜻 — ① 가닥(a strand of hair 머리카락 한 올, a strand of DNA DNA 한 가닥) ② be stranded(발이 묶이다·고립되다, 빈출!)! a strand of the story(이야기의 한 갈래), be stranded at the airport(공항에 발이 묶이다), stranded passengers(발이 묶인 승객들). 유의어(가닥) thread(실)·fiber(섬유, 4143); (고립) maroon(고립시키다)·strand. 'be stranded'(발이 묶이다)가 핵심.",
+  "syn": [
+   "thread(실)",
+   "fiber(섬유)",
+   "filament(가닥)"
+  ],
+  "anti": [],
+  "idiom": [
+   "be stranded(발이 묶이다)",
+   "a strand of hair(머리카락 한 올)"
+  ],
+  "colloc": [
+   "strand of hair(머리카락 한 올)",
+   "be stranded(발이 묶이다)",
+   "strand of DNA(DNA 한 가닥)"
+  ],
+  "ex_add": "Hundreds of passengers were stranded by the storm.  (stranded=발이 묶인)",
+  "ex_orig": "an Athens report says that the British battleship Lord Nelson, recently stranded in the Dardanelles, has been destroyed by the fire of the Turkish shore guns;",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4771",
+  "hw": "strategic",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "장군(strategos)의 작전상의 -> '전략적인·전략상의'.",
+  "senses": [
+   "1) 전략적인, 전략상의",
+   "2) (장기적 목표에) 중요한, 요충의"
+  ],
+  "etym": "그리스어 stratos(군대) + agein(이끌다) -> strategos(장군) -> strategia(장군의 기술·전략) -> strategy + -ic -> 'strategic'. '군대를 이끄는 큰 그림의 작전'이 핵심. tactics(전술, 세부 작전)와 대비.",
+  "deriv": "stratos(군대) + agein(이끌다) -> strategy -> 'strategic'. 한국 학습자 핵심: 구별 — strategy(전략, 큰 그림·장기) vs tactics(전술, 세부·단기)! strategy(전략)·strategic(전략적인)·strategist(전략가)·strategically! a strategic plan(전략 계획), a strategic decision(전략적 결정), strategic importance(전략적 중요성), a strategic location(전략적 요충지). 유의어 tactical(전술적인)·calculated(계산된)·planned(계획된). 경영·군사·정치 지문 빈출.",
+  "syn": [
+   "tactical(전술적인)",
+   "calculated(계산된)",
+   "planned(계획된)"
+  ],
+  "anti": [
+   "random(무작위의)",
+   "haphazard(되는대로의)"
+  ],
+  "idiom": [
+   "a strategic plan(전략 계획)"
+  ],
+  "colloc": [
+   "strategic plan(전략 계획)",
+   "strategic decision(전략적 결정)",
+   "strategic location(전략적 요충지)"
+  ],
+  "ex_add": "They made a strategic decision to expand abroad.  (strategic=전략적인)",
+  "ex_orig": "Later he turned up at Mons and had a hand in beating the British or expediting their strategic retreat, according to the point of view.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4772",
+  "hw": "strip",
+  "pos": "n., v.",
+  "cefr": "C1",
+  "core": "가늘고 긴 조각; 벗겨내다 -> '가는 조각·벗기다·박탈하다'.",
+  "senses": [
+   "1) (n.) 가늘고 긴 조각, 띠",
+   "2) (v.) (옷·껍질을) 벗기다, 벗다",
+   "3) (v.) (권리·지위를) 박탈하다(strip of)"
+  ],
+  "etym": "중세 영어 strippe(가는 조각)와 strippen(벗기다)에서 -> 'strip'. '길고 가는 조각'과 '겉을 벗겨냄' 두 뜻이 같은 게르만 뿌리에서. '얇게 벗겨낸 띠 모양'이 핵심.",
+  "deriv": "strippe(조각)/strippen(벗기다) -> 'strip'. 한국 학습자 핵심: 두 뜻 — ① 가는 조각(a strip of paper 종이 한 조각, a comic strip 만화 연재) ② 벗기다·박탈하다(strip of rights 권리를 박탈하다, strip naked 발가벗다)! strip down(분해하다·옷을 벗다), strip away(벗겨내다·없애다), an airstrip(활주로), the Gaza Strip(가자 지구). 유의어(벗기다) remove(제거하다)·peel(벗기다)·deprive(박탈하다); (조각) band(띠)·ribbon(리본). 두 뜻 모두 빈출.",
+  "syn": [
+   "remove(벗기다)",
+   "peel(벗기다)",
+   "deprive(박탈하다)"
+  ],
+  "anti": [
+   "cover(덮다)",
+   "clothe(입히다)"
+  ],
+  "idiom": [
+   "strip away(벗겨내다)",
+   "strip of(~을 박탈하다)",
+   "a comic strip(만화 연재)"
+  ],
+  "colloc": [
+   "strip of paper(종이 조각)",
+   "strip away(벗겨내다)",
+   "strip of rights(권리를 박탈하다)"
+  ],
+  "ex_add": "He was stripped of his medals.  (strip=박탈하다)",
+  "ex_orig": "complete universalizing of our moral obligations--stripping our sense of duty of everything that is particular and local and isolated.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4773",
+  "hw": "strive",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "애써 분투하다 -> '분투하다·노력하다'.",
+  "senses": [
+   "1) (~하려고) 분투하다, 애쓰다(strive to/for)",
+   "2) (~와) 싸우다, 겨루다"
+  ],
+  "etym": "고대 프랑스어 estriver(다투다·노력하다, 게르만어 기원)에서 -> 'strive'. strife(투쟁·불화)와 친족. '힘껏 애써 다툼'이 핵심. 불규칙 strive-strove-striven.",
+  "deriv": "estriver(다투다) -> 'strive'. 한국 학습자 핵심: 불규칙 strive-strove-striven! 명사 strife(투쟁·갈등)와 한 가족! strive to do(~하려고 애쓰다), strive for(~을 얻으려 분투하다), strive toward(~을 향해 노력하다), strive for excellence(탁월함을 추구하다), strive for perfection(완벽을 추구하다). 유의어 endeavor(노력하다)·struggle(분투하다)·strain(애쓰다, 4769). 격식·문어체. 'strive for/to'가 핵심 구문.",
+  "syn": [
+   "endeavor(노력하다)",
+   "struggle(분투하다)",
+   "strain(애쓰다)"
+  ],
+  "anti": [
+   "give up(포기하다)",
+   "relax(긴장을 풀다)"
+  ],
+  "idiom": [
+   "strive for excellence(탁월함을 추구하다)",
+   "strive to do(~하려고 애쓰다)"
+  ],
+  "colloc": [
+   "strive to do(~하려고 애쓰다)",
+   "strive for(~을 위해 분투하다)",
+   "strive for perfection(완벽을 추구하다)"
+  ],
+  "ex_add": "We must strive to do better.  (strive=노력하다)",
+  "ex_orig": "Anybody who wants to fight England must not attempt it by striving to bring against England larger and more numerous battleships and cruisers.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4774",
+  "hw": "structural",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "쌓아 올린(struere) 구조의 -> '구조적인·구조상의'.",
+  "senses": [
+   "1) 구조의, 구조상의",
+   "2) (사회·제도의) 구조적인, 근본적인"
+  ],
+  "etym": "라틴어 struere(쌓다·세우다) -> structura(구조) -> structure + -al -> 'structural'. struere(쌓다)는 construct(건설하다)·instruct(지시하다, 4278)·destroy(파괴하다)·reconstruction(재건, 4609)·infrastructure(기반시설)의 공통 뿌리.",
+  "deriv": "struere(쌓다) -> structure -> 'structural'. 한국 학습자 핵심: struere(쌓다)계열 거대군 — construct(건설)·structure(구조)·instruct(4278)·instrumental(4279)·destroy/destruction(파괴)·obstruct(방해)·reconstruction(4609)·infrastructure(기반)·structural! structural damage(구조적 손상), structural changes(구조적 변화), structural integrity(구조적 온전함, 4287 integrity), structural unemployment(구조적 실업). 명사 structure(구조). 유의어 organizational(조직의, 4472)·systemic(체계적인)·fundamental(근본적인).",
+  "syn": [
+   "organizational(조직의)",
+   "systemic(체계적인)",
+   "fundamental(근본적인)"
+  ],
+  "anti": [
+   "superficial(피상적인)",
+   "cosmetic(겉치레의)"
+  ],
+  "idiom": [
+   "structural damage(구조적 손상)"
+  ],
+  "colloc": [
+   "structural damage(구조적 손상)",
+   "structural changes(구조적 변화)",
+   "structural integrity(구조적 온전함)"
+  ],
+  "ex_add": "The building suffered structural damage.  (structural=구조적인)",
+  "ex_orig": "The greatest sufferers have been the building trades and the industries connected therewith--structural iron, cement, (concrete,) brickmaking, &c.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4775",
+  "hw": "stumble",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "발이 걸려 비틀거리다 -> '발이 걸리다·말을 더듬다·우연히 마주치다'.",
+  "senses": [
+   "1) (발이 걸려) 비틀거리다, 휘청하다",
+   "2) (말·일을) 더듬거리다, 실수하다",
+   "3) (stumble upon) 우연히 마주치다, 발견하다"
+  ],
+  "etym": "중세 영어 stumblen(비틀거리다, 스칸디나비아어 기원)에서 -> 'stumble'. stammer(말을 더듬다)와 친족. '발이 걸려 휘청거림 -> 말·일이 막힘'으로 확장.",
+  "deriv": "stumblen(비틀거리다) -> 'stumble'. 한국 학습자 핵심: stumble upon/across(우연히 발견하다, 빈출!), stumble over(~에 발이 걸리다·~을 더듬거리다), stumble through(더듬거리며 해내다), a stumbling block(걸림돌·장애물). 유의어(비틀거리다) trip(발이 걸리다)·falter(머뭇거리다)·lurch(휘청거리다); (우연히 만나다) come across(우연히 마주치다)·chance upon. 'stumble upon'(우연히 발견하다)·'a stumbling block'(걸림돌)이 핵심.",
+  "syn": [
+   "trip(발이 걸리다)",
+   "falter(머뭇거리다)",
+   "lurch(휘청거리다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "stumble upon(우연히 발견하다)",
+   "a stumbling block(걸림돌)",
+   "stumble over(~에 발이 걸리다)"
+  ],
+  "colloc": [
+   "stumble upon(우연히 발견하다)",
+   "stumble over(~에 발이 걸리다)",
+   "stumbling block(걸림돌)"
+  ],
+  "ex_add": "She stumbled upon an old letter in the attic.  (stumble upon=우연히 발견하다)",
+  "ex_orig": "The advance line wavered, stumbled over prostrate parts of itself, and then swept onward again.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4776",
+  "hw": "stun",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "천둥(tonare)처럼 후려쳐 멍하게 하다 -> '기절시키다·망연자실케 하다'.",
+  "senses": [
+   "1) 기절시키다, 멍하게 하다",
+   "2) (큰 충격으로) 망연자실케 하다, 놀라게 하다"
+  ],
+  "etym": "라틴어 ex-(밖으로) + tonare(천둥치다) -> 고대 프랑스어 estoner(망연자실케 하다) -> 'stun'. tonare(천둥치다)는 astonish(놀라게 하다)·astound(경악시키다)·thunder(천둥)·detonate(폭발시키다)의 공통 뿌리. '천둥소리에 얼이 빠짐'이 핵심.",
+  "deriv": "ex-(밖) + tonare(천둥치다) -> 'stun'. 한국 학습자 핵심: tonare(천둥)계열 — astonish(놀라게 하다)·astound(경악시키다)·thunder(천둥)·detonate(폭발시키다)·stun! be stunned by(~에 망연자실하다), a stun gun(전기 충격기), stunned silence(충격의 침묵), stunning(깜짝 놀랄 만한·아주 멋진). 형용사 stunning(굉장한·아름다운)·stunned(망연자실한). 유의어 shock(충격을 주다)·astound(경악시키다)·daze(멍하게 하다). 어원 '천둥'이 기억 포인트.",
+  "syn": [
+   "shock(충격을 주다)",
+   "astound(경악시키다)",
+   "daze(멍하게 하다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a stun gun(전기 충격기)",
+   "stunned silence(충격의 침묵)"
+  ],
+  "colloc": [
+   "be stunned by(~에 망연자실하다)",
+   "stun gun(전기 충격기)",
+   "stunned silence(충격의 침묵)"
+  ],
+  "ex_add": "The news stunned everyone.  (stun=망연자실케 하다)",
+  "ex_orig": "In the babel of voices are frequently heard pitiful cries of poorly fed children, shrieks of more lusty ones, and groans and wailings of mothers who still seem stunned and stupefied by their frightful experiences.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4777",
+  "hw": "submission",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "아래로(sub) 보냄(mittere) -> '제출·복종'.",
+  "senses": [
+   "1) 제출, 제출물",
+   "2) 복종, 굴복",
+   "3) (법) 주장, 진술"
+  ],
+  "etym": "라틴어 sub-(아래로) + mittere(보내다) -> submittere(아래에 두다·제출하다) -> submission. mittere(보내다)는 mission(임무)·missile(미사일, 4419)·transmit(전송하다)·permit(허락하다)·dismiss(해고하다)·premise(전제, 4538)의 공통 뿌리.",
+  "deriv": "sub-(아래) + mittere(보내다) -> submit -> 'submission'. 한국 학습자 핵심: mittere(보내다)계열 거대군 — mission(임무)·missile(4419)·transmit·permit·dismiss·commit·omit·emit·premise(4538)·submission! 두 뜻: ① 제출(submission deadline 제출 마감) ② 복종(beat into submission 굴복시키다)! the submission of(~의 제출), force into submission(굴복시키다). 동사 submit(제출하다·복종하다). 유의어(제출) presentation(제출); (복종) surrender(항복)·obedience(복종). 반대 resistance(저항, 4649)·defiance(반항).",
+  "syn": [
+   "presentation(제출)",
+   "surrender(항복)",
+   "obedience(복종)"
+  ],
+  "anti": [
+   "resistance(저항)",
+   "defiance(반항)"
+  ],
+  "idiom": [
+   "beat into submission(굴복시키다)"
+  ],
+  "colloc": [
+   "submission deadline(제출 마감)",
+   "submission of(~의 제출)",
+   "force into submission(굴복시키다)"
+  ],
+  "ex_add": "The deadline for submission is Friday.  (submission=제출)",
+  "ex_orig": "We cannot tell whether these acts of cruelty to children were part of the scheme for inducing submission by inspiring terror.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4778",
+  "hw": "subscriber",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "아래에(sub) 서명한(scribere) 사람 -> '구독자·가입자'.",
+  "senses": [
+   "1) (신문·서비스) 구독자, 가입자",
+   "2) 기부 약정자, 예약자"
+  ],
+  "etym": "라틴어 sub-(아래에) + scribere(쓰다) -> subscribere(아래에 서명하다·동의하다) -> subscribe + -er -> 'subscriber'. scribere(쓰다)는 describe(묘사하다)·prescribe(처방하다, 4540)·manuscript(원고, 4379)·inscribe(새기다)의 공통 뿌리.",
+  "deriv": "sub-(아래) + scribere(쓰다) -> subscribe -> 'subscriber'. 한국 학습자 핵심: scribere(쓰다)계열 거대군 — describe(묘사)·prescribe(처방, 4540)·prescription(4541)·manuscript(4379)·inscribe(새기다)·transcript·subscriber! 어원: 옛날 신청서 아래에 서명(subscribe)한 사람! a magazine subscriber(잡지 구독자), a phone subscriber(전화 가입자), gain subscribers(구독자를 늘리다), a million subscribers(백만 구독자). 동사 subscribe(구독하다·가입하다), 명사 subscription(구독, 4779). 유의어 member(회원)·user(사용자). 미디어·구독 경제 빈출.",
+  "syn": [
+   "member(회원)",
+   "user(사용자)",
+   "customer(고객)"
+  ],
+  "anti": [],
+  "idiom": [
+   "gain subscribers(구독자를 늘리다)"
+  ],
+  "colloc": [
+   "magazine subscriber(잡지 구독자)",
+   "gain subscribers(구독자를 늘리다)",
+   "paying subscriber(유료 구독자)"
+  ],
+  "ex_add": "The channel has millions of subscribers.  (subscriber=구독자)",
+  "ex_orig": "Non - subscribers could preview the first two episodes during the first week of September 2005.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4779",
+  "hw": "subscription",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "아래에(sub) 서명함(scribere) -> '구독(료)·가입'.",
+  "senses": [
+   "1) 구독, 구독료",
+   "2) (서비스) 가입, 정기 이용권",
+   "3) 기부 약정"
+  ],
+  "etym": "라틴어 sub-(아래) + scribere(쓰다) -> subscriptio -> 'subscription'. subscribe(구독하다)의 명사형. scribere(쓰다)가 핵심 뿌리. subscriber(구독자, 4778)와 한 가족.",
+  "deriv": "sub-(아래) + scribere(쓰다) -> subscribe -> 'subscription'. 한국 학습자 핵심: scribere(쓰다)계열 명사 — subscription(구독)·description(묘사)·prescription(처방, 4541)·inscription(비문)·transcription(필기)! a monthly subscription(월 구독), a subscription fee(구독료), cancel a subscription(구독을 취소하다), a subscription service(구독 서비스), renew a subscription(구독을 갱신하다, 4634 renew). 동사 subscribe, 명사 subscriber(4778). 유의어 membership(회원권). 구독 경제(subscription economy) 빈출.",
+  "syn": [
+   "membership(회원권)",
+   "enrollment(등록)"
+  ],
+  "anti": [
+   "cancellation(취소)"
+  ],
+  "idiom": [
+   "a subscription fee(구독료)",
+   "cancel a subscription(구독을 취소하다)"
+  ],
+  "colloc": [
+   "monthly subscription(월 구독)",
+   "subscription fee(구독료)",
+   "subscription service(구독 서비스)"
+  ],
+  "ex_add": "I canceled my magazine subscription.  (subscription=구독)",
+  "ex_orig": "In addition, subscriptions have been opened in various papers, and thousands of francs have been gathered and sent to this most unfortunate of nations.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4780",
+  "hw": "subsidy",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "아래에서(sub) 받쳐 앉혀(sedere) 주는 돈 -> '보조금·장려금'.",
+  "senses": [
+   "1) (정부의) 보조금, 장려금",
+   "2) 지원금, 조성금"
+  ],
+  "etym": "라틴어 sub-(아래에) + sedere(앉다) -> subsidium(예비 병력·지원) -> subsidy. sedere(앉다)는 reside(거주하다, 4644)·preside(주재하다, 4544)·subside(가라앉다)·sediment(침전물)의 공통 뿌리. '아래에서 뒷받침해 주는 지원'이 핵심.",
+  "deriv": "sub-(아래) + sedere(앉다) -> 'subsidy'. 한국 학습자 핵심: sedere(앉다)계열 — reside(4644)·preside(4544)·residue(4647)·subside(진정되다)·sediment(침전물)·subsidy·subsidize(보조금을 주다)·subsidiary(자회사)! a government subsidy(정부 보조금), an agricultural subsidy(농업 보조금), receive a subsidy(보조금을 받다), cut subsidies(보조금을 삭감하다). 동사 subsidize(보조금을 지급하다). 유의어 grant(보조금)·aid(지원)·funding(자금 지원). 경제·정책 지문 빈출.",
+  "syn": [
+   "grant(보조금)",
+   "aid(지원)",
+   "funding(자금 지원)"
+  ],
+  "anti": [
+   "tax(세금)"
+  ],
+  "idiom": [
+   "a government subsidy(정부 보조금)"
+  ],
+  "colloc": [
+   "government subsidy(정부 보조금)",
+   "agricultural subsidy(농업 보조금)",
+   "receive a subsidy(보조금을 받다)"
+  ],
+  "ex_add": "Farmers receive subsidies from the government.  (subsidy=보조금)",
+  "ex_orig": "They also stated that they were willing to fly all domestic routes without subsidies, granted that they were awarded all routes.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4781",
+  "hw": "substantial",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "아래에(sub) 실체로 서 있는(stare) -> '상당한·실질적인'.",
+  "senses": [
+   "1) (양·정도가) 상당한, 많은",
+   "2) 실질적인, 본질적인",
+   "3) (구조가) 튼튼한, 견고한"
+  ],
+  "etym": "라틴어 sub-(아래에) + stare(서다) -> substantia(실체·본질) -> substantialis -> 'substantial'. stare(서다)는 stand(서다)·stability(안정, 4756)·status(지위)·substance(실체·물질)의 공통 뿌리. '바탕에 단단히 서 있는 -> 실질적이고 상당한'이 핵심.",
+  "deriv": "sub-(아래) + stare(서다) -> substance -> 'substantial'. 한국 학습자 핵심: stare(서다)계열 — stand·stability(4756)·status·substance(실체·물질)·substantial·substantially(4782)·circumstance(상황)! a substantial amount(상당한 양), a substantial increase(상당한 증가), substantial evidence(충분한 증거), a substantial meal(푸짐한 식사). 명사 substance(실체·물질). 부사 substantially(상당히, 4782). 유의어 considerable(상당한)·significant(상당한)·sizable(상당한). 반대 negligible(미미한)·insignificant(하찮은).",
+  "syn": [
+   "considerable(상당한)",
+   "significant(상당한)",
+   "sizable(상당한)"
+  ],
+  "anti": [
+   "negligible(미미한)",
+   "insignificant(하찮은)",
+   "minimal(최소의)"
+  ],
+  "idiom": [
+   "a substantial amount(상당한 양)"
+  ],
+  "colloc": [
+   "substantial amount(상당한 양)",
+   "substantial increase(상당한 증가)",
+   "substantial evidence(충분한 증거)"
+  ],
+  "ex_add": "They made a substantial profit last year.  (substantial=상당한)",
+  "ex_orig": "From what I have said it will be gathered, I think, that very substantial progress has been made since operations began three weeks ago.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4782",
+  "hw": "substantially",
+  "pos": "adv.",
+  "cefr": "C1",
+  "core": "상당히(substantial)·실질적으로 -> '상당히·실질적으로'.",
+  "senses": [
+   "1) 상당히, 크게",
+   "2) 실질적으로, 대체로"
+  ],
+  "etym": "라틴어 sub-(아래) + stare(서다) -> substantial(상당한, 4781) + -ly -> 'substantially'. stare(서다)가 핵심 뿌리. '실질적이고 상당한 정도로'가 핵심.",
+  "deriv": "sub-(아래) + stare(서다) -> substantial -> 'substantially'. 한국 학습자 핵심: stare(서다)계열 — substance·substantial(4781)·substantially·stability(4756)! 두 뜻: ① 상당히(substantially higher 상당히 더 높은) ② 실질적으로·대체로(substantially complete 거의 완성된)! substantially increase(상당히 증가하다), substantially different(상당히 다른), substantially the same(실질적으로 동일한). 유의어(상당히) considerably(상당히)·significantly(상당히)·markedly(현저히); (대체로) essentially(본질적으로). 반대 slightly(약간)·marginally(미미하게, 4381).",
+  "syn": [
+   "considerably(상당히)",
+   "significantly(상당히)",
+   "markedly(현저히)"
+  ],
+  "anti": [
+   "slightly(약간)",
+   "marginally(미미하게)"
+  ],
+  "idiom": [
+   "substantially the same(실질적으로 동일한)"
+  ],
+  "colloc": [
+   "substantially increase(상당히 증가하다)",
+   "substantially different(상당히 다른)",
+   "substantially higher(상당히 더 높은)"
+  ],
+  "ex_add": "Sales increased substantially this year.  (substantially=상당히)",
+  "ex_orig": "In The Outlook he has substantially accepted and indorsed all that is material in the Belgian case.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4783",
+  "hw": "substitute",
+  "pos": "n., v.",
+  "cefr": "C1",
+  "core": "아래에(sub) 대신 세움(statuere) -> '대체물·대신하다'.",
+  "senses": [
+   "1) (n.) 대용품, 대리자, 대체 선수",
+   "2) (v.) 대신하다, 대체하다(substitute A for B)",
+   "3) (v.) 대리하다, 대역을 하다"
+  ],
+  "etym": "라틴어 sub-(아래에·대신) + statuere(세우다) -> substituere(대신 세우다) -> 'substitute'. statuere(세우다)는 statue(조각상)·institute(설립하다, 4277)·constitute(구성하다)·destitute(궁핍한)·statute(법령)의 공통 뿌리.",
+  "deriv": "sub-(대신) + statuere(세우다) -> 'substitute'. 한국 학습자 핵심: statuere(세우다)계열 — statue(조각상)·institute(4277)·constitute(구성하다)·constitution(헌법)·statute(법령)·destitute(궁핍한)·substitute! 어순 주의: substitute A for B(B 대신 A를 쓰다), substitute for(~을 대신하다), a substitute teacher(대리 교사), no substitute for(~을 대신할 수 없는), a sugar substitute(설탕 대용품). 명사 substitution(대체, 4784). 유의어 replacement(대체, 4637)·alternative(대안)·stand-in(대역). 반대 original(원본).",
+  "syn": [
+   "replacement(대체)",
+   "alternative(대안)",
+   "stand-in(대역)"
+  ],
+  "anti": [
+   "original(원본)"
+  ],
+  "idiom": [
+   "no substitute for(~을 대신할 수 없는)",
+   "substitute A for B(B 대신 A를 쓰다)"
+  ],
+  "colloc": [
+   "substitute for(~을 대신하다)",
+   "substitute teacher(대리 교사)",
+   "sugar substitute(설탕 대용품)"
+  ],
+  "ex_add": "There is no substitute for hard work.  (substitute=대체물)",
+  "ex_orig": "You paid them a beggarly pittance, your substitute prey-of-the-sword, But, ye canny beasts of prey, they paid, in life and limb, for your hoard.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4784",
+  "hw": "substitution",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "아래에(sub) 대신 세움(statuere) -> '대체·교체'.",
+  "senses": [
+   "1) 대체, 교체",
+   "2) (스포츠) 선수 교체",
+   "3) (수학) 대입"
+  ],
+  "etym": "라틴어 sub-(대신) + statuere(세우다) -> substitutio -> 'substitution'. substitute(대체하다, 4783)의 명사형. statuere(세우다)가 핵심 뿌리. '하나를 빼고 다른 것을 대신 세움'이 핵심.",
+  "deriv": "sub-(대신) + statuere(세우다) -> substitute -> 'substitution'. 한국 학습자 핵심: statuere(세우다)계열 명사 — substitution·constitution(헌법)·institution(제도, 4277)·statue·statute! make a substitution(교체하다), the substitution of A for B(B를 A로 대체함), import substitution(수입 대체), a player substitution(선수 교체). 동사 substitute(4783). 유의어 replacement(대체, 4637)·exchange(교환)·swap(맞바꿈). 스포츠·경제·수학 다방면.",
+  "syn": [
+   "replacement(대체)",
+   "exchange(교환)",
+   "swap(맞바꿈)"
+  ],
+  "anti": [],
+  "idiom": [
+   "make a substitution(교체하다)"
+  ],
+  "colloc": [
+   "make a substitution(교체하다)",
+   "substitution of(~의 대체)",
+   "import substitution(수입 대체)"
+  ],
+  "ex_add": "The coach made three substitutions.  (substitution=선수 교체)",
+  "ex_orig": "Substitution of officials of the Italian race by officials of other nationalities;",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4785",
+  "hw": "subtle",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "베틀의 올처럼 가는(subtilis) -> '미묘한·섬세한·교묘한'.",
+  "senses": [
+   "1) 미묘한, 감지하기 힘든",
+   "2) 섬세한, 정교한",
+   "3) (방법이) 교묘한, 영리한"
+  ],
+  "etym": "라틴어 sub-(아래에) + tela(베틀·날실) -> subtilis(베틀의 올처럼 가는·정교한) -> 고대 프랑스어 sotil -> 'subtle'. tela(베틀)는 textile(직물)·text(글)와 친족. '가늘어 알아채기 힘든'이 핵심. 발음 [sʌtl] 묵음 b!",
+  "deriv": "sub-(아래) + tela(베틀) -> subtilis -> 'subtle'. 한국 학습자 핵심: 발음 함정 — subtle [sʌtl] '서틀'(b 묵음!)! 어원이 '베틀의 가는 올'(섬세함)! a subtle difference(미묘한 차이), a subtle hint(은근한 암시, 4221 hint), a subtle change(감지하기 힘든 변화), subtle flavors(섬세한 맛). 명사 subtlety(미묘함). 유의어 delicate(섬세한)·understated(절제된)·nuanced(미묘한). 반대 obvious(명백한)·blatant(노골적인)·stark(극명한, 4760). 발음·철자가 핵심 출제 포인트.",
+  "syn": [
+   "delicate(섬세한)",
+   "understated(절제된)",
+   "nuanced(미묘한)"
+  ],
+  "anti": [
+   "obvious(명백한)",
+   "blatant(노골적인)",
+   "stark(극명한)"
+  ],
+  "idiom": [
+   "a subtle difference(미묘한 차이)"
+  ],
+  "colloc": [
+   "subtle difference(미묘한 차이)",
+   "subtle hint(은근한 암시)",
+   "subtle change(감지하기 힘든 변화)"
+  ],
+  "ex_add": "There is a subtle difference between the two words.  (subtle=미묘한)",
+  "ex_orig": "Last, but not least, is the impairment of that subtle but vital basis of business, commercial credit.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4786",
+  "hw": "suburban",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "도시(urbs) 아래·근처(sub)의 -> '교외의'.",
+  "senses": [
+   "1) 교외의, 도시 근교의",
+   "2) (다소 부정적) 따분한, 획일적인"
+  ],
+  "etym": "라틴어 sub-(가까이·아래) + urbs(도시) -> suburbanus -> 'suburban'. urbs(도시)는 urban(도시의)·urbane(세련된)·suburb(교외)의 공통 뿌리. '도시에 인접한 변두리의'가 핵심.",
+  "deriv": "sub-(가까이) + urbs(도시) -> suburb -> 'suburban'. 한국 학습자 핵심: urbs(도시)계열 — urban(도시의)·urbane(세련된)·suburb(교외)·suburban·suburbia(교외 지역)·urbanization(도시화)! 지역 구분: urban(도시) - suburban(교외) - rural(시골)! a suburban area(교외 지역), a suburban neighborhood(교외 주택가), suburban life(교외 생활), suburban sprawl(교외 무질서 확산). 명사 suburb(교외). 유의어 residential(주거의, 4646)·outlying(외곽의). 반대 urban(도시의)·rural(시골의)·inner-city(도심의).",
+  "syn": [
+   "residential(주거의)",
+   "outlying(외곽의)"
+  ],
+  "anti": [
+   "urban(도시의)",
+   "rural(시골의)",
+   "inner-city(도심의)"
+  ],
+  "idiom": [
+   "a suburban area(교외 지역)"
+  ],
+  "colloc": [
+   "suburban area(교외 지역)",
+   "suburban neighborhood(교외 주택가)",
+   "suburban life(교외 생활)"
+  ],
+  "ex_add": "They live in a quiet suburban neighborhood.  (suburban=교외의)",
+  "ex_orig": "It runs south - southwesterly from here in Oakland County as a divided highway between suburban residential subdivisions in the township.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "4787",
+  "hw": "succession",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "뒤이어(sub) 감(cedere) -> '연속·계승·상속'.",
+  "senses": [
+   "1) 연속, 잇따름",
+   "2) (왕위·직위의) 계승, 승계",
+   "3) 상속, 세습"
+  ],
+  "etym": "라틴어 sub-(뒤에) + cedere(가다) -> succedere(뒤따르다·계승하다) -> successio -> 'succession'. cedere(가다)는 succeed(성공하다·계승하다)·precedent(선례, 4529)·proceed(진행하다)·access(접근)·predecessor(전임자, 4532)의 공통 뿌리.",
+  "deriv": "sub-(뒤에) + cedere(가다) -> succeed -> 'succession'. 한국 학습자 핵심: cedere(가다)계열 거대군 — succeed(성공·계승)·success(성공)·successive(연이은, 4788)·successor(후임자, 4789)·precedent(4529)·predecessor(4532)·proceed·access·exceed·succession! in succession(연달아, three times in succession 3회 연속), a succession of(잇따른 ~), the line of succession(왕위 계승 순위), royal succession(왕위 계승). 유의어(연속) sequence(연속)·series(연속); (계승) inheritance(상속). 정치·역사 지문 빈출.",
+  "syn": [
+   "sequence(연속)",
+   "series(연속)",
+   "inheritance(상속)"
+  ],
+  "anti": [],
+  "idiom": [
+   "in succession(연달아)",
+   "a succession of(잇따른 ~)"
+  ],
+  "colloc": [
+   "in succession(연달아)",
+   "succession of(잇따른 ~)",
+   "line of succession(왕위 계승 순위)"
+  ],
+  "ex_add": "They won three games in succession.  (succession=연속)",
+  "ex_orig": "To maintain this principle Christian VIII. in 1846 issued letters patent declaring that the royal line of succession (female) was in full force, as far as Schleswig was concerned.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4788",
+  "hw": "successive",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "뒤이어(sub) 가는(cedere) -> '연속적인·잇따른'.",
+  "senses": [
+   "1) 연속적인, 잇따른",
+   "2) 연이은, 계속되는"
+  ],
+  "etym": "라틴어 sub-(뒤에) + cedere(가다) -> succedere(뒤따르다) -> successivus -> 'successive'. succession(연속, 4787)·successor(후임자, 4789)와 같은 cedere(가다) 뿌리. '끊김 없이 뒤를 이어 오는'이 핵심.",
+  "deriv": "sub-(뒤에) + cedere(가다) -> succeed -> 'successive'. 한국 학습자 핵심: cedere(가다)계열 — succeed·success·succession(4787)·successive·successor(4789)·precedent(4529)·predecessor(4532)! 혼동 주의: successive(연속적인, 잇따른)≠successful(성공적인)! three successive years(3년 연속), successive generations(연이은 세대), on successive days(연일), successive governments(역대 정부). 부사 successively. 유의어 consecutive(연이은)·sequential(순차적인)·serial(연속의, 4699). 반대 intermittent(간헐적인).",
+  "syn": [
+   "consecutive(연이은)",
+   "sequential(순차적인)",
+   "serial(연속의)"
+  ],
+  "anti": [
+   "intermittent(간헐적인)",
+   "sporadic(산발적인)"
+  ],
+  "idiom": [
+   "three successive years(3년 연속)"
+  ],
+  "colloc": [
+   "successive years(연속된 해)",
+   "successive generations(연이은 세대)",
+   "successive governments(역대 정부)"
+  ],
+  "ex_add": "Sales rose for three successive months.  (successive=연속적인)",
+  "ex_orig": "After describing three successive German assaults, during which searchlights and flashlights played important parts, the Corporal notes:",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4789",
+  "hw": "successor",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "뒤이어(sub) 가는(cedere) 사람 -> '후임자·후계자'.",
+  "senses": [
+   "1) 후임자, 후계자",
+   "2) (이전 것을 잇는) 후속 모델·것"
+  ],
+  "etym": "라틴어 sub-(뒤에) + cedere(가다) -> succedere(뒤따르다) -> successor -> 'successor'. succession(연속, 4787)·successive(연이은, 4788)와 같은 cedere(가다) 뿌리. '앞사람의 뒤를 잇는 사람'이 핵심.",
+  "deriv": "sub-(뒤에) + cedere(가다) -> succeed -> 'successor'. 한국 학습자 핵심: 정반대 짝 — successor(후임자) ↔ predecessor(전임자, 4532)! cedere(가다)계열 — succeed·success·succession(4787)·successive(4788)·successor·predecessor(4532)·precedent(4529)! name a successor(후임자를 지명하다), choose a successor(후계자를 정하다), her successor(그녀의 후임자), a worthy successor(훌륭한 후계자). 유의어 heir(상속인, 4218 heritage)·replacement(후임, 4637). 반대 predecessor(전임자, 4532)·forerunner(선구자). 정치·경영 지문 빈출.",
+  "syn": [
+   "heir(상속인)",
+   "replacement(후임)",
+   "inheritor(계승자)"
+  ],
+  "anti": [
+   "predecessor(전임자)",
+   "forerunner(선구자)"
+  ],
+  "idiom": [
+   "name a successor(후임자를 지명하다)"
+  ],
+  "colloc": [
+   "name a successor(후임자를 지명하다)",
+   "choose a successor(후계자를 정하다)",
+   "worthy successor(훌륭한 후계자)"
+  ],
+  "ex_add": "The CEO named her successor before retiring.  (successor=후임자)",
+  "ex_orig": "This salutary lesson was happily laid to heart by his son and successor, Alexander II., and the more enlightened of his subjects.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4790",
+  "hw": "suck",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "빨아들이다 -> '빨다·빨아들이다·끌어들이다'.",
+  "senses": [
+   "1) (입으로) 빨다, 빨아 먹다",
+   "2) 빨아들이다, 흡입하다",
+   "3) (suck into) 휘말려 들게 하다; (구어) 형편없다"
+  ],
+  "etym": "고대 영어 sucan(빨다, 의성어 기원)에서 -> 'suck'. soak(담그다·흡수하다, 4727)과 친족. '입으로 빨아들임'이 핵심. 라틴어 sugere(빨다)와도 인도유럽 뿌리 공유.",
+  "deriv": "sucan(빨다) -> 'suck'. 한국 학습자 핵심: soak(4727)과 어원 친족(빨아들임)! suck up(빨아올리다·아첨하다), suck in(빨아들이다), be sucked into(~에 휘말리다), suction(흡입)! 구어로 'it sucks'(형편없다). a vacuum sucks up dust(진공청소기가 먼지를 빨아들인다). 유의어 absorb(흡수하다)·draw in(빨아들이다)·inhale(들이마시다). 반대 blow(불다)·expel(내뿜다). 명사 suction(흡입력).",
+  "syn": [
+   "absorb(흡수하다)",
+   "draw in(빨아들이다)",
+   "inhale(들이마시다)"
+  ],
+  "anti": [
+   "blow(불다)",
+   "expel(내뿜다)"
+  ],
+  "idiom": [
+   "suck up(아첨하다)",
+   "be sucked into(~에 휘말리다)"
+  ],
+  "colloc": [
+   "suck up(빨아올리다)",
+   "suck in(빨아들이다)",
+   "be sucked into(~에 휘말리다)"
+  ],
+  "ex_add": "The vacuum sucks up dirt easily.  (suck up=빨아올리다)",
+  "ex_orig": "How from their lips, like Pilsen's foaming pewters, It sucked the fount of German Truth;",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "4791",
+  "hw": "sue",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "법적으로 뒤따라(sequi) 추궁하다 -> '고소하다·소송을 걸다'.",
+  "senses": [
+   "1) 고소하다, 소송을 제기하다",
+   "2) (sue for) ~을 청구하다, 요구하다"
+  ],
+  "etym": "라틴어 sequi(따르다) -> 고대 프랑스어 suir/sivre(따르다·소송하다) -> 'sue'. sequi(따르다)는 prosecute(기소하다, 4572)·pursue(추구하다)·sequence(연속)·consequence(결과)·suit(소송, 4331 lawsuit)의 공통 뿌리. '법적 절차를 좇아 추궁함'이 핵심.",
+  "deriv": "sequi(따르다) -> 'sue'. 한국 학습자 핵심: sequi(따르다)계열 — prosecute(기소, 4572)·pursue(추구)·sequence(연속)·consequence(결과)·subsequent(다음의)·lawsuit(소송, 4331)·sue! sue someone for(~로 ~를 고소하다), sue for damages(손해 배상을 청구하다), threaten to sue(고소하겠다고 위협하다), be sued(피소되다). 명사 lawsuit(소송, 4331)·suit(소송). 유의어 prosecute(기소하다, 4572)·take legal action(법적 조치를 취하다). 법 지문 빈출.",
+  "syn": [
+   "prosecute(기소하다)",
+   "take legal action(법적 조치를 취하다)",
+   "litigate(소송하다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "sue for damages(손해 배상을 청구하다)",
+   "threaten to sue(고소하겠다고 위협하다)"
+  ],
+  "colloc": [
+   "sue someone for(~로 ~를 고소하다)",
+   "sue for damages(손해 배상을 청구하다)",
+   "be sued(피소되다)"
+  ],
+  "ex_add": "She threatened to sue the company.  (sue=고소하다)",
+  "ex_orig": "It is almost the first time in three centuries that the highest civilizations were in alliance with the lowest; not since the pugnacious Western powers of Europe sued for favor at the Sublime Porte.",
+  "ex_src": "NEWS-NYT-1915"
  }
 ]
