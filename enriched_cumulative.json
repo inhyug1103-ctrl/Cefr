@@ -56276,5 +56276,1782 @@
   "ex_add": "Smoking can cause serious damage to your lungs.  (damage=손상)",
   "ex_orig": "April 27--Sixteen battleships and armored cruisers of the Allies attack advance batteries at the Dardanelles, but do little damage;",
   "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1642",
+  "hw": "deal",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "몫을 '나눠 주다' -> 거래·처리하다 / 거래·다량.",
+  "senses": [
+   "1) (deal with) 다루다·처리하다·상대하다",
+   "2) (deal in) 거래하다 / 카드를 돌리다",
+   "3) (n.) 거래·합의 / (a great deal) 많음"
+  ],
+  "etym": "고대 영어 dǣlan(나누다·분배하다). dole(나눠 주다)·ordeal(시련)과 한 게르만 뿌리. '몫을 떼어 나눔'이 핵심.",
+  "deriv": "'몫을 나눠 줌' -> 카드를 '돌리다' -> 물건을 '거래하다(deal in art)' -> 일을 '처리하다(deal with a problem)' -> 명사 '거래(make a deal)' / 양 'a great deal of(많은)'. deal with(다루다)·deal in(취급하다) 구별 — 한국 학습자 핵심. dealer(딜러)·dealings(거래)가 파생. big deal(대단한 일/별것 아닌 일, 반어), done deal(이미 끝난 일), raw deal(부당한 대우).",
+  "syn": [
+   "handle(처리하다)",
+   "trade(거래하다)",
+   "agreement(합의)"
+  ],
+  "anti": [],
+  "idiom": [
+   "deal with(~을 다루다·처리하다)",
+   "a great deal of(많은)",
+   "big deal(별것 아닌 일/대단한 일)",
+   "cut a deal(합의를 보다)"
+  ],
+  "colloc": [
+   "business deal(사업 거래)",
+   "deal with problems(문제를 처리하다)",
+   "good deal(괜찮은 거래)"
+  ],
+  "ex_add": "I'll deal with this issue first thing tomorrow.  (deal with=~을 처리하다)",
+  "ex_orig": "We have suffered grievously at the hands of more than one of the belligerent nations, but for the moment we are dealing only with Germany.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1643",
+  "hw": "decade",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "열 해를 한 묶음으로 본 '10년'.",
+  "senses": [
+   "1) 10년(간)",
+   "2) (특정) 연대 (the 1990s)",
+   "3) 열 개 한 벌"
+  ],
+  "etym": "그리스어 dekas(열 개 묶음) < deka(10). decimal(십진법)·December(원래 로마력 10월)·decathlon(10종 경기)이 같은 deka/decem(10) 뿌리.",
+  "deriv": "'열 개 묶음' -> '10년(over the past decade, 지난 10년간)' -> 특정 '연대'. deka(10) 뿌리로 decimal·decade·decathlon과 묶인다. 한국 학습자: decade(10년)·century(100년)·millennium(1000년)을 함께 묶어 익히면 좋다. 발음 /ˈdekeɪd/ 앞 강세. for decades(수십 년간), decades-long(수십 년에 걸친).",
+  "syn": [
+   "ten years(10년)",
+   "era(시대)"
+  ],
+  "anti": [],
+  "idiom": [
+   "the past decade(지난 10년)",
+   "decades-long(수십 년에 걸친)"
+  ],
+  "colloc": [
+   "over a decade(10년 넘게)",
+   "the last decade(지난 10년)",
+   "for decades(수십 년 동안)"
+  ],
+  "ex_add": "The town has changed a lot over the past decade.  (decade=10년)",
+  "ex_orig": "However this may be, Germany has done her best during the last four decades to heal the wounds struck by her to French national pride.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1644",
+  "hw": "deep",
+  "pos": "adj., adv.",
+  "cefr": "B1",
+  "core": "위에서 아래로 '깊은' -> 정도가 깊은·짙은.",
+  "senses": [
+   "1) (위아래로) 깊은",
+   "2) (감정·생각이) 깊은·심오한",
+   "3) (색·소리가) 짙은·낮은 / (부사) 깊이"
+  ],
+  "etym": "고대 영어 dēop(깊은). depth(깊이)·deepen(깊게 하다)·dip(담그다)과 한 게르만 뿌리. '아래로 멀리 뻗은'이 핵심.",
+  "deriv": "'아래로 깊은(deep water)' -> 감정 '깊은(deep love)' -> 사고 '심오한(a deep question)' -> 색·소리 '짙은·낮은(a deep voice)' -> 부사 '깊이(deep down, 마음속으로)'. depth(깊이)가 명사, deepen(깊어지다)이 동사. in deep water(곤경에 빠진), deep down(내심), go off the deep end(발끈하다). 한국 학습자: deeply(부사, 정도)와 deep(부사, 물리적 깊이)의 쓰임 차이.",
+  "syn": [
+   "profound(심오한)",
+   "intense(강렬한)",
+   "low(낮은)"
+  ],
+  "anti": [
+   "shallow(얕은)",
+   "superficial(피상적인)",
+   "high(높은)"
+  ],
+  "idiom": [
+   "deep down(마음속으로는)",
+   "in deep water(곤경에 빠진)",
+   "go off the deep end(이성을 잃다)",
+   "deep pockets(두둑한 재력)"
+  ],
+  "colloc": [
+   "deep breath(심호흡)",
+   "deep sleep(깊은 잠)",
+   "knee-deep(무릎까지 오는)"
+  ],
+  "ex_add": "Take a deep breath and calm down.  (deep=깊은)",
+  "ex_orig": "The whole German world of letters is today filled with deep indignation and strong moral resentment at the present behavior of England.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1645",
+  "hw": "define",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "뜻의 '경계를 그어' 분명히 규정하다.",
+  "senses": [
+   "1) (뜻을) 정의하다",
+   "2) (역할·경계를) 규정하다·한정하다",
+   "3) 특징짓다·또렷이 드러내다"
+  ],
+  "etym": "라틴어 definire = de(완전히) + finire(끝맺다·한계 짓다, < finis 끝). finish(끝내다)·final(마지막의)·infinite(무한한)·finance가 같은 finis(끝·경계) 뿌리.",
+  "deriv": "'경계를 그어 한정함' -> 뜻을 '정의하다(define a word)' -> 역할을 '규정하다(a clearly defined role)' -> '특징짓다(a moment that defined her career)'. finis(끝) 뿌리로 finish·final·infinite와 묶인다. definite(명확한)·definition(정의)·definitive(결정적인)가 파생. 한국 학습자: define A as B(A를 B라고 정의하다), well-defined(명확히 규정된).",
+  "syn": [
+   "specify(명시하다)",
+   "characterize(특징짓다)",
+   "delineate(윤곽을 그리다)"
+  ],
+  "anti": [
+   "blur(흐리다)",
+   "confuse(모호하게 하다)"
+  ],
+  "idiom": [
+   "define A as B(A를 B로 정의하다)",
+   "clearly defined(명확히 규정된)"
+  ],
+  "colloc": [
+   "define a term(용어를 정의하다)",
+   "define a goal(목표를 규정하다)",
+   "hard to define(정의하기 어려운)"
+  ],
+  "ex_add": "It's difficult to define exactly what \"love\" means.  (define=정의하다)",
+  "ex_orig": "The attitude of the Italian press since the character of its papers were defined in the May number of THE CURRENT HISTORY is here recorded.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1646",
+  "hw": "definite",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "경계가 또렷이 그어진 '확실한·분명한'.",
+  "senses": [
+   "1) 분명한·확실한",
+   "2) 확정된·명확한",
+   "3) (문법) 정(定)관사의"
+  ],
+  "etym": "라틴어 definitus(한정된) < definire = de(완전히) + finire(한계 짓다). finis(끝·경계) 뿌리로 define·final·infinite와 묶인다. '경계가 또렷한'이 핵심.",
+  "deriv": "'경계가 또렷한' -> '분명한(a definite answer)' -> '확정된(definite plans)' -> 문법 'the definite article(정관사 the)'. define(정의하다)·definitely(틀림없이)·definition(정의)이 파생. 한국 학습자 최다 혼동: definite(분명한)와 definitive(최종적·권위 있는)는 다름. 또 철자 definite(× definate). It's definite(확정이다). definitely(확실히)는 대답으로도 자주.",
+  "syn": [
+   "clear(분명한)",
+   "certain(확실한)",
+   "fixed(확정된)"
+  ],
+  "anti": [
+   "vague(모호한)",
+   "uncertain(불확실한)",
+   "indefinite(불명확한)"
+  ],
+  "idiom": [
+   "a definite maybe(애매한 긍정)",
+   "the definite article(정관사)"
+  ],
+  "colloc": [
+   "definite answer(확실한 답)",
+   "definite plans(확정된 계획)",
+   "definite improvement(분명한 개선)"
+  ],
+  "ex_add": "Is that a definite yes, or are you still thinking?  (definite=분명한)",
+  "ex_orig": "They have been of no particular advantage however, and seem to have had no definite purpose beyond making additions to the casualty lists.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1647",
+  "hw": "definition",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "뜻의 경계를 그어 밝힌 '정의' -> 또렷함·선명도.",
+  "senses": [
+   "1) (낱말의) 정의·뜻풀이",
+   "2) (개념의) 규정",
+   "3) (영상·윤곽의) 선명도"
+  ],
+  "etym": "라틴어 definitio < definire = de(완전히) + finire(한계 짓다). finis(끝·경계) 뿌리로 define·definite·final과 묶인다.",
+  "deriv": "define(정의하다) -> 명사 'definition'. 낱말의 '뜻풀이(dictionary definition)' -> 개념 '규정' -> 화면의 '선명도(high definition, 고화질 HD)'. finis(경계) 뿌리. by definition(정의상·당연히), high-definition(고화질의). 한국 학습자: 'HD(high definition)'의 definition이 '선명도'임을 알면 두 뜻이 '경계가 또렷함'으로 통한다. a clear definition(명확한 정의).",
+  "syn": [
+   "meaning(의미)",
+   "explanation(설명)",
+   "clarity(선명도)"
+  ],
+  "anti": [
+   "vagueness(모호함)",
+   "blurriness(흐릿함)"
+  ],
+  "idiom": [
+   "by definition(정의상·당연히)",
+   "high definition(고화질)"
+  ],
+  "colloc": [
+   "clear definition(명확한 정의)",
+   "broad definition(넓은 정의)",
+   "legal definition(법적 정의)"
+  ],
+  "ex_add": "By definition, a triangle has three sides.  (by definition=정의상)",
+  "ex_orig": "America is as responsible as Europe for the great extensions, definitions, the strengthening and modification of international law.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1648",
+  "hw": "deliver",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "맡은 것을 '풀어 건네주다' -> 배달·전달·이행하다.",
+  "senses": [
+   "1) 배달하다·전달하다",
+   "2) (연설·약속을) 하다·이행하다",
+   "3) 아이를 받아 내다(분만시키다)"
+  ],
+  "etym": "고대 프랑스어 delivrer < 후기 라틴어 deliberare = de(완전히) + liberare(자유롭게 하다, < liber 자유로운). '손에서 풀어 넘겨줌'이 핵심. liberty(자유)·liberal(자유로운)·liberate(해방하다)가 같은 liber 뿌리.",
+  "deriv": "'풀어 넘겨줌' -> 물건을 '배달하다(deliver a parcel)' -> 말을 '전달하다(deliver a speech)' -> 약속을 '이행하다(deliver on a promise)' -> 산모에게서 아이를 '받아 내다'. liber(자유) 뿌리로 liberty·liberate와 묶인다. delivery(배달·분만)가 명사. deliver the goods(기대에 부응하다), deliver on(~을 약속대로 해내다). 한국 학습자: '배달'과 '분만'이 모두 '넘겨줌'에서.",
+  "syn": [
+   "transport(운송하다)",
+   "hand over(넘겨주다)",
+   "supply(공급하다)"
+  ],
+  "anti": [
+   "withhold(주지 않다)",
+   "receive(받다)",
+   "collect(수거하다)"
+  ],
+  "idiom": [
+   "deliver the goods(기대에 부응하다)",
+   "deliver on(약속을 이행하다)",
+   "signed, sealed, and delivered(완전히 마무리된)"
+  ],
+  "colloc": [
+   "deliver a package(소포를 배달하다)",
+   "deliver a speech(연설을 하다)",
+   "deliver a baby(아이를 받다)"
+  ],
+  "ex_add": "The company promises to deliver within 24 hours.  (deliver=배달하다)",
+  "ex_orig": "_The address printed below was delivered by President Hibben at the opening of the Laymen's Efficiency Convention in New York City, Oct.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1649",
+  "hw": "departure",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "그 자리를 '갈라 떠남' = 출발 -> 기존에서 벗어남.",
+  "senses": [
+   "1) 출발·떠남",
+   "2) (관례·방식에서의) 일탈·변화",
+   "3) (직장 등을) 떠남·퇴직"
+  ],
+  "etym": "고대 프랑스어 departir = de(떨어져) + partir(나누다·가다, < pars 부분). '갈라져 떠남'이 핵심. part(부분)·depart(떠나다)·apart(떨어져)가 같은 pars(부분) 뿌리.",
+  "deriv": "depart(떠나다) -> 명사 'departure'. 물리적 '출발(departure time, 출발 시각)' -> 비유 '관례에서의 일탈(a departure from tradition, 전통에서 벗어남)' -> '퇴직'. pars(부분) 뿌리로 part·apart와 묶인다. arrival(도착)이 반의. departures board(출발 안내판), a new departure(새 출발·전환). 한국 학습자: 공항의 departures(출발)/arrivals(도착) 짝으로 기억.",
+  "syn": [
+   "leaving(떠남)",
+   "exit(나감)",
+   "deviation(일탈)"
+  ],
+  "anti": [
+   "arrival(도착)",
+   "return(귀환)"
+  ],
+  "idiom": [
+   "a departure from(~로부터의 일탈)",
+   "point of departure(출발점)",
+   "departure lounge(출국 라운지)"
+  ],
+  "colloc": [
+   "departure time(출발 시각)",
+   "sudden departure(갑작스러운 떠남)",
+   "a radical departure(획기적 변화)"
+  ],
+  "ex_add": "The film is a complete departure from his earlier work.  (a departure from=~에서 벗어남)",
+  "ex_orig": "5--Authorities restrained from preventing departure of foreign subjects by intervention of American Consul.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1650",
+  "hw": "despite",
+  "pos": "prep.",
+  "cefr": "B1",
+  "core": "그 어려움을 '깔보듯 무릅쓰고' = ~에도 불구하고.",
+  "senses": [
+   "1) ~에도 불구하고",
+   "2) ~을 무릅쓰고",
+   "3) (despite oneself) 자기도 모르게"
+  ],
+  "etym": "고대 프랑스어 despit < 라틴어 despectus(깔봄) = de(아래로) + specere(보다). 본래 '경멸·앙심'이었다가 '~을 무시하고 = ~에도 불구하고'로. spectacle(구경거리)·inspect(검사하다)·respect(존경)가 같은 specere(보다) 뿌리.",
+  "deriv": "'아래로 깔봄(경멸)' -> '~을 무시하고' -> '~에도 불구하고(despite the rain)'. specere(보다) 뿌리로 inspect·respect·spectacle과 묶인다. 한국 학습자 핵심: despite/in spite of 뒤에는 '명사·동명사'만(despite *he was* tired X -> despite *being* tired). although 뒤엔 절. despite the fact that ~(~라는 사실에도). despite oneself(자신도 모르게).",
+  "syn": [
+   "in spite of(~에도 불구하고)",
+   "notwithstanding(~에도 불구하고)",
+   "regardless of(~와 상관없이)"
+  ],
+  "anti": [
+   "because of(~ 때문에)",
+   "owing to(~로 인해)"
+  ],
+  "idiom": [
+   "despite the fact that ~(~임에도)",
+   "despite oneself(자기도 모르게)",
+   "despite everything(만사를 무릅쓰고)"
+  ],
+  "colloc": [
+   "despite the rain(비에도 불구하고)",
+   "despite efforts(노력에도 불구하고)",
+   "despite warnings(경고에도)"
+  ],
+  "ex_add": "Despite being tired, she finished the race.  (despite + 동명사: ~에도 불구하고)",
+  "ex_orig": "fifth, an alliance with Turkey, despite her polygamy and butcheries in Armenia and the civilized world's hatred for her cruelties, will help us;",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1651",
+  "hw": "destination",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "가서 '꽉 자리 잡으려는' 목적지.",
+  "senses": [
+   "1) 목적지·도착지",
+   "2) (여행) 행선지",
+   "3) (비유) 도달 목표"
+  ],
+  "etym": "라틴어 destinare(굳게 정하다·겨냥하다) = de(완전히) + stanare(< stare 서다). '확고히 정해 둔 곳'이 핵심. destiny(운명, '정해진 것')·stable(안정된)·obstinate(고집 센)가 같은 stare(서다) 뿌리.",
+  "deriv": "'확고히 정해 둔 곳' -> 여행의 '목적지(travel destination)' -> 비유 '도달 목표(her ultimate destination)'. stare(서다) 뿌리로 destiny·stable과 묶인다. destine(운명짓다)·destined(운명 지어진)와 한 가족. final destination(최종 목적지), tourist destination(관광지). 한국 학습자: destination(목적지)과 destiny(운명)가 '정해 둠'이라는 한 뿌리임을 알면 함께 기억된다.",
+  "syn": [
+   "goal(목표)",
+   "endpoint(종착점)",
+   "terminus(종점)"
+  ],
+  "anti": [
+   "origin(출발지)",
+   "departure point(출발점)",
+   "starting point(기점)"
+  ],
+  "idiom": [
+   "final destination(최종 목적지)",
+   "a dream destination(꿈의 여행지)"
+  ],
+  "colloc": [
+   "travel destination(여행지)",
+   "popular destination(인기 여행지)",
+   "reach a destination(목적지에 닿다)"
+  ],
+  "ex_add": "Bali is a popular holiday destination.  (destination=여행지·목적지)",
+  "ex_orig": "Slowly through the night of April 24 our squadron, which was to land the covering force of the Australian contingent just north of Gaba Tepe, steamed toward its destination.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1652",
+  "hw": "determine",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "한계를 '딱 그어' 정하다 -> 좌우하다·알아내다·결심하다.",
+  "senses": [
+   "1) 결정하다·좌우하다",
+   "2) (조사로) 밝혀내다·알아내다",
+   "3) (굳게) 결심하다"
+  ],
+  "etym": "라틴어 determinare = de(완전히) + terminus(경계·끝). '경계를 확정함'이 핵심. terminal(종착역)·terminate(끝내다)·term(기간·용어)이 같은 terminus(경계) 뿌리.",
+  "deriv": "'경계를 확정함' -> 결과를 '좌우하다(Talent determines success)' -> 사실을 '밝혀내다(determine the cause)' -> 마음을 '굳히다(determined to win)'. terminus(경계) 뿌리로 terminal·terminate·term과 묶인다. determination(결심·확정)·determined(단호한)가 파생. determine to V / be determined to V(~하기로 결심하다) — 한국 학습자 핵심 구문.",
+  "syn": [
+   "decide(결정하다)",
+   "establish(밝히다)",
+   "dictate(좌우하다)"
+  ],
+  "anti": [
+   "waver(흔들리다)",
+   "hesitate(주저하다)"
+  ],
+  "idiom": [
+   "be determined to V(~하기로 결심하다)",
+   "determine the outcome(결과를 좌우하다)"
+  ],
+  "colloc": [
+   "determine the cause(원인을 밝히다)",
+   "largely determine(크게 좌우하다)",
+   "determine whether(~인지 판단하다)"
+  ],
+  "ex_add": "Several factors determine the price of oil.  (determine=좌우하다·결정하다)",
+  "ex_orig": "This point seems so important in determining the sincerity of Germany's attitude and pacific protestations that we quote _in extenso_.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1653",
+  "hw": "determined",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "마음을 굳게 정해 '단호한·결연한'.",
+  "senses": [
+   "1) 단호한·결연한",
+   "2) (be determined to) ~하기로 굳게 마음먹은",
+   "3) 의지가 강한"
+  ],
+  "etym": "determine(라틴어 determinare, 경계를 확정하다)의 과거분사. de(완전히) + terminus(경계). '마음의 경계를 확정한' 상태. terminus(경계) 뿌리로 terminal·term과 묶인다.",
+  "deriv": "determine(결심하다) -> 형용사 'determined(단호한)'. '의지가 강한(a determined effort)' -> 'be determined to V(~하기로 굳게 결심하다)'. determination(결의)이 명사. 한국 학습자 핵심: be determined to V(~하기로 결심하다)와 be determined by(~에 의해 결정되다)는 전혀 다름 — 전자는 의지, 후자는 수동(좌우됨). a determined look(단호한 표정), fiercely determined(맹렬히 결연한).",
+  "syn": [
+   "resolute(단호한)",
+   "firm(확고한)",
+   "steadfast(꿋꿋한)"
+  ],
+  "anti": [
+   "hesitant(주저하는)",
+   "irresolute(우유부단한)",
+   "wavering(흔들리는)"
+  ],
+  "idiom": [
+   "be determined to V(~하기로 결심하다)",
+   "grimly determined(이를 악물고 결연한)"
+  ],
+  "colloc": [
+   "determined effort(단호한 노력)",
+   "fiercely determined(맹렬히 결연한)",
+   "determined to succeed(성공하기로 결심한)"
+  ],
+  "ex_add": "She was determined to finish what she had started.  (be determined to V=~하기로 결심하다)",
+  "ex_orig": "America stands forth as the apostle of arbitration, to widen the area within which disputed points may be determined amicably.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1654",
+  "hw": "development",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "감싼 것을 '펼쳐' 키워 감 = 발전·개발·전개.",
+  "senses": [
+   "1) 발전·성장",
+   "2) 개발·조성",
+   "3) (새로운) 전개·진전 / 개발지"
+  ],
+  "etym": "develop < 고대 프랑스어 desveloper = des(반대로) + veloper(싸다). '싼 것을 풀어 펼침'이 핵심. envelope(봉투, '싸는 것')와 정반대 짝. -ment는 명사형.",
+  "deriv": "develop(펼치다·발전시키다) -> 명사 'development'. '성장(child development, 아동 발달)' -> '개발(software development)' -> '진전(a new development in the case, 사건의 새 국면)' -> '개발지(a housing development)'. envelope(봉투)와 어원상 반대. developer(개발자)·developing(개발 중인)·developed(선진의)가 파생. 한국 학습자: developed country(선진국)/developing country(개발도상국) 구별.",
+  "syn": [
+   "growth(성장)",
+   "progress(진전)",
+   "advance(발전)"
+  ],
+  "anti": [
+   "decline(쇠퇴)",
+   "stagnation(정체)",
+   "regression(퇴보)"
+  ],
+  "idiom": [
+   "recent developments(최근 동향)",
+   "a welcome development(반가운 진전)"
+  ],
+  "colloc": [
+   "economic development(경제 발전)",
+   "research and development(연구개발, R&D)",
+   "child development(아동 발달)"
+  ],
+  "ex_add": "There have been exciting developments in cancer research.  (development=진전·전개)",
+  "ex_orig": "the Berlin Cabinet, which might have been able to arrest the whole development of this crisis, seems to exercise no action on its ally.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1655",
+  "hw": "diagram",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "관계를 '선으로 가로질러 그린' 도표·도해.",
+  "senses": [
+   "1) 도표·도해",
+   "2) 도식·약도",
+   "3) 개념도·설명도"
+  ],
+  "etym": "그리스어 diagramma = dia(가로질러·통하여) + graphein(그리다·쓰다). '선을 가로질러 그린 것'. graph(그래프)·photograph(사진)·grammar(문법)가 같은 graphein(쓰다) 뿌리.",
+  "deriv": "'가로질러 그림' -> 관계를 보여 주는 '도표(a flow diagram, 흐름도)' -> '도식·약도'. graphein(쓰다) 뿌리로 graph·photograph·diagram과 묶인다. dia-(통하여)는 diameter(지름)·dialogue(대화)의 그 접두사. 한국 학습자: chart(자료 도표)·graph(수치 그래프)·diagram(구조·관계 도해)의 미세한 차이. draw a diagram(도해를 그리다), Venn diagram(벤 다이어그램).",
+  "syn": [
+   "chart(도표)",
+   "figure(그림)",
+   "schematic(개략도)"
+  ],
+  "anti": [],
+  "idiom": [
+   "flow diagram(흐름도)",
+   "Venn diagram(벤 다이어그램)"
+  ],
+  "colloc": [
+   "draw a diagram(도해를 그리다)",
+   "circuit diagram(회로도)",
+   "as shown in the diagram(도표에서 보듯)"
+  ],
+  "ex_add": "The diagram shows how the engine works.  (diagram=도해)",
+  "ex_orig": "Rough diagrams may make the position clear.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1656",
+  "hw": "diamond",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "가장 단단해 '깨지지 않는' 보석 = 다이아몬드 / 마름모.",
+  "senses": [
+   "1) 다이아몬드(보석)",
+   "2) 마름모꼴",
+   "3) (카드) 다이아 / (야구) 내야"
+  ],
+  "etym": "그리스어 adamas(정복되지 않는·가장 단단한) = a(아닌) + daman(길들이다·정복하다). '아무도 못 깎는 돌'이 핵심. adamant(요지부동의)가 같은 adamas 뿌리.",
+  "deriv": "'정복되지 않는 돌(다이아몬드)' -> 그 결정 모양 '마름모(diamond shape)' -> 카드의 '다이아(◆)' -> 야구의 마름모꼴 '내야'. adamas(단단함) 뿌리로 adamant(단호한)와 묶인다. a diamond in the rough(원석 같은 인재), diamonds are forever(다이아몬드는 영원하다). 한국 학습자: diamond가 '단단함(adamant)'과 한 뿌리임을 알면 '깨지지 않는'이라는 핵심이 잡힌다.",
+  "syn": [
+   "gem(보석)",
+   "rhombus(마름모)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a diamond in the rough(다듬어지지 않은 보석 같은 사람)",
+   "diamonds are forever(다이아몬드는 영원하다)",
+   "a rough diamond(겉은 거칠어도 속은 따뜻한 사람)"
+  ],
+  "colloc": [
+   "diamond ring(다이아몬드 반지)",
+   "rough diamond(원석)",
+   "diamond shape(마름모꼴)"
+  ],
+  "ex_add": "He gave her a beautiful diamond ring.  (diamond=다이아몬드)",
+  "ex_orig": "Only two other players reached double - figures for the county, and the Diamond Eagles chased down the total with eight balls to spare.",
+  "ex_src": "WIKI"
+ },
+ {
+  "num": "1657",
+  "hw": "difficulty",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "쉽지 '않아' 부닥치는 어려움·곤경.",
+  "senses": [
+   "1) 어려움·곤란",
+   "2) (the difficulties) 곤경·난관",
+   "3) 난이도"
+  ],
+  "etym": "라틴어 difficultas < difficilis = dis(아닌) + facilis(쉬운, < facere 하다). '하기 쉽지 않음'이 핵심. facile(손쉬운)·facility(편의·시설)·faculty(능력)가 같은 facere(하다) 뿌리.",
+  "deriv": "'쉽지 않음' -> '어려움(with difficulty, 어렵사리)' -> 'difficulties(곤경, financial difficulties)' -> '난이도(level of difficulty)'. facere(하다) 뿌리로 facile·facility와 묶인다. difficult(어려운)이 형용사. have difficulty (in) V-ing(~하는 데 어려움을 겪다) — 한국 학습자 핵심 구문(to V 아님). with great difficulty(천신만고 끝에), get into difficulties(곤경에 빠지다).",
+  "syn": [
+   "trouble(어려움)",
+   "hardship(곤경)",
+   "obstacle(장애)"
+  ],
+  "anti": [
+   "ease(쉬움)",
+   "facility(수월함)",
+   "simplicity(단순함)"
+  ],
+  "idiom": [
+   "have difficulty V-ing(~하기 어렵다)",
+   "with difficulty(가까스로)",
+   "get into difficulties(곤경에 빠지다)"
+  ],
+  "colloc": [
+   "great difficulty(큰 어려움)",
+   "financial difficulty(재정 곤란)",
+   "overcome difficulties(어려움을 극복하다)"
+  ],
+  "ex_add": "She had difficulty finding a job after graduation.  (have difficulty V-ing=~하는 데 어려움을 겪다)",
+  "ex_orig": "Before having solved this difficulty any decision in favor of war would be a leap in the dark, an act of inconceivable political blindness.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1658",
+  "hw": "direct",
+  "pos": "adj., v., adv.",
+  "cefr": "B1",
+  "core": "곧게 '겨눠 이끄는' -> 직접의·똑바른 / 지시·연출하다.",
+  "senses": [
+   "1) (형) 직접적인·직행의·솔직한",
+   "2) (동사) 지시하다·길을 안내하다·연출하다",
+   "3) (부사) 곧장·직접"
+  ],
+  "etym": "라틴어 directus < dirigere = di(따로·완전히) + regere(이끌다·바로잡다). '곧게 이끎'이 핵심. regular(규칙적인)·correct(바로잡다)·region(지역)·rule(규칙)이 같은 regere(이끌다) 뿌리.",
+  "deriv": "'곧게 이끎' -> 형용사 '직접의(a direct flight, 직항)·솔직한(a direct answer)' -> 동사 '지시하다(direct traffic)·연출하다(direct a film)' -> 부사 '곧장(fly direct)'. regere(이끌다) 뿌리로 regular·correct·region과 묶인다. direction(방향·지시)·director(감독)·directly(직접)가 파생. 한국 학습자: direct는 형용사·동사·부사 3품사. direct A to B(A에게 B로 가는 길을 알려 주다).",
+  "syn": [
+   "straight(곧은)",
+   "immediate(직접의)",
+   "guide(인도하다)"
+  ],
+  "anti": [
+   "indirect(간접적인)",
+   "roundabout(에두르는)",
+   "evasive(얼버무리는)"
+  ],
+  "idiom": [
+   "direct A to B(A를 B로 안내하다)",
+   "a direct hit(정통으로 맞음)",
+   "direct debit(자동이체)"
+  ],
+  "colloc": [
+   "direct contact(직접 접촉)",
+   "direct flight(직항편)",
+   "direct a film(영화를 연출하다)"
+  ],
+  "ex_add": "Can you direct me to the nearest station?  (direct A to B=A에게 B로 가는 길을 안내하다)",
+  "ex_orig": "first class for continuing to direct the fire of his battery from the roof of a building until it was literally shot from under his feet.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1659",
+  "hw": "directly",
+  "pos": "adv.",
+  "cefr": "B1",
+  "core": "거치지 않고 '곧장·직접' / 똑바로.",
+  "senses": [
+   "1) 직접·바로",
+   "2) 곧장·똑바로",
+   "3) (시간) 즉시·이내"
+  ],
+  "etym": "direct(곧은, 라틴어 directus < di+regere 곧게 이끌다) + -ly(부사형). regere(이끌다) 뿌리로 regular·correct·region과 묶인다.",
+  "deriv": "direct(직접의) -> 부사 'directly'. 경로 '직접(deal directly with, ~와 직접 거래하다)' -> 위치 '바로(directly opposite, 바로 맞은편)' -> 시간 '즉시(I'll come directly)'. regere(이끌다) 뿌리. 한국 학습자: directly가 '직접'뿐 아니라 '바로(위치)·즉시(시간)'도 뜻함에 주의. directly responsible(직접 책임이 있는), directly above(바로 위에).",
+  "syn": [
+   "straight(곧장)",
+   "immediately(즉시)",
+   "right(바로)"
+  ],
+  "anti": [
+   "indirectly(간접적으로)",
+   "eventually(결국)"
+  ],
+  "idiom": [
+   "directly opposite(바로 맞은편의)",
+   "deal directly with(~와 직접 상대하다)"
+  ],
+  "colloc": [
+   "directly involved(직접 관여한)",
+   "directly above(바로 위에)",
+   "directly affect(직접 영향을 주다)"
+  ],
+  "ex_add": "The smoke goes directly out through the chimney.  (directly=곧장·직접)",
+  "ex_orig": "England has never recognized any one's \"right\" to do anything at sea in time of war which did not accrue directly to her own benefit.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1660",
+  "hw": "dirt",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "들러붙은 '때·흙' -> 더러움 / 험담.",
+  "senses": [
+   "1) 흙·먼지·때",
+   "2) (특히) 오물·더러움",
+   "3) (구어) 험담·추문·약점"
+  ],
+  "etym": "고대 노르드어 drit(배설물)에서. 중세 영어에서 drit -> dirt로 음이 뒤바뀐(음위전환) 말. '들러붙은 더러움'이 핵심. dirty(더러운)가 파생.",
+  "deriv": "'더러움' -> 흙·먼지 '때(covered in dirt)' -> 땅의 '흙(a dirt road, 비포장도로)' -> 구어 '험담·약점(dig up dirt on, ~의 약점을 캐다)'. dirty(더러운)가 형용사. treat like dirt(함부로 대하다), dirt cheap(아주 싼), dish the dirt(험담을 늘어놓다). 한국 학습자: dirt가 미국에선 '흙(soil)'을 흔히 뜻함(a dirt road). 구어의 '약점·추문' 뜻도 중요.",
+  "syn": [
+   "filth(오물)",
+   "grime(때)",
+   "soil(흙)"
+  ],
+  "anti": [
+   "cleanliness(청결)"
+  ],
+  "idiom": [
+   "dirt cheap(아주 싼)",
+   "dig up dirt on(~의 약점을 캐다)",
+   "treat someone like dirt(사람을 막 대하다)",
+   "dish the dirt(험담하다)"
+  ],
+  "colloc": [
+   "dirt road(비포장도로)",
+   "covered in dirt(흙투성이의)",
+   "wash off the dirt(때를 씻어 내다)"
+  ],
+  "ex_add": "The kids came home covered in dirt.  (dirt=흙·때)",
+  "ex_orig": "He looks askance At signs of happiness and mirth; Soldiers were put upon the earth To sweat and dig in hard dirt floors, And so prepare 'emselves for war's-- Ping Pong!",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1661",
+  "hw": "disadvantage",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "유리함(advantage)이 '없는' 불리한 점.",
+  "senses": [
+   "1) 불리한 점·약점",
+   "2) 불리한 처지",
+   "3) 손해·불이익"
+  ],
+  "etym": "dis(반대·없음) + advantage(유리함). advantage는 고대 프랑스어 avantage < avant(앞) < 라틴어 abante. '앞서 있음(유리함)'의 반대가 disadvantage. dis-는 '반대'를 만드는 접두사.",
+  "deriv": "advantage(이점) + dis-(반대) -> 'disadvantage(불리한 점)'. 'a serious disadvantage(심각한 약점)' -> 'at a disadvantage(불리한 입장에)'. disadvantaged(혜택받지 못한)가 형용사. 한국 학습자: advantage(장점)와 짝으로 외우고, the advantages and disadvantages(장단점)는 글쓰기 필수 표현. put at a disadvantage(불리하게 만들다), to one's disadvantage(불리하게).",
+  "syn": [
+   "drawback(결점)",
+   "downside(부정적 면)",
+   "handicap(불리한 조건)"
+  ],
+  "anti": [
+   "advantage(이점)",
+   "benefit(이득)",
+   "merit(장점)"
+  ],
+  "idiom": [
+   "at a disadvantage(불리한 입장에)",
+   "to one's disadvantage(~에게 불리하게)",
+   "the pros and cons(장단점)"
+  ],
+  "colloc": [
+   "serious disadvantage(심각한 약점)",
+   "main disadvantage(주된 단점)",
+   "advantages and disadvantages(장단점)"
+  ],
+  "ex_add": "The main disadvantage of this plan is its cost.  (disadvantage=단점)",
+  "ex_orig": "Nations may deliberately and legitimately prefer their culture, with its admitted disadvantages, to the Kultur which pleases Germany.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1662",
+  "hw": "disappointed",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "기대가 어긋나 '실망한' (사람의 감정).",
+  "senses": [
+   "1) 실망한·낙담한",
+   "2) (disappointed with/in) ~에 실망한",
+   "3) (희망이) 좌절된"
+  ],
+  "etym": "disappoint < dis(반대) + appoint(정하다). 본래 '정해 둔 것을 빼앗다 -> 기대를 저버리다'. appoint(임명하다, a+point '한 점에 정함')의 반대. '약속·기대가 깨짐'이 핵심.",
+  "deriv": "disappoint(실망시키다) -> 감정 형용사 'disappointed(실망한)'. -ed는 사람 감정(I'm disappointed), -ing는 원인(disappointing, 실망스러운). 한국 학습자 -ed/-ing 구별 대표어. disappointed with/in + 사람·사물, disappointed at/about + 일, disappointed that + 절, disappointed to V. disappointment(실망)가 명사. deeply disappointed(크게 실망한).",
+  "syn": [
+   "let down(실망한)",
+   "disheartened(낙담한)",
+   "dissatisfied(불만스러운)"
+  ],
+  "anti": [
+   "satisfied(만족한)",
+   "pleased(기쁜)",
+   "delighted(아주 기쁜)"
+  ],
+  "idiom": [
+   "disappointed with/in(~에 실망한)",
+   "bitterly disappointed(몹시 실망한)"
+  ],
+  "colloc": [
+   "deeply disappointed(깊이 실망한)",
+   "disappointed with the result(결과에 실망한)",
+   "disappointed to hear(듣고 실망한)"
+  ],
+  "ex_add": "I was disappointed with my test results.  (disappointed with=~에 실망한)",
+  "ex_orig": "Disappointed at not having been able to get through a Government bill regulating this evil, I had abandoned my seat in the Duma.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1663",
+  "hw": "disappointing",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "기대에 못 미쳐 '실망스러운' (원인의 성질).",
+  "senses": [
+   "1) 실망스러운·기대 이하의",
+   "2) 시원찮은·미흡한",
+   "3) 김빠지는"
+  ],
+  "etym": "disappoint(실망시키다, dis + appoint)의 현재분사. appoint(한 점에 정함)의 반대 '기대를 어김'. '실망을 일으키는' 성질을 나타냄.",
+  "deriv": "disappoint(실망시키다) -> 성질 형용사 'disappointing(실망스러운)'. -ing는 원인의 성질(a disappointing result, 실망스러운 결과), -ed는 사람 감정(disappointed). 한국 학습자 핵심: 사물·상황엔 -ing, 사람 마음엔 -ed. disappointingly(실망스럽게도)가 부사. deeply disappointing(매우 실망스러운), a disappointing turnout(저조한 참가율).",
+  "syn": [
+   "unsatisfactory(불만족스러운)",
+   "underwhelming(기대 이하의)",
+   "lackluster(시원찮은)"
+  ],
+  "anti": [
+   "satisfying(만족스러운)",
+   "impressive(인상적인)",
+   "encouraging(고무적인)"
+  ],
+  "idiom": [
+   "disappointingly low(실망스럽게 낮은)",
+   "a disappointing turnout(저조한 참석률)"
+  ],
+  "colloc": [
+   "disappointing result(실망스러운 결과)",
+   "deeply disappointing(매우 실망스러운)",
+   "disappointing performance(부진한 성과)"
+  ],
+  "ex_add": "The movie got disappointing reviews from critics.  (disappointing=실망스러운, 원인의 성질)",
+  "ex_orig": "Journalistically it was disappointing at first, for it was Sunday morning, and apparently Prussian militarism keeps the Sabbath holy.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1664",
+  "hw": "dislike",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "좋아하지(like) '않음' = 싫어하다·반감.",
+  "senses": [
+   "1) 싫어하다",
+   "2) (n.) 반감·싫음",
+   "3) (the ~s) 싫어하는 것들"
+  ],
+  "etym": "dis(반대) + like(좋아하다). like는 고대 영어 lician(마음에 들다). '좋아함의 반대'. dis-는 반대·부정을 만드는 접두사(disagree, disappear).",
+  "deriv": "like(좋아하다) + dis-(반대) -> 'dislike(싫어하다)'. 동사 '싫어하다(dislike noise)' -> 명사 '반감(a strong dislike)'. 한국 학습자: dislike는 hate보다 약한 '싫음'. dislike + V-ing(동명사)를 취함(dislike *to do* 보다 자연스러움). likes and dislikes(좋아하는 것과 싫어하는 것), take a dislike to(~을 싫어하게 되다). hate(증오)보다 점잖은 표현.",
+  "syn": [
+   "hate(싫어하다)",
+   "detest(몹시 싫어하다)",
+   "loathe(혐오하다)"
+  ],
+  "anti": [
+   "like(좋아하다)",
+   "love(아주 좋아하다)",
+   "enjoy(즐기다)"
+  ],
+  "idiom": [
+   "take a dislike to(~을 싫어하게 되다)",
+   "likes and dislikes(좋아하고 싫어하는 것)"
+  ],
+  "colloc": [
+   "strong dislike(강한 반감)",
+   "dislike intensely(몹시 싫어하다)",
+   "mutual dislike(서로 간의 반감)"
+  ],
+  "ex_add": "She has a strong dislike of crowded places.  (dislike of=~에 대한 반감)",
+  "ex_orig": "You may upbraid him privately if you dislike his methods; you may give him a fair warning, but as long as your bargain exists you must stick to it.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1665",
+  "hw": "district",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "행정·관할로 '구분 지어 묶은' 지역·구.",
+  "senses": [
+   "1) (행정) 구·지구",
+   "2) (특정 성격의) 지역 (the financial district)",
+   "3) 관할 구역"
+  ],
+  "etym": "라틴어 districtus < distringere = dis(따로) + stringere(팽팽히 죄다). 본래 '(영주가) 통제권을 행사하는 구역'. strict(엄격한)·restrict(제한하다)·strain(잡아당기다)이 같은 stringere(죄다) 뿌리.",
+  "deriv": "'통제권이 미치는 구역' -> 행정 '구(a school district, 학군)' -> 성격별 '지역(the shopping district)' -> '관할 구역(district court, 지방법원)'. stringere(죄다) 뿌리로 strict·restrict와 묶인다. 한국 학습자: district(행정·관할 구역)·area(넓은 지역)·region(큰 지방)·neighborhood(동네)의 규모·성격 차이. business district(상업 지구), red-light district(유흥가).",
+  "syn": [
+   "area(지역)",
+   "zone(구역)",
+   "ward(행정구)"
+  ],
+  "anti": [],
+  "idiom": [
+   "business district(상업 지구)",
+   "red-light district(유흥가)",
+   "district court(지방법원)"
+  ],
+  "colloc": [
+   "financial district(금융가)",
+   "rural district(농촌 지역)",
+   "school district(학군)"
+  ],
+  "ex_add": "Their office is in the city's financial district.  (district=지구)",
+  "ex_orig": "Greater or smaller pogroms with murder, rape, and plunder have thus taken place in the districts of Warsaw, Random, Petrikow, and Kelts.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1666",
+  "hw": "documentary",
+  "pos": "n., adj.",
+  "cefr": "B1",
+  "core": "사실 기록(문서)에 바탕을 둔 '다큐멘터리'.",
+  "senses": [
+   "1) (n.) 다큐멘터리·기록물",
+   "2) (형) 기록의·사실에 입각한",
+   "3) 문서로 입증된"
+  ],
+  "etym": "document(문서) + -ary. document는 라틴어 documentum(가르침의 증거) < docere(가르치다). doctor(박사, '가르치는 이')·doctrine(교리)·docile(가르치기 쉬운)이 같은 docere(가르치다) 뿌리.",
+  "deriv": "document(문서·기록) -> 'documentary(기록에 근거한·다큐멘터리)'. 사실 '기록물(a nature documentary, 자연 다큐)' -> 형용사 '문서로 입증된(documentary evidence, 서증)'. docere(가르치다) 뿌리로 doctor·doctrine과 묶인다. 한국 학습자: documentary(사실 기록물)와 drama(허구극)의 대비. a documentary about/on(~에 관한 다큐).",
+  "syn": [
+   "nonfiction film(논픽션 영화)",
+   "factual(사실에 입각한)"
+  ],
+  "anti": [
+   "fiction(허구)",
+   "drama(극)"
+  ],
+  "idiom": [
+   "documentary evidence(서면 증거)",
+   "a fly-on-the-wall documentary(관찰형 다큐)"
+  ],
+  "colloc": [
+   "nature documentary(자연 다큐멘터리)",
+   "documentary film(기록 영화)",
+   "watch a documentary(다큐를 보다)"
+  ],
+  "ex_add": "We watched a fascinating documentary about deep-sea life.  (documentary=다큐멘터리)",
+  "ex_orig": "Documentary proof of Germany's contemplated initiative has hitherto been missing.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1667",
+  "hw": "donate",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "대가 없이 '선물로 내주다' = 기부·기증하다.",
+  "senses": [
+   "1) (자선) 기부하다",
+   "2) (장기·혈액을) 기증하다",
+   "3) (물품을) 내놓다"
+  ],
+  "etym": "라틴어 donare < donum(선물) < dare(주다). '거저 줌'이 핵심. donor(기증자)·pardon(용서, '완전히 줌')·condone(눈감아 주다)이 같은 dare/donum(주다) 뿌리.",
+  "deriv": "'선물로 줌' -> 돈을 '기부하다(donate to charity)' -> 장기·피를 '기증하다(donate blood)'. dare(주다) 뿌리로 donor·pardon과 묶인다. donation(기부)·donor(기증자)가 파생. donate A to B(B에 A를 기부하다) — 한국 학습자 핵심 구문. blood donor(헌혈자), organ donation(장기 기증). give보다 격식·공식적.",
+  "syn": [
+   "contribute(기부하다)",
+   "give(주다)",
+   "gift(선사하다)"
+  ],
+  "anti": [
+   "receive(받다)",
+   "take(가져가다)",
+   "withhold(주지 않다)"
+  ],
+  "idiom": [
+   "donate to charity(자선 단체에 기부하다)",
+   "donate blood(헌혈하다)"
+  ],
+  "colloc": [
+   "donate money(돈을 기부하다)",
+   "generously donate(아낌없이 기부하다)",
+   "donate organs(장기를 기증하다)"
+  ],
+  "ex_add": "They donated thousands of dollars to the hospital.  (donate A to B=B에 A를 기부하다)",
+  "ex_orig": "Konovalov, who has donated 10,000 rubles for the needs of the war victims of Poland, offers a shining testimony.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1668",
+  "hw": "double",
+  "pos": "adj., det., pron., v.",
+  "cefr": "B1",
+  "core": "'두 배·둘로 된' -> 두 배로 늘리다.",
+  "senses": [
+   "1) (형) 두 배의·이중의·2인용의",
+   "2) (동사) 두 배가 되다·두 배로 하다",
+   "3) (n.) 닮은꼴·대역 / (the ~s) 복식 경기"
+  ],
+  "etym": "라틴어 duplus = du(둘) + plus(접은·겹). '두 겹'이 핵심. duo(둘)·duplicate(복제하다)·duplex(이중의)·duet(이중창)가 같은 du-(둘) 뿌리.",
+  "deriv": "'두 겹' -> 형용사 '두 배의·이중의(a double room, 2인실)' -> 동사 '두 배가 되다(Prices doubled)' -> 명사 '대역(a stunt double)' / 테니스 '복식(doubles)'. du-(둘) 뿌리로 duo·duplicate·duet과 묶인다. double up(둘이 함께 쓰다·웅크리다), on the double(서둘러), double-edged(양날의). 한국 학습자: double은 형용사·동사·명사·한정사로 두루 쓰임.",
+  "syn": [
+   "twofold(두 배의)",
+   "dual(이중의)",
+   "twin(쌍의)"
+  ],
+  "anti": [
+   "single(단일의)",
+   "half(절반의)"
+  ],
+  "idiom": [
+   "double up(함께 쓰다·몸을 웅크리다)",
+   "on the double(서둘러)",
+   "double-edged sword(양날의 검)",
+   "see double(사물이 둘로 보이다)"
+  ],
+  "colloc": [
+   "double room(2인실)",
+   "double the amount(양을 두 배로)",
+   "double check(재확인하다)"
+  ],
+  "ex_add": "Sales have doubled since last year.  (double=두 배가 되다)",
+  "ex_orig": "The moment it reached the beach the troops jumped out and doubled for cover to the foot of the bluffs, over some forty yards of beach.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1669",
+  "hw": "doubt",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "둘 중 어느 쪽인지 '망설여' 미심쩍어함 = 의심.",
+  "senses": [
+   "1) 의심·의혹",
+   "2) (동사) 의심하다·미심쩍어하다",
+   "3) (no doubt) 틀림없이"
+  ],
+  "etym": "라틴어 dubitare(둘 사이에서 망설이다) < duo(둘). '두 갈래 사이에서 흔들림'이 핵심. double(두 배)과 같은 duo(둘) 뿌리 — 의심은 '둘 사이의 망설임'. (묵음 b는 라틴어 어원을 살려 끼워 넣은 글자.)",
+  "deriv": "'둘 사이의 망설임' -> 명사 '의심(have doubts)' -> 동사 '의심하다(I doubt it)' -> 'no doubt(틀림없이)'. duo(둘) 뿌리로 double·dubious(의심스러운)와 묶인다. 한국 학습자: doubt that ~(~이 아닐 것 같다, 부정 뉘앙스)와 suspect that ~(~일 것 같다, 긍정 추측)을 혼동 주의. 또 b는 묵음 /daʊt/. without a doubt(의심할 여지 없이), give the benefit of the doubt(일단 믿어 주다), beyond doubt(확실히).",
+  "syn": [
+   "uncertainty(불확실)",
+   "skepticism(회의)",
+   "question(의문)"
+  ],
+  "anti": [
+   "certainty(확신)",
+   "trust(신뢰)",
+   "belief(믿음)"
+  ],
+  "idiom": [
+   "no doubt(틀림없이)",
+   "without a doubt(의심할 여지 없이)",
+   "beyond doubt(확실히)",
+   "give the benefit of the doubt(일단 믿어 주다)"
+  ],
+  "colloc": [
+   "serious doubt(심각한 의혹)",
+   "cast doubt on(~에 의구심을 던지다)",
+   "raise doubts(의문을 제기하다)"
+  ],
+  "ex_add": "There's no doubt that she's the best candidate.  (no doubt that ~=~은 틀림없다)",
+  "ex_orig": "She had far less to do with it even than France had, and it was in every Cabinet of Europe doubted whether England would come in at all.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1670",
+  "hw": "dressed",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "옷을 차려 '입은' 상태.",
+  "senses": [
+   "1) 옷을 입은",
+   "2) (dressed in) ~을 입고 있는",
+   "3) (well-dressed) 잘 차려입은"
+  ],
+  "etym": "dress(옷 입히다·정돈하다)의 과거분사. dress는 고대 프랑스어 dresser(가지런히 하다) < 라틴어 directus(곧은) — direct(1658)와 같은 뿌리! '단정히 정돈함'에서 '차려입음'으로.",
+  "deriv": "dress(옷 입히다) -> 'dressed(옷 입은)'. 'get dressed(옷을 입다)' -> 'dressed in black(검은 옷차림의)' -> 'well-dressed(맵시 있는)' / 'dressed up(잘 차려입은·분장한)'. directus(곧은) 뿌리로 direct와 묶인다 — '가지런히 정돈'이 옷차림의 핵심. 한국 학습자: get dressed(옷을 입다, 동작)와 be dressed(옷 입은 상태) 구별. dressed to kill(쫙 빼입은), all dressed up(한껏 차려입은).",
+  "syn": [
+   "clothed(옷을 입은)",
+   "attired(차려입은)",
+   "clad(~을 걸친)"
+  ],
+  "anti": [
+   "undressed(옷을 벗은)",
+   "naked(벌거벗은)",
+   "bare(맨~)"
+  ],
+  "idiom": [
+   "get dressed(옷을 입다)",
+   "dressed up(차려입은)",
+   "dressed to kill(아주 멋지게 차려입은)",
+   "all dressed up with nowhere to go(준비는 됐는데 쓸 데가 없는)"
+  ],
+  "colloc": [
+   "well dressed(잘 차려입은)",
+   "dressed in uniform(제복을 입은)",
+   "smartly dressed(맵시 있게 입은)"
+  ],
+  "ex_add": "She was dressed in a stylish red coat.  (dressed in=~을 입고 있는)",
+  "ex_orig": "All those who were unable to hobble to the beach had to be carried down from the hills on stretchers, then hastily dressed, and carried to the boats.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1671",
+  "hw": "drop",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "물방울처럼 아래로 '뚝 떨어뜨리다/지다' -> 줄다·내려 주다.",
+  "senses": [
+   "1) 떨어뜨리다·떨어지다",
+   "2) (수치가) 줄다·하락하다",
+   "3) (차로) 내려 주다 / (n.) 방울·하락"
+  ],
+  "etym": "고대 영어 dropa(물방울). drip(똑똑 떨어지다)·droop(축 처지다)과 한 게르만 뿌리. '방울져 떨어짐'이 핵심.",
+  "deriv": "'물방울(a drop of water)' -> 동사 '떨어뜨리다(drop a glass)' -> 수치가 '하락하다(prices dropped)' -> 사람을 '내려 주다(drop me off)'. drop by/in(잠깐 들르다), drop off(내려 주다·잠들다·줄다), drop out(중퇴하다), a drop in the ocean(새 발의 피). 한국 학습자: drop은 '떨어뜨리다/떨어지다' 자·타동사 모두. drop someone a line(짧게 연락하다), at the drop of a hat(즉각).",
+  "syn": [
+   "fall(떨어지다)",
+   "decline(하락하다)",
+   "lower(낮추다)"
+  ],
+  "anti": [
+   "raise(올리다)",
+   "lift(들어 올리다)",
+   "increase(증가하다)"
+  ],
+  "idiom": [
+   "drop by(잠깐 들르다)",
+   "drop off(내려 주다·줄다)",
+   "drop out(중퇴하다)",
+   "a drop in the ocean(새 발의 피)",
+   "at the drop of a hat(즉각)"
+  ],
+  "colloc": [
+   "drop sharply(급락하다)",
+   "drop a hint(넌지시 암시하다)",
+   "temperature drop(기온 하락)"
+  ],
+  "ex_add": "Can you drop me off at the station?  (drop off=내려 주다)",
+  "ex_orig": "Every time the \"Long Toms\" were fired, a few answering shells were sent their way and, of course, falling short, dropped into the city.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1672",
+  "hw": "drum",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "두드려 소리 내는 '북' -> 북처럼 둥둥 두드리다.",
+  "senses": [
+   "1) 북·드럼",
+   "2) (원통형) 드럼통",
+   "3) (동사) 북을 치다·둥둥 두드리다"
+  ],
+  "etym": "중세 네덜란드어/저지 독일어 tromme에서. 둥둥 울리는 소리를 흉내 낸 의성어 계열. '두드려 울리는 통'이 핵심.",
+  "deriv": "'북' -> 원통형 '드럼통(an oil drum)' -> 동사 '둥둥 두드리다(drum your fingers, 손가락을 까딱이다)'. drummer(드러머)·drumstick(북채·닭 다리)이 파생. drum up(불러일으키다, drum up support 지지를 모으다), beat the drum for(~을 적극 홍보하다), bang the drum(목청 높여 주장하다). 한국 학습자: drum이 악기 '북'과 '드럼통'을 함께 뜻함.",
+  "syn": [
+   "barrel(통)",
+   "beat(두드리다)",
+   "tap(톡톡 치다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "drum up(불러일으키다·끌어모으다)",
+   "bang the drum for(~을 적극 옹호하다)",
+   "march to the beat of one's own drum(자기 소신대로 하다)"
+  ],
+  "colloc": [
+   "play the drums(드럼을 치다)",
+   "drum kit(드럼 세트)",
+   "oil drum(기름 드럼통)"
+  ],
+  "ex_add": "He started to drum his fingers on the table impatiently.  (drum=둥둥 두드리다)",
+  "ex_orig": "The drummer, on the other hand, must beat his drum as he goes to the attack, yet he is expected to run into the enemy unarmed.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1673",
+  "hw": "drunk",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "술을 많이 마셔 '취한'.",
+  "senses": [
+   "1) 술 취한",
+   "2) (drunk on/with) ~에 도취된",
+   "3) (n.) 술 취한 사람·주정뱅이"
+  ],
+  "etym": "drink(마시다, 고대 영어 drincan)의 과거분사. drink-drank-drunk 변화에서 과거분사가 형용사로 굳음. '잔뜩 마신 상태'가 핵심.",
+  "deriv": "drink(마시다) -> 과거분사 drunk(취한). 술에 '취한(get drunk)' -> 비유 '도취된(drunk with power, 권력에 취한)' -> 명사 '주정뱅이'. drunken(취한, 명사 앞에서: a drunken man)·drunkenness가 파생. 한국 학습자 핵심: drunk(서술적, He is drunk)와 drunken(한정적, a drunken driver)의 위치 차이. drunk driving(음주 운전), dead drunk(곤드레만드레), blind drunk(고주망태인).",
+  "syn": [
+   "intoxicated(취한)",
+   "tipsy(알딸딸한)",
+   "wasted(만취한)"
+  ],
+  "anti": [
+   "sober(맨정신의)",
+   "clear-headed(정신이 또렷한)"
+  ],
+  "idiom": [
+   "get drunk(취하다)",
+   "drunk as a skunk(곤드레만드레 취한)",
+   "drunk on power(권력에 도취된)"
+  ],
+  "colloc": [
+   "drunk driving(음주 운전)",
+   "get drunk(취하다)",
+   "dead drunk(곤드레가 된)"
+  ],
+  "ex_add": "He got drunk at the party and embarrassed himself.  (get drunk=취하다)",
+  "ex_orig": "Hot wine, looted in the town, was drunk, and the women were compelled to give three cheers for the Kaiser and to sing \"Deutschland über Alles.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1674",
+  "hw": "due",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "갚아야 할 '빚진' -> 예정된·당연히 받아야 할 / ~ 때문인.",
+  "senses": [
+   "1) (~하기로) 예정된·기한이 된",
+   "2) (due to) ~ 때문에",
+   "3) 마땅히 받아야 할·당연한"
+  ],
+  "etym": "고대 프랑스어 deu < devoir(빚지다·해야 하다) < 라틴어 debere(빚지다). '갚아야 할'이 핵심. debt(빚)·debit(차변)·duty(의무)가 같은 debere(빚지다) 뿌리.",
+  "deriv": "'갚아야 할(빚진)' -> 기한이 '된(The rent is due, 집세 낼 때가 됨)' -> '예정된(due to arrive, 도착 예정)' -> 'due to(~ 때문에)' -> 마땅히 '받을(give him his due, 공정히 평가하다)'. debere(빚지다) 뿌리로 debt·duty와 묶인다(1676 duty와 한 가족). 한국 학습자: due to(~ 때문에, 명사 수식·원인)와 owing to를 혼동 주의. in due course(때가 되면), due date(만기일·출산 예정일).",
+  "syn": [
+   "expected(예정된)",
+   "owed(갚아야 할)",
+   "scheduled(예정된)"
+  ],
+  "anti": [
+   "overdue(기한이 지난)",
+   "undeserved(받을 자격 없는)"
+  ],
+  "idiom": [
+   "due to(~ 때문에)",
+   "in due course(머지않아)",
+   "give someone their due(공정하게 평가하다)",
+   "with all due respect(외람되지만)"
+  ],
+  "colloc": [
+   "due date(마감일)",
+   "due to bad weather(악천후 때문에)",
+   "payment due(지불 기한)"
+  ],
+  "ex_add": "The train is due to arrive at noon.  (be due to V=~할 예정이다)",
+  "ex_orig": "The fierce hatred of England in Germany is due in large measure to what the Germans call \"the shopkeepers' warfare\" of the English.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1675",
+  "hw": "dust",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "공중에 떠다니는 잔 가루 '먼지' -> 먼지를 털다.",
+  "senses": [
+   "1) 먼지·티끌",
+   "2) (가루) 분진·꽃가루",
+   "3) (동사) 먼지를 털다 / 가루를 뿌리다"
+  ],
+  "etym": "고대 영어 dūst(먼지·가루). '잘게 부서진 가루'가 핵심. dusty(먼지투성이의)·duster(먼지떨이)가 파생.",
+  "deriv": "'잔 가루(먼지)' -> 'gather dust(먼지가 쌓이다·방치되다)' -> 동사 '먼지를 털다(dust the shelves)' -> 가루를 '뿌리다(dust with sugar)'. dusty(먼지 낀)가 형용사. bite the dust(쓰러지다·실패하다), dust off(먼지를 털어 내다·다시 꺼내 쓰다), when the dust settles(소동이 가라앉으면), dust bunny(먼지 뭉치). 한국 학습자: dust가 동사로 '먼지를 털다'와 '가루를 뿌리다' 정반대로 쓰일 수 있음에 주의.",
+  "syn": [
+   "powder(가루)",
+   "grime(때)",
+   "dirt(흙먼지)"
+  ],
+  "anti": [],
+  "idiom": [
+   "bite the dust(쓰러지다·실패하다)",
+   "when the dust settles(상황이 진정되면)",
+   "dust off(다시 꺼내 쓰다)",
+   "gather dust(방치되다)"
+  ],
+  "colloc": [
+   "dust particle(먼지 입자)",
+   "covered in dust(먼지투성이의)",
+   "wipe the dust(먼지를 닦다)"
+  ],
+  "ex_add": "Please dust the bookshelves before the guests arrive.  (dust=먼지를 털다)",
+  "ex_orig": "Further away to the west is one of the enemy's strongholds, and there bigger shells are bursting, throwing up clouds of black smoke and dust.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1676",
+  "hw": "duty",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "마땅히 해야 할 '의무·임무' -> 세금(관세).",
+  "senses": [
+   "1) 의무·본분",
+   "2) 직무·임무",
+   "3) 세금·관세 (duty-free)"
+  ],
+  "etym": "앵글로프랑스어 duete < 라틴어 debitus(갚아야 할) < debere(빚지다). due(1674)와 같은 debere(빚지다) 뿌리 — '마땅히 갚아야 할 것'. debt(빚)·debit(차변)과 한 가족.",
+  "deriv": "'마땅히 갚을 것' -> '의무(a sense of duty, 책임감)' -> '직무(on duty, 근무 중)' -> 나라에 갚는 '세금·관세(customs duty)'. debere(빚지다) 뿌리로 due·debt와 묶인다. dutiful(의무를 다하는)이 형용사. on/off duty(근무 중/비번), duty-free(면세의), heavy-duty(튼튼한·고강도의), do one's duty(본분을 다하다). 한국 학습자: '의무'와 '관세'가 모두 '마땅히 내야 할 것'에서.",
+  "syn": [
+   "obligation(의무)",
+   "responsibility(책임)",
+   "tax(세금)"
+  ],
+  "anti": [
+   "right(권리)",
+   "privilege(특권)"
+  ],
+  "idiom": [
+   "on duty(근무 중인)",
+   "off duty(비번인)",
+   "duty-free(면세의)",
+   "do one's duty(본분을 다하다)",
+   "above and beyond the call of duty(직무 이상으로)"
+  ],
+  "colloc": [
+   "sense of duty(의무감)",
+   "official duties(공무)",
+   "import duty(수입 관세)"
+  ],
+  "ex_add": "The doctor is on duty all weekend.  (on duty=근무 중인)",
+  "ex_orig": "You prate of duty and honor, of a patriot's glorious death, Of love of country, heroic deeds--nay, for shame's sake, spare your breath!",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1677",
+  "hw": "earthquake",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "땅(earth)이 '흔들리는(quake)' 현상 = 지진.",
+  "senses": [
+   "1) 지진",
+   "2) (비유) 격변·대변동",
+   "3) 지각 변동"
+  ],
+  "etym": "earth(땅, 고대 영어 eorþe) + quake(흔들리다, 고대 영어 cwacian). '땅의 흔들림'을 그대로 합친 투명한 합성어. quake(떨다)는 quiver(떨다)와 친척.",
+  "deriv": "earth(땅) + quake(흔들림) -> 'earthquake(지진)'. 자연재해 '지진(a major earthquake)' -> 비유 '격변(a political earthquake, 정치적 격변)'. quake가 따로 '흔들리다·(공포로) 떨다'로도 쓰임. 한국 학습자: 합성어의 뜻이 투명(earth+quake)하므로 구성 요소로 기억. earthquake-resistant(내진의), the earthquake struck(지진이 덮쳤다), aftershock(여진).",
+  "syn": [
+   "quake(지진)",
+   "tremor(미진)",
+   "seismic event(지진 현상)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a political earthquake(정치적 격변)",
+   "earthquake zone(지진대)"
+  ],
+  "colloc": [
+   "major earthquake(대지진)",
+   "earthquake hits(지진이 강타하다)",
+   "earthquake damage(지진 피해)"
+  ],
+  "ex_add": "A powerful earthquake struck the coastal city.  (earthquake=지진)",
+  "ex_orig": "It may be that the convulsion of war will do for Europe what the earthquake did for the",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1678",
+  "hw": "eastern",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "해 뜨는 '동쪽의' / 동양의.",
+  "senses": [
+   "1) 동쪽의·동부의",
+   "2) (the East) 동양의·동방의",
+   "3) 동향(東向)의"
+  ],
+  "etym": "east(동쪽, 고대 영어 ēast '해 뜨는 쪽') + -ern(방향 형용사 접미사). northern·southern·western과 같은 -ern 계열. '해 뜨는 쪽의'가 핵심.",
+  "deriv": "east(동쪽) -> 'eastern(동쪽의)'. 방위 '동부의(eastern Europe, 동유럽)' -> 문화권 '동양의(Eastern philosophy, 동양 철학)'. 방위 형용사 무리: eastern-western-northern-southern. easterly(동쪽으로의·동풍)가 별도. 한국 학습자: east(명사·부사, 동쪽)와 eastern(형용사, 동쪽의) 구별. the Eastern world(동양), Eastern bloc(동구권), eastern seaboard(동부 해안).",
+  "syn": [
+   "oriental(동양의, 옛 표현)",
+   "easterly(동쪽의)"
+  ],
+  "anti": [
+   "western(서쪽의)",
+   "occidental(서양의)"
+  ],
+  "idiom": [
+   "the Eastern world(동양)",
+   "Eastern philosophy(동양 사상)"
+  ],
+  "colloc": [
+   "eastern Europe(동유럽)",
+   "eastern region(동부 지역)",
+   "eastern culture(동양 문화)"
+  ],
+  "ex_add": "The eastern part of the country is more mountainous.  (eastern=동부의)",
+  "ex_orig": "while as for the Balkan States, \"the whole Eastern question is not worth the bones of a Pomeranian grenadier\"--Bismarck was quite wrong.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1679",
+  "hw": "economic",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "돈·생산·소비, 즉 '경제의'.",
+  "senses": [
+   "1) 경제의·경제학의",
+   "2) 경제적으로 이익이 되는·수지맞는",
+   "3) 재정상의"
+  ],
+  "etym": "그리스어 oikonomia(집안 살림) = oikos(집) + nomos(관리·법). 본래 '가정 경영'에서 '나라 살림(경제)'으로 확장. ecology(생태학, oikos+logos)·economy가 같은 oikos(집) 뿌리.",
+  "deriv": "'집안 살림' -> '경제의(economic growth, 경제 성장)' -> '수지맞는(economically viable, 채산성 있는)'. oikos(집) 뿌리로 economy·ecology와 묶인다. 한국 학습자 최다 혼동: economic(경제의, economic policy 경제 정책)과 economical(절약하는, an economical car 연비 좋은 차). -al 유무로 뜻이 갈린다! economics(경제학), socioeconomic(사회경제적).",
+  "syn": [
+   "financial(재정의)",
+   "commercial(상업의)",
+   "fiscal(재정의)"
+  ],
+  "anti": [
+   "uneconomic(수지가 안 맞는)"
+  ],
+  "idiom": [
+   "economic growth(경제 성장)",
+   "economic downturn(경기 침체)",
+   "economic boom(경제 호황)"
+  ],
+  "colloc": [
+   "economic crisis(경제 위기)",
+   "economic development(경제 발전)",
+   "economic policy(경제 정책)"
+  ],
+  "ex_add": "The country is facing a serious economic crisis.  (economic=경제의)",
+  "ex_orig": "It seems to me that in discussing the sinews of war the Free Economic Association has not considered fully the psychology of the masses.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1680",
+  "hw": "economy",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "나라 살림 = 경제 / 아껴 씀 = 절약.",
+  "senses": [
+   "1) 경제·경제 체제",
+   "2) 절약·아낌",
+   "3) (economy class) 보통석·이코노미"
+  ],
+  "etym": "그리스어 oikonomia(집안 관리) = oikos(집) + nomos(관리·법). '살림을 알뜰히 꾸림'이 핵심. economic(경제의)·ecology(생태학)와 한 oikos(집) 뿌리.",
+  "deriv": "'집안 살림' -> 나라의 '경제(a strong economy)' -> 알뜰히 씀 '절약(economy of effort, 노력의 절약)' -> 'economy class(일반석)'. oikos(집) 뿌리로 economic·ecology와 묶인다. economize(절약하다)·economical(알뜰한)이 파생. market economy(시장 경제), economies of scale(규모의 경제), false economy(오히려 손해 보는 절약). 한국 학습자: economy가 '경제'와 '절약' 두 뜻임을 '알뜰한 살림'으로 이해.",
+  "syn": [
+   "thrift(절약)",
+   "saving(절약)",
+   "financial system(경제 체제)"
+  ],
+  "anti": [
+   "extravagance(낭비)",
+   "waste(허비)"
+  ],
+  "idiom": [
+   "economy class(이코노미석)",
+   "economies of scale(규모의 경제)",
+   "false economy(잘못된 절약)"
+  ],
+  "colloc": [
+   "global economy(세계 경제)",
+   "national economy(국가 경제)",
+   "boost the economy(경제를 활성화하다)"
+  ],
+  "ex_add": "The country's economy is growing rapidly.  (economy=경제)",
+  "ex_orig": "Bonn is Professor of Political Economy at the University of Munich and German Visiting Professor to the University of California.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1681",
+  "hw": "edge",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "사물의 '날카로운 가장자리' -> 우위 / 날카로움.",
+  "senses": [
+   "1) 가장자리·끝·모서리",
+   "2) (칼의) 날",
+   "3) 우위·유리함 / 예리함·긴장감"
+  ],
+  "etym": "고대 영어 ecg(칼날·날카로운 모서리). 라틴어 acies(날카로움)·acute(예리한)와 먼 친척으로 '날카로운 끝'이 핵심. edgy(초조한·참신한)가 파생.",
+  "deriv": "'날카로운 끝(날)' -> 사물의 '가장자리(the edge of the table)' -> 비유 '우위(a competitive edge, 경쟁 우위)' -> '예리함·긴장감(on edge, 안절부절)'. cutting edge(최첨단), on the edge of(~의 직전에), take the edge off(무뎌지게 하다·누그러뜨리다), have the edge over(~보다 우위에 있다). 한국 학습자: edge가 물리적 '가장자리'와 추상적 '우위·긴장' 두 갈래.",
+  "syn": [
+   "border(가장자리)",
+   "rim(테두리)",
+   "advantage(우위)"
+  ],
+  "anti": [
+   "center(중심)",
+   "middle(한가운데)"
+  ],
+  "idiom": [
+   "cutting edge(최첨단)",
+   "on edge(초조한)",
+   "on the edge of(~의 직전에)",
+   "take the edge off(누그러뜨리다)",
+   "have the edge over(~에 우위가 있다)"
+  ],
+  "colloc": [
+   "competitive edge(경쟁 우위)",
+   "edge of the cliff(절벽 끝)",
+   "sharp edge(날카로운 모서리)"
+  ],
+  "ex_add": "Their new technology gives them an edge over rivals.  (an edge over=~보다 우위)",
+  "ex_orig": "It was apparent that the enemy was putting up a stiff fight, and at times he must have run his batteries close to the water's edge.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1682",
+  "hw": "editor",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "글·영상을 다듬어 '내놓는' 사람 = 편집자.",
+  "senses": [
+   "1) (출판·언론) 편집자·편집장",
+   "2) (영상·음향) 편집 기사",
+   "3) (소프트웨어) 편집기"
+  ],
+  "etym": "라틴어 editor < edere = e(밖으로) + dare(주다). '세상에 내놓는 이'가 핵심. edit(편집하다)·edition(판)·dare(주다, donate·addition과 한 뿌리)와 연결.",
+  "deriv": "'밖으로 내놓는 이' -> 글을 다듬어 펴내는 '편집자(a newspaper editor)' -> 영상 '편집 기사' -> 'text editor(문서 편집기)'. dare(주다) 뿌리로 edit·edition·donate와 묶인다. edit(편집하다)·editorial(사설·편집의)이 파생. editor in chief(편집장). 한국 학습자: editor(편집자)와 author/writer(저자) 구별 — 편집자는 남의 글을 다듬는 사람.",
+  "syn": [
+   "reviser(교정자)",
+   "compiler(편집인)",
+   "subeditor(부편집자)"
+  ],
+  "anti": [
+   "author(저자)",
+   "writer(필자)"
+  ],
+  "idiom": [
+   "editor in chief(편집장)",
+   "letters to the editor(독자 투고)"
+  ],
+  "colloc": [
+   "newspaper editor(신문 편집자)",
+   "senior editor(선임 편집자)",
+   "video editor(영상 편집자)"
+  ],
+  "ex_add": "The editor cut several paragraphs from the article.  (editor=편집자)",
+  "ex_orig": "Professor of Art at Princeton University; editorial writer for The New York Evening Post and Assistant Editor of The Nation, 1901-06.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1683",
+  "hw": "educate",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "잠재력을 '밖으로 이끌어' 가르치다.",
+  "senses": [
+   "1) 교육하다·가르치다",
+   "2) (특정 분야를) 깨우치다·계몽하다",
+   "3) (취향·능력을) 길러 주다"
+  ],
+  "etym": "라틴어 educare < educere = e(밖으로) + ducere(이끌다). '안의 능력을 밖으로 이끌어 냄'이 핵심. conduct(이끌다)·produce(생산하다)·reduce(줄이다)·introduce(소개하다)가 같은 ducere(이끌다) 뿌리.",
+  "deriv": "'밖으로 이끌어 냄' -> '교육하다(educate children)' -> '깨우치다(educate the public)' -> 취향을 '길러 주다(an educated palate, 세련된 입맛)'. ducere(이끌다) 뿌리로 conduct·produce·reduce와 묶인다. education(교육)·educated(교육받은)·educational(교육의)·educator(교육자)가 파생. 한국 학습자: educate A about/in B(B에 대해 A를 교육하다). teach(지식 전달)보다 '잠재력을 끌어냄'이 어원적 본뜻.",
+  "syn": [
+   "teach(가르치다)",
+   "instruct(교육하다)",
+   "train(훈련시키다)"
+  ],
+  "anti": [
+   "mislead(잘못 이끌다)"
+  ],
+  "idiom": [
+   "educate yourself(스스로 배우다·알아보다)",
+   "educate A about B(B에 대해 A를 가르치다)"
+  ],
+  "colloc": [
+   "educate children(아이들을 교육하다)",
+   "educate the public(대중을 계몽하다)",
+   "well educated(잘 교육받은)"
+  ],
+  "ex_add": "The campaign aims to educate people about recycling.  (educate A about B=B에 대해 A를 교육하다)",
+  "ex_orig": "In the support of this doctrine, educated Germany has developed and accepted the religion of valor and the dogma that might makes right.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1684",
+  "hw": "educated",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "교육을 받아 '식견 있는·교양 있는'.",
+  "senses": [
+   "1) 교육받은·학식 있는",
+   "2) 교양 있는·세련된",
+   "3) (an educated guess) 근거 있는 추측"
+  ],
+  "etym": "educate(라틴어 educare, 밖으로 이끌어 가르치다)의 과거분사. e(밖으로) + ducere(이끌다). ducere(이끌다) 뿌리로 conduct·produce와 묶인다.",
+  "deriv": "educate(교육하다) -> 형용사 'educated(교육받은)'. '학식 있는(a highly educated person)' -> '근거 있는(an educated guess, 어림짐작이 아닌 합리적 추측)'. uneducated(못 배운)가 반의. well-educated(잘 교육받은). 한국 학습자: an educated guess(전문 지식에 근거한 추측)는 시험·회화 빈출 표현 — '찍기'가 아니라 '근거 있는 추정'. educated class(지식인층).",
+  "syn": [
+   "learned(학식 있는)",
+   "cultured(교양 있는)",
+   "knowledgeable(박식한)"
+  ],
+  "anti": [
+   "uneducated(못 배운)",
+   "ignorant(무지한)",
+   "illiterate(문맹의)"
+  ],
+  "idiom": [
+   "an educated guess(근거 있는 추측)",
+   "well educated(잘 교육받은)"
+  ],
+  "colloc": [
+   "highly educated(고학력의)",
+   "university educated(대학 교육을 받은)",
+   "educated guess(합리적 추측)"
+  ],
+  "ex_add": "I don't know the exact number, but I can make an educated guess.  (educated guess=근거 있는 추측)",
+  "ex_orig": "In the support of this doctrine, educated Germany has developed and accepted the religion of valor and the dogma that might makes right.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1685",
+  "hw": "educational",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "교육에 관한 / 배울 거리가 있는 '유익한'.",
+  "senses": [
+   "1) 교육의·교육적인",
+   "2) 교육용의·학습에 유익한",
+   "3) 깨우침을 주는"
+  ],
+  "etym": "education(교육) + -al(~의). education < educare = e(밖으로) + ducere(이끌다). ducere(이끌다) 뿌리로 conduct·produce·educate와 묶인다.",
+  "deriv": "education(교육) -> 형용사 'educational'. 제도 '교육의(the educational system)' -> 효과 '유익한(an educational experience, 배울 게 많은 경험)'. ducere(이끌다) 뿌리. educationally(교육적으로)가 부사. 한국 학습자: educational이 '교육 제도의'뿐 아니라 '배울 거리가 많은(유익한)'이라는 칭찬으로도 쓰임. educational toy(교육용 장난감), educational TV(교육 방송).",
+  "syn": [
+   "instructive(교육적인)",
+   "informative(유익한)",
+   "enlightening(깨우침을 주는)"
+  ],
+  "anti": [
+   "uninformative(별 도움 안 되는)"
+  ],
+  "idiom": [
+   "educational system(교육 제도)",
+   "an educational experience(배울 게 많은 경험)"
+  ],
+  "colloc": [
+   "educational system(교육 제도)",
+   "educational program(교육 프로그램)",
+   "highly educational(매우 유익한)"
+  ],
+  "ex_add": "The trip to the science museum was very educational.  (educational=유익한)",
+  "ex_orig": "(4) all Americans who have had any experience in Governmental or educational administration recognize the fact, that German administration--both in",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1686",
+  "hw": "effective",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "원하는 결과를 잘 '만들어 내는' = 효과적인.",
+  "senses": [
+   "1) 효과적인·효과 있는",
+   "2) 실질적인·사실상의",
+   "3) (법·규정이) 시행되는·발효 중인"
+  ],
+  "etym": "라틴어 effectivus < efficere = ex(밖으로) + facere(만들다·하다). '결과를 만들어 냄'이 핵심. effect(결과)·efficient(효율적인)·factory(공장)·perfect(완전한)가 같은 facere(하다) 뿌리.",
+  "deriv": "'결과를 만들어 냄' -> '효과적인(an effective method)' -> '사실상의(the effective leader, 실질적 지도자)' -> '발효 중인(effective immediately, 즉시 시행)'. facere(하다) 뿌리로 effect·efficient·perfect와 묶인다. effectively(효과적으로·사실상)·effectiveness(효과)가 파생. 한국 학습자 혼동: effective(효과적인, 결과를 냄)와 efficient(효율적인, 낭비 없이 해냄)를 구별. cost-effective(비용 효율적인).",
+  "syn": [
+   "successful(성공적인)",
+   "efficient(효율적인)",
+   "potent(강력한)"
+  ],
+  "anti": [
+   "ineffective(효과 없는)",
+   "useless(쓸모없는)",
+   "futile(헛된)"
+  ],
+  "idiom": [
+   "effective immediately(즉시 발효되는)",
+   "cost-effective(비용 대비 효과적인)"
+  ],
+  "colloc": [
+   "highly effective(매우 효과적인)",
+   "effective method(효과적인 방법)",
+   "effective communication(효과적 소통)"
+  ],
+  "ex_add": "Exercise is an effective way to reduce stress.  (effective=효과적인)",
+  "ex_orig": "In addition the Austro-Hungarian Government maintained its determination not to make the cession effective before the end of the war.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1687",
+  "hw": "effectively",
+  "pos": "adv.",
+  "cefr": "B1",
+  "core": "효과 있게 / 사실상.",
+  "senses": [
+   "1) 효과적으로·효율적으로",
+   "2) 사실상·실질적으로",
+   "3) 결과적으로"
+  ],
+  "etym": "effective(효과적인, 라틴어 efficere < ex+facere) + -ly(부사형). facere(하다·만들다) 뿌리로 effect·efficient와 묶인다.",
+  "deriv": "effective(효과적인) -> 부사 'effectively'. '효과적으로(communicate effectively)' -> '사실상(He effectively admitted it, 사실상 인정한 셈이다)'. facere(하다) 뿌리. 한국 학습자 주의: effectively는 '효과적으로'와 '사실상(=in effect)' 두 뜻 — 후자는 '엄밀히는 아니지만 결과적으로 그런 셈'. deal with effectively(효과적으로 처리하다), effectively means(사실상 ~을 뜻하다).",
+  "syn": [
+   "efficiently(효율적으로)",
+   "in effect(사실상)",
+   "successfully(성공적으로)"
+  ],
+  "anti": [
+   "ineffectively(비효과적으로)",
+   "poorly(서툴게)"
+  ],
+  "idiom": [
+   "deal with effectively(효과적으로 처리하다)",
+   "work effectively(효과적으로 작동하다)"
+  ],
+  "colloc": [
+   "communicate effectively(효과적으로 소통하다)",
+   "use effectively(효과적으로 활용하다)",
+   "manage effectively(효율적으로 관리하다)"
+  ],
+  "ex_add": "The new policy effectively bans all single-use plastics.  (effectively=사실상)",
+  "ex_orig": "Here the best attempt at an understanding could be made which would have effectively guaranteed the peace of the world.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1688",
+  "hw": "effort",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "힘을 '밖으로 짜내어' 들이는 노력·수고.",
+  "senses": [
+   "1) 노력·수고",
+   "2) (애쓴) 시도·활동",
+   "3) (특정) 노력의 성과"
+  ],
+  "etym": "고대 프랑스어 esfort < esforcier < 라틴어 ex(밖으로) + fortis(강한·힘센). '힘을 밖으로 내쏟음'이 핵심. force(힘)·fort(요새)·comfort(위안)·enforce(시행하다)가 같은 fortis(강한) 뿌리.",
+  "deriv": "'힘을 짜냄' -> '노력(make an effort, 노력하다)' -> '시도(a rescue effort, 구조 활동)'. fortis(강한) 뿌리로 force·comfort와 묶인다. effortless(힘 안 들이는·수월한)가 파생. make an effort(애쓰다), put effort into(~에 공을 들이다), spare no effort(노력을 아끼지 않다), with effort(힘들여). 한국 학습자: make an effort to V(~하려고 노력하다)가 핵심 구문(try와 호환).",
+  "syn": [
+   "attempt(시도)",
+   "exertion(노력)",
+   "endeavor(노력)"
+  ],
+  "anti": [
+   "ease(수월함)",
+   "idleness(나태)"
+  ],
+  "idiom": [
+   "make an effort(노력하다)",
+   "put effort into(~에 공들이다)",
+   "spare no effort(온 힘을 다하다)",
+   "worth the effort(애쓸 만한 가치가 있는)"
+  ],
+  "colloc": [
+   "great effort(대단한 노력)",
+   "joint effort(공동 노력)",
+   "last-ditch effort(마지막 안간힘)"
+  ],
+  "ex_add": "She made a real effort to be friendly.  (make an effort=노력하다)",
+  "ex_orig": "When Germany found her efforts to maintain peace frustrated, Russian troops having crossed the German frontier on the afternoon of Aug.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1689",
+  "hw": "election",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "여럿 중에서 '골라 뽑음' = 선거.",
+  "senses": [
+   "1) 선거",
+   "2) 당선·선출",
+   "3) (the elections) 선거(행사)"
+  ],
+  "etym": "라틴어 electio < eligere = e(밖으로) + legere(고르다). '골라냄'이 핵심. collect(모으다)·select(선택하다)·intellect(지성)가 같은 legere(고르다) 뿌리. (1592 collection과 한 가족!)",
+  "deriv": "'골라 뽑음' -> '선거(a general election, 총선)' -> '당선(her election as president)'. legere(고르다) 뿌리로 collection·select·intellect와 묶인다. elect(선출하다)·elective(선택의)·electorate(유권자)·electoral(선거의)이 파생. 한국 학습자: election(선거)·vote(투표)·poll(여론조사·투표)의 차이. hold an election(선거를 치르다), win/lose an election, by-election(보궐선거).",
+  "syn": [
+   "vote(투표)",
+   "ballot(투표)",
+   "poll(선거)"
+  ],
+  "anti": [
+   "appointment(임명)"
+  ],
+  "idiom": [
+   "general election(총선)",
+   "by-election(보궐선거)",
+   "run for election(출마하다)"
+  ],
+  "colloc": [
+   "win an election(선거에서 이기다)",
+   "hold an election(선거를 실시하다)",
+   "presidential election(대통령 선거)"
+  ],
+  "ex_add": "The next general election will be held in spring.  (election=선거)",
+  "ex_orig": "I believe the first election to follow peace will result in a demand by the Reichstag that it, alone, shall be given power to declare war.",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1690",
+  "hw": "element",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "전체를 이루는 '기본 구성 요소·성분'.",
+  "senses": [
+   "1) 요소·구성 성분",
+   "2) (화학) 원소",
+   "3) (the elements) 비바람·자연력 / (an ~ of) 약간의 ~"
+  ],
+  "etym": "라틴어 elementum(기본 요소·근본). 고대에 만물의 근본으로 본 '4원소(흙·물·불·공기)'를 가리키던 데서. 어원이 다소 불확실하나 '기초 단위'가 핵심.",
+  "deriv": "'기본 단위' -> '구성 요소(a key element, 핵심 요소)' -> 화학 '원소(chemical elements)' -> 'the elements(비바람·악천후)' -> 'an element of(약간의 ~, an element of risk 다소의 위험)'. elementary(기초의)·elemental(원초적인)이 파생. in one's element(물 만난 듯한), brave the elements(궂은 날씨를 무릅쓰다). 한국 학습자: element가 '요소'와 화학 '원소'를 함께 뜻함.",
+  "syn": [
+   "component(구성 요소)",
+   "ingredient(성분)",
+   "factor(요인)"
+  ],
+  "anti": [
+   "whole(전체)",
+   "compound(화합물)"
+  ],
+  "idiom": [
+   "in one's element(자기에게 딱 맞는 상황에서·신이 나서)",
+   "brave the elements(악천후를 무릅쓰다)",
+   "an element of truth(일말의 진실)"
+  ],
+  "colloc": [
+   "key element(핵심 요소)",
+   "essential element(필수 요소)",
+   "chemical element(화학 원소)"
+  ],
+  "ex_add": "Trust is a key element of any friendship.  (element=요소)",
+  "ex_orig": "Therefore, is it not likely that the nations of the world will some day turn to us for the cooler assessment of the elements engaged?",
+  "ex_src": "NEWS-NYT-1915"
+ },
+ {
+  "num": "1691",
+  "hw": "embarrassed",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "남 앞에서 '쩔쩔매며' 창피한·당황한 (사람의 감정).",
+  "senses": [
+   "1) 창피한·쑥스러운",
+   "2) 당황한·난처한",
+   "3) (재정적으로) 궁핍한(격식)"
+  ],
+  "etym": "프랑스어 embarrasser < 스페인어 embarazar(가로막다) < 라틴어 barra(막대·빗장). 본래 '앞을 가로막아 옴짝달싹 못 하게 함'에서 '쩔쩔매게 함'으로. bar(막대)·barrier(장벽)와 친척.",
+  "deriv": "embarrass(당황하게 하다) -> 감정 형용사 'embarrassed(창피한)'. -ed는 사람 감정(I'm embarrassed), -ing는 원인(embarrassing, 창피하게 만드는). 한국 학습자 -ed/-ing 구별 + 철자(r 둘, s 둘) 빈출 오답. embarrassed about/by + 일, embarrassed to V. embarrassment(당혹)가 명사. 한국 학습자: ashamed(도덕적 부끄러움)와 embarrassed(사회적 민망함)를 구별 — 실수로 민망한 건 embarrassed.",
+  "syn": [
+   "ashamed(부끄러운)",
+   "awkward(어색한)",
+   "self-conscious(남의 시선을 의식하는)"
+  ],
+  "anti": [
+   "proud(자랑스러운)",
+   "confident(당당한)",
+   "comfortable(편안한)"
+  ],
+  "idiom": [
+   "embarrassed about(~에 대해 창피한)",
+   "too embarrassed to V(창피해서 ~하지 못하는)"
+  ],
+  "colloc": [
+   "deeply embarrassed(몹시 창피한)",
+   "embarrassed silence(어색한 침묵)",
+   "embarrassed to admit(인정하기 민망한)"
+  ],
+  "ex_add": "He felt embarrassed about forgetting her name.  (embarrassed about=~에 대해 창피한)",
+  "ex_orig": "But the Germans have misconceived even more important things--they set out on their adventure in the belief that England would be embarrassed by civil war and unable to take any effective part in the fray;",
+  "ex_src": "NEWS-NYT-1915"
  }
 ]
