@@ -1,0 +1,952 @@
+[
+ {
+  "num": "1542",
+  "hw": "bite",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "이로 '꽉 물어' 끊거나 쏘다.",
+  "senses": [
+   "1) 물다·물어뜯다",
+   "2) (벌레가) 쏘다·물다",
+   "3) (n.) 한 입·물기 / (낚시) 입질"
+  ],
+  "etym": "고대 영어 bitan(물다). bit(작은 조각, '물어 뜯어낸 것')·bitter(쓴, '쏘는 맛')·beetle('무는 벌레')이 같은 뿌리. '깨물어 끊음'이 핵심.",
+  "deriv": "'이로 물다' -> 곤충이 '쏘다(a mosquito bite)' -> 명사 '한 입(a bite to eat, 요기)' -> 낚시 '입질'. bit(조각)·bitter(쏘는 맛)와 묶인다. 과거형 bit, 과거분사 bitten. bite the bullet(이 악물고 견디다), bite off more than one can chew(분에 넘치는 일을 벌이다). bark worse than one's bite(말만 사납지 무섭지 않다).",
+  "syn": ["nip(살짝 물다)", "chew(씹다)", "sting(쏘다)"],
+  "anti": ["release(놓아주다)"],
+  "idiom": ["bite the bullet(이 악물고 견디다)", "bite off more than you can chew(감당 못 할 일을 벌이다)", "a bite to eat(간단한 요기)"],
+  "colloc": ["dog bite(개에게 물림)", "insect bite(벌레 물림)", "bite into(~을 베어 물다)"],
+  "ex_add": "Let's grab a bite to eat before the movie.  (a bite to eat=간단한 요기)"
+ },
+ {
+  "num": "1543",
+  "hw": "block",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "큼직한 '덩어리·구역' -> 길을 막다.",
+  "senses": [
+   "1) (단단한) 덩어리·블록",
+   "2) (도시의) 한 구획·건물 동",
+   "3) (동사) 막다·차단하다 / (장애로) 막힘"
+  ],
+  "etym": "고대 프랑스어 bloc < 중세 네덜란드어 blok(통나무 토막). '잘라낸 나무 덩어리'가 핵심. blockade(봉쇄)·blockage(막힘)가 파생.",
+  "deriv": "'나무 토막(덩어리)' -> 도시의 '한 구획(walk around the block)' -> 동사 '막다(block the road)' -> 추상 '방해하다(block progress) / writer's block(글이 안 풀림)'. blockade·blockage와 묶인다. block out(차단하다·지워 버리다), block off(막아 두다), stumbling block(걸림돌). 한국 학습자: 미국 도시의 '한 블록'은 거리 거리 사이 구간.",
+  "syn": ["chunk(덩어리)", "obstruct(가로막다)", "barrier(장벽)"],
+  "anti": ["clear(치우다)", "unblock(뚫다)", "open(열다)"],
+  "idiom": ["block out(차단하다·지우다)", "stumbling block(걸림돌)", "writer's block(글길이 막힘)", "a chip off the old block(아버지를 빼닮은 아들)"],
+  "colloc": ["block the road(길을 막다)", "apartment block(아파트 동)", "building block(구성 요소)"],
+  "ex_add": "A fallen tree blocked the entire road.  (block=막다)"
+ },
+ {
+  "num": "1544",
+  "hw": "board",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "넓고 평평한 '판자' -> 회의 탁자에 둘러앉은 '이사회' -> (배·차에) 올라타다.",
+  "senses": [
+   "1) 판자·게시판·칠판",
+   "2) 위원회·이사회",
+   "3) (동사) (탈것에) 타다·탑승하다 / 하숙(식사 제공)"
+  ],
+  "etym": "고대 영어 bord(널빤지·식탁). '평평한 판'에서 '회의용 식탁' -> '식탁에 둘러앉은 위원회'로. 또 배의 '뱃전(널)'에서 on board(승선한)가 나옴. seaboard·cupboard가 한 가족.",
+  "deriv": "'널빤지' -> '게시판·칠판(notice board)' -> 회의 '탁자' -> 그 탁자의 '이사회(board of directors)' -> 배의 뱃전 '탑승하다(board a plane)' -> 식탁 제공 '하숙(room and board, 숙식)'. on board(승선한·동참한), across the board(전반에 걸쳐), above board(떳떳한). 다의어의 갈래가 모두 '판/식탁'에서 나옴을 보여 주기 좋은 단어.",
+  "syn": ["plank(널)", "committee(위원회)", "embark(승선하다)"],
+  "anti": ["disembark(내리다)", "alight(하차하다)"],
+  "idiom": ["on board(탑승한·동참한)", "across the board(전반적으로)", "above board(떳떳한)", "back to the drawing board(처음부터 다시)"],
+  "colloc": ["board of directors(이사회)", "notice board(게시판)", "board a flight(비행기에 탑승하다)"],
+  "ex_add": "Passengers may now board the train at platform 2.  (board=탑승하다)"
+ },
+ {
+  "num": "1545",
+  "hw": "bomb",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "'쾅' 터지는 폭탄 -> 폭격하다 / (구어) 대성공 또는 대실패.",
+  "senses": [
+   "1) 폭탄",
+   "2) (동사) 폭격하다",
+   "3) (구어) 크게 실패하다(미) / 대박(영, the bomb)"
+  ],
+  "etym": "이탈리아어 bomba < 라틴어 bombus < 그리스어 bombos('붕·쾅' 하는 소리). 소리를 흉내 낸 의성어 계열. bombard(포격하다)가 파생.",
+  "deriv": "'쾅 소리(폭탄)' -> 동사 '폭격하다(bomb the city)' -> 구어 비유: 미국에선 '쫄딱 망하다(The movie bombed)', 영국 속어 the bomb은 '최고'. bombard(퍼붓다)·bomber(폭격기)가 파생. go down a bomb(영, 대성공하다) vs bomb(미, 실패하다)이 정반대라 한국 학습자 혼동 주의. a bombshell(충격적 소식).",
+  "syn": ["explosive(폭발물)", "shell(포탄)", "bombard(포격하다)"],
+  "anti": [],
+  "idiom": ["drop a bombshell(폭탄선언을 하다)", "go down a bomb(영, 대성공하다)", "the bomb(영, 최고의 것)", "cost a bomb(거금이 들다)"],
+  "colloc": ["atomic bomb(원자폭탄)", "plant a bomb(폭탄을 설치하다)", "bomb attack(폭탄 공격)"],
+  "ex_add": "Sadly, the new restaurant bombed within a year.  (bomb=참패하다, 미국 구어)"
+ },
+ {
+  "num": "1546",
+  "hw": "bother",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "성가시게 '귀찮게' 하다 / 굳이 수고하다.",
+  "senses": [
+   "1) 귀찮게 하다·성가시게 하다",
+   "2) 신경 쓰다·걱정하다",
+   "3) (수고스럽게) 일부러 ~하다 / (n.) 성가신 일"
+  ],
+  "etym": "18세기 영어, 아일랜드어 bodhar(귀먹은·멍한)에서 온 것으로 추정(어원이 확실치 않음). '귀를 멍하게 하다 -> 성가시게 하다'로 보는 견해가 유력.",
+  "deriv": "'성가시게 하다(Don't bother me)' -> 자신이 '신경 쓰다(don't bother about it)' -> 수고를 '굳이 들이다(Don't bother to call, 굳이 전화 안 해도 돼)' -> 명사 '성가심(It's no bother, 별일 아니다)'. can't be bothered (to V)(~할 마음이 안 나다, 영국 구어), hot and bothered(안절부절못하는). bother to V / bother V-ing 둘 다 가능 — 한국 학습자 주의.",
+  "syn": ["annoy(짜증 나게 하다)", "trouble(괴롭히다)", "disturb(방해하다)"],
+  "anti": ["please(기쁘게 하다)", "soothe(달래다)"],
+  "idiom": ["can't be bothered (to V)(~할 마음이 안 나다)", "no bother(별일 아니다)", "hot and bothered(쩔쩔매는)"],
+  "colloc": ["don't bother(신경 쓰지 마)", "bother to ask(굳이 묻다)", "really bother(정말 신경 쓰이다)"],
+  "ex_add": "Don't bother to wait for me — I'll be late.  (not bother to V=굳이 ~하지 않다)"
+ },
+ {
+  "num": "1547",
+  "hw": "branch",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "줄기에서 '뻗어 나간 가지' -> 본점에서 갈라진 지점·분야.",
+  "senses": [
+   "1) 나뭇가지",
+   "2) (회사·은행의) 지점·지사",
+   "3) (학문의) 분야·갈래 / (동사) 갈라지다"
+  ],
+  "etym": "고대 프랑스어 branche < 후기 라틴어 branca(짐승의 발). '몸통에서 뻗어 나온 것'이 핵심. '가지처럼 뻗다'에서 여러 비유가 나온다.",
+  "deriv": "'나뭇가지' -> 본체에서 갈라진 '지점(a branch office)' -> 학문의 '분야(a branch of science)' -> 동사 '갈라지다(branch off, 갈라져 나가다 / branch out, 새 분야로 진출하다)'. 강의 '지류', 가계도의 '가지'로도. root and branch(철저히), branch out(사업·활동을 넓히다). 한국 학습자: '가지'와 '지점'이 한 단어임을 비유로 이해.",
+  "syn": ["bough(큰 가지)", "division(부서)", "subsidiary(자회사)"],
+  "anti": ["trunk(줄기)", "headquarters(본사)", "root(뿌리)"],
+  "idiom": ["branch out(새 분야로 진출하다)", "branch off(갈라져 나가다)", "root and branch(철저하게)", "olive branch(화해의 제스처)"],
+  "colloc": ["tree branch(나뭇가지)", "local branch(지역 지점)", "branch of the family(가문의 한 갈래)"],
+  "ex_add": "The bank has branches in over thirty countries.  (branch=지점)"
+ },
+ {
+  "num": "1548",
+  "hw": "brand",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "가축에 '낙인'을 찍어 표시함 -> 상표·브랜드 -> 낙인찍다.",
+  "senses": [
+   "1) 상표·브랜드",
+   "2) (특정) 종류·유형",
+   "3) (동사) 낙인을 찍다·오명을 씌우다"
+  ],
+  "etym": "고대 영어 brand(불타는 나무·횃불). 달군 쇠로 가축에 '낙인'을 찍던 데서 '소유 표시 -> 상표'로. burn(태우다)·brandish(휘두르다)와 한 뿌리. '불로 지진 표'가 핵심.",
+  "deriv": "'불 지진 낙인' -> 소유·제조사 '상표(a famous brand)' -> '특정 종류(his own brand of humor, 그만의 유머)' -> 동사 '낙인찍다·오명을 씌우다(brand someone a liar)'. burn(태우다)과 묶인다. brand-new(아주 새것의, '갓 구워낸')가 흔한 표현. brand loyalty(상표 충성도), branding(브랜드화). 한국 학습자: brand-new는 brand가 '갓 ~한'을 강조.",
+  "syn": ["make(제조 상표)", "label(브랜드)", "stigmatize(오명을 씌우다)"],
+  "anti": [],
+  "idiom": ["brand-new(아주 새것의)", "brand loyalty(브랜드 충성도)", "brand someone as(~라고 낙인찍다)"],
+  "colloc": ["leading brand(선도 브랜드)", "brand name(상표명)", "brand image(브랜드 이미지)"],
+  "ex_add": "She only buys well-known brands of clothing.  (brand=상표)"
+ },
+ {
+  "num": "1549",
+  "hw": "brave",
+  "pos": "adj., v.",
+  "cefr": "B1",
+  "core": "두려움을 무릅쓰는 '용감한' -> 용감히 맞서다.",
+  "senses": [
+   "1) 용감한·용기 있는",
+   "2) (동사) 용감히 맞서다·무릅쓰다",
+   "3) 멋진·훌륭한(문어)"
+  ],
+  "etym": "프랑스어·이탈리아어 bravo(용감한·훌륭한)에서. 갈채 '브라보(Bravo!)'와 같은 말. (라틴어 어원은 여러 설이 있어 단정하지 않음.) '기개 있는'이 핵심.",
+  "deriv": "'기개 있는(용감한)' -> 동사 '무릅쓰다(brave the storm, 폭풍을 무릅쓰다)' -> 갈채 'Bravo!(잘한다!)'와 한 핏줄. bravery(용기)·bravely(용감하게)가 파생. put on a brave face(태연한 척하다), brave new world(멋진 신세계). courageous보다 일상적. 한국 학습자: brave는 형용사·동사 둘 다 됨(brave the cold).",
+  "syn": ["courageous(용기 있는)", "bold(대담한)", "fearless(겁 없는)"],
+  "anti": ["cowardly(겁 많은)", "timid(소심한)", "fearful(겁먹은)"],
+  "idiom": ["put on a brave face(애써 태연한 척하다)", "brave the elements(궂은 날씨를 무릅쓰다)", "brave new world(멋진 신세계)"],
+  "colloc": ["brave soldier(용감한 군인)", "brave decision(용감한 결정)", "be brave enough to V(~할 만큼 용감하다)"],
+  "ex_add": "They braved the freezing cold to watch the parade.  (brave=무릅쓰다)"
+ },
+ {
+  "num": "1550",
+  "hw": "breath",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "들이쉬고 내쉬는 '숨'(명사).",
+  "senses": [
+   "1) 숨·호흡",
+   "2) 한 번의 들숨·날숨",
+   "3) (a ~ of) 한 가닥의 ~ (a breath of fresh air)"
+  ],
+  "etym": "고대 영어 bræþ(냄새·증기·숨). breathe(숨 쉬다)·breathing(호흡)이 한 가족. 본래 '입김·증기'를 뜻하다 '숨'으로.",
+  "deriv": "'입김(숨)' -> '한 번의 호흡(take a deep breath, 심호흡하다)' -> 비유 'a breath of fresh air(신선한 변화)'. 한국 학습자 최다 혼동: breath(명사, /breθ/)와 breathe(동사, /briːð/) — 철자 e 유무와 발음 둘 다 다름. out of breath(숨이 찬), hold one's breath(숨을 참다), under one's breath(소곤소곤). catch one's breath(숨을 고르다).",
+  "syn": ["respiration(호흡)", "puff(한 번 내쉬기)"],
+  "anti": [],
+  "idiom": ["out of breath(숨이 찬)", "hold your breath(숨을 죽이다)", "a breath of fresh air(신선한 활력)", "take your breath away(숨이 멎을 만큼 멋지다)"],
+  "colloc": ["deep breath(심호흡)", "bad breath(입 냄새)", "short of breath(숨이 가쁜)"],
+  "ex_add": "Take a deep breath and try to relax.  (breath=숨, 명사)"
+ },
+ {
+  "num": "1551",
+  "hw": "breathe",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "공기를 들이쉬고 내쉬다(동사).",
+  "senses": [
+   "1) 숨 쉬다·호흡하다",
+   "2) (낮은 소리로) 속삭이다",
+   "3) (생기를) 불어넣다 / 살아 있다"
+  ],
+  "etym": "고대 영어 bræþ(숨)에서 나온 동사. breath(숨, 명사)·breathing(호흡)과 한 가족. 명사 breath에 동사형이 생긴 형태.",
+  "deriv": "명사 breath(숨) -> 동사 'breathe(숨 쉬다)' -> '속삭이다(breathe a word, 발설하다)' -> '불어넣다(breathe life into, ~에 생기를 주다)'. 한국 학습자 핵심: breathe(동사, 끝에 e, /ð/)와 breath(명사, e 없음, /θ/)를 철자·발음 모두 구별. breathe in/out(들이쉬다/내쉬다), breathe easy(안심하다), don't breathe a word(절대 말하지 마).",
+  "syn": ["inhale(들이쉬다)", "respire(호흡하다)", "whisper(속삭이다)"],
+  "anti": ["suffocate(질식하다)", "hold one's breath(숨을 참다)"],
+  "idiom": ["breathe a word(발설하다)", "breathe easy(한시름 놓다)", "breathe down someone's neck(바짝 감시하다)", "breathe life into(~에 활기를 불어넣다)"],
+  "colloc": ["breathe deeply(깊이 숨 쉬다)", "breathe in(들이쉬다)", "hard to breathe(숨쉬기 힘든)"],
+  "ex_add": "It was so smoky that I could hardly breathe.  (breathe=숨 쉬다, 동사)"
+ },
+ {
+  "num": "1552",
+  "hw": "breathing",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "숨 쉬는 작용 = 호흡.",
+  "senses": [
+   "1) 호흡·숨쉬기",
+   "2) 숨소리",
+   "3) (breathing space) 한숨 돌릴 여유"
+  ],
+  "etym": "breathe(숨 쉬다, 고대 영어 bræþ) + -ing(명사형). 동사 breathe에 동작 명사 -ing이 붙은 형태. breath·breathe와 한 가족.",
+  "deriv": "breathe(숨 쉬다) -> 명사 'breathing(호흡)'. '숨소리' -> 'breathing space(숨 돌릴 틈) / breathing exercise(호흡 운동)'. breath(숨)·breathe(숨 쉬다)와 묶이는 3종 세트 — breath(명사)/breathe(동사)/breathing(동명사). 한국 학습자는 이 세 형태를 함께 정리하면 좋다. heavy breathing(거친 숨소리), deep breathing(심호흡).",
+  "syn": ["respiration(호흡)", "ventilation(통기)"],
+  "anti": [],
+  "idiom": ["breathing space(한숨 돌릴 여유)", "deep breathing(심호흡)"],
+  "colloc": ["heavy breathing(거친 숨소리)", "breathing difficulties(호흡 곤란)", "regular breathing(규칙적 호흡)"],
+  "ex_add": "Deep breathing exercises can help reduce stress.  (breathing=호흡)"
+ },
+ {
+  "num": "1553",
+  "hw": "bride",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "결혼식의 주인공 여성 = 신부.",
+  "senses": [
+   "1) 신부·새색시",
+   "2) (결혼하는) 여자",
+   "3) (the ~) 신부 측"
+  ],
+  "etym": "고대 영어 bryd(신부). bridal(신부의, 본래 bride-ale '신부의 잔치')·bridegroom(신랑, bride + guma '남자')이 한 가족. 게르만어 계열.",
+  "deriv": "'신부' -> 합성어 'bridegroom(신랑) / bridesmaid(신부 들러리) / bridal shower(신부 축하 파티)'. groom(신랑)과 짝. bridal(신부의)이 형용사. 한국 학습자: bride(신부)와 bridge(다리)는 철자가 비슷하나 전혀 다른 말 — 혼동 주의. blushing bride(수줍은 신부), give the bride away(신부를 인도하다).",
+  "syn": ["newlywed(갓 결혼한 사람)"],
+  "anti": ["groom(신랑)", "bridegroom(신랑)"],
+  "idiom": ["blushing bride(수줍어하는 신부)", "give the bride away(신부의 손을 넘겨주다)", "always a bridesmaid, never a bride(늘 들러리만 서는 신세)"],
+  "colloc": ["bride and groom(신랑 신부)", "beautiful bride(아름다운 신부)", "future bride(예비 신부)"],
+  "ex_add": "The bride wore a stunning white gown.  (bride=신부)"
+ },
+ {
+  "num": "1554",
+  "hw": "bubble",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "공기가 든 동그란 '거품' -> 부풀었다 꺼지는 것.",
+  "senses": [
+   "1) 거품·기포",
+   "2) (경제) 거품·버블",
+   "3) (동사) 부글거리다·끓어오르다"
+  ],
+  "etym": "중세 영어 bobel, '뽀글뽀글' 끓는 소리를 흉내 낸 의성어. 소리에서 모양·현상으로 확장된 단어. bubbly(거품이 이는·발랄한)가 파생.",
+  "deriv": "'뽀글 소리(거품)' -> 동사 '부글거리다(water bubbles)' -> 감정이 '솟구치다(bubble with joy)' -> 경제 '거품(housing bubble, 부동산 거품)'. bubbly(발랄한·샴페인)가 파생. burst someone's bubble(꿈을 깨다), bubble over(들뜨다), the bubble bursts(거품이 꺼지다). 한국 학습자: 경제 '버블'이 실제 비눗방울 비유임을 짚어 주면 좋다.",
+  "syn": ["foam(거품)", "froth(거품)", "fizz(거품이 일다)"],
+  "anti": [],
+  "idiom": ["burst someone's bubble(환상을 깨뜨리다)", "the bubble bursts(거품이 꺼지다)", "bubble over with(~로 들뜨다)"],
+  "colloc": ["soap bubble(비눗방울)", "economic bubble(경제 거품)", "bubble up(부글부글 올라오다)"],
+  "ex_add": "Sorry to burst your bubble, but that plan won't work.  (burst your bubble=꿈을 깨다)"
+ },
+ {
+  "num": "1555",
+  "hw": "bury",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "흙·무언가로 덮어 '파묻다'.",
+  "senses": [
+   "1) 파묻다·매장하다",
+   "2) (감정을) 감추다·억누르다",
+   "3) (bury oneself in) ~에 몰두하다"
+  ],
+  "etym": "고대 영어 byrgan(묻다·감추다). borough(성벽 마을)·burrow(굴)와 먼 친척으로 '가려 덮음'이 핵심. burial(매장)이 파생.",
+  "deriv": "'흙으로 덮다(묻다)' -> 시신을 '매장하다(bury the dead)' -> 감정을 '묻어 두다(bury one's feelings)' -> 'bury oneself in work(일에 파묻히다)'. burial(매장)이 명사. 한국 학습자: bury는 /ˈberi/로 '베리'처럼 발음 — 철자와 발음이 어긋남. bury the hatchet(화해하다), bury one's head in the sand(현실을 외면하다).",
+  "syn": ["inter(매장하다)", "conceal(감추다)", "cover(덮다)"],
+  "anti": ["dig up(파내다)", "unearth(발굴하다)", "reveal(드러내다)"],
+  "idiom": ["bury the hatchet(화해하다)", "bury one's head in the sand(현실을 외면하다)", "bury oneself in(~에 몰두하다)"],
+  "colloc": ["bury treasure(보물을 묻다)", "be buried in(~에 파묻히다)", "buried deep(깊이 묻힌)"],
+  "ex_add": "He buried himself in his books to forget his worries.  (bury oneself in=~에 몰두하다)"
+ },
+ {
+  "num": "1556",
+  "hw": "by",
+  "pos": "prep., adv.",
+  "cefr": "B1",
+  "core": "'옆에·곁에' -> 수단·행위자·기한 등으로 넓게 쓰이는 전치사.",
+  "senses": [
+   "1) ~에 의해·~로(수단·행위자)",
+   "2) ~까지(는)(기한)",
+   "3) ~ 옆에·곁에 / (부사) 지나가서"
+  ],
+  "etym": "고대 영어 bi(곁에·가까이). beside·by-product(부산물)·bystander(구경꾼)의 by-가 모두 같은 뿌리. '곁에'라는 원뜻에서 여러 추상 용법이 갈라짐.",
+  "deriv": "'곁에(stand by)' -> 수단 '~로(by bus, 버스로)' -> 수동태 행위자 '~에 의해(written by, ~가 쓴)' -> 기한 '~까지(by Friday)' -> 차이 '~만큼(taller by 5cm)'. 한국 학습자 최다 혼동: by(기한, ~까지 완료)와 until(계속, ~까지 죽). 또 by bus(무관사 교통수단). by the way(그런데), by far(단연), by oneself(혼자서), little by little(조금씩).",
+  "syn": ["via(~을 경유하여)", "through(~을 통해)", "beside(~옆에)"],
+  "anti": [],
+  "idiom": ["by the way(그런데)", "by far(단연코)", "by oneself(혼자서)", "by and large(대체로)", "little by little(조금씩)"],
+  "colloc": ["by car(차로)", "by mistake(실수로)", "by Friday(금요일까지)"],
+  "ex_add": "Please submit the report by Friday.  (by=~까지, 완료 기한)"
+ },
+ {
+  "num": "1557",
+  "hw": "cable",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "굵은 '밧줄'에서 굵은 '전선'·케이블 방송으로.",
+  "senses": [
+   "1) (전기·통신) 케이블·전선",
+   "2) 굵은 밧줄·강삭",
+   "3) 케이블 TV / (옛) 해외 전보"
+  ],
+  "etym": "후기 라틴어 capulum(올가미·밧줄) < capere(붙잡다). capture(붙잡다)·capable(능력 있는)·captive(포로)가 같은 capere(잡다) 뿌리. '꽉 붙잡는 줄'이 핵심.",
+  "deriv": "'굵은 밧줄' -> 전기·통신 '케이블(power cable)' -> 'cable car(케이블카) / cable TV(케이블 방송)' -> 옛날 바다 밑 케이블로 보내던 '해외 전보(cable)'. capere(잡다) 뿌리로 capture·capable과 묶인다. 한국 학습자: 일상의 '케이블'이 본래 '밧줄'임을 알면 cable car(밧줄로 끄는 차)가 이해된다.",
+  "syn": ["wire(전선)", "rope(밧줄)", "cord(줄)"],
+  "anti": [],
+  "idiom": ["cable car(케이블카)", "cable TV(케이블 방송)"],
+  "colloc": ["power cable(전력선)", "cable connection(케이블 연결)", "fiber-optic cable(광케이블)"],
+  "ex_add": "The TV won't work unless you connect the cable.  (cable=케이블·전선)"
+ },
+ {
+  "num": "1558",
+  "hw": "calm",
+  "pos": "adj., v., n.",
+  "cefr": "B1",
+  "core": "바람·동요 없이 '잔잔한·차분한' -> 진정시키다.",
+  "senses": [
+   "1) (형) 차분한·침착한",
+   "2) (형) (날씨·바다가) 잔잔한",
+   "3) (동사) 진정시키다 / (n.) 고요"
+  ],
+  "etym": "이탈리아어 calma < 후기 라틴어 cauma(한낮의 열기) < 그리스어 kauma(더위). 무더운 한낮에 바람이 멎고 모두 쉬던 '고요'에서 '잔잔함'으로. 의외로 '더위'가 어원.",
+  "deriv": "'한낮의 고요(무풍)' -> 날씨 '잔잔한(calm sea)' -> 사람 '침착한(stay calm)' -> 동사 '진정시키다(calm down)'. calmly(침착하게)·calmness(평온)가 파생. keep calm(침착함을 유지하다), calm down(진정하다), the calm before the storm(폭풍 전의 고요). 한국 학습자: calm의 l은 묵음 /kɑːm/.",
+  "syn": ["peaceful(평온한)", "composed(침착한)", "tranquil(고요한)"],
+  "anti": ["agitated(동요된)", "nervous(불안한)", "stormy(사나운)"],
+  "idiom": ["calm down(진정하다)", "keep calm(침착함을 유지하다)", "the calm before the storm(폭풍 전의 고요)"],
+  "colloc": ["stay calm(침착함을 유지하다)", "calm voice(차분한 목소리)", "remain calm(침착함을 잃지 않다)"],
+  "ex_add": "Please stay calm and follow the exit signs.  (calm=침착한)"
+ },
+ {
+  "num": "1559",
+  "hw": "campaign",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "목표를 향한 조직적 '작전·운동' (본래 들판에서의 전투).",
+  "senses": [
+   "1) (사회·정치) 운동·캠페인",
+   "2) (군사) 작전·전역",
+   "3) (동사) 운동을 벌이다·유세하다"
+  ],
+  "etym": "프랑스어 campagne < 후기 라틴어 campania < 라틴어 campus(들판). 옛 군대가 봄이면 '들판으로 나가 벌이던 전투(전역)'에서. camp(야영지)·champion(투사)·campus(교정)가 같은 campus(들) 뿌리.",
+  "deriv": "'들판의 전투(전역)' -> 군사 작전 -> 조직적 '캠페인(advertising campaign / election campaign)' -> 동사 '운동을 벌이다(campaign for human rights)'. campus(들) 뿌리로 camp·champion과 묶인다. launch a campaign(캠페인을 시작하다), campaign for/against(~을 위해/반대해 운동하다). campaigner(운동가)가 파생.",
+  "syn": ["movement(운동)", "drive(캠페인)", "crusade(개혁 운동)"],
+  "anti": [],
+  "idiom": ["campaign for/against(~을 지지/반대하는 운동을 하다)", "launch a campaign(캠페인을 펼치다)", "on the campaign trail(선거 유세 중인)"],
+  "colloc": ["advertising campaign(광고 캠페인)", "election campaign(선거 운동)", "campaign trail(유세 여정)"],
+  "ex_add": "They launched a campaign to clean up the city's beaches.  (campaign=캠페인·운동)"
+ },
+ {
+  "num": "1560",
+  "hw": "candidate",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "어떤 자리를 노리는 '후보·지원자' (흰옷 입던 데서).",
+  "senses": [
+   "1) (선거·자리의) 후보자",
+   "2) 지원자·응시자",
+   "3) (~이 될) 가능성 있는 대상"
+  ],
+  "etym": "라틴어 candidatus(흰옷 입은 사람) < candidus(흰·빛나는) < candere(빛나다). 고대 로마에서 공직 지망자가 결백함을 보이려 '흰 토가'를 입은 데서. candle(양초)·candid(솔직한)·incandescent(백열의)가 같은 candere(빛나다) 뿌리.",
+  "deriv": "'흰옷 입은 지망자' -> '후보자(presidential candidate)' -> '응시자(a strong candidate for the job)' -> '~이 될 만한 대상(a candidate for promotion)'. candere(빛나다) 뿌리로 candle·candid와 묶인다. 한국 학습자: candidate가 '흰색·결백'에서 왔고 candid(솔직한)와 한 뿌리임을 알면 의미가 또렷해진다. run as a candidate(후보로 출마하다).",
+  "syn": ["applicant(지원자)", "nominee(지명자)", "contender(경쟁자)"],
+  "anti": ["incumbent(현직자)"],
+  "idiom": ["a strong candidate(유력 후보)", "presidential candidate(대통령 후보)", "candidate for(~의 후보)"],
+  "colloc": ["leading candidate(선두 후보)", "ideal candidate(이상적 지원자)", "candidate for the job(그 일의 적임자)"],
+  "ex_add": "She is the leading candidate for the manager position.  (candidate=후보자·지원자)"
+ },
+ {
+  "num": "1561",
+  "hw": "cap",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "머리에 쓰는 '챙 모자' -> 뚜껑 -> 상한선을 씌우다.",
+  "senses": [
+   "1) (챙 달린) 모자",
+   "2) 뚜껑·마개",
+   "3) (동사) 상한을 정하다·덮다 / 한도"
+  ],
+  "etym": "후기 라틴어 cappa(두건·망토). cape(망토)·chapel(예배당, 본래 성 마르탱의 '망토')·escape(탈출, '망토를 벗어 던지고 달아남')가 같은 cappa 뿌리.",
+  "deriv": "'머리 덮개(두건)' -> '모자(baseball cap)' -> 병의 '뚜껑(bottle cap)' -> 동사 '덮다·상한을 두다(cap spending, 지출을 제한하다)' -> 명사 '한도(a salary cap, 연봉 상한)'. cappa(덮개) 뿌리로 cape·escape와 묶인다. cap it all(설상가상으로), to cap it off(마무리로). 한국 학습자: hat(챙이 빙 둘린 모자)와 cap(앞 챙만 있는 모자) 구별.",
+  "syn": ["hat(모자)", "lid(뚜껑)", "limit(상한)"],
+  "anti": ["uncap(뚜껑을 열다)"],
+  "idiom": ["cap it all(설상가상으로)", "to cap it off(끝으로)", "if the cap fits, wear it(찔리면 네 얘기다)"],
+  "colloc": ["baseball cap(야구 모자)", "bottle cap(병뚜껑)", "spending cap(지출 한도)"],
+  "ex_add": "The government plans to cap rent increases at 5%.  (cap=상한을 정하다)"
+ },
+ {
+  "num": "1562",
+  "hw": "captain",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "무리의 '우두머리(머리)' = 선장·기장·주장·대위.",
+  "senses": [
+   "1) (배의) 선장 / (비행기) 기장",
+   "2) (팀의) 주장",
+   "3) (군) 대위·해군 대령 / (동사) 이끌다"
+  ],
+  "etym": "후기 라틴어 capitaneus(우두머리) < caput(머리). chapter(장)·chief(우두머리)·capital(수도)·decapitate(목을 베다)가 같은 caput(머리) 뿌리.",
+  "deriv": "'머리(우두머리)' -> 배의 '선장' -> 팀의 '주장(team captain)' -> 군대의 '대위' -> 동사 '이끌다(captain the team)'. caput(머리) 뿌리로 chapter·capital·chief와 묶인다. 한국 학습자: captain은 분야마다 계급이 달라(육군 대위 vs 해군 대령) 문맥이 중요. captain of industry(거물 실업가). 같은 caput 가족 chapter(1572)와 묶어 기억.",
+  "syn": ["commander(지휘관)", "leader(지도자)", "skipper(선장·주장)"],
+  "anti": ["crew(승무원)", "subordinate(부하)"],
+  "idiom": ["captain of industry(업계 거물)", "captain of the team(팀 주장)"],
+  "colloc": ["ship's captain(선장)", "team captain(팀 주장)", "captain the side(팀을 이끌다)"],
+  "ex_add": "The captain announced that we would land in twenty minutes.  (captain=기장)"
+ },
+ {
+  "num": "1563",
+  "hw": "careless",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "주의(care)가 '없어' 덤벙대는·부주의한.",
+  "senses": [
+   "1) 부주의한·조심성 없는",
+   "2) 무심한·대수롭지 않게 여기는",
+   "3) (걱정 없이) 무사태평한(문어)"
+  ],
+  "etym": "care(주의·돌봄, 고대 영어 caru 근심) + -less(~이 없는). careful(주의 깊은)의 반대. '돌봄·주의가 빠진'이 핵심. -less는 fearless·hopeless의 그 접미사.",
+  "deriv": "care(주의) + -less(없는) -> 'careless(부주의한)'. '실수가 잦은(a careless mistake, 부주의한 실수)' -> '무심한(careless of others' feelings)'. careful(주의 깊은)이 반의, carelessly(부주의하게)·carelessness(부주의)가 파생. 한국 학습자: -less(없는)와 -ful(가득한)의 대비로 careful/careless를 짝지어 기억. careless with(~을 함부로 다루는).",
+  "syn": ["reckless(무모한)", "negligent(태만한)", "thoughtless(생각 없는)"],
+  "anti": ["careful(조심스러운)", "cautious(신중한)", "attentive(주의 깊은)"],
+  "idiom": ["a careless mistake(부주의한 실수)", "careless talk(경솔한 말)"],
+  "colloc": ["careless mistake(부주의한 실수)", "careless driving(부주의 운전)", "careless with money(돈을 함부로 쓰는)"],
+  "ex_add": "A careless mistake cost him the whole game.  (careless=부주의한)"
+ },
+ {
+  "num": "1564",
+  "hw": "category",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "성질이 같은 것끼리 묶은 '갈래·범주'.",
+  "senses": [
+   "1) 범주·부류",
+   "2) (분류상의) 부문·등급",
+   "3) 종류·카테고리"
+  ],
+  "etym": "그리스어 kategoria(진술·분류) < kata(아래로·완전히) + agoreuein(공개적으로 말하다, < agora 광장). 본래 '공언·규정'에서 아리스토텔레스가 '범주'로 씀. category(범주)·categorical(단정적인)이 한 가족.",
+  "deriv": "'규정·분류' -> '범주·부류(fall into a category, 한 범주에 들다)' -> '부문(award categories, 시상 부문)'. categorize(분류하다)·categorical(범주의·단정적인)이 파생. 복수형은 categories. 한국 학습자: '카테고리'라는 외래어로 익숙하나, 학술에선 '범주'로 옮긴다. in a category of its own(독보적인).",
+  "syn": ["class(부류)", "type(유형)", "classification(분류)"],
+  "anti": [],
+  "idiom": ["fall into a category(~범주에 속하다)", "in a category of one's own(독보적인)"],
+  "colloc": ["different category(다른 범주)", "age category(연령 부문)", "broad category(넓은 범주)"],
+  "ex_add": "The books are arranged into several categories.  (category=범주)"
+ },
+ {
+  "num": "1565",
+  "hw": "ceiling",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "방의 '천장' -> 더 못 올라가는 상한선.",
+  "senses": [
+   "1) 천장",
+   "2) (가격·임금의) 상한선",
+   "3) (항공) 상승 한도·운고"
+  ],
+  "etym": "중세 영어 celing(안쪽 벽널 대기). 라틴어 caelum(하늘) 또는 celare(가리다)와 연관 짓는 설이 있으나 확정적이지 않음. '방의 윗덮개'가 핵심.",
+  "deriv": "'방의 윗면(천장)' -> 비유로 '상한선(a price ceiling, 가격 상한)' -> 항공 '상승 한도'. floor(바닥·하한)와 짝. glass ceiling(유리 천장: 여성·소수자의 보이지 않는 승진 한계)이 중요한 사회 용어 — 한국 학습자 시사 표현으로 익혀 둘 것. hit the ceiling(노발대발하다), debt ceiling(부채 한도).",
+  "syn": ["roof(지붕 안쪽)", "cap(상한)", "limit(한도)"],
+  "anti": ["floor(바닥·하한선)"],
+  "idiom": ["glass ceiling(유리 천장)", "hit the ceiling(버럭 화내다)", "go through the ceiling(가격이 치솟다)"],
+  "colloc": ["high ceiling(높은 천장)", "price ceiling(가격 상한)", "debt ceiling(부채 한도)"],
+  "ex_add": "She finally broke through the glass ceiling to become CEO.  (glass ceiling=보이지 않는 승진 장벽)"
+ },
+ {
+  "num": "1566",
+  "hw": "celebration",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "기쁜 일을 다 같이 '떠들썩하게 기림' = 축하·기념 행사.",
+  "senses": [
+   "1) 축하·기념 행사",
+   "2) 축전·잔치",
+   "3) (in celebration of) ~을 기념하여"
+  ],
+  "etym": "라틴어 celebratio < celebrare(많이 모여 기리다) < celeber(붐비는·유명한). '많은 사람이 모여 기림'이 핵심. celebrity(유명인, '많이 회자되는 사람')·celebrate(축하하다)가 한 뿌리.",
+  "deriv": "celebrate(축하하다) -> 명사 'celebration(축하 행사)'. celeber(붐비는) 뿌리로 celebrity(유명인)·celebrated(유명한)와 묶인다. in celebration of(~을 기념하여), cause for celebration(축하할 일). 한국 학습자: celebration(축하)과 celebrity(유명 인사)가 '많은 사람이 모임'이라는 한 뿌리임을 알면 함께 외워진다.",
+  "syn": ["festivity(축제)", "commemoration(기념)", "party(잔치)"],
+  "anti": ["mourning(애도)", "funeral(장례)"],
+  "idiom": ["in celebration of(~을 기념하여)", "cause for celebration(축하할 만한 일)", "celebration of life(고인을 기리는 추모식)"],
+  "colloc": ["birthday celebration(생일 축하)", "victory celebration(승리 자축)", "hold a celebration(축하 행사를 열다)"],
+  "ex_add": "There was a big celebration to mark the company's 50th year.  (celebration=축하 행사)"
+ },
+ {
+  "num": "1567",
+  "hw": "center",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "원의 '한가운데' -> 활동이 집중되는 곳 / 중심에 두다.",
+  "senses": [
+   "1) 중심·한가운데",
+   "2) (활동의) 중심지·시설·센터",
+   "3) (동사) 중심에 두다·집중시키다"
+  ],
+  "etym": "그리스어 kentron(원의 중심점·뾰족한 침) < kentein(찌르다). 컴퍼스의 '바늘이 찍히는 점'에서 '중심'으로. central(중심의)·concentrate(집중하다)·eccentric(괴짜의, '중심을 벗어난')가 한 뿌리.",
+  "deriv": "'원의 한가운데' -> 활동의 '중심지(shopping center)' -> 동사 'center on/around(~에 집중하다)'. kentron(중심) 뿌리로 central·concentrate·eccentric과 묶인다. 영국식 철자는 centre. center of attention(이목의 중심), be centered on(~에 초점을 두다). 한국 학습자: 미국식 center / 영국식 centre 철자 차이 주의.",
+  "syn": ["middle(중앙)", "core(핵심)", "hub(중심지)"],
+  "anti": ["edge(가장자리)", "periphery(주변부)", "margin(여백)"],
+  "idiom": ["center of attention(관심의 초점)", "center on/around(~을 중심으로 하다)", "front and center(맨 앞 한가운데)"],
+  "colloc": ["city center(도심)", "shopping center(쇼핑센터)", "center of the room(방 한가운데)"],
+  "ex_add": "The discussion centered on climate change.  (center on=~에 초점을 맞추다)"
+ },
+ {
+  "num": "1568",
+  "hw": "central",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "한가운데에 있는 / 가장 '핵심적인'.",
+  "senses": [
+   "1) 중심의·중앙의",
+   "2) 가장 중요한·핵심적인",
+   "3) (위치가) 편리한·접근성 좋은"
+  ],
+  "etym": "center(중심, 그리스어 kentron) + -al(~의). '중심에 속한'. kentron(중심) 뿌리로 center·concentrate·eccentric과 묶인다.",
+  "deriv": "center(중심) -> 형용사 'central'. 위치 '중앙의(central London)' -> 중요도 '핵심적인(a central role, 중심적 역할)' -> '접근성 좋은(very central, 위치가 편리한)'. centrally(중심에)·centralize(중앙집권화하다)가 파생. central heating(중앙난방), central bank(중앙은행), central nervous system(중추신경계). 한국 학습자: '중앙의'와 '핵심적인'이 한 단어.",
+  "syn": ["key(핵심의)", "main(주요한)", "principal(주된)"],
+  "anti": ["peripheral(주변적인)", "minor(사소한)", "marginal(미미한)"],
+  "idiom": ["central to(~에 필수적인)", "play a central role(중심 역할을 하다)"],
+  "colloc": ["central role(핵심 역할)", "central government(중앙 정부)", "central location(중심부 위치)"],
+  "ex_add": "Trust is central to any good relationship.  (central to=~에 핵심적인)"
+ },
+ {
+  "num": "1569",
+  "hw": "ceremony",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "격식을 갖춰 치르는 '의식·예식'.",
+  "senses": [
+   "1) (격식 있는) 의식·식전",
+   "2) 예식·전례",
+   "3) 격식·의례(절차)"
+  ],
+  "etym": "라틴어 caerimonia(신성한 의식·경외). 종교적 '엄숙한 절차'에서. ceremonial(의식의)·ceremonious(격식 차린)가 파생. 어원이 다소 불확실하나 '신성한 격식'이 핵심.",
+  "deriv": "'신성한 의식' -> '예식(wedding ceremony, 결혼식 / graduation ceremony, 졸업식)' -> 추상 '격식(without ceremony, 격식 없이)'. ceremonial(의식용의)·ceremonious(지나치게 격식 차린)가 파생. stand on ceremony(격식을 차리다), opening ceremony(개회식). 한국 학습자: ceremony(격식 있는 식)와 party(흥겨운 모임)의 격 차이.",
+  "syn": ["rite(의례)", "ritual(의식)", "service(예식)"],
+  "anti": ["informality(격식 없음)"],
+  "idiom": ["stand on ceremony(격식을 차리다)", "without ceremony(격식 없이·무뚝뚝하게)", "opening ceremony(개회식)"],
+  "colloc": ["wedding ceremony(결혼식)", "award ceremony(시상식)", "closing ceremony(폐회식)"],
+  "ex_add": "The award ceremony will be held in the main hall.  (ceremony=의식·식전)"
+ },
+ {
+  "num": "1570",
+  "hw": "champion",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "들판에서 이긴 '투사' = 우승자 -> (대의를) 옹호하다.",
+  "senses": [
+   "1) 우승자·챔피언",
+   "2) (대의의) 옹호자·투사",
+   "3) (동사) (주의·약자를) 옹호하다·지지하다"
+  ],
+  "etym": "후기 라틴어 campio(검투사·들판의 투사) < campus(들판). campaign(전역·운동)·camp(야영지)·campus(교정)와 같은 campus(들) 뿌리. '싸움터의 전사'가 핵심.",
+  "deriv": "'들판의 투사' -> 이긴 자 '우승자(world champion)' -> 약자를 대신해 싸우는 '옹호자' -> 동사 '옹호하다(champion a cause, 대의를 옹호하다)'. campus(들) 뿌리로 campaign·camp와 묶인다(1559 campaign과 한 가족). championship(선수권), defending champion(전 챔피언). 한국 학습자: '챔피언'이 '들판의 전사'에서, campaign과 형제어임을 짚으면 좋다.",
+  "syn": ["winner(우승자)", "advocate(옹호자)", "defender(수호자)"],
+  "anti": ["loser(패자)", "opponent(반대자)", "critic(비판자)"],
+  "idiom": ["champion a cause(대의를 옹호하다)", "defending champion(타이틀 방어 챔피언)", "champion of the people(민중의 투사)"],
+  "colloc": ["world champion(세계 챔피언)", "reigning champion(현 챔피언)", "champion the rights of(~의 권리를 옹호하다)"],
+  "ex_add": "She has long championed the rights of refugees.  (champion=옹호하다)"
+ },
+ {
+  "num": "1571",
+  "hw": "channel",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "물·정보가 흐르는 '물길·통로' -> 방송 채널 -> 한곳으로 돌리다.",
+  "senses": [
+   "1) (TV·라디오) 채널·방송망",
+   "2) 수로·해협 / 경로·통로",
+   "3) (동사) (자원·감정을) ~로 돌리다·쏟다"
+  ],
+  "etym": "고대 프랑스어 chanel < 라틴어 canalis(관·도랑) < canna(갈대·관). canal(운하)·cannon(대포, 관 모양)과 같은 canna(관) 뿌리. '물이 지나는 관'이 핵심.",
+  "deriv": "'물길(수로)' -> 정보가 흐르는 '경로(channels of communication)' -> 전파의 '방송 채널(change the channel)' -> 동사 '~로 돌리다(channel one's energy into, 에너지를 ~에 쏟다)'. canalis(관) 뿌리로 canal과 묶인다. the (English) Channel(영국 해협), through official channels(정식 경로로). 한국 학습자: '채널'과 '해협·수로'가 같은 '물길' 어원.",
+  "syn": ["passage(통로)", "route(경로)", "duct(관)"],
+  "anti": [],
+  "idiom": ["through the proper channels(정식 절차를 거쳐)", "channel into(~로 쏟다)", "the English Channel(영국 해협)"],
+  "colloc": ["TV channel(텔레비전 채널)", "communication channel(소통 경로)", "channel resources(자원을 돌리다)"],
+  "ex_add": "He channeled all his energy into his studies.  (channel into=~에 쏟다)"
+ },
+ {
+  "num": "1572",
+  "hw": "chapter",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "책을 나눈 '장(章)' -> 인생·역사의 한 시기.",
+  "senses": [
+   "1) (책의) 장",
+   "2) (인생·역사의) 한 시기·장면",
+   "3) (단체의) 지부"
+  ],
+  "etym": "라틴어 capitulum(작은 머리·소제목) < caput(머리). 책 각 단락에 붙이던 '작은 제목(머리)'에서 '장'으로. captain(우두머리)·capital(수도)·chief(우두머리)가 같은 caput(머리) 뿌리.",
+  "deriv": "'작은 머리(소제목)' -> 책의 '장(Chapter 1)' -> 비유 '인생의 한 장(a new chapter in her life)' -> 단체의 '지부(the local chapter)'. caput(머리) 뿌리로 captain(1562)·capital과 묶인다. a chapter of accidents(잇따른 사고), close the chapter on(~을 매듭짓다). 한국 학습자: chapter가 '머리(제목)'에서 와 captain과 형제어임을 짚으면 좋다.",
+  "syn": ["section(절)", "part(부)", "phase(국면)"],
+  "anti": [],
+  "idiom": ["a new chapter(새로운 장)", "close the chapter on(~을 마무리하다)", "chapter and verse(상세히·낱낱이)"],
+  "colloc": ["opening chapter(첫 장)", "final chapter(마지막 장)", "a new chapter in life(인생의 새 장)"],
+  "ex_add": "Getting married opened a new chapter in her life.  (chapter=한 시기·장)"
+ },
+ {
+  "num": "1573",
+  "hw": "charge",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "짐을 '실어 지우다' -> 요금·책임·고발·충전·돌격으로 갈래.",
+  "senses": [
+   "1) 요금·값을 청구하다 / 요금",
+   "2) (책임을) 맡기다·고발하다 / 혐의·책임",
+   "3) 충전하다 / 돌격하다·돌격"
+  ],
+  "etym": "고대 프랑스어 chargier < 후기 라틴어 carricare(짐을 싣다) < carrus(수레). '수레에 짐을 실어 지움'이 핵심. car(차)·cargo(화물)·carry(나르다)·career가 같은 carrus(수레) 뿌리.",
+  "deriv": "'짐을 지움' -> 비용을 지우는 '청구하다(charge $10)' -> 책임을 지우는 '맡기다(in charge of, ~을 맡은)'와 '고발하다(charge with a crime)' -> 전기를 채우는 '충전(charge a phone)' -> 적진에 '돌격(charge!)'. carrus(수레) 뿌리로 car·cargo·carry와 묶인다. take charge(책임을 맡다), free of charge(무료로). 한국 학습자: charge의 다섯 갈래(요금/책임/고발/충전/돌격)가 모두 '지우다·싣다'에서 나옴.",
+  "syn": ["fee(요금)", "accuse(고발하다)", "load(싣다)"],
+  "anti": ["discharge(방출하다)", "free(무료의)", "acquit(무죄로 하다)"],
+  "idiom": ["in charge of(~을 책임진)", "free of charge(무료로)", "take charge(주도하다)", "press charges(고소하다)"],
+  "colloc": ["extra charge(추가 요금)", "charge a fee(요금을 부과하다)", "charge the battery(배터리를 충전하다)"],
+  "ex_add": "Who is in charge of the project?  (in charge of=~을 책임지는)"
+ },
+ {
+  "num": "1574",
+  "hw": "cheap",
+  "pos": "adj., adv.",
+  "cefr": "B1",
+  "core": "값이 '싼' -> 싸구려의·인색한.",
+  "senses": [
+   "1) 값싼·저렴한",
+   "2) 싸구려의·질 낮은",
+   "3) 인색한 / 비열한(a cheap trick)"
+  ],
+  "etym": "고대 영어 ceap(거래·값). 본래 '흥정·시장'을 뜻하다 'good cheap(좋은 값에)'이라는 표현에서 형용사 '싼'으로. chapman(행상인)·Cheapside(런던 시장 거리)가 한 뿌리.",
+  "deriv": "'값(흥정)' -> '값싼(a cheap ticket)' -> '싸구려의(cheap quality)' -> '인색한(He's so cheap)' / '비열한(a cheap shot, 치사한 공격)'. cheaply(싸게)·cheapen(값을 떨어뜨리다)이 파생. 한국 학습자: cheap은 '저렴'과 '싸구려·치사'라는 부정 뉘앙스를 함께 지녀, 칭찬엔 inexpensive가 무난. dirt cheap(아주 싼), cheap at the price(값이 헐한).",
+  "syn": ["inexpensive(비싸지 않은)", "low-priced(저가의)", "stingy(인색한)"],
+  "anti": ["expensive(비싼)", "costly(값비싼)", "generous(후한)"],
+  "idiom": ["dirt cheap(아주 싼)", "cheap shot(비겁한 공격)", "on the cheap(싸게)", "cheap at the price(그 값이면 싼)"],
+  "colloc": ["cheap flight(저가 항공)", "cheap labor(값싼 노동력)", "cheap and cheerful(싸고 쓸 만한)"],
+  "ex_add": "Vegetables are cheap at this time of year.  (cheap=값싼)"
+ },
+ {
+  "num": "1575",
+  "hw": "cheat",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "속임수로 '부정하게' 이득을 취하다 -> 사기꾼.",
+  "senses": [
+   "1) 부정행위를 하다·커닝하다",
+   "2) 속이다·사기 치다",
+   "3) (cheat on) 바람피우다 / (n.) 사기꾼·속임수"
+  ],
+  "etym": "중세 영어 escheat(영주에게 귀속되는 몰수 재산)의 축약. 몰수 과정의 '부정·속임수'에서 '속이다'로 의미가 변함. '부당하게 가로챔'이 핵심.",
+  "deriv": "'재산 몰수(부정 취득)' -> '속이다(cheat customers)' -> 시험 '부정행위(cheat in an exam)' -> 'cheat on(시험에서 부정행위/배우자를 두고 바람피우다)' -> 명사 '사기꾼·치트키(game cheat)'. cheating(부정행위)이 명사. 한국 학습자: cheat on a test(시험 부정)와 cheat on a partner(바람피우다)가 같은 동사 — 문맥으로 구별. feel cheated(속은 기분이다), cheat death(죽을 고비를 넘기다).",
+  "syn": ["deceive(속이다)", "swindle(사취하다)", "trick(속이다)"],
+  "anti": ["play fair(정정당당히 하다)", "be honest(정직하다)"],
+  "idiom": ["cheat on(부정행위를 하다·바람피우다)", "cheat death(가까스로 죽음을 면하다)", "feel cheated(속았다고 느끼다)"],
+  "colloc": ["cheat in an exam(시험에서 부정행위를 하다)", "cheat someone out of(~을 속여 빼앗다)", "cheating scandal(부정행위 스캔들)"],
+  "ex_add": "He was caught cheating in the final exam.  (cheat=부정행위를 하다)"
+ },
+ {
+  "num": "1576",
+  "hw": "cheerful",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "기운이 '환하게 차서' 명랑한·밝은.",
+  "senses": [
+   "1) 명랑한·쾌활한",
+   "2) (장소·색이) 밝고 기분 좋은",
+   "3) 기꺼이 하는·선뜻 나서는"
+  ],
+  "etym": "cheer(환호·기운, 고대 프랑스어 chiere '얼굴') + -ful(가득한). 본래 '얼굴(표정)'에서 '기분·환호'로 발전. '밝은 표정이 가득한'이 핵심.",
+  "deriv": "cheer(기운) + -ful(가득) -> 'cheerful(명랑한)'. 사람 '쾌활한(a cheerful smile)' -> 장소·색 '밝은(a cheerful room)' -> '기꺼이 하는(cheerful cooperation)'. cheer(응원하다)·cheers(건배)·cheerleader(치어리더)가 한 가족. cheerfully(명랑하게)·cheerfulness(쾌활)가 파생. 한국 학습자: -ful(가득)이 cheer에 붙어 '기운이 가득한'.",
+  "syn": ["merry(명랑한)", "jolly(유쾌한)", "upbeat(밝은)"],
+  "anti": ["gloomy(우울한)", "miserable(비참한)", "glum(시무룩한)"],
+  "idiom": ["bright and cheerful(밝고 명랑한)", "a cheerful disposition(쾌활한 성격)"],
+  "colloc": ["cheerful mood(밝은 기분)", "cheerful smile(환한 미소)", "remain cheerful(쾌활함을 유지하다)"],
+  "ex_add": "Despite the bad news, she stayed cheerful.  (cheerful=명랑한)"
+ },
+ {
+  "num": "1577",
+  "hw": "chemical",
+  "pos": "adj., n.",
+  "cefr": "B1",
+  "core": "물질의 성질·반응에 관한 '화학의' -> 화학 물질.",
+  "senses": [
+   "1) (형) 화학의·화학적인",
+   "2) (n.) 화학 물질·약품",
+   "3) (감정 등의) 화학 작용 같은"
+  ],
+  "etym": "alchemy(연금술) < 아랍어 al-kimiya < 그리스어 khemia. al-(아랍어 정관사)을 떼고 chem-이 남아 chemistry(화학)·chemist(화학자)가 됨. alcohol·algebra처럼 al-로 시작했던 말.",
+  "deriv": "alchemy(연금술) -> chemistry(화학) -> 형용사 'chemical(화학의)' -> 명사 'chemical(화학 물질)'. chemist(화학자·약사)·chemistry(화학·궁합)가 한 가족. chemical reaction(화학 반응), chemical weapon(화학 무기). 한국 학습자: chemistry는 '화학'이자 사람 사이의 '궁합·끌림'을 뜻하기도. al-(아랍어) 차용어 무리(alcohol 1494)와 연결.",
+  "syn": ["substance(물질)", "compound(화합물)"],
+  "anti": ["natural(천연의)", "physical(물리적인)"],
+  "idiom": ["chemical reaction(화학 반응)", "chemical-free(화학 물질이 없는)"],
+  "colloc": ["chemical reaction(화학 반응)", "toxic chemical(유독 화학 물질)", "chemical formula(화학식)"],
+  "ex_add": "These cleaning products contain harsh chemicals.  (chemical=화학 물질)"
+ },
+ {
+  "num": "1578",
+  "hw": "chest",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "물건을 담는 '궤(상자)' -> 그 모양을 닮은 '가슴(흉부)'.",
+  "senses": [
+   "1) 가슴·흉부",
+   "2) (튼튼한) 궤·상자",
+   "3) (chest of drawers) 서랍장"
+  ],
+  "etym": "고대 영어 cest < 라틴어 cista < 그리스어 kiste(상자·바구니). 본래 '상자'를 뜻하다, 갈비뼈가 장기를 담은 '궤짝' 같다 하여 '가슴'으로 확장. cistern(물탱크)과 한 뿌리.",
+  "deriv": "'상자(궤)' -> 갈비뼈가 감싼 '가슴(chest pain, 가슴 통증)' -> 가구 'chest of drawers(서랍장) / treasure chest(보물 상자)'. 한국 학습자: chest가 '상자'와 '가슴' 두 뜻임을 '궤짝 같은 흉곽'으로 이으면 자연스럽다. get something off one's chest(속에 담아 둔 말을 털어놓다), chest pain(흉통), beat one's chest(자책·과시하다).",
+  "syn": ["breast(가슴)", "thorax(흉부)", "box(상자)"],
+  "anti": ["back(등)"],
+  "idiom": ["get something off your chest(속마음을 털어놓다)", "play it close to one's chest(속내를 감추다)", "treasure chest(보물 상자)"],
+  "colloc": ["chest pain(가슴 통증)", "broad chest(넓은 가슴)", "chest of drawers(서랍장)"],
+  "ex_add": "You'll feel better if you get it off your chest.  (get it off your chest=속마음을 털어놓다)"
+ },
+ {
+  "num": "1579",
+  "hw": "childhood",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "어린아이로 지내는 시기 = 어린 시절.",
+  "senses": [
+   "1) 어린 시절·유년기",
+   "2) (사물의) 초기 단계",
+   "3) 아동기"
+  ],
+  "etym": "child(아이, 고대 영어 cild) + -hood(상태·시기를 뜻하는 접미사). neighborhood(이웃)·childhood·adulthood(성인기)의 -hood. '아이인 상태(시기)'가 핵심.",
+  "deriv": "child(아이) + -hood(시기) -> 'childhood(유년기)'. 인생 단계: childhood(유년기) -> adolescence(청소년기) -> adulthood(성년기). -hood는 '~의 상태·시기'(brotherhood 형제애, motherhood 모성). early childhood(유아기), childhood memory(어린 시절 기억), second childhood(노망). 한국 학습자: -hood로 인생 단계 어휘(adulthood, parenthood)를 묶어 익히면 좋다.",
+  "syn": ["youth(어린 시절)", "infancy(유아기)", "early years(초년)"],
+  "anti": ["adulthood(성인기)", "old age(노년)"],
+  "idiom": ["second childhood(노망·동심으로의 회귀)", "childhood sweetheart(소꿉 첫사랑)"],
+  "colloc": ["happy childhood(행복한 유년기)", "early childhood(유아기)", "childhood memories(어린 시절 추억)"],
+  "ex_add": "She had a happy childhood in the countryside.  (childhood=어린 시절)"
+ },
+ {
+  "num": "1580",
+  "hw": "claim",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "당연한 권리라고 '소리쳐' 주장·요구하다.",
+  "senses": [
+   "1) 주장하다·~라고 단언하다",
+   "2) (권리·소유를) 요구하다·청구하다",
+   "3) (목숨을) 앗아 가다 / (n.) 주장·청구"
+  ],
+  "etym": "고대 프랑스어 clamer < 라틴어 clamare(소리치다·외치다). exclaim(외치다)·proclaim(선언하다)·acclaim(갈채하다)·clamor(아우성)가 같은 clamare(외치다) 뿌리.",
+  "deriv": "'소리쳐 주장하다' -> 사실을 '주장하다(claim that ~)' -> 권리를 '요구·청구하다(claim compensation, 배상을 청구하다)' -> 재난이 목숨을 '앗아 가다(The flood claimed ten lives)' -> 명사 '주장·청구(make a claim)'. clamare(외치다) 뿌리로 exclaim·proclaim·acclaim과 묶인다. claim to V(~라고 주장하다), lay claim to(~의 소유권을 주장하다), baggage claim(수하물 찾는 곳). 한국 학습자: '클레임(불평)'보다 영어 claim은 '주장·청구'가 핵심.",
+  "syn": ["assert(단언하다)", "demand(요구하다)", "maintain(주장하다)"],
+  "anti": ["deny(부인하다)", "disclaim(부인하다)", "waive(권리를 포기하다)"],
+  "idiom": ["claim to V(~라고 주장하다)", "lay claim to(~에 대한 권리를 주장하다)", "stake a claim(권리를 주장하다)", "baggage claim(수하물 찾는 곳)"],
+  "colloc": ["make a claim(주장·청구하다)", "insurance claim(보험 청구)", "claim responsibility(책임을 자처하다)"],
+  "ex_add": "The company claims that its product is completely safe.  (claim that ~=~라고 주장하다)"
+ },
+ {
+  "num": "1581",
+  "hw": "clause",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "문장 안에서 '닫혀 완결된' 절 / 계약의 한 조항.",
+  "senses": [
+   "1) (문법) 절",
+   "2) (계약·법의) 조항·항목",
+   "3) 단서 조항"
+  ],
+  "etym": "라틴어 clausa(맺은 것·끝맺음) < claudere(닫다). 한 생각을 '닫아 완결한 단위'가 핵심. close(닫다)·include(포함하다)·exclude(제외하다)·conclude(결론짓다)가 같은 claudere(닫다) 뿌리.",
+  "deriv": "'닫아 맺은 단위' -> 문법 '절(a relative clause, 관계절)' -> 법률 '조항(a contract clause)' -> '단서 조항(an escape clause)'. claudere(닫다) 뿌리로 close·include·conclude와 묶인다. 한국 학습자: clause(절: 주어+동사 있음)와 phrase(구: 동사 없음)를 구별하는 게 영문법 핵심. main clause(주절), subordinate clause(종속절).",
+  "syn": ["provision(조항)", "section(항)", "stipulation(규정)"],
+  "anti": ["phrase(구)"],
+  "idiom": ["escape clause(면책 조항)", "subordinate clause(종속절)", "get-out clause(빠져나갈 조항)"],
+  "colloc": ["relative clause(관계절)", "contract clause(계약 조항)", "main clause(주절)"],
+  "ex_add": "The contract contains a clause about early termination.  (clause=조항)"
+ },
+ {
+  "num": "1582",
+  "hw": "clear",
+  "pos": "adj., v.",
+  "cefr": "B1",
+  "core": "빛이 통하듯 '맑고 또렷한' -> 치워서 말끔하게 하다.",
+  "senses": [
+   "1) (형) 분명한·또렷한 / 맑은·투명한",
+   "2) (형) (장애물이) 없는·확실한",
+   "3) (동사) 치우다·말끔히 하다 / 무죄를 밝히다"
+  ],
+  "etym": "고대 프랑스어 cler < 라틴어 clarus(밝은·맑은·또렷한). clarify(명확히 하다)·clarity(명료함)·declare(선언하다)·clarinet이 같은 clarus(밝은) 뿌리.",
+  "deriv": "'밝고 맑은' -> 시야 '투명한(clear water)' -> 이해 '분명한(a clear answer)' -> 길에 장애가 '없는(the road is clear)' -> 동사 '치우다(clear the table)' / 혐의를 '벗기다(clear one's name)'. clarus(밝은) 뿌리로 clarify·declare와 묶인다. clear up(날이 개다·해결하다), clear out(비우다·꺼지다), make it clear(분명히 하다), in the clear(혐의를 벗은). 한국 학습자: '맑은'과 '치우다'가 한 단어.",
+  "syn": ["obvious(분명한)", "transparent(투명한)", "remove(치우다)"],
+  "anti": ["unclear(불분명한)", "cloudy(흐린)", "block(막다)"],
+  "idiom": ["clear up(개다·해결하다)", "clear out(비우다)", "make it clear(분명히 하다)", "in the clear(결백한·안전한)"],
+  "colloc": ["clear sky(맑은 하늘)", "clear explanation(명확한 설명)", "clear the table(상을 치우다)"],
+  "ex_add": "Let me make one thing clear before we start.  (make ~ clear=~을 분명히 하다)"
+ },
+ {
+  "num": "1583",
+  "hw": "clever",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "머리가 잘 돌아가 '영리한·재치 있는'.",
+  "senses": [
+   "1) 영리한·똑똑한",
+   "2) (생각·고안이) 기발한·교묘한",
+   "3) 손재주 있는·솜씨 좋은"
+  ],
+  "etym": "중세 영어 cliver, 동잉글랜드 방언에서 '날쌘·손재주 있는'을 뜻하던 말로 어원이 확실치 않음(고대 영어 clifer '발톱·움켜쥠'과 연관설). '잽싸게 잘 다룸'이 핵심.",
+  "deriv": "'잽싸게 잘 다룸' -> 두뇌 '영리한(a clever student)' -> 발상 '기발한(a clever idea)' -> 손 '솜씨 좋은(clever with her hands)'. cleverly(영리하게)·cleverness(영리함)가 파생. 한국 학습자: clever는 영국에선 칭찬이나, '약삭빠른(too clever by half, 잔머리 굴리는)'처럼 부정적으로도 쓰임. intelligent(지적인)보다 일상적·실용적 영리함. clever clogs(잘난 척하는 사람).",
+  "syn": ["smart(똑똑한)", "bright(영리한)", "ingenious(기발한)"],
+  "anti": ["stupid(어리석은)", "foolish(바보 같은)", "dim(둔한)"],
+  "idiom": ["too clever by half(잔꾀를 부리는)", "clever clogs(잘난 척하는 사람)", "box clever(약삭빠르게 굴다)"],
+  "colloc": ["clever idea(기발한 생각)", "clever trick(교묘한 수법)", "really clever(아주 영리한)"],
+  "ex_add": "That was a clever way to solve the problem.  (clever=기발한·영리한)"
+ },
+ {
+  "num": "1584",
+  "hw": "click",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "'딸깍' 소리 -> 마우스를 누르다 -> 딱 맞아떨어지다.",
+  "senses": [
+   "1) (마우스를) 클릭하다 / 딸깍 소리(를 내다)",
+   "2) 갑자기 이해되다·문득 깨닫다",
+   "3) (사람과) 죽이 맞다·통하다"
+  ],
+  "etym": "'딸깍' 하는 소리를 흉내 낸 의성어. 디지털 시대에 '마우스 누름'이라는 새 뜻이 더해짐. 소리 -> 동작 -> 비유(이해·교감)로 확장된 단어.",
+  "deriv": "'딸깍 소리' -> 마우스 '클릭하다(click the link)' -> 퍼즐이 맞듯 '문득 이해되다(Suddenly it clicked)' -> 사람과 '죽이 맞다(We clicked instantly)'. clickable(클릭 가능한)·clickbait(낚시성 게시물)가 파생. 한국 학습자: click은 IT '클릭' 외에 '이해되다·통하다'라는 회화 표현이 중요. double-click(더블클릭), click with someone(누구와 잘 맞다).",
+  "syn": ["press(누르다)", "snap(딸깍 소리 내다)", "connect(통하다)"],
+  "anti": [],
+  "idiom": ["it clicks(문득 이해되다)", "click with someone(~와 죽이 맞다)", "click into place(딱 들어맞다)"],
+  "colloc": ["click the button(버튼을 클릭하다)", "click here(여기를 클릭하세요)", "double-click(더블클릭하다)"],
+  "ex_add": "We met last week and just clicked right away.  (click=죽이 맞다)"
+ },
+ {
+  "num": "1585",
+  "hw": "client",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "전문가의 서비스를 의뢰하는 '고객·의뢰인'.",
+  "senses": [
+   "1) (전문 서비스의) 고객·의뢰인",
+   "2) (변호사·상담의) 의뢰인",
+   "3) (컴퓨터) 클라이언트(서버에 접속하는 쪽)"
+  ],
+  "etym": "라틴어 cliens(보호자에게 기댄 평민·피보호자) < cluere(따르다·귀 기울이다). 고대 로마에서 유력자(patron)에게 의지하던 '피보호 평민'이 본뜻. '귀 기울여 따르는 사람'이 핵심.",
+  "deriv": "'피보호 평민' -> 전문가에게 의뢰하는 '고객(a law firm's clients)' -> IT '클라이언트(서버에 요청하는 쪽)'. patron(후원자)과 짝을 이루던 말. 한국 학습자 핵심 구별: client(변호사·회계사 등 전문 서비스의 의뢰인)와 customer(상점에서 물건 사는 손님)는 다름. clientele(고객층)이 집합 명사. valued client(소중한 고객).",
+  "syn": ["customer(고객)", "patron(단골)", "patient(환자)"],
+  "anti": ["provider(서비스 제공자)", "server(서버)"],
+  "idiom": ["client base(고객층)", "valued client(소중한 고객)"],
+  "colloc": ["potential client(잠재 고객)", "client meeting(고객 미팅)", "serve clients(고객을 응대하다)"],
+  "ex_add": "The lawyer met with her client to discuss the case.  (client=의뢰인)"
+ },
+ {
+  "num": "1586",
+  "hw": "climb",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "손발로 매달려 '기어오르다' -> 점차 상승하다.",
+  "senses": [
+   "1) (산·계단 등을) 오르다·등반하다",
+   "2) (수치·지위가) 상승하다",
+   "3) (식물이) 타고 오르다 / (n.) 오르막·등반"
+  ],
+  "etym": "고대 영어 climban(기어오르다). clamber(기어오르다)·cling(달라붙다)·clip과 먼 친척으로 '꽉 붙잡아 오름'이 핵심. 어말 b는 묵음.",
+  "deriv": "'손발로 기어오르다' -> 산을 '오르다(climb a mountain)' -> 수치가 '상승하다(prices climbed)' -> 식물이 '타고 오르다(a climbing plant)' -> 명사 '오르막(a steep climb)'. climber(등반가)가 파생. climb up/down(기어오르다/내려가다), climb the ladder(승진하다), social climber(출세주의자). 한국 학습자: climb의 b는 발음 안 함 /klaɪm/.",
+  "syn": ["ascend(오르다)", "scale(기어오르다)", "rise(상승하다)"],
+  "anti": ["descend(내려가다)", "fall(떨어지다)", "drop(하락하다)"],
+  "idiom": ["climb the ladder(승진하다·출세하다)", "social climber(출세 지향자)", "climb the walls(좀이 쑤시다)"],
+  "colloc": ["climb a mountain(등산하다)", "climb stairs(계단을 오르다)", "steady climb(꾸준한 상승)"],
+  "ex_add": "Prices have climbed steadily over the past year.  (climb=상승하다)"
+ },
+ {
+  "num": "1587",
+  "hw": "cloth",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "실을 짜서 만든 '천(옷감)' / 닦는 헝겊.",
+  "senses": [
+   "1) 천·옷감·직물",
+   "2) (특정 용도의) 헝겊·행주",
+   "3) (the ~) 성직(자)"
+  ],
+  "etym": "고대 영어 clāþ(천·의복). clothe(옷을 입히다)·clothes(옷)·clothing(의류)이 한 가족. '몸을 감싸는 짠 것'이 핵심.",
+  "deriv": "'짠 천' -> 옷감 'a piece of cloth' -> 용도별 '헝겊(a dishcloth, 행주 / a tablecloth, 식탁보)' -> 성직자의 옷에서 'the cloth(성직)'. 한국 학습자 최다 혼동 3종: cloth(천, /klɒθ/, 단수)·clothes(옷, /kləʊðz/, 복수)·clothing(의류, 불가산). cloth는 천 자체, clothes는 입는 옷. cut from the same cloth(같은 부류인).",
+  "syn": ["fabric(직물)", "material(천)", "textile(섬유)"],
+  "anti": [],
+  "idiom": ["cut from the same cloth(똑같은 부류인)", "the cloth(성직)", "cut your coat according to your cloth(분수에 맞게 살다)"],
+  "colloc": ["a piece of cloth(천 한 조각)", "cleaning cloth(걸레)", "cotton cloth(면직물)"],
+  "ex_add": "She wiped the table with a damp cloth.  (cloth=헝겊)"
+ },
+ {
+  "num": "1588",
+  "hw": "clue",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "수수께끼를 풀게 해 주는 '실마리·단서'.",
+  "senses": [
+   "1) 단서·실마리",
+   "2) (퍼즐·문제의) 힌트",
+   "3) (not have a ~) 전혀 모르다"
+  ],
+  "etym": "clew(실타래)의 변형. 그리스 신화에서 테세우스가 미로를 빠져나오려 풀던 '실타래(clew)'에서 '문제를 풀 실마리'로. '풀어 나가는 실'이 핵심.",
+  "deriv": "'실타래(미로의 실)' -> 문제를 푸는 '단서(a vital clue)' -> 퍼즐 '힌트(crossword clues)' -> 'not have a clue(전혀 모르다)'. clueless(아무것도 모르는)가 파생. 한국 학습자: clue가 미로 탈출용 '실'에서 왔음을 알면 '실마리'라는 우리말 번역과 정확히 통함 — 둘 다 '실'! give a clue(힌트를 주다), without a clue(영문도 모른 채).",
+  "syn": ["hint(힌트)", "lead(실마리)", "indication(암시)"],
+  "anti": [],
+  "idiom": ["not have a clue(전혀 모르다)", "clueless(아무것도 모르는)", "give someone a clue(힌트를 주다)"],
+  "colloc": ["vital clue(중요한 단서)", "find a clue(단서를 찾다)", "no clue(전혀 모름)"],
+  "ex_add": "The detective searched the room for any clues.  (clue=단서)"
+ },
+ {
+  "num": "1589",
+  "hw": "coach",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "사람을 '실어 나르는 마차' -> 목표까지 끌어 주는 지도자.",
+  "senses": [
+   "1) (스포츠·기술의) 코치·지도자",
+   "2) (동사) 지도하다·가르치다",
+   "3) 대형 버스·(기차) 객차 / 일반석"
+  ],
+  "etym": "헝가리 마을 Kocs(코치)에서 만든 '4륜 마차(kocsi)'에서. 19세기 영국 대학 속어로 '학생을 시험까지 실어 나르는 가정교사'가 '코치'가 됨. 탈것과 지도자가 한 단어가 된 흥미로운 사례.",
+  "deriv": "'마차(탈것)' -> 학생을 목표까지 데려가는 '가정교사(속어)' -> 스포츠 '코치' -> 동사 '지도하다(coach a team)' -> 현대 '대형 버스 / 기차 일반석(travel by coach)'. 한국 학습자: coach가 '지도자'와 '버스·객차'를 함께 뜻함을 '실어 나름'이라는 어원으로 이으면 좋다. life coach(인생 코치), coaching(코치 활동).",
+  "syn": ["instructor(강사)", "trainer(트레이너)", "tutor(개인 교사)"],
+  "anti": ["player(선수)", "trainee(피교육자)"],
+  "idiom": ["life coach(라이프 코치)", "coach someone through(~을 차근차근 지도하다)"],
+  "colloc": ["football coach(축구 코치)", "head coach(수석 코치)", "coach a team(팀을 지도하다)"],
+  "ex_add": "She coaches the school's swimming team after class.  (coach=지도하다)"
+ },
+ {
+  "num": "1590",
+  "hw": "coal",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "땅에서 캐어 태우는 검은 연료 = 석탄.",
+  "senses": [
+   "1) 석탄",
+   "2) (타고 있는) 숯불·잉걸",
+   "3) 석탄 한 덩이"
+  ],
+  "etym": "고대 영어 col(숯·잉걸불). charcoal(숯, '태운 석탄')·collier(광부)가 한 가족. 본래 '타는 검은 덩이'가 핵심.",
+  "deriv": "'타는 검은 덩이(숯)' -> 화석 연료 '석탄(burn coal)' -> 'coal mine(탄광) / charcoal(숯)'. coal-fired(석탄을 때는). 한국 학습자: coal(석탄)과 cold(추운)·call(부르다)은 발음이 비슷해 혼동 주의 — coal은 /koʊl/. carry coals to Newcastle(쓸데없는 짓을 하다, 석탄 산지에 석탄 가져가기), rake over old coals(지난 일을 들추다), haul over the coals(호되게 꾸짖다).",
+  "syn": ["charcoal(숯)", "fuel(연료)"],
+  "anti": [],
+  "idiom": ["carry coals to Newcastle(헛수고를 하다)", "haul over the coals(호되게 나무라다)", "coals to Newcastle(불필요한 일)"],
+  "colloc": ["coal mine(탄광)", "burn coal(석탄을 태우다)", "coal-fired power(석탄 화력)"],
+  "ex_add": "The factory still burns coal to generate electricity.  (coal=석탄)"
+ },
+ {
+  "num": "1591",
+  "hw": "coin",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "쇠를 찍어 만든 '동전' -> (말·표현을) 새로 만들어 내다.",
+  "senses": [
+   "1) 동전·주화",
+   "2) (동사) (신조어를) 만들어 내다",
+   "3) (동사) 화폐를 주조하다"
+  ],
+  "etym": "고대 프랑스어 coin(쐐기·모퉁이) < 라틴어 cuneus(쐐기). 동전을 찍는 '쐐기 모양 거푸집(다이)'에서 '주화'로. cuneiform(쐐기 문자)·quoin(귓돌)이 같은 cuneus(쐐기) 뿌리.",
+  "deriv": "'쐐기 거푸집' -> 그 틀로 찍은 '동전(a gold coin)' -> 동사 '주조하다' -> 비유 '말을 찍어 내다 = 신조어를 만들다(coin a phrase, 표현을 만들어 내다)'. cuneus(쐐기) 뿌리로 cuneiform과 묶인다. toss a coin(동전을 던져 정하다), two sides of the same coin(동전의 양면·표리), coin it (in)(떼돈을 벌다). 한국 학습자: coin이 '동전'뿐 아니라 '신조어를 만들다'라는 동사임에 주의.",
+  "syn": ["currency(화폐)", "create(만들어 내다)", "invent(고안하다)"],
+  "anti": [],
+  "idiom": ["coin a phrase(새 표현을 만들다)", "two sides of the same coin(동전의 양면)", "toss a coin(동전 던지기로 정하다)", "the other side of the coin(이면)"],
+  "colloc": ["gold coin(금화)", "flip a coin(동전을 던지다)", "coin a term(용어를 만들어 내다)"],
+  "ex_add": "The term \"big bang\" was coined by an astronomer.  (coin=신조어를 만들어 내다)"
+ }
+]
