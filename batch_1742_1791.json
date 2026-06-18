@@ -1,0 +1,952 @@
+[
+ {
+  "num": "1742",
+  "hw": "flag",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "바람에 펄럭이는 '깃발' -> 표시하다·시들다.",
+  "senses": [
+   "1) 깃발·기",
+   "2) (동사) 표시하다·신호하다",
+   "3) (동사) 기운이 빠지다·시들해지다"
+  ],
+  "etym": "16세기 영어, 깃발이 '펄럭이는(flap)' 모양을 흉내 낸 의성어로 추정(어원이 확실치 않음). '펄럭임'이 핵심.",
+  "deriv": "'펄럭이는 천(깃발)' -> 동사 '표시하다(flag an error, 오류를 표시하다)' -> 깃발이 늘어지듯 '기운이 빠지다(interest flagged)'. flag down(손을 흔들어 차를 세우다), raise/lower a flag(깃발을 올리다/내리다), red flag(위험 신호), white flag(항복). 한국 학습자: flag가 동사로 '표시하다'와 '시들다' 정반대 느낌의 두 뜻 — 후자는 '깃발이 축 처짐'에서.",
+  "syn": ["banner(현수막)", "mark(표시하다)", "tire(지치다)"],
+  "anti": [],
+  "idiom": ["flag down(차를 세우다)", "red flag(위험 신호)", "raise a red flag(경계 신호를 보내다)", "fly the flag(자기편을 응원하다)"],
+  "colloc": ["national flag(국기)", "wave a flag(깃발을 흔들다)", "flag an issue(문제를 짚어내다)"],
+  "ex_add": "She flagged down a taxi in the rain.  (flag down=손을 흔들어 차를 세우다)"
+ },
+ {
+  "num": "1743",
+  "hw": "flood",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "물이 '넘쳐흘러' 잠기게 함 = 홍수 -> 쇄도하다.",
+  "senses": [
+   "1) 홍수·범람",
+   "2) (동사) 물에 잠기다·범람시키다",
+   "3) (편지·사람이) 쇄도하다 / 쇄도"
+  ],
+  "etym": "고대 영어 flōd(흐르는 물·밀물). flow(흐르다)·float(뜨다)와 한 게르만 뿌리. '넘쳐 흐름'이 핵심.",
+  "deriv": "'넘쳐 흐름' -> '홍수(a flash flood, 돌발 홍수)' -> 동사 '잠기다(The street flooded)' -> 비유 '쇄도하다(Letters flooded in)'. flow(흐르다, 1745)와 한 가족. flood with(~로 넘쳐나다), a flood of(~의 쇄도), flooded with(~가 쇄도하는). 한국 학습자: flood가 자연재해 '홍수'와 비유 '쇄도(messages flooded in)' 둘 다. floodgate(수문), open the floodgates(봇물을 터뜨리다).",
+  "syn": ["deluge(대홍수)", "inundate(범람시키다)", "overflow(넘치다)"],
+  "anti": ["drought(가뭄)", "trickle(졸졸 흐름)"],
+  "idiom": ["a flood of(~의 쇄도)", "open the floodgates(봇물 터지듯 하게 하다)", "in floods of tears(펑펑 울며)"],
+  "colloc": ["flash flood(돌발 홍수)", "flood victims(수재민)", "flooded with requests(요청이 쇄도하는)"],
+  "ex_add": "The office was flooded with complaints after the announcement.  (flooded with=~가 쇄도한)"
+ },
+ {
+  "num": "1744",
+  "hw": "flour",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "곡물을 빻은 '가루' = 밀가루 (원래 '곡물의 꽃=알짜').",
+  "senses": [
+   "1) 밀가루·곡분",
+   "2) (제분한) 가루",
+   "3) 고운 가루"
+  ],
+  "etym": "flower(꽃)와 같은 단어! 라틴어 flos(꽃) -> '곡물의 꽃(flower of the meal)' = 가장 고운 알짜 부분에서 '밀가루'로 갈라진 이중어. flower·flourish(번성하다)·floral(꽃의)이 같은 flos(꽃) 뿌리.",
+  "deriv": "'곡물의 꽃(알짜 가루)' -> '밀가루'. flower(꽃)와 본래 한 단어였다가 철자·뜻이 분화한 이중어(doublet). 한국 학습자 최다 혼동: flour(밀가루)와 flower(꽃)는 발음이 똑같고(/ˈflaʊər/) 어원도 같지만 철자·뜻이 다름! plain flour(중력분), self-raising flour(베이킹파우더 든 밀가루), a bag of flour(밀가루 한 포대).",
+  "syn": ["meal(거친 곡분)", "powder(가루)"],
+  "anti": [],
+  "idiom": ["plain flour(박력·중력분)", "self-raising flour(발효 밀가루)"],
+  "colloc": ["wheat flour(밀가루)", "sift the flour(밀가루를 체로 치다)", "a cup of flour(밀가루 한 컵)"],
+  "ex_add": "Mix the flour with two eggs and a cup of milk.  (flour=밀가루, flower(꽃)와 발음 같음)"
+ },
+ {
+  "num": "1745",
+  "hw": "flow",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "물처럼 '끊김 없이 흐르다' -> 술술 이어지다.",
+  "senses": [
+   "1) (액체가) 흐르다",
+   "2) (사람·물자가) 끊임없이 이동하다",
+   "3) (말·글이) 술술 이어지다 / 흐름"
+  ],
+  "etym": "고대 영어 flōwan(흐르다). flood(홍수)·float(뜨다)와 한 게르만 뿌리. '막힘없이 흘러감'이 핵심.",
+  "deriv": "'흐르다' -> 물자가 '이동하다(traffic flow)' -> 말이 '술술 이어지다(The conversation flowed)' -> 명사 '흐름(the flow of information)'. flood(홍수)와 한 가족. flow into(~로 흘러들다), go with the flow(대세를 따르다·순리에 맡기다), cash flow(현금 흐름), in full flow(한창 진행 중인). 한국 학습자: flow(자연스러운 흐름)와 stream(시내·연속), pour(쏟아짐)의 뉘앙스 차이.",
+  "syn": ["stream(흐르다)", "run(흐르다)", "circulate(순환하다)"],
+  "anti": ["stop(멈추다)", "block(막다)", "stagnate(정체되다)"],
+  "idiom": ["go with the flow(순리에 따르다)", "in full flow(한창인)", "ebb and flow(밀물과 썰물·기복)"],
+  "colloc": ["cash flow(현금 흐름)", "blood flow(혈류)", "flow smoothly(원활히 흐르다)"],
+  "ex_add": "The river flows gently through the valley.  (flow=흐르다)"
+ },
+ {
+  "num": "1746",
+  "hw": "folk",
+  "pos": "n., adj.",
+  "cefr": "B1",
+  "core": "한 고장의 '보통 사람들·민중' -> 민속의.",
+  "senses": [
+   "1) (folks) 사람들·가족·부모님",
+   "2) (the ~) (특정) 사람들·민중",
+   "3) (형) 민속의·전통의 (folk music)"
+  ],
+  "etym": "고대 영어 folc(백성·무리). 독일어 Volk(민중, '폭스바겐 Volkswagen'의 그 Volk)와 동족. '한데 모인 보통 사람들'이 핵심.",
+  "deriv": "'보통 사람들' -> 'folks(가족·여러분)' -> 민중의 문화 'folk music(민요)·folk tale(설화)·folklore(민간 전승)'. 한국 학습자: folk는 보통 복수처럼 쓰고(country folk, 시골 사람들), folks는 회화에서 '여러분/가족/부모님'. just folks(평범한 사람들), my folks(우리 부모님), folk wisdom(민간의 지혜). 'people'보다 친근·구어적.",
+  "syn": ["people(사람들)", "traditional(전통의)", "common people(서민)"],
+  "anti": [],
+  "idiom": ["just folks(소박한 보통 사람들)", "my folks(우리 가족·부모님)", "folk wisdom(민간 지혜)"],
+  "colloc": ["folk music(민속 음악)", "folk tale(민담)", "old folks(노인들)"],
+  "ex_add": "I'm visiting my folks this weekend.  (folks=가족·부모님)"
+ },
+ {
+  "num": "1747",
+  "hw": "force",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "밀어붙이는 '힘' -> 강제하다.",
+  "senses": [
+   "1) 힘·세력·물리력",
+   "2) (the forces) 군대·부대",
+   "3) (동사) 강요하다·억지로 ~하게 하다"
+  ],
+  "etym": "라틴어 fortis(강한·힘센). effort(노력, '힘을 짜냄')·comfort(위안, '힘을 줌')·fort(요새)·enforce(시행하다)가 같은 fortis(강한) 뿌리.",
+  "deriv": "'힘' -> 물리 '세력(the force of the wind)' -> 'the forces(군대)' -> 동사 '강요하다(force someone to V)'. fortis(강한) 뿌리로 effort·comfort·fort와 묶인다(1688 effort와 한 가족). by force(힘으로), in force(시행 중인·대거), join forces(힘을 합치다), force of habit(습관의 힘). 한국 학습자: force A to V(A에게 억지로 ~하게 하다)가 핵심 구문. armed forces(군대), workforce(노동력), task force(전담반).",
+  "syn": ["power(힘)", "strength(세기)", "compel(강요하다)"],
+  "anti": ["weakness(약함)", "persuade(설득하다)"],
+  "idiom": ["force A to V(A에게 억지로 ~시키다)", "by force(강제로)", "in force(시행 중인)", "join forces(힘을 합치다)", "force of habit(습관 탓)"],
+  "colloc": ["military force(군사력)", "driving force(원동력)", "force open(억지로 열다)"],
+  "ex_add": "Bad weather forced them to cancel the trip.  (force A to V=A가 어쩔 수 없이 ~하게 하다)"
+ },
+ {
+  "num": "1748",
+  "hw": "forever",
+  "pos": "adv.",
+  "cefr": "B1",
+  "core": "끝없이 '영원히' / (구어) 한없이 오래.",
+  "senses": [
+   "1) 영원히·언제까지나",
+   "2) (구어) 아주 오랫동안",
+   "3) (be forever V-ing) 늘 ~하다(불평조)"
+  ],
+  "etym": "for(~동안) + ever(언제나, 고대 영어 ǣfre). '언제까지나'가 핵심. ever(언제든)·every(모든)·never(결코)와 한 가족.",
+  "deriv": "for + ever -> 'forever(영원히)'. '영원히(love you forever)' -> 구어 과장 '한없이(It took forever, 엄청 오래 걸렸다)' -> 'be forever V-ing(노상 ~하다, He's forever complaining)'. 한국 학습자: forever가 회화에서 '엄청 오래'라는 과장으로 자주(This is taking forever!). forever and ever(영원무궁히), forever young(영원한 젊음), last forever(영원히 지속되다).",
+  "syn": ["eternally(영원히)", "permanently(영구히)", "endlessly(끝없이)"],
+  "anti": ["briefly(잠깐)", "temporarily(일시적으로)", "never(결코 안)"],
+  "idiom": ["forever and ever(영원무궁토록)", "take forever(엄청나게 오래 걸리다)", "be forever V-ing(노상 ~하다)"],
+  "colloc": ["last forever(영원히 가다)", "stay forever(영원히 머물다)", "forever grateful(영원히 감사하는)"],
+  "ex_add": "This download is taking forever.  (take forever=엄청 오래 걸리다, 구어 과장)"
+ },
+ {
+  "num": "1749",
+  "hw": "frame",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "뼈대처럼 '둘러 짜 맞춘 틀' -> 틀에 넣다·짜다·뒤집어씌우다.",
+  "senses": [
+   "1) 틀·액자·뼈대",
+   "2) (영상의) 한 컷·프레임",
+   "3) (동사) 틀에 넣다·표현하다 / 누명을 씌우다"
+  ],
+  "etym": "고대 영어 framian(쓸모 있게 하다·돕다) < fram(앞으로). '짜 맞춰 세움'이 핵심. from·forward와 먼 친척.",
+  "deriv": "'짜 맞춘 틀' -> '액자·뼈대(a picture frame)' -> 영상 '한 컷(frame by frame)' -> 동사 '틀에 넣다·표현하다(frame a question, 질문을 짜다)' -> 속어 '누명을 씌우다(He was framed)'. framework(틀·체계)가 파생. frame of mind(심적 상태), frame of reference(준거 틀), in the frame(용의 선상에 있는). 한국 학습자: frame이 명사 '틀'과 동사 '누명을 씌우다'까지 — 후자는 '틀(죄)에 끼워 넣다'.",
+  "syn": ["framework(틀)", "structure(구조)", "set up(누명 씌우다)"],
+  "anti": [],
+  "idiom": ["frame of mind(기분 상태)", "frame of reference(준거 기준)", "in the frame(혐의를 받는)", "frame someone(누명을 씌우다)"],
+  "colloc": ["picture frame(액자)", "window frame(창틀)", "frame a question(질문을 구성하다)"],
+  "ex_add": "The detective believed the suspect had been framed.  (frame=누명을 씌우다)"
+ },
+ {
+  "num": "1750",
+  "hw": "freeze",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "얼어붙다 -> (동작·값을) 그 자리에 멈추다·동결하다.",
+  "senses": [
+   "1) 얼다·얼리다",
+   "2) (공포·놀라움에) 얼어붙다·꼼짝 못 하다",
+   "3) (값·자금을) 동결하다"
+  ],
+  "etym": "고대 영어 frēosan(얼다). frost(서리)·frozen(언)과 한 게르만 뿌리. '얼어붙음'이 핵심. 불규칙 변화 freeze-froze-frozen.",
+  "deriv": "'얼다' -> 공포로 '얼어붙다(freeze in terror)' -> 값·자금을 '동결하다(freeze prices)' -> 화면을 '정지하다(freeze the frame)'. frost·frozen(1756)과 한 가족. freeze over(꽁꽁 얼다), freeze up(얼어붙다·긴장하다), freezing point(어는점), a wage freeze(임금 동결). 한국 학습자: freeze가 '얼다'뿐 아니라 '(놀라서) 굳다', '(값을) 동결하다'까지. Freeze!(꼼짝 마!)는 영화 속 경찰 명령.",
+  "syn": ["ice over(얼다)", "halt(멈추다)", "suspend(동결하다)"],
+  "anti": ["thaw(녹다)", "melt(녹다)", "unfreeze(동결을 풀다)"],
+  "idiom": ["freeze up(얼어붙다·긴장하다)", "freeze over(꽁꽁 얼다)", "freeze someone out(따돌리다)", "Freeze!(꼼짝 마!)"],
+  "colloc": ["freeze solid(꽁꽁 얼다)", "freezing point(어는점)", "freeze wages(임금을 동결하다)"],
+  "ex_add": "The lake freezes over completely in winter.  (freeze over=수면이 꽁꽁 얼다)"
+ },
+ {
+  "num": "1751",
+  "hw": "frequently",
+  "pos": "adv.",
+  "cefr": "B1",
+  "core": "짧은 간격으로 '자주·빈번히'.",
+  "senses": [
+   "1) 자주·빈번히",
+   "2) 흔히·종종",
+   "3) 되풀이해서"
+  ],
+  "etym": "라틴어 frequens(붐비는·잦은). 본래 '사람이 많이 모인'에서 '자주 일어나는'으로. frequent(잦은)·frequency(빈도·주파수)가 한 뿌리.",
+  "deriv": "frequent(잦은) -> 부사 'frequently(자주)'. frequens(붐비는) 뿌리로 frequency(빈도)와 묶인다. 한국 학습자: 빈도부사 강도 — never < rarely/seldom < occasionally < sometimes < often/frequently < usually < always. frequently는 often의 격식체. frequently asked questions(자주 묻는 질문, FAQ), more frequently(더 자주). 형용사 frequent + 명사(frequent visitor, 단골).",
+  "syn": ["often(자주)", "regularly(정기적으로)", "repeatedly(되풀이해)"],
+  "anti": ["rarely(드물게)", "seldom(좀처럼 ~않게)", "infrequently(어쩌다)"],
+  "idiom": ["frequently asked questions(자주 묻는 질문, FAQ)", "more frequently than not(흔히)"],
+  "colloc": ["frequently used(자주 쓰이는)", "occur frequently(자주 발생하다)", "frequently visit(자주 방문하다)"],
+  "ex_add": "This word is frequently used in everyday conversation.  (frequently=자주)"
+ },
+ {
+  "num": "1752",
+  "hw": "friendship",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "친구로 지내는 '사이·우정'.",
+  "senses": [
+   "1) 우정·교우 관계",
+   "2) 친선·우호",
+   "3) 친구 사이"
+  ],
+  "etym": "friend(친구, 고대 영어 frēond '사랑하는 이' < frēon 사랑하다) + -ship(상태·관계). relationship(관계)·partnership(동업)의 -ship과 같은 '~인 상태' 접미사.",
+  "deriv": "friend(친구) + -ship(관계) -> 'friendship(우정)'. -ship은 '~의 상태·자격'(membership 회원 자격, leadership 지도력). 한국 학습자: -ship으로 추상명사 무리(relationship, partnership, citizenship)를 묶어 익히면 좋다. strike up a friendship(친구가 되다), a close friendship(돈독한 우정), in friendship(우호적으로). friend의 -ie- 철자 주의(i before e).",
+  "syn": ["companionship(동무 관계)", "camaraderie(동지애)", "bond(유대)"],
+  "anti": ["hostility(적대)", "enmity(반목)"],
+  "idiom": ["strike up a friendship(친교를 맺다)", "a friendship blossoms(우정이 싹트다)"],
+  "colloc": ["close friendship(돈독한 우정)", "lasting friendship(오래가는 우정)", "form a friendship(우정을 맺다)"],
+  "ex_add": "Their friendship lasted for over fifty years.  (friendship=우정)"
+ },
+ {
+  "num": "1753",
+  "hw": "frighten",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "갑자기 '겁먹게' 만들다·놀라게 하다.",
+  "senses": [
+   "1) 겁먹게 하다·놀라게 하다",
+   "2) (frighten away/off) 겁주어 쫓다",
+   "3) (frighten into) 겁주어 ~하게 하다"
+  ],
+  "etym": "고대 영어 fyrhto(공포) + -en(동사화 접미사, '~하게 만들다'). fright(놀람)·fear(두려움)와 한 가족. '두려움을 일으킴'이 핵심.",
+  "deriv": "fright(놀람) + -en(~하게 하다) -> 'frighten(겁주다)'. -en은 '형용사·명사 + en = ~하게 만들다'(widen 넓히다, strengthen 강화하다). frightened(겁먹은)·frightening(무서운)이 -ed/-ing 짝(1754·1755). frighten away/off(겁주어 쫓다), frighten the life out of(혼비백산하게 하다). 한국 학습자: scare(겁주다)와 유의어이나 frighten이 다소 격식.",
+  "syn": ["scare(겁주다)", "terrify(겁에 질리게 하다)", "alarm(놀라게 하다)"],
+  "anti": ["calm(진정시키다)", "reassure(안심시키다)", "comfort(달래다)"],
+  "idiom": ["frighten away(겁주어 쫓다)", "frighten the life out of(혼비백산하게 하다)", "frighten into(겁주어 ~하게 하다)"],
+  "colloc": ["easily frighten(쉽게 겁주다)", "frighten the children(아이들을 겁주다)", "frighten away customers(손님을 쫓다)"],
+  "ex_add": "The loud noise frightened the birds away.  (frighten away=겁주어 쫓다)"
+ },
+ {
+  "num": "1754",
+  "hw": "frightened",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "겁에 질려 '무서워하는' (사람의 감정).",
+  "senses": [
+   "1) 겁먹은·무서워하는",
+   "2) (frightened of) ~을 무서워하는",
+   "3) (frightened to V) 무서워서 ~하지 못하는"
+  ],
+  "etym": "frighten(겁주다, 고대 영어 fyrhto 공포)의 과거분사. fright·fear와 한 가족. '겁을 먹은' 상태를 나타냄.",
+  "deriv": "frighten(겁주다) -> 감정 형용사 'frightened(겁먹은)'. -ed는 사람 감정(I'm frightened), -ing는 원인의 성질(frightening, 무서운). 한국 학습자 -ed/-ing 구별 대표어. frightened of(~을 무서워하는, afraid of와 같은 구조), frightened to V(무서워서 ~ 못 하는), frightened that절. badly frightened(몹시 겁먹은). afraid·scared와 유의어.",
+  "syn": ["scared(겁먹은)", "afraid(두려워하는)", "terrified(겁에 질린)"],
+  "anti": ["calm(차분한)", "fearless(겁 없는)", "brave(용감한)"],
+  "idiom": ["frightened of(~을 무서워하는)", "frightened to death(죽도록 무서운)", "frightened out of one's wits(혼비백산한)"],
+  "colloc": ["frightened look(겁먹은 표정)", "badly frightened(몹시 겁먹은)", "frightened of the dark(어둠을 무서워하는)"],
+  "ex_add": "The child was frightened of the big dog.  (frightened of=~을 무서워하는)"
+ },
+ {
+  "num": "1755",
+  "hw": "frightening",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "사람을 겁먹게 만드는 '무서운' (원인의 성질).",
+  "senses": [
+   "1) 무서운·겁나게 하는",
+   "2) 섬뜩한·오싹한",
+   "3) (정도가) 놀라운"
+  ],
+  "etym": "frighten(겁주다, 고대 영어 fyrhto 공포)의 현재분사. fright·fear와 한 가족. '겁을 일으키는' 성질을 나타냄.",
+  "deriv": "frighten(겁주다) -> 성질 형용사 'frightening(무서운)'. -ing는 원인(a frightening experience, 무서운 경험), -ed는 사람 감정(frightened). 한국 학습자 핵심: 사물·상황엔 -ing, 사람 마음엔 -ed(1754 frightened와 짝). frighteningly(무서울 정도로)가 부사 — a frighteningly real possibility(섬뜩하리만치 현실적인 가능성). scary보다 약간 격식.",
+  "syn": ["scary(무서운)", "terrifying(겁나게 하는)", "alarming(걱정스러운)"],
+  "anti": ["reassuring(안심시키는)", "comforting(위안이 되는)", "soothing(달래는)"],
+  "idiom": ["frighteningly real(섬뜩하리만치 현실적인)", "a frightening prospect(무서운 전망)"],
+  "colloc": ["frightening experience(무서운 경험)", "deeply frightening(매우 무서운)", "frightening speed(무서운 속도)"],
+  "ex_add": "It was a frightening experience to be caught in the storm.  (frightening=무서운, 원인의 성질)"
+ },
+ {
+  "num": "1756",
+  "hw": "frozen",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "얼어붙은 -> 냉동의 / 그 자리에 굳은.",
+  "senses": [
+   "1) 얼어붙은·언",
+   "2) 냉동된·냉동식품의",
+   "3) (동작·값이) 굳은·동결된"
+  ],
+  "etym": "freeze(얼다, 고대 영어 frēosan)의 과거분사. frost(서리)와 한 게르만 뿌리. freeze-froze-frozen의 과거분사가 형용사로 굳음.",
+  "deriv": "freeze(얼다) -> 'frozen(언)'. '얼어붙은(a frozen lake)' -> '냉동의(frozen food)' -> '굳은·동결된(frozen with fear, 공포로 굳은 / frozen assets, 동결 자산)'. freeze(1750)와 한 가족. frozen solid(꽁꽁 언), frozen stiff(추위로 뻣뻣한), frozen in time(시간이 멈춘 듯한). 한국 학습자: 디즈니 '겨울왕국'의 원제 Frozen이 '얼어붙은'. unfrozen(해동된)이 반의.",
+  "syn": ["icy(얼음의)", "iced(얼린)", "rigid(굳은)"],
+  "anti": ["thawed(해동된)", "melted(녹은)", "fresh(신선한)"],
+  "idiom": ["frozen solid(꽁꽁 언)", "frozen with fear(공포로 얼어붙은)", "frozen in time(시간이 멈춘)"],
+  "colloc": ["frozen food(냉동식품)", "frozen lake(얼어붙은 호수)", "frozen assets(동결된 자산)"],
+  "ex_add": "We bought some frozen vegetables for the soup.  (frozen=냉동된)"
+ },
+ {
+  "num": "1757",
+  "hw": "fry",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "기름에 '지지거나 튀겨' 익히다.",
+  "senses": [
+   "1) (기름에) 부치다·볶다·튀기다",
+   "2) (햇볕에) 타다·달다(구어)",
+   "3) (the fries) 감자튀김"
+  ],
+  "etym": "고대 프랑스어 frire < 라틴어 frigere(볶다·굽다). '기름으로 지짐'이 핵심. fry-fried-fried. french fries·stir-fry·frying pan이 한 가족.",
+  "deriv": "'기름에 지지다' -> '부치다·볶다(fry an egg)' -> 깊은 기름에 '튀기다(deep-fry)' -> 명사 'fries(감자튀김)'. frying pan(프라이팬), stir-fry(볶음 요리), out of the frying pan into the fire(갈수록 태산). 한국 학습자: 조리법 구별 — fry(지지다/볶다), deep-fry(튀기다), stir-fry(센 불에 빠르게 볶다), bake(오븐에 굽다), grill(석쇠에 굽다), boil(삶다). small fry(잔챙이·송사리).",
+  "syn": ["sauté(살짝 볶다)", "stir-fry(볶다)", "sizzle(지글지글 굽다)"],
+  "anti": ["boil(삶다)", "steam(찌다)"],
+  "idiom": ["out of the frying pan into the fire(갈수록 태산)", "small fry(피라미·잔챙이)", "bigger fish to fry(더 중요한 일이 있다)"],
+  "colloc": ["fry an egg(달걀을 부치다)", "deep-fry(튀기다)", "frying pan(프라이팬)"],
+  "ex_add": "Fry the onions until they turn golden brown.  (fry=볶다)"
+ },
+ {
+  "num": "1758",
+  "hw": "fur",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "동물의 부드러운 '털' -> 모피.",
+  "senses": [
+   "1) (동물의) 털·모피",
+   "2) 모피 옷",
+   "3) (혀·관에) 낀 설태·물때"
+  ],
+  "etym": "고대 프랑스어 forre(칼집·안감). 본래 옷 '안에 댄 털'에서 '모피'로. '몸을 덮는 부드러운 털'이 핵심. furry(털북숭이의)가 파생.",
+  "deriv": "'안에 댄 털' -> 동물 '털(a cat's fur)' -> '모피 옷(a fur coat)' -> 혀·주전자에 낀 '설태·물때'. furry(보송보송한)가 형용사. fake fur(인조 모피), make the fur fly(소동을 일으키다). 한국 학습자: fur(동물 털, 보통 불가산)와 hair(사람 머리털·체모)의 구별. 모피 반대 운동으로 fur가 윤리적 논쟁어가 됨(fur-free, 모피를 안 쓰는).",
+  "syn": ["coat(털가죽)", "pelt(모피)", "fleece(양털)"],
+  "anti": [],
+  "idiom": ["make the fur fly(한바탕 소동을 일으키다)", "fake fur(인조 모피)"],
+  "colloc": ["thick fur(두꺼운 털)", "fur coat(모피 코트)", "soft fur(부드러운 털)"],
+  "ex_add": "The kitten has soft, gray fur.  (fur=털)"
+ },
+ {
+  "num": "1759",
+  "hw": "further",
+  "pos": "adj., adv.",
+  "cefr": "B1",
+  "core": "(거리·정도가) '더 멀리·더 나아가' / 추가의.",
+  "senses": [
+   "1) (정도) 더·추가의·한층 더",
+   "2) (거리) 더 멀리",
+   "3) (동사) 촉진하다·증진하다"
+  ],
+  "etym": "고대 영어 furþor(더 앞으로) < forth(앞으로)의 비교급. far(먼)의 비교급으로도 쓰임. '더 앞으로 나아간'이 핵심.",
+  "deriv": "forth(앞으로)의 비교급 -> 'further(더·더 멀리)'. 추상 정도 '추가의(further information, 추가 정보)' -> 물리 거리 '더 멀리(walk further)' -> 동사 '촉진하다(further one's career)'. 한국 학습자 핵심: farther(주로 물리적 거리)와 further(거리 + 추상적 '추가·정도') 구별 — 영국식은 대개 further로 통일. furthermore(게다가), until further notice(추후 공지가 있을 때까지), nothing could be further from the truth(전혀 사실이 아니다).",
+  "syn": ["additional(추가의)", "more(더)", "promote(촉진하다)"],
+  "anti": ["nearer(더 가까운)", "closer(더 가까이)"],
+  "idiom": ["furthermore(게다가)", "until further notice(추후 통지가 있을 때까지)", "go further(더 나아가다)", "nothing could be further from the truth(전혀 사실무근이다)"],
+  "colloc": ["further information(추가 정보)", "further details(상세 정보)", "without further delay(더는 지체 없이)"],
+  "ex_add": "For further information, please contact our office.  (further=추가의)"
+ },
+ {
+  "num": "1760",
+  "hw": "garage",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "차를 '들여 두는' 차고 -> 정비소·주유소.",
+  "senses": [
+   "1) 차고",
+   "2) 자동차 정비소",
+   "3) (영국) 주유소"
+  ],
+  "etym": "프랑스어 garage < garer(대피시키다·넣어 두다). '안전하게 넣어 둠'이 핵심. 20세기 자동차와 함께 영어에 들어온 차용어.",
+  "deriv": "'넣어 두는 곳' -> 집의 '차고(park in the garage)' -> '정비소(take the car to the garage)' -> 영국식 '주유소'. garage sale(차고 세일, 집에서 중고품 파는 행사), garage band(차고에서 연습하는 아마추어 밴드). 한국 학습자: 발음이 영국식 /ˈɡærɑːʒ/, 미국식 /ɡəˈrɑːʒ/로 갈림. garage가 미국에선 정비소, 영국에선 정비소+주유소까지.",
+  "syn": ["carport(간이 차고)", "workshop(정비소)"],
+  "anti": [],
+  "idiom": ["garage sale(중고 물품 세일)", "garage band(아마추어 밴드)"],
+  "colloc": ["park in the garage(차고에 주차하다)", "underground garage(지하 주차장)", "garage door(차고 문)"],
+  "ex_add": "He parked the car in the garage for the night.  (garage=차고)"
+ },
+ {
+  "num": "1761",
+  "hw": "gather",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "여기저기 흩어진 것을 '한데 모으다' -> 미루어 알다.",
+  "senses": [
+   "1) 모으다·모이다",
+   "2) (수확·정보를) 거두다·수집하다",
+   "3) (정황으로) 미루어 짐작하다·이해하다"
+  ],
+  "etym": "고대 영어 gaderian(모으다) < gæd(친교·동행). together(함께)·gad·good과 먼 친척으로 '한데 합침'이 핵심.",
+  "deriv": "'한데 모음' -> 사람이 '모이다(A crowd gathered)' -> 정보를 '수집하다(gather data)' -> 정황으로 '미루어 알다(I gather you're new here, ~인가 보네요)'. together(함께)와 한 뿌리. gathering(모임)이 명사. gather round(빙 둘러 모이다), gather speed(점점 속도를 내다), gather one's thoughts(생각을 가다듬다). 한국 학습자: gather가 '추측하다(I gather (that)~)'로도 쓰임에 주의.",
+  "syn": ["collect(모으다)", "assemble(집합시키다)", "infer(추론하다)"],
+  "anti": ["scatter(흩뜨리다)", "disperse(해산시키다)", "distribute(나눠 주다)"],
+  "idiom": ["gather round(둘러 모이다)", "gather speed(속도를 내다)", "gather one's thoughts(마음을 가다듬다)", "I gather that ~(~인가 보다)"],
+  "colloc": ["gather information(정보를 모으다)", "crowd gathers(군중이 모이다)", "gather together(한데 모이다)"],
+  "ex_add": "A large crowd gathered to watch the parade.  (gather=모이다)"
+ },
+ {
+  "num": "1762",
+  "hw": "generally",
+  "pos": "adv.",
+  "cefr": "B1",
+  "core": "예외를 빼면 '대체로·일반적으로'.",
+  "senses": [
+   "1) 일반적으로·대체로",
+   "2) 보통·대개",
+   "3) 널리·전반적으로"
+  ],
+  "etym": "general(전반적인) + -ly. general < 라틴어 generalis < genus(종류·종족). '한 종류 전체에 두루 통하는'이 핵심. genus(종류) 뿌리로 generation·generous·genre가 묶인다.",
+  "deriv": "general(전반의) -> 부사 'generally(대체로)'. genus(종류) 뿌리로 generation·generous·gene와 묶인다. 한국 학습자: generally speaking(일반적으로 말해서), in general(전반적으로), generally accepted(통념상 받아들여지는). usually(보통, 빈도)와 달리 generally는 '대체적 경향'을 강조. on the whole(대체로)와 유의어.",
+  "syn": ["usually(보통)", "on the whole(대체로)", "broadly(대체로)"],
+  "anti": ["specifically(구체적으로)", "particularly(특히)", "rarely(드물게)"],
+  "idiom": ["generally speaking(일반적으로 말하면)", "in general(전반적으로)", "as a general rule(통례적으로)"],
+  "colloc": ["generally accepted(일반적으로 받아들여지는)", "generally agree(대체로 동의하다)", "generally available(널리 이용 가능한)"],
+  "ex_add": "Generally speaking, prices rise during the holidays.  (generally speaking=일반적으로 말해)"
+ },
+ {
+  "num": "1763",
+  "hw": "generation",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "비슷한 시기에 '태어난' 한 세대 -> 발생·산출.",
+  "senses": [
+   "1) 세대(약 30년)",
+   "2) 또래·동시대 사람들",
+   "3) (전기·열의) 발생·생성"
+  ],
+  "etym": "라틴어 generatio < generare(낳다·만들어 내다) < genus(태생·종족). gene(유전자)·generous(고결한)·gentle(태생 좋은)·genius(타고난 재능)가 같은 gen-(낳다·태생) 뿌리.",
+  "deriv": "'낳음·태생' -> 같이 태어난 '세대(the younger generation)' -> 전기·열의 '발생(power generation, 발전)'. gen-(낳다) 뿌리로 generous(1764)·gentle(1765)·gene과 묶인다. generate(발생시키다)·generational(세대의)이 파생. from generation to generation(대대로), the next generation(차세대), generation gap(세대 차이). 한국 학습자: gen- 가족(generation/generous/gentle/genuine/genius)을 '태어남·타고남'으로 묶으면 좋다.",
+  "syn": ["age group(연령층)", "era(시대)", "production(생성)"],
+  "anti": [],
+  "idiom": ["generation gap(세대 차이)", "from generation to generation(대대로)", "the next generation(차세대)"],
+  "colloc": ["younger generation(젊은 세대)", "future generations(미래 세대)", "power generation(발전)"],
+  "ex_add": "This tradition has been passed down for generations.  (generation=세대)"
+ },
+ {
+  "num": "1764",
+  "hw": "generous",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "'좋은 집안 태생'처럼 마음이 후한·넉넉한.",
+  "senses": [
+   "1) 너그러운·인심 좋은",
+   "2) (양이) 넉넉한·푸짐한",
+   "3) 관대한"
+  ],
+  "etym": "라틴어 generosus(좋은 가문 태생의) < genus(태생·혈통). 본래 '귀족답게 고결한'에서 '후한'으로. gen-(태생) 뿌리로 generation(1763)·gentle(1765)·genuine과 묶인다.",
+  "deriv": "'좋은 태생의(고결한)' -> 마음이 '너그러운(a generous person)' -> 양이 '넉넉한(a generous portion, 푸짐한 양)'. gen-(태생) 뿌리로 generation·gentle과 묶인다 — '좋은 가문답게 베푸는'. generosity(관대함)·generously(후하게)가 파생. 한국 학습자: generous with(~을 아낌없이 주는), generous to a fault(지나치게 후한). stingy/mean(인색한)이 반의.",
+  "syn": ["giving(베푸는)", "openhanded(손이 큰)", "lavish(아낌없는)"],
+  "anti": ["stingy(인색한)", "mean(쩨쩨한)", "selfish(이기적인)"],
+  "idiom": ["generous to a fault(지나치게 후한)", "generous with(~을 아낌없이 베푸는)"],
+  "colloc": ["generous gift(후한 선물)", "generous offer(후한 제안)", "generous portion(푸짐한 양)"],
+  "ex_add": "It was very generous of you to pay for everyone.  (generous=후한)"
+ },
+ {
+  "num": "1765",
+  "hw": "gentle",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "'좋은 태생'처럼 거칠지 않고 부드러운·온화한.",
+  "senses": [
+   "1) (성격이) 다정한·온화한",
+   "2) (동작·힘이) 부드러운·살살의",
+   "3) (경사·변화가) 완만한"
+  ],
+  "etym": "고대 프랑스어 gentil(좋은 가문의) < 라틴어 gentilis(같은 씨족의) < gens/genus(혈통·종족). 본래 '귀족답게 점잖은'에서 '온화한'으로. gen-(태생) 뿌리로 generous(1764)·generation·gentleman(1766)과 묶인다.",
+  "deriv": "'좋은 태생의(점잖은)' -> 성격 '온화한(a gentle person)' -> 힘 '부드러운(a gentle touch)' -> 경사 '완만한(a gentle slope)'. gen-(태생) 뿌리. gently(부드럽게)·gentleness가 파생. 한국 학습자: gentle은 '신사적인(gentleman)'의 그 gentle. gentle giant(덩치만 크고 순한 사람), be gentle with(~을 살살 다루다), a gentle reminder(부드러운 알림). rough/harsh(거친)가 반의.",
+  "syn": ["mild(온화한)", "tender(다정한)", "soft(부드러운)"],
+  "anti": ["rough(거친)", "harsh(가혹한)", "violent(난폭한)"],
+  "idiom": ["a gentle giant(순한 거인)", "gentle reminder(부드러운 알림)", "be gentle with(~을 살살 다루다)"],
+  "colloc": ["gentle voice(부드러운 목소리)", "gentle breeze(산들바람)", "gentle slope(완만한 경사)"],
+  "ex_add": "She spoke in a gentle, soothing voice.  (gentle=부드러운·온화한)"
+ },
+ {
+  "num": "1766",
+  "hw": "gentleman",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "예의 바르고 점잖은 '신사' (원래 '좋은 가문의 남자').",
+  "senses": [
+   "1) 신사·점잖은 남자",
+   "2) (정중한 호칭) 남자분",
+   "3) (Gentlemen) (편지·연설) 여러분"
+  ],
+  "etym": "gentle(좋은 가문의·점잖은) + man(남자). 본래 '귀족 신분의 남자'에서 '교양 있고 예의 바른 남자'로. gen-(태생) 뿌리로 gentle(1765)·generous와 묶인다.",
+  "deriv": "gentle(점잖은) + man -> 'gentleman(신사)'. '신사(a perfect gentleman)' -> 정중한 호칭 'this gentleman(이 남자분)' -> 연설 'Ladies and Gentlemen(신사 숙녀 여러분)'. 한국 학습자: lady(숙녀)와 짝. gentlemanly(신사다운)가 형용사. a gentleman's agreement(신사협정, 구두 약속), a real gentleman(진정한 신사). 화장실 표지 Gentlemen(남자 화장실).",
+  "syn": ["gent(신사, 구어)", "sir(신사분)"],
+  "anti": ["lady(숙녀)", "boor(무례한 사람)"],
+  "idiom": ["a perfect gentleman(완벽한 신사)", "a gentleman's agreement(신사협정)", "Ladies and Gentlemen(신사 숙녀 여러분)"],
+  "colloc": ["true gentleman(진정한 신사)", "elderly gentleman(나이 든 신사)", "gentleman caller(남자 손님)"],
+  "ex_add": "He held the door open like a true gentleman.  (gentleman=신사)"
+ },
+ {
+  "num": "1767",
+  "hw": "ghost",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "죽은 이의 '혼령' = 유령 -> 희미한 자취.",
+  "senses": [
+   "1) 유령·귀신",
+   "2) (the ~ of) 희미한 자취·기색",
+   "3) (동사) (연락을 끊고) 잠수하다"
+  ],
+  "etym": "고대 영어 gāst(영혼·숨결). 독일어 Geist(정신)와 동족. aghast(겁에 질린)·ghastly(섬뜩한)가 한 가족. h는 16세기에 끼워 넣은 글자. '몸을 떠난 혼'이 핵심.",
+  "deriv": "'혼령(유령)' -> 희미한 'the ghost of a smile(엷은 미소의 기색)' -> 현대 속어 동사 '잠수하다(He ghosted me, 연락을 뚝 끊었다)'. ghostly(유령 같은)·ghostwriter(대필 작가)가 파생. give up the ghost(숨을 거두다·작동을 멈추다), not have a ghost of a chance(가망이 전혀 없다), the ghost of Christmas past. 한국 학습자: 요즘 ghosting(잠수 이별)이라는 SNS 신조어로도.",
+  "syn": ["spirit(영혼)", "phantom(환영)", "specter(망령)"],
+  "anti": [],
+  "idiom": ["give up the ghost(숨을 거두다·멈추다)", "not a ghost of a chance(가망이 전혀 없는)", "ghost someone(잠수 타다)"],
+  "colloc": ["see a ghost(귀신을 보다)", "ghost story(귀신 이야기)", "ghost town(유령 도시)"],
+  "ex_add": "They say an old ghost haunts the castle.  (ghost=유령)"
+ },
+ {
+  "num": "1768",
+  "hw": "giant",
+  "pos": "adj., n.",
+  "cefr": "B1",
+  "core": "엄청나게 '거대한' -> 거인 / 거물.",
+  "senses": [
+   "1) (형) 거대한·초대형의",
+   "2) (n.) 거인",
+   "3) (n.) (분야의) 거물·대기업"
+  ],
+  "etym": "고대 프랑스어 geant < 라틴어 gigas < 그리스어 gigas(거인). 그리스 신화의 '기간테스(거인족)'에서. gigantic(거대한)이 같은 뿌리.",
+  "deriv": "'거인' -> 형용사 '거대한(a giant wave)' -> 분야의 '거물·대기업(a tech giant, 거대 기술 기업)'. gigantic(거대한)이 형용사. 한국 학습자: giant가 형용사 '거대한'으로 매우 자주(giant panda 자이언트판다, giant screen 대형 화면). gentle giant(덩치 크고 순한 사람), a giant among men(걸출한 인물), take giant strides(큰 진전을 이루다). dwarf(난쟁이)가 반의.",
+  "syn": ["enormous(거대한)", "huge(엄청난)", "colossus(거인)"],
+  "anti": ["dwarf(난쟁이)", "tiny(아주 작은)", "miniature(소형의)"],
+  "idiom": ["a gentle giant(순한 거인)", "a giant among men(걸출한 인물)", "giant steps(큰 진전)"],
+  "colloc": ["giant size(초대형)", "tech giant(거대 기술기업)", "giant panda(자이언트판다)"],
+  "ex_add": "A few tech giants dominate the entire market.  (giant=거물·대기업)"
+ },
+ {
+  "num": "1769",
+  "hw": "glad",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "마음이 환히 밝아 '기쁜·반가운'.",
+  "senses": [
+   "1) 기쁜·반가운",
+   "2) (be glad to V) 기꺼이 ~하는",
+   "3) (glad of/about) ~을 고맙게 여기는"
+  ],
+  "etym": "고대 영어 glæd(빛나는·밝은·기쁜). '환히 빛나는 마음'이 핵심. 본래 '반짝이는'에서 '기쁜'으로. gladly(기꺼이)·gladden(기쁘게 하다)이 파생.",
+  "deriv": "'환히 밝은(기쁜)' -> 'be glad to V(기꺼이 ~하다)' -> 'glad about/of(~을 기뻐하다)'. gladly(기꺼이)가 부사. 한국 학습자: glad는 주로 서술적(I'm glad)으로 쓰고, 명사 앞엔 잘 안 씀(a glad person X). I'm glad to hear that(그 말 들으니 기뻐요), glad tidings(기쁜 소식), only too glad(기꺼이). happy·pleased와 유의어이나 glad가 더 일시적·구체적 기쁨.",
+  "syn": ["happy(기쁜)", "pleased(기뻐하는)", "delighted(아주 기쁜)"],
+  "anti": ["sad(슬픈)", "sorry(유감스러운)", "unhappy(불행한)"],
+  "idiom": ["be glad to V(기꺼이 ~하다)", "glad tidings(기쁜 소식)", "only too glad(기꺼이)"],
+  "colloc": ["glad to help(기꺼이 돕는)", "glad to hear(들어서 기쁜)", "so glad(무척 기쁜)"],
+  "ex_add": "I'm so glad you could come to the party.  (glad=기쁜)"
+ },
+ {
+  "num": "1770",
+  "hw": "global",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "둥근 지구(globe) 전체에 걸친 '전 세계의' -> 전체적인.",
+  "senses": [
+   "1) 전 세계의·세계적인",
+   "2) 지구의·지구 전체의",
+   "3) 전반적인·종합적인"
+  ],
+  "etym": "globe(공·지구, 라틴어 globus 둥근 덩어리) + -al. '공처럼 둥근 지구 전체'가 핵심. globe·globalize(세계화하다)가 한 가족.",
+  "deriv": "globe(지구) -> 형용사 'global'. '전 세계의(a global pandemic, 세계적 대유행)' -> '지구의(global warming, 지구 온난화)' -> '전반적인(a global view, 종합적 관점)'. globally(세계적으로)·globalization(세계화)이 파생. 한국 학습자: global warming(지구 온난화), global economy(세계 경제), go global(세계로 진출하다). local(지역의)이 반의 — think global, act local(세계적으로 생각하고 지역적으로 행동하라).",
+  "syn": ["worldwide(전 세계의)", "international(국제적인)", "universal(보편적인)"],
+  "anti": ["local(지역의)", "regional(지방의)", "national(국내의)"],
+  "idiom": ["go global(세계 시장에 진출하다)", "global village(지구촌)", "think global, act local(세계적 사고, 지역적 실천)"],
+  "colloc": ["global warming(지구 온난화)", "global economy(세계 경제)", "global market(세계 시장)"],
+  "ex_add": "Climate change is a serious global problem.  (global=전 세계의)"
+ },
+ {
+  "num": "1771",
+  "hw": "glove",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "손가락까지 감싸는 '장갑'.",
+  "senses": [
+   "1) 장갑",
+   "2) (권투·야구) 글러브",
+   "3) (the gloves) 권투 시합"
+  ],
+  "etym": "고대 영어 glōf(장갑). '손을 덮는 것'이 핵심. mitten(벙어리장갑)과 달리 손가락이 갈라진 형태. 게르만어 계열.",
+  "deriv": "'손을 덮는 것(장갑)' -> 운동 '글러브(boxing gloves)'. 한국 학습자: glove(손가락 갈라진 장갑)와 mitten(엄지만 갈라진 벙어리장갑)의 구별. fit like a glove(꼭 맞다), handle with kid gloves(아주 조심스레 다루다), the gloves are off(인정사정없이 맞붙다), throw down the gloves(도전장을 내밀다). 영국식 glove compartment(자동차 사물함).",
+  "syn": ["mitten(벙어리장갑)", "gauntlet(긴 장갑)"],
+  "anti": [],
+  "idiom": ["fit like a glove(꼭 맞다)", "handle with kid gloves(살살 다루다)", "the gloves are off(인정사정없다)", "throw down the gauntlet(도전장을 던지다)"],
+  "colloc": ["leather gloves(가죽 장갑)", "pair of gloves(장갑 한 켤레)", "rubber gloves(고무장갑)"],
+  "ex_add": "She wore warm gloves to keep her hands from freezing.  (glove=장갑)"
+ },
+ {
+  "num": "1772",
+  "hw": "go",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "한 곳에서 다른 곳으로 '가다·나아가다' -> (상태로) 되다.",
+  "senses": [
+   "1) 가다·떠나다·나아가다",
+   "2) (어떤 상태로) 되다·변하다 (go bad)",
+   "3) (일이) 진행되다 / (n.) 시도·차례"
+  ],
+  "etym": "고대 영어 gān(가다). 과거형 went는 본래 다른 동사 wend(가다)에서 빌려 온 보충형 — go-went-gone의 불규칙은 두 동사가 합쳐진 결과. '이동'이 핵심.",
+  "deriv": "'가다' -> 상태가 '되다(go wrong, 잘못되다 / go bad, 상하다)' -> 일이 '진행되다(How did it go?)' -> 명사 '시도(have a go, 한번 해보다)'. 구동사 폭발: go on(계속하다), go off(터지다·울리다·상하다), go through(겪다), go for(좋아하다·노리다), go over(검토하다), go without(없이 지내다). 한국 학습자: go + 형용사(보통 나쁜 변화: go blind 실명하다, go mad 미치다)가 핵심 패턴. on the go(바쁜), make a go of(성공시키다).",
+  "syn": ["move(이동하다)", "proceed(나아가다)", "become(되다)"],
+  "anti": ["come(오다)", "stay(머무르다)", "stop(멈추다)"],
+  "idiom": ["go on(계속하다)", "go off(터지다·울리다)", "go through(겪다)", "have a go(한번 해보다)", "on the go(분주한)"],
+  "colloc": ["go home(집에 가다)", "go wrong(잘못되다)", "go bad(상하다)"],
+  "ex_add": "Milk goes bad quickly in hot weather.  (go + 형용사=~한 상태가 되다)"
+ },
+ {
+  "num": "1773",
+  "hw": "graduate",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "학업 단계를 '한 계단 올라' 졸업하다 -> 졸업생.",
+  "senses": [
+   "1) (동사) 졸업하다",
+   "2) (n.) 졸업생·학사",
+   "3) (동사) 단계적으로 올라가다·승급하다"
+  ],
+  "etym": "중세 라틴어 graduari(학위를 받다) < 라틴어 gradus(걸음·단계). '한 단계 올라섬'이 핵심. grade(등급)·gradual(점진적인)·progress(전진)·degree(학위)가 같은 gradus(걸음) 뿌리.",
+  "deriv": "'한 단계 올라섬' -> '졸업하다(graduate from college)' -> 명사 '졸업생(a recent graduate)' -> 단계를 '올라가다(graduate to a harder level)'. gradus(걸음) 뿌리로 grade·gradual·progress·degree와 묶인다. graduation(졸업식)·graduate school(대학원)·undergraduate(학부생)·postgraduate(대학원생)가 파생. 한국 학습자: graduate from(~을 졸업하다)의 from 주의. 명사 발음 /ˈɡrædʒuət/, 동사 /ˈɡrædʒueɪt/.",
+  "syn": ["finish school(학교를 마치다)", "alumnus(졸업생)"],
+  "anti": ["enroll(입학하다)", "drop out(중퇴하다)"],
+  "idiom": ["graduate from(~을 졸업하다)", "graduate school(대학원)", "graduate to(~로 단계가 올라가다)"],
+  "colloc": ["college graduate(대학 졸업생)", "graduate with honors(우등으로 졸업하다)", "recent graduate(최근 졸업자)"],
+  "ex_add": "She graduated from university with a degree in biology.  (graduate from=~을 졸업하다)"
+ },
+ {
+  "num": "1774",
+  "hw": "grain",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "낟알 한 '알' -> 곡물 / 아주 적은 양 / 결.",
+  "senses": [
+   "1) 곡물·낟알",
+   "2) (모래·소금의) 알갱이 / 극소량",
+   "3) (나무·고기의) 결"
+  ],
+  "etym": "라틴어 granum(씨앗·낟알). grain·granule(작은 알갱이)·granary(곡창)·pomegranate(석류, '씨 많은 사과')가 같은 granum(씨앗) 뿌리. corn(곡물)과 의미상 통함.",
+  "deriv": "'한 낟알' -> '곡물(grain crops)' -> '알갱이(a grain of sand)' -> 극소량 'a grain of truth(일말의 진실)' -> 나무의 '결(wood grain)'. granum(씨앗) 뿌리로 granule·granary와 묶인다. against the grain(본성에 거슬러·결을 거슬러), take with a grain of salt(에누리해서 듣다), a grain of(아주 조금의). 한국 학습자: grain이 '곡물', '알갱이', '결' 세 갈래.",
+  "syn": ["cereal(곡류)", "particle(입자)", "texture(결)"],
+  "anti": [],
+  "idiom": ["a grain of truth(일말의 진실)", "against the grain(본성에 맞지 않게)", "take with a grain of salt(걸러 듣다)"],
+  "colloc": ["grain of sand(모래알)", "whole grain(통곡물)", "grain harvest(곡물 수확)"],
+  "ex_add": "There's not a grain of truth in those rumors.  (a grain of=일말의)"
+ },
+ {
+  "num": "1775",
+  "hw": "grateful",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "받은 호의가 '고마워' 감사하는.",
+  "senses": [
+   "1) 고마워하는·감사하는",
+   "2) (grateful to A for B) A에게 B를 감사하는",
+   "3) (격식) 고맙게 여기는"
+  ],
+  "etym": "옛 영어 형용사 grate(기쁜·고마운) < 라틴어 gratus(기쁜·고마운) + -ful(가득한). grace(은총)·agreement(합의, '마음에 듦')·congratulate(축하하다)·gratitude(감사)가 같은 gratus(고마운) 뿌리.",
+  "deriv": "gratus(고마운) + -ful -> 'grateful(감사하는)'. gratus 뿌리로 grace·gratitude·congratulate·agreement(1490)와 묶인다. gratefully(감사히)·gratitude(감사)가 파생. 한국 학습자 핵심 구문: grateful to + 사람 / grateful for + 일 / grateful that절 — be grateful to you for your help. ungrateful(배은망덕한)이 반의. thankful과 유의어이나 grateful이 다소 격식.",
+  "syn": ["thankful(감사하는)", "appreciative(고마워하는)", "indebted(은혜를 입은)"],
+  "anti": ["ungrateful(은혜를 모르는)", "thankless(고마움을 모르는)"],
+  "idiom": ["grateful to A for B(A에게 B를 감사하다)", "eternally grateful(영원히 감사하는)", "I'd be grateful if ~(~해 주시면 감사하겠습니다)"],
+  "colloc": ["deeply grateful(깊이 감사하는)", "grateful for the help(도움에 감사하는)", "forever grateful(영원히 감사하는)"],
+  "ex_add": "I'm really grateful to you for all your help.  (grateful to A for B=A에게 B를 감사하다)"
+ },
+ {
+  "num": "1776",
+  "hw": "growth",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "자라남 = 성장·증가 -> 자라난 것.",
+  "senses": [
+   "1) 성장·발육",
+   "2) 증가·증대",
+   "3) (의학) 종양·혹"
+  ],
+  "etym": "grow(자라다, 고대 영어 grōwan) + -th(명사화 접미사). depth(깊이)·width(폭)·strength(힘)의 -th와 같은 '추상명사'를 만드는 접미사.",
+  "deriv": "grow(자라다) -> 명사 'growth'. '성장(economic growth)' -> '증가(population growth)' -> 의학 '종양(a cancerous growth)'. -th로 만든 추상명사 무리: grow-growth, deep-depth, wide-width, strong-strength. 한국 학습자: -th 명사화(동사·형용사 + th)를 묶어 익히면 좋다. growth rate(성장률), economic growth(경제 성장), a growth spurt(급성장기), stunt growth(성장을 저해하다).",
+  "syn": ["increase(증가)", "development(발달)", "expansion(확대)"],
+  "anti": ["decline(쇠퇴)", "decrease(감소)", "shrinkage(축소)"],
+  "idiom": ["growth spurt(급성장)", "stunt one's growth(성장을 막다)", "growth area(성장 분야)"],
+  "colloc": ["economic growth(경제 성장)", "rapid growth(급성장)", "population growth(인구 증가)"],
+  "ex_add": "The company reported strong growth this year.  (growth=성장)"
+ },
+ {
+  "num": "1777",
+  "hw": "guard",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "위험을 '지켜보며' 막다 -> 경비·경비원.",
+  "senses": [
+   "1) 경비원·보초·수비수",
+   "2) (동사) 지키다·경비하다",
+   "3) 방어 자세·보호 장치"
+  ],
+  "etym": "고대 프랑스어 guarder(지키다) < 게르만어 *wardōn(살피다). 같은 게르만어가 영어로 직접 들어온 게 ward(지키다)·warden(관리인)이고, 프랑스어를 거쳐 온 게 guard. reward(보상)·regard(여기다)·award(수여)도 같은 *wardōn(살피다) 뿌리.",
+  "deriv": "'지켜봄' -> 명사 '경비원(a security guard)' -> 동사 '지키다(guard the gate)' -> '방어 자세(let down one's guard, 경계를 늦추다)'. *wardōn(살피다) 뿌리로 ward·reward·regard·award와 묶인다. guard against(~을 경계하다·예방하다), on guard(경계 중인), off guard(방심한 상태의), bodyguard(경호원), lifeguard(인명구조원). 한국 학습자: w-/gu- 쌍(ward/guard, warranty/guarantee)이 게르만어·프랑스어 두 경로로 들어온 형제어.",
+  "syn": ["protect(보호하다)", "watch(지키다)", "defend(방어하다)"],
+  "anti": ["attack(공격하다)", "expose(노출시키다)", "neglect(방치하다)"],
+  "idiom": ["guard against(~을 경계하다)", "on guard(경계하는)", "catch off guard(허를 찌르다)", "let one's guard down(방심하다)"],
+  "colloc": ["security guard(경비원)", "guard duty(경비 임무)", "guard the entrance(입구를 지키다)"],
+  "ex_add": "Two soldiers guarded the entrance day and night.  (guard=지키다)"
+ },
+ {
+  "num": "1778",
+  "hw": "guilty",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "죄·잘못을 저질러 '켕기는' = 유죄의·죄책감 드는.",
+  "senses": [
+   "1) 유죄의·죄를 범한",
+   "2) 죄책감이 드는·켕기는",
+   "3) (guilty of) ~의 잘못을 저지른"
+  ],
+  "etym": "고대 영어 gyltig < gylt(죄·잘못). guilt(죄·죄책감)가 명사. 어원이 게르만어 계열로 '갚아야 할 잘못'과 관련된 것으로 봄. '죄가 있는'이 핵심.",
+  "deriv": "guilt(죄) -> 'guilty(유죄의)'. 법적 '유죄의(found guilty, 유죄 판결을 받은)' -> 심리 '죄책감 드는(feel guilty)' -> 'guilty of(~의 죄를 범한)'. 한국 학습자 핵심: innocent(무죄의)가 반의. plead guilty(유죄를 인정하다), guilty conscience(가책), a guilty pleasure(남몰래 즐기는 것), guilty as charged(혐의대로 유죄인). guilty about/of 전치사 구별.",
+  "syn": ["culpable(과실 있는)", "responsible(책임 있는)", "ashamed(가책을 느끼는)"],
+  "anti": ["innocent(무죄의)", "blameless(흠 없는)", "guiltless(결백한)"],
+  "idiom": ["plead guilty(유죄를 인정하다)", "guilty conscience(양심의 가책)", "a guilty pleasure(남몰래 즐기는 즐거움)", "guilty as charged(혐의대로 유죄인)"],
+  "colloc": ["feel guilty(죄책감을 느끼다)", "found guilty(유죄로 판명된)", "guilty of murder(살인죄를 지은)"],
+  "ex_add": "He felt guilty about lying to his parents.  (feel guilty about=~에 대해 죄책감을 느끼다)"
+ },
+ {
+  "num": "1779",
+  "hw": "hand",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "물건을 쥐고 다루는 '손' -> 건네주다·일손·도움.",
+  "senses": [
+   "1) 손 / (시계의) 바늘",
+   "2) 일손·도움 / 솜씨",
+   "3) (동사) 건네주다·넘기다"
+  ],
+  "etym": "고대 영어 hand(손). handle(다루다·손잡이)·handful(한 줌)이 한 가족. '쥐고 다루는 신체 부위'가 핵심.",
+  "deriv": "'손' -> 시계의 '바늘(the hour hand)' -> '일손·도움(give me a hand)' -> 동사 '건네주다(hand it to me)'. hand in(제출하다), hand out(나눠 주다), hand over(넘겨주다), hand down(물려주다). by hand(수작업으로), on hand(가까이 있는), out of hand(통제 불능의), get out of hand(걷잡을 수 없게 되다), hands-on(직접 해 보는). 한국 학습자: give somebody a hand(돕다 / 박수를 보내다) 두 뜻.",
+  "syn": ["pass(건네다)", "help(도움)", "assistance(조력)"],
+  "anti": ["receive(받다)", "keep(보유하다)"],
+  "idiom": ["give a hand(돕다·박수 치다)", "hand in(제출하다)", "hand out(나눠 주다)", "out of hand(통제 불능의)", "at hand(가까이 있는)"],
+  "colloc": ["hold hands(손을 잡다)", "hand in homework(숙제를 내다)", "a helping hand(도움의 손길)"],
+  "ex_add": "Could you give me a hand with these boxes?  (give a hand=거들어 주다)"
+ },
+ {
+  "num": "1780",
+  "hw": "hang",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "위에서 아래로 '매달다/매달리다' -> 교수형에 처하다.",
+  "senses": [
+   "1) 걸다·매달다·매달리다",
+   "2) (목매달아) 처형하다·목매다",
+   "3) (hang out) 어울려 놀다 / (컴퓨터가) 멈추다"
+  ],
+  "etym": "고대 영어 hangian(매달리다)/hōn(매달다). '아래로 늘어뜨림'이 핵심. 두 뜻의 과거형이 갈림 — '걸다'는 hung, '교수형'은 hanged(불규칙·규칙 둘).",
+  "deriv": "'매달다' -> 그림을 '걸다(hang a picture)' -> 사람을 '목매달다(hanged for murder)' -> 'hang out(어울려 놀다), hang on(잠깐 기다리다·매달리다), hang up(전화를 끊다), hang around(서성거리다)'. 한국 학습자 핵심: 과거형이 hung(걸다, 일반)과 hanged(교수형) 둘로 갈림. get the hang of(요령을 터득하다), hang in there(버티다), hang loose(느긋하게 있다).",
+  "syn": ["suspend(매달다)", "dangle(달랑거리다)", "execute(처형하다)"],
+  "anti": ["take down(내리다)", "lower(내리다)"],
+  "idiom": ["hang out(어울려 놀다)", "hang on(잠깐 기다리다)", "hang up(전화를 끊다)", "get the hang of(요령을 익히다)", "hang in there(버텨라)"],
+  "colloc": ["hang a picture(그림을 걸다)", "hang on the wall(벽에 걸리다)", "hang up the phone(전화를 끊다)"],
+  "ex_add": "I'm getting the hang of this new software.  (get the hang of=요령을 터득하다)"
+ },
+ {
+  "num": "1781",
+  "hw": "happiness",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "마음이 흡족한 '행복·기쁨'.",
+  "senses": [
+   "1) 행복·기쁨",
+   "2) 만족·흐뭇함",
+   "3) 행복한 상태"
+  ],
+  "etym": "happy(행복한) + -ness(상태). happy는 hap(운·우연, 고대 노르드어 happ)에서 — 본래 '운이 좋은'이 '행복한'으로. happen(일어나다)·perhaps(아마)·mishap(불운)이 같은 hap(운) 뿌리.",
+  "deriv": "hap(운) -> happy(운 좋은·행복한) -> 'happiness(행복)'. hap(운) 뿌리로 happen·perhaps·mishap과 묶인다 — 행복이 본래 '운'에서 왔음이 흥미롭다. 한국 학습자: -ness로 형용사를 추상명사로(kind-kindness, sad-sadness, dark-darkness). find happiness(행복을 찾다), pursuit of happiness(행복 추구), Money can't buy happiness(돈으로 행복을 살 수 없다). unhappiness(불행)가 반의.",
+  "syn": ["joy(기쁨)", "contentment(만족)", "bliss(더없는 행복)"],
+  "anti": ["sadness(슬픔)", "unhappiness(불행)", "misery(비참)"],
+  "idiom": ["pursuit of happiness(행복 추구)", "money can't buy happiness(돈으로 행복을 살 수 없다)"],
+  "colloc": ["true happiness(진정한 행복)", "find happiness(행복을 찾다)", "bring happiness(행복을 가져다주다)"],
+  "ex_add": "Her face was glowing with happiness.  (happiness=행복)"
+ },
+ {
+  "num": "1782",
+  "hw": "hardly",
+  "pos": "adv.",
+  "cefr": "B1",
+  "core": "'거의 ~ 아니다' (정도가 극히 적음을 나타내는 준부정어).",
+  "senses": [
+   "1) 거의 ~않다",
+   "2) 좀처럼 ~않다",
+   "3) (hardly ~ when) ~하자마자"
+  ],
+  "etym": "hard(굳은·힘든, 고대 영어 heard) + -ly. 본래 '힘들게'였다가 '간신히 -> 거의 ~ 못 하는'으로 의미가 약화·부정화됨. '힘겨워 거의 못 함'이 핵심.",
+  "deriv": "hard(힘든) -> 'hardly(거의 ~않다)'. 한국 학습자 최다 함정: hardly는 '열심히(X)'가 아니라 '거의 ~않다'는 준부정어! '열심히'는 hard(부사). hardly any(거의 없는), hardly ever(좀처럼 ~않는), can hardly wait(어서 ~하고 싶다), hardly ~ when/before(~하자마자). 이미 부정의 뜻이라 not과 같이 안 씀. scarcely·barely와 유의어.",
+  "syn": ["scarcely(거의 ~않다)", "barely(가까스로)", "rarely(좀처럼)"],
+  "anti": ["definitely(확실히)", "certainly(틀림없이)", "easily(쉽게)"],
+  "idiom": ["hardly any(거의 없는)", "hardly ever(좀처럼 ~않는)", "can hardly wait(몹시 기다려지다)", "hardly ~ when …(~하자마자 …)"],
+  "colloc": ["hardly anything(거의 아무것도)", "hardly anyone(거의 아무도)", "hardly surprising(놀랄 일도 아닌)"],
+  "ex_add": "I could hardly hear him over the noise.  (hardly=거의 ~ 못 하다, 준부정)"
+ },
+ {
+  "num": "1783",
+  "hw": "hate",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "강하게 '싫어하다·미워하다' = 증오.",
+  "senses": [
+   "1) 미워하다·몹시 싫어하다",
+   "2) (hate to V/V-ing) ~하기 정말 싫다",
+   "3) (n.) 증오·혐오"
+  ],
+  "etym": "고대 영어 hete(증오)/hatian(미워하다). hatred(증오)·hateful(혐오스러운)이 한 가족. '강한 적개심'이 핵심.",
+  "deriv": "'미워하다' -> 'hate to V(~하기 정말 싫다, 유감의 뉘앙스)' / 'hate V-ing(~하는 걸 싫어하다)' -> 명사 '증오(love and hate)'. hatred(증오)·hateful(가증스러운)이 파생. 한국 학습자: I hate to V(~하기 정말 미안/싫지만)와 I hate V-ing(~하는 행위 자체가 싫다)의 미묘한 차이. hate speech(혐오 발언), pet hate(질색하는 것), love-hate relationship(애증 관계). like/love(좋아하다)가 반의.",
+  "syn": ["detest(몹시 싫어하다)", "loathe(혐오하다)", "despise(경멸하다)"],
+  "anti": ["love(사랑하다)", "adore(아주 좋아하다)", "like(좋아하다)"],
+  "idiom": ["hate someone's guts(아주 싫어하다)", "pet hate(질색하는 것)", "love-hate relationship(애증 관계)", "I hate to say it but ~(이런 말 하기 싫지만)"],
+  "colloc": ["hate speech(혐오 발언)", "absolutely hate(질색하다)", "hate crime(증오 범죄)"],
+  "ex_add": "I hate to bother you, but could you help me?  (hate to V=~하기 정말 미안하지만)"
+ },
+ {
+  "num": "1784",
+  "hw": "head",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "몸의 맨 위 '머리' -> 우두머리·맨 앞 / ~로 향하다.",
+  "senses": [
+   "1) 머리 / 두뇌·지능",
+   "2) 우두머리·장(長) / 맨 앞·꼭대기",
+   "3) (동사) ~을 이끌다 / ~로 향하다"
+  ],
+  "etym": "고대 영어 hēafod(머리). 라틴어 caput(머리, captain·chapter·capital의 뿌리)와 먼 인도유럽 친척. '꼭대기·우두머리'가 핵심.",
+  "deriv": "'머리' -> 두뇌 '지능(use your head)' -> 조직의 '우두머리(head of state, 국가원수)' -> 맨 앞·꼭대기 -> 동사 '이끌다(head a team)·향하다(head home, 집으로 향하다)'. head for/toward(~로 향하다), head off(막다·출발하다), ahead(앞으로). keep a cool head(냉정을 유지하다), off the top of one's head(즉석에서), head over heels(홀딱 반한). 한국 학습자: head가 동사 '향하다·이끌다'로 매우 자주.",
+  "syn": ["leader(지도자)", "chief(우두머리)", "lead(이끌다)"],
+  "anti": ["foot(발·맨 아래)", "tail(꼬리·끝)", "follow(따르다)"],
+  "idiom": ["head for(~로 향하다)", "keep a cool head(냉정을 유지하다)", "off the top of one's head(즉흥적으로)", "head over heels(홀딱 빠진)", "go over one's head(이해 못 하다)"],
+  "colloc": ["head of state(국가원수)", "shake one's head(고개를 젓다)", "head home(집으로 향하다)"],
+  "ex_add": "It's getting late — let's head home.  (head=~로 향하다)"
+ },
+ {
+  "num": "1785",
+  "hw": "headline",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "기사 맨 위에 큰 글씨로 단 '제목·표제'.",
+  "senses": [
+   "1) (신문) 표제·헤드라인",
+   "2) (the headlines) 주요 뉴스",
+   "3) (동사) 주연으로 나서다"
+  ],
+  "etym": "head(머리·맨 위) + line(줄). '기사 맨 윗줄'이 핵심. head(1784)의 '꼭대기' 뜻과 line(줄)의 합성어.",
+  "deriv": "head(맨 위) + line(줄) -> 'headline(표제)'. 기사의 '제목(a bold headline)' -> 'the headlines(주요 뉴스, today's headlines)' -> 동사 '주연을 맡다(headline a concert)'. 한국 학습자: hit the headlines / make headlines(대서특필되다·화제가 되다), grab the headlines(언론의 주목을 받다), headline news(톱뉴스), headline act(주연 공연자). subheading(소제목)과 대비.",
+  "syn": ["heading(표제)", "title(제목)", "caption(설명 표제)"],
+  "anti": [],
+  "idiom": ["hit the headlines(대서특필되다)", "make headlines(화제가 되다)", "grab the headlines(언론의 이목을 끌다)"],
+  "colloc": ["front-page headline(1면 표제)", "headline news(주요 뉴스)", "bold headline(굵은 표제)"],
+  "ex_add": "The scandal made headlines around the world.  (make headlines=대서특필되다)"
+ },
+ {
+  "num": "1786",
+  "hw": "heating",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "공간을 따뜻하게 데우는 '난방(장치)'.",
+  "senses": [
+   "1) 난방·난방 장치",
+   "2) 가열·데움",
+   "3) 난방 시설"
+  ],
+  "etym": "heat(열·데우다, 고대 영어 hǣtu) + -ing(명사형). hot(뜨거운)·heat(열)와 한 가족. '데우는 일'이 핵심.",
+  "deriv": "heat(데우다) -> 명사 'heating(난방)'. central heating(중앙난방), underfloor heating(바닥 난방), turn on the heating(난방을 켜다). 한국 학습자: heating(난방)과 cooling(냉방)이 짝, heating and cooling = 냉난방(HVAC). 영국식 heating은 미국식 heat(난방)에 해당. heat가 명사 '열·더위'·동사 '데우다'·heating은 '난방 시스템'. heater(난방기)가 별도 기기.",
+  "syn": ["warmth(온기)", "heat(난방)"],
+  "anti": ["cooling(냉방)", "air conditioning(냉방)"],
+  "idiom": ["central heating(중앙난방)", "underfloor heating(바닥 난방)"],
+  "colloc": ["central heating(중앙난방)", "turn on the heating(난방을 켜다)", "heating system(난방 시스템)"],
+  "ex_add": "The central heating broke down in the middle of winter.  (heating=난방)"
+ },
+ {
+  "num": "1787",
+  "hw": "heavily",
+  "pos": "adv.",
+  "cefr": "B1",
+  "core": "무겁게 / 정도가 '심하게·잔뜩'.",
+  "senses": [
+   "1) (정도) 심하게·많이",
+   "2) 무겁게·묵직하게",
+   "3) (의존·투자가) 크게"
+  ],
+  "etym": "heavy(무거운, 고대 영어 hefig < hebban 들어 올리다) + -ly. '무게가 나가게'에서 정도 '심하게'로 확장. heave(들어 올리다)와 한 뿌리.",
+  "deriv": "heavy(무거운) -> 부사 'heavily'. 물리 '무겁게(breathe heavily, 가쁘게 숨 쉬다)' -> 정도 '심하게(rain heavily, 비가 억수같이 오다)' -> '크게(rely heavily on, ~에 크게 의존하다)'. 한국 학습자: heavily가 날씨·의존·투자 등 정도를 강조 — heavily armed(중무장한), heavily influenced(크게 영향받은), drink heavily(폭음하다), heavily populated(인구가 밀집한). lightly(가볍게)가 반의.",
+  "syn": ["severely(심하게)", "intensely(강렬하게)", "greatly(크게)"],
+  "anti": ["lightly(가볍게)", "slightly(약간)"],
+  "idiom": ["rely heavily on(~에 크게 의존하다)", "heavily armed(중무장한)", "weigh heavily on(~을 무겁게 짓누르다)"],
+  "colloc": ["rain heavily(비가 많이 오다)", "heavily influenced(크게 영향받은)", "invest heavily(많이 투자하다)"],
+  "ex_add": "It rained heavily all night long.  (heavily=심하게)"
+ },
+ {
+  "num": "1788",
+  "hw": "helicopter",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "회전 날개로 나는 '헬리콥터' (나선 날개).",
+  "senses": [
+   "1) 헬리콥터",
+   "2) (the helicopter) 헬기 수송",
+   "3) (helicopter parent) 과잉보호 부모"
+  ],
+  "etym": "그리스어 helix(나선·소용돌이) + pteron(날개). '나선형 날개'가 핵심. helix(나선)·pterodactyl(익룡, '날개 손가락')·helicoid가 같은 뿌리. 19세기 프랑스어 hélicoptère에서.",
+  "deriv": "helix(나선) + pteron(날개) -> 'helicopter(헬리콥터)'. pteron(날개) 뿌리로 pterodactyl(익룡)과 묶인다. 줄여서 chopper·copter. helicopter parent(자녀 주위를 헬기처럼 맴도는 과잉보호 부모)·helicopter view(전체를 조망하는 시각)가 비유 파생. 한국 학습자: 그리스어 helix(나선)+pteron(날개)의 결합으로 분석하면 철자가 외워진다. 발음 /ˈhelɪkɒptə/.",
+  "syn": ["chopper(헬기, 구어)", "copter(헬기)"],
+  "anti": [],
+  "idiom": ["helicopter parent(과잉보호 부모)", "helicopter view(전체 조망 시각)"],
+  "colloc": ["military helicopter(군용 헬기)", "rescue helicopter(구조 헬기)", "helicopter pilot(헬기 조종사)"],
+  "ex_add": "A rescue helicopter airlifted the injured climbers.  (helicopter=헬리콥터)"
+ },
+ {
+  "num": "1789",
+  "hw": "highlight",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "'밝게 비춰' 도드라지게 함 -> 강조하다 / 가장 멋진 부분.",
+  "senses": [
+   "1) (동사) 강조하다·부각하다",
+   "2) (동사) (형광펜으로) 표시하다",
+   "3) (n.) 가장 멋진 부분·하이라이트 / (머리) 부분 염색"
+  ],
+  "etym": "high(높은) + light(빛). 본래 그림·사진에서 '가장 밝은 부분'을 가리키던 미술 용어 -> '돋보이게 하다'. high(높은)와 light(빛)의 투명한 합성어.",
+  "deriv": "'가장 밝은 부분' -> 동사 '강조하다(highlight a problem)' -> 형광펜으로 '표시하다(highlight the key points)' -> 명사 '백미(the highlight of the trip)' -> 머리 '부분 염색'. 한국 학습자: highlight가 동사 '강조하다'(emphasize)와 명사 '하이라이트(가장 좋은 부분)' 둘 다 빈출. highlighter(형광펜), highlight reel(명장면 모음), the highlight of the evening(그날 저녁의 백미).",
+  "syn": ["emphasize(강조하다)", "underline(부각하다)", "feature(부각하다)"],
+  "anti": ["downplay(대수롭지 않게 다루다)", "obscure(가리다)"],
+  "idiom": ["highlight reel(명장면 모음)", "the highlight of(~의 백미)"],
+  "colloc": ["highlight the importance(중요성을 강조하다)", "highlight a problem(문제를 부각하다)", "career highlight(경력의 백미)"],
+  "ex_add": "The report highlights the need for better safety rules.  (highlight=강조하다)"
+ },
+ {
+  "num": "1790",
+  "hw": "highly",
+  "pos": "adv.",
+  "cefr": "B1",
+  "core": "정도가 '대단히·매우' / 높이 평가하여.",
+  "senses": [
+   "1) 대단히·매우(정도)",
+   "2) 높이·고도로",
+   "3) 높이 평가하여·호의적으로"
+  ],
+  "etym": "high(높은, 고대 영어 hēah) + -ly. '높은 정도로'가 핵심. high(높은)·height(높이)와 한 가족.",
+  "deriv": "high(높은) -> 부사 'highly(대단히)'. 한국 학습자 핵심: highly는 '높이(물리적)'가 아니라 주로 '매우(정도)'를 뜻함 — 물리적으로 '높이'는 high(부사). highly는 형용사·과거분사를 수식(highly likely 매우 그럴듯한, highly recommended 강력 추천되는, highly skilled 고도로 숙련된). think highly of(~을 높이 평가하다), speak highly of(~을 칭찬하다), highly paid(고액 연봉의).",
+  "syn": ["extremely(극도로)", "very(매우)", "greatly(크게)"],
+  "anti": ["slightly(약간)", "poorly(형편없이)", "lowly(낮게)"],
+  "idiom": ["think highly of(~을 높이 평가하다)", "speak highly of(~을 칭찬하다)", "highly likely(매우 그럴 법한)"],
+  "colloc": ["highly recommended(강력 추천하는)", "highly skilled(고도로 숙련된)", "highly unlikely(매우 가능성 낮은)"],
+  "ex_add": "This book comes highly recommended by critics.  (highly=대단히)"
+ },
+ {
+  "num": "1791",
+  "hw": "highway",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "차가 빨리 달리는 큰 '간선도로·고속도로'.",
+  "senses": [
+   "1) (간선) 도로·고속도로",
+   "2) 주요 도로·공공 도로",
+   "3) (비유) 지름길·통로"
+  ],
+  "etym": "high(높은·주요한) + way(길). 본래 '둑을 높이 돋운 주요 도로(the king's highway)'에서. high(주요한)와 way(길)의 합성어. '으뜸가는 큰길'이 핵심.",
+  "deriv": "high(주요한) + way(길) -> 'highway(간선도로)'. '고속도로(an interstate highway)' -> 비유 'information highway(정보 고속도로)'. 한국 학습자: 미국식 highway/freeway(고속도로), 영국식 motorway. highway code(도로교통법규, 영국), the highway to(~로 가는 지름길), highway robbery(바가지 요금). expressway(고속화 도로)와 유의어. 한국의 '고속도로'는 expressway/highway.",
+  "syn": ["motorway(고속도로, 영)", "freeway(고속도로, 미)", "expressway(고속화 도로)"],
+  "anti": ["side road(샛길)", "back road(시골길)"],
+  "idiom": ["information highway(정보 고속도로)", "highway robbery(터무니없는 바가지)", "the high road(정정당당한 길)"],
+  "colloc": ["busy highway(번잡한 고속도로)", "highway exit(고속도로 출구)", "along the highway(고속도로를 따라)"],
+  "ex_add": "We drove down the highway for three hours.  (highway=고속도로)"
+ }
+]

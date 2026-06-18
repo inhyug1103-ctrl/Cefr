@@ -1,0 +1,952 @@
+[
+ {
+  "num": "1792",
+  "hw": "historic",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "역사에 남을 만큼 '역사적으로 중요한'.",
+  "senses": [
+   "1) 역사적으로 중요한·기념비적인",
+   "2) (사건이) 역사에 남을",
+   "3) 유서 깊은"
+  ],
+  "etym": "그리스어 historia(탐구·이야기) < histor(아는 사람). story(이야기)·history(역사)가 같은 뿌리. '역사에 기록될 만한'이 핵심.",
+  "deriv": "history(역사) -> 'historic(역사적으로 중요한)'. 한국 학습자 최다 혼동: historic(역사에 남을 만큼 중대한, a historic victory 역사적 승리)와 historical(역사에 관한·역사상 실재한, a historical novel 역사 소설)을 구별! historic은 '중요성', historical은 '역사 관련'. a historic moment(역사적 순간), a historic building(역사적 건축물). 발음상 an historic도 허용되나 a historic이 표준.",
+  "syn": ["momentous(중대한)", "landmark(획기적인)", "epoch-making(획기적인)"],
+  "anti": ["insignificant(사소한)", "trivial(하찮은)"],
+  "idiom": ["a historic occasion(역사적인 행사)", "make history(역사를 만들다)"],
+  "colloc": ["historic moment(역사적 순간)", "historic victory(역사적 승리)", "historic site(사적지)"],
+  "ex_add": "The signing of the treaty was a historic event.  (historic=역사적으로 중요한)"
+ },
+ {
+  "num": "1793",
+  "hw": "historical",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "역사에 '관한' / 역사상 실재한.",
+  "senses": [
+   "1) 역사의·역사에 관한",
+   "2) 역사상 실재한",
+   "3) 사료에 근거한"
+  ],
+  "etym": "history(역사, 그리스어 historia 탐구) + -ical. story(이야기)와 한 뿌리. '역사와 관련된'이 핵심.",
+  "deriv": "history(역사) -> 'historical(역사의)'. 한국 학습자 핵심 구별(1792 historic과 짝): historical은 '역사에 관한·실재한'(a historical figure 역사적 실존 인물, historical records 사료), historic은 '역사에 남을 만큼 중대한'. -ical/-ic 한 글자 차이로 뜻이 갈림. historically(역사적으로)가 부사. historical context(역사적 맥락), historical accuracy(역사적 정확성), historical evidence(사료).",
+  "syn": ["factual(사실의)", "documented(기록된)"],
+  "anti": ["fictional(허구의)", "legendary(전설의)", "mythical(신화의)"],
+  "idiom": ["historical context(역사적 맥락)", "historical accuracy(고증)"],
+  "colloc": ["historical figure(역사적 인물)", "historical novel(역사 소설)", "historical records(사료)"],
+  "ex_add": "The movie is based on a historical figure.  (historical=역사상 실재한)"
+ },
+ {
+  "num": "1794",
+  "hw": "honest",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "거짓 없이 '정직한·솔직한'.",
+  "senses": [
+   "1) 정직한·거짓 없는",
+   "2) 솔직한·진솔한",
+   "3) 정당한·떳떳한"
+  ],
+  "etym": "라틴어 honestus(명예로운) < honos/honor(명예). 본래 '명예를 지키는'에서 '정직한'으로. honor(명예)·honorable(명예로운)이 같은 honos 뿌리. h는 묵음 /ˈɒnɪst/.",
+  "deriv": "honos(명예) -> honestus(명예로운) -> 'honest(정직한)'. honor(명예) 뿌리로 honesty·honorable과 묶인다. 한국 학습자: honest의 h는 묵음이라 앞에 an honest(an을 씀). to be honest(솔직히 말하면), an honest mistake(고의 아닌 실수), honest with(~에게 솔직한), make an honest living(정직하게 벌어 살다). dishonest(부정직한)가 반의. honesty(정직)가 명사 — Honesty is the best policy(정직이 최선책).",
+  "syn": ["truthful(진실한)", "sincere(진솔한)", "frank(솔직한)"],
+  "anti": ["dishonest(부정직한)", "deceitful(속이는)", "lying(거짓말하는)"],
+  "idiom": ["to be honest(솔직히 말하면)", "an honest mistake(고의가 아닌 실수)", "honest to goodness(정말로)", "make an honest living(정직하게 살다)"],
+  "colloc": ["honest answer(솔직한 대답)", "completely honest(완전히 솔직한)", "honest opinion(솔직한 의견)"],
+  "ex_add": "To be honest, I didn't enjoy the movie at all.  (to be honest=솔직히 말하면)"
+ },
+ {
+  "num": "1795",
+  "hw": "horrible",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "소름이 돋을 만큼 '끔찍한·지긋지긋한'.",
+  "senses": [
+   "1) 끔찍한·소름 끼치는",
+   "2) (구어) 지독한·형편없는",
+   "3) 불쾌한·고약한"
+  ],
+  "etym": "라틴어 horribilis < horrere(털이 곤두서다·몸서리치다). '소름이 돋게 하는'이 핵심. horror(공포)·horrify(겁먹게 하다)·horrendous(끔찍한)가 같은 horrere(몸서리치다) 뿌리.",
+  "deriv": "horrere(몸서리치다) -> 'horrible(끔찍한)'. horror(1796)와 한 가족. 강한 '끔찍한(a horrible accident)' -> 구어 약화 '지독한(horrible weather, 형편없는 날씨)'. horribly(끔찍하게)가 부사. 한국 학습자: horrible은 일상에서 '아주 나쁜·싫은'으로 가볍게도 씀(a horrible day). terrible·awful과 유의어. a horrible smell(역겨운 냄새), feel horrible(몸이 안 좋다·미안하다).",
+  "syn": ["terrible(끔찍한)", "awful(지독한)", "dreadful(무시무시한)"],
+  "anti": ["wonderful(멋진)", "lovely(사랑스러운)", "pleasant(기분 좋은)"],
+  "idiom": ["a horrible feeling(불길한 느낌)", "look horrible(꼴이 말이 아니다)"],
+  "colloc": ["horrible weather(끔찍한 날씨)", "horrible accident(참혹한 사고)", "absolutely horrible(정말 끔찍한)"],
+  "ex_add": "What a horrible smell — something must be rotten.  (horrible=끔찍한)"
+ },
+ {
+  "num": "1796",
+  "hw": "horror",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "몸서리쳐지는 '공포·전율' -> 끔찍한 것.",
+  "senses": [
+   "1) 공포·전율",
+   "2) 끔찍함·참상",
+   "3) (장르) 공포물 / 질색하는 것"
+  ],
+  "etym": "라틴어 horror(떨림·소름) < horrere(털이 곤두서다). horrible(끔찍한, 1795)·horrify(겁주다)·horrendous(끔찍한)가 같은 horrere 뿌리. '소름 끼치는 두려움'이 핵심.",
+  "deriv": "horrere(몸서리치다) -> 'horror(공포)'. horrible과 한 가족. '전율(a look of horror)' -> '참상(the horrors of war, 전쟁의 참상)' -> 장르 'horror movie(공포 영화)'. 한국 학습자: fear(두려움)보다 horror가 '소름·역겨움이 섞인 강한 공포'. to one's horror(섬뜩하게도), have a horror of(~을 몹시 싫어하다), a horror story(공포 이야기·끔찍한 일), the horror of it(그 끔찍함).",
+  "syn": ["terror(공포)", "dread(두려움)", "revulsion(혐오)"],
+  "anti": ["delight(기쁨)", "comfort(안도)"],
+  "idiom": ["to one's horror(섬뜩하게도)", "have a horror of(~을 질색하다)", "a horror story(끔찍한 이야기)"],
+  "colloc": ["sheer horror(순전한 공포)", "horror movie(공포 영화)", "in horror(겁에 질려)"],
+  "ex_add": "She watched in horror as the car skidded off the road.  (in horror=겁에 질려)"
+ },
+ {
+  "num": "1797",
+  "hw": "hurricane",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "거센 비바람을 동반한 열대성 '대폭풍'.",
+  "senses": [
+   "1) 허리케인·대폭풍",
+   "2) (비유) 맹렬한 기세",
+   "3) 폭풍우"
+  ],
+  "etym": "스페인어 huracán < 카리브 타이노족 말 hurakán(폭풍의 신). 신대륙 원주민어가 스페인어를 거쳐 영어로 들어온 차용어. '거센 회오리 폭풍'이 핵심.",
+  "deriv": "원주민어 '폭풍의 신' -> 'hurricane(허리케인)'. 한국 학습자: 같은 열대성 저기압이 지역마다 이름이 다름 — 대서양·동태평양은 hurricane, 서태평양(한국 등)은 typhoon(태풍), 인도양은 cyclone(사이클론). hurricane season(허리케인 철), the eye of the hurricane(태풍의 눈), hurricane warning(허리케인 경보), like a hurricane(맹렬하게).",
+  "syn": ["typhoon(태풍)", "cyclone(사이클론)", "storm(폭풍)"],
+  "anti": ["calm(무풍)", "breeze(산들바람)"],
+  "idiom": ["the eye of the hurricane(태풍의 눈·잠시의 고요)", "like a hurricane(맹렬하게)"],
+  "colloc": ["powerful hurricane(강력한 허리케인)", "hurricane season(허리케인 철)", "hurricane warning(허리케인 경보)"],
+  "ex_add": "The hurricane destroyed hundreds of homes along the coast.  (hurricane=허리케인)"
+ },
+ {
+  "num": "1798",
+  "hw": "hurry",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "급해서 '서두르다' = 서두름.",
+  "senses": [
+   "1) 서두르다·급히 하다",
+   "2) 재촉하다·급히 데려가다",
+   "3) (n.) 서두름·급함"
+  ],
+  "etym": "16세기 영어, '와락 몰아침'을 흉내 낸 의성어로 추정(어원이 확실치 않음). hurry-scurry(허둥지둥)처럼 분주함의 소리·움직임이 핵심.",
+  "deriv": "'서두르다(hurry up!)' -> '재촉하다(hurry the children along)' -> 명사 '급함(in a hurry, 서둘러)'. 한국 학습자: hurry up(서두르다, 명령으로 자주), in a hurry(급히·서둘러), no hurry(천천히 해도 돼), what's the hurry?(왜 서두르니?), hurry along(재촉하다). rush·hasten과 유의어. There's no hurry(급할 거 없어)는 회화 빈출.",
+  "syn": ["rush(서두르다)", "hasten(서두르다)", "dash(서둘러 가다)"],
+  "anti": ["dawdle(꾸물거리다)", "linger(머뭇거리다)", "relax(느긋하다)"],
+  "idiom": ["hurry up(서두르다)", "in a hurry(서둘러)", "no hurry(급할 것 없다)", "in no hurry(느긋하게)"],
+  "colloc": ["hurry up(서두르다)", "be in a hurry(바쁘다)", "hurry home(서둘러 집에 가다)"],
+  "ex_add": "There's no hurry — take your time.  (no hurry=급할 것 없다)"
+ },
+ {
+  "num": "1799",
+  "hw": "identity",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "'바로 그것임' = 누구인지·무엇인지 정체성.",
+  "senses": [
+   "1) 신원·정체",
+   "2) 정체성·개성",
+   "3) 동일함·일치"
+  ],
+  "etym": "후기 라틴어 identitas < 라틴어 idem(같은 것). '늘 같은 바로 그것'이 핵심. identical(동일한)·identify(확인하다)·ID가 같은 idem(같은) 뿌리.",
+  "deriv": "idem(같은 것) -> 'identity(정체성)'. 법적 '신원(prove your identity)' -> 심리·문화 '정체성(national identity, 국가 정체성)' -> 수학 '동일성'. idem(같은) 뿌리로 identical·identify와 묶인다. identity card(신분증), identity theft(명의 도용), mistaken identity(사람을 잘못 봄), a sense of identity(정체감), lose one's identity(자아를 잃다). 한국 학습자: ID(identity/identification의 약자)가 '신분증·아이디'.",
+  "syn": ["selfhood(자아)", "individuality(개성)", "character(성격)"],
+  "anti": ["anonymity(익명성)"],
+  "idiom": ["identity crisis(정체성 위기)", "mistaken identity(오인)", "identity theft(명의 도용)"],
+  "colloc": ["national identity(국가 정체성)", "prove identity(신원을 증명하다)", "sense of identity(정체감)"],
+  "ex_add": "The police are trying to confirm the victim's identity.  (identity=신원)"
+ },
+ {
+  "num": "1800",
+  "hw": "ignore",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "알면서도 '모르는 척' 무시하다·못 본 체하다.",
+  "senses": [
+   "1) 무시하다·못 본 체하다",
+   "2) (충고·규칙을) 무시하다",
+   "3) (의도적으로) 외면하다"
+  ],
+  "etym": "라틴어 ignorare = i(g)(in-, 아닌) + gnarus(아는). '알지 못하다 -> 모른 체하다'. 여기 in-은 '부정(not)'. know(알다)·recognize(알아보다)·diagnose(진단하다)·notice가 같은 gno-(알다) 뿌리.",
+  "deriv": "'알지 못함' -> 알면서도 '모른 체하다(ignore the warning)'. 부정 접두사 in-(아닌) + gnarus(아는). gno-(알다) 뿌리로 recognize·diagnose와 묶인다. ignorance(무지)·ignorant(무지한)이 파생. 한국 학습자 최다 혼동: ignore(알면서 일부러 무시하다)와 be ignorant of(몰라서 모르다)는 다름! ignore가 더 능동적. ignore the fact(사실을 외면하다), can't ignore(무시할 수 없다).",
+  "syn": ["disregard(무시하다)", "overlook(간과하다)", "neglect(소홀히 하다)"],
+  "anti": ["notice(알아채다)", "heed(유념하다)", "acknowledge(인정하다)"],
+  "idiom": ["ignore the obvious(뻔한 것을 외면하다)", "can't be ignored(무시할 수 없다)"],
+  "colloc": ["ignore the warning(경고를 무시하다)", "completely ignore(완전히 무시하다)", "ignore the rules(규칙을 무시하다)"],
+  "ex_add": "You can't just ignore the problem and hope it goes away.  (ignore=무시하다)"
+ },
+ {
+  "num": "1801",
+  "hw": "illegal",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "법에 '맞지 않는' = 불법의.",
+  "senses": [
+   "1) 불법의·위법의",
+   "2) 법으로 금지된",
+   "3) 무허가의"
+  ],
+  "etym": "라틴어 illegalis = il(in-, 아닌; l 앞에서 il-로) + legalis(법의, < lex 법). '법에 맞지 않는'. 여기 in-은 '부정(not)'. legal(합법의)·legislate(입법하다)·legitimate(정당한)·loyal이 같은 lex(법) 뿌리.",
+  "deriv": "legal(합법의) + il-(아닌) -> 'illegal(불법의)'. 부정 접두사 in-이 l 앞에서 il-로 변함(in→il, 동화). lex(법) 뿌리로 legal·legislate와 묶인다. illegally(불법으로)가 부사. 한국 학습자: in- 부정 접두사의 변형 — il-(legal→illegal), im-(possible→impossible), ir-(regular→irregular), in-(correct→incorrect). 뒤 자음에 맞춰 변함. illegal immigration(불법 이민), illegal drugs(불법 약물).",
+  "syn": ["unlawful(위법의)", "illicit(불법의)", "criminal(범죄의)"],
+  "anti": ["legal(합법의)", "lawful(적법한)", "legitimate(정당한)"],
+  "idiom": ["illegal immigration(불법 이민)", "strictly illegal(엄격히 불법인)"],
+  "colloc": ["illegal activity(불법 행위)", "illegal drugs(불법 마약)", "illegal parking(불법 주차)"],
+  "ex_add": "Downloading copyrighted films for free is illegal.  (illegal=불법의)"
+ },
+ {
+  "num": "1802",
+  "hw": "imaginary",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "머릿속으로만 그린 = '상상의·가상의'.",
+  "senses": [
+   "1) 상상의·가공의",
+   "2) 실재하지 않는·허구의",
+   "3) (수학) 허수의"
+  ],
+  "etym": "라틴어 imaginarius < imago(상·모습). '마음에 그린 상'이 핵심. image(이미지)·imagine(상상하다)·imitate(흉내 내다)가 같은 imago(상) 뿌리.",
+  "deriv": "imago(상) -> imagine(상상하다) -> 'imaginary(상상의)'. imago(상) 뿌리로 image·imitate와 묶인다. 한국 학습자 최다 혼동 3종: imaginary(실재하지 않는 상상의, an imaginary friend 상상의 친구), imaginative(상상력이 풍부한, an imaginative child), imaginable(상상할 수 있는, the best imaginable). 한 어근 세 형용사를 구별! an imaginary line(가상의 선), imaginary number(허수).",
+  "syn": ["fictional(허구의)", "made-up(꾸며 낸)", "unreal(비현실적인)"],
+  "anti": ["real(실재의)", "actual(실제의)", "genuine(진짜의)"],
+  "idiom": ["an imaginary friend(상상 속 친구)", "imaginary line(가상의 선)"],
+  "colloc": ["imaginary world(상상의 세계)", "imaginary creature(가공의 생물)", "purely imaginary(순전히 상상의)"],
+  "ex_add": "The child has an imaginary friend named Sam.  (imaginary=상상의)"
+ },
+ {
+  "num": "1803",
+  "hw": "immediate",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "사이에 '아무것도 없는' = 즉각의·바로 곁의.",
+  "senses": [
+   "1) 즉각적인·당장의",
+   "2) (공간·관계가) 바로 옆의·직계의",
+   "3) 당면한·가장 가까운"
+  ],
+  "etym": "라틴어 immediatus = im(in-, 아닌) + mediatus(중간의, < medius 가운데). '중간에 낀 것이 없는 -> 즉각의'. 여기 in-은 '부정(not)'. medium(매개)·mediate(중재하다)·middle(가운데)이 같은 medius(가운데) 뿌리.",
+  "deriv": "'중간이 없는' -> 시간 '즉각적인(an immediate response)' -> 공간·관계 '바로 옆의(the immediate area, 인근 / immediate family, 직계 가족)' -> '당면한(immediate concern)'. 부정 in-(아닌) + medius(가운데). medius 뿌리로 medium·mediate와 묶인다. immediately(즉시)가 부사. 한국 학습자: immediate family(직계 가족), with immediate effect(즉시 발효), the immediate future(가까운 장래).",
+  "syn": ["instant(즉각의)", "prompt(신속한)", "adjacent(바로 옆의)"],
+  "anti": ["delayed(지연된)", "eventual(궁극의)", "distant(먼)"],
+  "idiom": ["with immediate effect(즉시 발효되는)", "immediate family(직계 가족)", "the immediate future(가까운 미래)"],
+  "colloc": ["immediate response(즉각적 대응)", "immediate action(즉각 조치)", "immediate area(인근 지역)"],
+  "ex_add": "The medicine had an immediate effect.  (immediate=즉각적인)"
+ },
+ {
+  "num": "1804",
+  "hw": "immigrant",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "다른 나라에서 '안으로 들어와' 정착한 사람 = 이민자.",
+  "senses": [
+   "1) (들어온) 이민자·이주민",
+   "2) (정착) 외국 이주자",
+   "3) (형용사적) 이민의"
+  ],
+  "etym": "라틴어 immigrare = im(in-, 안으로) + migrare(옮기다). '안으로 옮겨 들어옴'. 여기 in-은 '방향(into)'. migrate(이주하다)·emigrant(타국으로 떠나는 이민자)·migration(이주)이 같은 migrare(옮기다) 뿌리.",
+  "deriv": "'안으로 이주해 온 사람' -> 'immigrant(이민자)'. 방향 in-(안으로) + migrare(옮기다). 한국 학습자 핵심 구별: immigrant(들어오는 이민자, im-=안으로)와 emigrant(나가는 이민자, e-=밖으로)! 같은 사람이 떠나는 나라에선 emigrant, 도착한 나라에선 immigrant. immigration(입국·이민), illegal immigrant(불법 체류자), first-generation immigrant(이민 1세대). migrate(철새·사람 이주)와 한 가족.",
+  "syn": ["migrant(이주민)", "newcomer(이주자)", "settler(정착민)"],
+  "anti": ["emigrant(국외 이주자)", "native(원주민)"],
+  "idiom": ["illegal immigrant(불법 이민자)", "first-generation immigrant(이민 1세대)"],
+  "colloc": ["immigrant family(이민자 가정)", "immigrant worker(이주 노동자)", "recent immigrant(최근 이민자)"],
+  "ex_add": "Her grandparents were immigrants from Italy.  (immigrant=이민자, 들어온 쪽)"
+ },
+ {
+  "num": "1805",
+  "hw": "impact",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "'쾅 부딪쳐' 박히는 충돌 -> 강한 영향·충격.",
+  "senses": [
+   "1) (강한) 영향·충격",
+   "2) 충돌·부딪침",
+   "3) (동사) 영향을 주다·충돌하다"
+  ],
+  "etym": "라틴어 impactus < impingere = im(in-, 안으로) + pangere(박다·치다). '안으로 쾅 박음'. 여기 in-은 '방향(into)'. compact(빽빽한, '함께 다져진')·pact(협정, '박아 맺음')가 같은 pangere(박다) 뿌리.",
+  "deriv": "'쾅 박음' -> 물리 '충돌(the impact of the crash)' -> 추상 '강한 영향(have an impact on, ~에 영향을 미치다)' -> 동사 '영향을 주다(impact sales)'. 방향 in-(안으로) + pangere(박다). compact·pact와 묶인다. 한국 학습자: impact on(~에 대한 영향)의 on, make/have an impact(영향을 미치다). effect보다 강한 '충격적 영향'. environmental impact(환경 영향), impact factor(영향력 지수).",
+  "syn": ["effect(영향)", "influence(영향력)", "collision(충돌)"],
+  "anti": [],
+  "idiom": ["have an impact on(~에 영향을 미치다)", "make an impact(큰 영향을 주다)", "on impact(충돌 시)"],
+  "colloc": ["major impact(큰 영향)", "environmental impact(환경 영향)", "impact on society(사회에 미치는 영향)"],
+  "ex_add": "Social media has a huge impact on young people.  (impact on=~에 미치는 영향)"
+ },
+ {
+  "num": "1806",
+  "hw": "import",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "물건을 나라 '안으로 실어 들임' = 수입.",
+  "senses": [
+   "1) (동사) 수입하다",
+   "2) (n.) 수입(품)",
+   "3) (사상·기술을) 들여오다"
+  ],
+  "etym": "라틴어 importare = im(in-, 안으로) + portare(나르다). '안으로 실어 들임'. 여기 in-은 '방향(into)'. export(수출, ex-밖으로)·transport(운송)·report(보고)·support(지지)·portable(휴대용)이 같은 portare(나르다) 뿌리.",
+  "deriv": "'안으로 실어 들임' -> '수입하다(import oil)' -> 명사 '수입품(cheap imports)' -> 사상을 '들여오다'. 방향 in-(안으로) + portare(나르다). 한국 학습자 핵심: import(im-=안으로 들임)와 export(ex-=밖으로 냄, 1724)를 짝으로! portare(나르다) 대가족 — import/export/transport/report/support/portable. import duty(수입 관세), import ban(수입 금지). 명사는 IM-port, 동사는 im-PORT 강세.",
+  "syn": ["bring in(들여오다)", "buy in(사들이다)"],
+  "anti": ["export(수출하다)"],
+  "idiom": ["import duty(수입 관세)", "import ban(수입 금지)"],
+  "colloc": ["import goods(상품을 수입하다)", "cheap imports(값싼 수입품)", "import tax(수입세)"],
+  "ex_add": "Japan imports most of its oil from the Middle East.  (import=수입하다)"
+ },
+ {
+  "num": "1807",
+  "hw": "importance",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "마음·일에 '크게 실리는' 무게 = 중요성.",
+  "senses": [
+   "1) 중요(성)·중대함",
+   "2) 의의·비중",
+   "3) (지위의) 영향력"
+  ],
+  "etym": "important(중요한) + -ance. important < 라틴어 importare = im(안으로) + portare(나르다) '마음에 무게를 실어 옴'. portare(나르다) 뿌리로 import(1806)·export와 묶인다.",
+  "deriv": "important(중요한) -> 명사 'importance'. portare(나르다) 뿌리 — '마음에 무게가 실림'이 중요성. of importance(중요한), attach importance to(~을 중시하다), of great importance(매우 중요한), a matter of importance(중대사). 한국 학습자: of (great) importance = (very) important로 바꿔 쓸 수 있음(형용사구). exaggerate the importance(중요성을 과장하다), realize the importance(중요성을 깨닫다).",
+  "syn": ["significance(중요성)", "value(가치)", "weight(비중)"],
+  "anti": ["insignificance(하찮음)", "triviality(사소함)"],
+  "idiom": ["of great importance(매우 중요한)", "attach importance to(~을 중시하다)", "of no importance(중요치 않은)"],
+  "colloc": ["great importance(큰 중요성)", "stress the importance(중요성을 강조하다)", "importance of education(교육의 중요성)"],
+  "ex_add": "He stressed the importance of regular exercise.  (importance of=~의 중요성)"
+ },
+ {
+  "num": "1808",
+  "hw": "impression",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "마음에 '꾹 눌러 새겨진' 인상·느낌.",
+  "senses": [
+   "1) 인상·느낌",
+   "2) 막연한 생각·추측",
+   "3) 흉내·모사 / (도장의) 자국"
+  ],
+  "etym": "라틴어 impressio < imprimere = im(in-, 안으로) + premere(누르다). '안으로 눌러 새김'. 여기 in-은 '방향(into)'. press(누르다)·express(표현하다, '밖으로 짜냄')·depress(우울하게 하다)·compress(압축하다)가 같은 premere(누르다) 뿌리.",
+  "deriv": "'마음에 눌러 새김' -> '인상(a good impression)' -> 막연한 '생각(I'm under the impression that ~, ~인 줄 알았다)' -> '흉내(do an impression of, ~를 흉내 내다)'. 방향 in-(안으로) + premere(누르다). press·express·depress와 묶인다. impress(감명을 주다)·impressive(인상적인, 1809)가 파생. 한국 학습자: make a good/first impression(좋은/첫인상을 주다), under the impression(~인 줄로 알다).",
+  "syn": ["feeling(느낌)", "image(인상)", "imitation(흉내)"],
+  "anti": [],
+  "idiom": ["first impression(첫인상)", "make an impression(인상을 남기다)", "under the impression that ~(~인 줄로 알다)", "do an impression of(~를 흉내 내다)"],
+  "colloc": ["good impression(좋은 인상)", "lasting impression(오래 남는 인상)", "false impression(잘못된 인상)"],
+  "ex_add": "First impressions are important in a job interview.  (first impression=첫인상)"
+ },
+ {
+  "num": "1809",
+  "hw": "impressive",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "마음에 깊이 '새겨질 만큼' 인상적인·훌륭한.",
+  "senses": [
+   "1) 인상적인·감명 깊은",
+   "2) 훌륭한·뛰어난",
+   "3) (규모가) 압도적인"
+  ],
+  "etym": "impress(감명을 주다, 라틴어 imprimere = im(안으로) + premere 누르다) + -ive. premere(누르다) 뿌리로 impression(1808)·press·express와 묶인다.",
+  "deriv": "impress(감명을 주다) -> 'impressive(인상적인)'. '인상적인(an impressive performance)' -> '훌륭한(impressive results)' -> '압도적인(an impressive building)'. 방향 in-(안으로) + premere(누르다). impressively(인상적으로)가 부사. 한국 학습자: impressive(감동을 주는, 대상의 성질)와 impressed(감명받은, 사람 감정)의 -ive/-ed 구별. deeply impressive(깊은 감동을 주는), an impressive achievement(눈부신 성취).",
+  "syn": ["remarkable(놀라운)", "striking(인상적인)", "imposing(당당한)"],
+  "anti": ["unimpressive(보잘것없는)", "ordinary(평범한)", "mediocre(그저 그런)"],
+  "idiom": ["an impressive array of(인상적으로 다양한)", "deeply impressive(깊은 감명을 주는)"],
+  "colloc": ["impressive performance(인상적인 연주)", "impressive results(훌륭한 성과)", "highly impressive(매우 인상적인)"],
+  "ex_add": "She gave an impressive speech at the conference.  (impressive=인상적인)"
+ },
+ {
+  "num": "1810",
+  "hw": "improvement",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "더 나아지게 함 = 개선·향상.",
+  "senses": [
+   "1) 개선·향상·진전",
+   "2) 개량(된 점)",
+   "3) (건물의) 개보수"
+  ],
+  "etym": "improve(개선하다) < 앵글로프랑스어 emprouwer < 고대 프랑스어 prou(이익) < 라틴어 prode(유익한). '이롭게 함'이 핵심. proud·profit과 먼 친척. -ment는 명사형.",
+  "deriv": "improve(나아지게 하다) -> 명사 'improvement'. '개선(a marked improvement, 뚜렷한 향상)' -> '개량점' -> 'home improvement(집 개보수)'. 한국 학습자: improvement in(~의 향상)/improvement on(~보다 나아진 점)의 전치사 차이 — improvement in health(건강의 호전) vs an improvement on the last model(전작보다 개선된 것). room for improvement(개선의 여지), show improvement(나아지다). improve(동사)와 짝.",
+  "syn": ["progress(진전)", "advancement(향상)", "upgrade(개량)"],
+  "anti": ["decline(악화)", "deterioration(쇠퇴)", "setback(퇴보)"],
+  "idiom": ["room for improvement(개선의 여지)", "an improvement on(~보다 나아진 점)", "show improvement(호전을 보이다)"],
+  "colloc": ["significant improvement(상당한 개선)", "improvement in quality(품질 향상)", "continuous improvement(지속적 개선)"],
+  "ex_add": "There's still room for improvement in your writing.  (room for improvement=개선의 여지)"
+ },
+ {
+  "num": "1811",
+  "hw": "incredibly",
+  "pos": "adv.",
+  "cefr": "B1",
+  "core": "'믿기 힘들 만큼' 엄청나게 / 믿을 수 없게도.",
+  "senses": [
+   "1) 엄청나게·믿을 수 없을 만큼(강조)",
+   "2) 믿기 어렵게도",
+   "3) 굉장히"
+  ],
+  "etym": "incredible(믿을 수 없는) + -ly. incredible = in(아닌) + credibilis(믿을 만한, < credere 믿다). '믿을 수 없는'. 여기 in-은 '부정(not)'. credit(신용)·credible(믿을 만한)·credentials(자격)가 같은 credere(믿다) 뿌리.",
+  "deriv": "credere(믿다) -> credible(믿을 만한) -> incredible(믿기 힘든) -> 'incredibly(엄청나게)'. 부정 in-(아닌) + credere(믿다). credit·credible과 묶인다. 한국 학습자: incredibly가 강조 부사로 '엄청·굉장히'(incredibly good, 엄청 좋은)로 매우 자주 — '믿을 수 없게'라는 본뜻보다 강조가 흔함. incredibly difficult(엄청나게 어려운), incredibly, …(놀랍게도). very보다 강함.",
+  "syn": ["extremely(극도로)", "amazingly(놀랍게)", "remarkably(현저히)"],
+  "anti": ["slightly(약간)", "barely(가까스로)"],
+  "idiom": ["incredibly enough(놀랍게도)"],
+  "colloc": ["incredibly good(엄청나게 좋은)", "incredibly difficult(매우 어려운)", "incredibly lucky(엄청나게 운 좋은)"],
+  "ex_add": "The view from the top was incredibly beautiful.  (incredibly=엄청나게)"
+ },
+ {
+  "num": "1812",
+  "hw": "indeed",
+  "pos": "adv.",
+  "cefr": "B1",
+  "core": "'사실상·정말로' (확인·강조).",
+  "senses": [
+   "1) 정말로·실로(강조)",
+   "2) (앞말 보강) 사실은·더 나아가",
+   "3) (대답) 그렇고말고"
+  ],
+  "etym": "in + deed(행위·사실, 고대 영어 dǣd). 본래 'in dede(행위로써·실제로)'가 한 단어로 굳음. do(하다)·deed(행위)와 한 가족. '실제 행함에 있어'가 핵심.",
+  "deriv": "in + deed(사실) -> 'indeed(정말로)'. 강조 'very + 형용사 + indeed'(very good indeed, 정말 아주 좋은) -> 앞말 보강 'It's cold — indeed, freezing(춥다, 사실 얼 정도다)' -> 맞장구 'Indeed!(그렇고말고)'. 한국 학습자: A friend in need is a friend indeed(어려울 때 친구가 진짜 친구). very ~ indeed로 강조, Indeed로 강한 동의. in fact·certainly와 유의어.",
+  "syn": ["really(정말)", "certainly(확실히)", "in fact(사실)"],
+  "anti": ["doubtfully(미심쩍게)"],
+  "idiom": ["A friend in need is a friend indeed(어려울 때 친구가 참된 친구)", "very much indeed(정말 대단히)"],
+  "colloc": ["indeed true(정말 사실인)", "thank you indeed(정말 감사합니다)", "yes indeed(그렇고말고요)"],
+  "ex_add": "Thank you very much indeed for your help.  (indeed=정말로, 강조)"
+ },
+ {
+  "num": "1813",
+  "hw": "indicate",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "'손가락으로 가리키듯' 보여 주다·나타내다.",
+  "senses": [
+   "1) 나타내다·보여 주다",
+   "2) 가리키다·지적하다",
+   "3) (차) 방향지시등을 켜다·내비치다"
+  ],
+  "etym": "라틴어 indicare = in(~을 향해) + dicare(알리다·선포하다, < dicere 말하다). '가리켜 알림'이 핵심. dictate(받아쓰게 하다)·predict(예언하다)·dictionary(사전)가 같은 dicere(말하다) 뿌리. index(색인, '가리키는 것')와도 연결.",
+  "deriv": "'가리켜 알림' -> '나타내다(Studies indicate that ~, 연구가 ~을 보여 준다)' -> '지적하다' -> 운전 '방향지시등을 켜다'. dicere(말하다) 뿌리로 dictate·predict와 묶인다. indication(징후)·indicator(지표)·indicative(나타내는)가 파생. 한국 학습자: indicate that절(~임을 시사하다), as indicated(표시된 대로). 학술 글에서 show보다 격식. clearly indicate(명확히 나타내다).",
+  "syn": ["show(보여 주다)", "suggest(시사하다)", "point to(가리키다)"],
+  "anti": ["conceal(감추다)", "hide(숨기다)"],
+  "idiom": ["indicate that ~(~임을 나타내다)", "as indicated(표시된 대로)"],
+  "colloc": ["clearly indicate(명확히 나타내다)", "results indicate(결과가 보여 주다)", "indicate a trend(추세를 나타내다)"],
+  "ex_add": "Recent studies indicate that exercise improves memory.  (indicate that ~=~임을 시사하다)"
+ },
+ {
+  "num": "1814",
+  "hw": "indirect",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "곧바로 가지 '않는' = 간접적인·에두르는.",
+  "senses": [
+   "1) 간접적인",
+   "2) (길이) 돌아가는·우회하는",
+   "3) (말이) 에두르는 / (문법) 간접의"
+  ],
+  "etym": "in(아닌) + direct(곧은, 라틴어 directus < di+regere 곧게 이끌다). '곧바르지 않은'. 여기 in-은 '부정(not)'. regere(이끌다) 뿌리로 direct(1658)·regular·correct와 묶인다.",
+  "deriv": "direct(직접의) + in-(아닌) -> 'indirect(간접적인)'. 부정 in-(아닌) + directus(곧은). '간접적인(an indirect result)' -> '우회하는(an indirect route)' -> 문법 'indirect speech(간접화법)'. indirectly(간접적으로)가 부사. 한국 학습자: indirect speech(간접화법: He said that he was tired)와 direct speech(직접화법: He said, \"I'm tired\")의 문법 구별. indirect object(간접목적어), an indirect way of saying(에둘러 말하는 방식).",
+  "syn": ["roundabout(에두르는)", "circuitous(우회하는)", "implicit(암시적인)"],
+  "anti": ["direct(직접의)", "straightforward(직설적인)", "explicit(명시적인)"],
+  "idiom": ["indirect speech(간접화법)", "in an indirect way(에둘러)"],
+  "colloc": ["indirect route(우회로)", "indirect result(간접적 결과)", "indirect reference(간접 언급)"],
+  "ex_add": "He gave an indirect answer to avoid the question.  (indirect=간접적인·에두르는)"
+ },
+ {
+  "num": "1815",
+  "hw": "indoor",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "건물 '안에서' 하는 = 실내의.",
+  "senses": [
+   "1) 실내의·옥내의",
+   "2) 실내용의",
+   "3) 실내 경기의"
+  ],
+  "etym": "in(안) + door(문). 본래 'within doors(문 안에서)'가 형용사로 굳음. door(문, 고대 영어 duru)와 합성. '문 안쪽의'가 핵심.",
+  "deriv": "in + door -> 'indoor(실내의)'. 형용사 'indoor pool(실내 수영장)'. 한국 학습자 핵심 구별: indoor(형용사, 명사 앞: indoor sports)와 indoors(부사, 동사 수식: stay indoors, 1816). -s 유무로 품사가 갈림! outdoor(실외의)가 반의. indoor plants(실내 식물), indoor games(실내 게임), an indoor swimming pool(실내 수영장).",
+  "syn": ["interior(내부의)", "inside(안의)"],
+  "anti": ["outdoor(실외의)", "open-air(야외의)"],
+  "idiom": ["indoor games(실내 놀이)", "indoor plants(실내 화초)"],
+  "colloc": ["indoor pool(실내 수영장)", "indoor sports(실내 스포츠)", "indoor market(실내 시장)"],
+  "ex_add": "They built an indoor swimming pool last year.  (indoor=실내의, 형용사)"
+ },
+ {
+  "num": "1816",
+  "hw": "indoors",
+  "pos": "adv.",
+  "cefr": "B1",
+  "core": "건물 '안으로/안에서' = 실내에.",
+  "senses": [
+   "1) 실내에서·실내로",
+   "2) 집 안에",
+   "3) 옥내에"
+  ],
+  "etym": "indoor(실내의) + -s(부사화). 'within doors(문 안에서)'의 -s가 부사를 만듦. towards·backwards처럼 -s가 붙어 부사가 된 형태. door(문)와 한 가족.",
+  "deriv": "indoor(실내의) + -s -> 부사 'indoors(실내에서)'. 한국 학습자 핵심: indoors(부사, stay indoors 실내에 머물다)와 indoor(형용사, indoor pool, 1815)를 -s로 구별! 부사는 동사를 수식해 '안에서/안으로'. outdoors(야외에서)가 반의. go indoors(안으로 들어가다), stay indoors(집 안에 있다), keep the cat indoors(고양이를 실내에 두다).",
+  "syn": ["inside(안에)", "within(안에서)"],
+  "anti": ["outdoors(야외에서)", "outside(밖에)"],
+  "idiom": ["stay indoors(실내에 머물다)", "go indoors(안으로 들어가다)"],
+  "colloc": ["stay indoors(실내에 있다)", "play indoors(실내에서 놀다)", "remain indoors(집 안에 머물다)"],
+  "ex_add": "It's raining, so let's stay indoors today.  (indoors=실내에서, 부사)"
+ },
+ {
+  "num": "1817",
+  "hw": "influence",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "물처럼 '흘러들어' 미치는 영향(력) -> 영향을 주다.",
+  "senses": [
+   "1) 영향·영향력",
+   "2) 영향을 주는 사람·것",
+   "3) (동사) 영향을 미치다·좌우하다"
+  ],
+  "etym": "라틴어 influere = in(안으로) + fluere(흐르다). 본래 별의 기운이 '흘러들어' 사람 운명에 미친다는 점성술 개념에서. 여기 in-은 '방향(into)'. fluent(유창한)·fluid(액체)·flow(흐르다)가 같은 fluere(흐르다) 뿌리.",
+  "deriv": "'안으로 흘러듦' -> 명사 '영향력(have an influence on)' -> 영향을 주는 '사람(a good influence)' -> 동사 '영향을 미치다(influence a decision)'. 방향 in-(안으로) + fluere(흐르다). fluere(흐르다) 뿌리로 fluent·fluid와 묶인다. influential(영향력 있는)이 형용사. 한국 학습자: influence on/over(~에 대한 영향)의 전치사. under the influence (of)(~의 영향 아래·음주 상태). influencer(인플루언서)가 신조어.",
+  "syn": ["effect(영향)", "impact(영향력)", "sway(좌우하다)"],
+  "anti": [],
+  "idiom": ["have an influence on(~에 영향을 미치다)", "under the influence(영향 아래·취한 상태)", "a good/bad influence(좋은/나쁜 영향을 주는 사람)"],
+  "colloc": ["strong influence(강한 영향)", "influence on society(사회에 미치는 영향)", "exert influence(영향력을 행사하다)"],
+  "ex_add": "Her parents had a strong influence on her career choice.  (influence on=~에 미치는 영향)"
+ },
+ {
+  "num": "1818",
+  "hw": "ingredient",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "요리·혼합물에 '들어가는' 재료 -> 구성 요소.",
+  "senses": [
+   "1) (요리) 재료·원료",
+   "2) (혼합물의) 성분",
+   "3) (성공의) 요소·요인"
+  ],
+  "etym": "라틴어 ingredi = in(안으로) + gradi(걷다·나아가다, < gradus 걸음). '안으로 걸어 들어가는 것'. 여기 in-은 '방향(into)'. graduate(졸업하다, 1773)·grade(등급)·progress(전진)·degree(학위)가 같은 gradus(걸음) 뿌리.",
+  "deriv": "'안으로 들어가는 것' -> 요리 '재료(fresh ingredients)' -> 혼합물 '성분' -> 추상 '요소(a key ingredient for success, 성공의 핵심 요소)'. 방향 in-(안으로) + gradus(걸음). gradus 뿌리로 graduate·grade·ingredient가 묶인다 — '안으로 걸어 들어간 것'. 한국 학습자: ingredient가 요리 '재료'뿐 아니라 추상 '비결·요소'로도(the secret ingredient, 비밀 비결). list of ingredients(재료 목록), active ingredient(유효 성분).",
+  "syn": ["component(구성 요소)", "element(요소)", "constituent(성분)"],
+  "anti": [],
+  "idiom": ["secret ingredient(비밀 재료·비결)", "a key ingredient(핵심 요소)", "active ingredient(유효 성분)"],
+  "colloc": ["fresh ingredients(신선한 재료)", "main ingredient(주재료)", "essential ingredient(필수 요소)"],
+  "ex_add": "Hard work is a key ingredient of success.  (ingredient=요소·비결)"
+ },
+ {
+  "num": "1819",
+  "hw": "injure",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "'법·정당함에 어긋나게' 해를 입혀 다치게 하다.",
+  "senses": [
+   "1) 다치게 하다·부상을 입히다",
+   "2) (감정·명예를) 상하게 하다",
+   "3) 손상시키다"
+  ],
+  "etym": "라틴어 injuria(불법·부당) = in(아닌) + jus/juris(법·권리). 본래 '권리에 어긋난 해' -> '다치게 하다'. 여기 in-은 '부정(not)'. justice(정의)·jury(배심원)·just(정당한)·judge(판사)가 같은 jus(법) 뿌리.",
+  "deriv": "'권리에 어긋난 해(부당)' -> '다치게 하다(injure a knee)' -> '감정을 상하게 하다(injure one's pride)'. 부정 in-(아닌) + jus(법). jus(법) 뿌리로 justice·jury·judge와 묶인다. injury(부상)·injured(다친, 1820)가 파생. 한국 학습자: injure(사고·폭력으로 다치게 하다)와 hurt(아프게 하다, 더 일반적)·wound(무기로 상처 내다)·damage(사물을 손상)의 구별. seriously injure(중상을 입히다).",
+  "syn": ["hurt(다치게 하다)", "wound(부상을 입히다)", "harm(해치다)"],
+  "anti": ["heal(치료하다)", "cure(낫게 하다)", "protect(보호하다)"],
+  "idiom": ["injure one's pride(자존심을 상하게 하다)", "add insult to injury(설상가상으로)"],
+  "colloc": ["seriously injure(중상을 입히다)", "injure oneself(다치다)", "badly injured(심하게 다친)"],
+  "ex_add": "Three people were injured in the car accident.  (injure=부상을 입히다)"
+ },
+ {
+  "num": "1820",
+  "hw": "injured",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "다쳐서 '부상을 입은' / (감정이) 상한.",
+  "senses": [
+   "1) 다친·부상당한",
+   "2) (the injured) 부상자들",
+   "3) (감정·자존심이) 상한"
+  ],
+  "etym": "injure(다치게 하다, 라틴어 injuria = in(아닌) + jus 법)의 과거분사. jus(법) 뿌리로 justice·injury와 묶인다. '부상을 입은' 상태.",
+  "deriv": "injure(다치게 하다) -> 'injured(다친)'. '부상당한(an injured player)' -> 'the injured(부상자들, the + 형용사 = 복수 보통명사)' -> '상한(injured feelings, an injured look 서운한 표정)'. 한국 학습자: the injured(부상자들), the wounded(전상자), the dead(사망자들)처럼 'the + 과거분사 = 사람들'. seriously injured(중상을 입은), injured party(피해 당사자). uninjured(다치지 않은)가 반의.",
+  "syn": ["hurt(다친)", "wounded(부상한)", "harmed(해를 입은)"],
+  "anti": ["unhurt(다치지 않은)", "healthy(건강한)", "uninjured(무사한)"],
+  "idiom": ["the injured(부상자들)", "an injured look(서운한 표정)", "injured party(피해 당사자)"],
+  "colloc": ["seriously injured(중상을 입은)", "injured player(부상 선수)", "the injured man(다친 남자)"],
+  "ex_add": "The injured were rushed to the nearest hospital.  (the injured=부상자들)"
+ },
+ {
+  "num": "1821",
+  "hw": "innocent",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "'해를 끼치지 않는' = 무죄의·순진한.",
+  "senses": [
+   "1) 무죄의·결백한",
+   "2) 순진한·천진한",
+   "3) 악의 없는·무해한"
+  ],
+  "etym": "라틴어 innocens = in(아닌) + nocens(해치는, < nocere 해치다). '해를 끼치지 않는'. 여기 in-은 '부정(not)'. noxious(유해한)·obnoxious(아주 불쾌한)·nuisance(성가신 것)가 같은 nocere(해치다) 뿌리.",
+  "deriv": "'해치지 않는' -> 법 '무죄의(innocent until proven guilty, 유죄 입증 전엔 무죄)' -> 마음 '순진한(an innocent child)' -> '악의 없는(an innocent question)'. 부정 in-(아닌) + nocere(해치다). nocere 뿌리로 noxious·obnoxious와 묶인다. innocence(결백·순수)가 명사. 한국 학습자: guilty(유죄의, 1778)가 반의. innocent of(~의 죄가 없는), an innocent bystander(무고한 행인), play innocent(시치미 떼다).",
+  "syn": ["blameless(흠 없는)", "naive(순진한)", "harmless(무해한)"],
+  "anti": ["guilty(유죄의)", "cunning(교활한)", "harmful(해로운)"],
+  "idiom": ["innocent until proven guilty(유죄 입증 전엔 무죄)", "an innocent bystander(무고한 구경꾼)", "play innocent(시치미를 떼다)"],
+  "colloc": ["completely innocent(완전히 결백한)", "innocent victim(무고한 희생자)", "innocent mistake(악의 없는 실수)"],
+  "ex_add": "The jury found him innocent of all charges.  (innocent of=~의 죄가 없는)"
+ },
+ {
+  "num": "1822",
+  "hw": "intelligence",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "갈래를 '가려 읽어 내는' 지능 -> 정보.",
+  "senses": [
+   "1) 지능·지성",
+   "2) 이해력·총명함",
+   "3) (군사·첩보) 정보(기관)"
+  ],
+  "etym": "라틴어 intelligentia < intelligere = inter(사이에서) + legere(고르다·읽다). '사이를 가려 읽어 냄'이 핵심. legere(고르다) 뿌리로 intellect(지성)·collect(모으다)·select(고르다)·election(선거)이 묶인다.",
+  "deriv": "'가려 읽어 냄' -> '지능(artificial intelligence, 인공지능 AI)' -> '총명함' -> 첩보 '정보(intelligence agency, 정보기관)'. legere(고르다·읽다) 뿌리로 intellect·collect·election과 묶인다(1592·1689과 한 가족). intelligent(똑똑한)이 형용사. 한국 학습자: intelligence가 '지능'과 '(첩보) 정보' 두 뜻 — CIA의 I가 Intelligence(정보). artificial intelligence(AI), emotional intelligence(감성 지능 EQ), intelligence test(지능 검사).",
+  "syn": ["intellect(지성)", "brains(두뇌)", "information(정보)"],
+  "anti": ["stupidity(우둔함)", "ignorance(무지)"],
+  "idiom": ["artificial intelligence(인공지능)", "emotional intelligence(감성 지능)", "intelligence agency(정보기관)"],
+  "colloc": ["high intelligence(높은 지능)", "human intelligence(인간 지능)", "intelligence test(지능 검사)"],
+  "ex_add": "Dolphins are known for their remarkable intelligence.  (intelligence=지능)"
+ },
+ {
+  "num": "1823",
+  "hw": "intend",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "마음을 '~쪽으로 뻗어' 작정하다·의도하다.",
+  "senses": [
+   "1) ~할 작정이다·의도하다",
+   "2) (be intended for/to) ~을 위해 만들어지다",
+   "3) 의미하다·뜻하다"
+  ],
+  "etym": "라틴어 intendere = in(~쪽으로) + tendere(뻗다·당기다). '마음을 ~쪽으로 뻗음'. 여기 in-은 '방향(toward)'. tend(~하는 경향이 있다)·extend(늘리다)·pretend(~인 척하다)·attend(참석하다)·tension(긴장)이 같은 tendere(뻗다) 뿌리.",
+  "deriv": "'마음을 ~쪽으로 뻗음' -> '작정하다(intend to V)' -> 수동 'be intended for(~을 위한 것이다)'. 방향 in-(~쪽으로) + tendere(뻗다). tendere 뿌리로 tend·extend·pretend·attend와 묶인다. intention(의도, 1824)·intentional(고의의)이 파생. 한국 학습자 핵심: intend to V(~할 작정이다), intend V-ing도 가능. be intended to V(~하도록 의도되다). fully intend(꼭 ~할 작정이다).",
+  "syn": ["plan(계획하다)", "mean(의도하다)", "aim(목표하다)"],
+  "anti": [],
+  "idiom": ["intend to V(~할 작정이다)", "be intended for(~을 위한 것이다)", "fully intend(꼭 ~할 작정이다)"],
+  "colloc": ["intend to do(~할 작정이다)", "originally intend(원래 ~하려 했다)", "intended audience(대상 독자·청중)"],
+  "ex_add": "I intend to finish this project by Friday.  (intend to V=~할 작정이다)"
+ },
+ {
+  "num": "1824",
+  "hw": "intention",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "마음을 '~쪽으로 뻗은' 의도·작정.",
+  "senses": [
+   "1) 의도·의향·작정",
+   "2) 목적·뜻",
+   "3) (one's intentions) (결혼 등의) 속셈"
+  ],
+  "etym": "intend(의도하다, 라틴어 intendere = in(~쪽으로) + tendere 뻗다)의 명사형. tendere(뻗다) 뿌리로 intend(1823)·tend·extend·tension과 묶인다.",
+  "deriv": "intend(의도하다) -> 명사 'intention'. '의도(good intentions, 선의)' -> '목적'. 방향 in-(~쪽으로) + tendere(뻗다). intentional(고의의)·intentionally(고의로)가 파생. 한국 학습자: have no intention of V-ing(~할 생각이 전혀 없다)의 of + 동명사 구문 주의. with the intention of(~할 의도로), the best of intentions(더없는 선의). The road to hell is paved with good intentions(선의가 늘 좋은 결과를 낳진 않는다).",
+  "syn": ["aim(의도)", "purpose(목적)", "plan(계획)"],
+  "anti": ["accident(우연)"],
+  "idiom": ["have no intention of V-ing(~할 생각이 없다)", "with the intention of(~할 의도로)", "the best of intentions(선의)", "good intentions(선의)"],
+  "colloc": ["good intention(선의)", "clear intention(분명한 의도)", "announce one's intention(의향을 밝히다)"],
+  "ex_add": "I have no intention of giving up now.  (have no intention of V-ing=~할 생각이 없다)"
+ },
+ {
+  "num": "1825",
+  "hw": "invest",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "돈·시간을 '입혀 넣어' 미래 수익에 걸다 = 투자하다.",
+  "senses": [
+   "1) (돈을) 투자하다",
+   "2) (시간·노력을) 쏟다·들이다",
+   "3) (권한을) 부여하다(격식)"
+  ],
+  "etym": "라틴어 investire = in(안으로) + vestire(옷 입히다, < vestis 옷). 본래 '관직의 예복을 입힘'에서, 돈에 '새 옷을 입혀 사업에 넣음'으로. 여기 in-은 '방향(into)'. vest(조끼)·vestment(제의)·invest가 같은 vestis(옷) 뿌리.",
+  "deriv": "'옷을 입혀 넣음' -> 돈을 '투자하다(invest in stocks)' -> 시간을 '쏟다(invest time in learning)' -> 권한을 '부여하다(invested with authority)'. 방향 in-(안으로) + vestis(옷). investment(투자, 1810과 같은 -ment)·investor(투자자)가 파생. 한국 학습자: invest in(~에 투자하다)의 in. invest heavily(거액을 투자하다), invest wisely(현명하게 투자하다). 1826 investigate와 철자가 비슷하나 어원이 다름(vestire 옷 vs vestigare 추적).",
+  "syn": ["put money into(~에 자금을 넣다)", "fund(자금을 대다)", "devote(쏟다)"],
+  "anti": ["withdraw(인출하다)", "divest(처분하다)"],
+  "idiom": ["invest in(~에 투자하다)", "invest time in(~에 시간을 들이다)", "invested with(~을 부여받은)"],
+  "colloc": ["invest money(돈을 투자하다)", "invest heavily(많이 투자하다)", "invest in shares(주식에 투자하다)"],
+  "ex_add": "They decided to invest in renewable energy.  (invest in=~에 투자하다)"
+ },
+ {
+  "num": "1826",
+  "hw": "investigate",
+  "pos": "v.",
+  "cefr": "B1",
+  "core": "'발자국을 따라 들어가' 샅샅이 조사하다.",
+  "senses": [
+   "1) (사건을) 수사하다·조사하다",
+   "2) 진상을 규명하다",
+   "3) (학문적으로) 탐구하다"
+  ],
+  "etym": "라틴어 investigare = in(안으로) + vestigare(자취를 좇다, < vestigium 발자국). '발자국을 따라 들어가 캠'이 핵심. 여기 in-은 '방향(into)'. vestige(흔적·자취)가 같은 vestigium(발자국) 뿌리.",
+  "deriv": "'발자국을 좇음' -> 사건을 '수사하다(investigate a crime)' -> '진상을 밝히다' -> 학문적 '탐구하다(investigate the causes)'. 방향 in-(안으로) + vestigium(발자국). vestige(흔적)와 묶인다. investigation(수사)·investigator(수사관)·investigative(탐사의)가 파생. 한국 학습자: 1825 invest(투자하다)와 철자만 비슷할 뿐 어원이 다름 — invest는 vestis(옷), investigate는 vestigium(발자국). thoroughly investigate(철저히 조사하다), investigative journalism(탐사 보도).",
+  "syn": ["examine(조사하다)", "probe(파헤치다)", "look into(살펴보다)"],
+  "anti": ["ignore(무시하다)", "overlook(간과하다)"],
+  "idiom": ["investigate a crime(범죄를 수사하다)", "investigative journalism(탐사 저널리즘)"],
+  "colloc": ["investigate thoroughly(철저히 조사하다)", "investigate a case(사건을 수사하다)", "police investigate(경찰이 수사하다)"],
+  "ex_add": "Detectives are investigating the cause of the fire.  (investigate=조사·수사하다)"
+ },
+ {
+  "num": "1827",
+  "hw": "involved",
+  "pos": "adj.",
+  "cefr": "B1",
+  "core": "어떤 일에 '말려들어' 관련된 / 복잡하게 얽힌.",
+  "senses": [
+   "1) (be involved in) ~에 관련된·참여한",
+   "2) (be involved with) ~와 연루된·연인 관계인",
+   "3) 복잡하게 뒤얽힌"
+  ],
+  "etym": "involve(말려들게 하다) < 라틴어 involvere = in(안으로) + volvere(말다·굴리다). '안으로 말려듦'이 핵심. 여기 in-은 '방향(into)'. revolve(회전하다)·evolve(진화하다)·volume(부피·권)이 같은 volvere(말다) 뿌리.",
+  "deriv": "involve(말려들게 하다) -> 'involved(관련된)'. 'be involved in(~에 참여·관련된)' -> 'be involved with(~와 연루·연애 중인)' -> '복잡한(a long, involved explanation, 길고 복잡한 설명)'. 방향 in-(안으로) + volvere(말다). volvere 뿌리로 revolve·evolve·volume과 묶인다. involvement(관여)가 명사. 한국 학습자: involved in(일·활동에 참여)과 involved with(사람·조직과 연루, 종종 연애) 구별. get involved(끼어들다·참여하다).",
+  "syn": ["engaged(참여한)", "implicated(연루된)", "complicated(복잡한)"],
+  "anti": ["uninvolved(무관한)", "detached(거리를 둔)", "simple(단순한)"],
+  "idiom": ["be involved in(~에 관여하다)", "get involved(끼어들다)", "involved with(~와 사귀는)", "emotionally involved(감정적으로 얽힌)"],
+  "colloc": ["actively involved(적극 참여하는)", "directly involved(직접 관련된)", "involved in a project(프로젝트에 참여한)"],
+  "ex_add": "She is actively involved in several charities.  (be involved in=~에 참여하다)"
+ },
+ {
+  "num": "1828",
+  "hw": "iron",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "단단한 금속 '철' -> 다리미 / 다림질하다.",
+  "senses": [
+   "1) 철·쇠",
+   "2) 다리미 / (동사) 다림질하다",
+   "3) (형용사적) 철석같은·강철의"
+  ],
+  "etym": "고대 영어 īren/īsern(철). 게르만어 계열로 독일어 Eisen과 동족. '단단한 금속'이 핵심. 발음 /ˈaɪən/ — r이 거의 안 들림(미국식 /ˈaɪərn/).",
+  "deriv": "'철' -> 철로 만든 '다리미(a steam iron)' -> 동사 '다림질하다(iron a shirt)' -> 비유 '철석같은(an iron will, 강철 의지)'. ironing(다림질), ironworks(제철소). iron out(주름을 펴다·문제를 해결하다), strike while the iron is hot(쇠뿔도 단김에 빼라), have many irons in the fire(여러 일을 벌이다), the Iron Lady(철의 여인, 대처). 한국 학습자: iron이 금속 '철', 가전 '다리미', 동사 '다림질하다'까지. 철분(영양소)도 iron.",
+  "syn": ["metal(금속)", "press(다림질하다)"],
+  "anti": [],
+  "idiom": ["iron out(문제를 해결하다)", "strike while the iron is hot(좋은 기회를 놓치지 마라)", "an iron will(강철 같은 의지)", "rule with an iron fist(철권통치하다)"],
+  "colloc": ["cast iron(주철)", "iron ore(철광석)", "iron a shirt(셔츠를 다리다)"],
+  "ex_add": "Could you iron this shirt for me?  (iron=다림질하다)"
+ },
+ {
+  "num": "1829",
+  "hw": "IT",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "컴퓨터로 정보를 다루는 '정보 기술' (Information Technology).",
+  "senses": [
+   "1) 정보 기술(Information Technology)",
+   "2) IT 산업·전산 분야",
+   "3) (형용사적) IT의·전산의"
+  ],
+  "etym": "Information(정보) + Technology(기술)의 머리글자를 딴 약어(initialism). information은 라틴어 informare(형태를 갖추다), technology는 그리스어 techne(기술) + logos(학문). 두 단어의 첫 글자만 따 만든 현대 약어.",
+  "deriv": "Information Technology의 약어 -> 'IT(정보 기술)'. 한국 학습자: IT는 글자 하나씩 읽음(/ˌaɪ ˈtiː/), 대명사 it(/ɪt/)과 발음·뜻이 전혀 다름! IT industry(IT 산업), IT department(전산부), IT skills(전산 능력), work in IT(IT 업계에서 일하다). 관련 약어 — ICT(정보통신기술), AI(인공지능). 비슷한 머리글자어 무리로 기억.",
+  "syn": ["computing(전산)", "information technology(정보 기술)"],
+  "anti": [],
+  "idiom": ["IT industry(IT 산업)", "work in IT(IT 업계에 종사하다)"],
+  "colloc": ["IT department(전산 부서)", "IT skills(정보 기술 역량)", "IT support(IT 지원)"],
+  "ex_add": "She works in IT for a large bank.  (IT=정보 기술)"
+ },
+ {
+  "num": "1830",
+  "hw": "journal",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "'날마다' 적는 일지 -> (전문) 학술지·정기 간행물.",
+  "senses": [
+   "1) (전문) 학술지·정기 간행물",
+   "2) 일지·일기",
+   "3) (회계) 분개장"
+  ],
+  "etym": "고대 프랑스어 journal(매일의) < 라틴어 diurnalis < dies(날). '날마다의 기록'이 핵심. dies(날) 뿌리로 journey(1831)·diary(일기)·diurnal(주행성의)·journalism이 묶인다.",
+  "deriv": "'날마다의 기록' -> 개인의 '일지·일기(keep a journal)' -> 전문 '학술지(a scientific journal)'. dies(날) 뿌리로 journey·diary와 묶인다(1831과 한 가족). journalist(기자)·journalism(언론)이 파생. 한국 학습자: journal(학술지/일지)과 diary(일기, 개인적)의 구별 — journal이 더 격식·전문적. an academic journal(학술지), a personal journal(개인 일지), keep a journal(일기를 쓰다). The Wall Street Journal처럼 신문명에도.",
+  "syn": ["periodical(정기 간행물)", "diary(일기)", "magazine(잡지)"],
+  "anti": [],
+  "idiom": ["keep a journal(일지를 쓰다)", "academic journal(학술지)"],
+  "colloc": ["scientific journal(과학 학술지)", "medical journal(의학 저널)", "travel journal(여행 일지)"],
+  "ex_add": "Her research was published in a leading scientific journal.  (journal=학술지)"
+ },
+ {
+  "num": "1831",
+  "hw": "journey",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "'하루치 이동'에서 온 (긴) 여정·여행.",
+  "senses": [
+   "1) (긴) 여행·여정",
+   "2) (한 지점에서 다른 곳으로의) 이동",
+   "3) (비유) (인생의) 여정·과정"
+  ],
+  "etym": "고대 프랑스어 journee(하루·하루 동안의 이동) < 라틴어 diurnum < dies(날). 본래 '하루에 갈 수 있는 거리'에서 '여정'으로. dies(날) 뿌리로 journal(1830)·diary·diurnal과 묶인다.",
+  "deriv": "'하루치 이동' -> '여정(a long journey)' -> 비유 '인생의 여정(life's journey)'. dies(날) 뿌리로 journal과 한 가족 — 둘 다 '날(day)'에서. 한국 학습자: journey(육로 등 긴 여정, 편도 느낌)·trip(왕복 짧은 여행)·travel(여행 일반, 불가산)·voyage(긴 항해)·tour(관광)의 구별. a long journey(긴 여정), the journey home(귀갓길), Safe journey!(잘 다녀오세요). 비유로 '성장 과정'(my journey as a writer).",
+  "syn": ["trip(여행)", "voyage(항해)", "expedition(원정)"],
+  "anti": [],
+  "idiom": ["life's journey(인생 여정)", "Safe journey!(조심히 가세요)", "a journey of a thousand miles begins with a single step(천 리 길도 한 걸음부터)"],
+  "colloc": ["long journey(긴 여정)", "train journey(기차 여행)", "journey home(귀갓길)"],
+  "ex_add": "The journey from London to Edinburgh takes five hours.  (journey=여정)"
+ },
+ {
+  "num": "1832",
+  "hw": "judge",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "'법으로 옳고 그름을 말하는' 사람 = 판사 -> 판단하다.",
+  "senses": [
+   "1) 판사·재판관 / (대회) 심사위원",
+   "2) (동사) 판단하다·평가하다",
+   "3) (동사) 재판하다·심판하다"
+  ],
+  "etym": "라틴어 judex = jus(법·권리) + dicere(말하다). '법으로 판가름함'이 핵심. jus(법) 뿌리로 justice(정의)·injure(다치게 하다, 1819)·jury(배심원)가 묶이고, dicere(말하다) 뿌리로 indicate(1813)·predict가 묶인다.",
+  "deriv": "'법을 말함' -> '판사(a federal judge)' -> 대회 '심사위원' -> 동사 '판단하다(judge by appearances, 겉모습으로 판단하다)'. jus(법) + dicere(말하다)의 결합. judgment(판단·판결)이 명사. 한국 학습자: judge by/from(~으로 판단하다), Don't judge a book by its cover(겉만 보고 판단하지 마라), judging by(~로 미루어 보면), be a good judge of(~을 잘 알아보다). 두 어근(jus 법 + dicere 말)을 보여 주기 좋은 단어.",
+  "syn": ["evaluate(평가하다)", "assess(가늠하다)", "magistrate(판사)"],
+  "anti": [],
+  "idiom": ["judge by appearances(겉모습으로 판단하다)", "Don't judge a book by its cover(겉만 보고 판단 말라)", "judging by(~로 미루어)", "a good judge of character(사람 보는 눈이 있는)"],
+  "colloc": ["judge fairly(공정하게 판단하다)", "judge a competition(대회를 심사하다)", "as judges(심사위원으로서)"],
+  "ex_add": "Don't judge people by their appearance.  (judge by=~으로 판단하다)"
+ },
+ {
+  "num": "1833",
+  "hw": "key",
+  "pos": "n., adj., v.",
+  "cefr": "B1",
+  "core": "잠긴 것을 여는 '열쇠' -> 핵심·비결 / (자판) 키.",
+  "senses": [
+   "1) 열쇠 / (자판·악기의) 키·건반",
+   "2) (형) 핵심적인·가장 중요한",
+   "3) 비결·해답 / (동사) 입력하다"
+  ],
+  "etym": "고대 영어 cǣg(열쇠). 어원이 확실치 않으나 '잠긴 것을 여는 도구'가 핵심. keyboard(자판)·keyhole(열쇠 구멍)·keynote(기조)가 한 가족.",
+  "deriv": "'여는 도구(열쇠)' -> 문제를 여는 '비결·해답(the key to success, 성공의 비결)' -> 형용사 '핵심적인(a key role, 핵심 역할)' -> 자판 '키(press a key)'. 한국 학습자: key to(~의 비결/열쇠)에서 to + 명사/동명사(the key to solving). key가 형용사 '핵심적인'으로 매우 자주(key factor, key point, key player). under lock and key(단단히 잠가 둔), the key to(~의 관건). low-key(절제된).",
+  "syn": ["crucial(결정적인)", "essential(필수의)", "solution(해법)"],
+  "anti": ["minor(사소한)", "trivial(하찮은)"],
+  "idiom": ["the key to(~의 비결)", "under lock and key(단단히 잠가 둔)", "low-key(차분한·절제된)", "key player(핵심 인물)"],
+  "colloc": ["key role(핵심 역할)", "key factor(주요 요인)", "car key(자동차 열쇠)"],
+  "ex_add": "Communication is the key to a good relationship.  (the key to=~의 비결)"
+ },
+ {
+  "num": "1834",
+  "hw": "keyboard",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "키(건반)가 늘어선 '자판·건반'.",
+  "senses": [
+   "1) (컴퓨터) 자판·키보드",
+   "2) (피아노 등의) 건반",
+   "3) 건반 악기"
+  ],
+  "etym": "key(키·건반, 고대 영어 cǣg) + board(판). '키가 늘어선 판'이 핵심. key(1833)·board(판, 1544)의 합성어.",
+  "deriv": "key(키) + board(판) -> 'keyboard(자판)'. 악기 '건반(piano keyboard)' -> 컴퓨터 '키보드(type on a keyboard)' -> 건반 악기 'keyboards(신시사이저)'. 한국 학습자: keyboard(자판)·mouse(마우스)·screen(화면)·monitor(모니터) 등 컴퓨터 기본 어휘 무리. keyboard shortcut(단축키), wireless keyboard(무선 키보드), QWERTY keyboard(쿼티 자판), on-screen keyboard(화면 자판). keyboard player(건반 연주자).",
+  "syn": ["keypad(소형 자판)", "console(조작판)"],
+  "anti": [],
+  "idiom": ["keyboard shortcut(단축키)", "keyboard warrior(키보드 워리어·온라인 논객)"],
+  "colloc": ["computer keyboard(컴퓨터 자판)", "type on a keyboard(자판으로 입력하다)", "wireless keyboard(무선 키보드)"],
+  "ex_add": "He spilled coffee all over his keyboard.  (keyboard=자판)"
+ },
+ {
+  "num": "1835",
+  "hw": "kick",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "발로 '차다' -> 차기 / (구어) 짜릿함.",
+  "senses": [
+   "1) (발로) 차다",
+   "2) (총이) 반동하다 / (술·약이) 효력이 돌다",
+   "3) (n.) 발길질 / 짜릿한 쾌감"
+  ],
+  "etym": "중세 영어 kiken, 어원이 확실치 않음(스칸디나비아어 계열 추정). '발로 세게 침'이 핵심.",
+  "deriv": "'발로 차다(kick a ball)' -> 명사 '발길질(give it a kick)' -> 구어 '짜릿함(get a kick out of, ~에서 쾌감을 얻다)'. kick off(시작하다·축구 킥오프), kick out(쫓아내다), kick in(효력이 나타나다·돈을 보태다), kick the habit(나쁜 습관을 끊다), kick the bucket(죽다, 속어), a kick in the teeth(된서리·큰 타격). 한국 학습자: kick off(행사·경기를 시작하다)가 회화 빈출. for kicks(재미로).",
+  "syn": ["boot(걷어차다)", "thrill(짜릿함)"],
+  "anti": [],
+  "idiom": ["kick off(시작하다)", "kick out(내쫓다)", "kick the habit(나쁜 버릇을 끊다)", "get a kick out of(~에서 쾌감을 느끼다)", "kick the bucket(죽다)"],
+  "colloc": ["kick a ball(공을 차다)", "kick off the event(행사를 시작하다)", "free kick(프리킥)"],
+  "ex_add": "The festival kicks off on Saturday morning.  (kick off=시작하다)"
+ },
+ {
+  "num": "1836",
+  "hw": "killing",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "목숨을 빼앗음 = 살해 / (구어) 큰돈 벌이.",
+  "senses": [
+   "1) 살해·죽임",
+   "2) (the killing) 살생·도살",
+   "3) (구어) 한몫 단단히 벌기"
+  ],
+  "etym": "kill(죽이다, 중세 영어 killen) + -ing(명사형). kill의 어원은 확실치 않으나 quell(진압하다)과 관련설. '목숨을 끊음'이 핵심.",
+  "deriv": "kill(죽이다) -> 명사 'killing(살해)'. '살해(a brutal killing)' -> 구어 'make a killing(떼돈을 벌다)'. killer(살인자·치명적인 것)가 파생. 한국 학습자: make a killing(한몫 크게 벌다)은 '죽임'이 아니라 '대박' — 비유적 관용구라 주의. mercy killing(안락사), killing time(시간 때우기), dressed to kill(쫙 빼입은). killing이 형용사로 '몹시 힘든·우스운'(a killing pace).",
+  "syn": ["murder(살인)", "slaughter(학살)", "homicide(살인)"],
+  "anti": [],
+  "idiom": ["make a killing(떼돈을 벌다)", "mercy killing(안락사)", "killing time(시간 때우기)"],
+  "colloc": ["brutal killing(잔혹한 살해)", "mass killing(대량 학살)", "the killing of(~의 살해)"],
+  "ex_add": "He made a killing on the stock market last year.  (make a killing=큰돈을 벌다)"
+ },
+ {
+  "num": "1837",
+  "hw": "kind",
+  "pos": "n., adj.",
+  "cefr": "B1",
+  "core": "본래 '한 핏줄·본성' -> 종류 / 마음씨 고운(친절한).",
+  "senses": [
+   "1) (n.) 종류·유형",
+   "2) (형) 친절한·다정한",
+   "3) (kind of) 어느 정도·약간"
+  ],
+  "etym": "고대 영어 cynd/gecynd(태생·본성). kin(친족)·king(왕)과 한 게르만 뿌리. '같은 핏줄·본성'에서 '종류'와, '핏줄답게 따뜻한'에서 '친절한'으로 갈라진 흥미로운 한 단어.",
+  "deriv": "'한 핏줄·본성' -> 같은 본성끼리 묶은 '종류(what kind of, 어떤 종류의)' / 핏줄답게 '따뜻한(a kind person, 친절한 사람)'. kin(친족) 뿌리로 kindness·kindred와 묶인다. 한국 학습자: 같은 kind가 '종류'(명사)와 '친절한'(형용사) — 둘 다 '본성·핏줄'에서. kind of(다소·약간, 회화), a kind of(일종의), kind to(~에게 친절한), be so kind as to V(~해 주시다). all kinds of(온갖). kindness(친절)·kindly(친절하게)가 파생.",
+  "syn": ["type(유형)", "sort(종류)", "considerate(사려 깊은)"],
+  "anti": ["cruel(잔인한)", "unkind(불친절한)", "mean(못된)"],
+  "idiom": ["kind of(다소·약간)", "a kind of(일종의)", "be so kind as to V(친절하게도 ~하다)", "one of a kind(유일무이한)", "in kind(현물로·같은 식으로)"],
+  "colloc": ["what kind of(어떤 종류의)", "kind to animals(동물에게 친절한)", "all kinds of(온갖 종류의)"],
+  "ex_add": "It was very kind of you to help.  (kind of A to V=A가 ~하다니 친절하다)"
+ },
+ {
+  "num": "1838",
+  "hw": "kiss",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "입술을 맞대는 '입맞춤' -> 키스하다.",
+  "senses": [
+   "1) 키스하다·입맞춤하다",
+   "2) (n.) 입맞춤·키스",
+   "3) (가볍게) 스치다"
+  ],
+  "etym": "고대 영어 cyssan(입 맞추다). 입맞춤 소리를 흉내 낸 의성어 계열로 봄. 게르만어 계열(독일어 küssen)과 동족. '입술을 맞댐'이 핵심.",
+  "deriv": "'입맞춤하다' -> 명사 '키스(a goodnight kiss)' -> 비유 '스치다(The breeze kissed her cheek)'. blow a kiss(손 키스를 보내다), French kiss(딥 키스), kiss of life(인공호흡·기사회생), the kiss of death(파멸을 부르는 것), kiss goodbye to(~을 단념하다), KISS(Keep It Simple, Stupid 단순하게 하라). 한국 학습자: kiss someone goodbye(작별 키스를 하다), seal with a kiss(키스로 마무리). 명사·동사 같은 형태.",
+  "syn": ["peck(가벼운 키스)", "smooch(애정 키스)"],
+  "anti": [],
+  "idiom": ["blow a kiss(손 키스를 보내다)", "kiss of life(인공호흡·기사회생)", "kiss something goodbye(~을 단념하다)", "the kiss of death(파멸을 부르는 것)"],
+  "colloc": ["goodnight kiss(잘 자라는 키스)", "kiss on the cheek(볼 키스)", "blow a kiss(손 키스를 날리다)"],
+  "ex_add": "She kissed her children goodnight.  (kiss=입맞춤하다)"
+ },
+ {
+  "num": "1839",
+  "hw": "knock",
+  "pos": "v., n.",
+  "cefr": "B1",
+  "core": "'쿵쿵 두드리다·부딪치다' -> 노크 / 타격.",
+  "senses": [
+   "1) (문을) 두드리다·노크하다",
+   "2) 부딪치다·때려서 ~하게 하다",
+   "3) (n.) 두드림·타격 / (구어) 비난하다"
+  ],
+  "etym": "고대 영어 cnocian, '쿵쿵' 두드리는 소리를 흉내 낸 의성어. k는 묵음 /nɒk/. '두드림'이 핵심. knock·knee·knife처럼 kn- 의 k는 묵음.",
+  "deriv": "'두드리다(knock on the door)' -> '부딪치다(knock into, ~에 부딪치다)' -> 명사 '노크' -> 구어 '헐뜯다(Don't knock it)'. knock down(쳐서 쓰러뜨리다·헐다), knock out(때려 기절시키다·KO), knock off(일을 끝내다·후려치다), knock over(쳐서 넘어뜨리다). 한국 학습자: kn-의 k는 묵음(knock, knee, knife, knit, know). knock on wood(부정 타지 않기를), knock it off(그만해).",
+  "syn": ["tap(가볍게 두드리다)", "bang(쾅 치다)", "strike(치다)"],
+  "anti": [],
+  "idiom": ["knock out(녹아웃시키다)", "knock off(끝내다·할인하다)", "knock it off(그만둬)", "knock on wood(부정 타지 않게)", "knock someone's socks off(깜짝 놀라게 하다)"],
+  "colloc": ["knock on the door(문을 두드리다)", "knock down(쓰러뜨리다)", "loud knock(쿵쿵 두드리는 소리)"],
+  "ex_add": "Someone is knocking on the door.  (knock on=~을 두드리다)"
+ },
+ {
+  "num": "1840",
+  "hw": "label",
+  "pos": "n., v.",
+  "cefr": "B1",
+  "core": "정보를 적어 붙이는 '꼬리표' -> 딱지를 붙이다·규정짓다.",
+  "senses": [
+   "1) 라벨·꼬리표·상표",
+   "2) (동사) 라벨을 붙이다",
+   "3) (동사) ~라고 규정짓다·낙인찍다 / (음반) 레이블"
+  ],
+  "etym": "고대 프랑스어 label(리본·띠) < 게르만어 *lappǭ(천 조각). 본래 '매달린 천 조각'에서 '꼬리표'로. '붙여서 알려 주는 표'가 핵심.",
+  "deriv": "'매단 천 조각' -> '꼬리표(a price label)' -> 동사 '라벨을 붙이다(label the boxes)' -> 비유 '낙인찍다(label someone as lazy)' -> 음반 '레이블(a record label)'. 한국 학습자: label A as B(A를 B라고 규정짓다)의 부정적 뉘앙스(낙인). warning label(경고 라벨), designer label(명품 브랜드), read the label(라벨을 읽다). tag(짧은 꼬리표)와 유의어. mislabel(잘못 표기하다).",
+  "syn": ["tag(꼬리표)", "sticker(스티커)", "brand(상표)"],
+  "anti": [],
+  "idiom": ["label A as B(A를 B라고 규정짓다)", "read the label(라벨을 확인하다)", "designer label(명품 브랜드)"],
+  "colloc": ["price label(가격표)", "warning label(경고 표시)", "stick a label(라벨을 붙이다)"],
+  "ex_add": "Always read the label before taking medicine.  (label=라벨·표시)"
+ },
+ {
+  "num": "1841",
+  "hw": "laboratory",
+  "pos": "n.",
+  "cefr": "B1",
+  "core": "실험·연구를 하며 '작업하는' 방 = 실험실.",
+  "senses": [
+   "1) 실험실·연구실",
+   "2) (약어 lab) 실습실",
+   "3) (현상소·검사실 등) 전문 작업실"
+  ],
+  "etym": "중세 라틴어 laboratorium < laborare(일하다) < labor(노동). '일하는 방'이 핵심. labor(노동)·elaborate(공들인)·collaborate(협력하다, '함께 일하다')가 같은 labor(일) 뿌리.",
+  "deriv": "'일하는 방' -> '실험실(a research laboratory)'. labor(노동) 뿌리로 elaborate·collaborate와 묶인다. 줄여서 lab. 한국 학습자: laboratory(격식)와 lab(구어 약어)을 함께. 강세 — 영국식 /ləˈbɒrətri/, 미국식 /ˈlæbrətɔːri/로 다름. a chemistry lab(화학 실험실), laboratory experiment(실험실 실험), language laboratory(어학 실습실), computer lab(컴퓨터실).",
+  "syn": ["lab(실험실)", "workshop(작업실)", "research center(연구소)"],
+  "anti": [],
+  "idiom": ["laboratory conditions(실험실 조건)", "in the lab(실험실에서)"],
+  "colloc": ["research laboratory(연구 실험실)", "laboratory experiment(실험실 실험)", "science laboratory(과학 실험실)"],
+  "ex_add": "The samples were sent to the laboratory for testing.  (laboratory=실험실)"
+ }
+]
