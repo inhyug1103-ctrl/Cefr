@@ -1,0 +1,1573 @@
+[
+ {
+  "num": "4092",
+  "hw": "enforcement",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "힘을 넣어 시행함 -> '(법) 집행·시행·단속'.",
+  "senses": [
+   "1) (법·규칙의) 집행·시행·단속",
+   "2) (이행) 강제"
+  ],
+  "etym": "en(~하게) + 라틴어 fortis(강한) -> enforce(4091) + -ment. '힘을 넣어 강제 시행함'이 핵심. fortis(강한)는 enforcement·enforce(4091)·force(힘)·fort(요새)·effort(노력)·comfort(위안)·reinforce(3285)의 뿌리.",
+  "deriv": "enforce(4091, 집행하다) -> 'enforcement'. '힘을 넣어 시행함 -> 집행(law enforcement, 법 집행)'. 한국 학습자 핵심: fortis(강한) 대가족 — force(힘)·fort(요새)·effort(노력)·comfort(위안)·reinforce(3285)·fortify(요새화하다)·fortress(요새)! law enforcement(법 집행·경찰), strict enforcement(엄격한 시행), enforcement of the rules(규칙 시행), an enforcement agency(집행 기관). implementation(시행)·application(적용)과 유의어.",
+  "syn": [
+   "implementation(시행)",
+   "application(적용)"
+  ],
+  "anti": [],
+  "idiom": [
+   "law enforcement(법 집행)",
+   "strict enforcement(엄격한 시행)"
+  ],
+  "colloc": [
+   "law enforcement(법 집행)",
+   "strict enforcement(엄격한 시행)",
+   "enforcement agency(집행 기관)"
+  ],
+  "ex_add": "Strict enforcement of the law reduced crime.  (enforcement=집행)"
+ },
+ {
+  "num": "4093",
+  "hw": "engagement",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "약속으로 묶임 -> '약혼 / 약속·업무 / 참여·관여 / 교전'.",
+  "senses": [
+   "1) 약혼",
+   "2) 약속·선약·업무 일정",
+   "3) 참여·관여; (군사) 교전"
+  ],
+  "etym": "고대 프랑스어 en(안으로) + gage(담보·서약) -> engager(서약으로 묶다) -> engage + -ment. '약속(담보)으로 서로 묶임'이 핵심. gage(담보)는 engagement·engage·wage(3606)·mortgage(저당)의 뿌리.",
+  "deriv": "en(안)+gage(서약) -> engage -> 'engagement'. '약속으로 묶임 -> 약혼(an engagement ring, 약혼반지)·참여(public engagement, 대중 참여)'. 한국 학습자 핵심: gage(담보·서약) 갈래 — engage(약속하다·관여하다)·wage(3606, 임금·벌이다)·mortgage(저당)·engaging(4094)! an engagement ring(약혼반지), break off an engagement(약혼을 파기하다), a prior engagement(선약), rules of engagement(교전 수칙). commitment(약속)·involvement(관여)·appointment(약속)과 유의어.",
+  "syn": [
+   "commitment(약속)",
+   "involvement(관여)",
+   "appointment(약속)"
+  ],
+  "anti": [],
+  "idiom": [
+   "an engagement ring(약혼반지)",
+   "a prior engagement(선약)"
+  ],
+  "colloc": [
+   "engagement ring(약혼반지)",
+   "public engagement(대중 참여)",
+   "break off an engagement(약혼을 파기하다)"
+  ],
+  "ex_add": "They announced their engagement last week.  (engagement=약혼)"
+ },
+ {
+  "num": "4094",
+  "hw": "engaging",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "마음을 끌어 묶는 -> '마음을 끄는·매력적인·호감 가는'.",
+  "senses": [
+   "1) 마음을 끄는·매력적인·흥미를 끄는",
+   "2) (사람이) 호감 가는·붙임성 있는"
+  ],
+  "etym": "고대 프랑스어 en + gage(서약) -> engage(마음을 사로잡다)의 현재분사형 형용사. '마음을 끌어 붙들어 두는'이 핵심.",
+  "deriv": "engage(사로잡다) -> 'engaging'. '마음을 끌어 묶는 -> 매력적인(an engaging smile, 매력적인 미소)'. 한국 학습자 핵심: gage(담보·서약) 갈래 — engage·engagement(4093)·wage(3606)·mortgage(저당)! an engaging personality(호감 가는 성격), an engaging story(흥미진진한 이야기), highly engaging(매우 흥미로운). charming(매력적인)·appealing(3712, 매력적인)·captivating(마음을 사로잡는)과 유의어. 반대 boring(따분한)·dull(지루한)·off-putting(정 떨어지게 하는).",
+  "syn": [
+   "charming(매력적인)",
+   "appealing(매력적인)",
+   "captivating(마음을 사로잡는)"
+  ],
+  "anti": [
+   "boring(따분한)",
+   "dull(지루한)",
+   "off-putting(정 떨어지게 하는)"
+  ],
+  "idiom": [
+   "an engaging smile(매력적인 미소)",
+   "an engaging personality(호감 가는 성격)"
+  ],
+  "colloc": [
+   "engaging story(흥미진진한 이야기)",
+   "engaging personality(호감 가는 성격)",
+   "highly engaging(매우 흥미로운)"
+  ],
+  "ex_add": "The teacher has an engaging way of explaining things.  (engaging=마음을 끄는)"
+ },
+ {
+  "num": "4095",
+  "hw": "enrich",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "풍요롭게 만들다 -> '풍요롭게 하다·질을 높이다 / 농축하다'.",
+  "senses": [
+   "1) (삶·경험을) 풍요롭게 하다·질을 높이다",
+   "2) 부유하게 만들다",
+   "3) (영양·물질을) 강화하다·농축하다"
+  ],
+  "etym": "en(~하게 만들다) + rich(부유한, 게르만어 rik 강한·부유한). '부유하게·풍요롭게 만듦'이 핵심.",
+  "deriv": "en(~하게)+rich(부유한) -> 'enrich'. '풍요롭게 만듦 -> 풍요롭게 하다(enrich one's life, 삶을 풍요롭게 하다)·농축하다(enriched uranium, 농축 우라늄)'. 한국 학습자 핵심: en-(~하게 만들다) 접두사 — enrich·enable(가능하게)·enlarge(확대)·empower(4081)·ensure(보장하다)·enact(4082)! enrich the soil(토양을 비옥하게 하다), culturally enrich(문화적으로 풍요롭게 하다), enriched food(영양 강화 식품). improve(향상시키다)·enhance(높이다)·fortify(강화하다)와 유의어. 반대 impoverish(빈곤하게 하다)·deplete(고갈시키다).",
+  "syn": [
+   "improve(향상시키다)",
+   "enhance(높이다)",
+   "fortify(강화하다)"
+  ],
+  "anti": [
+   "impoverish(빈곤하게 하다)",
+   "deplete(고갈시키다)"
+  ],
+  "idiom": [
+   "enrich one's life(삶을 풍요롭게 하다)",
+   "enriched uranium(농축 우라늄)"
+  ],
+  "colloc": [
+   "enrich one's life(삶을 풍요롭게 하다)",
+   "enrich the soil(토양을 비옥하게 하다)",
+   "culturally enrich(문화적으로 풍요롭게 하다)"
+  ],
+  "ex_add": "Travel can enrich your understanding of the world.  (enrich=풍요롭게 하다)"
+ },
+ {
+  "num": "4096",
+  "hw": "enroll",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "명부에 올리다 -> '등록하다·입학시키다·가입시키다'.",
+  "senses": [
+   "1) (학교·강좌에) 등록하다·입학하다",
+   "2) (회원으로) 가입시키다·등록하다"
+  ],
+  "etym": "고대 프랑스어 en(안으로) + rolle(두루마리·명부) -> enroller(명부에 적다) -> 'enroll'. 옛 명부가 두루마리(roll)였던 데서. '명부에 이름을 올림'이 핵심. roll(두루마리)은 enroll·roll·roster(명부)·control(통제)·rotulus의 뿌리.",
+  "deriv": "en(안)+rolle(명부) -> 'enroll'. '명부에 올림 -> 등록하다(enroll in a course, 강좌에 등록하다)'. 한국 학습자 핵심: roll(두루마리·명부) 갈래 — roll(말다·명부)·roster(명단)·control(통제, 대조 명부 contra+rotulus)·enrollment(등록)! 철자: 미국 enroll / 영국 enrol. enroll in(~에 등록하다), enroll a child in school(아이를 입학시키다), be enrolled(등록되어 있다). register(3280, 등록하다)·sign up(가입하다)·admit(입학시키다)과 유의어. 반대 withdraw(3630, 탈퇴하다)·drop out(중퇴하다).",
+  "syn": [
+   "register(등록하다)",
+   "sign up(가입하다)",
+   "admit(입학시키다)"
+  ],
+  "anti": [
+   "withdraw(탈퇴하다)",
+   "drop out(중퇴하다)"
+  ],
+  "idiom": [
+   "enroll in(~에 등록하다)",
+   "be enrolled(등록되어 있다)"
+  ],
+  "colloc": [
+   "enroll in a course(강좌에 등록하다)",
+   "enroll at a university(대학에 입학하다)",
+   "enroll students(학생을 등록시키다)"
+  ],
+  "ex_add": "She enrolled in an online English course.  (enroll=등록하다)"
+ },
+ {
+  "num": "4097",
+  "hw": "ensue",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "뒤이어 따라오다 -> '뒤따르다·잇따라 일어나다'.",
+  "senses": [
+   "1) (결과로) 뒤따르다·잇따라 일어나다·이어지다"
+  ],
+  "etym": "라틴어 in(뒤에) + sequi(따르다) -> insequi(뒤따르다) -> 고대 프랑스어 ensuir -> 'ensue'. '뒤이어 따라옴'이 핵심. sequi(따르다)는 ensue·sequence(3370)·pursue(3243)·consecutive(3898)·subsequent(3472)의 뿌리.",
+  "deriv": "in(뒤)+sequi(따르다) -> 'ensue'. '뒤이어 따라옴 -> 잇따라 일어나다(a fight ensued, 싸움이 뒤따랐다)'. 한국 학습자 핵심: sequi(따르다) 대가족 — sequence(3370)·pursue(3243)·consecutive(3898)·subsequent(3472)·consequence(결과)·execute(4120)·persecute(박해)! the ensuing chaos(뒤이은 혼란), in the years that ensued(이어진 몇 년 동안), chaos ensued(혼란이 잇따랐다). follow(뒤따르다)·result(결과로 생기다)·arise(생기다)와 유의어. 반대 precede(3191, 앞서다).",
+  "syn": [
+   "follow(뒤따르다)",
+   "result(결과로 생기다)",
+   "arise(생기다)"
+  ],
+  "anti": [
+   "precede(앞서다)"
+  ],
+  "idiom": [
+   "the ensuing chaos(뒤이은 혼란)",
+   "chaos ensued(혼란이 잇따랐다)"
+  ],
+  "colloc": [
+   "a fight ensued(싸움이 뒤따랐다)",
+   "the ensuing years(뒤이은 몇 년)",
+   "chaos ensued(혼란이 잇따랐다)"
+  ],
+  "ex_add": "An argument ensued after the meeting.  (ensue=뒤따르다)"
+ },
+ {
+  "num": "4098",
+  "hw": "enterprise",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "손에 거머쥐고 벌이는 일 -> '기업 / 사업·기획 / 진취성'.",
+  "senses": [
+   "1) 기업·회사",
+   "2) (대담한) 사업·기획·계획",
+   "3) 진취성·모험심·기업가 정신"
+  ],
+  "etym": "라틴어 inter(사이에) + prehendere(붙잡다) -> 고대 프랑스어 entreprise(떠맡은 일) -> 'enterprise'. '손에 거머쥐고 떠맡아 벌이는 일'이 핵심. prehendere(붙잡다)는 enterprise·comprehend(이해하다)·apprehend(체포하다)·prison(감옥)의 뿌리.",
+  "deriv": "inter(사이)+prehendere(붙잡다) -> 'enterprise'. '거머쥐고 벌이는 일 -> 기업(a private enterprise, 민간 기업)·진취성'. 한국 학습자 핵심: prehendere(붙잡다) 갈래 — comprehend(이해하다, 함께 붙잡다)·apprehend(체포하다·이해하다)·prison(감옥)·prey(먹이)·comprehensive(포괄적인)! free enterprise(자유 기업제), a private enterprise(민간 기업), show enterprise(진취성을 보이다), an enterprise zone(기업 특구). business(사업)·venture(모험적 사업)·initiative(진취성)와 유의어.",
+  "syn": [
+   "business(사업)",
+   "venture(모험적 사업)",
+   "initiative(진취성)"
+  ],
+  "anti": [],
+  "idiom": [
+   "free enterprise(자유 기업제)",
+   "a private enterprise(민간 기업)"
+  ],
+  "colloc": [
+   "private enterprise(민간 기업)",
+   "free enterprise(자유 기업제)",
+   "business enterprise(사업체)"
+  ],
+  "ex_add": "She runs a small business enterprise.  (enterprise=기업)"
+ },
+ {
+  "num": "4099",
+  "hw": "enthusiast",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "신들린 듯 열중하는 사람 -> '열렬한 팬·애호가·열성가'.",
+  "senses": [
+   "1) (특정 분야의) 열렬한 팬·애호가·열성가"
+  ],
+  "etym": "그리스어 en(안에) + theos(신) -> enthousiastes(신들린 사람) -> 'enthusiast'. 신이 '안에 깃든 듯' 열중하는 데서. theos(신)는 enthusiast·theology(신학)·atheist(무신론자)·theism(유신론)의 뿌리.",
+  "deriv": "en(안)+theos(신) -> 'enthusiast'. '신들린 듯 열중하는 사람 -> 애호가(a sports enthusiast, 스포츠 애호가)'. 한국 학습자 핵심: theos(신) 갈래 — theology(신학)·atheist(무신론자, a 없는+theos 신)·theism(유신론)·pantheon(만신전)·enthusiasm(열정)·enthusiastic(열성적인)! 어원이 '신들림(en+theos)' — 신이 안에 깃든 듯 열광! a car enthusiast(자동차 애호가), an outdoor enthusiast(야외 활동 애호가). fan(팬)·devotee(애호가)·aficionado(열성가)와 유의어.",
+  "syn": [
+   "fan(팬)",
+   "devotee(애호가)",
+   "aficionado(열성가)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a sports enthusiast(스포츠 애호가)",
+   "a car enthusiast(자동차 애호가)"
+  ],
+  "colloc": [
+   "sports enthusiast(스포츠 애호가)",
+   "outdoor enthusiast(야외 활동 애호가)",
+   "keen enthusiast(열렬한 애호가)"
+  ],
+  "ex_add": "He is a keen photography enthusiast.  (enthusiast=애호가)"
+ },
+ {
+  "num": "4100",
+  "hw": "entitle",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "칭호·자격을 부여하다 -> '자격을 주다 / 제목을 붙이다'.",
+  "senses": [
+   "1) (be entitled to) ~할 자격·권리를 주다",
+   "2) (책·작품에) 제목을 붙이다"
+  ],
+  "etym": "en(~하게 만들다) + 라틴어 titulus(표제·칭호) -> entitle. title(3532)과 한 뿌리 — '칭호·자격을 부여함'이 핵심. titulus(표제)는 entitle·title(3532)·subtitle(부제)의 뿌리.",
+  "deriv": "en(~하게)+title(칭호) -> 'entitle'. '자격을 부여함 -> 자격을 주다(be entitled to, ~할 자격이 있다)·제목을 붙이다(a book entitled, ~라는 제목의 책)'. 한국 학습자 핵심: titulus(표제·칭호) 갈래 — title(3532)·subtitle(부제·자막)·entitlement(권리·수급권)! be entitled to(~할 자격이 있다)가 핵심 구문! a book entitled X(X라는 제목의 책), entitle someone to(~에게 ~할 자격을 주다), a sense of entitlement(특권 의식). qualify(자격을 주다)·authorize(3743, 권한을 주다)와 유의어.",
+  "syn": [
+   "qualify(자격을 주다)",
+   "authorize(권한을 주다)",
+   "name(제목을 붙이다)"
+  ],
+  "anti": [
+   "disqualify(자격을 박탈하다)"
+  ],
+  "idiom": [
+   "be entitled to(~할 자격이 있다)",
+   "a sense of entitlement(특권 의식)"
+  ],
+  "colloc": [
+   "be entitled to(~할 자격이 있다)",
+   "entitle someone to(~에게 자격을 주다)",
+   "a book entitled(~라는 제목의 책)"
+  ],
+  "ex_add": "All employees are entitled to paid leave.  (entitle=자격을 주다)"
+ },
+ {
+  "num": "4101",
+  "hw": "entity",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "존재하는 것 -> '실체·독립체 / 존재'.",
+  "senses": [
+   "1) 독립체·실체·하나의 단위",
+   "2) (법) 법인·기관",
+   "3) 존재·실재"
+  ],
+  "etym": "라틴어 esse(있다·존재하다) -> ens(존재하는 것, 속격 entis) -> entitas -> 'entity'. '존재하는 하나의 것'이 핵심. esse(있다)는 entity·essence(4107)·present(있는)·absent(3649)·interest(이자)·represent(3296)의 뿌리.",
+  "deriv": "esse(있다) -> ens(존재) -> 'entity'. '존재하는 것 -> 실체(a legal entity, 법인)'. 한국 학습자 핵심: esse(있다) 대가족 — essence(4107)·present(있는)·presence(3208)·absent(3649)·absence(3648)·interest(이자)·represent(3296)·essential(필수의)! a separate entity(별개의 독립체), a legal entity(법인), a business entity(사업체), a single entity(하나의 단위). being(존재)·organism(유기체)·body(단체)와 유의어.",
+  "syn": [
+   "being(존재)",
+   "organism(유기체)",
+   "body(단체)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a legal entity(법인)",
+   "a separate entity(별개의 독립체)"
+  ],
+  "colloc": [
+   "separate entity(별개의 독립체)",
+   "legal entity(법인)",
+   "single entity(하나의 단위)"
+  ],
+  "ex_add": "The company is now a separate legal entity.  (entity=법인)"
+ },
+ {
+  "num": "4102",
+  "hw": "epidemic",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "사람들 사이에 퍼진 것 -> '유행병·전염병 / (나쁜 것의) 급속한 확산'.",
+  "senses": [
+   "1) 유행병·전염병·역병",
+   "2) (나쁜 것의) 급속한 만연·확산"
+  ],
+  "etym": "그리스어 epi(~ 사이에) + demos(민중·사람들) -> epidemios(사람들 사이에 도는) -> 'epidemic'. '사람들 사이에 퍼진 것'이 핵심. demos(민중)는 epidemic·democracy(민주주의)·demography(인구 통계)·pandemic(세계적 유행병)의 뿌리.",
+  "deriv": "epi(사이)+demos(사람들) -> 'epidemic'. '사람들 사이에 퍼진 것 -> 유행병(a flu epidemic, 독감 유행)'. 한국 학습자 핵심: demos(민중·사람들) 갈래 — democracy(민주주의)·demography(인구 통계)·pandemic(전 세계적 유행병, pan 모든)·endemic(풍토병의)·demagogue(선동가)! 규모 구별: outbreak(발병)<epidemic(유행)<pandemic(세계적 대유행)! a flu epidemic(독감 유행), an obesity epidemic(비만 만연), reach epidemic proportions(만연하다). outbreak(발병)·plague(역병)과 유의어.",
+  "syn": [
+   "outbreak(발병)",
+   "plague(역병)",
+   "pandemic(대유행병)"
+  ],
+  "anti": [],
+  "idiom": [
+   "a flu epidemic(독감 유행)",
+   "reach epidemic proportions(만연하다)"
+  ],
+  "colloc": [
+   "flu epidemic(독감 유행)",
+   "obesity epidemic(비만 만연)",
+   "global epidemic(세계적 유행병)"
+  ],
+  "ex_add": "The country is facing a flu epidemic.  (epidemic=유행병)"
+ },
+ {
+  "num": "4103",
+  "hw": "equality",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "같음 -> '평등·동등 / 균등'.",
+  "senses": [
+   "1) 평등·동등·균등",
+   "2) (수학) 등식·상등"
+  ],
+  "etym": "라틴어 aequus(평평한·같은) -> aequalis(같은) -> equal(같은) + -ity. '같음·동등함'이 핵심. aequus(같은)는 equality·equal·equation(4104)·adequate(적절한)·equivalent(동등한)·equator(적도)의 뿌리.",
+  "deriv": "aequus(같은) -> equal -> 'equality'. '같음 -> 평등(gender equality, 양성평등)'. 한국 학습자 핵심: aequus(평평한·같은) 대가족 — equal·equation(4104)·adequate(적절한)·equivalent(동등한)·equator(적도)·equilibrium(평형)·equity(공평)! gender equality(성평등), racial equality(인종 평등), equality of opportunity(기회 균등), fight for equality(평등을 위해 싸우다). fairness(4136, 공정)·parity(동등)·sameness(같음)와 유의어. 반대 inequality(불평등)·disparity(격차).",
+  "syn": [
+   "fairness(공정)",
+   "parity(동등)",
+   "sameness(같음)"
+  ],
+  "anti": [
+   "inequality(불평등)",
+   "disparity(격차)"
+  ],
+  "idiom": [
+   "gender equality(성평등)",
+   "equality of opportunity(기회 균등)"
+  ],
+  "colloc": [
+   "gender equality(성평등)",
+   "racial equality(인종 평등)",
+   "fight for equality(평등을 위해 싸우다)"
+  ],
+  "ex_add": "The movement campaigns for racial equality.  (equality=평등)"
+ },
+ {
+  "num": "4104",
+  "hw": "equation",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "같게 만든 식 -> '방정식·등식 / (복잡한) 상황·문제'.",
+  "senses": [
+   "1) (수학) 방정식·등식",
+   "2) (여러 요인이 얽힌) 상황·문제·고려 사항"
+  ],
+  "etym": "라틴어 aequus(같은) -> aequatio(같게 함) -> 'equation'. 양변을 '같게 만든 식'이 핵심.",
+  "deriv": "aequus(같은) -> aequatio -> 'equation'. '같게 만든 식 -> 방정식(solve an equation, 방정식을 풀다)·(복잡한) 상황'. 한국 학습자 핵심: aequus(같은) 대가족 — equal·equality(4103)·adequate(적절한)·equivalent(동등한)·equator(적도)·equilibrium(평형)! a quadratic equation(이차 방정식), part of the equation(고려해야 할 요소 중 하나), enter the equation(고려 대상이 되다), a chemical equation(화학 반응식). formula(공식)·calculation(3805, 계산)과 유의어.",
+  "syn": [
+   "formula(공식)",
+   "calculation(계산)"
+  ],
+  "anti": [],
+  "idiom": [
+   "solve an equation(방정식을 풀다)",
+   "part of the equation(고려해야 할 요소)"
+  ],
+  "colloc": [
+   "solve an equation(방정식을 풀다)",
+   "quadratic equation(이차 방정식)",
+   "part of the equation(고려 요소)"
+  ],
+  "ex_add": "Money is only part of the equation.  (equation=고려 요소)"
+ },
+ {
+  "num": "4105",
+  "hw": "erect",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "곧추세우다 -> '세우다·건립하다 / (형용사) 꼿꼿한'.",
+  "senses": [
+   "1) (건물·기념물을) 세우다·건립하다",
+   "2) (구조물을) 조립해 세우다",
+   "3) (형용사) 꼿꼿한·똑바로 선"
+  ],
+  "etym": "라틴어 ex(위로) + regere(곧게 하다·이끌다) -> erigere(곧추세우다) -> erectus(똑바로 선) -> 'erect'. '위로 곧게 세움'이 핵심. regere(곧게 하다)는 erect·direct(2576)·correct(3930)·region(3279)·regular(규칙적)·directory(4022)의 뿌리.",
+  "deriv": "ex(위로)+regere(곧게 하다) -> 'erect'. '곧추세움 -> 세우다(erect a statue, 동상을 세우다)·꼿꼿한(stand erect, 꼿꼿이 서다)'. 한국 학습자 핵심: regere(곧게 하다·다스리다) 대가족 — direct(2576)·correct(3930)·region(3279)·regular(규칙적)·directory(4022)·rectangle(직사각형)·rectify(바로잡다)! erect a building(건물을 세우다), erect a monument(기념비를 세우다), stand erect(꼿꼿이 서다). build(짓다)·construct(건설하다)·raise(세우다)와 유의어. 반대 demolish(헐다)·dismantle(해체하다).",
+  "syn": [
+   "build(짓다)",
+   "construct(건설하다)",
+   "raise(세우다)"
+  ],
+  "anti": [
+   "demolish(헐다)",
+   "dismantle(해체하다)"
+  ],
+  "idiom": [
+   "erect a statue(동상을 세우다)",
+   "stand erect(꼿꼿이 서다)"
+  ],
+  "colloc": [
+   "erect a building(건물을 세우다)",
+   "erect a monument(기념비를 세우다)",
+   "erect a barrier(장벽을 세우다)"
+  ],
+  "ex_add": "A statue was erected in honor of the hero.  (erect=세우다)"
+ },
+ {
+  "num": "4106",
+  "hw": "escalate",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "사다리를 타고 오르다 -> '단계적으로 확대되다·격화되다 / 증가시키다'.",
+  "senses": [
+   "1) (갈등·문제가) 단계적으로 확대되다·격화되다",
+   "2) (비용·수치가) 급격히 증가하다·증대시키다"
+  ],
+  "etym": "라틴어 scala(사다리) -> escalator(에스컬레이터)에서 역형성된 'escalate'. 사다리(에스컬레이터)를 타고 '단계적으로 올라감'이 핵심. scala(사다리)는 escalate·escalator·scale(3344)·ascend·descend(3997)의 뿌리.",
+  "deriv": "scala(사다리) -> escalator -> 'escalate'. '사다리를 타고 오름 -> 단계적으로 확대되다(escalate the conflict, 갈등을 격화시키다)'. 한국 학습자 핵심: scala(사다리) 갈래 — escalator(에스컬레이터)·scale(3344, 사다리·규모)·ascend(오르다)·descend(3997)·escalation(확대)! escalate into(~로 번지다·격화되다), rapidly escalate(빠르게 확대되다), escalating costs(급증하는 비용), de-escalate(완화하다). intensify(심화되다)·increase(증가하다)·worsen(악화되다)과 유의어. 반대 de-escalate(완화하다)·diminish(4018, 줄다).",
+  "syn": [
+   "intensify(심화되다)",
+   "increase(증가하다)",
+   "worsen(악화되다)"
+  ],
+  "anti": [
+   "de-escalate(완화하다)",
+   "diminish(줄다)"
+  ],
+  "idiom": [
+   "escalate into(~로 번지다)",
+   "escalating costs(급증하는 비용)"
+  ],
+  "colloc": [
+   "escalate the conflict(갈등을 격화시키다)",
+   "rapidly escalate(빠르게 확대되다)",
+   "escalate into violence(폭력으로 번지다)"
+  ],
+  "ex_add": "The dispute escalated into a full-scale war.  (escalate=격화되다)"
+ },
+ {
+  "num": "4107",
+  "hw": "essence",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "있음 그 자체 -> '본질·정수 / 진액·에센스'.",
+  "senses": [
+   "1) 본질·정수·핵심",
+   "2) (추출한) 진액·향유·에센스"
+  ],
+  "etym": "라틴어 esse(있다·존재하다) -> essentia(존재의 본질) -> 'essence'. '있음 그 자체·존재의 핵심'이 핵심. esse(있다)는 essence·entity(4101)·essential(필수의)·present(있는)·absent(3649)·interest(이자)의 뿌리.",
+  "deriv": "esse(있다) -> essentia -> 'essence'. '있음 그 자체 -> 본질(the essence of, ~의 본질)·진액'. 한국 학습자 핵심: esse(있다) 대가족 — entity(4101)·essential(필수의)·present(있는)·presence(3208)·absent(3649)·interest(이자)·represent(3296)! in essence(본질적으로·요컨대), the essence of(~의 본질), capture the essence(본질을 포착하다), vanilla essence(바닐라 진액), of the essence(가장 중요한). core(핵심)·heart(핵심)·nature(본질)와 유의어.",
+  "syn": [
+   "core(핵심)",
+   "heart(핵심)",
+   "nature(본질)"
+  ],
+  "anti": [],
+  "idiom": [
+   "in essence(본질적으로)",
+   "the essence of(~의 본질)",
+   "of the essence(가장 중요한)"
+  ],
+  "colloc": [
+   "the essence of(~의 본질)",
+   "in essence(본질적으로)",
+   "capture the essence(본질을 포착하다)"
+  ],
+  "ex_add": "Freedom is the essence of democracy.  (essence=본질)"
+ },
+ {
+  "num": "4108",
+  "hw": "establishment",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "굳게 세움 -> '설립·확립 / 기관·시설 / (the Establishment) 기득권층'.",
+  "senses": [
+   "1) 설립·창설·확립",
+   "2) 기관·시설·업체",
+   "3) (the Establishment) 지배층·기득권층"
+  ],
+  "etym": "라틴어 stare(서다) -> stabilire(굳게 세우다) -> establish(설립하다) + -ment. '굳게 세워 자리 잡게 함'이 핵심. stare(서다)는 establishment·establish·stable(3440)·status(3447)·constitute(3904)·stage(3441)의 뿌리.",
+  "deriv": "stare(서다) -> establish -> 'establishment'. '굳게 세움 -> 설립(the establishment of, ~의 설립)·기관·(the Establishment) 기득권층'. 한국 학습자 핵심: stare(서다) 초대형 가족 — establish·stable(3440)·status(3447)·constitute(3904)·stage(3441)·statue(조각상)·station(역)·constant(끊임없는)! the establishment of(~의 설립), an educational establishment(교육 기관), the political establishment(정치 기득권층), anti-establishment(기득권 반대의). foundation(설립)·institution(기관)·creation(창설)과 유의어.",
+  "syn": [
+   "foundation(설립)",
+   "institution(기관)",
+   "creation(창설)"
+  ],
+  "anti": [
+   "abolition(폐지)",
+   "closure(폐쇄)"
+  ],
+  "idiom": [
+   "the Establishment(기득권층)",
+   "the establishment of(~의 설립)"
+  ],
+  "colloc": [
+   "the establishment of(~의 설립)",
+   "educational establishment(교육 기관)",
+   "political establishment(정치 기득권층)"
+  ],
+  "ex_add": "The treaty led to the establishment of the union.  (establishment=설립)"
+ },
+ {
+  "num": "4109",
+  "hw": "eternal",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "영원토록 이어지는 -> '영원한·끊임없는'.",
+  "senses": [
+   "1) 영원한·불멸의·영구적인",
+   "2) 끊임없는·그칠 줄 모르는"
+  ],
+  "etym": "라틴어 aevum(나이·시대·영원) -> aeternus(영원한) -> 'eternal'. '시대를 넘어 영원토록 이어지는'이 핵심. aevum(시대)는 eternal·eternity(영원)·ever(언제나)·age(나이·시대)·medieval(중세의)의 뿌리.",
+  "deriv": "aevum(시대·영원) -> aeternus -> 'eternal'. '영원토록 이어지는 -> 영원한(eternal life, 영생)'. 한국 학습자 핵심: aevum(시대·나이) 갈래 — eternity(영원)·ever(언제나)·age(나이·시대)·medieval(중세의)·longevity(장수)·primeval(원시의)·coeval(동시대의)! eternal life(영생), eternal love(영원한 사랑), the eternal city(영원의 도시·로마), eternal gratitude(영원한 감사). everlasting(영원한)·perpetual(끊임없는)·immortal(불멸의)과 유의어. 반대 temporary(3506, 일시적인)·mortal(필멸의)·fleeting(순식간의).",
+  "syn": [
+   "everlasting(영원한)",
+   "perpetual(끊임없는)",
+   "immortal(불멸의)"
+  ],
+  "anti": [
+   "temporary(일시적인)",
+   "mortal(필멸의)",
+   "fleeting(순식간의)"
+  ],
+  "idiom": [
+   "eternal life(영생)",
+   "eternal love(영원한 사랑)"
+  ],
+  "colloc": [
+   "eternal life(영생)",
+   "eternal love(영원한 사랑)",
+   "eternal gratitude(영원한 감사)"
+  ],
+  "ex_add": "They promised each other eternal love.  (eternal=영원한)"
+ },
+ {
+  "num": "4110",
+  "hw": "evacuate",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "비워 내보내다 -> '대피시키다·피난하다 / 비우다'.",
+  "senses": [
+   "1) (위험 지역에서) 대피시키다·피난시키다·피난하다",
+   "2) (장소를) 비우다·철수하다"
+  ],
+  "etym": "라틴어 ex(밖으로) + vacuus(빈) -> evacuare(비우다·내보내다) -> 'evacuate'. '안의 것을 밖으로 비워 내보냄'이 핵심. vacuus(빈)는 evacuate·vacuum(진공)·vacant(비어 있는)·vacation(휴가)·vain(헛된)의 뿌리.",
+  "deriv": "ex(밖)+vacuus(빈) -> 'evacuate'. '비워 내보냄 -> 대피시키다(evacuate the building, 건물에서 대피시키다)'. 한국 학습자 핵심: vacuus(빈) 갈래 — vacuum(진공)·vacant(비어 있는)·vacancy(공석)·vacation(휴가, 일을 비움)·vain(헛된)·evacuation(대피)·void(빈)! evacuate the area(지역을 대피시키다), be evacuated(대피하다), an evacuation order(대피 명령). flee(달아나다)·withdraw(3630, 철수하다)·clear out(비우다)과 유의어.",
+  "syn": [
+   "flee(달아나다)",
+   "withdraw(철수하다)",
+   "clear out(비우다)"
+  ],
+  "anti": [
+   "occupy(점유하다)",
+   "remain(머무르다)"
+  ],
+  "idiom": [
+   "evacuate the building(건물에서 대피시키다)",
+   "an evacuation order(대피 명령)"
+  ],
+  "colloc": [
+   "evacuate the area(지역을 대피시키다)",
+   "evacuate residents(주민을 대피시키다)",
+   "be evacuated(대피하다)"
+  ],
+  "ex_add": "Thousands were evacuated before the storm hit.  (evacuate=대피시키다)"
+ },
+ {
+  "num": "4111",
+  "hw": "evoke",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "불러일으키다 -> '(감정·기억을) 불러일으키다·자아내다'.",
+  "senses": [
+   "1) (감정·기억·이미지를) 불러일으키다·환기하다·자아내다"
+  ],
+  "etym": "라틴어 ex(밖으로) + vocare(부르다) -> evocare(불러내다) -> 'evoke'. 마음속 감정을 '밖으로 불러냄'이 핵심. vocare(부르다)는 evoke·advocate(3680)·vocal(목소리의)·invoke(부르다)·provoke(자극하다)·revoke(취소하다)의 뿌리.",
+  "deriv": "ex(밖)+vocare(부르다) -> 'evoke'. '불러일으킴 -> 자아내다(evoke memories, 기억을 불러일으키다)'. 한국 학습자 핵심: vocare(부르다)/vox(목소리) 대가족 — advocate(3680)·vocal(목소리의)·invoke(부르다·발동하다)·provoke(자극하다)·revoke(취소하다)·vocation(천직)·convoke(소집하다)! evoke emotions(감정을 자아내다), evoke a response(반응을 불러일으키다), evoke nostalgia(향수를 자아내다). arouse(불러일으키다)·elicit(이끌어 내다)·conjure up(떠올리게 하다)과 유의어. 반대 suppress(억누르다).",
+  "syn": [
+   "arouse(불러일으키다)",
+   "elicit(이끌어 내다)",
+   "conjure up(떠올리게 하다)"
+  ],
+  "anti": [
+   "suppress(억누르다)"
+  ],
+  "idiom": [
+   "evoke memories(기억을 불러일으키다)",
+   "evoke emotions(감정을 자아내다)"
+  ],
+  "colloc": [
+   "evoke memories(기억을 불러일으키다)",
+   "evoke a response(반응을 불러일으키다)",
+   "evoke nostalgia(향수를 자아내다)"
+  ],
+  "ex_add": "The smell of bread evoked childhood memories.  (evoke=불러일으키다)"
+ },
+ {
+  "num": "4112",
+  "hw": "evolutionary",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "굴러 펼쳐지는 -> '진화의·진화적인 / 점진적 발전의'.",
+  "senses": [
+   "1) (생물) 진화의·진화론적인",
+   "2) 점진적 발전의·서서히 변화하는"
+  ],
+  "etym": "라틴어 ex(밖으로) + volvere(말다·굴리다) -> evolvere(펼쳐 나오다) -> evolution(진화) + -ary. 두루마리가 '굴러 펼쳐지듯' 발전함이 핵심. volvere(말다)는 evolutionary·evolve·revolution(3316)·involve(2693)·volume(3603)의 뿌리.",
+  "deriv": "ex(밖)+volvere(굴리다) -> evolve -> 'evolutionary'. '굴러 펼쳐지는 -> 진화의(evolutionary biology, 진화 생물학)'. 한국 학습자 핵심: volvere(말다·굴리다) 대가족 — evolve(진화하다)·revolution(3316)·involve(2693)·volume(3603)·revolve(회전하다)·revolt(반란)! 구별: evolutionary(점진적 진화) vs revolutionary(급격한 혁명)! evolutionary process(진화 과정), evolutionary theory(진화론), an evolutionary advantage(진화적 이점), an evolutionary step(점진적 발전 단계). gradual(점진적인)·developmental(발달의)과 유의어. 반대 revolutionary(혁명적인).",
+  "syn": [
+   "gradual(점진적인)",
+   "developmental(발달의)",
+   "progressive(점진적인)"
+  ],
+  "anti": [
+   "revolutionary(혁명적인)"
+  ],
+  "idiom": [
+   "evolutionary biology(진화 생물학)",
+   "an evolutionary advantage(진화적 이점)"
+  ],
+  "colloc": [
+   "evolutionary process(진화 과정)",
+   "evolutionary theory(진화론)",
+   "evolutionary change(점진적 변화)"
+  ],
+  "ex_add": "Big brains gave humans an evolutionary advantage.  (evolutionary=진화의)"
+ },
+ {
+  "num": "4113",
+  "hw": "exaggerate",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "잔뜩 쌓아 부풀리다 -> '과장하다·부풀려 말하다'.",
+  "senses": [
+   "1) 과장하다·부풀려 말하다·침소봉대하다"
+  ],
+  "etym": "라틴어 ex(완전히) + aggerare(쌓아 올리다, ad+gerere 나르다) -> exaggerare(잔뜩 쌓다·부풀리다) -> 'exaggerate'. '잔뜩 쌓아 부풀림'이 핵심. gerere(나르다)는 exaggerate·gesture(몸짓)·register(3280)·digest(소화하다)·suggest(제안)의 뿌리.",
+  "deriv": "ex(완전히)+aggerare(쌓다) -> 'exaggerate'. '잔뜩 쌓아 부풀림 -> 과장하다(exaggerate the danger, 위험을 과장하다)'. 한국 학습자 핵심: gerere(나르다·쌓다) 갈래 — gesture(몸짓)·register(3280)·digest(소화)·suggest(제안)·exaggeration(과장)·aggregate(총계)! grossly exaggerate(심하게 과장하다), exaggerate the importance(중요성을 부풀리다), wildly exaggerated(터무니없이 과장된). overstate(과장하다)·magnify(확대하다)·embellish(미화하다)와 유의어. 반대 understate(축소해 말하다)·downplay(대수롭지 않게 말하다).",
+  "syn": [
+   "overstate(과장하다)",
+   "magnify(확대하다)",
+   "embellish(미화하다)"
+  ],
+  "anti": [
+   "understate(축소해 말하다)",
+   "downplay(대수롭지 않게 말하다)"
+  ],
+  "idiom": [
+   "exaggerate the danger(위험을 과장하다)",
+   "grossly exaggerate(심하게 과장하다)"
+  ],
+  "colloc": [
+   "exaggerate the importance(중요성을 부풀리다)",
+   "wildly exaggerate(터무니없이 과장하다)",
+   "tend to exaggerate(과장하는 경향이 있다)"
+  ],
+  "ex_add": "Don't exaggerate; it wasn't that bad.  (exaggerate=과장하다)"
+ },
+ {
+  "num": "4114",
+  "hw": "excellence",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "위로 솟아 뛰어남 -> '뛰어남·탁월함·우수성'.",
+  "senses": [
+   "1) 뛰어남·탁월함·우수성"
+  ],
+  "etym": "라틴어 ex(위로) + cellere(솟다·높이 솟다) -> excellere(뛰어나다) -> excellent(뛰어난) + -ce. '위로 솟아 두드러지게 뛰어남'이 핵심. cellere(솟다)는 excellence·excel(뛰어나다)·excellent·exceed(초과하다, 어원은 cedere로 다름)와 관련.",
+  "deriv": "ex(위로)+cellere(솟다) -> excel -> 'excellence'. '위로 솟아 뛰어남 -> 탁월함(academic excellence, 학업 우수성)'. 한국 학습자 핵심: cellere(솟다·높이다) 갈래 — excel(뛰어나다)·excellent(뛰어난)·excelsior(더 높이)! a center of excellence(우수 연구 거점), academic excellence(학업 우수성), strive for excellence(탁월함을 추구하다), Your Excellency(각하). brilliance(탁월함)·distinction(4039, 우수)·superiority(우월)와 유의어. 반대 mediocrity(평범함)·inferiority(열등).",
+  "syn": [
+   "brilliance(탁월함)",
+   "distinction(우수)",
+   "superiority(우월)"
+  ],
+  "anti": [
+   "mediocrity(평범함)",
+   "inferiority(열등)"
+  ],
+  "idiom": [
+   "academic excellence(학업 우수성)",
+   "strive for excellence(탁월함을 추구하다)"
+  ],
+  "colloc": [
+   "academic excellence(학업 우수성)",
+   "center of excellence(우수 거점)",
+   "pursue excellence(탁월함을 추구하다)"
+  ],
+  "ex_add": "The school is known for academic excellence.  (excellence=우수성)"
+ },
+ {
+  "num": "4115",
+  "hw": "exceptional",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "예외로 빼낼 만큼 -> '특출한·예외적인·이례적인'.",
+  "senses": [
+   "1) (아주 뛰어나) 특출한·비범한",
+   "2) 예외적인·이례적인·드문"
+  ],
+  "etym": "라틴어 ex(밖으로) + capere(잡다·취하다) -> excipere(빼내다) -> exception(예외) + -al. '예외로 빼낼 만큼 특별한'이 핵심. capere(잡다)는 exceptional·except(제외하다)·accept(받아들이다)·capable·receive(3268)·conceive(3881)의 뿌리.",
+  "deriv": "ex(밖)+capere(잡다) -> except -> 'exceptional'. '예외로 빼낼 만큼 -> 특출한(exceptional talent, 비범한 재능)·예외적인'. 한국 학습자 핵심: capere(잡다·취하다) 대가족 — except(제외하다)·accept·capable·receive(3268)·conceive(3881)·perceive(3168)·participate·anticipate! exceptional circumstances(예외적 상황), exceptional ability(특출한 능력), truly exceptional(정말 뛰어난). outstanding(뛰어난)·extraordinary(비범한)·remarkable(3293, 놀라운)과 유의어. 반대 ordinary(평범한)·average(평균의)·mediocre(보통의).",
+  "syn": [
+   "outstanding(뛰어난)",
+   "extraordinary(비범한)",
+   "remarkable(놀라운)"
+  ],
+  "anti": [
+   "ordinary(평범한)",
+   "average(평균의)",
+   "mediocre(보통의)"
+  ],
+  "idiom": [
+   "exceptional talent(비범한 재능)",
+   "exceptional circumstances(예외적 상황)"
+  ],
+  "colloc": [
+   "exceptional ability(특출한 능력)",
+   "exceptional quality(뛰어난 품질)",
+   "truly exceptional(정말 뛰어난)"
+  ],
+  "ex_add": "She showed exceptional talent in music.  (exceptional=특출한)"
+ },
+ {
+  "num": "4116",
+  "hw": "excess",
+  "pos": "n., adj.",
+  "cefr": "C1",
+  "core": "넘어가 버림 -> '과잉·초과 / 과도함 / 초과한'.",
+  "senses": [
+   "1) 과잉·초과·여분",
+   "2) 과도함·지나침·무절제",
+   "3) (형용사) 초과한·여분의"
+  ],
+  "etym": "라틴어 ex(밖으로) + cedere(가다) -> excedere(넘어가다·초과하다) -> excessus -> 'excess'. '한도를 넘어가 버림'이 핵심. cedere(가다)는 excess·exceed(초과하다)·proceed(3221)·recession(3269)·precede(3191)·concede(3880)의 뿌리.",
+  "deriv": "ex(밖)+cedere(가다) -> exceed -> 'excess'. '넘어가 버림 -> 과잉(in excess of, ~을 초과하는)·과도함(drink to excess, 과음하다)'. 한국 학습자 핵심: cedere(가다·물러나다) 대가족 — exceed(초과)·proceed(3221)·recession(3269)·precede(3191)·concede(3880)·access·process(3224)·succeed(성공하다)! in excess of(~을 넘는), an excess of(~의 과잉), to excess(지나치게), excess baggage(초과 수하물). surplus(잉여)·overabundance(과다)와 유의어. 반대 shortage(3393, 부족)·deficiency(3980, 결핍).",
+  "syn": [
+   "surplus(잉여)",
+   "overabundance(과다)",
+   "surfeit(과잉)"
+  ],
+  "anti": [
+   "shortage(부족)",
+   "deficiency(결핍)"
+  ],
+  "idiom": [
+   "in excess of(~을 초과하는)",
+   "to excess(지나치게)",
+   "excess baggage(초과 수하물)"
+  ],
+  "colloc": [
+   "in excess of(~을 넘는)",
+   "an excess of(~의 과잉)",
+   "excess weight(초과 체중)"
+  ],
+  "ex_add": "An excess of sugar is bad for your health.  (excess=과잉)"
+ },
+ {
+  "num": "4117",
+  "hw": "exclusion",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "닫아 밖으로 내침 -> '배제·제외·차단'.",
+  "senses": [
+   "1) 배제·제외·차단",
+   "2) (집단에서) 따돌림·소외"
+  ],
+  "etym": "라틴어 ex(밖으로) + claudere(닫다) -> excludere(닫아 내쫓다) -> exclude + -sion. '문을 닫아 밖으로 내침'이 핵심. claudere(닫다)는 exclusion·exclude·include(포함)·conclude(결론)·disclose(4026)·closure(3840)의 뿌리.",
+  "deriv": "ex(밖)+claudere(닫다) -> exclude -> 'exclusion'. '닫아 밖으로 내침 -> 배제(social exclusion, 사회적 배제)'. 한국 학습자 핵심: claudere(닫다) 대가족 — exclude·include(포함)·conclude(결론)·disclose(4026)·closure(3840)·enclose(둘러싸다)·seclude(은둔)·exclusive(4118)! to the exclusion of(~을 배제하고), social exclusion(사회적 배제), the exclusion of(~의 제외). removal(제거)·omission(생략)·rejection(거부)과 유의어. 반대 inclusion(포함)·acceptance(3654, 수용).",
+  "syn": [
+   "removal(제거)",
+   "omission(생략)",
+   "rejection(거부)"
+  ],
+  "anti": [
+   "inclusion(포함)",
+   "acceptance(수용)"
+  ],
+  "idiom": [
+   "to the exclusion of(~을 배제하고)",
+   "social exclusion(사회적 배제)"
+  ],
+  "colloc": [
+   "social exclusion(사회적 배제)",
+   "the exclusion of(~의 제외)",
+   "exclusion from(~로부터의 배제)"
+  ],
+  "ex_add": "The policy led to the exclusion of many groups.  (exclusion=배제)"
+ },
+ {
+  "num": "4118",
+  "hw": "exclusive",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "남을 닫아 내치는 -> '독점적인·전용의 / 배타적인 / 고급의'.",
+  "senses": [
+   "1) 독점적인·전용의·단독의",
+   "2) 배타적인·폐쇄적인",
+   "3) 고급의·상류층의; (n.) 독점 기사"
+  ],
+  "etym": "라틴어 ex + claudere(닫다) -> exclude(배제하다) + -ive. '남을 닫아 내치는'이 핵심.",
+  "deriv": "exclude(배제하다) -> 'exclusive'. '남을 닫아 내치는 -> 독점적인(exclusive rights, 독점권)·고급의(an exclusive club, 고급 클럽)'. 한국 학습자 핵심: claudere(닫다) 대가족 — exclude·exclusion(4117)·include(포함)·conclude(결론)·disclose(4026)·closure(3840)! mutually exclusive(상호 배타적인), exclusive rights(독점권), an exclusive interview(독점 인터뷰), exclusive to(~ 전용의). sole(유일한)·private(전용의)·select(엄선된)과 유의어. 반대 inclusive(포함하는)·public(공공의)·shared(공유의).",
+  "syn": [
+   "sole(유일한)",
+   "private(전용의)",
+   "select(엄선된)"
+  ],
+  "anti": [
+   "inclusive(포함하는)",
+   "public(공공의)",
+   "shared(공유의)"
+  ],
+  "idiom": [
+   "mutually exclusive(상호 배타적인)",
+   "exclusive rights(독점권)"
+  ],
+  "colloc": [
+   "exclusive rights(독점권)",
+   "exclusive interview(독점 인터뷰)",
+   "exclusive access(독점 이용권)"
+  ],
+  "ex_add": "The magazine got an exclusive interview with the star.  (exclusive=독점적인)"
+ },
+ {
+  "num": "4119",
+  "hw": "exclusively",
+  "pos": "adv.",
+  "cefr": "C1",
+  "core": "남을 내치고 오로지 -> '오로지·독점적으로·배타적으로'.",
+  "senses": [
+   "1) 오로지·전적으로·~만",
+   "2) 독점적으로·배타적으로"
+  ],
+  "etym": "라틴어 ex + claudere(닫다) -> exclusive(4118) + -ly. '남을 내치고 오로지'가 핵심.",
+  "deriv": "exclusive(4118, 독점적인) -> 'exclusively'. '남을 내치고 오로지 -> 오로지(available exclusively, 단독으로만 이용 가능한)'. 한국 학습자 핵심: claudere(닫다) 대가족 — exclude·exclusion(4117)·exclusive(4118)·include·conclude·closure(3840)! exclusively for(~ 전용으로), focus exclusively on(~에만 집중하다), available exclusively(독점 출시되는). solely(오로지)·only(오직)·purely(3242, 순전히)와 유의어. 반대 partly(부분적으로)·inclusively(포괄적으로).",
+  "syn": [
+   "solely(오로지)",
+   "only(오직)",
+   "purely(순전히)"
+  ],
+  "anti": [
+   "partly(부분적으로)",
+   "inclusively(포괄적으로)"
+  ],
+  "idiom": [
+   "exclusively for(~ 전용으로)",
+   "focus exclusively on(~에만 집중하다)"
+  ],
+  "colloc": [
+   "available exclusively(단독 출시되는)",
+   "exclusively for(~ 전용으로)",
+   "almost exclusively(거의 ~만)"
+  ],
+  "ex_add": "The offer is available exclusively to members.  (exclusively=독점적으로)"
+ },
+ {
+  "num": "4120",
+  "hw": "execute",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "끝까지 따라 해내다 -> '실행하다·수행하다 / 처형하다'.",
+  "senses": [
+   "1) (계획·명령을) 실행하다·수행하다·집행하다",
+   "2) (사형을) 집행하다·처형하다",
+   "3) (컴퓨터) 실행하다"
+  ],
+  "etym": "라틴어 ex(완전히) + sequi(따르다) -> exsequi(끝까지 따라 해내다) -> 'execute'. '끝까지 따라가 완수함'이 핵심. sequi(따르다)는 execute·sequence(3370)·pursue(3243)·consecutive(3898)·ensue(4097)·prosecute(기소하다)의 뿌리.",
+  "deriv": "ex(완전히)+sequi(따르다) -> 'execute'. '끝까지 따라 해냄 -> 실행하다(execute a plan, 계획을 실행하다)·처형하다(be executed, 처형되다)'. 한국 학습자 핵심: sequi(따르다) 대가족 — sequence(3370)·pursue(3243)·consecutive(3898)·ensue(4097)·prosecute(기소)·persecute(박해)·execution(4121)·executive(경영의)! execute a plan(계획을 실행하다), flawlessly execute(완벽하게 수행하다), execute a prisoner(죄수를 처형하다). carry out(실행하다)·perform(수행하다)·implement(시행하다)과 유의어.",
+  "syn": [
+   "carry out(실행하다)",
+   "perform(수행하다)",
+   "implement(시행하다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "execute a plan(계획을 실행하다)",
+   "be executed(처형되다)"
+  ],
+  "colloc": [
+   "execute a plan(계획을 실행하다)",
+   "flawlessly execute(완벽하게 수행하다)",
+   "execute an order(명령을 집행하다)"
+  ],
+  "ex_add": "The team executed the plan perfectly.  (execute=실행하다)"
+ },
+ {
+  "num": "4121",
+  "hw": "execution",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "끝까지 따라 해냄 -> '실행·수행 / 처형'.",
+  "senses": [
+   "1) (계획·명령의) 실행·수행·집행",
+   "2) (사형) 처형·집행",
+   "3) (기술의) 솜씨·완성도"
+  ],
+  "etym": "라틴어 ex + sequi(따르다) -> execute(4120)의 명사형. '끝까지 따라 해냄'이 핵심.",
+  "deriv": "execute(4120, 실행하다) -> 'execution'. '끝까지 따라 해냄 -> 실행(the execution of a plan, 계획 실행)·처형(a public execution, 공개 처형)'. 한국 학습자 핵심: sequi(따르다) 대가족 — sequence(3370)·pursue(3243)·consecutive(3898)·ensue(4097)·execute(4120)·prosecute(기소)·executive(경영진)! flawless execution(완벽한 실행), the execution of a plan(계획의 실행), a public execution(공개 처형), poor execution(서툰 실행). implementation(시행)·performance(수행)과 유의어.",
+  "syn": [
+   "implementation(시행)",
+   "performance(수행)",
+   "carrying out(실행)"
+  ],
+  "anti": [],
+  "idiom": [
+   "the execution of a plan(계획의 실행)",
+   "a public execution(공개 처형)"
+  ],
+  "colloc": [
+   "flawless execution(완벽한 실행)",
+   "the execution of(~의 실행)",
+   "public execution(공개 처형)"
+  ],
+  "ex_add": "The plan failed due to poor execution.  (execution=실행)"
+ },
+ {
+  "num": "4122",
+  "hw": "exert",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "밖으로 내어 발휘하다 -> '(힘·영향을) 행사하다·발휘하다 / (exert oneself) 애쓰다'.",
+  "senses": [
+   "1) (힘·영향력을) 행사하다·발휘하다·가하다",
+   "2) (exert oneself) 노력하다·분발하다"
+  ],
+  "etym": "라틴어 ex(밖으로) + serere(잇다·엮다) -> exserere(밖으로 내밀다·발휘하다) -> 'exert'. '안의 힘을 밖으로 내어 발휘함'이 핵심. serere(잇다)는 exert·series(연속)·insert(끼우다)·assert(3732)·desert(버리다)의 뿌리.",
+  "deriv": "ex(밖)+serere(잇다) -> 'exert'. '밖으로 내어 발휘함 -> 행사하다(exert influence, 영향력을 행사하다)·애쓰다(exert oneself, 분발하다)'. 한국 학습자 핵심: serere(잇다·엮다) 갈래 — series(연속)·insert(끼우다)·assert(3732)·assertion(3733)·desert(버리다)·exertion(노력)! exert pressure(압력을 가하다), exert control over(~을 통제하다), exert one's authority(권위를 행사하다). apply(가하다)·wield(행사하다)·exercise(행사하다)와 유의어.",
+  "syn": [
+   "apply(가하다)",
+   "wield(행사하다)",
+   "exercise(행사하다)"
+  ],
+  "anti": [],
+  "idiom": [
+   "exert influence(영향력을 행사하다)",
+   "exert oneself(분발하다)"
+  ],
+  "colloc": [
+   "exert influence(영향력을 행사하다)",
+   "exert pressure(압력을 가하다)",
+   "exert control(통제력을 행사하다)"
+  ],
+  "ex_add": "The moon exerts a pull on the oceans.  (exert=행사하다)"
+ },
+ {
+  "num": "4123",
+  "hw": "exile",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "밖으로 내쳐져 떠돎 -> '망명·유배 / 망명자'.",
+  "senses": [
+   "1) 망명·유배·추방",
+   "2) 망명자·추방된 사람",
+   "3) (동사) 추방하다·유배 보내다"
+  ],
+  "etym": "라틴어 ex(밖으로) + 어근(걷다·떠돌다, 또는 solum 땅) -> exilium(추방·유배) -> 'exile'. '나라 밖으로 내쳐져 떠돎'이 핵심.",
+  "deriv": "ex(밖)+(떠돌다) -> exilium -> 'exile'. '밖으로 내쳐져 떠돎 -> 망명(go into exile, 망명하다)·망명자'. 한국 학습자 핵심: ex-(밖으로) 접두사 묶음 — exile·exit(출구)·export(수출)·exclude(4117)·extract(4131)·exert(4122)! in exile(망명 중인), go into exile(망명길에 오르다), a government in exile(망명 정부), live in exile(망명 생활을 하다). banishment(추방)·deportation(국외 추방)·expulsion(축출)과 유의어. 반대 return(귀환)·repatriation(본국 송환).",
+  "syn": [
+   "banishment(추방)",
+   "deportation(국외 추방)",
+   "expulsion(축출)"
+  ],
+  "anti": [
+   "return(귀환)",
+   "repatriation(본국 송환)"
+  ],
+  "idiom": [
+   "go into exile(망명하다)",
+   "in exile(망명 중인)",
+   "a government in exile(망명 정부)"
+  ],
+  "colloc": [
+   "in exile(망명 중인)",
+   "go into exile(망명길에 오르다)",
+   "live in exile(망명 생활을 하다)"
+  ],
+  "ex_add": "The leader spent ten years in exile.  (exile=망명)"
+ },
+ {
+  "num": "4124",
+  "hw": "expenditure",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "밖으로 달아 내보냄 -> '지출·경비 / (시간·노력의) 소비'.",
+  "senses": [
+   "1) 지출·경비·비용",
+   "2) (시간·노력·에너지의) 소비·소모"
+  ],
+  "etym": "라틴어 ex(밖으로) + pendere(무게를 달다·치르다) -> expendere(달아서 지불하다) -> expend(소비하다) + -iture. 옛날 돈을 '달아서' 지불한 데서. pendere(달다)는 expenditure·spend(쓰다)·suspend(3488)·compensate(3866)·pension(연금)·expensive(비싼)의 뿌리.",
+  "deriv": "ex(밖)+pendere(달다) -> expend -> 'expenditure'. '밖으로 달아 내보냄 -> 지출(public expenditure, 공공 지출)'. 한국 학습자 핵심: pendere(달다·매달다) 대가족 — spend(쓰다)·suspend(3488)·compensate(3866)·pension(연금)·expensive(비싼)·dependence(3991)·pending(미결)·expense(비용)! public expenditure(공공 지출), capital expenditure(자본 지출), reduce expenditure(지출을 줄이다), the expenditure of energy(에너지 소모). spending(지출)·outlay(경비)·expense(비용)와 유의어. 반대 income(수입)·revenue(3314, 수입)·saving(3343, 절약).",
+  "syn": [
+   "spending(지출)",
+   "outlay(경비)",
+   "expense(비용)"
+  ],
+  "anti": [
+   "income(수입)",
+   "revenue(수입)",
+   "saving(절약)"
+  ],
+  "idiom": [
+   "public expenditure(공공 지출)",
+   "capital expenditure(자본 지출)"
+  ],
+  "colloc": [
+   "public expenditure(공공 지출)",
+   "reduce expenditure(지출을 줄이다)",
+   "total expenditure(총지출)"
+  ],
+  "ex_add": "The government cut public expenditure on defense.  (expenditure=지출)"
+ },
+ {
+  "num": "4125",
+  "hw": "experimental",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "시험 삼아 해 보는 -> '실험의·실험적인 / 시험 단계의'.",
+  "senses": [
+   "1) 실험의·실험에 의한",
+   "2) 실험적인·시험적인·전위적인"
+  ],
+  "etym": "라틴어 ex(밖으로) + peri(시도·위험) -> experiri(시험해 보다) -> experiment(실험) + -al. '직접 시험 삼아 해 보는'이 핵심. peri(시도)는 experimental·experiment·experience(경험)·expert(전문가)·empirical(4080)·peril(위험)의 뿌리.",
+  "deriv": "ex(밖)+peri(시도) -> experiment -> 'experimental'. '시험 삼아 해 보는 -> 실험적인(experimental treatment, 실험적 치료)'. 한국 학습자 핵심: peri(시도·위험) 대가족 — experiment(실험)·experience(경험)·expert(전문가)·empirical(4080)·peril(위험)·perilous(위험한)! experimental data(실험 데이터), an experimental approach(실험적 접근), experimental music(전위 음악), at an experimental stage(실험 단계의). trial(3547, 시험적인)·tentative(시험적인)·innovative(혁신적인)와 유의어. 반대 proven(입증된)·established(확립된).",
+  "syn": [
+   "trial(시험적인)",
+   "tentative(시험적인)",
+   "innovative(혁신적인)"
+  ],
+  "anti": [
+   "proven(입증된)",
+   "established(확립된)"
+  ],
+  "idiom": [
+   "experimental treatment(실험적 치료)",
+   "at an experimental stage(실험 단계의)"
+  ],
+  "colloc": [
+   "experimental data(실험 데이터)",
+   "experimental treatment(실험적 치료)",
+   "experimental design(실험 설계)"
+  ],
+  "ex_add": "The drug is still at the experimental stage.  (experimental=실험적인)"
+ },
+ {
+  "num": "4126",
+  "hw": "expire",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "숨을 내쉬어 다하다 -> '만료되다·만기가 되다 / 숨을 거두다'.",
+  "senses": [
+   "1) (기한·계약이) 만료되다·만기가 되다",
+   "2) (격식) 숨을 거두다·죽다"
+  ],
+  "etym": "라틴어 ex(밖으로) + spirare(숨 쉬다) -> exspirare(숨을 내쉬다·숨이 다하다) -> 'expire'. '마지막 숨을 내쉬어 다함 -> 기한이 다함'이 핵심. spirare(숨 쉬다)는 expire·spirit(정신)·inspire(영감)·aspire(3727)·respire(호흡)·conspire(공모)의 뿌리.",
+  "deriv": "ex(밖)+spirare(숨 쉬다) -> 'expire'. '숨을 내쉬어 다함 -> 만료되다(the visa expires, 비자가 만료되다)·숨을 거두다'. 한국 학습자 핵심: spirare(숨 쉬다) 대가족 — spirit(정신)·spiritual(3429)·inspire(영감)·aspire(3727)·aspiration(3726)·respire(호흡)·conspire(공모)·perspire(땀 흘리다)·expiration(만료)! the contract expires(계약이 만료되다), an expiry/expiration date(유효 기간), the warranty has expired(보증이 만료되었다). lapse(소멸되다)·run out(만료되다)와 유의어. 반대 renew(갱신하다)·extend(연장하다).",
+  "syn": [
+   "lapse(소멸되다)",
+   "run out(만료되다)",
+   "end(끝나다)"
+  ],
+  "anti": [
+   "renew(갱신하다)",
+   "extend(연장하다)"
+  ],
+  "idiom": [
+   "an expiry date(유효 기간)",
+   "the contract expires(계약이 만료되다)"
+  ],
+  "colloc": [
+   "the visa expires(비자가 만료되다)",
+   "the contract expires(계약이 만료되다)",
+   "has expired(만료되었다)"
+  ],
+  "ex_add": "My passport expires next month.  (expire=만료되다)"
+ },
+ {
+  "num": "4127",
+  "hw": "explicit",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "펼쳐 다 드러낸 -> '명백한·분명한·노골적인'.",
+  "senses": [
+   "1) (말·태도가) 명백한·분명한·명시적인",
+   "2) (성·폭력 묘사가) 노골적인·적나라한"
+  ],
+  "etym": "라틴어 ex(밖으로) + plicare(접다) -> explicare(펼치다·다 펴 보이다) -> explicitus(펼쳐진) -> 'explicit'. '접힌 것을 다 펼쳐 드러냄'이 핵심. plicare(접다)는 explicit·apply(3715)·complicate(3874)·imply(암시)·deploy(3993)·complex(복잡한)의 뿌리.",
+  "deriv": "ex(밖)+plicare(접다) -> 'explicit'. '펼쳐 다 드러낸 -> 명백한(explicit instructions, 분명한 지시)'. 한국 학습자 핵심: plicare(접다·붙이다) 대가족 — apply(3715)·complicate(3874)·imply(암시, 안으로 접음 = 함축)·deploy(3993)·complex(복잡한)·multiply(곱하다)·explicitly(4128)! 핵심 대조: explicit(밖으로 펼쳐 명백한) vs implicit(안으로 접어 암시적인)! explicit instructions(명확한 지시), be explicit about(~을 분명히 밝히다), sexually explicit(성적으로 노골적인). clear(명백한)·direct(직접적인)·overt(공공연한)와 유의어. 반대 implicit(암시적인)·vague(모호한)·implied(함축된).",
+  "syn": [
+   "clear(명백한)",
+   "direct(직접적인)",
+   "overt(공공연한)"
+  ],
+  "anti": [
+   "implicit(암시적인)",
+   "vague(모호한)",
+   "implied(함축된)"
+  ],
+  "idiom": [
+   "explicit instructions(분명한 지시)",
+   "be explicit about(~을 분명히 밝히다)"
+  ],
+  "colloc": [
+   "explicit instructions(명확한 지시)",
+   "explicit content(노골적인 내용)",
+   "make explicit(명백히 하다)"
+  ],
+  "ex_add": "She gave explicit instructions on what to do.  (explicit=명백한)"
+ },
+ {
+  "num": "4128",
+  "hw": "explicitly",
+  "pos": "adv.",
+  "cefr": "C1",
+  "core": "펼쳐 다 드러내어 -> '명백히·분명히·명시적으로'.",
+  "senses": [
+   "1) 명백히·분명히·명시적으로·노골적으로"
+  ],
+  "etym": "라틴어 ex + plicare(접다) -> explicit(4127) + -ly. '펼쳐 다 드러내어'가 핵심.",
+  "deriv": "explicit(4127, 명백한) -> 'explicitly'. '펼쳐 다 드러내어 -> 명백히(state explicitly, 명시적으로 밝히다)'. 한국 학습자 핵심: plicare(접다) 대가족 — apply(3715)·complicate(3874)·imply(암시)·deploy(3993)·explicit(4127)·complex(복잡한)! 대조: explicitly(명시적으로) vs implicitly(암묵적으로)! explicitly state(명시적으로 밝히다), explicitly mention(분명히 언급하다), explicitly forbidden(명백히 금지된). clearly(분명히)·directly(직접적으로)·specifically(구체적으로)와 유의어. 반대 implicitly(암묵적으로)·vaguely(모호하게).",
+  "syn": [
+   "clearly(분명히)",
+   "directly(직접적으로)",
+   "specifically(구체적으로)"
+  ],
+  "anti": [
+   "implicitly(암묵적으로)",
+   "vaguely(모호하게)"
+  ],
+  "idiom": [
+   "state explicitly(명시적으로 밝히다)",
+   "explicitly forbidden(명백히 금지된)"
+  ],
+  "colloc": [
+   "explicitly state(명시적으로 밝히다)",
+   "explicitly mention(분명히 언급하다)",
+   "explicitly say(분명히 말하다)"
+  ],
+  "ex_add": "The rules explicitly forbid smoking indoors.  (explicitly=명백히)"
+ },
+ {
+  "num": "4129",
+  "hw": "exploitation",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "펼쳐 써먹음 -> '착취 / (자원의) 개발·이용'.",
+  "senses": [
+   "1) (부당한) 착취·악용",
+   "2) (자원의) 개발·활용·이용"
+  ],
+  "etym": "라틴어 ex(밖으로) + plicare(접다) -> 고대 프랑스어 exploit(공을 세움·이용) -> exploit(착취하다·활용하다) + -ation. '펼쳐서 써먹음'이 핵심. plicare(접다)는 exploitation·exploit·apply(3715)·complicate(3874)·explicit(4127)의 뿌리.",
+  "deriv": "ex(밖)+plicare(접다) -> exploit -> 'exploitation'. '펼쳐 써먹음 -> 착취(labor exploitation, 노동 착취)·(자원) 개발'. 한국 학습자 핵심: plicare(접다) 대가족 — apply(3715)·complicate(3874)·imply(암시)·deploy(3993)·explicit(4127)·exploit(이용하다·착취하다)! 두 뜻: exploitation(나쁜 뜻 '착취' / 중립 '자원 개발')! labor exploitation(노동 착취), the exploitation of resources(자원 개발), sexual exploitation(성착취), commercial exploitation(상업적 이용). abuse(3651, 악용)·misuse(오용)와 유의어.",
+  "syn": [
+   "abuse(악용)",
+   "misuse(오용)",
+   "utilization(활용)"
+  ],
+  "anti": [],
+  "idiom": [
+   "labor exploitation(노동 착취)",
+   "the exploitation of resources(자원 개발)"
+  ],
+  "colloc": [
+   "labor exploitation(노동 착취)",
+   "sexual exploitation(성착취)",
+   "exploitation of resources(자원 개발)"
+  ],
+  "ex_add": "The workers suffered years of exploitation.  (exploitation=착취)"
+ },
+ {
+  "num": "4130",
+  "hw": "explosive",
+  "pos": "adj., n.",
+  "cefr": "C1",
+  "core": "터져 나오는 -> '폭발성의·폭발적인 / 격하기 쉬운 / 폭발물'.",
+  "senses": [
+   "1) 폭발성의·폭발할 듯한",
+   "2) (증가가) 폭발적인·급격한; (상황·성질이) 격하기 쉬운",
+   "3) (n.) 폭발물·폭약"
+  ],
+  "etym": "라틴어 ex(밖으로) + plaudere(손뼉 치다) -> explodere(손뼉 쳐 쫓아내다 -> 터지다) -> explode(폭발하다) + -ive. 옛 극장에서 배우를 손뼉 쳐 '쫓아냄'에서 '터져 나옴'으로. plaudere(손뼉 치다)는 explosive·explode·applaud(3714)·applause(박수)·plausible(그럴듯한)의 뿌리.",
+  "deriv": "ex(밖)+plaudere(손뼉 치다) -> explode -> 'explosive'. '터져 나오는 -> 폭발성의(an explosive device, 폭발 장치)·폭발적인(explosive growth, 폭발적 성장)'. 한국 학습자 핵심: plaudere(손뼉 치다) 갈래 — explode·applaud(3714)·applause(박수)·plausible(그럴듯한)·plaudit(찬사)·explosion(폭발)! an explosive device(폭발물), explosive growth(폭발적 성장), an explosive temper(욱하는 성질), highly explosive(고폭발성의). volatile(폭발하기 쉬운)·unstable(불안정한)과 유의어.",
+  "syn": [
+   "volatile(폭발하기 쉬운)",
+   "unstable(불안정한)",
+   "combustible(가연성의)"
+  ],
+  "anti": [
+   "stable(안정된)"
+  ],
+  "idiom": [
+   "an explosive device(폭발 장치)",
+   "explosive growth(폭발적 성장)"
+  ],
+  "colloc": [
+   "explosive device(폭발물)",
+   "explosive growth(폭발적 성장)",
+   "highly explosive(고폭발성의)"
+  ],
+  "ex_add": "The country saw explosive economic growth.  (explosive=폭발적인)"
+ },
+ {
+  "num": "4131",
+  "hw": "extract",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "밖으로 끌어내다 -> '추출하다·뽑아내다 / (정보를) 캐내다 / (n.) 발췌·추출물'.",
+  "senses": [
+   "1) (뽑아) 추출하다·뽑아내다·캐내다",
+   "2) (정보·돈을) 억지로 받아내다·캐내다",
+   "3) (n.) 추출물·진액; 발췌·인용 부분"
+  ],
+  "etym": "라틴어 ex(밖으로) + trahere(끌다) -> extrahere(끌어내다) -> 'extract'. '밖으로 끌어냄'이 핵심. trahere(끌다)는 extract·trait(3540)·attract(끌다)·contract·tractor(트랙터)·subtract(빼다)·abstract(추상적인)의 뿌리.",
+  "deriv": "ex(밖)+trahere(끌다) -> 'extract'. '밖으로 끌어냄 -> 추출하다(extract oil, 기름을 추출하다)·캐내다(extract information, 정보를 캐내다)'. 한국 학습자 핵심: trahere(끌다) 대가족 — trait(3540)·attract(끌다)·contract(계약)·tractor(트랙터)·subtract(빼다)·abstract(추상적인)·distract(주의를 흩뜨리다)·extraction(추출)! 발음 — 동사 extract[ɪkstrǽkt], 명사 extract[ékstrækt]! extract a tooth(이를 뽑다), vanilla extract(바닐라 추출액), an extract from a book(책의 발췌문). remove(제거하다)·draw out(끌어내다)·obtain(얻다)과 유의어. 반대 insert(끼우다)·implant(심다).",
+  "syn": [
+   "remove(제거하다)",
+   "draw out(끌어내다)",
+   "obtain(얻다)"
+  ],
+  "anti": [
+   "insert(끼우다)",
+   "implant(심다)"
+  ],
+  "idiom": [
+   "extract a tooth(이를 뽑다)",
+   "extract information(정보를 캐내다)"
+  ],
+  "colloc": [
+   "extract oil(기름을 추출하다)",
+   "extract information(정보를 캐내다)",
+   "extract a tooth(이를 뽑다)"
+  ],
+  "ex_add": "Sugar is extracted from sugar cane.  (extract=추출하다)"
+ },
+ {
+  "num": "4132",
+  "hw": "extremist",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "맨 끝으로 치우친 사람 -> '극단주의자·과격파'.",
+  "senses": [
+   "1) 극단주의자·과격파",
+   "2) (형용사) 극단주의의·과격한"
+  ],
+  "etym": "라틴어 extremus(맨 바깥의·맨 끝의, exter 바깥의 최상급) -> extreme(극단의) + -ist(사람). '맨 끝으로 치우친 사람'이 핵심. exter(바깥)는 extremist·extreme·exterior(외부)·external(외부의)·extra(여분의)의 뿌리.",
+  "deriv": "extremus(맨 끝의) -> extreme -> 'extremist'. '맨 끝으로 치우친 사람 -> 극단주의자(a religious extremist, 종교 극단주의자)'. 한국 학습자 핵심: exter(바깥) 갈래 — extreme(극단의)·exterior(외부)·external(외부의)·extra(여분의)·extraordinary(비범한)·extremism(극단주의)! -ist(사람) — extremist·terrorist(3516)·activist(3667)·specialist(3419)! a political extremist(정치적 극단주의자), a religious extremist(종교 극단주의자), right-wing extremists(극우파). radical(급진주의자)·fanatic(광신자)·militant(투사)과 유의어. 반대 moderate(온건파)·centrist(중도파).",
+  "syn": [
+   "radical(급진주의자)",
+   "fanatic(광신자)",
+   "militant(투사)"
+  ],
+  "anti": [
+   "moderate(온건파)",
+   "centrist(중도파)"
+  ],
+  "idiom": [
+   "a religious extremist(종교 극단주의자)",
+   "right-wing extremists(극우파)"
+  ],
+  "colloc": [
+   "religious extremist(종교 극단주의자)",
+   "political extremist(정치적 극단주의자)",
+   "violent extremist(폭력적 극단주의자)"
+  ],
+  "ex_add": "The attack was carried out by violent extremists.  (extremist=극단주의자)"
+ },
+ {
+  "num": "4133",
+  "hw": "facilitate",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "쉽게 만들어 주다 -> '용이하게 하다·촉진하다·돕다'.",
+  "senses": [
+   "1) (일·과정을) 용이하게 하다·촉진하다",
+   "2) (회의·학습을) 진행하다·이끌다"
+  ],
+  "etym": "라틴어 facilis(하기 쉬운, facere 하다) -> facilitare(쉽게 하다) -> 'facilitate'. '하기 쉽게 만들어 줌'이 핵심. facere(하다)는 facilitate·facile(손쉬운)·faculty(능력)·facility(시설)·fact(2657)·factory(공장)의 뿌리.",
+  "deriv": "facilis(쉬운) -> 'facilitate'. '쉽게 만들어 줌 -> 촉진하다(facilitate communication, 소통을 촉진하다)'. 한국 학습자 핵심: facere(하다) 대가족 — facile(손쉬운)·faculty(학부·능력)·facility(시설·재능)·fact(2657)·factory(공장)·effect·affect·facilitator(진행자)! facilitate learning(학습을 돕다), facilitate trade(무역을 촉진하다), facilitate a meeting(회의를 진행하다). assist(돕다)·ease(4062, 쉽게 하다)·promote(촉진하다)와 유의어. 반대 hinder(방해하다)·impede(방해하다)·obstruct(가로막다).",
+  "syn": [
+   "assist(돕다)",
+   "ease(쉽게 하다)",
+   "promote(촉진하다)"
+  ],
+  "anti": [
+   "hinder(방해하다)",
+   "impede(방해하다)",
+   "obstruct(가로막다)"
+  ],
+  "idiom": [
+   "facilitate communication(소통을 촉진하다)",
+   "facilitate learning(학습을 돕다)"
+  ],
+  "colloc": [
+   "facilitate communication(소통을 촉진하다)",
+   "facilitate trade(무역을 촉진하다)",
+   "facilitate access(접근을 용이하게 하다)"
+  ],
+  "ex_add": "The new software facilitates teamwork.  (facilitate=용이하게 하다)"
+ },
+ {
+  "num": "4134",
+  "hw": "faction",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "함께 일을 꾸미는 무리 -> '파벌·당파'.",
+  "senses": [
+   "1) (조직 내) 파벌·당파·분파",
+   "2) 내분·파벌 싸움"
+  ],
+  "etym": "라틴어 facere(하다·만들다) -> factio(함께 무언가를 꾀하는 무리) -> 'faction'. '함께 일을 꾸미는 무리'가 핵심. facere(하다)는 faction·fact(2657)·factory(공장)·factor(요인)·affect·effect·facilitate(4133)의 뿌리.",
+  "deriv": "facere(하다) -> factio -> 'faction'. '함께 일을 꾸미는 무리 -> 파벌(rival factions, 경쟁 파벌)'. 한국 학습자 핵심: facere(하다·만들다) 대가족 — fact(2657)·factory(공장)·factor(요인)·affect·effect·facilitate(4133)·faculty(능력)·manufacture(제조)! warring factions(서로 싸우는 파벌들), a rebel faction(반군 분파), factional infighting(파벌 내분), a splinter faction(분열된 파). camp(진영)·clique(파벌)·bloc(연합)과 유의어. 반대 unity(3572, 단결).",
+  "syn": [
+   "camp(진영)",
+   "clique(파벌)",
+   "bloc(연합)"
+  ],
+  "anti": [
+   "unity(단결)"
+  ],
+  "idiom": [
+   "rival factions(경쟁 파벌)",
+   "warring factions(서로 싸우는 파벌들)"
+  ],
+  "colloc": [
+   "rival factions(경쟁 파벌)",
+   "warring factions(서로 싸우는 파벌)",
+   "rebel faction(반군 분파)"
+  ],
+  "ex_add": "The party split into several factions.  (faction=파벌)"
+ },
+ {
+  "num": "4135",
+  "hw": "fade",
+  "pos": "v.",
+  "cefr": "C1",
+  "core": "빛이 바래 사라지다 -> '바래다·희미해지다 / 서서히 사라지다·시들다'.",
+  "senses": [
+   "1) (색이) 바래다·퇴색하다",
+   "2) (소리·빛·기억이) 희미해지다·서서히 사라지다",
+   "3) (꽃이) 시들다; (체력이) 약해지다"
+  ],
+  "etym": "고대 프랑스어 fader(시들다·약해지다), 라틴어 fatuus(맥없는·싱거운)에서. '빛·기운이 바래 사라짐'이 핵심.",
+  "deriv": "fader(시들다) -> 'fade'. '빛이 바래 사라짐 -> 바래다(colors fade, 색이 바래다)·희미해지다(memories fade, 기억이 희미해지다)'. 한국 학습자 핵심: fade away(서서히 사라지다), fade out/in(소리·화면이 점점 사라지다/나타나다), fade into the background(배경으로 묻히다), faded jeans(물 빠진 청바지). dim(흐려지다)·diminish(4018, 줄어들다)·wane(이지러지다)와 유의어. 반대 brighten(밝아지다)·intensify(강해지다).",
+  "syn": [
+   "dim(흐려지다)",
+   "diminish(줄어들다)",
+   "wane(이지러지다)"
+  ],
+  "anti": [
+   "brighten(밝아지다)",
+   "intensify(강해지다)"
+  ],
+  "idiom": [
+   "fade away(서서히 사라지다)",
+   "fade into the background(배경으로 묻히다)"
+  ],
+  "colloc": [
+   "colors fade(색이 바래다)",
+   "memories fade(기억이 희미해지다)",
+   "fade away(서서히 사라지다)"
+  ],
+  "ex_add": "The curtains had faded in the sunlight.  (fade=바래다)"
+ },
+ {
+  "num": "4136",
+  "hw": "fairness",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "공정함 -> '공정성·공평'.",
+  "senses": [
+   "1) 공정성·공평·정당함",
+   "2) (피부·머리의) 흼; (날씨의) 맑음"
+  ],
+  "etym": "고대 영어 fæger(아름다운·알맞은) -> fair(공정한·아름다운) + -ness. '치우침 없이 알맞고 공정함'이 핵심.",
+  "deriv": "fair(공정한) -> 'fairness'. '공정함 -> 공정성(a sense of fairness, 공정성에 대한 의식)'. 한국 학습자 핵심: fair(공정한·아름다운·박람회)·fairness·fairly(꽤·공정하게)·unfair(부당한)! in fairness(공정하게 말하면), a sense of fairness(공정성에 대한 인식), fairness and justice(공정과 정의). justice(정의)·impartiality(공평무사)·equity(공평)와 유의어. 반대 unfairness(부당함)·bias(편향)·injustice(불공정).",
+  "syn": [
+   "justice(정의)",
+   "impartiality(공평무사)",
+   "equity(공평)"
+  ],
+  "anti": [
+   "unfairness(부당함)",
+   "bias(편향)",
+   "injustice(불공정)"
+  ],
+  "idiom": [
+   "in fairness(공정하게 말하면)",
+   "a sense of fairness(공정성에 대한 의식)"
+  ],
+  "colloc": [
+   "a sense of fairness(공정성에 대한 의식)",
+   "fairness and justice(공정과 정의)",
+   "ensure fairness(공정성을 보장하다)"
+  ],
+  "ex_add": "The judge is known for his fairness.  (fairness=공정성)"
+ },
+ {
+  "num": "4137",
+  "hw": "fatal",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "운명을 가르는 -> '치명적인·죽음을 초래하는 / 결정적으로 해로운'.",
+  "senses": [
+   "1) 치명적인·죽음을 초래하는",
+   "2) (실수가) 결정적으로 해로운·돌이킬 수 없는"
+  ],
+  "etym": "라틴어 fatum(운명·신탁) -> fatalis(운명의·치명적인) -> 'fatal'. '운명(죽음)을 가르는'이 핵심. fatum(운명)은 fatal·fate(4138)·fatality(사망)·fairy(요정)·fame은 무관의 뿌리.",
+  "deriv": "fatum(운명) -> fatalis -> 'fatal'. '운명을 가르는 -> 치명적인(a fatal accident, 치명적 사고)'. 한국 학습자 핵심: fatum(운명·신탁) 갈래 — fate(4138)·fatality(사망자)·fatalism(운명론)·fairy(요정, 운명을 점지하는)! 구별: fatal(죽음에 이르는·치명적) vs lethal(죽일 만큼 위험한) vs deadly(치사의)! a fatal error(치명적 오류), a fatal blow(치명타), prove fatal(치명적인 것으로 드러나다). deadly(치명적인)·lethal(치사의)·mortal(죽음의)과 유의어. 반대 harmless(무해한)·minor(경미한).",
+  "syn": [
+   "deadly(치명적인)",
+   "lethal(치사의)",
+   "mortal(죽음의)"
+  ],
+  "anti": [
+   "harmless(무해한)",
+   "minor(경미한)"
+  ],
+  "idiom": [
+   "a fatal error(치명적 오류)",
+   "prove fatal(치명적인 것으로 드러나다)"
+  ],
+  "colloc": [
+   "fatal accident(치명적 사고)",
+   "fatal error(치명적 오류)",
+   "fatal blow(치명타)"
+  ],
+  "ex_add": "He suffered a fatal heart attack.  (fatal=치명적인)"
+ },
+ {
+  "num": "4138",
+  "hw": "fate",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "신이 정해 둔 것 -> '운명·숙명 / 결말·신세'.",
+  "senses": [
+   "1) 운명·숙명",
+   "2) (앞으로의) 결말·신세·운"
+  ],
+  "etym": "라틴어 fatum(신이 말한 것·운명, fari 말하다) -> 'fate'. 신이 '말해 정해 둔 것'이 핵심. fatum(운명)은 fate·fatal(4137)·fatality(사망)·fairy(요정)의 뿌리; fari(말하다)는 fame·confess(3886)와도 연결.",
+  "deriv": "fatum(신이 정한 것) -> 'fate'. '신이 정해 둔 것 -> 운명(accept one's fate, 운명을 받아들이다)'. 한국 학습자 핵심: fatum(운명·신탁) 갈래 — fatal(4137)·fatality(사망자)·fatalism(운명론)·fairy(요정)! seal one's fate(운명을 결정짓다), a twist of fate(운명의 장난), leave to fate(운명에 맡기다), tempt fate(운명을 시험하다·무모하게 굴다). destiny(운명)·doom(파멸)·fortune(운)과 유의어. 반대 free will(자유 의지)·choice(선택).",
+  "syn": [
+   "destiny(운명)",
+   "doom(파멸)",
+   "fortune(운)"
+  ],
+  "anti": [
+   "free will(자유 의지)",
+   "choice(선택)"
+  ],
+  "idiom": [
+   "seal one's fate(운명을 결정짓다)",
+   "a twist of fate(운명의 장난)",
+   "tempt fate(운명을 시험하다)"
+  ],
+  "colloc": [
+   "accept one's fate(운명을 받아들이다)",
+   "decide the fate of(~의 운명을 결정하다)",
+   "a cruel fate(가혹한 운명)"
+  ],
+  "ex_add": "No one knows what fate has in store.  (fate=운명)"
+ },
+ {
+  "num": "4139",
+  "hw": "favorable",
+  "pos": "adj.",
+  "cefr": "C1",
+  "core": "호의로 기우는 -> '호의적인·유리한 / 순조로운'.",
+  "senses": [
+   "1) 호의적인·긍정적인",
+   "2) 유리한·형편이 좋은",
+   "3) (날씨·조건이) 순조로운·알맞은"
+  ],
+  "etym": "라틴어 favere(호의를 보이다·편들다) -> favor(호의) + -able. '호의로 기울어 유리한'이 핵심. favere(호의를 보이다)는 favorable·favor(호의)·favorite(가장 좋아하는)의 뿌리.",
+  "deriv": "favere(호의를 보이다) -> favor -> 'favorable'. '호의로 기우는 -> 호의적인(a favorable review, 호평)·유리한(favorable conditions, 유리한 조건)'. 한국 학습자 핵심: favere(호의를 보이다) 갈래 — favor(호의·부탁)·favorite(가장 좋아하는)·favoritism(편애)·unfavorable(불리한)! 철자: 미국 favorable / 영국 favourable. a favorable impression(좋은 인상), a favorable outcome(유리한 결과), favorable conditions(유리한 조건). positive(긍정적인)·advantageous(유리한)·promising(3211, 유망한)과 유의어. 반대 unfavorable(불리한)·adverse(3679, 부정적인).",
+  "syn": [
+   "positive(긍정적인)",
+   "advantageous(유리한)",
+   "promising(유망한)"
+  ],
+  "anti": [
+   "unfavorable(불리한)",
+   "adverse(부정적인)"
+  ],
+  "idiom": [
+   "a favorable review(호평)",
+   "a favorable impression(좋은 인상)"
+  ],
+  "colloc": [
+   "favorable conditions(유리한 조건)",
+   "favorable outcome(유리한 결과)",
+   "favorable response(호의적 반응)"
+  ],
+  "ex_add": "The book received favorable reviews.  (favorable=호의적인)"
+ },
+ {
+  "num": "4140",
+  "hw": "feat",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "해낸 일 -> '위업·뛰어난 솜씨·공적'.",
+  "senses": [
+   "1) (놀라운) 위업·업적·공적",
+   "2) 뛰어난 솜씨·묘기"
+  ],
+  "etym": "라틴어 facere(하다·만들다) -> factum(행한 것) -> 고대 프랑스어 fait(행위) -> 'feat'. '훌륭히 해낸 일'이 핵심. facere(하다)는 feat·fact(2657)·factory(공장)·defeat(패배시키다)·affect·effect의 뿌리.",
+  "deriv": "facere(하다) -> factum -> 'feat'. '해낸 일 -> 위업(an impressive feat, 인상적인 위업)'. 한국 학습자 핵심: facere(하다·만들다) 대가족 — fact(2657)·factory(공장)·defeat(패배시키다, 무너뜨림)·affect·effect·feature(특징, 만들어진 모양)·feasible(실행 가능한)! a remarkable feat(놀라운 위업), an engineering feat(공학적 쾌거), a feat of strength(힘의 묘기), no mean feat(쉽지 않은 일). achievement(업적)·accomplishment(3656, 성취)·exploit(공적)과 유의어.",
+  "syn": [
+   "achievement(업적)",
+   "accomplishment(성취)",
+   "exploit(공적)"
+  ],
+  "anti": [],
+  "idiom": [
+   "an impressive feat(인상적인 위업)",
+   "no mean feat(쉽지 않은 일)"
+  ],
+  "colloc": [
+   "remarkable feat(놀라운 위업)",
+   "engineering feat(공학적 쾌거)",
+   "feat of strength(힘의 묘기)"
+  ],
+  "ex_add": "Climbing the mountain alone was a remarkable feat.  (feat=위업)"
+ },
+ {
+  "num": "4141",
+  "hw": "felony",
+  "pos": "n.",
+  "cefr": "C1",
+  "core": "중대한 악행 -> '중죄·흉악 범죄'.",
+  "senses": [
+   "1) (법) 중죄·흉악 범죄(살인·강도 등)"
+  ],
+  "etym": "중세 라틴어 felonia(배신·악행, fello 악인) -> 고대 프랑스어 felonie -> 'felony'. '무거운 처벌을 받는 중대한 악행'이 핵심. fello(악인)는 felony·felon(중죄인)·felonious(중죄의)의 뿌리.",
+  "deriv": "fello(악인) -> felonia -> 'felony'. '중대한 악행 -> 중죄(commit a felony, 중죄를 저지르다)'. 한국 학습자 핵심: 범죄 등급 — felony(중죄, 흉악 범죄)·misdemeanor(경범죄)·offense(위반)·crime(범죄 전반)! felon(중죄인)·felonious(중죄의)가 가족. a convicted felon(전과자, 3921 convict), charged with a felony(중죄로 기소된), a felony charge(중죄 혐의). serious crime(중범죄)·offense(범죄)와 유의어. 반대 misdemeanor(경범죄).",
+  "syn": [
+   "serious crime(중범죄)",
+   "offense(범죄)"
+  ],
+  "anti": [
+   "misdemeanor(경범죄)"
+  ],
+  "idiom": [
+   "commit a felony(중죄를 저지르다)",
+   "a felony charge(중죄 혐의)"
+  ],
+  "colloc": [
+   "commit a felony(중죄를 저지르다)",
+   "convicted of a felony(중죄로 유죄 선고를 받은)",
+   "felony charge(중죄 혐의)"
+  ],
+  "ex_add": "He was charged with a felony.  (felony=중죄)"
+ }
+]
