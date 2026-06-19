@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-수능영단어 심화강화판 -> 필터형 XLSX 빌더 (Ray English 5·6 교과 단어장 스타일)
+CEFR 기준 영단어 -> 필터형 XLSX 빌더 (Ray English 5·6 교과 단어장 스타일)
 
 스타일 요소(참조 파일에서 추출):
 - 헤더: 네이비(16263F) 배경 + 흰색 굵은 글씨, 가운데 정렬
@@ -45,8 +45,8 @@ COLS = [
     ("3회",         "_blank", 5,  False, "center"),
 ]
 NCOL = len(COLS)
-TITLE = "수능 필수 영단어 — 심화 강화판 (CEFR순)"
-SUBNOTE = "머리글의 필터(▼)로 CEFR·품사를 원하는 대로 추리세요. · THE FINISHING TOUCH · 이인혁"
+TITLE = "CEFR 기준 영단어 (5,000)"
+SUBNOTE = "머리글의 필터(▼)로 CEFR·품사를 원하는 대로 추리세요. · A1–C2 통합"
 
 def val(card, key, idx):
     if key == "_idx":   return idx

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-수능영단어 심화강화판 빌더 (build2.js 재구성판)
+CEFR 기준 영단어 빌더 (build2.js 재구성판)
 
 입력 : enriched_cumulative.json  (마스터 강화본)
        cards_raw.json            (원본 예문/출처 병합용)
