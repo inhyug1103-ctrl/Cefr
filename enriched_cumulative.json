@@ -189911,5 +189911,1670 @@
   "ex_add": "The traitor's name became a byword for obloquy.  (obloquy=오명)",
   "ex_orig": "",
   "ex_src": ""
+ },
+ {
+  "num": "5606",
+  "hw": "obeisance",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "복종해(oboedire) 절함 -> '경의·복종의 절'.",
+  "senses": [
+   "1) (깊은) 경의, 존경의 표시",
+   "2) (몸을 굽혀 하는) 절, 인사"
+  ],
+  "etym": "고대 프랑스어 obeissance(복종, obeir 복종하다, 라틴 oboedire 귀 기울여 따르다, ob-(향해) + audire 듣다) -> 'obeisance'. obey·audio·audience와 같은 audire(듣다) 뿌리. '머리를 숙여 복종·경의를 표함'이 핵심.",
+  "deriv": "ob-(향해) + audire(듣다) -> 'obeisance'. 한국 학습자 핵심: audire(듣다) 어근 — obey·audio·audience·obeisance! make obeisance to(~에게 경의를 표하다)·pay obeisance. 유의어 homage·deference·reverence(5201). 반대 defiance·disrespect·contempt. 심화 격식.",
+  "syn": [
+   "homage(경의)",
+   "deference(존경)",
+   "reverence(숭배)"
+  ],
+  "anti": [
+   "defiance(반항)",
+   "disrespect(무례)",
+   "contempt(경멸)"
+  ],
+  "idiom": [
+   "make obeisance to(~에게 경의를 표하다)"
+  ],
+  "colloc": [
+   "make obeisance(절하다)",
+   "pay obeisance to(~에게 경의를 표하다)",
+   "deep obeisance(깊은 절)"
+  ],
+  "ex_add": "The courtiers made obeisance to the king.  (obeisance=경의의 절)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5607",
+  "hw": "oeuvre",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "작품(opus) 전체 -> '(예술가의) 전 작품·작품 세계'.",
+  "senses": [
+   "1) (한 예술가의) 전 작품, 작품 세계, 평생의 작품"
+  ],
+  "etym": "프랑스어 oeuvre(작품·일, 라틴 opera 일·노고, opus 작품) -> 'oeuvre'. opera·opus·operate와 같은 opus(작품) 뿌리. 발음 주의(/ˈɜːvrə/). '한 작가가 남긴 작품 전체'가 핵심.",
+  "deriv": "라틴어 opus(작품) -> 'oeuvre'. 한국 학습자 핵심: opus(작품) 어근 — opera·opus·operate·oeuvre! 발음 /ˈɜːvrə/. her entire oeuvre(그녀의 전 작품)·within his oeuvre. 유의어 body of work·output·canon. 반대 (단일)single work. 심화 예술 비평.",
+  "syn": [
+   "body of work(전 작품)",
+   "output(작품 활동)",
+   "canon(정전)"
+  ],
+  "anti": [
+   "single work(단일 작품)",
+   "fragment(단편)",
+   "excerpt(발췌)"
+  ],
+  "idiom": [
+   "one's entire oeuvre(~의 전 작품)"
+  ],
+  "colloc": [
+   "entire oeuvre(전 작품)",
+   "within his oeuvre(그의 작품 세계 안에서)",
+   "vast oeuvre(방대한 작품)"
+  ],
+  "ex_add": "This painting is central to her oeuvre.  (oeuvre=전 작품)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5608",
+  "hw": "palaver",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "말(parabola) 잔치 -> '쓸데없이 길고 번거로운 말·법석'.",
+  "senses": [
+   "1) (지루하고 불필요한) 장황한 말, 수다",
+   "2) (성가신) 법석, 야단"
+  ],
+  "etym": "포르투갈어 palavra(말, 라틴 parabola 비유·말)에서 -> 서아프리카 무역상과의 긴 담판에서 -> 'palaver'. parable·parley·parol과 같은 parabola(말) 뿌리. '장황하고 번거로운 말·소동'이 핵심.",
+  "deriv": "라틴어 parabola(말) -> 'palaver'. 한국 학습자 핵심: parable(우화)·parley(담판)와 한 뿌리(parabola 말)! a lot of palaver(괜한 법석)·all this palaver(이 모든 번거로운 일). 유의어 fuss·rigmarole·chatter. 반대 brevity·simplicity. 심화 구어·문어.",
+  "syn": [
+   "fuss(법석)",
+   "rigmarole(번거로운 절차)",
+   "chatter(수다)"
+  ],
+  "anti": [
+   "brevity(간결)",
+   "simplicity(단순함)",
+   "silence(침묵)"
+  ],
+  "idiom": [
+   "a lot of palaver(괜한 법석)"
+  ],
+  "colloc": [
+   "a lot of palaver(괜한 법석)",
+   "all this palaver(이 모든 번거로운 일)",
+   "endless palaver(끝없는 수다)"
+  ],
+  "ex_add": "After much palaver, they finally agreed.  (palaver=장황한 말)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5609",
+  "hw": "palimpsest",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "다시(palin) 긁어낸(psestos) 양피지 -> '거듭 쓴 양피지·여러 층이 겹친 것'.",
+  "senses": [
+   "1) (글을 지우고 다시 쓴) 재생 양피지",
+   "2) (여러 시대의 흔적이 겹쳐 있는) 다층적인 것"
+  ],
+  "etym": "그리스어 palimpsestos(다시 긁어낸, palin 다시 + psen 긁다)에서 -> 'palimpsest'. palin(다시)은 palindrome(회문)의 뿌리. '먼저 쓴 글을 긁어내고 또 쓴 양피지 -> 흔적이 겹친 것'이 핵심.",
+  "deriv": "palin(다시) + psen(긁다) -> 'palimpsest'. 한국 학습자 핵심: palin(다시) 어근 — palindrome(회문)·palimpsest! 비유: the city as a palimpsest(여러 시대가 겹쳐 쓰인 도시). 유의어 layered record·overwriting. 반대 (단일층)blank slate. 심화 문학·역사.",
+  "syn": [
+   "layered text(겹쳐 쓴 글)",
+   "multilayered record(다층 기록)",
+   "overwriting(덧쓰기)"
+  ],
+  "anti": [
+   "blank slate(백지)",
+   "clean copy(깨끗한 원본)",
+   "tabula rasa(빈 서판)"
+  ],
+  "idiom": [
+   "a palimpsest of history(역사의 다층적 흔적)"
+  ],
+  "colloc": [
+   "urban palimpsest(다층적 도시)",
+   "palimpsest of history(역사의 겹층)",
+   "like a palimpsest(여러 층이 겹친 듯한)"
+  ],
+  "ex_add": "The old city is a palimpsest of many civilizations.  (palimpsest=여러 층이 겹친 것)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5610",
+  "hw": "panegyric",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "온(pan) 회중(agyris) 앞 찬사 -> '찬사·칭송 연설'.",
+  "senses": [
+   "1) (공개적인) 찬사, 칭송 연설·글, 송덕문"
+  ],
+  "etym": "그리스어 panegyrikos(공공 집회의 연설, pan 모든 + agyris 모임)에서 -> 'panegyric'. panacea(5150)·panorama와 같은 pan(모든) 뿌리. '온 회중 앞에서 바치는 드높은 찬사'가 핵심.",
+  "deriv": "pan(모든) + agyris(모임) -> 'panegyric'. 한국 학습자 핵심: pan-(모든) 어근 — panacea(5150)·panorama·pandemic·panegyric! encomium(5586)·eulogy와 동의어. deliver a panegyric(찬사를 바치다). 유의어 eulogy·encomium·tribute. 반대 diatribe·criticism·denunciation. 심화 수사.",
+  "syn": [
+   "eulogy(찬사)",
+   "encomium(칭송)",
+   "tribute(헌사)"
+  ],
+  "anti": [
+   "diatribe(혹평)",
+   "criticism(비판)",
+   "denunciation(규탄)"
+  ],
+  "idiom": [
+   "deliver a panegyric(찬사를 바치다)"
+  ],
+  "colloc": [
+   "deliver a panegyric(찬사를 바치다)",
+   "panegyric to(~에 대한 찬사)",
+   "fulsome panegyric(과한 칭송)"
+  ],
+  "ex_add": "The speech was a panegyric to the founder.  (panegyric=찬사)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5611",
+  "hw": "parlous",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "위험(peril)한 -> '위태로운·아슬아슬한'.",
+  "senses": [
+   "1) (상황이) 위태로운, 아슬아슬한, 불안정한 (다소 예스러운)"
+  ],
+  "etym": "중세 영어 parlous(peril '위험'의 축약형)에서 -> 'parlous'. perilous와 같은 라틴 periculum(위험) 뿌리. '위태위태한'이 핵심. 격식·예스러운 어조.",
+  "deriv": "peril(위험)의 축약 -> 'parlous'. 한국 학습자 핵심: perilous와 같은 뿌리(periculum 위험)의 예스러운 변형! 'a parlous state(위태로운 상태)' 정형구. precarious(5167)와 유사. 유의어 perilous·precarious·dire. 반대 safe·secure·stable. 심화 문어.",
+  "syn": [
+   "perilous(위험한)",
+   "precarious(위태로운)",
+   "dire(심각한)"
+  ],
+  "anti": [
+   "safe(안전한)",
+   "secure(안정된)",
+   "stable(안정적인)"
+  ],
+  "idiom": [
+   "a parlous state(위태로운 상태)"
+  ],
+  "colloc": [
+   "parlous state(위태로운 상태)",
+   "parlous condition(아슬아슬한 상황)",
+   "parlous times(위태로운 시기)"
+  ],
+  "ex_add": "The economy was in a parlous state.  (parlous=위태로운)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5612",
+  "hw": "pellucid",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "속까지(per) 빛(lux)이 통하는 -> '아주 맑은·명료한'.",
+  "senses": [
+   "1) (물·공기가) 아주 맑은, 투명한",
+   "2) (글·설명이) 더없이 명료한"
+  ],
+  "etym": "라틴어 pellucidus(투명한, per-(통과) + lucidus 빛나는, lux 빛) -> 'pellucid'. lucid(5122)·translucent와 같은 lux(빛) 뿌리. '빛이 환히 통과할 만큼 맑은 -> 명료한'이 핵심.",
+  "deriv": "per-(통과) + lux(빛) -> 'pellucid'. 한국 학습자 핵심: lux(빛) 어근 — lucid(5122)·translucent·elucidate·pellucid! lucid보다 더 격식·문학적. pellucid prose(더없이 명료한 글)·pellucid waters(맑은 물). 유의어 crystal-clear·limpid·lucid. 반대 opaque(5142)·murky·obscure. 심화 문학.",
+  "syn": [
+   "crystal-clear(아주 맑은)",
+   "limpid(맑은)",
+   "lucid(명료한)"
+  ],
+  "anti": [
+   "opaque(불투명한)",
+   "murky(흐릿한)",
+   "obscure(모호한)"
+  ],
+  "idiom": [
+   "pellucid prose(더없이 명료한 글)"
+  ],
+  "colloc": [
+   "pellucid prose(명료한 글)",
+   "pellucid waters(맑은 물)",
+   "pellucid clarity(투명한 명료함)"
+  ],
+  "ex_add": "Her pellucid prose is a joy to read.  (pellucid=아주 맑은)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5613",
+  "hw": "penumbra",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "거의(paene) 그늘(umbra) -> '반그늘·어슴푸레한 가장자리'.",
+  "senses": [
+   "1) (본그늘 둘레의) 반그늘",
+   "2) (경계가) 어슴푸레한 가장자리, 모호한 영역"
+  ],
+  "etym": "라틴어 paene(거의) + umbra(그늘) -> 'penumbra'. somber(5211)·adumbrate(5556)와 같은 umbra(그늘) 뿌리. '완전한 그늘은 아닌 어슴푸레한 가장자리'가 핵심.",
+  "deriv": "paene(거의) + umbra(그늘) -> 'penumbra'. 한국 학습자 핵심: umbra(그늘) 어근 — umbrella·somber(5211)·adumbrate(5556)·penumbra! 천문(일식의 반그늘)·비유(법의 penumbra=모호한 적용 영역). 유의어 half-shadow·gray area·fringe. 반대 umbra(본그늘)·core·center. 심화 과학·법.",
+  "syn": [
+   "half-shadow(반그늘)",
+   "gray area(애매한 영역)",
+   "fringe(가장자리)"
+  ],
+  "anti": [
+   "umbra(본그늘)",
+   "core(핵심)",
+   "center(중심)"
+  ],
+  "idiom": [
+   "a penumbra of doubt(어슴푸레한 의혹)"
+  ],
+  "colloc": [
+   "penumbra of the eclipse(일식의 반그늘)",
+   "legal penumbra(법의 모호한 영역)",
+   "penumbra of meaning(의미의 가장자리)"
+  ],
+  "ex_add": "The rights fall within the penumbra of the law.  (penumbra=모호한 영역)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5614",
+  "hw": "peregrination",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "들판(ager)을 가로질러(per) 떠돎 -> '여행·편력·방랑'.",
+  "senses": [
+   "1) (긴) 여행, 편력, 방랑"
+  ],
+  "etym": "라틴어 peregrinatio(외국 여행, peregrinari 떠돌다, per-(가로질러) + ager 들판) -> 'peregrination'. pilgrim(순례자)·peregrine(방랑하는)과 같은 뿌리. agriculture의 ager(들)와 동족. '들판을 가로질러 멀리 떠도는 여정'이 핵심.",
+  "deriv": "per-(가로질러) + ager(들판) -> 'peregrination'. 한국 학습자 핵심: pilgrim(순례자)·peregrine falcon(송골매)과 한 뿌리! 보통 복수·유머조 — his peregrinations(그의 편력). 유의어 journey·wandering·odyssey. 반대 settling·staying put. 심화 문어.",
+  "syn": [
+   "journey(여정)",
+   "wandering(방랑)",
+   "odyssey(긴 여정)"
+  ],
+  "anti": [
+   "settling(정착)",
+   "staying put(머무름)",
+   "homecoming(귀향)"
+  ],
+  "idiom": [
+   "one's peregrinations(~의 편력)"
+  ],
+  "colloc": [
+   "lengthy peregrinations(긴 편력)",
+   "peregrinations abroad(해외 방랑)",
+   "global peregrinations(세계 방랑)"
+  ],
+  "ex_add": "He wrote a book about his peregrinations across Asia.  (peregrination=편력)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5615",
+  "hw": "perspicacious",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "꿰뚫어(per) 보는(specere) -> '통찰력 있는·예리한'.",
+  "senses": [
+   "1) (사람·판단이) 통찰력 있는, 예리한, 명민한"
+  ],
+  "etym": "라틴어 perspicax(예리한, per-(꿰뚫어) + specere 보다) -> 'perspicacious'. circumspect(5289)·specious(5481)와 같은 specere(보다) 뿌리. '본질을 꿰뚫어 보는'이 핵심.",
+  "deriv": "per-(꿰뚫어) + specere(보다) -> 'perspicacious'. 한국 학습자 핵심: specere(보다) 거대 어근 — inspect·circumspect(5289)·perspective·perspicacious! 혼동 주의: perspicacious(통찰력 있는) vs perspicuous(명료한)! 명사 perspicacity. 유의어 astute·discerning·shrewd. 반대 obtuse(5139)·undiscerning. 심화 인물 평가.",
+  "syn": [
+   "astute(영민한)",
+   "discerning(분별력 있는)",
+   "shrewd(예리한)"
+  ],
+  "anti": [
+   "obtuse(둔한)",
+   "undiscerning(분별없는)",
+   "naive(순진한)"
+  ],
+  "idiom": [
+   "a perspicacious observer(예리한 관찰자)"
+  ],
+  "colloc": [
+   "perspicacious observer(예리한 관찰자)",
+   "perspicacious analysis(통찰력 있는 분석)",
+   "perspicacious judgment(명민한 판단)"
+  ],
+  "ex_add": "Her perspicacious remarks impressed the panel.  (perspicacious=통찰력 있는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5616",
+  "hw": "philippic",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "필리포스를 성토한 연설 -> '격렬한 탄핵 연설·통렬한 비난'.",
+  "senses": [
+   "1) (격렬한) 탄핵 연설, 통렬한 성토"
+  ],
+  "etym": "그리스 데모스테네스가 마케도니아 왕 필리포스(Philip)를 규탄한 연설 'Philippikoi'에서 -> 'philippic'. '특정 대상을 격렬히 성토하는 연설'이 핵심.",
+  "deriv": "인명 Philip(필리포스) -> 'philippic'. 한국 학습자 핵심: 역사적 연설(데모스테네스의 대(對)필리포스 연설)에서! diatribe·tirade와 동의어. launch into a philippic(통렬한 비난을 퍼붓다). 유의어 diatribe·tirade·invective. 반대 panegyric(5610)·encomium·eulogy. 심화 수사.",
+  "syn": [
+   "diatribe(혹평)",
+   "tirade(장광설)",
+   "invective(독설)"
+  ],
+  "anti": [
+   "panegyric(찬사)",
+   "encomium(칭송)",
+   "eulogy(찬사)"
+  ],
+  "idiom": [
+   "launch into a philippic(통렬한 비난을 퍼붓다)"
+  ],
+  "colloc": [
+   "launch into a philippic(통렬한 비난을 퍼붓다)",
+   "bitter philippic(신랄한 성토)",
+   "political philippic(정치적 탄핵 연설)"
+  ],
+  "ex_add": "He delivered a furious philippic against the regime.  (philippic=탄핵 연설)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5617",
+  "hw": "phlegmatic",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "점액질(phlegma)의 -> '침착한·좀처럼 동요 않는'.",
+  "senses": [
+   "1) (기질이) 침착한, 차분한, 좀처럼 흥분하지 않는"
+  ],
+  "etym": "그리스어 phlegmatikos(점액질의, phlegma 점액)에서 -> 중세 4체액설에서 '점액질=냉정·둔감'으로 -> 'phlegmatic'. '점액질처럼 가라앉아 동요 없는'이 핵심.",
+  "deriv": "그리스 phlegma(점액) -> 'phlegmatic'. 한국 학습자 핵심: 4체액설 어원 — sanguine(5475 혈액=낙천)·bilious(5565 담즙=성마름)·phlegmatic(점액=냉정)! stolid(5485)·impassive(5370)와 유사. a phlegmatic temperament(침착한 기질). 유의어 unemotional·stoic·composed. 반대 excitable·volatile·emotional. 심화 인물 묘사.",
+  "syn": [
+   "unemotional(감정 없는)",
+   "stoic(의연한)",
+   "composed(침착한)"
+  ],
+  "anti": [
+   "excitable(흥분 잘하는)",
+   "volatile(변덕스러운)",
+   "emotional(감정적인)"
+  ],
+  "idiom": [
+   "a phlegmatic temperament(침착한 기질)"
+  ],
+  "colloc": [
+   "phlegmatic temperament(침착한 기질)",
+   "phlegmatic manner(차분한 태도)",
+   "calm and phlegmatic(차분하고 냉정한)"
+  ],
+  "ex_add": "He remained phlegmatic even in a crisis.  (phlegmatic=침착한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5618",
+  "hw": "plangent",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "치며(plangere) 울리는 -> '구슬프게 울려 퍼지는'.",
+  "senses": [
+   "1) (소리가) 구슬프고 깊게 울려 퍼지는, 애절한"
+  ],
+  "etym": "라틴어 plangens(치는·통곡하는, plangere 치다·가슴을 치며 슬퍼하다)의 현재분사 -> 'plangent'. '가슴을 치는 통곡처럼 구슬피 울리는'이 핵심.",
+  "deriv": "라틴어 plangere(치다·통곡하다) -> 'plangent'. 한국 학습자 핵심: '가슴을 치며 슬퍼하다'에서 — 구슬픈 울림! a plangent melody(애절한 선율)·plangent tones. 유의어 mournful·resonant·melancholy. 반대 cheerful·jaunty·bright. 심화 음악·문학.",
+  "syn": [
+   "mournful(애절한)",
+   "resonant(울려 퍼지는)",
+   "melancholy(구슬픈)"
+  ],
+  "anti": [
+   "cheerful(쾌활한)",
+   "jaunty(경쾌한)",
+   "bright(밝은)"
+  ],
+  "idiom": [
+   "a plangent melody(애절한 선율)"
+  ],
+  "colloc": [
+   "plangent melody(애절한 선율)",
+   "plangent tones(구슬픈 음색)",
+   "plangent chords(애절한 화음)"
+  ],
+  "ex_add": "The plangent notes of the cello filled the hall.  (plangent=구슬프게 울리는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5619",
+  "hw": "plenitude",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "가득 참(plenus) -> '충만·풍부'.",
+  "senses": [
+   "1) (넉넉한) 풍부함, 충만, 가득함"
+  ],
+  "etym": "라틴어 plenitudo(가득함, plenus 가득한, plere 채우다) -> 'plenitude'. replete(5467)·plenty·complete와 같은 plere(채우다) 뿌리. '넘치도록 가득 찬 상태'가 핵심.",
+  "deriv": "라틴어 plenus(가득한) -> 'plenitude'. 한국 학습자 핵심: plere(채우다) 어근 — plenty·complete·replete(5467)·plenitude! a plenitude of(~의 풍부함)·plenitude of options. paucity(5430)의 반대. 유의어 abundance·profusion·plenty. 반대 paucity·scarcity·dearth. 심화 격식.",
+  "syn": [
+   "abundance(풍부)",
+   "profusion(다량)",
+   "plenty(충분)"
+  ],
+  "anti": [
+   "paucity(부족)",
+   "scarcity(희소)",
+   "dearth(결핍)"
+  ],
+  "idiom": [
+   "a plenitude of(~의 풍부함)"
+  ],
+  "colloc": [
+   "plenitude of options(풍부한 선택지)",
+   "plenitude of resources(풍부한 자원)",
+   "sheer plenitude(순전한 풍요)"
+  ],
+  "ex_add": "The garden offered a plenitude of fresh herbs.  (plenitude=충만)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5620",
+  "hw": "posit",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "놓다(ponere) -> '(전제로) 상정하다·가정하다'.",
+  "senses": [
+   "1) (논의의 전제로) 상정하다, 가정하다, 단정하다"
+  ],
+  "etym": "라틴어 ponere(놓다)의 과거분사 positus -> 'posit'. position·compose·juxtapose(5113)와 같은 ponere(놓다) 거대 뿌리. '논의의 바탕으로 놓아두다 -> 전제하다'가 핵심.",
+  "deriv": "라틴어 ponere(놓다) -> 'posit'. 한국 학습자 핵심: ponere(놓다) 거대 어근 — position·compose·deposit·juxtapose(5113)·posit! posit a theory(이론을 상정하다)·posit that(~라고 가정하다). 유의어 postulate·assume·hypothesize. 반대 disprove·refute(5191)·deny. 심화 학술.",
+  "syn": [
+   "postulate(상정하다)",
+   "assume(가정하다)",
+   "hypothesize(가설을 세우다)"
+  ],
+  "anti": [
+   "disprove(반증하다)",
+   "refute(반박하다)",
+   "deny(부인하다)"
+  ],
+  "idiom": [
+   "posit a theory(이론을 상정하다)"
+  ],
+  "colloc": [
+   "posit a theory(이론을 상정하다)",
+   "posit that(~라고 가정하다)",
+   "posit the existence(존재를 상정하다)"
+  ],
+  "ex_add": "The author posits that climate drove the migration.  (posit=상정하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5621",
+  "hw": "preternatural",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "자연(natura)을 넘어선(preter) -> '초자연적인·기이할 만큼 비범한'.",
+  "senses": [
+   "1) (자연 법칙을 넘어선) 초자연적인, 불가사의한",
+   "2) (정도가) 비범한, 유별난"
+  ],
+  "etym": "라틴어 praeter naturam('자연을 넘어', praeter 넘어서 + natura 자연) -> 'preternatural'. nascent(5412)·nature와 같은 nasci(태어나다) 뿌리. '자연 범위를 벗어난 -> 기이할 만큼 비범한'이 핵심.",
+  "deriv": "praeter(넘어) + natura(자연) -> 'preternatural'. 한국 학습자 핵심: natura(nasci 태어나다) 어근 — nature·nascent(5412)·preternatural! preternatural calm(초자연적일 만큼 침착함)·preternatural ability. supernatural과 유사하나 '비범함' 강조. 유의어 supernatural·uncanny·extraordinary. 반대 ordinary·natural·mundane(5409). 심화 문학.",
+  "syn": [
+   "supernatural(초자연적인)",
+   "uncanny(섬뜩한)",
+   "extraordinary(비범한)"
+  ],
+  "anti": [
+   "ordinary(평범한)",
+   "natural(자연스러운)",
+   "mundane(평범한)"
+  ],
+  "idiom": [
+   "preternatural calm(초자연적인 침착)"
+  ],
+  "colloc": [
+   "preternatural calm(초자연적인 침착)",
+   "preternatural ability(비범한 능력)",
+   "preternatural stillness(기이한 정적)"
+  ],
+  "ex_add": "She had a preternatural ability to sense danger.  (preternatural=비범한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5622",
+  "hw": "prolix",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "앞으로(pro) 길게 늘어진(liquere) -> '장황한·지루하게 긴'.",
+  "senses": [
+   "1) (글·말이) 장황한, 지루하게 길게 늘어지는"
+  ],
+  "etym": "라틴어 prolixus(길게 뻗은, pro-(앞으로) + liquere 흐르다·늘어지다) -> 'prolix'. '말이 끝없이 줄줄 늘어지는'이 핵심. 명사 prolixity.",
+  "deriv": "pro-(앞으로) + liquere(흐르다) -> 'prolix'. 한국 학습자 핵심: 명사 prolixity(장황함)! verbose(5246)·prolix는 동의어. a prolix style(장황한 문체)·prolix report. 유의어 verbose·long-winded·wordy. 반대 succinct(5220)·terse(5230)·concise. 심화 문체.",
+  "syn": [
+   "verbose(장황한)",
+   "long-winded(말이 많은)",
+   "wordy(군더더기 많은)"
+  ],
+  "anti": [
+   "succinct(간명한)",
+   "terse(간결한)",
+   "concise(간결한)"
+  ],
+  "idiom": [
+   "a prolix style(장황한 문체)"
+  ],
+  "colloc": [
+   "prolix style(장황한 문체)",
+   "prolix report(지루하게 긴 보고서)",
+   "unnecessarily prolix(불필요하게 장황한)"
+  ],
+  "ex_add": "The author's prolix style tested my patience.  (prolix=장황한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5623",
+  "hw": "propinquity",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "가까움(prope) -> '근접·가까움(특히 관계·시공간)'.",
+  "senses": [
+   "1) (장소·관계의) 가까움, 근접",
+   "2) (시기적) 인접"
+  ],
+  "etym": "라틴어 propinquitas(가까움, propinquus 가까운, prope 가까이) -> 'propinquity'. approach·reproach(5198)와 같은 prope(가까이) 뿌리. '물리적·관계적으로 가까운 상태'가 핵심.",
+  "deriv": "라틴어 prope(가까이) -> 'propinquity'. 한국 학습자 핵심: prope(가까이) 어근 — approach·reproach(5198)·propinquity! 사회심리: propinquity effect(근접성 효과 — 가까울수록 친해짐). 유의어 proximity·nearness·closeness. 반대 distance·remoteness. 심화 학술.",
+  "syn": [
+   "proximity(근접)",
+   "nearness(가까움)",
+   "closeness(밀접)"
+  ],
+  "anti": [
+   "distance(거리)",
+   "remoteness(외짐)",
+   "separation(분리)"
+  ],
+  "idiom": [
+   "propinquity effect(근접성 효과)"
+  ],
+  "colloc": [
+   "physical propinquity(물리적 근접)",
+   "propinquity effect(근접성 효과)",
+   "propinquity of interests(이해의 근접)"
+  ],
+  "ex_add": "Their friendship grew from sheer propinquity.  (propinquity=가까움)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5624",
+  "hw": "puerile",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "어린아이(puer) 같은 -> '유치한·치기 어린'.",
+  "senses": [
+   "1) (어른답지 못하게) 유치한, 철없는, 치기 어린"
+  ],
+  "etym": "라틴어 puerilis(소년의, puer 소년) -> 'puerile'. puer(소년)는 puerperal·이름 Puerto와 의미상 연결. '어린애처럼 유치한'이 핵심.",
+  "deriv": "라틴어 puer(소년) -> 'puerile'. 한국 학습자 핵심: puer(소년) 어근! jejune(5597)·childish와 유사. puerile humor(유치한 유머)·puerile behavior. 유의어 childish·immature·infantile. 반대 mature·adult·sophisticated. 심화 비평.",
+  "syn": [
+   "childish(유치한)",
+   "immature(미숙한)",
+   "infantile(철없는)"
+  ],
+  "anti": [
+   "mature(성숙한)",
+   "adult(어른스러운)",
+   "sophisticated(세련된)"
+  ],
+  "idiom": [
+   "puerile humor(유치한 유머)"
+  ],
+  "colloc": [
+   "puerile humor(유치한 유머)",
+   "puerile behavior(철없는 행동)",
+   "puerile prank(유치한 장난)"
+  ],
+  "ex_add": "Their puerile squabbling annoyed everyone.  (puerile=유치한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5625",
+  "hw": "pugnacious",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "주먹질하려는(pugnare) -> '싸우려 드는·호전적인'.",
+  "senses": [
+   "1) (걸핏하면) 싸우려 드는, 시비조의, 호전적인"
+  ],
+  "etym": "라틴어 pugnax(호전적인, pugnare 싸우다, pugnus 주먹) -> 'pugnacious'. repugnant(5469)·impugn과 같은 pugnus(주먹) 뿌리. '주먹부터 들이미는 호전성'이 핵심.",
+  "deriv": "라틴어 pugnus(주먹) -> 'pugnacious'. 한국 학습자 핵심: pugnus(주먹) 어근 — repugnant(5469)·impugn·pugnacious! 명사 pugnacity. a pugnacious attitude(시비조 태도). belligerent·truculent(5500)과 유사. 유의어 belligerent·combative·truculent. 반대 peaceable·conciliatory(5293)·meek. 심화 인물 묘사.",
+  "syn": [
+   "belligerent(호전적인)",
+   "combative(싸우려 드는)",
+   "truculent(시비조의)"
+  ],
+  "anti": [
+   "peaceable(온순한)",
+   "conciliatory(회유적인)",
+   "meek(온순한)"
+  ],
+  "idiom": [
+   "a pugnacious attitude(시비조 태도)"
+  ],
+  "colloc": [
+   "pugnacious attitude(시비조 태도)",
+   "pugnacious style(호전적 스타일)",
+   "pugnacious manner(싸우려 드는 태도)"
+  ],
+  "ex_add": "The pugnacious debater attacked every point.  (pugnacious=싸우려 드는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5626",
+  "hw": "pusillanimous",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "아주 작은(pusillus) 마음(animus) -> '겁 많은·소심한'.",
+  "senses": [
+   "1) (용기 없이) 겁 많은, 소심한, 비겁한"
+  ],
+  "etym": "라틴어 pusillanimis(소심한, pusillus 아주 작은 + animus 마음) -> 'pusillanimous'. magnanimous(5124)·equanimity(5333)와 같은 animus(마음) 뿌리. '마음이 콩알만 한 -> 겁 많은'이 핵심.",
+  "deriv": "pusillus(아주 작은) + animus(마음) -> 'pusillanimous'. 한국 학습자 핵심: animus(마음) 어근 — magnanimous(5124, 큰 마음) ↔ pusillanimous(작은 마음)! 명사 pusillanimity. a pusillanimous response(소심한 대응). 유의어 cowardly·timid·spineless. 반대 brave·courageous·intrepid(5109). 심화 인물 비평.",
+  "syn": [
+   "cowardly(겁 많은)",
+   "timid(소심한)",
+   "spineless(줏대 없는)"
+  ],
+  "anti": [
+   "brave(용감한)",
+   "courageous(용기 있는)",
+   "intrepid(겁 없는)"
+  ],
+  "idiom": [
+   "a pusillanimous response(소심한 대응)"
+  ],
+  "colloc": [
+   "pusillanimous response(소심한 대응)",
+   "pusillanimous leadership(겁 많은 지도력)",
+   "pusillanimous attitude(비겁한 태도)"
+  ],
+  "ex_add": "His pusillanimous retreat disgusted his allies.  (pusillanimous=겁 많은)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5627",
+  "hw": "putative",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "~라고 여겨지는(putare) -> '~으로 여겨지는·추정상의'.",
+  "senses": [
+   "1) (실제 여부와 무관하게) ~으로 여겨지는, 추정상의, 소문상의"
+  ],
+  "etym": "라틴어 putativus(추정의, putare 생각하다·여기다) -> 'putative'. dispute·reputation·compute와 같은 putare(생각하다) 뿌리. '~라고 여겨지는(확정은 아닌)'이 핵심.",
+  "deriv": "라틴어 putare(생각하다·여기다) -> 'putative'. 한국 학습자 핵심: putare(생각하다) 어근 — dispute·reputation·compute·putative! the putative father(추정상의 아버지)·putative cause(추정 원인). 유의어 supposed·alleged·presumed. 반대 confirmed·proven·actual. 심화 법·학술.",
+  "syn": [
+   "supposed(추정상의)",
+   "alleged(주장된)",
+   "presumed(추정되는)"
+  ],
+  "anti": [
+   "confirmed(확인된)",
+   "proven(입증된)",
+   "actual(실제의)"
+  ],
+  "idiom": [
+   "the putative father(추정상의 아버지)"
+  ],
+  "colloc": [
+   "putative father(추정상의 아버지)",
+   "putative cause(추정 원인)",
+   "putative benefits(추정상의 이점)"
+  ],
+  "ex_add": "The putative benefits have never been proven.  (putative=추정상의)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5628",
+  "hw": "quiescent",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "쉬고(quiescere) 있는 -> '잠잠한·활동을 멈춘'.",
+  "senses": [
+   "1) (일시적으로) 활동을 멈춘, 잠잠한, 휴지 상태의"
+  ],
+  "etym": "라틴어 quiescens(쉬는, quiescere 쉬다, quies 고요)의 현재분사 -> 'quiescent'. tranquil(5231)·acquiesce(5260)와 같은 quies(고요) 뿌리. '활동을 멈추고 가만히 있는'이 핵심.",
+  "deriv": "라틴어 quies(고요) -> 'quiescent'. 한국 학습자 핵심: quies(고요) 어근 — quiet·tranquil(5231)·acquiesce(5260)·quiescent! 명사 quiescence. a quiescent volcano(휴화산)·remain quiescent. dormant(5xx)와 유사. 유의어 dormant·inactive·latent(5116). 반대 active·volatile·erupting. 심화 과학.",
+  "syn": [
+   "dormant(휴면 중인)",
+   "inactive(비활동의)",
+   "latent(잠복한)"
+  ],
+  "anti": [
+   "active(활동적인)",
+   "volatile(활발한)",
+   "erupting(분출하는)"
+  ],
+  "idiom": [
+   "a quiescent volcano(휴화산)"
+  ],
+  "colloc": [
+   "quiescent volcano(휴화산)",
+   "quiescent phase(휴지기)",
+   "remain quiescent(잠잠한 상태로 있다)"
+  ],
+  "ex_add": "The disease can remain quiescent for years.  (quiescent=잠잠한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5629",
+  "hw": "quotidian",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "매일(quotidie)의 -> '일상적인·평범한'.",
+  "senses": [
+   "1) (특별할 것 없이) 일상적인, 매일의, 평범한"
+  ],
+  "etym": "라틴어 quotidianus(매일의, quotidie 날마다, quot 얼마나 많은 + dies 날) -> 'quotidian'. dies(날)는 diary·journal·diurnal의 뿌리. '날마다 되풀이되는 평범한'이 핵심.",
+  "deriv": "quot(얼마나) + dies(날) -> 'quotidian'. 한국 학습자 핵심: dies(날) 어근 — diary·diurnal·meridian·quotidian! mundane(5409)·prosaic(5455)과 유사. quotidian routine(일상의 반복)·quotidian existence. 유의어 everyday·mundane·routine. 반대 extraordinary·exceptional·rare. 심화 문어.",
+  "syn": [
+   "everyday(일상의)",
+   "mundane(평범한)",
+   "routine(판에 박힌)"
+  ],
+  "anti": [
+   "extraordinary(비범한)",
+   "exceptional(예외적인)",
+   "rare(드문)"
+  ],
+  "idiom": [
+   "the quotidian routine(일상의 반복)"
+  ],
+  "colloc": [
+   "quotidian routine(일상의 반복)",
+   "quotidian existence(평범한 삶)",
+   "quotidian details(일상의 세부)"
+  ],
+  "ex_add": "He found beauty in the quotidian details of life.  (quotidian=일상적인)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5630",
+  "hw": "ramify",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "가지(ramus)를 치다 -> '갈래로 나뉘다·파급되다'.",
+  "senses": [
+   "1) (가지처럼) 갈래로 나뉘다, 분기하다",
+   "2) (영향이) 복잡하게 파급되다"
+  ],
+  "etym": "라틴어 ramificare(가지를 내다, ramus 나뭇가지 + facere 만들다) -> 'ramify'. ramus(가지)는 ramose·ramification의 뿌리. '나뭇가지처럼 여러 갈래로 뻗다'가 핵심.",
+  "deriv": "ramus(가지) + facere(만들다) -> 'ramify'. 한국 학습자 핵심: 명사 ramification(파급 효과·결과)가 더 빈출! ramus(가지) 어근. the issue ramifies(문제가 여러 갈래로 번지다). 유의어 branch out·divide·proliferate(5177). 반대 converge·merge·unify. 심화 학술.",
+  "syn": [
+   "branch out(갈라지다)",
+   "divide(나뉘다)",
+   "proliferate(증식하다)"
+  ],
+  "anti": [
+   "converge(수렴하다)",
+   "merge(합쳐지다)",
+   "unify(통합하다)"
+  ],
+  "idiom": [
+   "ramify into(~로 갈라지다)"
+  ],
+  "colloc": [
+   "ramify into branches(갈래로 나뉘다)",
+   "ramify widely(널리 파급되다)",
+   "ramifying consequences(파급되는 결과)"
+  ],
+  "ex_add": "The crisis ramified into every sector of the economy.  (ramify=파급되다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5631",
+  "hw": "rapprochement",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "다시(re) 가까워짐(approche) -> '(국가·관계의) 화해·관계 회복'.",
+  "senses": [
+   "1) (특히 국가 간) 관계 회복, 화해, 친선 재개"
+  ],
+  "etym": "프랑스어 rapprochement(가까워짐, re-(다시) + approcher 다가가다, 라틴 prope 가까이) -> 'rapprochement'. propinquity(5623)·approach와 같은 prope(가까이) 뿌리. 발음 주의(/ræˌprɒʃˈmɒ̃/). '멀어졌던 사이가 다시 가까워짐'이 핵심.",
+  "deriv": "re-(다시) + prope(가까이) -> 'rapprochement'. 한국 학습자 핵심: prope(가까이) 어근 — approach·propinquity(5623)·rapprochement! 외교 빈출 — seek a rapprochement(화해를 모색하다)·diplomatic rapprochement. 유의어 reconciliation·détente·reunion. 반대 estrangement·rift·rupture. 심화 외교.",
+  "syn": [
+   "reconciliation(화해)",
+   "détente(긴장 완화)",
+   "reunion(재결합)"
+  ],
+  "anti": [
+   "estrangement(소원해짐)",
+   "rift(균열)",
+   "rupture(결렬)"
+  ],
+  "idiom": [
+   "seek a rapprochement(화해를 모색하다)"
+  ],
+  "colloc": [
+   "seek a rapprochement(화해를 모색하다)",
+   "diplomatic rapprochement(외교적 화해)",
+   "gradual rapprochement(점진적 관계 회복)"
+  ],
+  "ex_add": "The summit marked a rapprochement between the two nations.  (rapprochement=관계 회복)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5632",
+  "hw": "recrudescence",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "다시(re) 날것(crudus)으로 도짐 -> '재발·재연'.",
+  "senses": [
+   "1) (가라앉았던 병·문제의) 재발, 재연, 다시 도짐"
+  ],
+  "etym": "라틴어 recrudescere(다시 도지다, re-(다시) + crudescere 악화되다, crudus 날것의·거친) -> 'recrudescence'. crude(날것의)·cruel과 같은 crudus 뿌리. '아물던 상처가 다시 곪아 터지듯 재발함'이 핵심.",
+  "deriv": "re-(다시) + crudus(날것의) -> 'recrudescence'. 한국 학습자 핵심: crudus(날것·거친) 어근 — crude·cruel·recrudescence! a recrudescence of violence(폭력의 재연)·recrudescence of the disease. 유의어 resurgence·relapse·revival. 반대 remission·abatement·subsidence. 심화 의학·시사.",
+  "syn": [
+   "resurgence(재기)",
+   "relapse(재발)",
+   "revival(부활)"
+  ],
+  "anti": [
+   "remission(완화)",
+   "abatement(진정)",
+   "subsidence(가라앉음)"
+  ],
+  "idiom": [
+   "a recrudescence of(~의 재연)"
+  ],
+  "colloc": [
+   "recrudescence of violence(폭력의 재연)",
+   "recrudescence of the disease(병의 재발)",
+   "sudden recrudescence(갑작스러운 재발)"
+  ],
+  "ex_add": "There was a recrudescence of unrest in the region.  (recrudescence=재발)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5633",
+  "hw": "refractory",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "맞서(re) 부수는(frangere) -> '말을 안 듣는·다루기 힘든·잘 안 듣는'.",
+  "senses": [
+   "1) (사람·동물이) 다루기 힘든, 고집 센, 반항적인",
+   "2) (병·물질이) 잘 낫지 않는, 잘 반응하지 않는"
+  ],
+  "etym": "라틴어 refractarius(고집 센, refringere 부수다·거스르다, re-(맞서) + frangere 부수다) -> 'refractory'. fragile·fracture·fraction과 같은 frangere(부수다) 뿌리. '명령을 부수고 거스르는'이 핵심.",
+  "deriv": "re-(맞서) + frangere(부수다) -> 'refractory'. 한국 학습자 핵심: frangere(부수다) 어근 — fragile·fracture·fraction·refractory! 두 결 — ① 사람(refractory student 다루기 힘든 학생) ② 의학(refractory to treatment 치료에 안 듣는). 유의어 unmanageable·intractable·obstinate(5138). 반대 docile·compliant·tractable(5497). 심화 의학·묘사.",
+  "syn": [
+   "unmanageable(다루기 힘든)",
+   "intractable(고집 센)",
+   "obstinate(완고한)"
+  ],
+  "anti": [
+   "docile(고분고분한)",
+   "compliant(순응하는)",
+   "tractable(다루기 쉬운)"
+  ],
+  "idiom": [
+   "refractory to treatment(치료에 안 듣는)"
+  ],
+  "colloc": [
+   "refractory student(다루기 힘든 학생)",
+   "refractory to treatment(치료에 안 듣는)",
+   "refractory behavior(반항적 행동)"
+  ],
+  "ex_add": "The infection proved refractory to antibiotics.  (refractory=잘 안 듣는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5634",
+  "hw": "remonstrate",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "다시(re) 똑똑히 보여 주며(monstrare) 항의하다 -> '항의하다·타이르다'.",
+  "senses": [
+   "1) (잘못을 지적하며) 항의하다, 이의를 제기하다, 타이르다"
+  ],
+  "etym": "중세 라틴어 remonstrare(분명히 보여 주다, re-(강조) + monstrare 보여 주다, monere 일깨우다) -> 'remonstrate'. demonstrate·monster·admonition(5529)과 같은 monere/monstrare(보여 주다·일깨우다) 뿌리. '잘못을 들이대며 항변하다'가 핵심.",
+  "deriv": "re- + monstrare(보여 주다) -> 'remonstrate'. 한국 학습자 핵심: monstrare(보여 주다) 어근 — demonstrate·monster·remonstrate! 명사 remonstrance. 'remonstrate with': remonstrate with him(그에게 항의하다). 유의어 protest·object·expostulate. 반대 acquiesce(5260)·assent·comply. 심화 격식.",
+  "syn": [
+   "protest(항의하다)",
+   "object(이의를 제기하다)",
+   "expostulate(타이르며 항의하다)"
+  ],
+  "anti": [
+   "acquiesce(묵묵히 따르다)",
+   "assent(동의하다)",
+   "comply(따르다)"
+  ],
+  "idiom": [
+   "remonstrate with(~에게 항의하다)"
+  ],
+  "colloc": [
+   "remonstrate with(~에게 항의하다)",
+   "remonstrate against(~에 항의하다)",
+   "remonstrate angrily(노기 띠고 항의하다)"
+  ],
+  "ex_add": "She remonstrated with the driver about his recklessness.  (remonstrate=항의하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5635",
+  "hw": "risible",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "웃을(ridere) 만한 -> '웃기는·가소로운'.",
+  "senses": [
+   "1) (어이없어) 웃음이 나오는, 가소로운, 우스꽝스러운"
+  ],
+  "etym": "라틴어 risibilis(웃을 수 있는, ridere 웃다) -> 'risible'. deride(5310)·ridiculous와 같은 ridere(웃다) 뿌리. '웃음거리가 될 만큼 어처구니없는'이 핵심.",
+  "deriv": "라틴어 ridere(웃다) -> 'risible'. 한국 학습자 핵심: ridere(웃다) 어근 — ridicule·ridiculous·deride(5310)·risible! a risible attempt(가소로운 시도)·risible excuse(어이없는 변명). 유의어 laughable·ludicrous·absurd. 반대 serious·admirable·impressive. 심화 비평.",
+  "syn": [
+   "laughable(웃기는)",
+   "ludicrous(터무니없는)",
+   "absurd(어이없는)"
+  ],
+  "anti": [
+   "serious(진지한)",
+   "admirable(훌륭한)",
+   "impressive(인상적인)"
+  ],
+  "idiom": [
+   "a risible attempt(가소로운 시도)"
+  ],
+  "colloc": [
+   "risible attempt(가소로운 시도)",
+   "risible excuse(어이없는 변명)",
+   "frankly risible(솔직히 가소로운)"
+  ],
+  "ex_add": "His excuse was frankly risible.  (risible=가소로운)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5636",
+  "hw": "sagacious",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "날카롭게 감지하는(sagire) -> '현명한·총명한'.",
+  "senses": [
+   "1) (판단이) 현명한, 슬기로운, 통찰력 있는"
+  ],
+  "etym": "라틴어 sagax(예민한·영리한, sagire 예리하게 감지하다) -> 'sagacious'. sage(현인)·presage(예감하다)와 같은 뿌리. '냄새 맡듯 예리하게 분별하는 지혜'가 핵심.",
+  "deriv": "라틴어 sagire(예리하게 감지하다) -> 'sagacious'. 한국 학습자 핵심: sage(현인)·presage와 한 뿌리! 명사 sagacity. a sagacious leader(현명한 지도자)·sagacious advice. astute·perspicacious(5615)와 유사. 유의어 wise·shrewd·astute. 반대 foolish·obtuse(5139)·naive. 심화 인물 평가.",
+  "syn": [
+   "wise(현명한)",
+   "shrewd(빈틈없는)",
+   "astute(영민한)"
+  ],
+  "anti": [
+   "foolish(어리석은)",
+   "obtuse(둔한)",
+   "naive(순진한)"
+  ],
+  "idiom": [
+   "a sagacious leader(현명한 지도자)"
+  ],
+  "colloc": [
+   "sagacious leader(현명한 지도자)",
+   "sagacious advice(슬기로운 조언)",
+   "sagacious judgment(현명한 판단)"
+  ],
+  "ex_add": "Her sagacious counsel saved the company.  (sagacious=현명한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5637",
+  "hw": "salubrious",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "건강(salus)에 좋은 -> '건강에 좋은·쾌적한'.",
+  "senses": [
+   "1) (기후·환경이) 건강에 좋은, 쾌적한",
+   "2) (장소가) 살기 좋은, 고급스러운"
+  ],
+  "etym": "라틴어 salubris(건강에 좋은, salus 건강·안녕) -> 'salubrious'. salutary·salute·salvation과 같은 salus(건강·안녕) 뿌리. '몸에 이롭고 쾌적한'이 핵심.",
+  "deriv": "라틴어 salus(건강) -> 'salubrious'. 한국 학습자 핵심: salus(건강·안녕) 어근 — salute·salutary·salvation·salubrious! a salubrious climate(건강에 좋은 기후)·less salubrious area(덜 쾌적한 지역). 유의어 healthy·wholesome·beneficial. 반대 unhealthy·insalubrious·noxious(5417). 심화 묘사.",
+  "syn": [
+   "healthy(건강에 좋은)",
+   "wholesome(건전한)",
+   "beneficial(이로운)"
+  ],
+  "anti": [
+   "unhealthy(건강에 해로운)",
+   "insalubrious(건강에 나쁜)",
+   "noxious(유해한)"
+  ],
+  "idiom": [
+   "a salubrious climate(건강에 좋은 기후)"
+  ],
+  "colloc": [
+   "salubrious climate(건강에 좋은 기후)",
+   "salubrious environment(쾌적한 환경)",
+   "less salubrious(덜 쾌적한)"
+  ],
+  "ex_add": "They moved to a more salubrious part of town.  (salubrious=쾌적한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5638",
+  "hw": "sangfroid",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "찬(froid) 피(sang) -> '냉정·침착'.",
+  "senses": [
+   "1) (위기 속의) 냉정함, 침착함, 태연자약"
+  ],
+  "etym": "프랑스어 sang-froid(찬 피, sang 피 + froid 차가운, 라틴 sanguis + frigidus) -> 'sangfroid'. sanguine(5475)과 같은 sanguis(피) 뿌리. 발음 주의(/ˌsɒ̃ˈfrwɑː/). '피가 차갑게 식어 동요 없는 침착'이 핵심.",
+  "deriv": "프랑스 sang(피) + froid(차가운) -> 'sangfroid'. 한국 학습자 핵심: '찬 피=냉정'! sanguine(5475)과 같은 sanguis(피) 뿌리. with great sangfroid(대단한 침착함으로). equanimity(5333)·composure와 유사. 유의어 composure·poise·coolness. 반대 panic·agitation·hysteria. 심화 격식.",
+  "syn": [
+   "composure(침착)",
+   "poise(평정)",
+   "coolness(냉정)"
+  ],
+  "anti": [
+   "panic(공황)",
+   "agitation(동요)",
+   "hysteria(히스테리)"
+  ],
+  "idiom": [
+   "with sangfroid(침착하게)"
+  ],
+  "colloc": [
+   "great sangfroid(대단한 침착)",
+   "with sangfroid(침착하게)",
+   "admirable sangfroid(감탄스러운 냉정)"
+  ],
+  "ex_add": "She handled the emergency with remarkable sangfroid.  (sangfroid=냉정)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5639",
+  "hw": "saturnine",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "토성(Saturn)의 기운인 -> '음울한·뚱한'.",
+  "senses": [
+   "1) (기질·표정이) 음울한, 뚱한, 침울한"
+  ],
+  "etym": "라틴어 Saturnus(토성·농경의 신)에서 -> 점성술에서 토성의 영향을 받은 사람을 '음울하다'고 본 데서 -> 'saturnine'. mercurial(5128, 수성=변덕)·jovial(목성=쾌활)처럼 행성에서 온 기질어. '토성처럼 무겁고 음침한'이 핵심.",
+  "deriv": "행성 Saturn(토성) -> 'saturnine'. 한국 학습자 핵심: 행성 기질어 3종 — mercurial(5128 수성=변덕)·jovial(목성=쾌활)·saturnine(토성=음울)! a saturnine disposition(음울한 기질)·saturnine face. morose(5132)와 유사. 유의어 gloomy·morose·sullen. 반대 cheerful·jovial·genial. 심화 인물 묘사.",
+  "syn": [
+   "gloomy(음울한)",
+   "morose(뚱한)",
+   "sullen(부루퉁한)"
+  ],
+  "anti": [
+   "cheerful(쾌활한)",
+   "jovial(유쾌한)",
+   "genial(상냥한)"
+  ],
+  "idiom": [
+   "a saturnine disposition(음울한 기질)"
+  ],
+  "colloc": [
+   "saturnine disposition(음울한 기질)",
+   "saturnine face(침울한 얼굴)",
+   "saturnine temperament(뚱한 성격)"
+  ],
+  "ex_add": "He had a dark, saturnine look about him.  (saturnine=음울한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5640",
+  "hw": "sedition",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "따로(se) 떨어져 감(itio) -> '선동·치안 방해'.",
+  "senses": [
+   "1) (정부 전복을 부추기는) 선동, 폭동 교사, 치안 방해"
+  ],
+  "etym": "라틴어 seditio(분열·반란, se-(따로) + itio 감, ire 가다) -> 'sedition'. transient(5232)·exit과 같은 ire(가다) 뿌리. '체제에서 갈라져 나가도록 부추김'이 핵심.",
+  "deriv": "se-(따로) + ire(가다) -> 'sedition'. 한국 학습자 핵심: ire(가다) 어근 — transit·exit·transient(5232)·sedition! 형용사 seditious(선동적인). charged with sedition(선동죄로 기소된)·incite sedition. 유의어 incitement·subversion·insurrection. 반대 loyalty·allegiance·order. 심화 법·정치.",
+  "syn": [
+   "incitement(선동)",
+   "subversion(전복)",
+   "insurrection(폭동)"
+  ],
+  "anti": [
+   "loyalty(충성)",
+   "allegiance(충성)",
+   "order(질서)"
+  ],
+  "idiom": [
+   "charged with sedition(선동죄로 기소된)"
+  ],
+  "colloc": [
+   "charged with sedition(선동죄로 기소된)",
+   "incite sedition(선동을 부추기다)",
+   "act of sedition(선동 행위)"
+  ],
+  "ex_add": "The pamphlet was banned as seditious.  (sedition=선동)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5641",
+  "hw": "sententious",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "잠언(sententia)을 늘어놓는 -> '교훈을 늘어놓는·점잔 빼는'.",
+  "senses": [
+   "1) (잘난 듯) 교훈·격언을 늘어놓는, 설교조의, 점잔 빼는"
+  ],
+  "etym": "라틴어 sententiosus(의미심장한, sententia 의견·잠언, sentire 느끼다·생각하다) -> 'sententious'. sentence·sentiment·consent와 같은 sentire(느끼다) 뿌리. '잠언을 읊으며 점잔 빼는'이 핵심(부정적).",
+  "deriv": "라틴어 sentire(느끼다·생각하다) -> 'sententious'. 한국 학습자 핵심: sentire(느끼다) 어근 — sentence·sentiment·consent·sententious! didactic(5313)·moralizing과 유사. a sententious tone(설교조의 어조). 유의어 moralizing·preachy·pompous. 반대 unpretentious·plainspoken. 심화 문체 비평.",
+  "syn": [
+   "moralizing(설교하는)",
+   "preachy(설교조의)",
+   "pompous(점잔 빼는)"
+  ],
+  "anti": [
+   "unpretentious(잘난 체 않는)",
+   "plainspoken(솔직한)",
+   "modest(겸손한)"
+  ],
+  "idiom": [
+   "a sententious tone(설교조의 어조)"
+  ],
+  "colloc": [
+   "sententious tone(설교조의 어조)",
+   "sententious remarks(교훈조의 말)",
+   "sententious style(점잔 빼는 문체)"
+  ],
+  "ex_add": "His sententious moralizing bored the audience.  (sententious=교훈을 늘어놓는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5642",
+  "hw": "simulacrum",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "닮게(similis) 만든 것 -> '모상·가짜 모조품'.",
+  "senses": [
+   "1) (실물을 본뜬) 모상, 형상",
+   "2) (실속 없는) 겉모습뿐인 모조품, 허상"
+  ],
+  "etym": "라틴어 simulacrum(닮은 모양·환영, simulare 흉내 내다, similis 비슷한) -> 'simulacrum'. similar·simulate·dissemble(5319)과 같은 similis(비슷한) 뿌리. '실물을 흉내 낸 허울뿐인 것'이 핵심. 복수 simulacra.",
+  "deriv": "라틴어 similis(비슷한) -> 'simulacrum'. 한국 학습자 핵심: similis(비슷한) 어근 — similar·simulate·assemble·dissemble(5319)·simulacrum! 복수 simulacra. a simulacrum of democracy(민주주의의 허상). 유의어 imitation·semblance·facsimile. 반대 original·reality·genuine article. 심화 철학·비평.",
+  "syn": [
+   "imitation(모조)",
+   "semblance(외관)",
+   "facsimile(복제)"
+  ],
+  "anti": [
+   "original(원본)",
+   "reality(실체)",
+   "genuine article(진품)"
+  ],
+  "idiom": [
+   "a simulacrum of(~의 허상)"
+  ],
+  "colloc": [
+   "simulacrum of democracy(민주주의의 허상)",
+   "mere simulacrum(한낱 모조품)",
+   "hollow simulacrum(공허한 허상)"
+  ],
+  "ex_add": "The town was a mere simulacrum of its former self.  (simulacrum=허상)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5643",
+  "hw": "sinecure",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "돌봄(cura)이 없는(sine) 자리 -> '한직·이름뿐인 자리'.",
+  "senses": [
+   "1) (일은 거의 없이 보수만 받는) 한직, 명목상의 직책"
+  ],
+  "etym": "라틴어 sine cura('돌봄 없이', sine 없이 + cura 돌봄·직무) -> 원래 '영혼 돌봄 의무 없는 성직'에서 -> 'sinecure'. cure·curate·secure와 같은 cura(돌봄) 뿌리. '책임 없이 보수만 받는 자리'가 핵심.",
+  "deriv": "sine(없이) + cura(돌봄) -> 'sinecure'. 한국 학습자 핵심: cura(돌봄) 어근 — cure·curate·secure·sinecure! a comfortable sinecure(편한 한직)·political sinecure. 유의어 cushy job·easy post. 반대 demanding job·hard labor. 심화 시사.",
+  "syn": [
+   "cushy job(편한 일자리)",
+   "easy post(한직)",
+   "soft job(편한 자리)"
+  ],
+  "anti": [
+   "demanding job(고된 일)",
+   "hard labor(중노동)",
+   "onerous post(부담스러운 자리)"
+  ],
+  "idiom": [
+   "a comfortable sinecure(편한 한직)"
+  ],
+  "colloc": [
+   "comfortable sinecure(편한 한직)",
+   "political sinecure(정치적 한직)",
+   "cushy sinecure(편한 자리)"
+  ],
+  "ex_add": "The post was a sinecure with a generous salary.  (sinecure=한직)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5644",
+  "hw": "solipsism",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "오직(solus) 나(ipse)만 있다는 주의 -> '유아론·자기중심주의'.",
+  "senses": [
+   "1) (철학) 유아론(자아만이 존재한다는 견해)",
+   "2) 극단적 자기중심주의"
+  ],
+  "etym": "라틴어 solus(혼자) + ipse(자기 자신) + -ism -> 'solipsism'. sole·solitary·desolate와 같은 solus(혼자) 뿌리. '오직 나의 의식만 확실히 존재한다는 사고'가 핵심.",
+  "deriv": "solus(혼자) + ipse(자신) -> 'solipsism'. 한국 학습자 핵심: solus(혼자) 어근 — sole·solitary·desolate·solipsism! 형용사 solipsistic. philosophical solipsism(철학적 유아론)·moral solipsism. 유의어 egocentrism·self-absorption. 반대 altruism·empathy. 심화 철학.",
+  "syn": [
+   "egocentrism(자기중심주의)",
+   "self-absorption(자기 몰입)",
+   "navel-gazing(자기 성찰 과잉)"
+  ],
+  "anti": [
+   "altruism(이타주의)",
+   "empathy(공감)",
+   "selflessness(무사)"
+  ],
+  "idiom": [
+   "philosophical solipsism(철학적 유아론)"
+  ],
+  "colloc": [
+   "philosophical solipsism(철학적 유아론)",
+   "moral solipsism(도덕적 유아론)",
+   "sink into solipsism(유아론에 빠지다)"
+  ],
+  "ex_add": "His art reflects a kind of cultural solipsism.  (solipsism=유아론)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5645",
+  "hw": "sophistry",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "궤변가(sophistes)의 논법 -> '궤변·억지 논리'.",
+  "senses": [
+   "1) (그럴듯하나 거짓된) 궤변, 견강부회"
+  ],
+  "etym": "그리스어 sophistes(지자·궤변가, sophos 현명한)에서 -> 고대 소피스트의 교묘한 논변에서 '궤변'으로 -> 'sophistry'. philosophy(지혜 사랑)와 같은 sophos(지혜) 뿌리. '말장난으로 그럴싸하게 속이는 논리'가 핵심.",
+  "deriv": "그리스 sophos(현명한) -> 'sophistry'. 한국 학습자 핵심: philosophy·sophisticated와 한 뿌리(sophos 지혜)! casuistry(5569)와 동의어. clever sophistry(교묘한 궤변)·mere sophistry. 유의어 casuistry·fallacy·specious reasoning. 반대 sound logic·valid argument. 심화 논증.",
+  "syn": [
+   "casuistry(궤변)",
+   "fallacy(오류 논법)",
+   "quibbling(억지)"
+  ],
+  "anti": [
+   "sound logic(건전한 논리)",
+   "valid argument(타당한 논거)",
+   "truth(진실)"
+  ],
+  "idiom": [
+   "clever sophistry(교묘한 궤변)"
+  ],
+  "colloc": [
+   "clever sophistry(교묘한 궤변)",
+   "mere sophistry(한낱 궤변)",
+   "expose the sophistry(궤변을 폭로하다)"
+  ],
+  "ex_add": "His argument was clever sophistry, nothing more.  (sophistry=궤변)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5646",
+  "hw": "splenetic",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "비장(splen)에서 나온 -> '성마른·짜증 가득한'.",
+  "senses": [
+   "1) (걸핏하면) 짜증 내는, 성마른, 심술궂은"
+  ],
+  "etym": "그리스어 splen(비장)에서 -> 옛 의학에서 비장(spleen)을 '울화·짜증의 자리'로 본 데서 -> 'splenetic'. spleen(비장·울화)과 같은 뿌리. '비장에서 울화가 끓어 짜증 내는'이 핵심.",
+  "deriv": "그리스 splen(비장) -> 'splenetic'. 한국 학습자 핵심: spleen(비장)은 옛 의학에서 '울화의 자리'! vent one's spleen(울분을 터뜨리다)과 연결. a splenetic outburst(짜증 섞인 폭발). irascible(5389)·bilious(5565)와 유사. 유의어 irritable·peevish·irascible. 반대 placid·good-natured·serene. 심화 인물 묘사.",
+  "syn": [
+   "irritable(짜증 내는)",
+   "peevish(까칠한)",
+   "irascible(성마른)"
+  ],
+  "anti": [
+   "placid(차분한)",
+   "good-natured(성격 좋은)",
+   "serene(평온한)"
+  ],
+  "idiom": [
+   "a splenetic outburst(짜증 섞인 폭발)"
+  ],
+  "colloc": [
+   "splenetic outburst(짜증 섞인 폭발)",
+   "splenetic temper(성마른 기질)",
+   "splenetic remarks(심술궂은 말)"
+  ],
+  "ex_add": "He fired off a splenetic letter to the editor.  (splenetic=성마른)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5647",
+  "hw": "stentorian",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "스텐토르(Stentor)의 목소리 같은 -> '우렁찬·쩌렁쩌렁한'.",
+  "senses": [
+   "1) (목소리가) 우렁찬, 쩌렁쩌렁한, 매우 큰"
+  ],
+  "etym": "호메로스 '일리아스'에서 50명 몫의 목청을 가졌다는 전령 Stentor의 이름에서 -> 'stentorian'. '스텐토르처럼 어마어마하게 큰 목소리의'가 핵심.",
+  "deriv": "그리스 전령 Stentor -> 'stentorian'. 한국 학습자 핵심: 신화 인물(목청 큰 전령) 이름에서! a stentorian voice(우렁찬 목소리)·stentorian tones. 유의어 booming·thunderous·resonant. 반대 soft·hushed·faint. 심화 묘사.",
+  "syn": [
+   "booming(쩌렁쩌렁한)",
+   "thunderous(우레 같은)",
+   "resonant(울려 퍼지는)"
+  ],
+  "anti": [
+   "soft(부드러운)",
+   "hushed(낮춘)",
+   "faint(희미한)"
+  ],
+  "idiom": [
+   "a stentorian voice(우렁찬 목소리)"
+  ],
+  "colloc": [
+   "stentorian voice(우렁찬 목소리)",
+   "stentorian tones(쩌렁쩌렁한 음성)",
+   "stentorian command(우렁찬 호령)"
+  ],
+  "ex_add": "The sergeant barked orders in a stentorian voice.  (stentorian=우렁찬)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5648",
+  "hw": "sumptuous",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "비용(sumptus)을 많이 들인 -> '호화로운·값비싼'.",
+  "senses": [
+   "1) (값비싸고) 호화로운, 사치스러운, 성대한"
+  ],
+  "etym": "라틴어 sumptuosus(비용이 많이 드는, sumptus 비용, sumere 쓰다·취하다) -> 'sumptuous'. consume·assume·unassuming(5236)과 같은 sumere(취하다) 뿌리. '돈을 아낌없이 들여 화려한'이 핵심.",
+  "deriv": "라틴어 sumere(취하다·쓰다) -> 'sumptuous'. 한국 학습자 핵심: sumere(취하다) 어근 — consume·assume·presume·unassuming(5236)·sumptuous! a sumptuous feast(성대한 잔치)·sumptuous decor. opulent(5143)·lavish(5118)와 유사. 유의어 lavish·opulent·luxurious. 반대 austere·spartan·frugal. 심화 묘사.",
+  "syn": [
+   "lavish(호화로운)",
+   "opulent(사치스러운)",
+   "luxurious(고급스러운)"
+  ],
+  "anti": [
+   "austere(검소한)",
+   "spartan(간소한)",
+   "frugal(절약하는)"
+  ],
+  "idiom": [
+   "a sumptuous feast(성대한 잔치)"
+  ],
+  "colloc": [
+   "sumptuous feast(성대한 잔치)",
+   "sumptuous decor(호화로운 장식)",
+   "sumptuous banquet(성대한 연회)"
+  ],
+  "ex_add": "They were served a sumptuous five-course meal.  (sumptuous=호화로운)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5649",
+  "hw": "sundry",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "따로따로(sundor) 떨어진 -> '잡다한·갖가지의'.",
+  "senses": [
+   "1) (이것저것) 갖가지의, 잡다한, 여러 가지의"
+  ],
+  "etym": "고대 영어 syndrig(별개의, sundor 따로) -> 'sundry'. sunder(가르다)·asunder와 같은 뿌리. '따로따로인 여러 가지의'가 핵심. 'all and sundry(누구나 다)' 관용구로 유명.",
+  "deriv": "고대 영어 sundor(따로) -> 'sundry'. 한국 학습자 핵심: sunder(가르다)·asunder(산산이)와 한 뿌리! 'all and sundry(너 나 할 것 없이 모두)'·sundry items(잡다한 물품). 명사 sundries(잡화). 유의어 various·miscellaneous·assorted. 반대 uniform·identical·singular. 심화 격식.",
+  "syn": [
+   "various(여러 가지의)",
+   "miscellaneous(잡다한)",
+   "assorted(갖가지의)"
+  ],
+  "anti": [
+   "uniform(획일적인)",
+   "identical(동일한)",
+   "singular(단일한)"
+  ],
+  "idiom": [
+   "all and sundry(너 나 할 것 없이 모두)"
+  ],
+  "colloc": [
+   "sundry items(잡다한 물품)",
+   "all and sundry(모두 다)",
+   "various and sundry(갖가지의)"
+  ],
+  "ex_add": "The drawer was full of sundry odds and ends.  (sundry=잡다한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5650",
+  "hw": "supine",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "등을 대고 누운 -> '반듯이 누운 / (비유) 무기력한·굴종적인'.",
+  "senses": [
+   "1) (얼굴을 위로) 반듯이 누운, 똑바로 누운",
+   "2) (비유) 무기력한, 굴종적인, 수수방관하는"
+  ],
+  "etym": "라틴어 supinus(뒤로 젖혀진·누운) -> 'supine'. '등을 대고 벌렁 누운 -> 손 놓고 무기력한'으로 확장. prone(엎드린)의 반대. '벌렁 누워 아무것도 안 하는'이 핵심.",
+  "deriv": "라틴어 supinus(누운) -> 'supine'. 한국 학습자 핵심: prone(엎드린) ↔ supine(반듯이 누운) 짝! 비유 빈출: supine acceptance(무기력한 수용)·supine attitude. 유의어 passive·lethargic·acquiescent. 반대 prone(엎드린); active·resistant. 심화 의학·논평.",
+  "syn": [
+   "passive(수동적인)",
+   "lethargic(무기력한)",
+   "acquiescent(순순히 따르는)"
+  ],
+  "anti": [
+   "prone(엎드린)",
+   "active(능동적인)",
+   "resistant(저항하는)"
+  ],
+  "idiom": [
+   "supine acceptance(무기력한 수용)"
+  ],
+  "colloc": [
+   "supine position(반듯이 누운 자세)",
+   "supine acceptance(무기력한 수용)",
+   "lie supine(반듯이 눕다)"
+  ],
+  "ex_add": "The press was criticized for its supine acceptance of the official line.  (supine=무기력한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5651",
+  "hw": "tautology",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "같은(tauto) 말(logos) -> '동어 반복'.",
+  "senses": [
+   "1) (같은 뜻을 쓸데없이 되풀이하는) 동어 반복, 중언부언"
+  ],
+  "etym": "그리스어 tautologia(같은 말 반복, tauto 같은 + logos 말)에서 -> 'tautology'. logos(말)는 logic·dialogue·-logy의 뿌리. '같은 뜻을 군더더기로 되풀이함'이 핵심.",
+  "deriv": "tauto(같은) + logos(말) -> 'tautology'. 한국 학습자 핵심: logos(말) 거대 어근 — logic·dialogue·-logy·tautology! 형용사 tautological. 'a free gift', 'a new innovation' 같은 게 tautology. 유의어 redundancy·repetition·pleonasm. 반대 conciseness·economy. 심화 언어·논리.",
+  "syn": [
+   "redundancy(중복)",
+   "repetition(반복)",
+   "pleonasm(중복 표현)"
+  ],
+  "anti": [
+   "conciseness(간결)",
+   "economy(절약)",
+   "brevity(간략)"
+  ],
+  "idiom": [
+   "a needless tautology(불필요한 동어 반복)"
+  ],
+  "colloc": [
+   "needless tautology(불필요한 동어 반복)",
+   "mere tautology(한낱 동어 반복)",
+   "avoid tautology(중언부언을 피하다)"
+  ],
+  "ex_add": "\"A free gift\" is a common tautology.  (tautology=동어 반복)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5652",
+  "hw": "tendentious",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "의도(tendency)가 깔린 -> '(특정 견해로) 편향된·편파적인'.",
+  "senses": [
+   "1) (특정 입장을 밀어붙이는) 편향된, 편파적인, 의도가 깔린"
+  ],
+  "etym": "독일어 tendenziös(경향적인, 라틴 tendere 뻗다·향하다)에서 -> 'tendentious'. ostensible(5145)·tension·contentious(5299)와 같은 tendere(뻗다) 뿌리. '특정 결론으로 몰아가려는 의도가 깔린'이 핵심.",
+  "deriv": "라틴어 tendere(뻗다·향하다) -> 'tendentious'. 한국 학습자 핵심: tendere(뻗다) 거대 어근 — tend·tension·contentious(5299)·tendentious! a tendentious account(편향된 서술)·tendentious interpretation. 유의어 biased·partisan·slanted. 반대 impartial·objective·balanced. 심화 논설.",
+  "syn": [
+   "biased(편향된)",
+   "partisan(편파적인)",
+   "slanted(편중된)"
+  ],
+  "anti": [
+   "impartial(공정한)",
+   "objective(객관적인)",
+   "balanced(균형 잡힌)"
+  ],
+  "idiom": [
+   "a tendentious account(편향된 서술)"
+  ],
+  "colloc": [
+   "tendentious account(편향된 서술)",
+   "tendentious interpretation(편파적 해석)",
+   "highly tendentious(매우 편향된)"
+  ],
+  "ex_add": "The documentary was criticized as tendentious.  (tendentious=편향된)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5653",
+  "hw": "timbre",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "북(tympanon)의 음색 -> '음색·음질'.",
+  "senses": [
+   "1) (소리·목소리의) 음색, 음질, 특유의 울림"
+  ],
+  "etym": "프랑스어 timbre(북·종소리, 그리스 tympanon 북)에서 -> 'timbre'. timpani(팀파니)·tympanum과 같은 뿌리. 발음 주의(/ˈtæmbər/ 또는 /ˈtɪmbər/). '같은 음높이라도 악기·목소리마다 다른 고유의 울림'이 핵심.",
+  "deriv": "그리스 tympanon(북) -> 'timbre'. 한국 학습자 핵심: timpani(팀파니)와 한 뿌리! 발음 /ˈtæmbər/. the rich timbre of her voice(그녀 목소리의 풍부한 음색)·warm timbre. 유의어 tone color·tone quality·resonance. 심화 음악.",
+  "syn": [
+   "tone color(음색)",
+   "tone quality(음질)",
+   "resonance(울림)"
+  ],
+  "anti": [
+   "(음높이)pitch",
+   "(세기)volume",
+   "monotone(단조로움)"
+  ],
+  "idiom": [
+   "the timbre of one's voice(~의 목소리 음색)"
+  ],
+  "colloc": [
+   "rich timbre(풍부한 음색)",
+   "warm timbre(따뜻한 음색)",
+   "distinctive timbre(독특한 음색)"
+  ],
+  "ex_add": "The cello has a deep, warm timbre.  (timbre=음색)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5654",
+  "hw": "trammel",
+  "pos": "n., v.",
+  "cefr": "심화",
+  "core": "세 겹(tri) 그물(macula) -> '구속·속박 / 구속하다'.",
+  "senses": [
+   "1) (n.) 속박, 구속, 방해물 (보통 복수)",
+   "2) (v.) 구속하다, 옭아매다"
+  ],
+  "etym": "후기 라틴어 tramacula(고기 잡는 그물, tri-(세 겹) + macula 그물코) -> 'trammel'. immaculate(5368)와 같은 macula(그물코·얼룩) 뿌리. '그물에 걸려 옴짝달싹 못 하게 함'이 핵심.",
+  "deriv": "tri-(세 겹) + macula(그물코) -> 'trammel'. 한국 학습자 핵심: macula(그물코·얼룩) 어근 — immaculate(5368)·trammel! 보통 복수 — the trammels of convention(인습의 속박). 'untrammeled(구속받지 않는)'가 더 빈출. 유의어 restraint·constraint·shackle. 반대 freedom·liberty·release. 심화 문어.",
+  "syn": [
+   "restraint(속박)",
+   "constraint(제약)",
+   "shackle(족쇄)"
+  ],
+  "anti": [
+   "freedom(자유)",
+   "liberty(해방)",
+   "release(풀어 줌)"
+  ],
+  "idiom": [
+   "the trammels of(~의 속박)"
+  ],
+  "colloc": [
+   "trammels of convention(인습의 속박)",
+   "free from trammels(속박에서 벗어난)",
+   "untrammeled by(~에 구애받지 않는)"
+  ],
+  "ex_add": "She longed to escape the trammels of routine.  (trammel=속박)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5655",
+  "hw": "tutelage",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "보호(tueri)·지도 -> '지도·후견·보호'.",
+  "senses": [
+   "1) (스승의) 지도, 가르침",
+   "2) 보호, 후견, 감독"
+  ],
+  "etym": "라틴어 tutela(보호, tueri 지키다·돌보다) -> 'tutelage'. tutor(가정교사)·tuition·intuition과 같은 tueri(지키다) 뿌리. '돌보며 가르치는 후견·지도'가 핵심.",
+  "deriv": "라틴어 tueri(지키다·돌보다) -> 'tutelage'. 한국 학습자 핵심: tueri(지키다) 어근 — tutor·tuition·intuition·tutelage! 'under the tutelage of': under his tutelage(그의 지도 아래). 유의어 guidance·instruction·mentorship. 반대 neglect·independence. 심화 격식.",
+  "syn": [
+   "guidance(지도)",
+   "instruction(가르침)",
+   "mentorship(멘토링)"
+  ],
+  "anti": [
+   "neglect(방치)",
+   "independence(자립)",
+   "abandonment(방기)"
+  ],
+  "idiom": [
+   "under the tutelage of(~의 지도 아래)"
+  ],
+  "colloc": [
+   "under his tutelage(그의 지도 아래)",
+   "careful tutelage(세심한 지도)",
+   "artistic tutelage(예술적 지도)"
+  ],
+  "ex_add": "She flourished under the tutelage of a great master.  (tutelage=지도)",
+  "ex_orig": "",
+  "ex_src": ""
  }
 ]
