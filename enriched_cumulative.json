@@ -196608,5 +196608,1679 @@
   "ex_add": "He had to grovel for his job back.  (grovel=굽실거리다)",
   "ex_orig": "",
   "ex_src": ""
+ },
+ {
+  "num": "5806",
+  "hw": "mete",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "재서(metan) 나누어 주다 -> '(벌·보상을) 할당하다·내리다'.",
+  "senses": [
+   "1) (벌·상을) 할당하다, 부과하다, 내리다 (주로 mete out)"
+  ],
+  "etym": "고대 영어 metan(재다·할당하다)에서 -> 'mete'. measure·meter와 같은 '재다' 계열. '재서 몫을 나눠 내리다'가 핵심.",
+  "deriv": "고대 영어 metan(재다) -> 'mete'. 한국 학습자 핵심: 거의 'mete out(부과하다)'로만 — mete out punishment(벌을 내리다)·mete out justice! measure와 어원 인접. 유의어 dispense·administer·allot. 반대 withhold·pardon·exempt. 심화 법·격식.",
+  "syn": [
+   "dispense(내리다)",
+   "administer(부과하다)",
+   "allot(할당하다)"
+  ],
+  "anti": [
+   "withhold(보류하다)",
+   "pardon(사면하다)",
+   "exempt(면제하다)"
+  ],
+  "idiom": [
+   "mete out punishment(벌을 내리다)"
+  ],
+  "colloc": [
+   "mete out punishment(벌을 내리다)",
+   "mete out justice(정의를 실현하다)",
+   "mete out penalties(벌칙을 부과하다)"
+  ],
+  "ex_add": "The court meted out harsh sentences.  (mete=할당하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5807",
+  "hw": "mirth",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "즐거움(myrgth) -> '유쾌함·웃음'.",
+  "senses": [
+   "1) (왁자한) 즐거움, 흥겨움, 웃음"
+  ],
+  "etym": "고대 영어 myrgth(기쁨, merry 즐거운에서)에서 -> 'mirth'. merry와 같은 뿌리. '깔깔대는 흥겨운 즐거움'이 핵심.",
+  "deriv": "고대 영어 merry(즐거운) -> 'mirth'. 한국 학습자 핵심: merry(즐거운)와 한 뿌리! 형용사 mirthful(즐거운)·mirthless(웃음기 없는). a source of mirth(웃음거리)·much mirth. 유의어 merriment·hilarity·glee. 반대 gloom·sorrow·solemnity. 심화 문학.",
+  "syn": [
+   "merriment(흥겨움)",
+   "hilarity(왁자한 웃음)",
+   "glee(환희)"
+  ],
+  "anti": [
+   "gloom(우울)",
+   "sorrow(슬픔)",
+   "solemnity(엄숙)"
+  ],
+  "idiom": [
+   "a source of mirth(웃음거리)"
+  ],
+  "colloc": [
+   "source of mirth(웃음거리)",
+   "much mirth(큰 웃음)",
+   "mirth and laughter(흥겨움과 웃음)"
+  ],
+  "ex_add": "His joke was met with general mirth.  (mirth=유쾌함)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5808",
+  "hw": "moot",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "토론(gemot)거리인 -> '논쟁의 여지가 있는·무의미해진'.",
+  "senses": [
+   "1) (논쟁의 여지가 있어) 결론 없는, 논의해 봐야 소용없는",
+   "2) (결정이 이미 나) 무의미한, 가설적인"
+  ],
+  "etym": "고대 영어 gemot(집회·토론)에서 -> 법학 'moot court(모의 법정)'에서 '토론용 가상 문제'로 -> 'moot'. '토론은 되나 실익이 없는'이 핵심.",
+  "deriv": "고대 영어 gemot(집회) -> 'moot'. 한국 학습자 핵심: 'a moot point(논쟁의 여지가 있는·무의미한 점)'·'become moot(무의미해지다)'! moot court(모의 법정). 유의어 debatable·academic·irrelevant. 반대 settled·decided·relevant. 심화 법·논의.",
+  "syn": [
+   "debatable(논쟁의 여지가 있는)",
+   "academic(탁상공론의)",
+   "hypothetical(가설적인)"
+  ],
+  "anti": [
+   "settled(결론 난)",
+   "decided(확정된)",
+   "relevant(유의미한)"
+  ],
+  "idiom": [
+   "a moot point(논쟁의 여지가 있는 점)"
+  ],
+  "colloc": [
+   "moot point(논쟁거리)",
+   "become moot(무의미해지다)",
+   "moot question(결론 없는 문제)"
+  ],
+  "ex_add": "Whether he would have won is now a moot point.  (moot=무의미해진)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5809",
+  "hw": "mordant",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "물어뜯는(mordere) -> '신랄한·통렬한'.",
+  "senses": [
+   "1) (말·풍자가) 신랄한, 통렬한, 가시 돋친"
+  ],
+  "etym": "라틴어 mordens(무는, mordere 물다)의 현재분사 -> 프랑스 mordant -> 'mordant'. remorse(5195)·morsel과 같은 mordere(물다) 뿌리. '깨물듯 날카롭게 찌르는'이 핵심.",
+  "deriv": "라틴어 mordere(물다) -> 'mordant'. 한국 학습자 핵심: mordere(물다) 어근 — remorse(5195)·morsel·mordant! mordant wit(신랄한 재치)·mordant humor. acerbic(5259)·caustic와 유사. 유의어 caustic·acerbic·trenchant(5498). 반대 gentle·bland·kindly. 심화 문체.",
+  "syn": [
+   "caustic(신랄한)",
+   "acerbic(매서운)",
+   "trenchant(통렬한)"
+  ],
+  "anti": [
+   "gentle(부드러운)",
+   "bland(밋밋한)",
+   "kindly(다정한)"
+  ],
+  "idiom": [
+   "mordant wit(신랄한 재치)"
+  ],
+  "colloc": [
+   "mordant wit(신랄한 재치)",
+   "mordant humor(통렬한 유머)",
+   "mordant satire(신랄한 풍자)"
+  ],
+  "ex_add": "The columnist is known for her mordant wit.  (mordant=신랄한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5810",
+  "hw": "multifarious",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "많은(multi) 종류의 -> '다방면의·가지각색의'.",
+  "senses": [
+   "1) (종류·범위가) 다방면의, 가지각색의, 다종다양한"
+  ],
+  "etym": "라틴어 multifarius(여러 방면의, multi-(많은) + -farius 방면) -> 'multifarious'. multiple·multitude와 같은 multi(많은) 뿌리. '여러 갈래로 다양한'이 핵심.",
+  "deriv": "multi-(많은) + -farius(방면) -> 'multifarious'. 한국 학습자 핵심: multi-(많은) 어근 — multiple·multitude·multifarious! multifarious duties(다방면의 임무)·multifarious interests. 유의어 diverse·manifold·varied. 반대 uniform·homogeneous·singular. 심화 격식.",
+  "syn": [
+   "diverse(다양한)",
+   "manifold(다방면의)",
+   "varied(가지각색의)"
+  ],
+  "anti": [
+   "uniform(획일적인)",
+   "homogeneous(동질의)",
+   "singular(단일한)"
+  ],
+  "idiom": [
+   "multifarious duties(다방면의 임무)"
+  ],
+  "colloc": [
+   "multifarious duties(다방면의 임무)",
+   "multifarious interests(다양한 관심사)",
+   "multifarious activities(가지각색의 활동)"
+  ],
+  "ex_add": "She juggled her multifarious responsibilities with ease.  (multifarious=다방면의)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5811",
+  "hw": "nettle",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "쐐기풀(nettle)로 쏘다 -> '짜증나게 하다·자극하다'.",
+  "senses": [
+   "1) (가시처럼) 짜증나게 하다, 약 올리다, 신경을 건드리다"
+  ],
+  "etym": "고대 영어 netele(쐐기풀)에서 -> 쐐기풀에 쏘이면 따끔하듯 '신경을 건드리다' -> 'nettle'. '쐐기풀처럼 콕콕 찔러 짜증나게 하다'가 핵심.",
+  "deriv": "고대 영어 netele(쐐기풀) -> 'nettle'. 한국 학습자 핵심: 쐐기풀(따끔거림)에서 비유! 'grasp the nettle(난제에 정면으로 맞서다)' 관용구도. be nettled by(~에 짜증 나다). 유의어 irritate·annoy·provoke. 반대 soothe·calm·please. 심화 묘사.",
+  "syn": [
+   "irritate(짜증나게 하다)",
+   "annoy(약 올리다)",
+   "provoke(자극하다)"
+  ],
+  "anti": [
+   "soothe(달래다)",
+   "calm(진정시키다)",
+   "please(기쁘게 하다)"
+  ],
+  "idiom": [
+   "grasp the nettle(난제에 맞서다)"
+  ],
+  "colloc": [
+   "nettled by(~에 짜증 난)",
+   "clearly nettled(분명히 약 오른)",
+   "nettle someone(~을 신경 건드리다)"
+  ],
+  "ex_add": "He was clearly nettled by the criticism.  (nettle=짜증나게 하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5812",
+  "hw": "noisome",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "해(annoy)로운 -> '악취 나는·아주 불쾌한'.",
+  "senses": [
+   "1) (냄새가) 지독한, 악취 나는",
+   "2) 아주 불쾌한, 해로운"
+  ],
+  "etym": "중세 영어 noy(해악, annoy의 축약) + -some -> 'noisome'. (noise 소음과 무관!) annoy와 같은 뿌리. '코를 찌르는 악취처럼 불쾌한'이 핵심.",
+  "deriv": "noy(해악, annoy) + -some -> 'noisome'. 한국 학습자 핵심: 혼동 절대 주의! noisome(악취 나는)은 noise(소음)와 무관, annoy(괴롭히다)에서! a noisome smell(지독한 악취)·noisome fumes. 유의어 foul·malodorous·noxious(5417). 반대 fragrant·pleasant·wholesome. 심화 묘사.",
+  "syn": [
+   "foul(악취 나는)",
+   "malodorous(고약한 냄새의)",
+   "noxious(유해한)"
+  ],
+  "anti": [
+   "fragrant(향기로운)",
+   "pleasant(쾌적한)",
+   "wholesome(건전한)"
+  ],
+  "idiom": [
+   "a noisome smell(지독한 악취)"
+  ],
+  "colloc": [
+   "noisome smell(지독한 악취)",
+   "noisome fumes(악취 나는 연기)",
+   "noisome odor(고약한 냄새)"
+  ],
+  "ex_add": "A noisome stench rose from the swamp.  (noisome=악취 나는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5813",
+  "hw": "obdurate",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "맞서(ob) 굳어진(durus) -> '완강한·고집불통의'.",
+  "senses": [
+   "1) (설득에) 꿈쩍 않는, 완강한, 고집불통의"
+  ],
+  "etym": "라틴어 obduratus(굳어진, obdurare 굳히다, ob-(맞서) + durus 단단한)의 과거분사 -> 'obdurate'. durable·endure·duress와 같은 durus(단단한) 뿌리. '돌처럼 굳어 꿈쩍 않는'이 핵심.",
+  "deriv": "ob-(맞서) + durus(단단한) -> 'obdurate'. 한국 학습자 핵심: durus(단단한) 어근 — durable·endure·duress·obdurate! obstinate(5138)·intransigent(5108)와 유사. remain obdurate(완강한 태도를 고수하다). 유의어 obstinate·intransigent·unyielding. 반대 yielding·flexible·amenable(5268). 심화 인물 묘사.",
+  "syn": [
+   "obstinate(완고한)",
+   "intransigent(비타협적인)",
+   "unyielding(굽히지 않는)"
+  ],
+  "anti": [
+   "yielding(양보하는)",
+   "flexible(융통성 있는)",
+   "amenable(순응하는)"
+  ],
+  "idiom": [
+   "remain obdurate(완강한 태도를 고수하다)"
+  ],
+  "colloc": [
+   "remain obdurate(완강하다)",
+   "obdurate refusal(완강한 거부)",
+   "obdurate stance(고집불통의 입장)"
+  ],
+  "ex_add": "Despite our pleas, he remained obdurate.  (obdurate=완강한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5814",
+  "hw": "obtrude",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "맞서(ob) 밀고(trudere) 나오다 -> '주제넘게 내밀다·끼어들다'.",
+  "senses": [
+   "1) (원치 않는데) 불쑥 내밀다, 강요하다, 주제넘게 끼어들다"
+  ],
+  "etym": "라틴어 obtrudere(밀어붙이다, ob-(향해) + trudere 밀다) -> 'obtrude'. obtrusive(5421)·abstruse(5257)·intrude와 같은 trudere(밀다) 뿌리. '청하지 않은 것을 불쑥 들이밀다'가 핵심.",
+  "deriv": "ob-(향해) + trudere(밀다) -> 'obtrude'. 한국 학습자 핵심: trudere(밀다) 어근 — intrude·protrude·obtrusive(5421)·abstruse(5257)·obtrude! 'obtrude on/upon': obtrude on privacy(사생활에 끼어들다). 유의어 intrude·impose·force. 반대 withdraw·retreat·defer. 심화 격식.",
+  "syn": [
+   "intrude(침입하다)",
+   "impose(강요하다)",
+   "force(억지로 들이밀다)"
+  ],
+  "anti": [
+   "withdraw(물러나다)",
+   "retreat(빼다)",
+   "defer(양보하다)"
+  ],
+  "idiom": [
+   "obtrude on(~에 주제넘게 끼어들다)"
+  ],
+  "colloc": [
+   "obtrude on privacy(사생활에 끼어들다)",
+   "obtrude one's views(견해를 강요하다)",
+   "obtrude upon(~에 불쑥 끼어들다)"
+  ],
+  "ex_add": "He never obtrudes his opinions on others.  (obtrude=주제넘게 내밀다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5815",
+  "hw": "officiate",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "직무(officium)를 수행하다 -> '(의식을) 주관하다·심판을 보다'.",
+  "senses": [
+   "1) (예식·행사를) 주관하다, 집전하다",
+   "2) (경기의) 심판을 보다"
+  ],
+  "etym": "중세 라틴어 officiare(직무를 행하다, officium 직무) -> 'officiate'. office·official·officious(5423)와 같은 officium(직무) 뿌리. '공식 직무로 식을 주관하다'가 핵심.",
+  "deriv": "라틴어 officium(직무) -> 'officiate'. 한국 학습자 핵심: officium(직무) 어근 — office·official·officious(5423)·officiate! officiate at a wedding(결혼식을 주례하다)·officiate the match(경기를 주재하다). 유의어 preside·conduct·umpire. 반대 attend·participate·spectate. 심화 격식.",
+  "syn": [
+   "preside(주재하다)",
+   "conduct(집전하다)",
+   "umpire(심판을 보다)"
+  ],
+  "anti": [
+   "attend(참석하다)",
+   "participate(참가하다)",
+   "spectate(관전하다)"
+  ],
+  "idiom": [
+   "officiate at a wedding(결혼식을 주례하다)"
+  ],
+  "colloc": [
+   "officiate at a wedding(결혼식을 주례하다)",
+   "officiate the match(경기를 주재하다)",
+   "officiate the ceremony(의식을 집전하다)"
+  ],
+  "ex_add": "A retired judge officiated at the ceremony.  (officiate=주관하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5816",
+  "hw": "opine",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "의견(opinari)을 내다 -> '의견을 말하다·견해를 밝히다'.",
+  "senses": [
+   "1) (자기) 의견을 말하다, 견해를 피력하다 (다소 격식·반어)"
+  ],
+  "etym": "라틴어 opinari(생각하다·의견을 갖다)에서 -> 'opine'. opinion과 같은 뿌리. '제 의견을 입 밖에 내다'가 핵심. 종종 약간 거들먹대는 뉘앙스.",
+  "deriv": "라틴어 opinari(의견을 갖다) -> 'opine'. 한국 학습자 핵심: opinion(의견)의 동사형! 'opine that': he opined that...(그는 ~라고 견해를 밝혔다). 종종 반어·격식조. 유의어 declare·assert·remark. 반대 (침묵). 심화 격식.",
+  "syn": [
+   "declare(밝히다)",
+   "assert(주장하다)",
+   "remark(논평하다)"
+  ],
+  "anti": [
+   "withhold(말을 아끼다)",
+   "stay silent(침묵하다)",
+   "demur(이의를 표하다)"
+  ],
+  "idiom": [
+   "opine that(~라고 견해를 밝히다)"
+  ],
+  "colloc": [
+   "opine that(~라고 견해를 밝히다)",
+   "freely opine(거리낌 없이 견해를 밝히다)",
+   "opine on(~에 대해 견해를 내다)"
+  ],
+  "ex_add": "The critic opined that the film was overrated.  (opine=견해를 밝히다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5817",
+  "hw": "ossify",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "뼈(os)로 굳다(facere) -> '경직되다·골화하다'.",
+  "senses": [
+   "1) (제도·사고가) 경직되다, 굳어 버리다",
+   "2) (조직이) 뼈로 변하다, 골화하다"
+  ],
+  "etym": "라틴어 os/ossis(뼈) + facere(만들다) -> 'ossify'. ossuary·osseous와 같은 os(뼈) 뿌리. '뼈처럼 딱딱하게 굳어 버리다'가 핵심.",
+  "deriv": "os(뼈) + facere(만들다) -> 'ossify'. 한국 학습자 핵심: os(뼈) 어근 — osseous·ossuary·ossify! 비유 빈출: ossified institutions(경직된 제도)·ossified attitudes. 명사 ossification. 유의어 harden·rigidify·fossilize. 반대 adapt·evolve·loosen. 심화 사회·생물.",
+  "syn": [
+   "harden(굳다)",
+   "rigidify(경직되다)",
+   "fossilize(화석화되다)"
+  ],
+  "anti": [
+   "adapt(적응하다)",
+   "evolve(진화하다)",
+   "loosen(느슨해지다)"
+  ],
+  "idiom": [
+   "ossified institutions(경직된 제도)"
+  ],
+  "colloc": [
+   "ossified institutions(경직된 제도)",
+   "ossified attitudes(굳어 버린 태도)",
+   "ossify over time(시간이 지나며 경직되다)"
+  ],
+  "ex_add": "The party's ideology had ossified over decades.  (ossify=경직되다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5818",
+  "hw": "overweening",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "지나치게(over) 자만하는(ween) -> '거만한·과도한'.",
+  "senses": [
+   "1) (자만이) 도를 넘은, 거만한, 오만한",
+   "2) (욕망·야심이) 과도한"
+  ],
+  "etym": "영어 over-(지나치게) + ween(고대 영어 wenan 생각하다·기대하다) -> 'overweening'. '제 분수 이상으로 자신을 높이 평가하는'이 핵심.",
+  "deriv": "over-(지나치게) + ween(생각하다) -> 'overweening'. 한국 학습자 핵심: ween(옛말 '생각하다')에서 — '과대 자평'! hubris(5793)와 통함. overweening pride(과도한 자만)·overweening ambition. 유의어 arrogant·conceited·presumptuous. 반대 modest·humble·unassuming(5236). 심화 인물 비평.",
+  "syn": [
+   "arrogant(거만한)",
+   "conceited(자만하는)",
+   "presumptuous(주제넘은)"
+  ],
+  "anti": [
+   "modest(겸손한)",
+   "humble(겸허한)",
+   "unassuming(잘난 체 없는)"
+  ],
+  "idiom": [
+   "overweening pride(과도한 자만)"
+  ],
+  "colloc": [
+   "overweening pride(과도한 자만)",
+   "overweening ambition(과도한 야심)",
+   "overweening arrogance(지나친 오만)"
+  ],
+  "ex_add": "His overweening ambition led to his downfall.  (overweening=거만한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5819",
+  "hw": "panoply",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "온갖(pan) 무장(hopla) -> '화려한 한 벌·완전 무장·총망라'.",
+  "senses": [
+   "1) (인상적으로) 죽 늘어선 한 벌·총집합",
+   "2) (예식의) 성대한 차림, 완전 무장"
+  ],
+  "etym": "그리스어 panoplia(완전 무장, pan 모든 + hopla 무기)에서 -> 'panoply'. panacea(5150)·panorama와 같은 pan(모든) 뿌리. '갖출 것을 다 갖춘 화려한 한 벌'이 핵심.",
+  "deriv": "pan(모든) + hopla(무기) -> 'panoply'. 한국 학습자 핵심: pan-(모든) 어근 — panacea(5150)·panorama·panoply! 'a panoply of': a panoply of options(온갖 선택지)·full panoply(완전한 차림). 유의어 array·assortment·spectrum. 반대 paucity(5430)·dearth·handful. 심화 격식.",
+  "syn": [
+   "array(집합)",
+   "assortment(갖가지)",
+   "spectrum(전 범위)"
+  ],
+  "anti": [
+   "paucity(부족)",
+   "dearth(결핍)",
+   "handful(소수)"
+  ],
+  "idiom": [
+   "a panoply of(온갖 ~)"
+  ],
+  "colloc": [
+   "panoply of options(온갖 선택지)",
+   "full panoply(완전한 차림)",
+   "dazzling panoply(눈부신 집합)"
+  ],
+  "ex_add": "The festival offered a panoply of music and art.  (panoply=총망라)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5820",
+  "hw": "parry",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "막아(parare) 내다 -> '받아넘기다·(질문을) 피하다'.",
+  "senses": [
+   "1) (공격을) 받아넘기다, 막아 내다",
+   "2) (곤란한 질문을) 슬쩍 피하다, 받아치다"
+  ],
+  "etym": "프랑스어 parez(막아라, parer 막다, 라틴 parare 준비하다·막다)에서 -> 'parry'. prepare·repair·rampart와 같은 parare 뿌리. '날아오는 것을 슬쩍 쳐 내 막다'가 핵심.",
+  "deriv": "라틴어 parare(막다·준비하다) -> 'parry'. 한국 학습자 핵심: parare(준비·막다) 어근 — prepare·repair·rampart·parry! 펜싱·비유 둘 다 — parry a blow(일격을 막다)·parry a question(질문을 받아넘기다). deflect(5695)와 유사. 유의어 deflect·fend off·dodge. 반대 absorb·confront·answer. 심화 묘사.",
+  "syn": [
+   "deflect(받아넘기다)",
+   "fend off(막아 내다)",
+   "dodge(피하다)"
+  ],
+  "anti": [
+   "absorb(받아들이다)",
+   "confront(정면 대응하다)",
+   "answer(답하다)"
+  ],
+  "idiom": [
+   "parry a question(질문을 받아넘기다)"
+  ],
+  "colloc": [
+   "parry a blow(일격을 막다)",
+   "parry a question(질문을 받아넘기다)",
+   "deftly parry(능숙하게 받아넘기다)"
+  ],
+  "ex_add": "She deftly parried every awkward question.  (parry=받아넘기다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5821",
+  "hw": "peremptory",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "완전히(per) 없애(emere) 단정하는 -> '단호한·고압적인·확정적인'.",
+  "senses": [
+   "1) (반론을 안 받는) 단호한, 고압적인, 위압적인",
+   "2) (법) 절대적인, 확정적인"
+  ],
+  "etym": "라틴어 peremptorius(결정적인, perimere 완전히 없애다, per-(완전히) + emere 취하다·사다) -> 'peremptory'. exempt·redeem·prompt와 같은 emere(취하다) 뿌리. '반론의 여지를 없애고 명령하는'이 핵심.",
+  "deriv": "per-(완전히) + emere(취하다) -> 'peremptory'. 한국 학습자 핵심: emere(취하다) 어근 — exempt·redeem·prompt·peremptory! a peremptory tone(고압적인 어조)·peremptory command(단호한 명령). 유의어 imperious·dictatorial·categorical. 반대 tentative·deferential·conciliatory. 심화 격식.",
+  "syn": [
+   "imperious(고압적인)",
+   "dictatorial(독단적인)",
+   "categorical(단정적인)"
+  ],
+  "anti": [
+   "tentative(잠정적인)",
+   "deferential(공손한)",
+   "conciliatory(회유적인)"
+  ],
+  "idiom": [
+   "a peremptory tone(고압적인 어조)"
+  ],
+  "colloc": [
+   "peremptory tone(고압적인 어조)",
+   "peremptory command(단호한 명령)",
+   "peremptory manner(위압적인 태도)"
+  ],
+  "ex_add": "\"Sit down,\" he said in a peremptory tone.  (peremptory=고압적인)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5822",
+  "hw": "pillage",
+  "pos": "v., n.",
+  "cefr": "심화",
+  "core": "약탈(piller)하다 -> '약탈하다·노략질 / 약탈'.",
+  "senses": [
+   "1) (v.) (전쟁 중) 약탈하다, 노략질하다",
+   "2) (n.) 약탈, 노략질"
+  ],
+  "etym": "프랑스어 piller(약탈하다, 라틴 pilare 털을 뽑다·벗기다)에서 -> 'pillage'. '털 뽑듯 싹 벗겨 약탈하다'가 핵심.",
+  "deriv": "프랑스어 piller(약탈하다) -> 'pillage'. 한국 학습자 핵심: plunder·loot·ransack와 동의어! pillage the town(마을을 약탈하다)·rape and pillage. 유의어 plunder·loot·ransack. 반대 protect·defend·preserve. 심화 역사·전쟁.",
+  "syn": [
+   "plunder(약탈하다)",
+   "loot(노략질하다)",
+   "ransack(샅샅이 털다)"
+  ],
+  "anti": [
+   "protect(보호하다)",
+   "defend(방어하다)",
+   "preserve(지키다)"
+  ],
+  "idiom": [
+   "rape and pillage(약탈과 노략질)"
+  ],
+  "colloc": [
+   "pillage the town(마을을 약탈하다)",
+   "pillage and burn(약탈하고 불태우다)",
+   "widespread pillage(광범위한 약탈)"
+  ],
+  "ex_add": "Invading armies pillaged the countryside.  (pillage=약탈하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5823",
+  "hw": "plumb",
+  "pos": "v., adv.",
+  "cefr": "심화",
+  "core": "납추(plumbum)로 재다 -> '깊이를 재다·철저히 살피다 / 정확히'.",
+  "senses": [
+   "1) (v.) (깊이·속을) 재다, 깊이 헤아리다, 철저히 탐구하다",
+   "2) (adv.) 정확히, 똑바로"
+  ],
+  "etym": "라틴어 plumbum(납)에서 -> 납추(plumb line)로 수심·수직을 재던 데서 -> 'plumb'. plumber(배관공, 옛날 납관 작업)와 같은 plumbum(납) 뿌리. '납추로 깊이를 재듯 깊이 헤아리다'가 핵심.",
+  "deriv": "라틴어 plumbum(납) -> 'plumb'. 한국 학습자 핵심: plumber(배관공)와 한 뿌리(납)! 'plumb the depths of(~의 깊이를 헤아리다·바닥까지 가다)'. fathom(헤아리다)과 유사. 유의어 fathom·probe·explore. 반대 skim·gloss over. 심화 문어.",
+  "syn": [
+   "fathom(헤아리다)",
+   "probe(탐구하다)",
+   "explore(파고들다)"
+  ],
+  "anti": [
+   "skim(대충 훑다)",
+   "gloss over(얼버무리다)",
+   "scratch the surface(겉만 건드리다)"
+  ],
+  "idiom": [
+   "plumb the depths of(~의 깊이를 헤아리다)"
+  ],
+  "colloc": [
+   "plumb the depths(깊이를 헤아리다)",
+   "plumb the mystery(수수께끼를 파헤치다)",
+   "plumb new depths(바닥을 새로 찍다)"
+  ],
+  "ex_add": "The novel plumbs the depths of human despair.  (plumb=깊이 헤아리다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5824",
+  "hw": "portentous",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "전조(portent)를 띤 -> '불길한·거창한·뜸 들이는'.",
+  "senses": [
+   "1) (큰일의) 전조가 되는, 불길한",
+   "2) (지나치게) 거창한, 무게 잡는"
+  ],
+  "etym": "라틴어 portentosus(전조의, portentum 전조) -> 'portentous'. portent(5447)와 같은 뿌리(por-+tendere 뻗다). '큰일을 예고하듯 무게를 잡는'이 핵심.",
+  "deriv": "라틴어 portentum(전조) -> 'portentous'. 한국 학습자 핵심: 명사 portent(5447)의 형용사! 두 결 — ① 불길한(portentous sign 불길한 징조) ② 거들먹대는(portentous tone 무게 잡는 어조). 유의어 ominous(5140)·momentous·pompous. 반대 trivial·insignificant·modest. 심화 문어.",
+  "syn": [
+   "ominous(불길한)",
+   "momentous(중대한)",
+   "pompous(거들먹대는)"
+  ],
+  "anti": [
+   "trivial(사소한)",
+   "insignificant(하찮은)",
+   "modest(겸손한)"
+  ],
+  "idiom": [
+   "a portentous sign(불길한 징조)"
+  ],
+  "colloc": [
+   "portentous sign(불길한 징조)",
+   "portentous tone(무게 잡는 어조)",
+   "portentous words(거창한 말)"
+  ],
+  "ex_add": "He spoke in a slow, portentous voice.  (portentous=거창한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5825",
+  "hw": "potentate",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "권력(potens)을 쥔 자 -> '권력자·군주'.",
+  "senses": [
+   "1) (절대 권력을 가진) 통치자, 군주, 실력자"
+  ],
+  "etym": "라틴어 potentatus(권력, potens 힘 있는, posse 할 수 있다) -> 'potentate'. potent·power·possible과 같은 posse(할 수 있다) 뿌리. '막강한 권력을 휘두르는 자'가 핵심.",
+  "deriv": "라틴어 potens(힘 있는) -> 'potentate'. 한국 학습자 핵심: posse(할 수 있다) 어근 — potent·power·possible·potentate! an Eastern potentate(동방의 군주)·oil potentate. 유의어 ruler·monarch·sovereign. 반대 subject·subordinate·commoner. 심화 역사.",
+  "syn": [
+   "ruler(통치자)",
+   "monarch(군주)",
+   "sovereign(주권자)"
+  ],
+  "anti": [
+   "subject(신민)",
+   "subordinate(부하)",
+   "commoner(평민)"
+  ],
+  "idiom": [
+   "an Eastern potentate(동방의 군주)"
+  ],
+  "colloc": [
+   "Eastern potentate(동방의 군주)",
+   "powerful potentate(막강한 권력자)",
+   "oil potentate(석유 부호 군주)"
+  ],
+  "ex_add": "The palace was built for a wealthy potentate.  (potentate=권력자)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5826",
+  "hw": "prescient",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "미리(pre) 아는(scire) -> '선견지명이 있는'.",
+  "senses": [
+   "1) (앞일을) 미리 아는, 선견지명이 있는"
+  ],
+  "etym": "라틴어 praesciens(미리 아는, prae-(미리) + scire 알다)의 현재분사 -> 'prescient'. science·conscious·conscientious(5297)와 같은 scire(알다) 뿌리. '미래를 미리 내다보는'이 핵심.",
+  "deriv": "prae-(미리) + scire(알다) -> 'prescient'. 한국 학습자 핵심: scire(알다) 거대 어근 — science·conscious·prescient! 명사 prescience(선견). a prescient warning(선견지명의 경고)·remarkably prescient. 유의어 farsighted·prophetic·visionary. 반대 shortsighted·myopic·oblivious(5136). 심화 격식.",
+  "syn": [
+   "farsighted(선견지명 있는)",
+   "prophetic(예언적인)",
+   "visionary(선견지명의)"
+  ],
+  "anti": [
+   "shortsighted(근시안적인)",
+   "myopic(근시안적인)",
+   "oblivious(모르는)"
+  ],
+  "idiom": [
+   "a prescient warning(선견지명의 경고)"
+  ],
+  "colloc": [
+   "prescient warning(선견지명의 경고)",
+   "remarkably prescient(놀랍도록 선견지명 있는)",
+   "prescient observation(앞을 내다본 관찰)"
+  ],
+  "ex_add": "His prescient warnings were ignored at the time.  (prescient=선견지명이 있는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5827",
+  "hw": "propound",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "앞으로(pro) 내놓다(ponere) -> '(이론을) 제시하다·내놓다'.",
+  "senses": [
+   "1) (이론·견해를) 제시하다, 제안하다, 내놓다"
+  ],
+  "etym": "라틴어 proponere(앞에 내놓다, pro-(앞으로) + ponere 놓다) -> 'propound'. propose·position·posit(5620)·apposite(5533)와 같은 ponere(놓다) 뿌리. '논의 앞에 이론을 내놓다'가 핵심.",
+  "deriv": "pro-(앞으로) + ponere(놓다) -> 'propound'. 한국 학습자 핵심: ponere(놓다) 거대 어근 — propose·position·posit(5620)·apposite(5533)·propound! propound a theory(이론을 제시하다)·propound a view. 유의어 put forward·posit·advance. 반대 retract·withhold·refute(5191). 심화 학술.",
+  "syn": [
+   "put forward(제시하다)",
+   "posit(상정하다)",
+   "advance(내놓다)"
+  ],
+  "anti": [
+   "retract(철회하다)",
+   "withhold(보류하다)",
+   "refute(반박하다)"
+  ],
+  "idiom": [
+   "propound a theory(이론을 제시하다)"
+  ],
+  "colloc": [
+   "propound a theory(이론을 제시하다)",
+   "propound a view(견해를 내놓다)",
+   "first propounded(처음 제시된)"
+  ],
+  "ex_add": "The theory was first propounded in the 1950s.  (propound=제시하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5828",
+  "hw": "proscribe",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "공개적으로(pro) 적어(scribere) 금하다 -> '금지하다·배척하다'.",
+  "senses": [
+   "1) (법으로) 금지하다, 불법화하다",
+   "2) 배척하다, 추방하다"
+  ],
+  "etym": "라틴어 proscribere(공시하여 금하다, pro-(앞에) + scribere 쓰다) -> 로마에서 처형 대상자 명단을 게시한 데서 -> 'proscribe'. describe·ascribe(5669)·prescribe와 같은 scribere(쓰다) 뿌리. '명단에 적어 금지·추방하다'가 핵심.",
+  "deriv": "pro-(앞에) + scribere(쓰다) -> 'proscribe'. 한국 학습자 핵심: 혼동 절대 주의! proscribe(금지하다) vs prescribe(처방하다·규정하다)! scribere(쓰다) 어근 — describe·ascribe(5669)·prescribe·proscribe! proscribed organization(불법 단체). 유의어 prohibit·ban·forbid. 반대 permit·sanction·allow. 심화 법.",
+  "syn": [
+   "prohibit(금지하다)",
+   "ban(금하다)",
+   "forbid(못 하게 하다)"
+  ],
+  "anti": [
+   "permit(허가하다)",
+   "sanction(승인하다)",
+   "allow(허용하다)"
+  ],
+  "idiom": [
+   "a proscribed organization(불법 단체)"
+  ],
+  "colloc": [
+   "proscribed organization(불법 단체)",
+   "proscribe the practice(그 관행을 금지하다)",
+   "legally proscribe(법으로 금하다)"
+  ],
+  "ex_add": "The group was proscribed as a terrorist organization.  (proscribe=금지하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5829",
+  "hw": "protean",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "프로테우스(Proteus)처럼 변하는 -> '변화무쌍한·다재다능한'.",
+  "senses": [
+   "1) (모습을) 자유자재로 바꾸는, 변화무쌍한",
+   "2) (재능이) 다방면의, 다재다능한"
+  ],
+  "etym": "그리스 신화 바다의 신 Proteus(원하는 대로 모습을 바꾸는 신)에서 -> 'protean'. '프로테우스처럼 자유자재로 변하는'이 핵심.",
+  "deriv": "그리스 신 Proteus -> 'protean'. 한국 학습자 핵심: 변신의 신 프로테우스 이름에서! a protean talent(변화무쌍한 재능)·protean actor(다재다능한 배우). versatile과 유사. 유의어 versatile·mutable·multifaceted. 반대 fixed·unchanging·monolithic. 심화 문학.",
+  "syn": [
+   "versatile(다재다능한)",
+   "mutable(잘 변하는)",
+   "multifaceted(다면적인)"
+  ],
+  "anti": [
+   "fixed(고정된)",
+   "unchanging(불변의)",
+   "monolithic(획일적인)"
+  ],
+  "idiom": [
+   "a protean talent(변화무쌍한 재능)"
+  ],
+  "colloc": [
+   "protean talent(변화무쌍한 재능)",
+   "protean actor(다재다능한 배우)",
+   "protean nature(변화무쌍한 본질)"
+  ],
+  "ex_add": "The actor is famous for his protean versatility.  (protean=변화무쌍한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5830",
+  "hw": "providential",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "하늘(섭리)이 미리(pro) 보아(videre) 준 -> '천우신조의·뜻밖에 다행스러운'.",
+  "senses": [
+   "1) (마치 하늘이 도운 듯) 천우신조의, 다행스러운, 운 좋은"
+  ],
+  "etym": "라틴어 providentia(섭리·예견, providere 미리 보다, pro-(미리) + videre 보다) -> 'providential'. provident·prudent(5182)·envisage(5766)와 같은 videre(보다) 뿌리. '하늘의 섭리가 미리 살펴 준 듯한'이 핵심.",
+  "deriv": "pro-(미리) + videre(보다) -> 'providential'. 한국 학습자 핵심: videre(보다) 거대 어근 — provide·provident·prudent(5182)·providence·providential! 명사 providence(섭리·신의 가호). a providential escape(천우신조의 탈출). 유의어 fortunate·heaven-sent·timely. 반대 unlucky·calamitous·ill-fated. 심화 문어.",
+  "syn": [
+   "fortunate(다행스러운)",
+   "heaven-sent(하늘이 내린)",
+   "timely(때맞춘)"
+  ],
+  "anti": [
+   "unlucky(불운한)",
+   "calamitous(재난의)",
+   "ill-fated(불행한)"
+  ],
+  "idiom": [
+   "a providential escape(천우신조의 탈출)"
+  ],
+  "colloc": [
+   "providential escape(천우신조의 탈출)",
+   "providential timing(절묘한 타이밍)",
+   "providential intervention(하늘의 도움)"
+  ],
+  "ex_add": "Their rescue was nothing short of providential.  (providential=천우신조의)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5831",
+  "hw": "prurient",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "근질근질(prurire)한 -> '호색적인·음탕한 호기심의'.",
+  "senses": [
+   "1) (성적으로) 호색적인, 음란한 것에 병적으로 관심 있는"
+  ],
+  "etym": "라틴어 pruriens(근질거리는, prurire 가렵다·갈망하다)의 현재분사 -> 'prurient'. '성적인 것에 근질근질 병적으로 끌리는'이 핵심.",
+  "deriv": "라틴어 prurire(가렵다·갈망하다) -> 'prurient'. 한국 학습자 핵심: '가렵다(prurire)'에서 — 성적 호기심이 근질근질! prurient interest(호색적 관심)·prurient curiosity. 유의어 lascivious·lewd·salacious. 반대 chaste·wholesome·decorous(5306). 심화 논평.",
+  "syn": [
+   "lascivious(호색적인)",
+   "lewd(음란한)",
+   "salacious(외설적인)"
+  ],
+  "anti": [
+   "chaste(순결한)",
+   "wholesome(건전한)",
+   "decorous(점잖은)"
+  ],
+  "idiom": [
+   "prurient interest(호색적 관심)"
+  ],
+  "colloc": [
+   "prurient interest(호색적 관심)",
+   "prurient curiosity(음탕한 호기심)",
+   "prurient details(선정적 세부)"
+  ],
+  "ex_add": "The tabloid appealed to prurient curiosity.  (prurient=호색적인)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5832",
+  "hw": "pugilist",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "주먹(pugnus)으로 싸우는 자 -> '권투 선수·격투가'.",
+  "senses": [
+   "1) (특히 프로) 권투 선수, 격투가"
+  ],
+  "etym": "라틴어 pugil(권투 선수, pugnus 주먹) -> 'pugilist'. pugnacious(5625)·repugnant(5469)와 같은 pugnus(주먹) 뿌리. '주먹으로 겨루는 사람'이 핵심.",
+  "deriv": "라틴어 pugnus(주먹) -> 'pugilist'. 한국 학습자 핵심: pugnus(주먹) 어근 — pugnacious(5625)·repugnant(5469)·pugilist! 명사 pugilism(권투). a seasoned pugilist(노련한 권투 선수). boxer의 격식어. 유의어 boxer·prizefighter·fighter. 반대 (비격투). 심화 스포츠·문어.",
+  "syn": [
+   "boxer(권투 선수)",
+   "prizefighter(프로 권투 선수)",
+   "fighter(격투가)"
+  ],
+  "anti": [
+   "pacifist(평화주의자)",
+   "spectator(관중)",
+   "referee(심판)"
+  ],
+  "idiom": [
+   "a seasoned pugilist(노련한 권투 선수)"
+  ],
+  "colloc": [
+   "seasoned pugilist(노련한 권투 선수)",
+   "former pugilist(전직 권투 선수)",
+   "aging pugilist(노쇠한 격투가)"
+  ],
+  "ex_add": "The old pugilist still trained every morning.  (pugilist=권투 선수)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5833",
+  "hw": "pulchritude",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "아름다움(pulcher) -> '(빼어난) 아름다움·미모'.",
+  "senses": [
+   "1) (특히 신체적) 빼어난 아름다움, 미모"
+  ],
+  "etym": "라틴어 pulchritudo(아름다움, pulcher 아름다운) -> 'pulchritude'. '눈에 띄게 빼어난 미모'가 핵심. (단어 자체는 투박하나 뜻은 '미'.)",
+  "deriv": "라틴어 pulcher(아름다운) -> 'pulchritude'. 한국 학습자 핵심: 형용사 pulchritudinous(아름다운). 격식·문어 — physical pulchritude(신체적 아름다움)·feminine pulchritude. 유의어 beauty·comeliness·loveliness. 반대 ugliness·plainness·homeliness. 심화 문어.",
+  "syn": [
+   "beauty(아름다움)",
+   "comeliness(고움)",
+   "loveliness(사랑스러움)"
+  ],
+  "anti": [
+   "ugliness(추함)",
+   "plainness(밋밋함)",
+   "homeliness(못생김)"
+  ],
+  "idiom": [
+   "physical pulchritude(신체적 아름다움)"
+  ],
+  "colloc": [
+   "physical pulchritude(신체적 아름다움)",
+   "feminine pulchritude(여성미)",
+   "sheer pulchritude(빼어난 미모)"
+  ],
+  "ex_add": "The pageant celebrated youthful pulchritude.  (pulchritude=빼어난 아름다움)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5834",
+  "hw": "punctilious",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "작은 점(punctum)까지 챙기는 -> '꼼꼼한·격식을 따지는'.",
+  "senses": [
+   "1) (사소한 격식·절차까지) 꼼꼼히 지키는, 빈틈없는, 격식 차리는"
+  ],
+  "etym": "이탈리아어 puntiglio(작은 점·세목, 라틴 punctum 점, pungere 찌르다) -> 'punctilious'. punctual·puncture·poignant(5166)와 같은 pungere(찌르다) 뿌리. '점 하나까지 챙기는 깐깐함'이 핵심.",
+  "deriv": "라틴어 punctum(점, pungere 찌르다) -> 'punctilious'. 한국 학습자 핵심: pungere(찌르다) 어근 — punctual·puncture·poignant(5166)·punctilious! meticulous(5129)·scrupulous(5205)와 유사. punctilious about detail(세부에 꼼꼼한). 유의어 meticulous·scrupulous·fastidious. 반대 careless·slapdash·lax. 심화 평가.",
+  "syn": [
+   "meticulous(꼼꼼한)",
+   "scrupulous(세심한)",
+   "fastidious(까다로운)"
+  ],
+  "anti": [
+   "careless(부주의한)",
+   "slapdash(날림의)",
+   "lax(느슨한)"
+  ],
+  "idiom": [
+   "punctilious about detail(세부에 꼼꼼한)"
+  ],
+  "colloc": [
+   "punctilious about detail(세부에 꼼꼼한)",
+   "punctilious manners(격식 차린 예절)",
+   "punctilious attention(빈틈없는 주의)"
+  ],
+  "ex_add": "He was punctilious about following the rules.  (punctilious=꼼꼼한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5835",
+  "hw": "rarefied",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "드물게(rarus) 만든 -> '희박한·고고한·소수만의'.",
+  "senses": [
+   "1) (공기가) 희박한",
+   "2) (세계·분위기가) 고상한, 소수 엘리트만의, 동떨어진"
+  ],
+  "etym": "라틴어 rarus(드문) + facere(만들다) -> rarefacere -> 'rarefied'. rare·rarity와 같은 rarus(드문) 뿌리. '밀도가 희박한 -> 소수만의 고고한'이 핵심.",
+  "deriv": "rarus(드문) + facere(만들다) -> 'rarefied'. 한국 학습자 핵심: rare(드문)와 한 뿌리! 두 결 — ① 물리(rarefied air 희박한 공기) ② 비유(rarefied world 고고한 소수의 세계). 유의어 lofty·exclusive·esoteric. 반대 common·ordinary·down-to-earth. 심화 묘사.",
+  "syn": [
+   "lofty(고고한)",
+   "exclusive(소수만의)",
+   "esoteric(소수만 아는)"
+  ],
+  "anti": [
+   "common(흔한)",
+   "ordinary(평범한)",
+   "down-to-earth(소탈한)"
+  ],
+  "idiom": [
+   "rarefied atmosphere(고고한 분위기)"
+  ],
+  "colloc": [
+   "rarefied air(희박한 공기)",
+   "rarefied world(고고한 세계)",
+   "rarefied atmosphere(소수만의 분위기)"
+  ],
+  "ex_add": "She moved in the rarefied world of high finance.  (rarefied=소수만의)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5836",
+  "hw": "redoubtable",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "두려워할(redouter) 만한 -> '가공할·만만찮은(존경받는)'.",
+  "senses": [
+   "1) (실력·기세가) 가공할, 만만찮은, 두려울 만큼 대단한 (존경의 뉘앙스)"
+  ],
+  "etym": "고대 프랑스어 redoutable(무서운, redouter 두려워하다, re-(강조) + douter 의심·두려워하다, 라틴 dubitare) -> 'redoubtable'. doubt·dubious와 같은 dubitare 뿌리. '두려워할 만큼 대단해 존경받는'이 핵심.",
+  "deriv": "re- + douter(두려워하다, dubitare) -> 'redoubtable'. 한국 학습자 핵심: doubt(dubitare)와 한 뿌리! formidable(5777)과 유사하나 '존경' 뉘앙스 강함. a redoubtable opponent(만만찮은 적수)·redoubtable reputation. 유의어 formidable·daunting·fearsome. 반대 feeble·negligible·unimpressive. 심화 격식.",
+  "syn": [
+   "formidable(가공할)",
+   "daunting(벅찬)",
+   "fearsome(무시무시한)"
+  ],
+  "anti": [
+   "feeble(연약한)",
+   "negligible(보잘것없는)",
+   "unimpressive(인상적이지 않은)"
+  ],
+  "idiom": [
+   "a redoubtable opponent(만만찮은 적수)"
+  ],
+  "colloc": [
+   "redoubtable opponent(만만찮은 적수)",
+   "redoubtable reputation(대단한 명성)",
+   "redoubtable champion(가공할 챔피언)"
+  ],
+  "ex_add": "She was a redoubtable campaigner for reform.  (redoubtable=만만찮은)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5837",
+  "hw": "remunerate",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "선물(munus)을 되돌려(re) 주다 -> '보수를 지급하다·보상하다'.",
+  "senses": [
+   "1) (일·노고에) 보수를 주다, 보상하다"
+  ],
+  "etym": "라틴어 remunerari(보답하다, re-(되돌려) + munus 선물·보수) -> 'remunerate'. munificent(5410)·municipal·immune과 같은 munus(선물·임무) 뿌리. '수고에 대해 보수로 갚다'가 핵심.",
+  "deriv": "re-(되돌려) + munus(선물·보수) -> 'remunerate'. 한국 학습자 핵심: munus(선물·임무) 어근 — munificent(5410)·municipal·immune·remunerate! 형용사 remunerative(수지맞는). well remunerated(보수가 좋은)·remunerate fairly. 유의어 pay·compensate·reward. 반대 (무보수). 심화 격식·고용.",
+  "syn": [
+   "pay(지급하다)",
+   "compensate(보상하다)",
+   "reward(보상하다)"
+  ],
+  "anti": [
+   "dock(공제하다)",
+   "withhold pay(보수를 주지 않다)",
+   "exploit(착취하다)"
+  ],
+  "idiom": [
+   "well remunerated(보수가 좋은)"
+  ],
+  "colloc": [
+   "well remunerated(보수가 좋은)",
+   "remunerate fairly(공정하게 보수를 주다)",
+   "handsomely remunerate(후하게 보상하다)"
+  ],
+  "ex_add": "Volunteers are not remunerated for their time.  (remunerate=보수를 지급하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5838",
+  "hw": "replenish",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "다시(re) 가득(plenus) 채우다 -> '다시 채우다·보충하다'.",
+  "senses": [
+   "1) (떨어진 것을) 다시 채우다, 보충하다"
+  ],
+  "etym": "고대 프랑스어 repleniss-(가득 채우다, re-(다시) + plenus 가득한, 라틴 plere 채우다) -> 'replenish'. replete(5467)·plenitude(5619)·complete와 같은 plere(채우다) 뿌리. '빈 것을 다시 가득 채우다'가 핵심.",
+  "deriv": "re-(다시) + plenus(가득한) -> 'replenish'. 한국 학습자 핵심: plere(채우다) 어근 — replete(5467)·plenitude(5619)·complete·replenish! replenish supplies(물자를 보충하다)·replenish stocks·replenish energy. 유의어 refill·restock·top up. 반대 deplete·exhaust·drain. 심화 격식.",
+  "syn": [
+   "refill(다시 채우다)",
+   "restock(재고를 채우다)",
+   "top up(보충하다)"
+  ],
+  "anti": [
+   "deplete(고갈시키다)",
+   "exhaust(소진하다)",
+   "drain(빼내다)"
+  ],
+  "idiom": [
+   "replenish supplies(물자를 보충하다)"
+  ],
+  "colloc": [
+   "replenish supplies(물자를 보충하다)",
+   "replenish stocks(재고를 채우다)",
+   "replenish energy(에너지를 보충하다)"
+  ],
+  "ex_add": "We need to replenish our food supplies.  (replenish=보충하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5839",
+  "hw": "reprove",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "되받아(re) 시험해(probare) 나무라다 -> '꾸짖다·책망하다'.",
+  "senses": [
+   "1) (잘못을) 점잖게 꾸짖다, 나무라다, 타이르다"
+  ],
+  "etym": "라틴어 reprobare(거부하다·나무라다, re-(되받아) + probare 좋다고 증명하다) -> 'reprove'. probity(5451)·approbation(5273)·prove와 같은 probus(좋은) 뿌리. '좋지 않다고 되받아 나무라다'가 핵심.",
+  "deriv": "re- + probare(좋다고 증명) -> 'reprove'. 한국 학습자 핵심: probus(좋은) 어근 — prove·approbation(5273)·probity(5451)·reprove(나무라다)·reprobate(5468 타락자)! 명사 reproof. reprove gently(점잖게 타이르다). rebuke(5187)보다 부드러움. 유의어 rebuke·admonish·chide. 반대 praise·commend·approve. 심화 격식.",
+  "syn": [
+   "rebuke(질책하다)",
+   "admonish(타이르다)",
+   "chide(꾸짖다)"
+  ],
+  "anti": [
+   "praise(칭찬하다)",
+   "commend(칭찬하다)",
+   "approve(인정하다)"
+  ],
+  "idiom": [
+   "reprove gently(점잖게 타이르다)"
+  ],
+  "colloc": [
+   "reprove gently(점잖게 타이르다)",
+   "reprove for(~ 때문에 나무라다)",
+   "mildly reprove(가볍게 책망하다)"
+  ],
+  "ex_add": "She reproved the child for being rude.  (reprove=꾸짖다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5840",
+  "hw": "restitution",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "다시(re) 세워(statuere) 돌려놓음 -> '배상·반환·원상 복구'.",
+  "senses": [
+   "1) (손해의) 배상, 보상",
+   "2) (빼앗긴 것의) 반환, 원상 회복"
+  ],
+  "etym": "라틴어 restitutio(회복, restituere 되돌려 세우다, re-(다시) + statuere 세우다, stare 서다) -> 'restitution'. statue·constitute·destitute와 같은 statuere(세우다) 뿌리. '원래대로 다시 세워 돌려줌'이 핵심.",
+  "deriv": "re-(다시) + statuere(세우다) -> 'restitution'. 한국 학습자 핵심: statuere(세우다) 어근 — statue·constitute·institute·restitution! make restitution(배상하다)·full restitution·restitution of property(재산 반환). 유의어 compensation·repayment·reparation. 반대 confiscation·seizure·damage. 심화 법.",
+  "syn": [
+   "compensation(배상)",
+   "repayment(상환)",
+   "reparation(보상)"
+  ],
+  "anti": [
+   "confiscation(몰수)",
+   "seizure(압류)",
+   "damage(손해)"
+  ],
+  "idiom": [
+   "make restitution(배상하다)"
+  ],
+  "colloc": [
+   "make restitution(배상하다)",
+   "full restitution(전액 배상)",
+   "restitution of property(재산 반환)"
+  ],
+  "ex_add": "The court ordered him to make restitution to the victims.  (restitution=배상)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5841",
+  "hw": "scupper",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "배에 구멍을 내 침몰시키다 -> '(계획을) 망쳐 놓다·좌초시키다'.",
+  "senses": [
+   "1) (영) (계획·기회를) 망쳐 버리다, 좌초시키다",
+   "2) (배를) 침몰시키다"
+  ],
+  "etym": "영어 scupper(배의 배수구)에서 -> 배수구로 물을 들여 배를 가라앉히듯 '계획을 침몰시키다' -> 'scupper'. '구멍을 내 가라앉히듯 망쳐 놓다'가 핵심.",
+  "deriv": "scupper(배 배수구) -> 'scupper'. 한국 학습자 핵심: 영국 영어 — '배를 침몰시키다'에서 '계획을 망치다'로! scupper the deal(거래를 무산시키다)·scupper a plan. 유의어 thwart·ruin·sink. 반대 facilitate·rescue·salvage. 심화 시사(영).",
+  "syn": [
+   "thwart(좌절시키다)",
+   "ruin(망치다)",
+   "sink(침몰시키다)"
+  ],
+  "anti": [
+   "facilitate(촉진하다)",
+   "rescue(구하다)",
+   "salvage(살려 내다)"
+  ],
+  "idiom": [
+   "scupper the deal(거래를 무산시키다)"
+  ],
+  "colloc": [
+   "scupper the deal(거래를 무산시키다)",
+   "scupper a plan(계획을 망치다)",
+   "scupper hopes(희망을 좌초시키다)"
+  ],
+  "ex_add": "The strike scuppered any chance of a deal.  (scupper=망쳐 놓다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5842",
+  "hw": "servitude",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "노예(servus) 상태 -> '노예 상태·예속·강제 노역'.",
+  "senses": [
+   "1) (자유 없는) 예속, 노예 상태",
+   "2) (형벌의) 강제 노역"
+  ],
+  "etym": "라틴어 servitudo(노예 신분, servus 노예) -> 'servitude'. servile(5479)·serve·subservient과 같은 servus(노예) 뿌리. '남에게 매여 부림당하는 처지'가 핵심.",
+  "deriv": "라틴어 servus(노예) -> 'servitude'. 한국 학습자 핵심: servus(노예) 어근 — serve·servile(5479)·subservient·servitude! penal servitude(징역)·debt servitude(채무 노예)·a life of servitude. 유의어 bondage·slavery·subjugation. 반대 freedom·liberty·emancipation. 심화 역사·법.",
+  "syn": [
+   "bondage(속박)",
+   "slavery(노예 상태)",
+   "subjugation(예속)"
+  ],
+  "anti": [
+   "freedom(자유)",
+   "liberty(해방)",
+   "emancipation(해방)"
+  ],
+  "idiom": [
+   "penal servitude(징역)"
+  ],
+  "colloc": [
+   "penal servitude(징역)",
+   "debt servitude(채무 노예)",
+   "life of servitude(노예 같은 삶)"
+  ],
+  "ex_add": "The workers lived in conditions close to servitude.  (servitude=예속)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5843",
+  "hw": "slake",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "느슨하게(slæc) 풀어 채우다 -> '(갈증을) 풀다·해소하다'.",
+  "senses": [
+   "1) (갈증을) 풀다, 축이다",
+   "2) (욕구를) 충족시키다, 가라앉히다"
+  ],
+  "etym": "고대 영어 slacian(느슨하게 하다, slæc 느슨한)에서 -> 'slake'. slack(느슨한)과 같은 뿌리. '바짝 마른 갈증을 풀어 누그러뜨리다'가 핵심.",
+  "deriv": "고대 영어 slæc(느슨한) -> 'slake'. 한국 학습자 핵심: slack(느슨한)과 한 뿌리! 주로 slake one's thirst(갈증을 풀다)·slake a desire(욕구를 채우다). 유의어 quench·satisfy·assuage(5275). 반대 intensify·aggravate·whet. 심화 문어.",
+  "syn": [
+   "quench(갈증을 풀다)",
+   "satisfy(충족시키다)",
+   "assuage(누그러뜨리다)"
+  ],
+  "anti": [
+   "intensify(심화하다)",
+   "aggravate(악화시키다)",
+   "whet(돋우다)"
+  ],
+  "idiom": [
+   "slake one's thirst(갈증을 풀다)"
+  ],
+  "colloc": [
+   "slake one's thirst(갈증을 풀다)",
+   "slake a desire(욕구를 채우다)",
+   "slake the thirst(갈증을 축이다)"
+  ],
+  "ex_add": "They stopped at a stream to slake their thirst.  (slake=갈증을 풀다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5844",
+  "hw": "sloth",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "느림(slow) -> '나태·게으름 / 나무늘보'.",
+  "senses": [
+   "1) 나태, 게으름, 태만",
+   "2) (동물) 나무늘보"
+  ],
+  "etym": "중세 영어 slowth(slow 느린 + -th)에서 -> 'sloth'. slow와 같은 뿌리. 기독교 7대 죄악(seven deadly sins)의 하나. '굼뜨고 게으른 상태'가 핵심.",
+  "deriv": "slow(느린) + -th -> 'sloth'. 한국 학습자 핵심: slow(느린)에서 — 명사화(-th, 예: width)! 7대 죄악 중 '나태'. 형용사 slothful. sink into sloth(나태에 빠지다). indolence(5383)와 유사. 유의어 laziness·indolence·idleness. 반대 diligence·industry·energy. 심화 윤리·문어.",
+  "syn": [
+   "laziness(게으름)",
+   "indolence(나태)",
+   "idleness(태만)"
+  ],
+  "anti": [
+   "diligence(근면)",
+   "industry(부지런함)",
+   "energy(활기)"
+  ],
+  "idiom": [
+   "sink into sloth(나태에 빠지다)"
+  ],
+  "colloc": [
+   "sink into sloth(나태에 빠지다)",
+   "habitual sloth(상습적 게으름)",
+   "sloth and gluttony(나태와 탐식)"
+  ],
+  "ex_add": "He was overcome by sloth and did nothing all day.  (sloth=나태)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5845",
+  "hw": "sojourn",
+  "pos": "n., v.",
+  "cefr": "심화",
+  "core": "하루(diurnum) 동안(so) 머묾 -> '(잠시) 체류 / 머무르다'.",
+  "senses": [
+   "1) (n.) (잠시 동안의) 체류, 머무름",
+   "2) (v.) (잠시) 머무르다, 체류하다"
+  ],
+  "etym": "고대 프랑스어 sojorner(머무르다, 후기 라틴 subdiurnare, sub-(아래/동안) + diurnum 하루) -> 'sojourn'. journal·journey·diurnal과 같은 diurnum(하루) 뿌리. '하루하루 잠시 머무는 체류'가 핵심.",
+  "deriv": "sub-(동안) + diurnum(하루) -> 'sojourn'. 한국 학습자 핵심: diurnum(하루) 어근 — journal·journey·diurnal·sojourn! a brief sojourn(잠시 체류)·sojourn abroad(해외 체류). 유의어 stay·visit·stopover. 반대 (영구 거주)permanent residence. 심화 문어.",
+  "syn": [
+   "stay(체류)",
+   "visit(방문)",
+   "stopover(잠시 머묾)"
+  ],
+  "anti": [
+   "permanent residence(영구 거주)",
+   "settlement(정착)",
+   "homecoming(귀향)"
+  ],
+  "idiom": [
+   "a brief sojourn(잠시 체류)"
+  ],
+  "colloc": [
+   "brief sojourn(잠시 체류)",
+   "sojourn abroad(해외 체류)",
+   "pleasant sojourn(즐거운 체류)"
+  ],
+  "ex_add": "During his sojourn in Paris, he learned French.  (sojourn=체류)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5846",
+  "hw": "spurn",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "발로 차(spurnan) 내치다 -> '퇴짜 놓다·일축하다'.",
+  "senses": [
+   "1) (경멸하며) 퇴짜 놓다, 일축하다, 단호히 거절하다"
+  ],
+  "etym": "고대 영어 spurnan(발로 차다·물리치다)에서 -> 'spurn'. spur(박차)와 같은 계열. '발로 차듯 매몰차게 내치다'가 핵심.",
+  "deriv": "고대 영어 spurnan(발로 차다) -> 'spurn'. 한국 학습자 핵심: spur(박차)와 한 계열 — '발로 차 내치다'! spurn an offer(제안을 일축하다)·spurn advances(구애를 퇴짜 놓다). reject보다 '경멸' 뉘앙스. 유의어 reject·rebuff·disdain. 반대 accept·welcome·embrace. 심화 문어.",
+  "syn": [
+   "reject(거부하다)",
+   "rebuff(퇴짜 놓다)",
+   "disdain(경멸하며 거절하다)"
+  ],
+  "anti": [
+   "accept(받아들이다)",
+   "welcome(반기다)",
+   "embrace(수용하다)"
+  ],
+  "idiom": [
+   "spurn an offer(제안을 일축하다)"
+  ],
+  "colloc": [
+   "spurn an offer(제안을 일축하다)",
+   "spurn advances(구애를 퇴짜 놓다)",
+   "spurn help(도움을 마다하다)"
+  ],
+  "ex_add": "She spurned his offer of marriage.  (spurn=퇴짜 놓다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5847",
+  "hw": "squalid",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "더러운(squalere) -> '지저분한·누추한·비열한'.",
+  "senses": [
+   "1) (몹시) 지저분한, 누추한, 불결한",
+   "2) (행위가) 도덕적으로 추잡한, 비열한"
+  ],
+  "etym": "라틴어 squalidus(더러운, squalere 더럽다·거칠다) -> 'squalid'. '때가 끼어 누추하고 추잡한'이 핵심. 명사 squalor(불결·누추).",
+  "deriv": "라틴어 squalere(더럽다) -> 'squalid'. 한국 학습자 핵심: 명사 squalor(누추·불결)! 두 결 — ① 물리적(squalid conditions 누추한 환경) ② 도덕적(squalid affair 추잡한 사건). 유의어 filthy·sordid·seedy. 반대 clean·pristine(5174)·wholesome. 심화 묘사.",
+  "syn": [
+   "filthy(더러운)",
+   "sordid(추잡한)",
+   "seedy(꾀죄죄한)"
+  ],
+  "anti": [
+   "clean(깨끗한)",
+   "pristine(아주 깨끗한)",
+   "wholesome(건전한)"
+  ],
+  "idiom": [
+   "squalid conditions(누추한 환경)"
+  ],
+  "colloc": [
+   "squalid conditions(누추한 환경)",
+   "squalid slum(누추한 빈민가)",
+   "squalid affair(추잡한 사건)"
+  ],
+  "ex_add": "They lived in squalid, overcrowded housing.  (squalid=누추한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5848",
+  "hw": "staid",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "자리 잡아(stay) 머문 -> '차분한·고리타분한'.",
+  "senses": [
+   "1) (지나치게) 점잖은, 차분한, 고리타분한, 재미없는"
+  ],
+  "etym": "영어 stay(머물다)의 옛 과거분사 staid에서 -> '한자리에 머물러 변함없는 -> 고지식한' -> 'staid'. '차분하다 못해 고리타분한'이 핵심.",
+  "deriv": "stay(머물다)의 옛 과거분사 -> 'staid'. 한국 학습자 핵심: stay와 한 뿌리 — '머물러 굳어진'! 혼동 주의: staid(고리타분한) vs stayed(머물렀다)! a staid image(고리타분한 이미지)·staid and conventional. 유의어 sedate·stuffy·sober. 반대 lively·flamboyant·adventurous. 심화 묘사.",
+  "syn": [
+   "sedate(차분한)",
+   "stuffy(고리타분한)",
+   "sober(진중한)"
+  ],
+  "anti": [
+   "lively(활기찬)",
+   "flamboyant(화려한)",
+   "adventurous(모험적인)"
+  ],
+  "idiom": [
+   "a staid image(고리타분한 이미지)"
+  ],
+  "colloc": [
+   "staid image(고리타분한 이미지)",
+   "staid and conventional(점잖고 인습적인)",
+   "staid atmosphere(차분한 분위기)"
+  ],
+  "ex_add": "The bank wanted to shed its staid image.  (staid=고리타분한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5849",
+  "hw": "stilted",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "죽마(stilt)를 탄 듯한 -> '딱딱한·부자연스러운'.",
+  "senses": [
+   "1) (말·글이) 딱딱한, 부자연스러운, 거북한",
+   "2) (양식이) 어색하게 격식 차린"
+  ],
+  "etym": "영어 stilt(죽마·받침대) + -ed -> 죽마를 탄 듯 '뻣뻣하고 부자연스러운' -> 'stilted'. '죽마 위처럼 어색하게 굳은'이 핵심.",
+  "deriv": "stilt(죽마) + -ed -> 'stilted'. 한국 학습자 핵심: stilt(죽마)에서 — '뻣뻣하고 부자연스러움'! stilted conversation(어색한 대화)·stilted prose(딱딱한 글)·stilted dialogue. 유의어 stiff·awkward·forced. 반대 natural·fluent·relaxed. 심화 문체.",
+  "syn": [
+   "stiff(딱딱한)",
+   "awkward(어색한)",
+   "forced(부자연스러운)"
+  ],
+  "anti": [
+   "natural(자연스러운)",
+   "fluent(유창한)",
+   "relaxed(편안한)"
+  ],
+  "idiom": [
+   "stilted conversation(어색한 대화)"
+  ],
+  "colloc": [
+   "stilted conversation(어색한 대화)",
+   "stilted prose(딱딱한 글)",
+   "stilted dialogue(부자연스러운 대사)"
+  ],
+  "ex_add": "The dialogue in the film felt stilted.  (stilted=부자연스러운)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5850",
+  "hw": "stymie",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "앞을 가로막다 -> '방해하다·좌절시키다'.",
+  "senses": [
+   "1) (계획·진행을) 방해하다, 가로막다, 좌절시키다"
+  ],
+  "etym": "기원 불확실하나 골프 용어 stymie(상대 공이 퍼팅 경로를 막은 상황)에서 -> '진로를 막아 좌절시키다' -> 'stymie'. (어원 불확실하므로 단정하지 않음.) '앞길을 콱 막아 옴짝달싹 못 하게 하다'가 핵심.",
+  "deriv": "골프 용어 stymie -> 'stymie'. 한국 학습자 핵심: 골프에서 '공이 길을 막은 상황'에서 유래! be stymied by(~에 가로막히다)·stymie efforts(노력을 좌절시키다). thwart·hamper(5788)와 유사. 유의어 thwart·obstruct·foil. 반대 facilitate·aid·advance. 심화 시사.",
+  "syn": [
+   "thwart(좌절시키다)",
+   "obstruct(가로막다)",
+   "foil(저지하다)"
+  ],
+  "anti": [
+   "facilitate(촉진하다)",
+   "aid(돕다)",
+   "advance(진전시키다)"
+  ],
+  "idiom": [
+   "stymied by(~에 가로막힌)"
+  ],
+  "colloc": [
+   "stymied by red tape(관료주의에 가로막힌)",
+   "stymie efforts(노력을 좌절시키다)",
+   "stymie progress(진전을 막다)"
+  ],
+  "ex_add": "The investigation was stymied by a lack of evidence.  (stymie=방해하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5851",
+  "hw": "subsume",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "아래로(sub) 취해(sumere) 포함시키다 -> '(상위 범주에) 포함시키다·포섭하다'.",
+  "senses": [
+   "1) (더 큰 범주·집단에) 포함시키다, 포섭하다, 아우르다"
+  ],
+  "etym": "라틴어 sub-(아래로) + sumere(취하다)의 중세 라틴 합성 subsumere -> 'subsume'. consume·assume·sumptuous(5648)·unassuming(5236)과 같은 sumere(취하다) 뿌리. '상위 범주가 하위를 끌어안다'가 핵심.",
+  "deriv": "sub-(아래로) + sumere(취하다) -> 'subsume'. 한국 학습자 핵심: sumere(취하다) 어근 — consume·assume·sumptuous(5648)·subsume! 'be subsumed under/into': subsumed under a broader category(더 큰 범주에 포함되다). 유의어 incorporate·encompass·absorb. 반대 exclude·separate·distinguish. 심화 학술.",
+  "syn": [
+   "incorporate(포함하다)",
+   "encompass(아우르다)",
+   "absorb(흡수하다)"
+  ],
+  "anti": [
+   "exclude(배제하다)",
+   "separate(분리하다)",
+   "distinguish(구별하다)"
+  ],
+  "idiom": [
+   "be subsumed under(~에 포함되다)"
+  ],
+  "colloc": [
+   "subsumed under(~에 포함된)",
+   "subsume into(~로 흡수하다)",
+   "subsume categories(범주를 아우르다)"
+  ],
+  "ex_add": "These smaller groups were subsumed into one party.  (subsume=포섭하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5852",
+  "hw": "succor",
+  "pos": "n., v.",
+  "cefr": "심화",
+  "core": "밑으로(suc) 달려가(currere) 돕다 -> '구원·원조 / 구원하다'.",
+  "senses": [
+   "1) (n.) (곤경의) 도움, 원조, 구호",
+   "2) (v.) 구하다, 원조하다"
+  ],
+  "etym": "라틴어 succurrere(달려가 돕다, sub-(아래로) + currere 달리다) -> 'succor'(영국 succour). current·occur·excursion과 같은 currere(달리다) 뿌리. '위급할 때 달려가 베푸는 도움'이 핵심.",
+  "deriv": "sub-(아래로) + currere(달리다) -> 'succor'. 한국 학습자 핵심: currere(달리다) 거대 어근 — current·occur·excursion·succor! give succor to(~을 구호하다)·comfort and succor. 유의어 aid·relief·assistance. 반대 harm·neglect·abandonment. 심화 문어.",
+  "syn": [
+   "aid(원조)",
+   "relief(구호)",
+   "assistance(도움)"
+  ],
+  "anti": [
+   "harm(해)",
+   "neglect(방치)",
+   "abandonment(유기)"
+  ],
+  "idiom": [
+   "give succor to(~을 구호하다)"
+  ],
+  "colloc": [
+   "give succor to(~을 구호하다)",
+   "comfort and succor(위안과 구원)",
+   "bring succor(도움을 주다)"
+  ],
+  "ex_add": "The charity brought succor to the refugees.  (succor=구원)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5853",
+  "hw": "supplant",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "발바닥(planta)으로 걸어 밀어내다 -> '대체하다·밀어내고 차지하다'.",
+  "senses": [
+   "1) (~을) 밀어내고 대신 차지하다, 대체하다"
+  ],
+  "etym": "라틴어 supplantare(발을 걸어 넘어뜨리다, sub-(아래) + planta 발바닥) -> '발을 걸어 밀어내고 그 자리를 차지하다' -> 'supplant'. plant·plantar과 같은 planta(발바닥) 뿌리. '몰아내고 그 자리를 대신 차지하다'가 핵심.",
+  "deriv": "sub-(아래) + planta(발바닥) -> 'supplant'. 한국 학습자 핵심: planta(발바닥) 어근 — plant·plantar·supplant! replace보다 '밀어내고 빼앗아 차지' 뉘앙스. supplant the leader(지도자를 밀어내다)·be supplanted by. 유의어 replace·displace·oust. 반대 retain·keep·preserve. 심화 시사.",
+  "syn": [
+   "replace(대체하다)",
+   "displace(밀어내다)",
+   "oust(축출하다)"
+  ],
+  "anti": [
+   "retain(유지하다)",
+   "keep(존속시키다)",
+   "preserve(보존하다)"
+  ],
+  "idiom": [
+   "supplant the rival(경쟁자를 밀어내다)"
+  ],
+  "colloc": [
+   "supplant the leader(지도자를 밀어내다)",
+   "be supplanted by(~에 의해 대체되다)",
+   "supplant traditional methods(전통 방식을 대체하다)"
+  ],
+  "ex_add": "Email has largely supplanted the letter.  (supplant=대체하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5854",
+  "hw": "surmise",
+  "pos": "v., n.",
+  "cefr": "심화",
+  "core": "위에(sur) 얹어(mittere) 추측하다 -> '추측하다 / 추측'.",
+  "senses": [
+   "1) (v.) (불완전한 근거로) 추측하다, 짐작하다",
+   "2) (n.) 추측, 짐작"
+  ],
+  "etym": "고대 프랑스어 surmise(혐의·추측, surmettre 위에 얹다, 라틴 super-(위에) + mittere 보내다)에서 -> 'surmise'. mission·transmit·remiss(5466)와 같은 mittere(보내다) 뿌리. '근거 위에 짐작을 얹어 추측하다'가 핵심.",
+  "deriv": "super-(위에) + mittere(보내다) -> 'surmise'. 한국 학습자 핵심: mittere(보내다) 거대 어근 — mission·transmit·remiss(5466)·surmise! 'surmise that': we can only surmise(추측할 따름이다). conjecture와 유사. 유의어 conjecture·infer·deduce(5694). 반대 verify·confirm·prove. 심화 격식.",
+  "syn": [
+   "conjecture(추측하다)",
+   "infer(추론하다)",
+   "deduce(연역하다)"
+  ],
+  "anti": [
+   "verify(입증하다)",
+   "confirm(확인하다)",
+   "prove(증명하다)"
+  ],
+  "idiom": [
+   "one can only surmise(추측할 따름이다)"
+  ],
+  "colloc": [
+   "surmise that(~라고 추측하다)",
+   "can only surmise(추측할 따름이다)",
+   "reasonable surmise(합리적 추측)"
+  ],
+  "ex_add": "We can only surmise what really happened.  (surmise=추측하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5855",
+  "hw": "temporize",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "시간(tempus)을 끌다 -> '시간을 끌다·미적거리다'.",
+  "senses": [
+   "1) (결정을 미루며) 시간을 끌다, 미적거리다, 어물쩍 넘기다"
+  ],
+  "etym": "중세 라틴어 temporizare(시간을 보내다, 라틴 tempus 시간) -> 'temporize'. temporal·temporary·contretemps(5722)와 같은 tempus(시간) 뿌리. '결정을 안 하고 시간만 벌다'가 핵심.",
+  "deriv": "라틴어 tempus(시간) -> 'temporize'. 한국 학습자 핵심: tempus(시간) 어근 — temporal·temporary·contretemps(5722)·temporize! prevaricate(5450)와 유사(시간 끌며 얼버무림). temporize for time(시간을 벌다). 유의어 stall·play for time·procrastinate. 반대 act decisively·commit·resolve. 심화 격식.",
+  "syn": [
+   "stall(시간을 끌다)",
+   "play for time(시간을 벌다)",
+   "procrastinate(미루다)"
+  ],
+  "anti": [
+   "act decisively(단호히 행동하다)",
+   "commit(전념하다)",
+   "resolve(결정하다)"
+  ],
+  "idiom": [
+   "temporize for time(시간을 벌다)"
+  ],
+  "colloc": [
+   "temporize for time(시간을 벌다)",
+   "continue to temporize(계속 미적거리다)",
+   "temporize over(~을 두고 시간을 끌다)"
+  ],
+  "ex_add": "The government temporized instead of taking action.  (temporize=시간을 끌다)",
+  "ex_orig": "",
+  "ex_src": ""
  }
 ]
