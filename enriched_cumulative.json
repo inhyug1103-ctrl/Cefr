@@ -181565,5 +181565,1674 @@
   "ex_add": "The garrulous taxi driver talked the whole way.  (garrulous=수다스러운)",
   "ex_orig": "",
   "ex_src": ""
+ },
+ {
+  "num": "5356",
+  "hw": "grandiose",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "거창하게(grandis) 큰 -> '거창한·과장된·웅장한'.",
+  "senses": [
+   "1) (계획·구상이) 거창한, 야심 차고 비현실적인",
+   "2) 웅장한, 장대한"
+  ],
+  "etym": "이탈리아어 grandioso(웅장한, 라틴 grandis 큰) -> 프랑스 grandiose -> 'grandiose'. aggrandize(5265)와 같은 grandis(큰) 뿌리. '필요 이상으로 크고 거창한'이 핵심(주로 부정적).",
+  "deriv": "라틴어 grandis(큰) -> 'grandiose'. 한국 학습자 핵심: grandis(큰) 어근 — grand·grandeur·aggrandize(5265)·grandiose! 주로 비판적: grandiose plans(허황된 계획)·grandiose scheme(거창한 구상). 유의어 pompous·ambitious·bombastic(5280). 반대 modest·humble·realistic. C2 논평.",
+  "syn": [
+   "pompous(거드름 피우는)",
+   "ambitious(야심 찬)",
+   "bombastic(과장된)"
+  ],
+  "anti": [
+   "modest(소박한)",
+   "humble(겸손한)",
+   "realistic(현실적인)"
+  ],
+  "idiom": [
+   "grandiose plans(거창한 계획)"
+  ],
+  "colloc": [
+   "grandiose plans(허황된 계획)",
+   "grandiose scheme(거창한 구상)",
+   "grandiose vision(웅대한 구상)"
+  ],
+  "ex_add": "His grandiose plans never came to anything.  (grandiose=거창한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5357",
+  "hw": "gratuitous",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "거저(gratis) 주어진 -> '불필요한·까닭 없는 / 무상의'.",
+  "senses": [
+   "1) (이유 없이) 불필요한, 쓸데없는, 까닭 없는",
+   "2) 무상의, 공짜의"
+  ],
+  "etym": "라틴어 gratuitus(거저 주는, gratia 호의·은혜, gratus 고마운) -> 'gratuitous'. gratia(호의)는 grace·grateful·gratitude·congratulate의 뿌리. '대가 없이 -> 까닭 없이(불필요하게)'가 핵심.",
+  "deriv": "라틴어 gratus(고마운) -> 'gratuitous'. 한국 학습자 핵심: gratia(호의) 어근 — grace·grateful·gratitude·gratuity(팁)·gratuitous! 빈출 비판: gratuitous violence(불필요한 폭력)·gratuitous insult(까닭 없는 모욕). 유의어 unnecessary·unwarranted·needless. 반대 justified·warranted·necessary. C2 논평.",
+  "syn": [
+   "unnecessary(불필요한)",
+   "unwarranted(부당한)",
+   "needless(쓸데없는)"
+  ],
+  "anti": [
+   "justified(정당한)",
+   "warranted(타당한)",
+   "necessary(필요한)"
+  ],
+  "idiom": [
+   "gratuitous violence(불필요한 폭력)"
+  ],
+  "colloc": [
+   "gratuitous violence(불필요한 폭력)",
+   "gratuitous insult(까닭 없는 모욕)",
+   "gratuitous detail(쓸데없는 세부)"
+  ],
+  "ex_add": "The film was criticized for its gratuitous violence.  (gratuitous=불필요한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5358",
+  "hw": "hackneyed",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "삯말(hackney)처럼 닳고 닳은 -> '진부한·상투적인'.",
+  "senses": [
+   "1) (표현·생각이) 진부한, 너무 흔해 빠진, 상투적인"
+  ],
+  "etym": "영어 hackney(세놓는 말·삯마차, 런던 Hackney 지명에서)에서 -> 삯말이 여러 사람에게 쓰여 닳듯 '닳고 닳아 식상한' -> 'hackneyed'. '하도 써서 신선함을 잃은'이 핵심.",
+  "deriv": "hackney(삯말) -> 'hackneyed'. 한국 학습자 핵심: 택시 어원과 통함 — 삯말이 닳듯 표현이 닳음! a hackneyed phrase(진부한 표현)·hackneyed plot(상투적 줄거리). 유의어 trite·clichéd·banal. 반대 original·fresh·novel. C2 문체 비평.",
+  "syn": [
+   "trite(진부한)",
+   "clichéd(상투적인)",
+   "banal(평범한)"
+  ],
+  "anti": [
+   "original(독창적인)",
+   "fresh(신선한)",
+   "novel(참신한)"
+  ],
+  "idiom": [
+   "a hackneyed phrase(진부한 표현)"
+  ],
+  "colloc": [
+   "hackneyed phrase(진부한 표현)",
+   "hackneyed plot(상투적 줄거리)",
+   "hackneyed expression(식상한 표현)"
+  ],
+  "ex_add": "The speech was full of hackneyed phrases.  (hackneyed=진부한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5359",
+  "hw": "hapless",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "운(hap)이 없는(less) -> '불운한·복 없는'.",
+  "senses": [
+   "1) (안쓰럽게) 운이 없는, 불행한, 박복한"
+  ],
+  "etym": "고대 노르드어 happ(운·우연) + -less(없는) -> 'hapless'. happ은 happy·happen·perhaps·mishap의 뿌리. '운이 따라 주지 않는'이 핵심.",
+  "deriv": "happ(운) + -less(없는) -> 'hapless'. 한국 학습자 핵심: happ(운) 어근 — happy·happen·perhaps·mishap·hapless! 동정 어린 뉘앙스 — the hapless victim(가엾은 피해자)·hapless creature(불쌍한 처지). 유의어 unfortunate·luckless·ill-fated. 반대 fortunate·lucky·blessed. C2 서사.",
+  "syn": [
+   "unfortunate(불운한)",
+   "luckless(복 없는)",
+   "ill-fated(불행한)"
+  ],
+  "anti": [
+   "fortunate(운 좋은)",
+   "lucky(행운의)",
+   "blessed(축복받은)"
+  ],
+  "idiom": [
+   "the hapless victim(가엾은 피해자)"
+  ],
+  "colloc": [
+   "hapless victim(가엾은 피해자)",
+   "hapless creature(불쌍한 처지)",
+   "hapless attempt(가망 없는 시도)"
+  ],
+  "ex_add": "The hapless tourist lost his passport and wallet.  (hapless=불운한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5360",
+  "hw": "harangue",
+  "pos": "n., v.",
+  "cefr": "C2",
+  "core": "군중 앞 장광설 -> '일장 연설·장황한 훈계 / 일장 연설을 하다'.",
+  "senses": [
+   "1) (n.) 장황하고 열변조의 연설, 일장 훈계",
+   "2) (v.) 일장 연설로 다그치다, 장광설을 늘어놓다"
+  ],
+  "etym": "이탈리아어 aringa(공개 연설, 게르만 *hring 군중이 둘러선 '원'에서, ring과 동원 추정) -> 프랑스 harangue -> 'harangue'. '둘러선 군중 앞에서 길게 떠드는 말'이 핵심.",
+  "deriv": "게르만 *hring(원·군중) -> 'harangue'. 한국 학습자 핵심: ring(둥글게 둘러섬)과 연결 추정! 부정적 — a long harangue(지루한 일장 연설)·harangue the crowd(군중에게 장광설을 늘어놓다). 유의어 tirade·diatribe·rant. 반대 (짧은) remark·whisper. C2 문어.",
+  "syn": [
+   "tirade(장광설)",
+   "diatribe(통렬한 비난)",
+   "rant(폭언)"
+  ],
+  "anti": [
+   "whisper(속삭임)",
+   "aside(혼잣말)",
+   "compliment(칭찬)"
+  ],
+  "idiom": [
+   "launch into a harangue(일장 연설을 시작하다)"
+  ],
+  "colloc": [
+   "long harangue(지루한 일장 연설)",
+   "harangue the crowd(군중에게 장광설을 늘어놓다)",
+   "political harangue(정치적 열변)"
+  ],
+  "ex_add": "He subjected us to a long harangue about manners.  (harangue=일장 연설)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5361",
+  "hw": "harbinger",
+  "pos": "n.",
+  "cefr": "C2",
+  "core": "숙소를 미리 잡는 선발대 -> '전조·예고하는 것·선구자'.",
+  "senses": [
+   "1) (앞으로 올 일의) 전조, 조짐, 예고",
+   "2) 선구자, 선발 주자"
+  ],
+  "etym": "중세 영어 herbergere(숙소 마련자, 게르만 heriberga 군대 숙영지, heri 군대 + bergan 보호하다) -> 본대보다 먼저 가 숙소를 잡던 사람에서 '먼저 알리는 것' -> 'harbinger'. harbor(항구·피난처)와 같은 뿌리. '앞서 와 다가올 것을 알리는 것'이 핵심.",
+  "deriv": "게르만 heriberga(숙영지) -> 'harbinger'. 한국 학습자 핵심: harbor(피난처)와 한 뿌리! 'a harbinger of': a harbinger of spring(봄의 전령)·harbinger of doom(불길한 전조). 유의어 herald·forerunner·omen. 반대 aftermath·result·consequence. C2 문학.",
+  "syn": [
+   "herald(전조)",
+   "forerunner(선구자)",
+   "omen(징조)"
+  ],
+  "anti": [
+   "aftermath(여파)",
+   "result(결과)",
+   "consequence(귀결)"
+  ],
+  "idiom": [
+   "a harbinger of doom(불길한 전조)"
+  ],
+  "colloc": [
+   "harbinger of spring(봄의 전령)",
+   "harbinger of change(변화의 전조)",
+   "harbinger of doom(불길한 징조)"
+  ],
+  "ex_add": "The swallows are a harbinger of spring.  (harbinger=전조)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5362",
+  "hw": "hedonism",
+  "pos": "n.",
+  "cefr": "C2",
+  "core": "쾌락(hedone)주의 -> '쾌락주의'.",
+  "senses": [
+   "1) 쾌락주의 (쾌락을 인생 최고의 선으로 보는 태도·철학)"
+  ],
+  "etym": "그리스어 hedone(쾌락) + -ism -> 'hedonism'. hedone는 hedonic(쾌락의)의 뿌리. '즐거움을 최고로 추구하는 사고방식'이 핵심.",
+  "deriv": "그리스 hedone(쾌락) -> 'hedonism'. 한국 학습자 핵심: 철학 -ism — hedonism vs asceticism(5274, 금욕주의) 정반대! 행위자 hedonist, 형용사 hedonistic. a life of hedonism(쾌락의 삶). 유의어 self-indulgence·epicureanism. 반대 asceticism·abstinence·self-denial. C2 철학.",
+  "syn": [
+   "self-indulgence(방종)",
+   "epicureanism(향락주의)",
+   "sensualism(관능주의)"
+  ],
+  "anti": [
+   "asceticism(금욕주의)",
+   "abstinence(절제)",
+   "self-denial(극기)"
+  ],
+  "idiom": [
+   "a life of hedonism(쾌락의 삶)"
+  ],
+  "colloc": [
+   "pure hedonism(순전한 쾌락주의)",
+   "life of hedonism(쾌락의 삶)",
+   "mindless hedonism(생각 없는 향락)"
+  ],
+  "ex_add": "The resort is dedicated to pure hedonism.  (hedonism=쾌락주의)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5363",
+  "hw": "heresy",
+  "pos": "n.",
+  "cefr": "C2",
+  "core": "제멋대로 골라(hairein) 택한 설 -> '이단·이설'.",
+  "senses": [
+   "1) (정통 교리에 어긋나는) 이단, 이교",
+   "2) (널리 받아들여진 견해에 반하는) 이설, 불경한 주장"
+  ],
+  "etym": "그리스어 hairesis(선택·분파, hairein 택하다·붙잡다) -> '정통에서 벗어나 제멋대로 택한 믿음' -> 'heresy'. '주류와 다른 길을 택한 주장'이 핵심.",
+  "deriv": "그리스 hairein(택하다) -> 'heresy'. 한국 학습자 핵심: 행위자 heretic(이단자), 형용사 heretical. 비유 확장: It's heresy to question him(그를 의심하는 건 불경이다). 유의어 dissent·apostasy·unorthodoxy. 반대 orthodoxy·conformity·dogma. C2 종교·사상.",
+  "syn": [
+   "dissent(이견)",
+   "apostasy(배교)",
+   "unorthodoxy(비정통)"
+  ],
+  "anti": [
+   "orthodoxy(정통)",
+   "conformity(순응)",
+   "dogma(정설)"
+  ],
+  "idiom": [
+   "sheer heresy(완전한 이단)"
+  ],
+  "colloc": [
+   "accused of heresy(이단으로 고발된)",
+   "religious heresy(종교적 이단)",
+   "sheer heresy(새빨간 이설)"
+  ],
+  "ex_add": "Questioning the method was once considered heresy.  (heresy=이단)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5364",
+  "hw": "iconoclast",
+  "pos": "n.",
+  "cefr": "C2",
+  "core": "우상(eikon)을 부수는(klan) 자 -> '인습 타파주의자·우상 파괴자'.",
+  "senses": [
+   "1) (전통·권위·통념에 도전하는) 인습 타파주의자",
+   "2) (역사) 성상 파괴자"
+  ],
+  "etym": "그리스어 eikonoklastes(성상 파괴자, eikon 형상·우상 + klan 부수다) -> 'iconoclast'. eikon(형상)은 icon(우상·아이콘)의 뿌리. '떠받드는 우상을 깨부수는 사람'이 핵심.",
+  "deriv": "eikon(형상) + klan(부수다) -> 'iconoclast'. 한국 학습자 핵심: icon(우상)과 한 뿌리! 형용사 iconoclastic. 현대엔 칭찬조 — a fearless iconoclast(겁 없는 인습 타파자). 유의어 rebel·nonconformist·radical. 반대 conformist·traditionalist. C2 사상·문화.",
+  "syn": [
+   "rebel(반항아)",
+   "nonconformist(비순응자)",
+   "radical(급진주의자)"
+  ],
+  "anti": [
+   "conformist(순응자)",
+   "traditionalist(전통주의자)",
+   "conservative(보수주의자)"
+  ],
+  "idiom": [
+   "a fearless iconoclast(겁 없는 인습 타파자)"
+  ],
+  "colloc": [
+   "fearless iconoclast(겁 없는 인습 타파자)",
+   "iconoclastic views(인습 타파적 견해)",
+   "cultural iconoclast(문화적 우상 파괴자)"
+  ],
+  "ex_add": "As an iconoclast, she challenged every convention.  (iconoclast=인습 타파주의자)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5365",
+  "hw": "idyllic",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "전원시(eidyllion) 같은 -> '목가적인·더없이 평화로운'.",
+  "senses": [
+   "1) (풍경·생활이) 목가적인, 더없이 평화롭고 아름다운"
+  ],
+  "etym": "그리스어 eidyllion(짧은 전원시, eidos 형상의 축소형) -> 라틴 idyllium -> 'idyllic'. 명사 idyll(전원시·목가적 정경)에서. '그림 같은 전원시 속 정경 같은'이 핵심.",
+  "deriv": "그리스 eidyllion(전원시) -> 'idyllic'. 한국 학습자 핵심: 명사 idyll(목가)·bucolic(5282)·pastoral과 동의어! an idyllic setting(목가적 배경)·idyllic childhood(더없이 행복한 어린 시절). 유의어 picturesque·blissful·pastoral. 반대 grim·dreary·harsh. C2 묘사.",
+  "syn": [
+   "picturesque(그림 같은)",
+   "blissful(더없이 행복한)",
+   "pastoral(목가적인)"
+  ],
+  "anti": [
+   "grim(암울한)",
+   "dreary(음울한)",
+   "harsh(가혹한)"
+  ],
+  "idiom": [
+   "an idyllic setting(목가적 배경)"
+  ],
+  "colloc": [
+   "idyllic setting(목가적 배경)",
+   "idyllic childhood(행복한 어린 시절)",
+   "idyllic scene(평화로운 정경)"
+  ],
+  "ex_add": "They spent an idyllic week by the lake.  (idyllic=목가적인)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5366",
+  "hw": "ignominious",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "이름(nomen)을 잃은(ig) -> '수치스러운·불명예스러운'.",
+  "senses": [
+   "1) (실패·패배가) 치욕적인, 불명예스러운, 창피한"
+  ],
+  "etym": "라틴어 ignominiosus(불명예의, in-(없는) + nomen 이름·명성) -> 'ignominious'. nomen(이름)은 name·nominate·noun·renown의 뿌리. '이름값(명예)을 잃은'이 핵심.",
+  "deriv": "in-(없는) + nomen(이름) -> 'ignominious'. 한국 학습자 핵심: nomen(이름) 어근 — name·nominate·noun·renown·ignominious! 명사 ignominy(치욕). an ignominious defeat(치욕적인 패배)·ignominious end(불명예스러운 종말). 유의어 humiliating·disgraceful·shameful. 반대 glorious·honorable·dignified. C2 서사.",
+  "syn": [
+   "humiliating(굴욕적인)",
+   "disgraceful(수치스러운)",
+   "shameful(창피한)"
+  ],
+  "anti": [
+   "glorious(영광스러운)",
+   "honorable(명예로운)",
+   "dignified(품위 있는)"
+  ],
+  "idiom": [
+   "an ignominious defeat(치욕적인 패배)"
+  ],
+  "colloc": [
+   "ignominious defeat(치욕적인 패배)",
+   "ignominious end(불명예스러운 종말)",
+   "ignominious failure(창피한 실패)"
+  ],
+  "ex_add": "The team suffered an ignominious defeat.  (ignominious=수치스러운)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5367",
+  "hw": "imbroglio",
+  "pos": "n.",
+  "cefr": "C2",
+  "core": "뒤엉킨(brogliare) 상황 -> '복잡한 분규·뒤얽힌 사태'.",
+  "senses": [
+   "1) (특히 정치·인간관계의) 복잡하게 얽힌 분규, 난처한 사태"
+  ],
+  "etym": "이탈리아어 imbroglio(혼란, imbrogliare 뒤엉키게 하다, in-(안에) + brogliare 휘젓다) -> 'imbroglio'. embroil(말려들게 하다)과 같은 계열. 발음 주의(/ɪmˈbroʊlioʊ/, g 묵음). '실타래처럼 뒤엉킨 곤란한 사태'가 핵심.",
+  "deriv": "이탈리아 imbrogliare(뒤엉키게 하다) -> 'imbroglio'. 한국 학습자 핵심: embroil(연루시키다)과 한 계열! 발음 g 묵음. a political imbroglio(정치적 분규)·diplomatic imbroglio(외교적 난국). 유의어 entanglement·quagmire·muddle. 반대 resolution·order·clarity. C2 시사.",
+  "syn": [
+   "entanglement(얽힘)",
+   "quagmire(수렁)",
+   "muddle(혼란)"
+  ],
+  "anti": [
+   "resolution(해결)",
+   "order(질서)",
+   "clarity(명료)"
+  ],
+  "idiom": [
+   "a political imbroglio(정치적 분규)"
+  ],
+  "colloc": [
+   "political imbroglio(정치적 분규)",
+   "diplomatic imbroglio(외교적 난국)",
+   "legal imbroglio(법적 분규)"
+  ],
+  "ex_add": "The scandal grew into a major political imbroglio.  (imbroglio=복잡한 분규)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5368",
+  "hw": "immaculate",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "얼룩(macula)이 없는(im) -> '티 하나 없는·완벽한·결백한'.",
+  "senses": [
+   "1) 티 하나 없이 깨끗한, 흠잡을 데 없는",
+   "2) (행실이) 결백한, 순결한"
+  ],
+  "etym": "라틴어 immaculatus(얼룩 없는, in-(없는) + macula 얼룩·점) -> 'immaculate'. macula(얼룩)는 maculate(더럽히다)·immaculate의 뿌리. '점 하나 없이 깨끗한'이 핵심.",
+  "deriv": "in-(없는) + macula(얼룩) -> 'immaculate'. 한국 학습자 핵심: macula(얼룩) 어근 — maculate·immaculate! 가톨릭 the Immaculate Conception(무염시태)로 유명. immaculate condition(완벽한 상태)·immaculate white(새하얀). 유의어 spotless·pristine(5174)·flawless. 반대 dirty·stained·flawed. C2 묘사.",
+  "syn": [
+   "spotless(흠 없는)",
+   "pristine(아주 깨끗한)",
+   "flawless(완벽한)"
+  ],
+  "anti": [
+   "dirty(더러운)",
+   "stained(얼룩진)",
+   "flawed(흠 있는)"
+  ],
+  "idiom": [
+   "in immaculate condition(완벽한 상태로)"
+  ],
+  "colloc": [
+   "immaculate condition(완벽한 상태)",
+   "immaculate appearance(흠잡을 데 없는 외모)",
+   "immaculately dressed(완벽하게 차려입은)"
+  ],
+  "ex_add": "The kitchen was immaculate.  (immaculate=티 하나 없는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5369",
+  "hw": "magnate",
+  "pos": "n.",
+  "cefr": "C2",
+  "core": "큰(magnus) 인물 -> '거물·재계 거물'.",
+  "senses": [
+   "1) (특정 업계의) 거물, 실력자, 큰손"
+  ],
+  "etym": "후기 라틴어 magnas(큰 사람, magnus 큰) -> 'magnate'. magnanimous(5124)·magnify와 같은 magnus(큰) 뿌리. '업계에서 막대한 영향력을 가진 거물'이 핵심.",
+  "deriv": "라틴어 magnus(큰) -> 'magnate'. 한국 학습자 핵심: magnus(큰) 어근 — magnify·magnitude·magnanimous(5124)·magnate! 동음이의 magnet(자석)과 철자·뜻 혼동 주의! a media magnate(언론 재벌)·oil magnate(석유 거물). 유의어 tycoon·mogul·baron. 반대 nobody·underling. C2 경제.",
+  "syn": [
+   "tycoon(거물)",
+   "mogul(거물)",
+   "baron(재벌)"
+  ],
+  "anti": [
+   "nobody(보잘것없는 사람)",
+   "underling(아랫사람)",
+   "subordinate(부하)"
+  ],
+  "idiom": [
+   "a media magnate(언론 재벌)"
+  ],
+  "colloc": [
+   "media magnate(언론 재벌)",
+   "oil magnate(석유 거물)",
+   "shipping magnate(해운 거물)"
+  ],
+  "ex_add": "The hotel was built by a property magnate.  (magnate=거물)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5370",
+  "hw": "impassive",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "감정(passio)이 안(im) 드러나는 -> '무표정한·냉정한'.",
+  "senses": [
+   "1) (표정·태도가) 무표정한, 감정을 드러내지 않는, 태연한"
+  ],
+  "etym": "영어 in-(부정) + passive(라틴 pati 견디다·느끼다, passio 감정·수난) -> 'impassive'. pati(느끼다)는 passion·patient·compassion·sympathy의 뿌리. '감정의 동요가 겉으로 안 비치는'이 핵심.",
+  "deriv": "in-(부정) + pati(느끼다) -> 'impassive'. 한국 학습자 핵심: pati(느끼다·견디다) 어근 — passion·patient·compassion·impassive! stoic(5214)과 유사. an impassive face(무표정한 얼굴)·remain impassive(태연하다). 유의어 expressionless·stoic·unemotional. 반대 expressive·emotional·animated. C2 인물 묘사.",
+  "syn": [
+   "expressionless(무표정한)",
+   "stoic(의연한)",
+   "unemotional(감정 없는)"
+  ],
+  "anti": [
+   "expressive(표정이 풍부한)",
+   "emotional(감정적인)",
+   "animated(생기 넘치는)"
+  ],
+  "idiom": [
+   "an impassive face(무표정한 얼굴)"
+  ],
+  "colloc": [
+   "impassive face(무표정한 얼굴)",
+   "remain impassive(태연함을 유지하다)",
+   "impassive expression(무표정한 표정)"
+  ],
+  "ex_add": "His face remained impassive throughout the trial.  (impassive=무표정한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5371",
+  "hw": "impecunious",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "돈(pecunia)이 없는(im) -> '돈이 궁한·빈털터리의'.",
+  "senses": [
+   "1) (만성적으로) 돈이 없는, 가난한, 빈털터리의"
+  ],
+  "etym": "라틴어 in-(없는) + pecunia(돈, pecu 가축) -> 'impecunious'. 고대에 가축(pecu)이 곧 재산이었던 데서 pecuniary(금전상의)·peculiar(원래 '사유의')도 파생. '재산(가축)이 없는'이 핵심.",
+  "deriv": "in-(없는) + pecunia(돈, pecu 가축) -> 'impecunious'. 한국 학습자 핵심: pecu(가축=재산) 어근 — pecuniary(금전의)·peculiar·impecunious! an impecunious student(돈 없는 학생)·impecunious artist(가난한 예술가). 유의어 penniless·destitute·impoverished. 반대 affluent(5264)·wealthy·prosperous. C2 문어.",
+  "syn": [
+   "penniless(무일푼의)",
+   "destitute(빈곤한)",
+   "impoverished(궁핍한)"
+  ],
+  "anti": [
+   "affluent(부유한)",
+   "wealthy(부유한)",
+   "prosperous(번영하는)"
+  ],
+  "idiom": [
+   "an impecunious student(돈 없는 학생)"
+  ],
+  "colloc": [
+   "impecunious student(돈 없는 학생)",
+   "impecunious artist(가난한 예술가)",
+   "chronically impecunious(만성적으로 빈곤한)"
+  ],
+  "ex_add": "As an impecunious writer, he could barely pay rent.  (impecunious=돈이 궁한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5372",
+  "hw": "imperturbable",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "휘저어(turbare) 흔들 수 없는(im) -> '동요하지 않는·침착한'.",
+  "senses": [
+   "1) (어떤 상황에도) 동요하지 않는, 침착한, 태연자약한"
+  ],
+  "etym": "라틴어 imperturbabilis(흔들 수 없는, in-(부정) + perturbare 어지럽히다, per-(완전히) + turbare 휘젓다, turba 혼란) -> 'imperturbable'. turba(혼란)는 disturb·turbulent·perturb의 뿌리. '아무리 휘저어도 흔들리지 않는'이 핵심.",
+  "deriv": "in-(부정) + turbare(휘젓다) -> 'imperturbable'. 한국 학습자 핵심: turba(혼란) 어근 — disturb·turbulent·perturb·imperturbable! equanimity(5333)와 통함. imperturbable calm(흔들림 없는 침착). 유의어 unflappable·composed·serene. 반대 excitable·flustered·agitated. C2 인물 묘사.",
+  "syn": [
+   "unflappable(침착한)",
+   "composed(차분한)",
+   "serene(평온한)"
+  ],
+  "anti": [
+   "excitable(쉽게 흥분하는)",
+   "flustered(허둥대는)",
+   "agitated(동요한)"
+  ],
+  "idiom": [
+   "imperturbable calm(흔들림 없는 침착)"
+  ],
+  "colloc": [
+   "imperturbable calm(흔들림 없는 침착)",
+   "remain imperturbable(태연자약하다)",
+   "imperturbable manner(침착한 태도)"
+  ],
+  "ex_add": "The pilot stayed imperturbable during the storm.  (imperturbable=동요하지 않는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5373",
+  "hw": "impervious",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "통로(via)가 안(im) 뚫리는 -> '스며들지 않는·영향받지 않는'.",
+  "senses": [
+   "1) (물·빛이) 통과시키지 않는, 불침투성의",
+   "2) (비판·영향에) 끄떡없는, 영향받지 않는"
+  ],
+  "etym": "라틴어 impervius(지나갈 수 없는, in-(부정) + per-(통과) + via 길) -> 'impervious'. via(길)는 way·via·obvious·previous의 뿌리. '뚫고 지나갈 수 없는 -> 영향이 안 미치는'이 핵심.",
+  "deriv": "in-(부정) + via(길) -> 'impervious'. 한국 학습자 핵심: via(길) 어근 — way·obvious·previous·trivial·impervious! 'impervious to': impervious to water(방수의)·impervious to criticism(비판에 끄떡없는). 유의어 impermeable·resistant·immune. 반대 permeable·susceptible·vulnerable. C2 과학·심리.",
+  "syn": [
+   "impermeable(불침투성의)",
+   "resistant(저항하는)",
+   "immune(영향받지 않는)"
+  ],
+  "anti": [
+   "permeable(투과성의)",
+   "susceptible(영향받기 쉬운)",
+   "vulnerable(취약한)"
+  ],
+  "idiom": [
+   "impervious to criticism(비판에 끄떡없는)"
+  ],
+  "colloc": [
+   "impervious to water(방수의)",
+   "impervious to criticism(비판에 끄떡없는)",
+   "impervious to change(변화에 끄떡없는)"
+  ],
+  "ex_add": "He seems impervious to criticism.  (impervious=영향받지 않는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5374",
+  "hw": "impetuous",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "확 덮치는(petere) 기세의 -> '충동적인·성급한'.",
+  "senses": [
+   "1) (행동이) 충동적인, 성급한, 앞뒤 안 가리는"
+  ],
+  "etym": "라틴어 impetuosus(맹렬한, impetus 돌진, in-(향해) + petere 나아가다·공격하다) -> 'impetuous'. perpetuate(5158)·appetite와 같은 petere(향하다) 뿌리. '앞뒤 없이 확 돌진하는'이 핵심.",
+  "deriv": "in-(향해) + petere(나아가다) -> 'impetuous'. 한국 학습자 핵심: petere(향하다) 어근 — compete·appetite·petition·impetus·impetuous! 명사 impetus(추진력)와 한 뿌리. an impetuous decision(충동적 결정). 유의어 impulsive·rash·hasty. 반대 cautious·prudent(5182)·deliberate. C2 인물 묘사.",
+  "syn": [
+   "impulsive(충동적인)",
+   "rash(성급한)",
+   "hasty(조급한)"
+  ],
+  "anti": [
+   "cautious(신중한)",
+   "prudent(분별 있는)",
+   "deliberate(신중한)"
+  ],
+  "idiom": [
+   "an impetuous decision(충동적 결정)"
+  ],
+  "colloc": [
+   "impetuous decision(충동적 결정)",
+   "impetuous youth(혈기 왕성한 젊음)",
+   "impetuous nature(성급한 성격)"
+  ],
+  "ex_add": "In his youth he was impetuous and reckless.  (impetuous=충동적인)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5375",
+  "hw": "implacable",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "달랠(placare) 수 없는(im) -> '누그러뜨릴 수 없는·집요한'.",
+  "senses": [
+   "1) (적의·반대가) 누그러질 줄 모르는, 가차 없는, 집요한"
+  ],
+  "etym": "라틴어 implacabilis(달랠 수 없는, in-(부정) + placare 달래다) -> 'implacable'. placate(5163)와 같은 placare(달래다) 뿌리. '아무리 달래도 풀리지 않는'이 핵심.",
+  "deriv": "in-(부정) + placare(달래다) -> 'implacable'. 한국 학습자 핵심: placare(달래다) 어근 — placate(5163)·placid·implacable! an implacable enemy(가차 없는 적)·implacable hatred(누그러질 줄 모르는 증오)·implacable opposition. 유의어 relentless·unrelenting·inexorable. 반대 forgiving·lenient·placable. C2 서사.",
+  "syn": [
+   "relentless(끈질긴)",
+   "unrelenting(가차 없는)",
+   "inexorable(거침없는)"
+  ],
+  "anti": [
+   "forgiving(잘 용서하는)",
+   "lenient(관대한)",
+   "merciful(자비로운)"
+  ],
+  "idiom": [
+   "an implacable enemy(가차 없는 적)"
+  ],
+  "colloc": [
+   "implacable enemy(가차 없는 적)",
+   "implacable hatred(집요한 증오)",
+   "implacable opposition(완강한 반대)"
+  ],
+  "ex_add": "She faced implacable opposition from the board.  (implacable=누그러뜨릴 수 없는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5376",
+  "hw": "inane",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "텅 빈(inanis) -> '시시한·어리석은·알맹이 없는'.",
+  "senses": [
+   "1) (말·행동이) 시시한, 어리석은, 무의미한, 속 빈"
+  ],
+  "etym": "라틴어 inanis(텅 빈·공허한) -> 'inane'. 명사 inanity(어리석음). '내용물이 하나도 없는 -> 알맹이 없이 시시한'이 핵심.",
+  "deriv": "라틴어 inanis(텅 빈) -> 'inane'. 한국 학습자 핵심: inanis(빈) -> inane·inanity! an inane question(시시한 질문)·inane chatter(실없는 수다)·inane grin(멍한 웃음). 유의어 silly·fatuous(5346)·vapid. 반대 profound·meaningful·sensible. C2 논평.",
+  "syn": [
+   "silly(어리석은)",
+   "fatuous(얼빠진)",
+   "vapid(맥 빠진)"
+  ],
+  "anti": [
+   "profound(심오한)",
+   "meaningful(의미 있는)",
+   "sensible(분별 있는)"
+  ],
+  "idiom": [
+   "inane chatter(실없는 수다)"
+  ],
+  "colloc": [
+   "inane question(시시한 질문)",
+   "inane chatter(실없는 수다)",
+   "inane comment(알맹이 없는 말)"
+  ],
+  "ex_add": "I'm tired of his inane remarks.  (inane=시시한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5377",
+  "hw": "incandescent",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "속까지(in) 하얗게 달아오른(candere) -> '백열의·이글거리는 / 격렬한'.",
+  "senses": [
+   "1) 백열의, 백열광을 내는",
+   "2) (감정·연기가) 이글거리는, 눈부신, 격분한"
+  ],
+  "etym": "라틴어 incandescere(달아오르다, in-(안으로) + candere 하얗게 빛나다)의 현재분사 -> 'incandescent'. candere(빛나다)는 candle(초)·candid(솔직한, '환한')·candidate(흰 옷 입은 후보)의 뿌리. '하얗게 달아오른'이 핵심.",
+  "deriv": "in-(안으로) + candere(빛나다) -> 'incandescent'. 한국 학습자 핵심: candere(빛나다) 어근 — candle·candid·candidate·incandescent! incandescent bulb(백열전구)·incandescent with rage(분노로 이글거리는). 유의어 glowing·blazing·radiant. 반대 dim·dull·cold. C2 과학·묘사.",
+  "syn": [
+   "glowing(이글거리는)",
+   "blazing(타오르는)",
+   "radiant(눈부신)"
+  ],
+  "anti": [
+   "dim(흐릿한)",
+   "dull(칙칙한)",
+   "cold(차가운)"
+  ],
+  "idiom": [
+   "incandescent with rage(분노로 이글거리는)"
+  ],
+  "colloc": [
+   "incandescent bulb(백열전구)",
+   "incandescent light(백열광)",
+   "incandescent performance(눈부신 연기)"
+  ],
+  "ex_add": "She gave an incandescent performance on stage.  (incandescent=눈부신)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5378",
+  "hw": "incendiary",
+  "pos": "adj., n.",
+  "cefr": "C2",
+  "core": "불(candere/incendere) 지르는 -> '방화의·선동적인 / 방화범·소이탄'.",
+  "senses": [
+   "1) (adj.) 방화의, 불을 내는; (말이) 선동적인",
+   "2) (n.) 방화범, 소이탄"
+  ],
+  "etym": "라틴어 incendiarius(불을 지르는, incendere 불태우다, in-(안에) + candere 빛나다·타다) -> 'incendiary'. incandescent(5377)와 같은 candere 뿌리. '불을 붙이는 -> 감정을 부추기는'이 핵심.",
+  "deriv": "in- + candere(타다) -> 'incendiary'. 한국 학습자 핵심: incandescent(5377)와 한 뿌리(candere)! 두 결 — ① 방화(incendiary bomb 소이탄) ② 선동(incendiary remarks 선동적 발언). 유의어 inflammatory·provocative(5181)·seditious. 반대 calming·soothing·placatory. C2 시사·군사.",
+  "syn": [
+   "inflammatory(선동적인)",
+   "provocative(도발적인)",
+   "seditious(선동적인)"
+  ],
+  "anti": [
+   "calming(진정시키는)",
+   "soothing(달래는)",
+   "placatory(달래는)"
+  ],
+  "idiom": [
+   "incendiary remarks(선동적 발언)"
+  ],
+  "colloc": [
+   "incendiary bomb(소이탄)",
+   "incendiary remarks(선동적 발언)",
+   "incendiary device(방화 장치)"
+  ],
+  "ex_add": "His incendiary speech sparked the riot.  (incendiary=선동적인)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5379",
+  "hw": "inchoate",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "이제 막 시작된 -> '초기의·미완성의·어렴풋한'.",
+  "senses": [
+   "1) 이제 막 시작되어 미완성인, 초기 단계의",
+   "2) (생각이) 어렴풋한, 정리되지 않은"
+  ],
+  "etym": "라틴어 inchoare/incohare(시작하다, 원래 '멍에 끈을 매다'에서 추정)의 과거분사 inchoatus -> 'inchoate'. '아직 형태를 갖추지 못하고 시작 단계인'이 핵심. 발음 주의(/ɪnˈkoʊət/).",
+  "deriv": "라틴어 incohare(시작하다) -> 'inchoate'. 한국 학습자 핵심: 발음 /ɪnˈkoʊət/(인코잇)! rudimentary(5202)·nascent와 유사. inchoate ideas(어렴풋한 생각)·inchoate feelings(정리 안 된 감정). 유의어 nascent·embryonic·rudimentary. 반대 fully formed·mature·developed. C2 학술.",
+  "syn": [
+   "nascent(초기의)",
+   "embryonic(태아기의)",
+   "rudimentary(기초적인)"
+  ],
+  "anti": [
+   "mature(성숙한)",
+   "developed(발전된)",
+   "established(확립된)"
+  ],
+  "idiom": [
+   "inchoate ideas(어렴풋한 생각)"
+  ],
+  "colloc": [
+   "inchoate ideas(어렴풋한 생각)",
+   "inchoate feelings(정리 안 된 감정)",
+   "inchoate state(초기 상태)"
+  ],
+  "ex_add": "His plan was still inchoate and unclear.  (inchoate=초기의)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5380",
+  "hw": "incipient",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "막 잡기(capere) 시작한 -> '초기의·시작 단계의'.",
+  "senses": [
+   "1) (이제 막 생겨나) 초기의, 발생 초기의, 싹트기 시작한"
+  ],
+  "etym": "라틴어 incipere(시작하다, in-(안으로) + capere 잡다)의 현재분사 incipiens -> 'incipient'. capere(잡다)는 capture·accept·receive·principle의 거대 뿌리. '막 손에 잡혀 시작되는'이 핵심.",
+  "deriv": "in-(안으로) + capere(잡다) -> 'incipient'. 한국 학습자 핵심: capere(잡다) 거대 어근 — capture·accept·receive·principle·incipient! incipient stage(초기 단계)·incipient crisis(시작되는 위기). 유의어 emerging·nascent·budding. 반대 advanced·mature·full-blown. C2 학술·의학.",
+  "syn": [
+   "emerging(생겨나는)",
+   "nascent(초기의)",
+   "budding(싹트는)"
+  ],
+  "anti": [
+   "advanced(진행된)",
+   "mature(성숙한)",
+   "full-blown(완전히 발현된)"
+  ],
+  "idiom": [
+   "an incipient crisis(초기 위기)"
+  ],
+  "colloc": [
+   "incipient stage(초기 단계)",
+   "incipient crisis(시작되는 위기)",
+   "incipient signs(초기 징후)"
+  ],
+  "ex_add": "Doctors detected the disease in its incipient stage.  (incipient=초기의)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5381",
+  "hw": "incontrovertible",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "반대로(contro) 돌릴(vertere) 수 없는(in) -> '반박할 수 없는·명백한'.",
+  "senses": [
+   "1) (사실·증거가) 반박할 수 없는, 명백한, 논쟁의 여지가 없는"
+  ],
+  "etym": "영어 in-(부정) + controvertible(논박 가능한, 라틴 contra-(반대) + vertere 돌리다) -> 'incontrovertible'. aversion(5277)·controversy와 같은 vertere(돌리다) 뿌리. '반대로 뒤집을 수 없는'이 핵심.",
+  "deriv": "in- + contra-(반대) + vertere(돌리다) -> 'incontrovertible'. 한국 학습자 핵심: vertere(돌리다) 거대 어근 — convert·controversy·aversion(5277)·incontrovertible! incontrovertible evidence(반박 불가능한 증거)·incontrovertible fact(명백한 사실). 유의어 indisputable·irrefutable·undeniable. 반대 debatable·disputable·questionable. C2 논증.",
+  "syn": [
+   "indisputable(반론의 여지없는)",
+   "irrefutable(반박 불가한)",
+   "undeniable(부인할 수 없는)"
+  ],
+  "anti": [
+   "debatable(논쟁의 여지 있는)",
+   "disputable(이론이 있는)",
+   "questionable(의심스러운)"
+  ],
+  "idiom": [
+   "incontrovertible evidence(반박 불가한 증거)"
+  ],
+  "colloc": [
+   "incontrovertible evidence(반박 불가한 증거)",
+   "incontrovertible fact(명백한 사실)",
+   "incontrovertible proof(확실한 증거)"
+  ],
+  "ex_add": "The DNA provided incontrovertible proof.  (incontrovertible=반박할 수 없는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5382",
+  "hw": "incorrigible",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "바로잡을(corrigere) 수 없는(in) -> '구제 불능의·고질적인'.",
+  "senses": [
+   "1) (나쁜 버릇이) 고칠 수 없는, 구제 불능의, 상습적인"
+  ],
+  "etym": "라틴어 incorrigibilis(바로잡을 수 없는, in-(부정) + corrigere 바로잡다, com-(함께) + regere 곧게 하다·다스리다) -> 'incorrigible'. regere(다스리다)는 correct·direct·regular·rectify의 거대 뿌리. '아무리 고치려 해도 안 되는'이 핵심.",
+  "deriv": "in- + corrigere(바로잡다, regere 다스리다) -> 'incorrigible'. 한국 학습자 핵심: regere(다스리다·곧게) 거대 어근 — correct·direct·regular·rectify·incorrigible! 종종 농담조 — an incorrigible flirt(구제 불능 바람둥이)·incorrigible optimist. 유의어 inveterate(5388)·hardened·hopeless. 반대 reformable·correctable. C2 인물 묘사.",
+  "syn": [
+   "inveterate(상습적인)",
+   "hardened(굳어 버린)",
+   "hopeless(구제 불능의)"
+  ],
+  "anti": [
+   "reformable(교정 가능한)",
+   "correctable(고칠 수 있는)",
+   "reformed(교화된)"
+  ],
+  "idiom": [
+   "an incorrigible optimist(구제 불능 낙천가)"
+  ],
+  "colloc": [
+   "incorrigible liar(상습적 거짓말쟁이)",
+   "incorrigible optimist(구제 불능 낙천가)",
+   "incorrigible behavior(고질적 행동)"
+  ],
+  "ex_add": "He's an incorrigible gossip.  (incorrigible=구제 불능의)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5383",
+  "hw": "indolent",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "고통(dolere)을 안(in) 느끼고 빈둥대는 -> '나태한·게으른'.",
+  "senses": [
+   "1) 나태한, 게으른, 빈둥대는"
+  ],
+  "etym": "라틴어 indolens(고통 없는, in-(없는) + dolere 아파하다)의 현재분사 -> '아쉬울 게 없어 애쓰지 않는' -> 'indolent'. dolere(아프다)는 doleful(슬픈)·condolence(애도)의 뿌리. '수고를 마다하고 늘어진'이 핵심.",
+  "deriv": "in-(없는) + dolere(아프다) -> 'indolent'. 한국 학습자 핵심: dolere(아프다) 어근 — doleful·condolence·indolent! 원래 '아픔 없는'에서 '게으른'으로 의미 이동. an indolent lifestyle(나태한 생활). 유의어 lazy·slothful·lethargic(5119). 반대 industrious·diligent·energetic. C2 인물 묘사.",
+  "syn": [
+   "lazy(게으른)",
+   "slothful(나태한)",
+   "lethargic(무기력한)"
+  ],
+  "anti": [
+   "industrious(부지런한)",
+   "diligent(근면한)",
+   "energetic(활기찬)"
+  ],
+  "idiom": [
+   "an indolent lifestyle(나태한 생활)"
+  ],
+  "colloc": [
+   "indolent lifestyle(나태한 생활)",
+   "indolent manner(게으른 태도)",
+   "naturally indolent(천성이 게으른)"
+  ],
+  "ex_add": "He spent an indolent afternoon by the pool.  (indolent=나태한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5384",
+  "hw": "ineffable",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "말로(fari) 할 수 없는(in) -> '형언할 수 없는·말로 다 못 할'.",
+  "senses": [
+   "1) (감정·아름다움이) 형언할 수 없는, 말로 표현이 안 되는"
+  ],
+  "etym": "라틴어 ineffabilis(말할 수 없는, in-(부정) + effari 말하다, ex-(밖으로) + fari 말하다) -> 'ineffable'. fari(말하다)는 fable·fate·infant(말 못 하는 아기)·preface의 뿌리. '말로 담아낼 수 없는'이 핵심.",
+  "deriv": "in- + fari(말하다) -> 'ineffable'. 한국 학습자 핵심: fari(말하다) 어근 — fable·fate·infant·preface·ineffable! ineffable joy(형언할 수 없는 기쁨)·ineffable beauty(말로 못 할 아름다움). 유의어 indescribable·inexpressible·unutterable. 반대 describable·expressible·mundane. C2 문학.",
+  "syn": [
+   "indescribable(형언 못 할)",
+   "inexpressible(표현 못 할)",
+   "unutterable(말로 못 할)"
+  ],
+  "anti": [
+   "describable(묘사 가능한)",
+   "expressible(표현 가능한)",
+   "mundane(평범한)"
+  ],
+  "idiom": [
+   "ineffable joy(형언할 수 없는 기쁨)"
+  ],
+  "colloc": [
+   "ineffable joy(형언할 수 없는 기쁨)",
+   "ineffable beauty(말로 못 할 아름다움)",
+   "ineffable sadness(형언 못 할 슬픔)"
+  ],
+  "ex_add": "She felt an ineffable sense of peace.  (ineffable=형언할 수 없는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5385",
+  "hw": "ingenuous",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "타고난(genus) 그대로 -> '순진한·꾸밈없는·솔직한'.",
+  "senses": [
+   "1) (사람이) 순진한, 천진한, 꾸밈없이 솔직한"
+  ],
+  "etym": "라틴어 ingenuus(자유민으로 태어난·고결한, in-(안에) + gignere 낳다) -> '타고난 그대로 솔직한' -> 'ingenuous'. congenial(5296)·genius와 같은 gignere(낳다) 뿌리. '꾸밈없이 타고난 그대로'가 핵심.",
+  "deriv": "in-(안에) + gignere(낳다) -> 'ingenuous'. 한국 학습자 핵심: 혼동 절대 주의! ingenuous(순진한) vs ingenious(독창적인) — 철자 i 하나 차이, 뜻 완전 다름! disingenuous(음흉한)는 반대. an ingenuous smile(천진한 미소). 유의어 naive·artless·candid. 반대 cunning·disingenuous·devious. C2 인물 묘사.",
+  "syn": [
+   "naive(순진한)",
+   "artless(꾸밈없는)",
+   "candid(솔직한)"
+  ],
+  "anti": [
+   "cunning(교활한)",
+   "disingenuous(음흉한)",
+   "devious(딴마음 있는)"
+  ],
+  "idiom": [
+   "an ingenuous smile(천진한 미소)"
+  ],
+  "colloc": [
+   "ingenuous smile(천진한 미소)",
+   "ingenuous manner(꾸밈없는 태도)",
+   "disarmingly ingenuous(무장 해제될 만큼 순진한)"
+  ],
+  "ex_add": "Her ingenuous remark made everyone smile.  (ingenuous=순진한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5386",
+  "hw": "inimical",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "적(inimicus)과 같은 -> '해로운·적대적인'.",
+  "senses": [
+   "1) (~에) 해로운, 불리한",
+   "2) 적대적인, 비우호적인"
+  ],
+  "etym": "라틴어 inimicus(적, in-(아닌) + amicus 친구) -> inimicalis -> 'inimical'. enmity(5331)와 같은 amicus(친구) 뿌리. '친구가 아닌 -> 해를 끼치는·적대적인'이 핵심.",
+  "deriv": "in-(아닌) + amicus(친구) -> 'inimical'. 한국 학습자 핵심: amicus(친구) 어근 — amiable·amicable·enemy·enmity(5331)·inimical! 'inimical to': inimical to progress(발전에 해로운)·inimical to freedom. 유의어 harmful·hostile·detrimental. 반대 favorable·beneficial·friendly. C2 논설.",
+  "syn": [
+   "harmful(해로운)",
+   "hostile(적대적인)",
+   "detrimental(해로운)"
+  ],
+  "anti": [
+   "favorable(우호적인)",
+   "beneficial(이로운)",
+   "friendly(친근한)"
+  ],
+  "idiom": [
+   "inimical to(~에 해로운)"
+  ],
+  "colloc": [
+   "inimical to progress(발전에 해로운)",
+   "inimical to interests(이익에 반하는)",
+   "inimical environment(적대적 환경)"
+  ],
+  "ex_add": "Such policies are inimical to free trade.  (inimical=해로운)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5387",
+  "hw": "iniquity",
+  "pos": "n.",
+  "cefr": "C2",
+  "core": "고르지(aequus) 못함(in) -> '부정·사악함·죄악'.",
+  "senses": [
+   "1) (심한) 부정, 불의, 사악함, 죄악"
+  ],
+  "etym": "라틴어 iniquitas(불공정·사악, in-(아닌) + aequus 고른·공정한) -> 'iniquity'. equanimity(5333)·equal과 같은 aequus(고른) 뿌리. '공정함이 무너진 -> 극심한 부정·죄악'이 핵심.",
+  "deriv": "in-(아닌) + aequus(고른) -> 'iniquity'. 한국 학습자 핵심: aequus(고른) 어근 — equal·equity·equanimity(5333)·iniquity! equity(공정)의 정반대. 형용사 iniquitous. a den of iniquity(악의 소굴). 유의어 wickedness·injustice·sin. 반대 righteousness·justice·virtue. C2 종교·논설.",
+  "syn": [
+   "wickedness(사악함)",
+   "injustice(불의)",
+   "sin(죄)"
+  ],
+  "anti": [
+   "righteousness(정의)",
+   "justice(공정)",
+   "virtue(미덕)"
+  ],
+  "idiom": [
+   "a den of iniquity(악의 소굴)"
+  ],
+  "colloc": [
+   "den of iniquity(악의 소굴)",
+   "social iniquity(사회적 불의)",
+   "gross iniquity(극심한 부정)"
+  ],
+  "ex_add": "The prophet condemned the iniquity of the city.  (iniquity=죄악)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5388",
+  "hw": "inveterate",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "오래(vetus) 묵어 굳어진 -> '뿌리 깊은·상습적인'.",
+  "senses": [
+   "1) (습관·감정이) 뿌리 깊은, 만성적인",
+   "2) (사람이) 상습적인, 골수의"
+  ],
+  "etym": "라틴어 inveteratus(오래되어 굳은, in-(안에) + vetus 늙은·오래된)의 과거분사 -> 'inveterate'. vetus(오래된)는 veteran(노련한)·veterinary(원래 '늙은 짐승의')의 뿌리. '오래 묵어 떼어 낼 수 없게 굳은'이 핵심.",
+  "deriv": "in-(안에) + vetus(오래된) -> 'inveterate'. 한국 학습자 핵심: vetus(오래된) 어근 — veteran·veterinary·inveterate! 사람 수식 — an inveterate gambler(골수 도박꾼)·inveterate liar(상습 거짓말쟁이). incorrigible(5382)와 유사. 유의어 habitual·chronic·confirmed. 반대 occasional·reformed. C2 인물 묘사.",
+  "syn": [
+   "habitual(상습적인)",
+   "chronic(만성의)",
+   "confirmed(굳어진)"
+  ],
+  "anti": [
+   "occasional(이따금의)",
+   "reformed(교화된)",
+   "casual(어쩌다의)"
+  ],
+  "idiom": [
+   "an inveterate gambler(골수 도박꾼)"
+  ],
+  "colloc": [
+   "inveterate gambler(골수 도박꾼)",
+   "inveterate liar(상습 거짓말쟁이)",
+   "inveterate habit(뿌리 깊은 습관)"
+  ],
+  "ex_add": "He's an inveterate collector of old maps.  (inveterate=골수의)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5389",
+  "hw": "irascible",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "화(ira)를 잘 내는 -> '성마른·화 잘 내는'.",
+  "senses": [
+   "1) (성미가) 화를 잘 내는, 성마른, 욱하는"
+  ],
+  "etym": "라틴어 irascibilis(화를 잘 내는, irasci 화내다, ira 분노) -> 'irascible'. ira(분노)는 ire(분노)·irate(격노한)의 뿌리. '걸핏하면 발끈하는 기질의'가 핵심.",
+  "deriv": "라틴어 ira(분노) -> 'irascible'. 한국 학습자 핵심: ira(분노) 어근 — ire·irate·irascible! an irascible old man(성마른 노인)·irascible temper(욱하는 성미). 유의어 irritable·short-tempered·testy. 반대 placid·even-tempered·calm. C2 인물 묘사.",
+  "syn": [
+   "irritable(짜증을 잘 내는)",
+   "short-tempered(성급한)",
+   "testy(까칠한)"
+  ],
+  "anti": [
+   "placid(차분한)",
+   "even-tempered(온화한)",
+   "calm(침착한)"
+  ],
+  "idiom": [
+   "an irascible temper(욱하는 성미)"
+  ],
+  "colloc": [
+   "irascible old man(성마른 노인)",
+   "irascible temper(욱하는 성미)",
+   "irascible nature(화를 잘 내는 성격)"
+  ],
+  "ex_add": "The irascible professor snapped at the students.  (irascible=성마른)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5390",
+  "hw": "jaded",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "지친 말(jade)처럼 -> '싫증 난·물린·지친'.",
+  "senses": [
+   "1) (너무 많이 겪어) 싫증 난, 물려 버린, 시큰둥한",
+   "2) 지치고 피곤한"
+  ],
+  "etym": "영어 jade(지쳐 빠진 말·늙은 말)에서 -> '말이 혹사당해 지치듯 닳아 싫증 난' -> 'jaded'. (보석 jade와는 무관.) '신선함이 사라져 무덤덤해진'이 핵심.",
+  "deriv": "jade(지친 말) -> 'jaded'. 한국 학습자 핵심: 보석 jade(옥)와 동음이의 — 여기선 '지친 말'에서! a jaded palate(물린 입맛)·jaded audience(식상한 관객)·feel jaded(진력나다). 유의어 weary·blasé·world-weary. 반대 fresh·enthusiastic·eager. C2 심리.",
+  "syn": [
+   "weary(지친)",
+   "blasé(시큰둥한)",
+   "world-weary(세상에 지친)"
+  ],
+  "anti": [
+   "fresh(생기 있는)",
+   "enthusiastic(열성적인)",
+   "eager(열망하는)"
+  ],
+  "idiom": [
+   "a jaded palate(물린 입맛)"
+  ],
+  "colloc": [
+   "jaded palate(물린 입맛)",
+   "jaded audience(식상한 관객)",
+   "feel jaded(진력나다)"
+  ],
+  "ex_add": "After years of travel, she felt jaded.  (jaded=싫증 난)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5391",
+  "hw": "jaundiced",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "황달(jaune 노란)에 걸린 듯 -> '편견에 찬·삐딱한 / 황달의'.",
+  "senses": [
+   "1) (질투·환멸로) 삐딱한, 편견에 찬, 비뚤어진",
+   "2) 황달에 걸린"
+  ],
+  "etym": "프랑스어 jaunisse(황달, jaune 노란)에서 -> 황달로 세상이 노랗게 보이듯 '세상을 비뚤어지게 보는' -> 'jaundiced'. jaune(노란)는 yellow와 의미 짝. '환멸로 모든 걸 부정적으로 보는'이 핵심.",
+  "deriv": "프랑스 jaune(노란) -> 'jaundiced'. 한국 학습자 핵심: 황달(jaundice)에서 비유 — '노랗게 일그러진 시선'! 'a jaundiced view/eye': take a jaundiced view of(~을 삐딱하게 보다). 유의어 cynical·bitter·prejudiced. 반대 optimistic·impartial·favorable. C2 논평.",
+  "syn": [
+   "cynical(냉소적인)",
+   "bitter(꼬인)",
+   "prejudiced(편견 있는)"
+  ],
+  "anti": [
+   "optimistic(낙관적인)",
+   "impartial(공정한)",
+   "favorable(호의적인)"
+  ],
+  "idiom": [
+   "a jaundiced eye(삐딱한 시선)"
+  ],
+  "colloc": [
+   "jaundiced view(삐딱한 견해)",
+   "jaundiced eye(편견에 찬 시선)",
+   "jaundiced opinion(비뚤어진 의견)"
+  ],
+  "ex_add": "He takes a jaundiced view of politicians.  (jaundiced=편견에 찬)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5392",
+  "hw": "jettison",
+  "pos": "v.",
+  "cefr": "C2",
+  "core": "던져(jacere) 내버리다 -> '(짐을) 버리다·(계획을) 폐기하다'.",
+  "senses": [
+   "1) (위기에) 짐·연료를 버리다, 투하하다",
+   "2) (계획·신념을) 내던지다, 폐기하다"
+  ],
+  "etym": "앵글로-프랑스어 getteson(배 밖으로 던짐, 라틴 jactare 던지다, jacere 던지다) -> 'jettison'. jacere(던지다)는 project·reject·eject·inject·subject의 거대 뿌리. '무거운 것을 밖으로 던져 버리다'가 핵심.",
+  "deriv": "라틴어 jacere(던지다) -> 'jettison'. 한국 학습자 핵심: jacere(던지다) 거대 어근 — project·reject·eject·inject·jettison! 비유 빈출: jettison the plan(계획을 폐기하다)·jettison old ideas. 유의어 discard·dump·abandon. 반대 retain·keep·adopt. C2 시사·항공.",
+  "syn": [
+   "discard(버리다)",
+   "dump(내버리다)",
+   "abandon(폐기하다)"
+  ],
+  "anti": [
+   "retain(보유하다)",
+   "keep(유지하다)",
+   "adopt(채택하다)"
+  ],
+  "idiom": [
+   "jettison the plan(계획을 폐기하다)"
+  ],
+  "colloc": [
+   "jettison the plan(계획을 폐기하다)",
+   "jettison cargo(짐을 투하하다)",
+   "jettison old beliefs(낡은 신념을 버리다)"
+  ],
+  "ex_add": "The company jettisoned its expansion plans.  (jettison=폐기하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5393",
+  "hw": "jocular",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "농담(jocus)을 즐기는 -> '익살맞은·농담조의'.",
+  "senses": [
+   "1) (사람·말이) 익살맞은, 우스개를 잘하는, 농담조의"
+  ],
+  "etym": "라틴어 jocularis(우스운, jocus 농담·장난) -> 'jocular'. jocus(농담)는 joke·jest·jocund(쾌활한)의 뿌리. '장난기 어린 가벼운 유머의'가 핵심.",
+  "deriv": "라틴어 jocus(농담) -> 'jocular'. 한국 학습자 핵심: jocus(농담) 어근 — joke·jest·jocund·jocular! facetious(5344)보다 호의적·유쾌한 뉘앙스. a jocular tone(농담조의 어조)·jocular remark(익살스러운 말). 유의어 jovial·playful·humorous. 반대 solemn·serious·grave. C2 태도.",
+  "syn": [
+   "jovial(유쾌한)",
+   "playful(장난스러운)",
+   "humorous(익살스러운)"
+  ],
+  "anti": [
+   "solemn(엄숙한)",
+   "serious(진지한)",
+   "grave(근엄한)"
+  ],
+  "idiom": [
+   "a jocular tone(농담조의 어조)"
+  ],
+  "colloc": [
+   "jocular tone(농담조의 어조)",
+   "jocular remark(익살스러운 말)",
+   "jocular manner(익살맞은 태도)"
+  ],
+  "ex_add": "He made a jocular comment to lighten the mood.  (jocular=익살맞은)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5394",
+  "hw": "juncture",
+  "pos": "n.",
+  "cefr": "C2",
+  "core": "이어지는(jungere) 지점 -> '(중대한) 시점·국면 / 접합점'.",
+  "senses": [
+   "1) (특정한·중대한) 시점, 국면",
+   "2) (둘이 만나는) 접합점, 이음매"
+  ],
+  "etym": "라틴어 junctura(연결, jungere 잇다·묶다)의 과거분사 junctus -> 'juncture'. jungere(잇다)는 join·junction·conjunction·adjunct의 뿌리. '두 흐름이 만나 이어지는 지점 -> 중대 국면'이 핵심.",
+  "deriv": "라틴어 jungere(잇다) -> 'juncture'. 한국 학습자 핵심: jungere(잇다) 어근 — join·junction·conjunction·adjunct·juncture! 'at this juncture(이 시점에서)'가 최빈출. a critical juncture(중대한 국면). 유의어 point·moment·stage. C2 격식.",
+  "syn": [
+   "point(시점)",
+   "moment(순간)",
+   "stage(단계)"
+  ],
+  "anti": [
+   "(중대성 약화) interval(막간)",
+   "lull(소강)",
+   "aftermath(여파)"
+  ],
+  "idiom": [
+   "at this juncture(이 시점에서)"
+  ],
+  "colloc": [
+   "critical juncture(중대한 국면)",
+   "at this juncture(이 시점에서)",
+   "key juncture(핵심 시점)"
+  ],
+  "ex_add": "At this critical juncture, we must act decisively.  (juncture=중대한 시점)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5395",
+  "hw": "laudatory",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "칭찬(laudare)하는 -> '칭찬하는·찬양하는'.",
+  "senses": [
+   "1) (글·말이) 칭찬하는, 찬양하는, 호평의"
+  ],
+  "etym": "라틴어 laudatorius(칭찬의, laudare 칭찬하다, laus 칭찬) -> 'laudatory'. laudable(5117)·applaud와 같은 laus(칭찬) 뿌리. '칭찬을 담은'이 핵심.",
+  "deriv": "라틴어 laus(칭찬) -> 'laudatory'. 한국 학습자 핵심: laus(칭찬) 어근 — applaud·laud·laudable(5117)·laudatory! 혼동 주의: laudable(칭찬받을 만한, 대상) vs laudatory(칭찬하는, 표현)! a laudatory review(호평)·laudatory remarks(칭찬의 말). 유의어 complimentary·approving·flattering. 반대 critical·disparaging·damning. C2 논평.",
+  "syn": [
+   "complimentary(칭찬하는)",
+   "approving(호의적인)",
+   "flattering(치켜세우는)"
+  ],
+  "anti": [
+   "critical(비판적인)",
+   "disparaging(폄하하는)",
+   "damning(혹평하는)"
+  ],
+  "idiom": [
+   "a laudatory review(호평)"
+  ],
+  "colloc": [
+   "laudatory review(호평)",
+   "laudatory remarks(칭찬의 말)",
+   "laudatory tone(칭찬하는 어조)"
+  ],
+  "ex_add": "The biography is overly laudatory.  (laudatory=칭찬하는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5396",
+  "hw": "lachrymose",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "눈물(lacrima)이 많은 -> '눈물 잘 흘리는·애절한'.",
+  "senses": [
+   "1) (사람이) 눈물을 잘 흘리는, 잘 우는",
+   "2) (글·영화가) 눈물을 자아내는, 애절한, 신파조의"
+  ],
+  "etym": "라틴어 lacrimosus(눈물 어린, lacrima 눈물) -> 'lachrymose'. lacrima(눈물)는 tear와 의미 짝, lacrimal(눈물의)의 뿌리. '눈물이 그렁그렁한'이 핵심.",
+  "deriv": "라틴어 lacrima(눈물) -> 'lachrymose'. 한국 학습자 핵심: lacrima(눈물) 어근 — lacrimal(눈물샘의)·lachrymose! a lachrymose film(눈물 짜는 영화)·lachrymose tone(애절한 어조). 유의어 tearful·weepy·maudlin. 반대 cheerful·stoic·dry-eyed. C2 문학·묘사.",
+  "syn": [
+   "tearful(눈물 어린)",
+   "weepy(잘 우는)",
+   "maudlin(신파조의)"
+  ],
+  "anti": [
+   "cheerful(쾌활한)",
+   "stoic(의연한)",
+   "dry-eyed(울지 않는)"
+  ],
+  "idiom": [
+   "a lachrymose tale(눈물 짜는 이야기)"
+  ],
+  "colloc": [
+   "lachrymose film(눈물 짜는 영화)",
+   "lachrymose tone(애절한 어조)",
+   "lachrymose mood(울적한 기분)"
+  ],
+  "ex_add": "The movie was a lachrymose tale of lost love.  (lachrymose=애절한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5397",
+  "hw": "languid",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "기운이 빠진(languere) -> '나른한·맥없는·느릿한'.",
+  "senses": [
+   "1) (몸·동작이) 나른한, 노곤한, 느릿느릿한",
+   "2) (분위기가) 활기 없는, 늘어진"
+  ],
+  "etym": "라틴어 languidus(맥 빠진, languere 늘어지다·시들다) -> 'languid'. languish(시들다)·languor(나른함)와 같은 languere 뿌리. '힘이 쭉 빠져 느릿한'이 핵심.",
+  "deriv": "라틴어 languere(늘어지다) -> 'languid'. 한국 학습자 핵심: languere(늘어지다) 어근 — languish(시들다)·languor(나른함)·languid! a languid afternoon(나른한 오후)·languid movements(느릿한 동작). 유의어 listless·lethargic(5119)·sluggish. 반대 energetic·brisk·vigorous. C2 묘사.",
+  "syn": [
+   "listless(맥없는)",
+   "lethargic(나른한)",
+   "sluggish(굼뜬)"
+  ],
+  "anti": [
+   "energetic(활기찬)",
+   "brisk(활발한)",
+   "vigorous(원기 왕성한)"
+  ],
+  "idiom": [
+   "a languid afternoon(나른한 오후)"
+  ],
+  "colloc": [
+   "languid afternoon(나른한 오후)",
+   "languid movements(느릿한 동작)",
+   "languid pace(느긋한 속도)"
+  ],
+  "ex_add": "They spent a languid day in the sun.  (languid=나른한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5398",
+  "hw": "listless",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "하고픔(list)이 없는(less) -> '무기력한·열의 없는'.",
+  "senses": [
+   "1) (지치거나 흥미가 없어) 무기력한, 나른한, 열의 없는"
+  ],
+  "etym": "중세 영어 list(욕구·하고 싶은 마음) + -less(없는) -> 'listless'. list는 lust(욕망)와 동원의 옛말 '바람·의욕'. '하고 싶은 마음이 없어 축 처진'이 핵심.",
+  "deriv": "list(의욕) + -less(없는) -> 'listless'. 한국 학습자 핵심: 목록 list와 동음이의 — 여기선 '의욕(lust와 동원)'에서! feel listless(맥이 빠지다)·listless mood(무기력한 기분). 유의어 lethargic(5119)·languid(5397)·apathetic. 반대 energetic·lively·enthusiastic. C2 묘사.",
+  "syn": [
+   "lethargic(무기력한)",
+   "languid(나른한)",
+   "apathetic(무관심한)"
+  ],
+  "anti": [
+   "energetic(활기찬)",
+   "lively(생기 있는)",
+   "enthusiastic(열성적인)"
+  ],
+  "idiom": [
+   "feel listless(맥이 빠지다)"
+  ],
+  "colloc": [
+   "feel listless(맥이 빠지다)",
+   "listless mood(무기력한 기분)",
+   "pale and listless(창백하고 맥없는)"
+  ],
+  "ex_add": "The heat left the children listless.  (listless=무기력한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5399",
+  "hw": "loath",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "질색하는(lath) -> '~하기 꺼리는·내키지 않는'.",
+  "senses": [
+   "1) (~하기를) 몹시 꺼리는, 마음이 내키지 않는"
+  ],
+  "etym": "고대 영어 lath(미운·질색인)에서 -> 'loath'. 동사 loathe(몹시 싫어하다)와 같은 뿌리이나 품사·뜻이 다름. '하기 싫어 주저하는'이 핵심.",
+  "deriv": "고대 영어 lath(질색인) -> 'loath'. 한국 학습자 핵심: 철자·뜻 혼동 절대 주의! loath(형용사, ~하기 꺼리는) vs loathe(동사, 혐오하다)! 'be loath to do': loath to admit(인정하기 꺼리는). 유의어 reluctant·unwilling·averse. 반대 willing·eager·keen. C2 격식.",
+  "syn": [
+   "reluctant(꺼리는)",
+   "unwilling(내키지 않는)",
+   "averse(싫어하는)"
+  ],
+  "anti": [
+   "willing(기꺼이 하는)",
+   "eager(열망하는)",
+   "keen(열심인)"
+  ],
+  "idiom": [
+   "loath to admit(인정하기 꺼리는)"
+  ],
+  "colloc": [
+   "loath to admit(인정하기 꺼리는)",
+   "loath to leave(떠나기 싫어하는)",
+   "be loath to(~하기를 꺼리다)"
+  ],
+  "ex_add": "She was loath to leave her hometown.  (loath=꺼리는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5400",
+  "hw": "lucrative",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "이득(lucrum)을 가져오는 -> '수익성 좋은·돈벌이가 되는'.",
+  "senses": [
+   "1) (사업·일이) 수익성이 좋은, 돈이 되는, 짭짤한"
+  ],
+  "etym": "라틴어 lucrativus(이득이 되는, lucrum 이익·이득) -> 'lucrative'. lucrum(이익)은 lucre(돈·재물, filthy lucre 부정한 돈)의 뿌리. '돈이 짭짤하게 들어오는'이 핵심.",
+  "deriv": "라틴어 lucrum(이익) -> 'lucrative'. 한국 학습자 핵심: lucrum(이익) 어근 — lucre(재물)·lucrative! a lucrative business(돈 되는 사업)·lucrative contract(수익성 좋은 계약). 유의어 profitable·remunerative·moneymaking. 반대 unprofitable·loss-making·worthless. C2 경제.",
+  "syn": [
+   "profitable(수익성 있는)",
+   "remunerative(보수가 좋은)",
+   "moneymaking(돈벌이가 되는)"
+  ],
+  "anti": [
+   "unprofitable(수익성 없는)",
+   "loss-making(적자의)",
+   "worthless(쓸모없는)"
+  ],
+  "idiom": [
+   "a lucrative deal(짭짤한 거래)"
+  ],
+  "colloc": [
+   "lucrative business(돈 되는 사업)",
+   "lucrative contract(수익성 좋은 계약)",
+   "highly lucrative(아주 짭짤한)"
+  ],
+  "ex_add": "He left academia for a lucrative job in finance.  (lucrative=수익성 좋은)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5401",
+  "hw": "magnanimity",
+  "pos": "n.",
+  "cefr": "C2",
+  "core": "큰(magnus) 마음(animus) -> '도량·아량·관대함'.",
+  "senses": [
+   "1) (특히 이긴 쪽의) 도량, 아량, 관대함"
+  ],
+  "etym": "라틴어 magnanimitas(도량, magnus 큰 + animus 마음) -> 'magnanimity'. 형용사 magnanimous(5124)의 명사형. equanimity(5333)와 같은 animus(마음) 뿌리. '큰 마음에서 나오는 너그러움'이 핵심.",
+  "deriv": "magnus(큰) + animus(마음) -> 'magnanimity'. 한국 학습자 핵심: 5124 magnanimous의 명사! magnus(magnify) + animus(unanimous·equanimity 5333). show magnanimity(아량을 베풀다)·magnanimity in victory(승리 속의 관대함). 유의어 generosity·benevolence·forbearance(5353). 반대 pettiness·meanness·vindictiveness. C2 윤리.",
+  "syn": [
+   "generosity(관대함)",
+   "benevolence(자비)",
+   "forbearance(관용)"
+  ],
+  "anti": [
+   "pettiness(옹졸함)",
+   "meanness(인색함)",
+   "vindictiveness(앙심)"
+  ],
+  "idiom": [
+   "magnanimity in victory(승리 속의 관대함)"
+  ],
+  "colloc": [
+   "show magnanimity(아량을 베풀다)",
+   "great magnanimity(큰 도량)",
+   "magnanimity toward(~에 대한 관대함)"
+  ],
+  "ex_add": "He treated his rivals with surprising magnanimity.  (magnanimity=도량)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5402",
+  "hw": "malinger",
+  "pos": "v.",
+  "cefr": "C2",
+  "core": "아픈 척 병(malingre)을 가장하다 -> '꾀병을 부리다'.",
+  "senses": [
+   "1) (일·의무를 피하려) 꾀병을 부리다, 아픈 척하다"
+  ],
+  "etym": "프랑스어 malingre(병약한, mal 나쁜 + 어원 불확실)에서 -> '아픈 척 의무를 피하다' -> 'malinger'. mal(나쁜)은 malevolent(5125)·malady의 뿌리. '거짓 병으로 책임을 회피하는'이 핵심.",
+  "deriv": "프랑스 mal(나쁜) + -inger -> 'malinger'. 한국 학습자 핵심: mal(나쁜) 어근 — malevolent(5125)·malady·malinger! 행위자 malingerer(꾀병쟁이). 주로 군대·직장 맥락. 유의어 shirk·feign illness·skive. 반대 toil·persevere. C2 군사·노동.",
+  "syn": [
+   "shirk(기피하다)",
+   "feign illness(꾀병 부리다)",
+   "skive(농땡이 부리다)"
+  ],
+  "anti": [
+   "toil(애써 일하다)",
+   "persevere(끈기 있게 하다)",
+   "soldier on(꿋꿋이 하다)"
+  ],
+  "idiom": [
+   "malinger to avoid work(일을 피하려 꾀병 부리다)"
+  ],
+  "colloc": [
+   "accused of malingering(꾀병으로 의심받는)",
+   "malinger to avoid duty(의무를 피하려 꾀병 부리다)",
+   "suspected of malingering(꾀병이 의심되는)"
+  ],
+  "ex_add": "The soldier was accused of malingering.  (malinger=꾀병을 부리다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5403",
+  "hw": "maudlin",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "우는 막달라 마리아처럼 -> '눈물 짜는·청승맞은'.",
+  "senses": [
+   "1) (특히 술 취해) 청승맞게 감상적인, 질질 짜는, 신파조의"
+  ],
+  "etym": "눈물 흘리는 모습으로 그려진 성서 인물 Mary Magdalene(막달라 마리아)의 중세 영어 발음 Maudelen에서 -> 'maudlin'. '막달라 마리아처럼 눈물을 줄줄 흘리는'이 핵심.",
+  "deriv": "인명 Mary Magdalene(막달라 마리아) -> 'maudlin'. 한국 학습자 핵심: 성서 인물 이름에서 온 단어! lachrymose(5396)와 동의어이나 '술 취한·과한 감상' 뉘앙스. maudlin sentimentality(청승맞은 감상). 유의어 mawkish·lachrymose·sappy. 반대 unsentimental·stoic. C2 문학·묘사.",
+  "syn": [
+   "mawkish(느끼한)",
+   "lachrymose(눈물 짜는)",
+   "sappy(신파조의)"
+  ],
+  "anti": [
+   "unsentimental(감상 없는)",
+   "stoic(의연한)",
+   "hard-headed(냉철한)"
+  ],
+  "idiom": [
+   "maudlin sentimentality(청승맞은 감상)"
+  ],
+  "colloc": [
+   "maudlin sentimentality(청승맞은 감상)",
+   "get maudlin(질질 짜게 되다)",
+   "maudlin tone(신파조의 어조)"
+  ],
+  "ex_add": "After a few drinks he became maudlin.  (maudlin=청승맞은)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5404",
+  "hw": "mawkish",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "구더기(mawk)처럼 역겹게 달큰한 -> '느끼할 만큼 감상적인'.",
+  "senses": [
+   "1) (과도하게) 느끼하게 감상적인, 역겨울 만큼 달콤한"
+  ],
+  "etym": "중세 영어 mawk(구더기, 고대 노르드 mathkr) + -ish -> 원래 '구역질 나는' -> '느끼하게 감상적인' -> 'mawkish'. '비위 상할 만큼 달짝지근한'이 핵심.",
+  "deriv": "고대 노르드 mathkr(구더기) -> 'mawkish'. 한국 학습자 핵심: 원래 '구역질 나는'에서 '느끼한 감상'으로! maudlin(5403)·sentimental과 동의어군. mawkish sentimentality(느끼한 감상). 유의어 maudlin·sappy·cloying. 반대 restrained·unsentimental·austere. C2 비평.",
+  "syn": [
+   "maudlin(청승맞은)",
+   "sappy(신파조의)",
+   "cloying(느끼한)"
+  ],
+  "anti": [
+   "restrained(절제된)",
+   "unsentimental(감상 없는)",
+   "austere(담백한)"
+  ],
+  "idiom": [
+   "mawkish sentimentality(느끼한 감상)"
+  ],
+  "colloc": [
+   "mawkish sentimentality(느끼한 감상)",
+   "mawkish lyrics(느끼한 가사)",
+   "overly mawkish(지나치게 느끼한)"
+  ],
+  "ex_add": "The song's mawkish lyrics made me cringe.  (mawkish=느끼하게 감상적인)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5405",
+  "hw": "mendacious",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "거짓(mendax)을 일삼는 -> '거짓된·거짓말하는'.",
+  "senses": [
+   "1) (사람·말이) 거짓의, 거짓말하는, 허위의"
+  ],
+  "etym": "라틴어 mendax(거짓말하는, mendum 결함·잘못) -> 'mendacious'. mendum(결함)은 amend(고치다)·emend·mend의 뿌리. '사실을 비틀어 거짓을 말하는'이 핵심.",
+  "deriv": "라틴어 mendum(결함) -> 'mendacious'. 한국 학습자 핵심: mendum(결함) 어근 — amend·emend·mend·mendacious! 명사 mendacity(허위). veracity(5245, 진실성)의 반대. a mendacious account(거짓 진술). 유의어 dishonest·untruthful·deceitful. 반대 truthful·honest·veracious. C2 논설.",
+  "syn": [
+   "dishonest(부정직한)",
+   "untruthful(거짓의)",
+   "deceitful(기만적인)"
+  ],
+  "anti": [
+   "truthful(진실한)",
+   "honest(정직한)",
+   "veracious(진실을 말하는)"
+  ],
+  "idiom": [
+   "a mendacious account(거짓 진술)"
+  ],
+  "colloc": [
+   "mendacious account(거짓 진술)",
+   "mendacious claims(허위 주장)",
+   "blatantly mendacious(노골적으로 거짓된)"
+  ],
+  "ex_add": "The report was full of mendacious claims.  (mendacious=거짓된)",
+  "ex_orig": "",
+  "ex_src": ""
  }
 ]
