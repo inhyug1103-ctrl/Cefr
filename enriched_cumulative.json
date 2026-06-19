@@ -188241,5 +188241,1675 @@
   "ex_add": "The prisoner appealed to the governor for clemency.  (clemency=관용)",
   "ex_orig": "",
   "ex_src": ""
+ },
+ {
+  "num": "5556",
+  "hw": "adumbrate",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "그늘(umbra)로 어렴풋이 그리다 -> '윤곽을 보이다·예시하다'.",
+  "senses": [
+   "1) (대략) 윤곽을 그리다, 개략적으로 보여 주다",
+   "2) (앞일을) 예시하다, 어렴풋이 알리다"
+  ],
+  "etym": "라틴어 adumbrare(그림자로 스케치하다, ad-(~로) + umbra 그늘)의 과거분사 -> 'adumbrate'. somber(5211)·umbrage(5502)와 같은 umbra(그늘) 뿌리. '그림자로 윤곽만 어렴풋이 그리다'가 핵심.",
+  "deriv": "ad-(~로) + umbra(그늘) -> 'adumbrate'. 한국 학습자 핵심: umbra(그늘) 어근 — umbrella·penumbra·somber(5211)·umbrage(5502)·adumbrate! adumbrate a plan(계획의 윤곽을 보이다). 유의어 outline·foreshadow·sketch. 반대 detail·spell out·delineate(5xx). 심화 격식.",
+  "syn": [
+   "outline(개략하다)",
+   "foreshadow(예시하다)",
+   "sketch(스케치하다)"
+  ],
+  "anti": [
+   "detail(상술하다)",
+   "spell out(명확히 밝히다)",
+   "specify(명시하다)"
+  ],
+  "idiom": [
+   "adumbrate a plan(계획의 윤곽을 보이다)"
+  ],
+  "colloc": [
+   "adumbrate a theory(이론의 윤곽을 보이다)",
+   "adumbrate the outlines(개요를 그리다)",
+   "faintly adumbrate(어렴풋이 예시하다)"
+  ],
+  "ex_add": "The report adumbrates the changes to come.  (adumbrate=윤곽을 보이다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5557",
+  "hw": "anodyne",
+  "pos": "adj., n.",
+  "cefr": "심화",
+  "core": "고통(odyne)이 없는(an) -> '(누구도 안 거스를 만큼) 무난한·진통의 / 진통제'.",
+  "senses": [
+   "1) (adj.) (자극·거슬림 없이) 무난한, 당장하기 좋은, 진통의",
+   "2) (n.) 진통제, 마음을 달래는 것"
+  ],
+  "etym": "그리스어 anodynos(통증 없는, an-(없는) + odyne 고통)에서 -> 'anodyne'. '아픔을 없애는 -> 거슬릴 것 없이 밋밋한'으로 확장. odyne(고통)는 antipathy(5271)의 pathos와는 다른 '아픔' 어근. '아무도 거슬리지 않게 무던한'이 핵심.",
+  "deriv": "an-(없는) + odyne(고통) -> 'anodyne'. 한국 학습자 핵심: an-(없는) 접두사 — anonymous·anarchy·anodyne! 현대 빈출 뜻은 '무난한·당장하나 마나 한'. anodyne statement(무난한 성명)·anodyne music(귀에 거슬리지 않는 음악). 유의어 bland·inoffensive·innocuous. 반대 provocative(5181)·controversial·jarring. 심화 논평.",
+  "syn": [
+   "bland(밋밋한)",
+   "inoffensive(거슬리지 않는)",
+   "innocuous(무해한)"
+  ],
+  "anti": [
+   "provocative(도발적인)",
+   "controversial(논쟁적인)",
+   "jarring(거슬리는)"
+  ],
+  "idiom": [
+   "an anodyne statement(무난한 성명)"
+  ],
+  "colloc": [
+   "anodyne statement(무난한 성명)",
+   "anodyne music(거슬리지 않는 음악)",
+   "anodyne comment(당장하나 마나 한 말)"
+  ],
+  "ex_add": "The spokesman gave an anodyne response.  (anodyne=무난한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5558",
+  "hw": "antediluvian",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "노아의 홍수(diluvium) 이전(ante)의 -> '아주 구식의·태곳적의'.",
+  "senses": [
+   "1) (우스개로) 아주 구식의, 시대에 뒤떨어진",
+   "2) 노아의 홍수 이전의, 태곳적의"
+  ],
+  "etym": "라틴어 ante(이전) + diluvium(대홍수, diluere 씻어 내다, di-(분리) + luere 씻다) -> 'antediluvian'. ante(앞)는 antecedent·antique의 뿌리. '성경의 대홍수 이전만큼 까마득히 오래된'이 핵심.",
+  "deriv": "ante(이전) + diluvium(대홍수) -> 'antediluvian'. 한국 학습자 핵심: ante-(이전) 어근 — antecedent·antique·antedate(5532)·antediluvian! 보통 과장·농담조 — antediluvian views(구닥다리 사고방식)·antediluvian technology. 유의어 archaic·obsolete(5137)·prehistoric. 반대 modern·cutting-edge·contemporary. 심화 논평.",
+  "syn": [
+   "archaic(고풍의)",
+   "obsolete(구식의)",
+   "prehistoric(태곳적의)"
+  ],
+  "anti": [
+   "modern(현대의)",
+   "cutting-edge(최첨단의)",
+   "contemporary(당대의)"
+  ],
+  "idiom": [
+   "antediluvian views(구닥다리 사고방식)"
+  ],
+  "colloc": [
+   "antediluvian views(구닥다리 사고방식)",
+   "antediluvian attitudes(시대착오적 태도)",
+   "antediluvian technology(구식 기술)"
+  ],
+  "ex_add": "His antediluvian views on women shocked everyone.  (antediluvian=아주 구식의)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5559",
+  "hw": "apostate",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "멀리(apo) 서 버린(stasis) 자 -> '배교자·변절자'.",
+  "senses": [
+   "1) (신앙·신념·정당을) 저버린 사람, 배교자, 변절자"
+  ],
+  "etym": "그리스어 apostates(이탈자, apo-(떨어져) + histanai 서다) -> 'apostate'. apostasy(배교)·stasis(정지)와 같은 *sta-(서다) 뿌리. '믿던 자리에서 멀리 떨어져 나간 자'가 핵심.",
+  "deriv": "apo-(떨어져) + histanai(서다) -> 'apostate'. 한국 학습자 핵심: apo-(떨어져) 어근 — apology·apostle·apostate! 명사 apostasy(배교). a religious apostate(종교 배교자)·political apostate(변절자). renegade와 유사. 유의어 renegade·defector·turncoat. 반대 loyalist·devotee·believer. 심화 종교·정치.",
+  "syn": [
+   "renegade(배반자)",
+   "defector(변절자)",
+   "turncoat(변절자)"
+  ],
+  "anti": [
+   "loyalist(충성파)",
+   "devotee(신봉자)",
+   "believer(신자)"
+  ],
+  "idiom": [
+   "a religious apostate(종교 배교자)"
+  ],
+  "colloc": [
+   "religious apostate(종교 배교자)",
+   "political apostate(변절자)",
+   "branded an apostate(배교자로 낙인찍힌)"
+  ],
+  "ex_add": "He was denounced as an apostate by the church.  (apostate=배교자)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5560",
+  "hw": "apotheosis",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "신(theos)으로 만듦 -> '신격화·정점·완벽한 본보기'.",
+  "senses": [
+   "1) (어떤 것의) 정점, 극치, 완벽한 본보기",
+   "2) 신격화, 신의 반열에 올림"
+  ],
+  "etym": "그리스어 apotheosis(신격화, apo-(완전히) + theos 신, theoun 신으로 만들다)에서 -> 'apotheosis'. theos(신)는 theology·atheist·enthusiasm의 뿌리. '인간을 신의 경지로 올림 -> 최고 정점'이 핵심. 발음 주의(/əˌpɒθiˈoʊsɪs/).",
+  "deriv": "apo-(완전히) + theos(신) -> 'apotheosis'. 한국 학습자 핵심: theos(신) 어근 — theology·atheist·enthusiasm·apotheosis! 'the apotheosis of': the apotheosis of elegance(우아함의 극치). zenith(5524)·epitome와 유사. 유의어 pinnacle·epitome·culmination. 반대 nadir(5411)·low point. 심화 문학·예술.",
+  "syn": [
+   "pinnacle(정점)",
+   "epitome(전형)",
+   "culmination(절정)"
+  ],
+  "anti": [
+   "nadir(최저점)",
+   "low point(저점)",
+   "debasement(격하)"
+  ],
+  "idiom": [
+   "the apotheosis of(~의 극치)"
+  ],
+  "colloc": [
+   "apotheosis of elegance(우아함의 극치)",
+   "apotheosis of his career(경력의 정점)",
+   "represent the apotheosis(극치를 이루다)"
+  ],
+  "ex_add": "The dress was the apotheosis of 1950s style.  (apotheosis=정점)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5561",
+  "hw": "arrant",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "떠도는(errant) 악당처럼 철저한 -> '순전한·지독한'.",
+  "senses": [
+   "1) (나쁜 것이) 순전한, 완전한, 더할 나위 없는 (보통 부정적)"
+  ],
+  "etym": "중세 영어 arrant(errant '떠도는'의 변형) -> 'arrant thief(떠돌이 도둑)'에서 '악명 높은 -> 순전한'으로 -> 'arrant'. aberration(5255)·errant과 같은 errare(헤매다) 뿌리. '둘도 없이 지독한'이 핵심.",
+  "deriv": "errant(떠도는, errare 헤매다) -> 'arrant'. 한국 학습자 핵심: errant(빗나간)·aberration(5255)과 한 뿌리! 강조 부정 — arrant nonsense(순전한 헛소리)·arrant knave(천하의 악당). 유의어 utter·downright·outright. 반대 slight·partial·mild. 심화 문어.",
+  "syn": [
+   "utter(순전한)",
+   "downright(완전한)",
+   "outright(노골적인)"
+  ],
+  "anti": [
+   "slight(약간의)",
+   "partial(부분적인)",
+   "mild(약한)"
+  ],
+  "idiom": [
+   "arrant nonsense(순전한 헛소리)"
+  ],
+  "colloc": [
+   "arrant nonsense(순전한 헛소리)",
+   "arrant knave(천하의 악당)",
+   "arrant hypocrisy(순전한 위선)"
+  ],
+  "ex_add": "That is arrant nonsense and you know it.  (arrant=순전한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5562",
+  "hw": "atavistic",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "먼 조상(atavus)에게서 되살아난 -> '조상 격세유전의·원시 본능의'.",
+  "senses": [
+   "1) (먼 조상의 형질이) 격세유전으로 되살아난",
+   "2) (원시적인) 본능이 되살아난, 태곳적의"
+  ],
+  "etym": "라틴어 atavus(먼 조상·고조부) + -istic -> 'atavistic'. '조상에게서 건너뛰어 되살아난'이 핵심. 명사 atavism(격세유전).",
+  "deriv": "라틴어 atavus(먼 조상) -> 'atavistic'. 한국 학습자 핵심: 명사 atavism(격세유전·조상 회귀)! atavistic fear(원시적 공포)·atavistic instinct(태곳적 본능). 유의어 primal·ancestral·primitive. 반대 modern·evolved·acquired. 심화 생물·심리.",
+  "syn": [
+   "primal(원시적인)",
+   "ancestral(조상의)",
+   "primitive(원초적인)"
+  ],
+  "anti": [
+   "modern(현대의)",
+   "evolved(진화된)",
+   "acquired(후천적인)"
+  ],
+  "idiom": [
+   "atavistic fear(원시적 공포)"
+  ],
+  "colloc": [
+   "atavistic fear(원시적 공포)",
+   "atavistic instinct(태곳적 본능)",
+   "atavistic urge(원초적 충동)"
+  ],
+  "ex_add": "He felt an atavistic fear of the dark forest.  (atavistic=원시 본능의)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5563",
+  "hw": "augury",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "새점(augur) -> '전조·징조·점'.",
+  "senses": [
+   "1) (앞일의) 전조, 징조",
+   "2) (새의 움직임으로 치던) 점, 예언"
+  ],
+  "etym": "라틴어 augurium(새점, augur 점술관)에서 -> 'augury'. inaugurate(취임시키다, 원래 '새점을 쳐 시작하다')와 같은 augur 뿌리. '새의 비행으로 길흉을 점치던 데서 전조'가 핵심.",
+  "deriv": "라틴어 augur(점술관) -> 'augury'. 한국 학습자 핵심: inaugurate(취임시키다)와 한 뿌리 — 옛날엔 새점으로 길일을 정함! 동사 augur(전조가 되다): augur well/ill(좋은/나쁜 징조다). harbinger(5361)·omen과 유사. 유의어 omen·portent(5447)·sign. 심화 문학.",
+  "syn": [
+   "omen(징조)",
+   "portent(전조)",
+   "sign(조짐)"
+  ],
+  "anti": [
+   "(결과)outcome",
+   "aftermath(여파)",
+   "result(결과)"
+  ],
+  "idiom": [
+   "augur well(좋은 징조다)"
+  ],
+  "colloc": [
+   "good augury(좋은 전조)",
+   "augur well for(~에 좋은 징조다)",
+   "ill augury(불길한 징조)"
+  ],
+  "ex_add": "The early success was a good augury for the project.  (augury=전조)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5564",
+  "hw": "baleful",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "해악(bealu)이 가득한 -> '악의에 찬·해로운·불길한'.",
+  "senses": [
+   "1) (눈빛·기운이) 악의에 찬, 해를 끼칠 듯한",
+   "2) 불길한, 해로운"
+  ],
+  "etym": "고대 영어 bealu(해악·재앙) + -ful -> 'baleful'. bale(고대어 '재앙')과 같은 뿌리(bane 5539와 의미 인접). '해를 끼칠 듯 음산한'이 핵심.",
+  "deriv": "고대 영어 bealu(해악) -> 'baleful'. 한국 학습자 핵심: bane(5539, 골칫거리)과 의미 인접! a baleful glare(악의에 찬 눈빛)·baleful influence(해로운 영향). 혼동 주의: baleful(악의에 찬) vs baneful(파멸적인). 유의어 menacing·malevolent(5125)·sinister. 반대 benign·benevolent·kindly. 심화 묘사.",
+  "syn": [
+   "menacing(위협적인)",
+   "malevolent(악의에 찬)",
+   "sinister(음흉한)"
+  ],
+  "anti": [
+   "benign(온화한)",
+   "benevolent(자애로운)",
+   "kindly(다정한)"
+  ],
+  "idiom": [
+   "a baleful glare(악의에 찬 눈빛)"
+  ],
+  "colloc": [
+   "baleful glare(악의에 찬 눈빛)",
+   "baleful influence(해로운 영향)",
+   "baleful look(음산한 눈빛)"
+  ],
+  "ex_add": "She gave him a baleful glare.  (baleful=악의에 찬)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5565",
+  "hw": "bilious",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "담즙(bilis)이 끓는 -> '성마른·언짢은 / 담즙의'.",
+  "senses": [
+   "1) (기질이) 성마른, 짜증을 잘 내는, 언짢은",
+   "2) 담즙의, 쓸개에 탈이 난"
+  ],
+  "etym": "라틴어 biliosus(담즙이 많은, bilis 담즙) -> 'bilious'. 중세 4체액설에서 '담즙질=성마름'으로 -> 'bilious'. bile(담즙·울화)과 같은 뿌리. '담즙이 끓어 짜증 나는'이 핵심.",
+  "deriv": "라틴어 bilis(담즙) -> 'bilious'. 한국 학습자 핵심: 4체액설 어원 — 담즙질=성마름! sanguine(5475, 혈액질=낙천)과 짝. bile(담즙·울화)과 한 뿌리. a bilious temper(성마른 기질). 유의어 irritable·irascible(5389)·testy. 반대 cheerful·placid·good-humored. 심화 인물 묘사.",
+  "syn": [
+   "irritable(짜증 내는)",
+   "irascible(성마른)",
+   "testy(까칠한)"
+  ],
+  "anti": [
+   "cheerful(쾌활한)",
+   "placid(차분한)",
+   "good-humored(상냥한)"
+  ],
+  "idiom": [
+   "a bilious temper(성마른 기질)"
+  ],
+  "colloc": [
+   "bilious temper(성마른 기질)",
+   "bilious mood(언짢은 기분)",
+   "bilious remark(가시 돋친 말)"
+  ],
+  "ex_add": "He shot back a bilious retort.  (bilious=성마른)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5566",
+  "hw": "bowdlerize",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "보들러(Bowdler)식으로 손질하다 -> '(불온부를) 삭제·순화하다'.",
+  "senses": [
+   "1) (책·작품의 불쾌·외설 부분을) 삭제하다, 점잖게 고치다"
+  ],
+  "etym": "셰익스피어를 '가족용'으로 순화 편집한 영국인 Thomas Bowdler의 이름에서 -> 'bowdlerize'. '거슬리는 부분을 잘라 내 순화하다'가 핵심.",
+  "deriv": "인명 Thomas Bowdler -> 'bowdlerize'. 한국 학습자 핵심: 사람 이름에서 온 단어(eponym)! expurgate(5340)와 동의어. a bowdlerized version(순화 편집판)·bowdlerize the text. 유의어 expurgate·censor·sanitize. 반대 restore·uncut. 심화 출판.",
+  "syn": [
+   "expurgate(삭제하다)",
+   "censor(검열하다)",
+   "sanitize(순화하다)"
+  ],
+  "anti": [
+   "restore(복원하다)",
+   "uncut(무삭제의)",
+   "preserve(보존하다)"
+  ],
+  "idiom": [
+   "a bowdlerized version(순화 편집판)"
+  ],
+  "colloc": [
+   "bowdlerized version(순화 편집판)",
+   "bowdlerize the text(텍스트를 순화하다)",
+   "heavily bowdlerized(대폭 손질된)"
+  ],
+  "ex_add": "The school used a bowdlerized edition of the play.  (bowdlerize=순화하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5567",
+  "hw": "cabal",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "비밀 결사 -> '음모 집단·도당'.",
+  "senses": [
+   "1) (비밀리에 음모를 꾸미는) 도당, 파벌, 비밀 결사"
+  ],
+  "etym": "중세 라틴어 cabala(유대 신비주의 Kabbalah '전수된 가르침')에서 -> '비밀스러운 무리·음모'로 -> 'cabal'. '몰래 결탁한 소수 집단'이 핵심.",
+  "deriv": "히브리 Kabbalah(비전) -> 'cabal'. 한국 학습자 핵심: 유대 신비주의 Kabbalah에서 '비밀 결사'로! a secret cabal(비밀 도당)·ruling cabal(지배 파벌). clique·junta와 유사. 유의어 clique·junta·conspiracy. 반대 (공개) coalition·assembly. 심화 정치.",
+  "syn": [
+   "clique(파벌)",
+   "junta(군사 정권)",
+   "conspiracy(음모단)"
+  ],
+  "anti": [
+   "coalition(공개 연합)",
+   "assembly(공개 모임)",
+   "public body(공적 기구)"
+  ],
+  "idiom": [
+   "a secret cabal(비밀 도당)"
+  ],
+  "colloc": [
+   "secret cabal(비밀 도당)",
+   "ruling cabal(지배 파벌)",
+   "cabal of insiders(내부자 도당)"
+  ],
+  "ex_add": "A small cabal controlled the entire industry.  (cabal=음모 집단)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5568",
+  "hw": "captious",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "흠을 잡아채려는(capere) -> '흠잡기 좋아하는·트집 잡는'.",
+  "senses": [
+   "1) (사소한 결점에) 트집을 잡는, 흠잡기 좋아하는, 까다로운"
+  ],
+  "etym": "라틴어 captiosus(함정 같은·궤변의, capere 잡다) -> 'captious'. incipient(5380)·capture와 같은 capere(잡다) 뿌리. '꼬투리를 잡아채려 드는'이 핵심.",
+  "deriv": "라틴어 capere(잡다) -> 'captious'. 한국 학습자 핵심: capere(잡다) 거대 어근 — capture·accept·incipient(5380)·captious! censorious(5551)·carping(5550)과 유사. a captious critic(트집 잡는 비평가). 유의어 carping·fault-finding·hypercritical. 반대 tolerant·indulgent·approving. 심화 인물 비평.",
+  "syn": [
+   "carping(트집 잡는)",
+   "fault-finding(흠잡는)",
+   "hypercritical(지나치게 비판적인)"
+  ],
+  "anti": [
+   "tolerant(관대한)",
+   "indulgent(너그러운)",
+   "approving(호의적인)"
+  ],
+  "idiom": [
+   "a captious critic(트집 잡는 비평가)"
+  ],
+  "colloc": [
+   "captious critic(트집 잡는 비평가)",
+   "captious remarks(트집 잡는 말)",
+   "captious objection(흠잡는 이의)"
+  ],
+  "ex_add": "His captious comments discouraged the team.  (captious=흠잡기 좋아하는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5569",
+  "hw": "casuistry",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "개별 사례(casus)를 따지는 궤변 -> '궤변·억지 논리'.",
+  "senses": [
+   "1) (그럴듯하나 잘못된) 궤변, 견강부회",
+   "2) (윤리의) 결의론, 사례별 도덕 추론"
+  ],
+  "etym": "라틴어 casus(경우·사례, cadere 떨어지다)에서 -> '개별 사례를 교묘히 따져 빠져나가는 논리' -> 'casuistry'. cadence(5546)·occasion과 같은 cadere(떨어지다) 뿌리. '사례를 핑계로 둘러대는 궤변'이 핵심.",
+  "deriv": "라틴어 casus(경우) -> 'casuistry'. 한국 학습자 핵심: cadere(떨어지다) 어근 — case·cadence(5546)·occasion·casuistry! sophistry와 동의어. clever casuistry(교묘한 궤변). 유의어 sophistry·specious reasoning·quibbling. 반대 sound logic·honesty. 심화 논증·철학.",
+  "syn": [
+   "sophistry(궤변)",
+   "quibbling(억지 논리)",
+   "speciousness(허울뿐임)"
+  ],
+  "anti": [
+   "sound logic(건전한 논리)",
+   "honesty(정직)",
+   "candor(솔직함)"
+  ],
+  "idiom": [
+   "clever casuistry(교묘한 궤변)"
+  ],
+  "colloc": [
+   "clever casuistry(교묘한 궤변)",
+   "moral casuistry(도덕적 결의론)",
+   "mere casuistry(한낱 궤변)"
+  ],
+  "ex_add": "His defense was little more than casuistry.  (casuistry=궤변)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5570",
+  "hw": "chicanery",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "교묘한 속임수 -> '속임수·술책'.",
+  "senses": [
+   "1) (법·말을 비틀어 쓰는) 속임수, 협잡, 술책"
+  ],
+  "etym": "프랑스어 chicanerie(트집·궤변, chicaner 트집 잡다)에서 -> 'chicanery'. 발음 주의(/ʃɪˈkeɪnəri/). '교묘하게 비틀어 속이는 잔꾀'가 핵심.",
+  "deriv": "프랑스어 chicaner(트집 잡다) -> 'chicanery'. 한국 학습자 핵심: 발음 /ʃɪˈkeɪnəri/(시케이너리)! legal chicanery(법률적 협잡)·political chicanery(정치적 술책). subterfuge(5487)와 유사. 유의어 trickery·deception·subterfuge. 반대 honesty·fair dealing·candor. 심화 시사.",
+  "syn": [
+   "trickery(속임수)",
+   "deception(기만)",
+   "subterfuge(술책)"
+  ],
+  "anti": [
+   "honesty(정직)",
+   "fair dealing(공정 거래)",
+   "candor(솔직함)"
+  ],
+  "idiom": [
+   "legal chicanery(법률적 협잡)"
+  ],
+  "colloc": [
+   "legal chicanery(법률적 협잡)",
+   "political chicanery(정치적 술책)",
+   "financial chicanery(재정적 협잡)"
+  ],
+  "ex_add": "The deal was riddled with financial chicanery.  (chicanery=속임수)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5571",
+  "hw": "coeval",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "같은(co) 시대(aevum)의 -> '같은 시대의·동시대의'.",
+  "senses": [
+   "1) (~과) 같은 시대의, 동시대의, 같은 시기에 생긴"
+  ],
+  "etym": "라틴어 coaevus(동시대의, co-(함께) + aevum 시대·나이) -> 'coeval'. aevum(시대)은 eternal·age·medieval·primeval의 뿌리. '같은 시대를 산'이 핵심.",
+  "deriv": "co-(함께) + aevum(시대) -> 'coeval'. 한국 학습자 핵심: aevum(시대) 어근 — eternal·medieval·primeval·coeval! contemporaneous와 동의어. coeval with(~과 동시대의)·coeval cultures. 유의어 contemporaneous·simultaneous·concurrent. 반대 anachronistic·subsequent·prior. 심화 학술.",
+  "syn": [
+   "contemporaneous(동시대의)",
+   "simultaneous(동시의)",
+   "concurrent(병행하는)"
+  ],
+  "anti": [
+   "anachronistic(시대착오의)",
+   "subsequent(후속의)",
+   "prior(앞선)"
+  ],
+  "idiom": [
+   "coeval with(~과 동시대의)"
+  ],
+  "colloc": [
+   "coeval with(~과 동시대의)",
+   "coeval cultures(동시대 문화)",
+   "roughly coeval(대략 동시대인)"
+  ],
+  "ex_add": "These ruins are coeval with the pyramids.  (coeval=같은 시대의)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5572",
+  "hw": "cognoscenti",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "잘 아는(gnoscere) 사람들 -> '전문가·감식가들·식자층'.",
+  "senses": [
+   "1) (예술·음식 등의) 전문 감식가들, 정통한 식자층 (복수)"
+  ],
+  "etym": "이탈리아어 cognoscenti(아는 사람들, 라틴 cognoscere 알다, co-(함께) + gnoscere 알다) -> 'cognoscenti'. recognize·cognizant·incognito와 같은 gnoscere(알다) 뿌리. '깊이 아는 소수 감식가들'이 핵심.",
+  "deriv": "co- + gnoscere(알다) -> 'cognoscenti'. 한국 학습자 핵심: gnoscere(알다) 거대 어근 — recognize·cognizant·incognito·cognoscenti! 단수 cognoscente, 보통 복수. connoisseur(5xx)와 유사. the cognoscenti(정통한 식자층). 유의어 connoisseurs·experts·aficionados. 반대 laymen·amateurs·novices. 심화 예술·문화.",
+  "syn": [
+   "connoisseurs(감식가들)",
+   "experts(전문가들)",
+   "aficionados(애호 전문가들)"
+  ],
+  "anti": [
+   "laymen(문외한)",
+   "amateurs(아마추어)",
+   "novices(초심자)"
+  ],
+  "idiom": [
+   "the cognoscenti(정통한 식자층)"
+  ],
+  "colloc": [
+   "the cognoscenti(식자층)",
+   "wine cognoscenti(와인 감식가들)",
+   "admired by the cognoscenti(전문가들이 인정하는)"
+  ],
+  "ex_add": "The film is a favorite among the cognoscenti.  (cognoscenti=감식가들)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5573",
+  "hw": "contumacious",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "끝까지 뻗대는 -> '(권위·법정에) 완강히 불복하는'.",
+  "senses": [
+   "1) (권위·법정 명령에) 완강히 거역하는, 불복하는"
+  ],
+  "etym": "라틴어 contumax(고집스러운·반항하는, com-(강조) + tumere 부풀다 추정) -> 'contumacious'. turgid(5501)와 같은 tumere(부풀다) 계열로 '자만해 굽히지 않는'. '법·권위에 끝내 불복하는'이 핵심.",
+  "deriv": "라틴어 tumere(부풀다) -> 'contumacious'. 한국 학습자 핵심: 명사 contumacy(법정 모독·불복). 법률 빈출 — contumacious witness(불복하는 증인). recalcitrant(5462)와 유사. 유의어 insubordinate·defiant·recalcitrant. 반대 compliant·obedient·submissive. 심화 법.",
+  "syn": [
+   "insubordinate(반항하는)",
+   "defiant(불복하는)",
+   "recalcitrant(말 안 듣는)"
+  ],
+  "anti": [
+   "compliant(순응하는)",
+   "obedient(순종하는)",
+   "submissive(고분고분한)"
+  ],
+  "idiom": [
+   "a contumacious witness(불복하는 증인)"
+  ],
+  "colloc": [
+   "contumacious witness(불복하는 증인)",
+   "contumacious conduct(불복 행위)",
+   "held in contempt for contumacious(불복으로 법정 모독을 받은)"
+  ],
+  "ex_add": "The contumacious defendant ignored the court's order.  (contumacious=완강히 불복하는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5574",
+  "hw": "coruscate",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "번쩍이다(coruscare) -> '번쩍번쩍 빛나다·(재치가) 번뜩이다'.",
+  "senses": [
+   "1) (빛이) 번쩍이다, 반짝거리다",
+   "2) (재치·재능이) 번뜩이다"
+  ],
+  "etym": "라틴어 coruscare(번쩍이다·떨다)에서 -> 'coruscate'. '빛이 섬광처럼 번쩍이는'이 핵심. 형용사 coruscating(번뜩이는·신랄한).",
+  "deriv": "라틴어 coruscare(번쩍이다) -> 'coruscate'. 한국 학습자 핵심: 형용사 coruscating(① 번뜩이는 ② 신랄한, 영국 용법)! scintillating(5476)과 유사. coruscating wit(번뜩이는 재치). 유의어 sparkle·glitter·scintillate. 반대 dim·dull·darken. 심화 문학.",
+  "syn": [
+   "sparkle(반짝이다)",
+   "glitter(번쩍이다)",
+   "scintillate(번뜩이다)"
+  ],
+  "anti": [
+   "dim(흐려지다)",
+   "dull(칙칙해지다)",
+   "darken(어두워지다)"
+  ],
+  "idiom": [
+   "coruscating wit(번뜩이는 재치)"
+  ],
+  "colloc": [
+   "coruscating wit(번뜩이는 재치)",
+   "coruscate with light(빛으로 번쩍이다)",
+   "coruscating brilliance(눈부신 광채)"
+  ],
+  "ex_add": "The diamonds coruscated under the lights.  (coruscate=번쩍이다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5575",
+  "hw": "crepuscular",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "황혼(crepusculum)의 -> '땅거미의·어스름한'.",
+  "senses": [
+   "1) 황혼의, 땅거미의, 어스름한",
+   "2) (동물이) 박명에 활동하는"
+  ],
+  "etym": "라틴어 crepusculum(황혼·땅거미)에서 -> 'crepuscular'. '해 질 녘 어스름한'이 핵심. 생물학에서 '여명·황혼에 활동하는'(crepuscular animals).",
+  "deriv": "라틴어 crepusculum(황혼) -> 'crepuscular'. 한국 학습자 핵심: diurnal(주행성)·nocturnal(야행성)과 함께 crepuscular(박명행성)! crepuscular light(어스름한 빛)·crepuscular animals(박명에 활동하는 동물). 유의어 twilight·dusky·dim. 반대 diurnal·bright·daylit. 심화 문학·생물.",
+  "syn": [
+   "twilight(황혼의)",
+   "dusky(어스레한)",
+   "dim(어둑한)"
+  ],
+  "anti": [
+   "diurnal(주행성의)",
+   "bright(밝은)",
+   "daylit(대낮의)"
+  ],
+  "idiom": [
+   "crepuscular light(어스름한 빛)"
+  ],
+  "colloc": [
+   "crepuscular light(어스름한 빛)",
+   "crepuscular animals(박명에 활동하는 동물)",
+   "crepuscular glow(땅거미의 빛)"
+  ],
+  "ex_add": "Deer are crepuscular, active at dawn and dusk.  (crepuscular=박명의)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5576",
+  "hw": "declaim",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "밖으로(de) 외치다(clamare) -> '열변을 토하다·낭독하다'.",
+  "senses": [
+   "1) (청중 앞에서) 열변을 토하다, 강하게 연설하다",
+   "2) (시·연설을) 낭랑하게 낭독하다"
+  ],
+  "etym": "라틴어 declamare(큰 소리로 연설하다, de-(강조) + clamare 외치다) -> 'declaim'. clamor·exclaim·proclaim과 같은 clamare(외치다) 뿌리. '청중 앞에서 목청껏 토하다'가 핵심.",
+  "deriv": "de- + clamare(외치다) -> 'declaim'. 한국 학습자 핵심: clamare(외치다) 거대 어근 — clamor·exclaim·proclaim·declaim! 명사 declamation. declaim against(~을 성토하다)·declaim a poem(시를 낭독하다). 유의어 orate·hold forth·proclaim. 반대 mumble·whisper. 심화 수사.",
+  "syn": [
+   "orate(열변하다)",
+   "hold forth(장광설을 펴다)",
+   "proclaim(외치다)"
+  ],
+  "anti": [
+   "mumble(중얼대다)",
+   "whisper(속삭이다)",
+   "murmur(웅얼대다)"
+  ],
+  "idiom": [
+   "declaim against(~을 성토하다)"
+  ],
+  "colloc": [
+   "declaim against(~을 성토하다)",
+   "declaim a poem(시를 낭독하다)",
+   "declaim loudly(열변을 토하다)"
+  ],
+  "ex_add": "He stood up to declaim against the new tax.  (declaim=열변을 토하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5577",
+  "hw": "demur",
+  "pos": "v., n.",
+  "cefr": "심화",
+  "core": "머물러(morari) 미루며 반대하다 -> '이의를 제기하다·난색을 표하다'.",
+  "senses": [
+   "1) (v.) (정중히) 이의를 제기하다, 난색을 표하다, 주저하다",
+   "2) (n.) 이의, 반대"
+  ],
+  "etym": "라틴어 demorari(지체하다, de-(완전히) + morari 머물다, mora 지연) -> 고대 프랑스 demorer -> 'demur'. moratorium(유예)과 같은 mora(지연) 뿌리. '선뜻 응하지 않고 머뭇대며 반대하다'가 핵심.",
+  "deriv": "de- + morari(머물다) -> 'demur'. 한국 학습자 핵심: mora(지연) 어근 — moratorium·demur! 'without demur(이의 없이)' 정형구. demur at the suggestion(제안에 난색을 표하다). 유의어 object·protest·balk. 반대 consent·agree·acquiesce(5260). 심화 격식.",
+  "syn": [
+   "object(이의를 제기하다)",
+   "protest(반대하다)",
+   "balk(주저하다)"
+  ],
+  "anti": [
+   "consent(동의하다)",
+   "agree(찬성하다)",
+   "acquiesce(묵묵히 따르다)"
+  ],
+  "idiom": [
+   "without demur(이의 없이)"
+  ],
+  "colloc": [
+   "without demur(이의 없이)",
+   "demur at the suggestion(제안에 난색을 표하다)",
+   "mild demur(가벼운 이의)"
+  ],
+  "ex_add": "They accepted the terms without demur.  (demur=이의를 제기하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5578",
+  "hw": "denouement",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "매듭(nodus)을 풂(de) -> '(이야기의) 대단원·결말'.",
+  "senses": [
+   "1) (소설·극의) 대단원, 결말, 끝맺음",
+   "2) (사건의) 결말"
+  ],
+  "etym": "프랑스어 dénouement(매듭 풀기, dé-(분리) + nouer 매듭짓다, 라틴 nodus 매듭) -> 'denouement'. node·knot과 같은 nodus(매듭) 뿌리. 발음 주의(/deɪˈnuːmɒ̃/). '얽힌 줄거리의 매듭이 풀리는 결말'이 핵심.",
+  "deriv": "dé-(분리) + nodus(매듭) -> 'denouement'. 한국 학습자 핵심: nodus(매듭) 어근 — node·knot·denouement! climax(절정) 뒤의 결말. the denouement of the novel(소설의 대단원). 유의어 resolution·conclusion·finale. 반대 climax·beginning·exposition. 심화 문학.",
+  "syn": [
+   "resolution(해결)",
+   "conclusion(결말)",
+   "finale(피날레)"
+  ],
+  "anti": [
+   "climax(절정)",
+   "beginning(시작)",
+   "exposition(발단)"
+  ],
+  "idiom": [
+   "the denouement of the story(이야기의 대단원)"
+  ],
+  "colloc": [
+   "denouement of the novel(소설의 대단원)",
+   "dramatic denouement(극적인 결말)",
+   "final denouement(최종 결말)"
+  ],
+  "ex_add": "The novel's denouement was unexpected.  (denouement=대단원)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5579",
+  "hw": "descry",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "멀리서 알아보다 -> '(멀리 있는 것을) 어렴풋이 알아보다·발견하다'.",
+  "senses": [
+   "1) (멀리·희미한 것을) 어렵사리 알아보다, 식별하다, 발견하다"
+  ],
+  "etym": "고대 프랑스어 descrier(외치다·알리다)에서 -> '멀리 보고 알리다 -> 어렴풋이 알아보다'로 -> 'descry'. (decry '비난하다'와 동음이의·혼동 주의.) '눈을 부릅떠 멀리 있는 것을 알아채다'가 핵심.",
+  "deriv": "고대 프랑스어 descrier -> 'descry'. 한국 학습자 핵심: 혼동 절대 주의! descry(멀리서 알아보다) vs decry(비난하다)! descry a ship on the horizon(수평선의 배를 알아보다). discern(5xx)과 유사. 유의어 discern·spot·make out. 반대 overlook·miss. 심화 문학.",
+  "syn": [
+   "discern(식별하다)",
+   "spot(발견하다)",
+   "make out(알아보다)"
+  ],
+  "anti": [
+   "overlook(못 보고 지나치다)",
+   "miss(놓치다)",
+   "ignore(무시하다)"
+  ],
+  "idiom": [
+   "descry in the distance(멀리서 알아보다)"
+  ],
+  "colloc": [
+   "descry a ship(배를 알아보다)",
+   "descry in the distance(멀리서 식별하다)",
+   "barely descry(가까스로 알아보다)"
+  ],
+  "ex_add": "At last she descried a light in the distance.  (descry=어렴풋이 알아보다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5580",
+  "hw": "desuetude",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "습관(suetus)에서 벗어남(de) -> '(쓰이지 않아) 폐용·쇠퇴'.",
+  "senses": [
+   "1) (오래 안 써서) 쓰이지 않게 됨, 폐용 상태, 쇠퇴"
+  ],
+  "etym": "라틴어 desuetudo(폐용, desuescere 익숙함을 버리다, de-(벗어남) + suescere 익숙해지다) -> 'desuetude'. custom·mansuetude와 같은 suescere(익숙해지다) 뿌리. 발음 주의(/ˈdɛswɪtjuːd/). '안 써서 녹슬어 버린 상태'가 핵심.",
+  "deriv": "de-(벗어남) + suescere(익숙해지다) -> 'desuetude'. 한국 학습자 핵심: abeyance(5525)와 유사 — 거의 'fall into desuetude(쓰이지 않게 되다)'로만! 유의어 disuse·obsolescence·abandonment. 반대 use·currency·practice. 심화 법·격식.",
+  "syn": [
+   "disuse(폐용)",
+   "obsolescence(노후화)",
+   "abandonment(방기)"
+  ],
+  "anti": [
+   "use(사용)",
+   "currency(통용)",
+   "practice(관행)"
+  ],
+  "idiom": [
+   "fall into desuetude(쓰이지 않게 되다)"
+  ],
+  "colloc": [
+   "fall into desuetude(쓰이지 않게 되다)",
+   "into desuetude(폐용 상태로)",
+   "legal desuetude(법의 사문화)"
+  ],
+  "ex_add": "The old law had fallen into desuetude.  (desuetude=폐용)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5581",
+  "hw": "dilettante",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "즐기는(dilettare) 자 -> '(깊이 없는) 호사가·어설픈 애호가'.",
+  "senses": [
+   "1) (진지함 없이) 취미 삼아 즐기는 사람, 어설픈 애호가, 호사가"
+  ],
+  "etym": "이탈리아어 dilettante(애호가, dilettare 즐기다, 라틴 delectare 기쁘게 하다) -> 'dilettante'. delight·delectable과 같은 delectare(기쁘게) 뿌리. '깊이 없이 재미로만 깨작대는 사람'이 핵심(보통 경멸조).",
+  "deriv": "라틴어 delectare(즐기다) -> 'dilettante'. 한국 학습자 핵심: delight·delectable과 한 뿌리! 명사 dilettantism. a mere dilettante(한낱 호사가). connoisseur(진정한 감식가)와 대비. 유의어 amateur·dabbler·trifler. 반대 expert·professional·connoisseur. 심화 인물 비평.",
+  "syn": [
+   "amateur(아마추어)",
+   "dabbler(어설픈 애호가)",
+   "trifler(깨작대는 사람)"
+  ],
+  "anti": [
+   "expert(전문가)",
+   "professional(전문가)",
+   "connoisseur(감식가)"
+  ],
+  "idiom": [
+   "a mere dilettante(한낱 호사가)"
+  ],
+  "colloc": [
+   "mere dilettante(한낱 호사가)",
+   "artistic dilettante(예술 호사가)",
+   "dismissed as a dilettante(호사가로 치부된)"
+  ],
+  "ex_add": "Critics dismissed him as a dilettante.  (dilettante=호사가)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5582",
+  "hw": "dirge",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "장례 기도(dirige)의 노래 -> '장송곡·애가'.",
+  "senses": [
+   "1) 장송곡, 만가, 애가",
+   "2) 구슬프고 느린 곡"
+  ],
+  "etym": "라틴어 dirige('인도하소서', dirigere 인도하다의 명령형)에서 -> 장례 미사 첫 구절 'Dirige, Domine...'에서 -> 'dirge'. direct·dirigible과 같은 dirigere 뿌리. '죽은 이를 위한 구슬픈 노래'가 핵심.",
+  "deriv": "라틴어 dirige(인도하소서) -> 'dirge'. 한국 학습자 핵심: 장례 미사 첫 단어에서 온 단어! lament(5115)·elegy와 유사. a funeral dirge(장송곡)·sing a dirge. 유의어 lament·requiem·elegy. 반대 anthem·paean·celebration. 심화 문학·음악.",
+  "syn": [
+   "lament(애가)",
+   "requiem(진혼곡)",
+   "elegy(비가)"
+  ],
+  "anti": [
+   "anthem(찬가)",
+   "paean(찬미가)",
+   "celebration(축가)"
+  ],
+  "idiom": [
+   "a funeral dirge(장송곡)"
+  ],
+  "colloc": [
+   "funeral dirge(장송곡)",
+   "mournful dirge(구슬픈 만가)",
+   "sing a dirge(애가를 부르다)"
+  ],
+  "ex_add": "The band played a slow, mournful dirge.  (dirge=장송곡)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5583",
+  "hw": "dolorous",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "고통(dolor)에 찬 -> '비통한·애절한'.",
+  "senses": [
+   "1) (몹시) 비통한, 슬픔에 찬, 애절한"
+  ],
+  "etym": "라틴어 dolorosus(고통스러운, dolor 고통, dolere 아프다) -> 'dolorous'. indolent(5383)·condolence와 같은 dolere(아프다) 뿌리. '깊은 슬픔이 배어 있는'이 핵심.",
+  "deriv": "라틴어 dolor(고통) -> 'dolorous'. 한국 학습자 핵심: dolere(아프다) 어근 — indolent(5383)·condolence·dolorous! a dolorous sigh(비통한 한숨)·dolorous expression. lugubrious(5594)와 유사. 유의어 mournful·sorrowful·doleful. 반대 joyful·cheerful·blithe(5544). 심화 문학.",
+  "syn": [
+   "mournful(비통한)",
+   "sorrowful(슬픔에 찬)",
+   "doleful(애처로운)"
+  ],
+  "anti": [
+   "joyful(기쁜)",
+   "cheerful(쾌활한)",
+   "blithe(태평한)"
+  ],
+  "idiom": [
+   "a dolorous sigh(비통한 한숨)"
+  ],
+  "colloc": [
+   "dolorous sigh(비통한 한숨)",
+   "dolorous expression(애절한 표정)",
+   "dolorous tone(구슬픈 어조)"
+  ],
+  "ex_add": "She wore a dolorous expression all evening.  (dolorous=비통한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5584",
+  "hw": "doughty",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "쓸모 있고 용감한(dyhtig) -> '용감한·굳센'.",
+  "senses": [
+   "1) (특히 노장이) 용감한, 굳센, 불굴의 (다소 예스러운·유머러스한)"
+  ],
+  "etym": "고대 영어 dohtig/dyhtig(쓸모 있는·용감한)에서 -> 'doughty'. '뚝심 있게 굳세고 용감한'이 핵심. 발음 주의(/ˈdaʊti/, dough와 발음 다름).",
+  "deriv": "고대 영어 dyhtig(용감한) -> 'doughty'. 한국 학습자 핵심: 발음 /ˈdaʊti/(다우티) — dough(도우)와 다름! 다소 예스럽고 유머러스 — a doughty fighter(굳센 투사)·doughty defender. 유의어 valiant·intrepid(5109)·stout. 반대 cowardly·timid·feeble. 심화 문학.",
+  "syn": [
+   "valiant(용맹한)",
+   "intrepid(겁 없는)",
+   "stout(굳센)"
+  ],
+  "anti": [
+   "cowardly(겁 많은)",
+   "timid(소심한)",
+   "feeble(연약한)"
+  ],
+  "idiom": [
+   "a doughty fighter(굳센 투사)"
+  ],
+  "colloc": [
+   "doughty fighter(굳센 투사)",
+   "doughty defender(불굴의 옹호자)",
+   "doughty champion(용감한 투사)"
+  ],
+  "ex_add": "The doughty old sailor refused to give up.  (doughty=용감한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5585",
+  "hw": "effrontery",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "이마(frons)를 밖으로(ef) 들이댐 -> '뻔뻔함·철면피'.",
+  "senses": [
+   "1) (어처구니없는) 뻔뻔함, 철면피, 무례한 대담함"
+  ],
+  "etym": "라틴어 effrons(이마를 들이댄·염치없는, ex-(밖으로) + frons 이마) -> 프랑스 effronterie -> 'effrontery'. affront(5530)·confront와 같은 frons(이마) 뿌리. '낯짝을 들이대는 철면피'가 핵심.",
+  "deriv": "ex-(밖으로) + frons(이마) -> 'effrontery'. 한국 학습자 핵심: frons(이마) 어근 — front·confront·affront(5530)·effrontery! temerity(5492)·audacity와 유사. have the effrontery to(뻔뻔하게도 ~하다). 유의어 audacity·gall·impudence. 반대 modesty·humility·diffidence(5314). 심화 격식.",
+  "syn": [
+   "audacity(뻔뻔함)",
+   "gall(철면피)",
+   "impudence(무례)"
+  ],
+  "anti": [
+   "modesty(겸손)",
+   "humility(겸허)",
+   "diffidence(소심)"
+  ],
+  "idiom": [
+   "have the effrontery to(뻔뻔하게도 ~하다)"
+  ],
+  "colloc": [
+   "sheer effrontery(순전한 뻔뻔함)",
+   "have the effrontery to(뻔뻔하게도 ~하다)",
+   "brazen effrontery(낯 두꺼운 철면피)"
+  ],
+  "ex_add": "He had the effrontery to demand a refund.  (effrontery=뻔뻔함)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5586",
+  "hw": "encomium",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "잔치(komos)에서 바치는 찬사 -> '찬사·칭송'.",
+  "senses": [
+   "1) (격식 있는·열렬한) 찬사, 칭송, 송덕문"
+  ],
+  "etym": "그리스어 enkomion(찬가, en-(안에) + komos 흥겨운 잔치)에서 -> 라틴 encomium -> 'encomium'. comedy(komos에서)와 어원 인접. '잔치에서 바치는 드높은 찬사'가 핵심.",
+  "deriv": "en-(안에) + komos(잔치) -> 'encomium'. 한국 학습자 핵심: comedy와 어원 인접(komos 잔치)! 복수 encomiums/encomia. heap encomiums on(~에 찬사를 쏟다). eulogy·panegyric과 유사. 유의어 eulogy·panegyric·tribute. 반대 criticism·diatribe·censure. 심화 격식.",
+  "syn": [
+   "eulogy(찬사)",
+   "panegyric(칭송문)",
+   "tribute(헌사)"
+  ],
+  "anti": [
+   "criticism(비판)",
+   "diatribe(혹평)",
+   "censure(견책)"
+  ],
+  "idiom": [
+   "heap encomiums on(~에 찬사를 쏟다)"
+  ],
+  "colloc": [
+   "heap encomiums on(~에 찬사를 쏟다)",
+   "lavish encomium(아낌없는 찬사)",
+   "fulsome encomium(과한 칭송)"
+  ],
+  "ex_add": "The critics' encomiums made her famous overnight.  (encomium=찬사)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5587",
+  "hw": "evince",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "밖으로(e) 이겨 내보이다(vincere) -> '(감정·성질을) 분명히 드러내다'.",
+  "senses": [
+   "1) (감정·자질을) 분명히 나타내다, 내비치다, 보여 주다"
+  ],
+  "etym": "라틴어 evincere(이겨 내다·입증하다, e-(밖으로) + vincere 이기다) -> '논증으로 드러내다 -> 분명히 보이다'로 -> 'evince'. convince·victor·invincible과 같은 vincere(이기다) 뿌리. '속에 있는 것을 밖으로 드러내 보이다'가 핵심.",
+  "deriv": "e-(밖으로) + vincere(이기다) -> 'evince'. 한국 학습자 핵심: vincere(이기다) 어근 — convince·victor·invincible·evince! evince interest(관심을 내비치다)·evince no emotion(감정을 안 드러내다). 유의어 display·manifest·exhibit. 반대 conceal·hide·suppress. 심화 격식.",
+  "syn": [
+   "display(드러내다)",
+   "manifest(나타내다)",
+   "exhibit(보이다)"
+  ],
+  "anti": [
+   "conceal(감추다)",
+   "hide(숨기다)",
+   "suppress(억누르다)"
+  ],
+  "idiom": [
+   "evince interest(관심을 내비치다)"
+  ],
+  "colloc": [
+   "evince interest(관심을 내비치다)",
+   "evince little emotion(감정을 거의 안 드러내다)",
+   "evince a desire(욕구를 내비치다)"
+  ],
+  "ex_add": "She evinced little interest in the offer.  (evince=분명히 드러내다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5588",
+  "hw": "exegesis",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "밖으로(ex) 끌어내(hegeisthai) 풀이함 -> '(특히 성서의) 주해·해석'.",
+  "senses": [
+   "1) (특히 종교 경전·텍스트의) 주해, 상세한 해석, 강해"
+  ],
+  "etym": "그리스어 exegesis(해설, ex-(밖으로) + hegeisthai 이끌다·설명하다)에서 -> 'exegesis'. '본문에서 의미를 끌어내 풀이함'이 핵심. 복수 exegeses.",
+  "deriv": "ex-(밖으로) + hegeisthai(이끌다) -> 'exegesis'. 한국 학습자 핵심: hegeisthai(이끌다)는 hegemony(5xx, 패권)와 한 뿌리! 형용사 exegetical. biblical exegesis(성서 주해)·textual exegesis. 유의어 interpretation·commentary·explication. 반대 (원문)text·obscuration. 심화 학술·신학.",
+  "syn": [
+   "interpretation(해석)",
+   "commentary(주해)",
+   "explication(상세 해설)"
+  ],
+  "anti": [
+   "obfuscation(흐리기)",
+   "misreading(오독)",
+   "text(원문)"
+  ],
+  "idiom": [
+   "biblical exegesis(성서 주해)"
+  ],
+  "colloc": [
+   "biblical exegesis(성서 주해)",
+   "textual exegesis(본문 해석)",
+   "careful exegesis(면밀한 주해)"
+  ],
+  "ex_add": "The book offers a detailed exegesis of the poem.  (exegesis=주해)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5589",
+  "hw": "expatiate",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "밖으로(ex) 거닐다(spatiari) -> '상세히 늘어놓다·장황히 설명하다'.",
+  "senses": [
+   "1) (~에 대해) 상세히 설명하다, 장황하게 늘어놓다"
+  ],
+  "etym": "라틴어 exspatiari(멀리 거닐다, ex-(밖으로) + spatiari 거닐다, spatium 공간) -> '주제를 넓게 펼쳐 늘어놓다' -> 'expatiate'. space·spatial과 같은 spatium(공간) 뿌리. '주제를 넓게 펼쳐 자세히 말하다'가 핵심.",
+  "deriv": "ex-(밖으로) + spatium(공간) -> 'expatiate'. 한국 학습자 핵심: spatium(공간) 어근 — space·spatial·expatiate! 'expatiate on/upon': expatiate on the topic(주제를 장황히 설명하다). 유의어 elaborate·dwell on·hold forth. 반대 summarize·abridge·be brief. 심화 격식.",
+  "syn": [
+   "elaborate(상술하다)",
+   "dwell on(자세히 다루다)",
+   "hold forth(장광설을 펴다)"
+  ],
+  "anti": [
+   "summarize(요약하다)",
+   "abridge(축약하다)",
+   "be brief(간략히 하다)"
+  ],
+  "idiom": [
+   "expatiate on(~을 상세히 늘어놓다)"
+  ],
+  "colloc": [
+   "expatiate on the subject(주제를 상세히 늘어놓다)",
+   "expatiate upon(~을 장황히 설명하다)",
+   "expatiate at length(장황하게 늘어놓다)"
+  ],
+  "ex_add": "He expatiated at length on his travels.  (expatiate=상세히 늘어놓다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5590",
+  "hw": "feckless",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "효력(feck)이 없는(less) -> '무능한·무책임한·맥없는'.",
+  "senses": [
+   "1) (책임감·능력 없이) 무기력한, 무책임한, 쓸모없는"
+  ],
+  "etym": "스코틀랜드 영어 feck(효력·effect의 축약) + -less(없는) -> 'feckless'. '효력·쓸모가 없는 -> 무능하고 무책임한'이 핵심.",
+  "deriv": "feck(효력, effect 축약) + -less -> 'feckless'. 한국 학습자 핵심: feck=effect(효력)의 옛 축약! a feckless youth(무책임한 젊은이)·feckless parent. 유의어 ineffective·irresponsible·incompetent. 반대 responsible·capable·effective. 심화 인물 비평.",
+  "syn": [
+   "ineffective(무능한)",
+   "irresponsible(무책임한)",
+   "incompetent(무능한)"
+  ],
+  "anti": [
+   "responsible(책임감 있는)",
+   "capable(유능한)",
+   "effective(유능한)"
+  ],
+  "idiom": [
+   "a feckless youth(무책임한 젊은이)"
+  ],
+  "colloc": [
+   "feckless youth(무책임한 젊은이)",
+   "feckless parent(무책임한 부모)",
+   "feckless and lazy(무능하고 게으른)"
+  ],
+  "ex_add": "His feckless brother never held a job.  (feckless=무책임한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5591",
+  "hw": "fulminate",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "번개(fulmen)처럼 내리치다 -> '맹렬히 비난하다·성토하다'.",
+  "senses": [
+   "1) (~에 대해) 맹렬히 비난하다, 호통치며 성토하다"
+  ],
+  "etym": "라틴어 fulminare(번개를 치다, fulmen 번개) -> '번개처럼 격렬히 퍼붓다' -> 'fulminate'. '벼락 치듯 격렬히 규탄하다'가 핵심.",
+  "deriv": "라틴어 fulmen(번개) -> 'fulminate'. 한국 학습자 핵심: fulmen(번개)에서 '벼락같은 비난'! 'fulminate against': fulminate against corruption(부패를 성토하다). 명사 fulmination. 유의어 rail·inveigh·denounce. 반대 praise·commend·extol. 심화 시사.",
+  "syn": [
+   "rail(맹비난하다)",
+   "inveigh(통렬히 비난하다)",
+   "denounce(규탄하다)"
+  ],
+  "anti": [
+   "praise(칭찬하다)",
+   "commend(칭찬하다)",
+   "extol(극찬하다)"
+  ],
+  "idiom": [
+   "fulminate against(~을 성토하다)"
+  ],
+  "colloc": [
+   "fulminate against(~을 성토하다)",
+   "fulminate about(~에 대해 호통치다)",
+   "fulminate angrily(노발대발 비난하다)"
+  ],
+  "ex_add": "The senator fulminated against the new law.  (fulminate=맹렬히 비난하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5592",
+  "hw": "gainsay",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "반대로(gain=against) 말하다(say) -> '부인하다·반박하다'.",
+  "senses": [
+   "1) (사실·진술을) 부인하다, 반박하다, 부정하다 (보통 부정문)"
+  ],
+  "etym": "중세 영어 gainsay(against + say, gain-은 고대 영어 gegn '맞서')에서 -> 'gainsay'. 'against-say' 즉 '맞서 말하다'가 핵심.",
+  "deriv": "gain-(맞서) + say(말하다) -> 'gainsay'. 한국 학습자 핵심: gain-(맞서)은 again·against과 연결! 거의 부정문 — There's no gainsaying the fact(그 사실은 부인할 수 없다). 유의어 deny·contradict·dispute. 반대 affirm·confirm·concede. 심화 격식.",
+  "syn": [
+   "deny(부인하다)",
+   "contradict(반박하다)",
+   "dispute(이의를 제기하다)"
+  ],
+  "anti": [
+   "affirm(확언하다)",
+   "confirm(확인하다)",
+   "concede(인정하다)"
+  ],
+  "idiom": [
+   "there's no gainsaying(~은 부인할 수 없다)"
+  ],
+  "colloc": [
+   "no gainsaying the fact(사실을 부인할 수 없는)",
+   "cannot gainsay(반박할 수 없다)",
+   "gainsay the claim(주장을 부인하다)"
+  ],
+  "ex_add": "There's no gainsaying her talent.  (gainsay=부인하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5593",
+  "hw": "gauche",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "왼쪽(gauche)의 -> '서투른·세련되지 못한·눈치 없는'.",
+  "senses": [
+   "1) (사교적으로) 서투른, 어색한, 눈치 없는, 촌스러운"
+  ],
+  "etym": "프랑스어 gauche(왼쪽의·비뚤어진)에서 -> 오른쪽(adroit 5263)이 '능숙'인 데 반해 왼쪽은 '서투름' -> 'gauche'. 발음 주의(/ɡoʊʃ/). '왼손처럼 어설프고 세련되지 못한'이 핵심.",
+  "deriv": "프랑스어 gauche(왼쪽) -> 'gauche'. 한국 학습자 핵심: adroit(5263, 오른쪽=능숙)의 정반대 발상 — 왼쪽=서투름! 발음 /ɡoʊʃ/. 명사 gaucherie(서투른 행동). a gauche remark(눈치 없는 말). 유의어 awkward·tactless·clumsy. 반대 suave·adroit·sophisticated. 심화 인물 묘사.",
+  "syn": [
+   "awkward(어색한)",
+   "tactless(눈치 없는)",
+   "clumsy(서투른)"
+  ],
+  "anti": [
+   "suave(세련된)",
+   "adroit(능숙한)",
+   "sophisticated(세련된)"
+  ],
+  "idiom": [
+   "a gauche remark(눈치 없는 말)"
+  ],
+  "colloc": [
+   "gauche remark(눈치 없는 말)",
+   "gauche manner(어색한 태도)",
+   "socially gauche(사교적으로 서투른)"
+  ],
+  "ex_add": "His gauche attempt at humor fell flat.  (gauche=서투른)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5594",
+  "hw": "hauteur",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "높음(haut) -> '거만함·오만'.",
+  "senses": [
+   "1) (남을 내려다보는) 거만함, 오만, 거드름"
+  ],
+  "etym": "프랑스어 hauteur(높음·거만, haut 높은, 라틴 altus 높은) -> 'hauteur'. altitude·exalt와 같은 altus(높은) 뿌리. 발음 주의(/oʊˈtɜːr/). '자기를 높이 두고 남을 깔보는 태도'가 핵심.",
+  "deriv": "프랑스어 haut(높은, 라틴 altus) -> 'hauteur'. 한국 학습자 핵심: altus(높은) 어근 — altitude·exalt·hauteur! supercilious(5488)·arrogance와 유사. an air of hauteur(거만한 분위기)·aristocratic hauteur. 유의어 arrogance·haughtiness·disdain. 반대 humility·modesty·affability. 심화 인물 묘사.",
+  "syn": [
+   "arrogance(오만)",
+   "haughtiness(거만)",
+   "disdain(멸시)"
+  ],
+  "anti": [
+   "humility(겸손)",
+   "modesty(겸허)",
+   "affability(붙임성)"
+  ],
+  "idiom": [
+   "an air of hauteur(거만한 분위기)"
+  ],
+  "colloc": [
+   "air of hauteur(거만한 분위기)",
+   "aristocratic hauteur(귀족적 오만)",
+   "cold hauteur(차가운 거드름)"
+  ],
+  "ex_add": "She greeted us with icy hauteur.  (hauteur=거만함)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5595",
+  "hw": "imprecation",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "~에게(im) 빌어(precari) 내리는 저주 -> '저주·악담'.",
+  "senses": [
+   "1) (남이 잘못되기를 비는) 저주, 악담, 욕설"
+  ],
+  "etym": "라틴어 imprecatio(저주, imprecari 저주를 빌다, in-(~에게) + precari 빌다, prex 기도) -> 'imprecation'. precarious(5167)·pray와 같은 prex(기도) 뿌리. '남에게 화가 내리길 비는 말'이 핵심.",
+  "deriv": "in-(~에게) + precari(빌다) -> 'imprecation'. 한국 학습자 핵심: prex(기도) 어근 — pray·precarious(5167)·deprecate·imprecation! '기도'지만 '저주'를 비는 것! mutter imprecations(저주를 중얼대다). 유의어 curse·malediction·anathema(5270). 반대 blessing·benediction. 심화 문학.",
+  "syn": [
+   "curse(저주)",
+   "malediction(악담)",
+   "anathema(저주)"
+  ],
+  "anti": [
+   "blessing(축복)",
+   "benediction(축도)",
+   "praise(찬양)"
+  ],
+  "idiom": [
+   "mutter imprecations(저주를 중얼대다)"
+  ],
+  "colloc": [
+   "mutter imprecations(저주를 중얼대다)",
+   "hurl imprecations(저주를 퍼붓다)",
+   "angry imprecations(노기 어린 악담)"
+  ],
+  "ex_add": "He muttered imprecations under his breath.  (imprecation=저주)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5596",
+  "hw": "ineluctable",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "몸부림쳐도(luctari) 벗어날 수 없는(in) -> '피할 수 없는·불가피한'.",
+  "senses": [
+   "1) (운명처럼) 피할 수 없는, 불가피한"
+  ],
+  "etym": "라틴어 ineluctabilis(벗어날 수 없는, in-(부정) + eluctari 몸부림쳐 빠져나오다, ex-(밖) + luctari 씨름하다) -> 'ineluctable'. reluctant(마지못한)과 같은 luctari(씨름하다) 뿌리. '아무리 발버둥쳐도 못 벗어나는'이 핵심.",
+  "deriv": "in- + luctari(씨름하다) -> 'ineluctable'. 한국 학습자 핵심: luctari(씨름) 어근 — reluctant·ineluctable! inexorable(거침없는)·inevitable과 유사. the ineluctable logic(피할 수 없는 논리)·ineluctable fate. 유의어 inescapable·inevitable·inexorable. 반대 avoidable·escapable·preventable. 심화 문어.",
+  "syn": [
+   "inescapable(벗어날 수 없는)",
+   "inevitable(불가피한)",
+   "inexorable(거침없는)"
+  ],
+  "anti": [
+   "avoidable(피할 수 있는)",
+   "escapable(벗어날 수 있는)",
+   "preventable(막을 수 있는)"
+  ],
+  "idiom": [
+   "the ineluctable logic of(~의 피할 수 없는 논리)"
+  ],
+  "colloc": [
+   "ineluctable fate(피할 수 없는 운명)",
+   "ineluctable logic(불가피한 논리)",
+   "ineluctable conclusion(피할 수 없는 결론)"
+  ],
+  "ex_add": "They faced the ineluctable fact of defeat.  (ineluctable=피할 수 없는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5597",
+  "hw": "jejune",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "굶주린(jejunus) 듯 빈약한 -> '유치한·시시한·내용 없는'.",
+  "senses": [
+   "1) (생각·글이) 유치한, 미숙한",
+   "2) 무미건조한, 내용이 빈약한"
+  ],
+  "etym": "라틴어 jejunus(공복의·메마른)에서 -> '굶주린 듯 알맹이가 없는 -> 빈약한·유치한' -> 'jejune'. 소장 jejunum(공장, '비어 있는 창자')과 같은 뿌리. 발음 주의(/dʒɪˈdʒuːn/). '속이 빈 듯 시시하고 미숙한'이 핵심.",
+  "deriv": "라틴어 jejunus(공복의) -> 'jejune'. 한국 학습자 핵심: 해부학 jejunum(공장)과 한 뿌리(둘 다 '비어 있는')! 발음 /dʒɪˈdʒuːn/. jejune remarks(유치한 발언)·jejune ideas. 유의어 puerile·insipid·naive. 반대 mature·profound·substantial. 심화 비평.",
+  "syn": [
+   "puerile(유치한)",
+   "insipid(무미건조한)",
+   "naive(미숙한)"
+  ],
+  "anti": [
+   "mature(성숙한)",
+   "profound(심오한)",
+   "substantial(알찬)"
+  ],
+  "idiom": [
+   "jejune remarks(유치한 발언)"
+  ],
+  "colloc": [
+   "jejune remarks(유치한 발언)",
+   "jejune ideas(시시한 생각)",
+   "jejune prose(빈약한 글)"
+  ],
+  "ex_add": "The essay was full of jejune observations.  (jejune=유치한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5598",
+  "hw": "kowtow",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "머리를 조아리다(叩頭) -> '굽실거리다·비굴하게 아첨하다'.",
+  "senses": [
+   "1) (~에게) 굽실거리다, 비굴하게 떠받들다, 아첨하다"
+  ],
+  "etym": "중국어 叩頭(kòutóu, 머리를 조아려 절함)에서 -> 청나라 황제 앞 큰절 관습에서 -> 'kowtow'. '머리를 땅에 조아리듯 비굴하게 굽신대다'가 핵심.",
+  "deriv": "중국어 叩頭(고두) -> 'kowtow'. 한국 학습자 핵심: 중국어 차용어 — 큰절(고두)에서! 'kowtow to': kowtow to authority(권력에 굽실대다). obsequious(5419)·servile(5479)와 연결. 유의어 grovel·fawn·toady. 반대 defy·stand up to·resist. 심화 시사.",
+  "syn": [
+   "grovel(굽실대다)",
+   "fawn(알랑거리다)",
+   "toady(아첨하다)"
+  ],
+  "anti": [
+   "defy(맞서다)",
+   "stand up to(대항하다)",
+   "resist(저항하다)"
+  ],
+  "idiom": [
+   "kowtow to(~에게 굽실대다)"
+  ],
+  "colloc": [
+   "kowtow to authority(권력에 굽실대다)",
+   "kowtow to the boss(상사에게 굽실대다)",
+   "refuse to kowtow(굽실대기를 거부하다)"
+  ],
+  "ex_add": "He refused to kowtow to his superiors.  (kowtow=굽실거리다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5599",
+  "hw": "litany",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "기원(litaneia)의 연도 -> '지루한 나열·연도(連禱)'.",
+  "senses": [
+   "1) (지루하게) 줄줄이 늘어놓음, 장황한 나열",
+   "2) (교회의) 연도(連禱), 호칭 기도"
+  ],
+  "etym": "그리스어 litaneia(기도·간구, litesthai 빌다)에서 -> 교회의 반복적 응답 기도에서 '단조로운 나열'로 -> 'litany'. '같은 형식으로 끝없이 이어지는 나열'이 핵심.",
+  "deriv": "그리스 litaneia(기도) -> 'litany'. 한국 학습자 핵심: 'a litany of': a litany of complaints(불평의 나열)·a litany of woes(고난의 나열)! 보통 부정적·지루함의 뉘앙스. 유의어 list·catalog·recital. 반대 (단일)single mention. 심화 문어.",
+  "syn": [
+   "catalog(나열)",
+   "recital(줄줄이 읊음)",
+   "list(목록)"
+  ],
+  "anti": [
+   "summary(요약)",
+   "single mention(한 번 언급)",
+   "brevity(간략)"
+  ],
+  "idiom": [
+   "a litany of complaints(불평의 나열)"
+  ],
+  "colloc": [
+   "litany of complaints(불평의 나열)",
+   "litany of woes(고난의 나열)",
+   "litany of excuses(변명의 나열)"
+  ],
+  "ex_add": "He recited the usual litany of complaints.  (litany=지루한 나열)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5600",
+  "hw": "lugubrious",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "애도(lugere)하는 -> '(과장되게) 침울한·구슬픈'.",
+  "senses": [
+   "1) (지나치게) 침울한, 구슬픈, 시무룩한 (종종 우스꽝스러울 정도로)"
+  ],
+  "etym": "라틴어 lugubris(애도의, lugere 슬퍼하다·통곡하다) -> 'lugubrious'. '과장될 만큼 음울하고 구슬픈'이 핵심. 발음 주의(/luˈɡuːbriəs/).",
+  "deriv": "라틴어 lugere(슬퍼하다) -> 'lugubrious'. 한국 학습자 핵심: 발음 /luˈɡuːbriəs/! dolorous(5583)·mournful과 유사하나 '과장된' 뉘앙스. a lugubrious expression(과장되게 침울한 표정)·lugubrious tone. 유의어 mournful·gloomy·doleful. 반대 cheerful·jovial·blithe(5544). 심화 묘사.",
+  "syn": [
+   "mournful(애처로운)",
+   "gloomy(음울한)",
+   "doleful(구슬픈)"
+  ],
+  "anti": [
+   "cheerful(쾌활한)",
+   "jovial(유쾌한)",
+   "blithe(태평한)"
+  ],
+  "idiom": [
+   "a lugubrious expression(과장되게 침울한 표정)"
+  ],
+  "colloc": [
+   "lugubrious expression(침울한 표정)",
+   "lugubrious tone(구슬픈 어조)",
+   "lugubrious face(시무룩한 얼굴)"
+  ],
+  "ex_add": "He spoke in a slow, lugubrious voice.  (lugubrious=구슬픈)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5601",
+  "hw": "machination",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "기계(machina) 같은 책략 -> '음모·책략'.",
+  "senses": [
+   "1) (남을 해치려는) 음모, 책략, 술수 (보통 복수)"
+  ],
+  "etym": "라틴어 machinatio(고안·책략, machinari 꾸미다, machina 기계·장치) -> 'machination'. machine·mechanic과 같은 machina(장치) 뿌리. '교묘히 짜낸 음흉한 계략'이 핵심.",
+  "deriv": "라틴어 machina(기계·장치) -> 'machination'. 한국 학습자 핵심: machine(기계)과 한 뿌리 — '교묘히 꾸민 장치=책략'! 보통 복수 — political machinations(정치적 책략)·secret machinations. 유의어 scheme·intrigue·plot. 반대 (정직)candor·openness. 심화 시사.",
+  "syn": [
+   "scheme(책략)",
+   "intrigue(음모)",
+   "plot(모의)"
+  ],
+  "anti": [
+   "candor(솔직함)",
+   "openness(개방성)",
+   "transparency(투명성)"
+  ],
+  "idiom": [
+   "political machinations(정치적 책략)"
+  ],
+  "colloc": [
+   "political machinations(정치적 책략)",
+   "secret machinations(은밀한 음모)",
+   "behind-the-scenes machinations(막후 책략)"
+  ],
+  "ex_add": "He fell victim to their machinations.  (machination=음모)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5602",
+  "hw": "maelstrom",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "갈아 도는(malen) 큰 소용돌이 -> '대혼란·큰 소용돌이'.",
+  "senses": [
+   "1) (격렬한) 대혼란, 소용돌이 같은 상황",
+   "2) (바다의) 큰 소용돌이"
+  ],
+  "etym": "네덜란드어 maelstrom(malen 갈다·휘돌다 + stroom 흐름)에서 -> 노르웨이 앞바다의 거대 소용돌이 이름에서 -> 'maelstrom'. '모든 것을 빨아들이는 소용돌이 -> 대혼란'이 핵심.",
+  "deriv": "네덜란드어 malen(휘돌다) + stroom(흐름) -> 'maelstrom'. 한국 학습자 핵심: 노르웨이 바다 소용돌이 지명에서! a maelstrom of emotions(감정의 소용돌이)·political maelstrom. turmoil(5234)·vortex와 유사. 유의어 turmoil·vortex·whirlpool. 반대 calm·tranquility·stillness. 심화 문학.",
+  "syn": [
+   "turmoil(대혼란)",
+   "vortex(소용돌이)",
+   "whirlpool(소용돌이)"
+  ],
+  "anti": [
+   "calm(평온)",
+   "tranquility(고요)",
+   "stillness(정적)"
+  ],
+  "idiom": [
+   "a maelstrom of emotions(감정의 소용돌이)"
+  ],
+  "colloc": [
+   "maelstrom of emotions(감정의 소용돌이)",
+   "political maelstrom(정치적 대혼란)",
+   "swirling maelstrom(휘몰아치는 소용돌이)"
+  ],
+  "ex_add": "The country was plunged into a political maelstrom.  (maelstrom=대혼란)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5603",
+  "hw": "martinet",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "마르티네(Martinet) 장군식 규율가 -> '규율에 엄격한 사람'.",
+  "senses": [
+   "1) (사소한 규칙까지) 엄격히 강요하는 사람, 규율광"
+  ],
+  "etym": "루이 14세의 엄격한 훈련 교관 Jean Martinet 대령의 이름에서 -> 'martinet'. '군기 잡듯 규칙을 빡빡하게 강요하는 사람'이 핵심.",
+  "deriv": "인명 Jean Martinet -> 'martinet'. 한국 학습자 핵심: 실존 군인 이름에서 온 단어(eponym)! a strict martinet(엄격한 규율가). disciplinarian과 유사. 유의어 disciplinarian·stickler·taskmaster. 반대 pushover·softy·lenient leader. 심화 인물 묘사.",
+  "syn": [
+   "disciplinarian(규율가)",
+   "stickler(고집스러운 원칙주의자)",
+   "taskmaster(엄격한 감독)"
+  ],
+  "anti": [
+   "pushover(만만한 사람)",
+   "softy(무른 사람)",
+   "lenient leader(관대한 지도자)"
+  ],
+  "idiom": [
+   "a strict martinet(엄격한 규율가)"
+  ],
+  "colloc": [
+   "strict martinet(엄격한 규율가)",
+   "military martinet(군기 잡는 사람)",
+   "old martinet(고지식한 규율광)"
+  ],
+  "ex_add": "The new sergeant was a real martinet.  (martinet=규율에 엄격한 사람)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5604",
+  "hw": "mendicant",
+  "pos": "n., adj.",
+  "cefr": "심화",
+  "core": "구걸하는(mendicare) -> '걸인·탁발 수도사 / 구걸하는'.",
+  "senses": [
+   "1) (n.) 걸인, 탁발 수도사",
+   "2) (adj.) 구걸하는, 탁발하는"
+  ],
+  "etym": "라틴어 mendicans(구걸하는, mendicare 구걸하다, mendicus 거지)에서 -> 'mendicant'. '동냥하며 사는 자'가 핵심. 탁발 수도회(mendicant orders)에서도.",
+  "deriv": "라틴어 mendicus(거지) -> 'mendicant'. 한국 학습자 핵심: 명사·형용사 동형! a mendicant friar(탁발 수도사)·mendicant order(탁발 수도회). beggar의 격식어. 유의어 beggar·panhandler·almsman. 반대 benefactor·donor·philanthropist. 심화 종교·문어.",
+  "syn": [
+   "beggar(걸인)",
+   "panhandler(동냥꾼)",
+   "almsman(구호 대상자)"
+  ],
+  "anti": [
+   "benefactor(후원자)",
+   "donor(기부자)",
+   "philanthropist(자선가)"
+  ],
+  "idiom": [
+   "a mendicant friar(탁발 수도사)"
+  ],
+  "colloc": [
+   "mendicant friar(탁발 수도사)",
+   "mendicant order(탁발 수도회)",
+   "wandering mendicant(떠도는 걸인)"
+  ],
+  "ex_add": "A mendicant sat begging by the temple gate.  (mendicant=걸인)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5605",
+  "hw": "obloquy",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "맞서(ob) 떠들어 댐(loqui) -> '욕설·오명·비방'.",
+  "senses": [
+   "1) (공공연한) 욕설, 비난, 매도",
+   "2) (그로 인한) 오명, 불명예"
+  ],
+  "etym": "라틴어 obloquium(반박·비방, ob-(맞서) + loqui 말하다) -> 'obloquy'. loquacious(5121)·eloquent와 같은 loqui(말하다) 뿌리. '면전에서 퍼붓는 욕설 -> 그로 인한 오명'이 핵심.",
+  "deriv": "ob-(맞서) + loqui(말하다) -> 'obloquy'. 한국 학습자 핵심: loqui(말하다) 거대 어근 — loquacious(5121)·eloquent·colloquial·obloquy! opprobrium(5424)과 유사. subjected to obloquy(매도를 당한). 유의어 vilification·calumny·opprobrium. 반대 praise·acclaim·honor. 심화 격식.",
+  "syn": [
+   "vilification(비방)",
+   "calumny(중상)",
+   "opprobrium(매도)"
+  ],
+  "anti": [
+   "praise(칭찬)",
+   "acclaim(찬사)",
+   "honor(명예)"
+  ],
+  "idiom": [
+   "subjected to obloquy(매도를 당한)"
+  ],
+  "colloc": [
+   "subjected to obloquy(매도를 당한)",
+   "public obloquy(대중의 매도)",
+   "heap obloquy on(~에 비방을 퍼붓다)"
+  ],
+  "ex_add": "The traitor's name became a byword for obloquy.  (obloquy=오명)",
+  "ex_orig": "",
+  "ex_src": ""
  }
 ]
