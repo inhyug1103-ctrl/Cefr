@@ -199960,5 +199960,1680 @@
   "ex_add": "The rain gave a brief respite from the heat.  (respite=잠깐의 휴식)",
   "ex_orig": "",
   "ex_src": ""
+ },
+ {
+  "num": "5906",
+  "hw": "abjure",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "멀리(ab) 맹세해(jurare) 버리다 -> '(공개적으로) 맹세코 끊다·포기하다'.",
+  "senses": [
+   "1) (신념·습관을) 공개적으로 버리다, 맹세코 끊다, 철회하다"
+  ],
+  "etym": "라틴어 abjurare(맹세코 부인하다, ab-(멀리) + jurare 맹세하다, jus 법) -> 'abjure'. adjure(5708)·perjure·jury와 같은 jurare(맹세) 뿌리. '맹세를 걸고 멀리 내쳐 버리다'가 핵심.",
+  "deriv": "ab-(멀리) + jurare(맹세하다) -> 'abjure'. 한국 학습자 핵심: jurare(맹세) 어근 — adjure(5708)·perjure·jury·abjure! 혼동 주의: abjure(끊다) vs adjure(5708, 엄명하다)! abjure violence(폭력을 맹세코 끊다). renounce(5196)와 유사. 유의어 renounce·forswear·repudiate(5199). 반대 embrace·espouse·affirm. 심화 격식.",
+  "syn": [
+   "renounce(포기하다)",
+   "forswear(맹세코 끊다)",
+   "repudiate(부인하다)"
+  ],
+  "anti": [
+   "embrace(받아들이다)",
+   "espouse(지지하다)",
+   "affirm(확언하다)"
+  ],
+  "idiom": [
+   "abjure violence(폭력을 맹세코 끊다)"
+  ],
+  "colloc": [
+   "abjure violence(폭력을 끊다)",
+   "abjure one's faith(신앙을 버리다)",
+   "publicly abjure(공개적으로 철회하다)"
+  ],
+  "ex_add": "He was forced to abjure his former beliefs.  (abjure=맹세코 끊다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5907",
+  "hw": "acme",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "꼭대기(akme) -> '정점·극치'.",
+  "senses": [
+   "1) (완성·성공의) 정점, 절정, 극치"
+  ],
+  "etym": "그리스어 akme(꼭대기·정점)에서 -> 'acme'. acne(여드름, 원래 '얼굴의 정점')와 같은 뿌리. '더 오를 데 없는 맨 꼭대기'가 핵심.",
+  "deriv": "그리스 akme(꼭대기) -> 'acme'. 한국 학습자 핵심: 흥미롭게도 acne(여드름)와 한 뿌리(정점)! pinnacle(5897)·zenith(5524)·apex와 동의어. the acme of perfection(완벽의 극치)·acme of his career. 유의어 pinnacle·zenith·apex. 반대 nadir(5411)·bottom·low point. 심화 격식.",
+  "syn": [
+   "pinnacle(정점)",
+   "zenith(절정)",
+   "apex(꼭대기)"
+  ],
+  "anti": [
+   "nadir(최저점)",
+   "bottom(밑바닥)",
+   "low point(저점)"
+  ],
+  "idiom": [
+   "the acme of perfection(완벽의 극치)"
+  ],
+  "colloc": [
+   "acme of perfection(완벽의 극치)",
+   "acme of his career(경력의 정점)",
+   "reach the acme(정점에 이르다)"
+  ],
+  "ex_add": "The cathedral is the acme of Gothic architecture.  (acme=극치)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5908",
+  "hw": "adduce",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "~로(ad) 끌어오다(ducere) -> '(증거·예를) 제시하다'.",
+  "senses": [
+   "1) (증거·이유·예를) 제시하다, 끌어대다, 인용하다"
+  ],
+  "etym": "라틴어 adducere(끌어오다, ad-(~로) + ducere 이끌다) -> 'adduce'. deduce(5694)·produce·conduct와 같은 ducere(이끌다) 거대 뿌리. '근거로 끌어와 내놓다'가 핵심.",
+  "deriv": "ad-(~로) + ducere(이끌다) -> 'adduce'. 한국 학습자 핵심: ducere(이끌다) 거대 어근 — deduce(5694)·produce·conduct·adduce! adduce evidence(증거를 제시하다)·adduce reasons. 유의어 cite·present·put forward. 반대 withhold·suppress·refute(5191). 심화 학술.",
+  "syn": [
+   "cite(인용하다)",
+   "present(제시하다)",
+   "put forward(내놓다)"
+  ],
+  "anti": [
+   "withhold(보류하다)",
+   "suppress(억누르다)",
+   "refute(반박하다)"
+  ],
+  "idiom": [
+   "adduce evidence(증거를 제시하다)"
+  ],
+  "colloc": [
+   "adduce evidence(증거를 제시하다)",
+   "adduce reasons(이유를 들다)",
+   "adduce examples(예를 들다)"
+  ],
+  "ex_add": "He adduced several facts to support his claim.  (adduce=제시하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5909",
+  "hw": "aliment",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "기르는(alere) 것 -> '자양분·영양물'.",
+  "senses": [
+   "1) (몸·정신의) 자양분, 영양물, 양식"
+  ],
+  "etym": "라틴어 alimentum(영양, alere 기르다·먹이다) -> 'aliment'. aliment·alimony·adolescent와 같은 alere(기르다) 뿌리. '키워 내는 양식'이 핵심.",
+  "deriv": "라틴어 alere(기르다) -> 'aliment'. 한국 학습자 핵심: alere(기르다) 어근 — alimony(부양비)·adolescent·alimentary(소화의)·aliment! 형용사 alimentary(영양의·소화기의). spiritual aliment(정신적 양식). 유의어 nourishment·sustenance·nutriment. 반대 poison·deprivation·starvation. 심화 문어.",
+  "syn": [
+   "nourishment(자양분)",
+   "sustenance(양식)",
+   "nutriment(영양물)"
+  ],
+  "anti": [
+   "poison(독)",
+   "deprivation(결핍)",
+   "starvation(기아)"
+  ],
+  "idiom": [
+   "spiritual aliment(정신적 양식)"
+  ],
+  "colloc": [
+   "spiritual aliment(정신적 양식)",
+   "provide aliment(자양분을 주다)",
+   "mental aliment(정신의 양식)"
+  ],
+  "ex_add": "Books were the aliment of his lonely youth.  (aliment=양식)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5910",
+  "hw": "anneal",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "불(æled)로 달궈 식히다 -> '(금속·유리를) 단련하다·강인하게 하다'.",
+  "senses": [
+   "1) (금속·유리를) 달궜다 천천히 식혀 강하게 하다, 풀림 처리하다",
+   "2) (사람을) 단련시키다"
+  ],
+  "etym": "고대 영어 onælan(불에 달구다, on- + ælan 태우다)에서 -> 'anneal'. '불로 달궜다 식혀 더 단단하게 만들다'가 핵심.",
+  "deriv": "고대 영어 ælan(태우다) -> 'anneal'. 한국 학습자 핵심: 야금술 용어 — 달궜다 서서히 식혀 강화! 비유: annealed by hardship(시련으로 단련된). temper(담금질)와 유사. 유의어 temper·toughen·strengthen. 반대 weaken·soften·embrittle. 심화 과학·비유.",
+  "syn": [
+   "temper(단련하다)",
+   "toughen(강인하게 하다)",
+   "strengthen(강화하다)"
+  ],
+  "anti": [
+   "weaken(약화시키다)",
+   "soften(무르게 하다)",
+   "embrittle(취약하게 하다)"
+  ],
+  "idiom": [
+   "annealed by hardship(시련으로 단련된)"
+  ],
+  "colloc": [
+   "anneal the metal(금속을 단련하다)",
+   "annealed by hardship(시련으로 단련된)",
+   "anneal the glass(유리를 풀림 처리하다)"
+  ],
+  "ex_add": "The glass is annealed to remove internal stress.  (anneal=단련하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5911",
+  "hw": "apogee",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "지구(ge)에서 가장 먼(apo) 점 -> '정점·절정 / 원지점'.",
+  "senses": [
+   "1) (성공·발전의) 정점, 절정",
+   "2) (천문) 원지점(궤도상 지구에서 가장 먼 점)"
+  ],
+  "etym": "그리스어 apogaion(지구에서 먼, apo-(떨어져) + ge 지구)에서 -> 'apogee'. geography·geology와 같은 ge(지구) 뿌리. '지구에서 가장 멀리 올라간 점 -> 정점'이 핵심.",
+  "deriv": "apo-(떨어져) + ge(지구) -> 'apogee'. 한국 학습자 핵심: ge(지구) 어근 — geography·geology·apogee! 반대 perigee(근지점). the apogee of power(권력의 정점). zenith(5524)·acme(5907)와 유사. 유의어 zenith·pinnacle·climax. 반대 perigee·nadir(5411)·low point. 심화 격식.",
+  "syn": [
+   "zenith(절정)",
+   "pinnacle(정점)",
+   "climax(절정)"
+  ],
+  "anti": [
+   "perigee(근지점)",
+   "nadir(최저점)",
+   "low point(저점)"
+  ],
+  "idiom": [
+   "the apogee of power(권력의 정점)"
+  ],
+  "colloc": [
+   "apogee of power(권력의 정점)",
+   "apogee of his fame(명성의 절정)",
+   "reach the apogee(정점에 이르다)"
+  ],
+  "ex_add": "The empire reached its apogee in the 2nd century.  (apogee=정점)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5912",
+  "hw": "argot",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "(특정 집단의) 은어 -> '은어·전문 용어'.",
+  "senses": [
+   "1) (특정 집단·직업의) 은어, 변말, 그들만의 말투"
+  ],
+  "etym": "프랑스어 argot(도둑들의 은어, 기원 불확실)에서 -> 'argot'. (어원 불확실.) 발음 주의(t 묵음, /ˈɑːrɡoʊ/). '특정 무리끼리만 통하는 은밀한 말'이 핵심.",
+  "deriv": "프랑스어 argot(은어) -> 'argot'. 한국 학습자 핵심: 발음 t 묵음 /ˈɑːrɡoʊ/! jargon·slang·cant와 유사. thieves' argot(도둑 은어)·criminal argot. 유의어 jargon·slang·cant. 반대 standard language·plain speech. 심화 언어학.",
+  "syn": [
+   "jargon(전문어)",
+   "slang(속어)",
+   "cant(은어)"
+  ],
+  "anti": [
+   "standard language(표준어)",
+   "plain speech(평이한 말)",
+   "formal language(격식체)"
+  ],
+  "idiom": [
+   "thieves' argot(도둑 은어)"
+  ],
+  "colloc": [
+   "thieves' argot(도둑 은어)",
+   "criminal argot(범죄 은어)",
+   "specialized argot(전문 은어)"
+  ],
+  "ex_add": "He spoke in the argot of the racetrack.  (argot=은어)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5913",
+  "hw": "assay",
+  "pos": "v., n.",
+  "cefr": "심화",
+  "core": "무게를 달아(exagium) 시험하다 -> '분석 검사하다·시험하다 / 분석'.",
+  "senses": [
+   "1) (v.) (금속·약물의 순도를) 분석 검사하다, 시험하다",
+   "2) (n.) (성분) 분석, 시금"
+  ],
+  "etym": "고대 프랑스어 assai(시험, 후기 라틴 exagium 무게 달기, exigere 재다) -> 'assay'. essay(시도)·exact·exigent와 같은 exigere(재다) 뿌리. '성분을 달아 시험하다'가 핵심.",
+  "deriv": "라틴어 exigere(재다) -> 'assay'. 한국 학습자 핵심: essay(시도·수필)와 한 뿌리(시험)! assay the gold(금의 순도를 검사하다)·assay results(분석 결과). 유의어 analyze·test·evaluate. 반대 (검사 없음). 심화 과학.",
+  "syn": [
+   "analyze(분석하다)",
+   "test(시험하다)",
+   "evaluate(평가하다)"
+  ],
+  "anti": [
+   "guess(추측하다)",
+   "assume(가정하다)",
+   "overlook(간과하다)"
+  ],
+  "idiom": [
+   "assay the purity(순도를 검사하다)"
+  ],
+  "colloc": [
+   "assay the gold(금의 순도를 검사하다)",
+   "assay results(분석 결과)",
+   "chemical assay(화학 분석)"
+  ],
+  "ex_add": "The ore was assayed for its silver content.  (assay=분석 검사하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5914",
+  "hw": "aver",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "~을 향해(ad) 참(verus)이라 하다 -> '단언하다·확언하다'.",
+  "senses": [
+   "1) (사실이라고) 단언하다, 확언하다, 주장하다"
+  ],
+  "etym": "라틴어 advērāre(참이라 선언하다, ad-(~로) + verus 참된) -> 고대 프랑스 averer -> 'aver'. veracity(5245)·verify·verdict와 같은 verus(참) 뿌리. '참되다고 못 박아 말하다'가 핵심.",
+  "deriv": "ad-(~로) + verus(참) -> 'aver'. 한국 학습자 핵심: verus(참) 어근 — veracity(5245)·verify·verdict·aver! 'aver that': aver that it is true(사실이라고 단언하다). assert와 유사. 유의어 assert·affirm·declare. 반대 deny·refute(5191)·retract. 심화 격식.",
+  "syn": [
+   "assert(단언하다)",
+   "affirm(확언하다)",
+   "declare(밝히다)"
+  ],
+  "anti": [
+   "deny(부인하다)",
+   "refute(반박하다)",
+   "retract(철회하다)"
+  ],
+  "idiom": [
+   "aver that(~라고 단언하다)"
+  ],
+  "colloc": [
+   "aver that(~라고 단언하다)",
+   "firmly aver(단호히 확언하다)",
+   "aver one's innocence(결백을 주장하다)"
+  ],
+  "ex_add": "She averred that she had never seen him before.  (aver=단언하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5915",
+  "hw": "bandy",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "이리저리 주고받다 -> '(말을) 주고받다·(소문을) 퍼뜨리다'.",
+  "senses": [
+   "1) (말·욕을) 주고받다, 응수하다",
+   "2) (이름·소문을) 함부로 입에 올리다 (bandy about)"
+  ],
+  "etym": "프랑스어 bander(테니스에서 공을 주고받다)에서 -> 'bandy'. 공을 이리저리 치고받듯 '말을 주고받다'가 핵심.",
+  "deriv": "프랑스어 bander(공을 주고받다) -> 'bandy'. 한국 학습자 핵심: 'bandy about/around(~을 함부로 입에 올리다)'·bandy words(말을 주고받다·언쟁하다)! 유의어 exchange·trade·toss around. 반대 (침묵). 심화 구어.",
+  "syn": [
+   "exchange(주고받다)",
+   "trade(응수하다)",
+   "toss around(여기저기 거론하다)"
+  ],
+  "anti": [
+   "withhold(말을 아끼다)",
+   "keep quiet(입을 다물다)",
+   "suppress(억누르다)"
+  ],
+  "idiom": [
+   "bandy about(~을 함부로 입에 올리다)"
+  ],
+  "colloc": [
+   "bandy words(언쟁하다)",
+   "bandy about(함부로 거론하다)",
+   "bandy his name(그의 이름을 입에 올리다)"
+  ],
+  "ex_add": "His name was bandied about in the press.  (bandy=함부로 입에 올리다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5916",
+  "hw": "beatific",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "축복받은(beatus) -> '더없이 행복한·천상의'.",
+  "senses": [
+   "1) (표정이) 더없이 행복한, 지복의, 천사 같은"
+  ],
+  "etym": "라틴어 beatificus(행복하게 하는, beatus 축복받은 + facere 만들다) -> 'beatific'. beatitude·beatify(시복하다)와 같은 beatus(축복받은) 뿌리. '천상의 축복을 받은 듯 행복한'이 핵심.",
+  "deriv": "beatus(축복받은) + facere(만들다) -> 'beatific'. 한국 학습자 핵심: beatus(축복) 어근 — beatitude·beatify·beatific! a beatific smile(더없이 행복한 미소)·beatific expression. 유의어 blissful·serene·angelic. 반대 anguished·tormented·troubled. 심화 묘사.",
+  "syn": [
+   "blissful(더없이 행복한)",
+   "serene(평온한)",
+   "angelic(천사 같은)"
+  ],
+  "anti": [
+   "anguished(번민하는)",
+   "tormented(괴로워하는)",
+   "troubled(불안한)"
+  ],
+  "idiom": [
+   "a beatific smile(더없이 행복한 미소)"
+  ],
+  "colloc": [
+   "beatific smile(더없이 행복한 미소)",
+   "beatific expression(천상의 표정)",
+   "beatific calm(지복의 평온)"
+  ],
+  "ex_add": "She wore a beatific smile.  (beatific=더없이 행복한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5917",
+  "hw": "bemoan",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "~을 두고(be) 한탄하다(moan) -> '한탄하다·아쉬워하다'.",
+  "senses": [
+   "1) (상실·상황을) 한탄하다, 슬퍼하다, 아쉬워하다"
+  ],
+  "etym": "고대 영어 bemænan(슬퍼하다, be-(둘러) + mænan 신음하다)에서 -> 'bemoan'. moan(신음하다)과 같은 뿌리. '~을 두고 끙끙 한탄하다'가 핵심.",
+  "deriv": "be-(둘러) + moan(신음하다) -> 'bemoan'. 한국 학습자 핵심: moan(신음)에서 — '~을 한탄하다'! lament(5115)와 유사. bemoan the loss(상실을 한탄하다)·bemoan one's fate(신세를 한탄하다). 유의어 lament·deplore·bewail. 반대 celebrate·rejoice·welcome. 심화 문어.",
+  "syn": [
+   "lament(한탄하다)",
+   "deplore(개탄하다)",
+   "bewail(통탄하다)"
+  ],
+  "anti": [
+   "celebrate(축하하다)",
+   "rejoice(기뻐하다)",
+   "welcome(반기다)"
+  ],
+  "idiom": [
+   "bemoan one's fate(신세를 한탄하다)"
+  ],
+  "colloc": [
+   "bemoan the loss(상실을 한탄하다)",
+   "bemoan one's fate(신세를 한탄하다)",
+   "bemoan the decline(쇠퇴를 한탄하다)"
+  ],
+  "ex_add": "Critics bemoaned the decline of the theater.  (bemoan=한탄하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5918",
+  "hw": "besmirch",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "온통(be) 더럽히다(smirch) -> '(명예를) 더럽히다·먹칠하다'.",
+  "senses": [
+   "1) (명예·평판을) 더럽히다, 먹칠하다, 훼손하다"
+  ],
+  "etym": "영어 be-(완전히) + smirch(더럽히다, 기원 불확실)의 합성 -> 'besmirch'. '명예에 온통 먹칠하다'가 핵심.",
+  "deriv": "be-(완전히) + smirch(더럽히다) -> 'besmirch'. 한국 학습자 핵심: tarnish(5227)·sully와 동의어! besmirch a reputation(명예를 더럽히다)·besmirch one's name(이름에 먹칠하다). 유의어 tarnish·sully·defame. 반대 honor·enhance·burnish. 심화 명예.",
+  "syn": [
+   "tarnish(더럽히다)",
+   "sully(오염시키다)",
+   "defame(중상하다)"
+  ],
+  "anti": [
+   "honor(기리다)",
+   "enhance(높이다)",
+   "burnish(빛내다)"
+  ],
+  "idiom": [
+   "besmirch a reputation(명예를 더럽히다)"
+  ],
+  "colloc": [
+   "besmirch a reputation(명예를 더럽히다)",
+   "besmirch one's name(이름에 먹칠하다)",
+   "besmirch the memory(기억을 더럽히다)"
+  ],
+  "ex_add": "The scandal besmirched the family's good name.  (besmirch=먹칠하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5919",
+  "hw": "bilk",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "속여 떼먹다 -> '사취하다·떼먹다'.",
+  "senses": [
+   "1) (돈을) 속여 빼앗다, 떼먹다, 사취하다"
+  ],
+  "etym": "기원 불확실하나 크리비지 카드 게임 용어 bilk(점수를 막다)에서 -> '속여 떼먹다' -> 'bilk'. (어원 불확실.) '교묘히 속여 돈을 가로채다'가 핵심.",
+  "deriv": "기원 불확실(카드 게임 용어) -> 'bilk'. 한국 학습자 핵심: 'bilk A out of B(A에게서 B를 사취하다)' 형태! swindle·defraud와 동의어. cozen(5724)과 유사. 유의어 swindle·defraud·cheat. 반대 reimburse·compensate·repay. 심화 시사.",
+  "syn": [
+   "swindle(사취하다)",
+   "defraud(편취하다)",
+   "cheat(속여 빼앗다)"
+  ],
+  "anti": [
+   "reimburse(변제하다)",
+   "compensate(보상하다)",
+   "repay(갚다)"
+  ],
+  "idiom": [
+   "bilk out of(~을 사취하다)"
+  ],
+  "colloc": [
+   "bilk investors(투자자를 사취하다)",
+   "bilk out of money(돈을 떼먹다)",
+   "bilk customers(고객을 등치다)"
+  ],
+  "ex_add": "He bilked elderly clients out of their savings.  (bilk=사취하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5920",
+  "hw": "bloviate",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "부풀려(blow) 떠벌리다 -> '장황하게 떠벌리다·허풍 떨다'.",
+  "senses": [
+   "1) (잘난 듯) 장황하게 떠벌리다, 일장 연설하며 허풍 떨다"
+  ],
+  "etym": "미국 영어 blow(불다·허풍 떨다)에 라틴풍 어미를 붙여 만든 의사 라틴어(19세기 미국) -> 'bloviate'. '바람 넣듯 부풀려 거창하게 떠들다'가 핵심.",
+  "deriv": "blow(불다·허풍) + 라틴풍 어미 -> 'bloviate'. 한국 학습자 핵심: blow(허풍 떨다)에서 만든 미국식 조어! pontificate·hold forth와 유사. bloviate about(~에 대해 떠벌리다). 유의어 pontificate·hold forth·rant. 반대 be concise·understate. 심화 구어(미).",
+  "syn": [
+   "pontificate(거드름 피우며 말하다)",
+   "hold forth(장광설을 펴다)",
+   "rant(떠벌리다)"
+  ],
+  "anti": [
+   "be concise(간결히 말하다)",
+   "understate(절제해 말하다)",
+   "be terse(짤막히 말하다)"
+  ],
+  "idiom": [
+   "bloviate about(~에 대해 떠벌리다)"
+  ],
+  "colloc": [
+   "bloviate about(~에 대해 떠벌리다)",
+   "bloviate endlessly(끝없이 떠벌리다)",
+   "tend to bloviate(허풍 떠는 경향이 있다)"
+  ],
+  "ex_add": "The politician bloviated for an hour without saying anything.  (bloviate=장황하게 떠벌리다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5921",
+  "hw": "brackish",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "소금기(brak) 도는 -> '(물이) 소금기 있는·맛이 안 좋은'.",
+  "senses": [
+   "1) (물이) 소금기가 도는, 민물도 바닷물도 아닌",
+   "2) 맛이 텁텁한, 불쾌한"
+  ],
+  "etym": "중세 네덜란드어 brac(짠·소금기 있는) + -ish -> 'brackish'. 강과 바다가 만나는 기수(汽水)를 가리킴. '바닷물이 섞여 짭짤하고 텁텁한'이 핵심.",
+  "deriv": "네덜란드어 brac(소금기 있는) -> 'brackish'. 한국 학습자 핵심: 기수(汽水, 민물+바닷물)를 가리키는 말! brackish water(기수·소금기 있는 물)·brackish lagoon. 유의어 briny·saline·salty. 반대 fresh·potable·pure. 심화 과학·묘사.",
+  "syn": [
+   "briny(소금기 있는)",
+   "saline(염분의)",
+   "salty(짠)"
+  ],
+  "anti": [
+   "fresh(민물의)",
+   "potable(마실 수 있는)",
+   "pure(깨끗한)"
+  ],
+  "idiom": [
+   "brackish water(기수)"
+  ],
+  "colloc": [
+   "brackish water(소금기 있는 물)",
+   "brackish lagoon(기수 석호)",
+   "brackish taste(텁텁한 맛)"
+  ],
+  "ex_add": "The estuary is full of brackish water.  (brackish=소금기 있는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5922",
+  "hw": "bromide",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "진정제(브롬화물)처럼 김빠진 말 -> '진부한 말·상투어'.",
+  "senses": [
+   "1) (위로랍시고 하는) 진부한 말, 상투적인 위안의 말",
+   "2) (화학) 브롬화물(옛 진정제)"
+  ],
+  "etym": "화학 bromide(브롬화물, 그리스 bromos 악취)에서 -> 옛날 진정제로 쓰여 '김빠지게 하는 상투어'로 -> 'bromide'. '졸리게 만드는 진부한 위안의 말'이 핵심.",
+  "deriv": "화학 bromide(브롬화물) -> 'bromide'. 한국 학습자 핵심: 옛 진정제(브롬화물)에서 '진부한 위안어'로 의미 확장! platitude(5443)·cliché와 동의어. comforting bromides(상투적 위안의 말). 유의어 platitude·cliché·truism. 반대 insight·epigram·originality. 심화 논평.",
+  "syn": [
+   "platitude(상투어)",
+   "cliché(진부한 말)",
+   "truism(빤한 소리)"
+  ],
+  "anti": [
+   "insight(통찰)",
+   "epigram(경구)",
+   "originality(독창성)"
+  ],
+  "idiom": [
+   "comforting bromides(상투적 위안의 말)"
+  ],
+  "colloc": [
+   "comforting bromides(상투적 위안의 말)",
+   "empty bromide(공허한 상투어)",
+   "tired bromide(식상한 진부어)"
+  ],
+  "ex_add": "He offered the usual bromides about time healing all wounds.  (bromide=진부한 말)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5923",
+  "hw": "cadaverous",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "시체(cadaver) 같은 -> '시체처럼 핼쑥한·해골 같은'.",
+  "senses": [
+   "1) (얼굴이) 시체처럼 창백하고 야윈, 해골 같은"
+  ],
+  "etym": "라틴어 cadaverosus(시체 같은, cadaver 시체, cadere 떨어지다·쓰러지다) -> 'cadaverous'. cadence(5546)·decadent·cascade와 같은 cadere(떨어지다) 뿌리. '쓰러진 시체처럼 핼쑥한'이 핵심.",
+  "deriv": "라틴어 cadere(떨어지다·쓰러지다) -> 'cadaverous'. 한국 학습자 핵심: cadere(떨어지다) 어근 — cadaver·cadence(5546)·decadent·cadaverous! a cadaverous face(해골 같은 얼굴)·cadaverous pallor(시체 같은 창백함). 유의어 gaunt·emaciated·deathly pale. 반대 robust·ruddy·healthy. 심화 묘사.",
+  "syn": [
+   "gaunt(수척한)",
+   "emaciated(여윈)",
+   "deathly pale(시체처럼 창백한)"
+  ],
+  "anti": [
+   "robust(건장한)",
+   "ruddy(혈색 좋은)",
+   "healthy(건강한)"
+  ],
+  "idiom": [
+   "a cadaverous face(해골 같은 얼굴)"
+  ],
+  "colloc": [
+   "cadaverous face(해골 같은 얼굴)",
+   "cadaverous pallor(시체 같은 창백함)",
+   "cadaverous appearance(핼쑥한 외모)"
+  ],
+  "ex_add": "His cadaverous appearance shocked his friends.  (cadaverous=시체처럼 핼쑥한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5924",
+  "hw": "caitiff",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "포로(captivus)였던 비겁자 -> '비겁한 자·비열한 놈'.",
+  "senses": [
+   "1) (고어·문어) 비겁하고 비열한 사람, 천한 자"
+  ],
+  "etym": "라틴어 captivus(포로, capere 잡다)에서 -> 고대 프랑스 caitif(포로·비참한 자) -> '비겁한 천한 자' -> 'caitiff'. captive·capture·incipient(5380)과 같은 capere(잡다) 뿌리. '사로잡힌 듯 비굴하고 비열한 자'가 핵심.",
+  "deriv": "라틴어 capere(잡다) -> 'caitiff'. 한국 학습자 핵심: captive(포로)와 한 뿌리(capere 잡다)! 고어·문학어 — a cowardly caitiff(비겁한 놈). 유의어 coward·wretch·scoundrel. 반대 hero·champion·gallant. 심화 문학(고어).",
+  "syn": [
+   "coward(겁쟁이)",
+   "wretch(비열한 자)",
+   "scoundrel(악당)"
+  ],
+  "anti": [
+   "hero(영웅)",
+   "champion(투사)",
+   "gallant(용감한 사람)"
+  ],
+  "idiom": [
+   "a cowardly caitiff(비겁한 놈)"
+  ],
+  "colloc": [
+   "cowardly caitiff(비겁한 놈)",
+   "base caitiff(비열한 자)",
+   "wretched caitiff(가련한 천인)"
+  ],
+  "ex_add": "The poem brands the traitor a vile caitiff.  (caitiff=비겁한 자)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5925",
+  "hw": "calumniate",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "거짓 고발(calumnia)하다 -> '중상하다·비방하다'.",
+  "senses": [
+   "1) (거짓으로) 중상하다, 비방하다, 모함하다"
+  ],
+  "etym": "라틴어 calumniari(중상하다, calumnia 무고·중상)에서 -> 'calumniate'. challenge와 어원 인접. '없는 죄를 지어내 헐뜯다'가 핵심.",
+  "deriv": "라틴어 calumnia(중상) -> 'calumniate'. 한국 학습자 핵심: 명사 calumny(중상·비방)! vilify(5511)·slander와 동의어. calumniate a rival(경쟁자를 모함하다). 유의어 slander·defame·vilify. 반대 praise·extol·vindicate(5250). 심화 격식.",
+  "syn": [
+   "slander(중상하다)",
+   "defame(비방하다)",
+   "vilify(헐뜯다)"
+  ],
+  "anti": [
+   "praise(칭찬하다)",
+   "extol(극찬하다)",
+   "vindicate(변호하다)"
+  ],
+  "idiom": [
+   "calumniate a rival(경쟁자를 모함하다)"
+  ],
+  "colloc": [
+   "calumniate a rival(경쟁자를 모함하다)",
+   "falsely calumniate(거짓으로 중상하다)",
+   "calumniate the innocent(무고한 이를 모함하다)"
+  ],
+  "ex_add": "They calumniated him with false accusations.  (calumniate=중상하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5926",
+  "hw": "canard",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "오리(canard)에서 온 헛소문 -> '유언비어·근거 없는 소문'.",
+  "senses": [
+   "1) (퍼진) 헛소문, 유언비어, 낭설"
+  ],
+  "etym": "프랑스어 canard(오리; '오리를 반쯤 팔다'라는 옛 사기 표현 vendre un canard à moitié에서)에서 -> '터무니없는 거짓말' -> 'canard'. 발음 주의(/kəˈnɑːrd/). '근거 없이 퍼진 낭설'이 핵심.",
+  "deriv": "프랑스어 canard(오리) -> 'canard'. 한국 학습자 핵심: 발음 /kəˈnɑːrd/! 프랑스 사기 표현에서 유래. a popular canard(널리 퍼진 헛소문)·debunk a canard(낭설을 깨다). 유의어 rumor·hoax·falsehood. 반대 fact·truth·verity. 심화 언론.",
+  "syn": [
+   "rumor(소문)",
+   "hoax(날조)",
+   "falsehood(거짓)"
+  ],
+  "anti": [
+   "fact(사실)",
+   "truth(진실)",
+   "verity(진실)"
+  ],
+  "idiom": [
+   "a popular canard(널리 퍼진 헛소문)"
+  ],
+  "colloc": [
+   "popular canard(널리 퍼진 헛소문)",
+   "debunk a canard(낭설을 깨다)",
+   "old canard(해묵은 헛소문)"
+  ],
+  "ex_add": "That study debunks the canard that vaccines cause autism.  (canard=헛소문)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5927",
+  "hw": "carapace",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "(거북) 등딱지 -> '등딱지·(보호) 껍데기'.",
+  "senses": [
+   "1) (거북·게의) 등딱지, 갑각",
+   "2) (비유) 자기를 보호하는 단단한 껍데기, 방어막"
+  ],
+  "etym": "스페인어 carapacho(등딱지, 기원 불확실)에서 프랑스 carapace -> 'carapace'. '몸을 감싸 보호하는 단단한 외피'가 핵심.",
+  "deriv": "스페인어 carapacho(등딱지) -> 'carapace'. 한국 학습자 핵심: 거북 등딱지에서 — 비유로 '마음의 방어막'! a protective carapace(보호 껍데기)·emotional carapace(감정의 방어막). 유의어 shell·armor·shield. 반대 vulnerability·exposure. 심화 생물·비유.",
+  "syn": [
+   "shell(껍데기)",
+   "armor(갑옷)",
+   "shield(방패)"
+  ],
+  "anti": [
+   "vulnerability(취약함)",
+   "exposure(노출)",
+   "softness(무름)"
+  ],
+  "idiom": [
+   "a protective carapace(보호 껍데기)"
+  ],
+  "colloc": [
+   "protective carapace(보호 껍데기)",
+   "emotional carapace(감정의 방어막)",
+   "hard carapace(단단한 등딱지)"
+  ],
+  "ex_add": "He hid his feelings behind a carapace of indifference.  (carapace=보호 껍데기)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5928",
+  "hw": "cavort",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "신나게 뛰놀다 -> '뛰놀다·까불며 놀다'.",
+  "senses": [
+   "1) (신나게) 뛰놀다, 까불며 장난치다, 흥청대다"
+  ],
+  "etym": "미국 영어 cavort(19세기, curvet '말이 껑충 뛰다'의 변형으로 추정)에서 -> 'cavort'. (어원 일부 불확실.) '말이 껑충대듯 신나게 뛰놀다'가 핵심.",
+  "deriv": "curvet(말의 도약) 변형 추정 -> 'cavort'. 한국 학습자 핵심: gambol(5734)·frolic과 동의어! cavort on the beach(해변에서 뛰놀다)·cavort about. 종종 '흥청대다' 뉘앙스. 유의어 frolic·gambol·romp. 반대 trudge·plod·sit still. 심화 묘사.",
+  "syn": [
+   "frolic(뛰놀다)",
+   "gambol(까불며 뛰다)",
+   "romp(신나게 놀다)"
+  ],
+  "anti": [
+   "trudge(터벅터벅 걷다)",
+   "plod(무겁게 걷다)",
+   "sit still(가만있다)"
+  ],
+  "idiom": [
+   "cavort about(이리저리 뛰놀다)"
+  ],
+  "colloc": [
+   "cavort on the beach(해변에서 뛰놀다)",
+   "cavort about(까불며 놀다)",
+   "cavort in the water(물에서 신나게 놀다)"
+  ],
+  "ex_add": "The children cavorted in the snow.  (cavort=뛰놀다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5929",
+  "hw": "celerity",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "빠름(celer) -> '신속·민첩'.",
+  "senses": [
+   "1) (행동의) 신속함, 민첩함, 재빠름"
+  ],
+  "etym": "라틴어 celeritas(빠름, celer 빠른) -> 'celerity'. accelerate(가속하다)와 같은 celer(빠른) 뿌리. '재빠른 속도'가 핵심.",
+  "deriv": "라틴어 celer(빠른) -> 'celerity'. 한국 학습자 핵심: accelerate(가속)와 한 뿌리(celer 빠른)! 'with celerity(재빠르게)'·surprising celerity. alacrity(5266)와 유사. 유의어 swiftness·rapidity·alacrity. 반대 slowness·sluggishness·delay. 심화 격식.",
+  "syn": [
+   "swiftness(신속함)",
+   "rapidity(빠름)",
+   "alacrity(민첩함)"
+  ],
+  "anti": [
+   "slowness(느림)",
+   "sluggishness(굼뜸)",
+   "delay(지체)"
+  ],
+  "idiom": [
+   "with celerity(재빠르게)"
+  ],
+  "colloc": [
+   "with celerity(재빠르게)",
+   "surprising celerity(놀라운 신속함)",
+   "act with celerity(신속히 행동하다)"
+  ],
+  "ex_add": "The order was carried out with great celerity.  (celerity=신속)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5930",
+  "hw": "chary",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "근심(cearu)스러워 조심하는 -> '조심스러운·아까워하는'.",
+  "senses": [
+   "1) (~에) 조심스러운, 신중한, 망설이는",
+   "2) (~을 주기를) 아까워하는, 인색한"
+  ],
+  "etym": "고대 영어 cearig(근심하는, cearu 근심)에서 -> 'chary'. care(근심·돌봄)와 같은 cearu(근심) 뿌리. '근심스러워 조심조심하는'이 핵심.",
+  "deriv": "고대 영어 cearu(근심) -> 'chary'. 한국 학습자 핵심: care(근심·주의)와 한 뿌리! 'chary of': chary of giving praise(칭찬에 인색한)·chary of commitment(약속을 꺼리는). wary와 유사. 유의어 wary·cautious·sparing. 반대 reckless·generous·lavish(5118). 심화 격식.",
+  "syn": [
+   "wary(경계하는)",
+   "cautious(조심스러운)",
+   "sparing(아끼는)"
+  ],
+  "anti": [
+   "reckless(무모한)",
+   "generous(후한)",
+   "lavish(아낌없는)"
+  ],
+  "idiom": [
+   "chary of(~에 조심스러운)"
+  ],
+  "colloc": [
+   "chary of giving praise(칭찬에 인색한)",
+   "chary of commitment(약속을 꺼리는)",
+   "chary about(~에 신중한)"
+  ],
+  "ex_add": "She was chary of revealing too much.  (chary=조심스러운)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5931",
+  "hw": "clarion",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "맑은(clarus) 나팔 소리의 -> '낭랑한·또렷한(특히 clarion call)'.",
+  "senses": [
+   "1) (소리가) 낭랑하고 또렷한",
+   "2) (clarion call) 행동을 촉구하는 우렁찬 호소"
+  ],
+  "etym": "중세 라틴어 clario(맑은 소리의 나팔, 라틴 clarus 맑은) -> 'clarion'. clear·declare·clarify와 같은 clarus(맑은) 뿌리. '나팔처럼 맑고 우렁찬 부름'이 핵심.",
+  "deriv": "라틴어 clarus(맑은) -> 'clarion'. 한국 학습자 핵심: clarus(맑은) 어근 — clear·declare·clarify·clarion! 거의 'a clarion call(행동 촉구의 우렁찬 호소)'로! a clarion call for change(변화를 촉구하는 외침). 유의어 ringing·resounding·stirring. 반대 muffled·faint·muted. 심화 수사.",
+  "syn": [
+   "ringing(낭랑한)",
+   "resounding(우렁찬)",
+   "stirring(가슴을 울리는)"
+  ],
+  "anti": [
+   "muffled(낮춘)",
+   "faint(희미한)",
+   "muted(누그러진)"
+  ],
+  "idiom": [
+   "a clarion call(행동 촉구의 호소)"
+  ],
+  "colloc": [
+   "clarion call(우렁찬 호소)",
+   "clarion call for change(변화를 촉구하는 외침)",
+   "clarion voice(낭랑한 목소리)"
+  ],
+  "ex_add": "The speech was a clarion call to action.  (clarion=낭랑한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5932",
+  "hw": "cleave",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "쪼개다 / 들러붙다 -> '쪼개다·가르다 / (~에) 충실히 붙다'.",
+  "senses": [
+   "1) (단단한 것을) 쪼개다, 가르다",
+   "2) (~에) 굳게 달라붙다, 충실히 따르다 (cleave to)"
+  ],
+  "etym": "두 다른 고대 영어 동사가 합쳐진 특이 단어: cleofan(쪼개다)와 clifian(들러붙다) -> 'cleave'. 그래서 정반대 두 뜻을 가짐. '쪼개다'와 '달라붙다' 둘 다가 핵심.",
+  "deriv": "고대 영어 cleofan(쪼개다)/clifian(붙다) -> 'cleave'. 한국 학습자 핵심: 정반대 두 뜻을 가진 희귀어(contronym)! ① 쪼개다(cleave the wood) ② 달라붙다(cleave to tradition 전통을 고수하다)! 명사 cleavage(쪼개진 틈)·cleaver(큰 칼). 유의어 split/adhere. 반대 join/separate. 심화 문어.",
+  "syn": [
+   "split(쪼개다)",
+   "sever(가르다)",
+   "adhere(달라붙다)"
+  ],
+  "anti": [
+   "join(합치다)",
+   "fuse(융합하다)",
+   "abandon(저버리다)"
+  ],
+  "idiom": [
+   "cleave to(~을 고수하다)"
+  ],
+  "colloc": [
+   "cleave the wood(나무를 쪼개다)",
+   "cleave to tradition(전통을 고수하다)",
+   "cleave in two(둘로 쪼개다)"
+  ],
+  "ex_add": "They cleave to their old customs.  (cleave=충실히 붙다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5933",
+  "hw": "cloister",
+  "pos": "v., n.",
+  "cefr": "심화",
+  "core": "수도원(claustrum)에 가두다 -> '틀어박히게 하다 / 수도원'.",
+  "senses": [
+   "1) (v.) (세상과 격리해) 틀어박히게 하다, 가두다",
+   "2) (n.) 수도원, 회랑"
+  ],
+  "etym": "라틴어 claustrum(닫힌 곳, claudere 닫다)에서 -> 'cloister'. preclude(5169)·reclusive(5189)·occlude(5422)와 같은 claudere(닫다) 거대 뿌리. '닫힌 수도원에 격리하다'가 핵심.",
+  "deriv": "라틴어 claudere(닫다) -> 'cloister'. 한국 학습자 핵심: claudere(닫다) 거대 어근 — close·include·preclude(5169)·reclusive(5189)·cloister! 형용사 cloistered(세상과 격리된). cloistered life(은둔 생활)·cloister oneself away. 유의어 seclude·confine·sequester. 반대 expose·release·integrate. 심화 종교·문어.",
+  "syn": [
+   "seclude(격리하다)",
+   "confine(가두다)",
+   "sequester(은둔시키다)"
+  ],
+  "anti": [
+   "expose(드러내다)",
+   "release(풀어 주다)",
+   "integrate(어우러지게 하다)"
+  ],
+  "idiom": [
+   "a cloistered life(은둔 생활)"
+  ],
+  "colloc": [
+   "cloistered life(은둔 생활)",
+   "cloister oneself(틀어박히다)",
+   "cloistered existence(격리된 삶)"
+  ],
+  "ex_add": "She cloistered herself away to finish the book.  (cloister=틀어박히게 하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5934",
+  "hw": "cognate",
+  "pos": "adj., n.",
+  "cefr": "심화",
+  "core": "함께(co) 태어난(natus) -> '동족의·같은 어원의 / 동족어'.",
+  "senses": [
+   "1) (adj.) 같은 기원의, 동족의, 친족 관계의",
+   "2) (n.) (언어) 동족어"
+  ],
+  "etym": "라틴어 cognatus(혈족의, co-(함께) + natus 태어난, nasci 태어나다) -> 'cognate'. innate(5862)·nascent(5412)·nature와 같은 nasci(태어나다) 뿌리. '한 뿌리에서 함께 난'이 핵심.",
+  "deriv": "co-(함께) + nasci(태어나다) -> 'cognate'. 한국 학습자 핵심: nasci(태어나다) 거대 어근 — innate(5862)·nascent(5412)·nature·cognate! 언어학 빈출 — English 'mother' and German 'Mutter' are cognates(동족어). 유의어 related·kindred·akin. 반대 unrelated·disparate·foreign. 심화 언어학.",
+  "syn": [
+   "related(관련된)",
+   "kindred(동족의)",
+   "akin(유사한)"
+  ],
+  "anti": [
+   "unrelated(무관한)",
+   "disparate(이질적인)",
+   "foreign(외래의)"
+  ],
+  "idiom": [
+   "cognate languages(동족 언어)"
+  ],
+  "colloc": [
+   "cognate languages(동족 언어)",
+   "cognate words(동족어)",
+   "closely cognate(밀접히 동족인)"
+  ],
+  "ex_add": "\"Night\" and the German \"Nacht\" are cognates.  (cognate=동족의)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5935",
+  "hw": "collude",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "함께(col) 장난치다(ludere) -> '공모하다·결탁하다'.",
+  "senses": [
+   "1) (부정한 목적으로) 공모하다, 결탁하다, 짜다"
+  ],
+  "etym": "라틴어 colludere(함께 놀다·공모하다, com-(함께) + ludere 놀다) -> 'collude'. allude(5664)·elude(5762)·illusion과 같은 ludere(놀다) 뿌리. '몰래 한패가 되어 짜다'가 핵심.",
+  "deriv": "com-(함께) + ludere(놀다) -> 'collude'. 한국 학습자 핵심: ludere(놀다) 어근 — allude(5664)·elude(5762)·illusion·collude! 명사 collusion(공모·담합). collude with(~과 결탁하다)·collude to fix prices(담합하다). connive(5685)와 유사. 유의어 conspire·connive·plot. 반대 compete·oppose·expose. 심화 법·시사.",
+  "syn": [
+   "conspire(공모하다)",
+   "connive(결탁하다)",
+   "plot(모의하다)"
+  ],
+  "anti": [
+   "compete(경쟁하다)",
+   "oppose(맞서다)",
+   "expose(폭로하다)"
+  ],
+  "idiom": [
+   "collude with(~과 결탁하다)"
+  ],
+  "colloc": [
+   "collude with(~과 결탁하다)",
+   "collude to fix prices(가격을 담합하다)",
+   "collude in secret(은밀히 공모하다)"
+  ],
+  "ex_add": "The firms colluded to keep prices high.  (collude=공모하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5936",
+  "hw": "comport",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "함께(com) 나르다(portare) -> '처신하다·(~과) 어울리다'.",
+  "senses": [
+   "1) (comport oneself) 처신하다, 행동하다",
+   "2) (~과) 일치하다, 어울리다 (comport with)"
+  ],
+  "etym": "라틴어 comportare(함께 나르다, com-(함께) + portare 나르다) -> 'comport'. transport·portable·deport와 같은 portare(나르다) 뿌리. '자신을 어떻게 처신해 나가다·~과 들어맞다'가 핵심.",
+  "deriv": "com-(함께) + portare(나르다) -> 'comport'. 한국 학습자 핵심: portare(나르다) 어근 — transport·portable·deport·comport! 명사 comportment(처신). comport oneself with dignity(품위 있게 처신하다)·comport with the facts(사실과 부합하다). 유의어 behave·conduct oneself·accord. 반대 (어긋남)clash·conflict. 심화 격식.",
+  "syn": [
+   "behave(처신하다)",
+   "conduct oneself(행동하다)",
+   "accord(부합하다)"
+  ],
+  "anti": [
+   "clash(상충하다)",
+   "conflict(어긋나다)",
+   "misbehave(잘못 처신하다)"
+  ],
+  "idiom": [
+   "comport oneself(처신하다)"
+  ],
+  "colloc": [
+   "comport oneself with dignity(품위 있게 처신하다)",
+   "comport with the facts(사실과 부합하다)",
+   "comport well(잘 처신하다)"
+  ],
+  "ex_add": "She comported herself with great dignity.  (comport=처신하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5937",
+  "hw": "concatenate",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "함께(con) 사슬(catena)로 잇다 -> '연쇄적으로 잇다·연결하다'.",
+  "senses": [
+   "1) (사슬처럼) 잇따라 연결하다, 연쇄시키다",
+   "2) (전산) 문자열을 이어 붙이다"
+  ],
+  "etym": "라틴어 concatenare(사슬로 잇다, com-(함께) + catena 사슬) -> 'concatenate'. chain(사슬)과 같은 catena 뿌리. '사슬 고리를 잇듯 줄줄이 연결하다'가 핵심.",
+  "deriv": "com-(함께) + catena(사슬) -> 'concatenate'. 한국 학습자 핵심: catena(사슬) 어근 — chain·concatenate! 명사 concatenation(연쇄). 프로그래밍에서 문자열 연결로도 빈출. a concatenation of events(사건의 연쇄). 유의어 link·chain·string together. 반대 separate·disconnect·sever. 심화 학술·IT.",
+  "syn": [
+   "link(연결하다)",
+   "chain(사슬처럼 잇다)",
+   "string together(줄줄이 잇다)"
+  ],
+  "anti": [
+   "separate(분리하다)",
+   "disconnect(끊다)",
+   "sever(끊어 내다)"
+  ],
+  "idiom": [
+   "a concatenation of events(사건의 연쇄)"
+  ],
+  "colloc": [
+   "concatenation of events(사건의 연쇄)",
+   "concatenate strings(문자열을 잇다)",
+   "concatenate the data(데이터를 연결하다)"
+  ],
+  "ex_add": "A concatenation of errors led to the crash.  (concatenate=연쇄적으로 잇다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5938",
+  "hw": "condign",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "충분히(con) 합당한(dignus) -> '(벌이) 마땅한·응당한'.",
+  "senses": [
+   "1) (처벌이 죄에) 합당한, 응당한, 마땅한"
+  ],
+  "etym": "라틴어 condignus(아주 합당한, com-(강조) + dignus 가치 있는) -> 'condign'. dignity·indignation(5859)·disdain과 같은 dignus(가치) 뿌리. '죄에 걸맞게 마땅한'이 핵심.",
+  "deriv": "com-(강조) + dignus(가치 있는) -> 'condign'. 한국 학습자 핵심: dignus(가치) 어근 — dignity·indignation(5859)·condign! 거의 'condign punishment(응당한 처벌)'로만! 유의어 deserved·fitting·merited. 반대 undeserved·excessive·lenient. 심화 법·격식.",
+  "syn": [
+   "deserved(마땅한)",
+   "fitting(합당한)",
+   "merited(응당한)"
+  ],
+  "anti": [
+   "undeserved(부당한)",
+   "excessive(과도한)",
+   "lenient(관대한)"
+  ],
+  "idiom": [
+   "condign punishment(응당한 처벌)"
+  ],
+  "colloc": [
+   "condign punishment(응당한 처벌)",
+   "condign penalty(마땅한 벌)",
+   "condign retribution(합당한 응보)"
+  ],
+  "ex_add": "The court imposed condign punishment.  (condign=마땅한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5939",
+  "hw": "consign",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "~에게(con) 도장 찍어(signum) 맡기다 -> '맡기다·(좋지 않은 곳에) 보내 버리다'.",
+  "senses": [
+   "1) (물건을) 위탁하다, 보내다",
+   "2) (~한 처지로) 몰아넣다, 넘겨 버리다"
+  ],
+  "etym": "라틴어 consignare(봉인해 맡기다, com-(함께) + signum 표·도장) -> 'consign'. sign·signal·designate와 같은 signum(표) 뿌리. '도장 찍어 ~에게 넘겨 버리다'가 핵심.",
+  "deriv": "com-(함께) + signum(표·도장) -> 'consign'. 한국 학습자 핵심: signum(표) 어근 — sign·signal·designate·consign! 명사 consignment(위탁 화물). 'consign to': consign to oblivion(망각 속에 묻어 버리다)·consign to the past. 유의어 commit·relegate·entrust. 반대 retrieve·reclaim·keep. 심화 격식.",
+  "syn": [
+   "commit(맡기다)",
+   "relegate(밀어 보내다)",
+   "entrust(위탁하다)"
+  ],
+  "anti": [
+   "retrieve(되찾다)",
+   "reclaim(되찾다)",
+   "keep(간직하다)"
+  ],
+  "idiom": [
+   "consign to oblivion(망각 속에 묻다)"
+  ],
+  "colloc": [
+   "consign to oblivion(망각 속에 묻다)",
+   "consign to the past(과거로 넘기다)",
+   "consign goods(물품을 위탁하다)"
+  ],
+  "ex_add": "The old theory was consigned to oblivion.  (consign=보내 버리다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5940",
+  "hw": "copse",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "베어 낸(colpus) 잡목림 -> '잡목 숲·작은 수풀'.",
+  "senses": [
+   "1) (작은) 잡목 숲, 덤불, 관목림"
+  ],
+  "etym": "고대 프랑스어 copeiz(베어 낸 숲, 라틴 colpus 일격, colpare 자르다)에서 coppice -> 축약 'copse'. '주기적으로 베어 관리하는 작은 잡목림'이 핵심.",
+  "deriv": "colpus(일격·자름) -> 'copse'. 한국 학습자 핵심: coppice(잡목림)의 축약형! grove·thicket과 유사. a copse of trees(작은 나무 숲)·a small copse. 유의어 grove·thicket·coppice. 반대 (탁 트인)plain·clearing. 심화 묘사.",
+  "syn": [
+   "grove(작은 숲)",
+   "thicket(덤불)",
+   "coppice(잡목림)"
+  ],
+  "anti": [
+   "plain(평원)",
+   "clearing(개간지)",
+   "meadow(초원)"
+  ],
+  "idiom": [
+   "a copse of trees(작은 나무 숲)"
+  ],
+  "colloc": [
+   "a copse of trees(작은 나무 숲)",
+   "small copse(작은 잡목림)",
+   "beech copse(너도밤나무 숲)"
+  ],
+  "ex_add": "They hid in a copse near the river.  (copse=잡목 숲)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5941",
+  "hw": "cosset",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "애지중지 키우다 -> '곱게 떠받들다·애지중지하다'.",
+  "senses": [
+   "1) (지나치게) 떠받들어 보살피다, 애지중지하다, 응석을 받아 주다"
+  ],
+  "etym": "영어 cosset(손으로 기른 새끼 양, 고대 영어 cot-sæta '오두막 거주자'에서 추정)에서 -> '집에서 곱게 기른 양처럼 떠받들다' -> 'cosset'. '오냐오냐 곱게 보살피다'가 핵심.",
+  "deriv": "cosset(손으로 기른 양) -> 'cosset'. 한국 학습자 핵심: 손수 기른 새끼 양에서 — '애지중지'! mollycoddle(5408)·pamper와 동의어. cosseted upbringing(과보호 양육)·cosset the children. 유의어 pamper·mollycoddle·indulge. 반대 neglect·toughen·deprive. 심화 양육.",
+  "syn": [
+   "pamper(애지중지하다)",
+   "mollycoddle(과보호하다)",
+   "indulge(오냐오냐하다)"
+  ],
+  "anti": [
+   "neglect(방치하다)",
+   "toughen(단련시키다)",
+   "deprive(빼앗다)"
+  ],
+  "idiom": [
+   "a cosseted upbringing(과보호 양육)"
+  ],
+  "colloc": [
+   "cosseted upbringing(과보호 양육)",
+   "cosset the children(아이들을 애지중지하다)",
+   "cosseted lifestyle(곱게 자란 생활)"
+  ],
+  "ex_add": "The pampered cat was thoroughly cosseted.  (cosset=애지중지하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5942",
+  "hw": "coterie",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "소작인 조합 -> '(배타적) 소집단·동인'.",
+  "senses": [
+   "1) (취향·이해를 같이하는) 소집단, 패거리, 동인(同人)"
+  ],
+  "etym": "프랑스어 coterie(소작인 조합, 중세 cotier 소작인)에서 -> '같은 부류끼리 모인 배타적 무리' -> 'coterie'. 발음 주의(/ˈkoʊtəri/). '끼리끼리 모인 폐쇄적 소집단'이 핵심.",
+  "deriv": "프랑스어 cotier(소작인) -> 'coterie'. 한국 학습자 핵심: clique·cabal(5567)과 유사! a small coterie(소수 패거리)·literary coterie(문학 동인). 유의어 clique·circle·in-group. 반대 (개방)public·crowd. 심화 사회.",
+  "syn": [
+   "clique(파벌)",
+   "circle(동아리)",
+   "in-group(끼리 집단)"
+  ],
+  "anti": [
+   "public(대중)",
+   "crowd(군중)",
+   "masses(다수)"
+  ],
+  "idiom": [
+   "a small coterie(소수 패거리)"
+  ],
+  "colloc": [
+   "small coterie(소수 패거리)",
+   "literary coterie(문학 동인)",
+   "exclusive coterie(배타적 소집단)"
+  ],
+  "ex_add": "A small coterie of advisers ran the country.  (coterie=소집단)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5943",
+  "hw": "countenance",
+  "pos": "n., v.",
+  "cefr": "심화",
+  "core": "자제(continere)된 표정 -> '얼굴 표정 / 용인하다'.",
+  "senses": [
+   "1) (n.) 얼굴, 표정, 안색",
+   "2) (v.) 용인하다, 묵인하다, 지지하다"
+  ],
+  "etym": "라틴어 continentia(자제·태도, continere 담다, com-(함께) + tenere 붙잡다) -> 고대 프랑스 contenance -> 'countenance'. contain·content·pertinent(5895)과 같은 tenere(붙잡다) 뿌리. '감정을 담은 얼굴 -> 받아들여 용인함'이 핵심.",
+  "deriv": "com- + tenere(붙잡다) -> 'countenance'. 한국 학습자 핵심: tenere(붙잡다) 어근 — contain·content·pertinent(5895)·countenance! 두 결 — ① 표정(a calm countenance) ② 동사 용인(refuse to countenance 용납하지 않다). 유의어 face/tolerate·condone(5294). 반대 (동사)forbid·oppose. 심화 격식.",
+  "syn": [
+   "face(표정)",
+   "tolerate(용인하다)",
+   "condone(묵인하다)"
+  ],
+  "anti": [
+   "forbid(금하다)",
+   "oppose(반대하다)",
+   "prohibit(금지하다)"
+  ],
+  "idiom": [
+   "refuse to countenance(용납하지 않다)"
+  ],
+  "colloc": [
+   "calm countenance(차분한 표정)",
+   "refuse to countenance(용납하지 않다)",
+   "countenance the idea(그 생각을 용인하다)"
+  ],
+  "ex_add": "The board would not countenance such a risk.  (countenance=용인하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5944",
+  "hw": "covenant",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "함께(co) 와서(venire) 맺은 약속 -> '서약·계약·언약'.",
+  "senses": [
+   "1) (엄숙한) 서약, 언약, 계약",
+   "2) (종교) 신과의 언약"
+  ],
+  "etym": "라틴어 convenire(함께 오다·합의하다, com-(함께) + venire 오다)에서 고대 프랑스 covenant -> 'covenant'. convene·intervene·circumvent(5290)과 같은 venire(오다) 뿌리. '함께 모여 맺은 엄숙한 약속'이 핵심.",
+  "deriv": "com-(함께) + venire(오다) -> 'covenant'. 한국 학습자 핵심: venire(오다) 거대 어근 — convene·intervene·circumvent(5290)·covenant! a sacred covenant(신성한 언약)·covenant with God·enter into a covenant. 유의어 pact·pledge·compact. 반대 breach·violation. 심화 종교·법.",
+  "syn": [
+   "pact(협정)",
+   "pledge(서약)",
+   "compact(약정)"
+  ],
+  "anti": [
+   "breach(위반)",
+   "violation(위반)",
+   "betrayal(배신)"
+  ],
+  "idiom": [
+   "a sacred covenant(신성한 언약)"
+  ],
+  "colloc": [
+   "sacred covenant(신성한 언약)",
+   "covenant with God(신과의 언약)",
+   "enter into a covenant(언약을 맺다)"
+  ],
+  "ex_add": "They made a solemn covenant to protect the land.  (covenant=서약)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5945",
+  "hw": "cupola",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "작은 통(cupa) 모양 지붕 -> '둥근 지붕·둥근 천장'.",
+  "senses": [
+   "1) (건물의) 둥근 지붕, 돔, 둥근 천장 위의 작은 탑"
+  ],
+  "etym": "이탈리아어 cupola(작은 둥근 천장, 라틴 cupula 작은 통, cupa 통)에서 -> 'cupola'. cup·cupule와 같은 cupa(통) 뿌리. '엎어 놓은 통 모양의 둥근 지붕'이 핵심.",
+  "deriv": "라틴어 cupa(통) -> 'cupola'. 한국 학습자 핵심: cup(컵)과 한 뿌리(통)! dome과 유사하나 작은 돔·탑 위 장식. a domed cupola(둥근 지붕)·church cupola. 유의어 dome·rotunda·vault. 반대 (평평한)flat roof. 심화 건축.",
+  "syn": [
+   "dome(돔)",
+   "rotunda(원형 건물)",
+   "vault(둥근 천장)"
+  ],
+  "anti": [
+   "flat roof(평지붕)",
+   "spire(첨탑)",
+   "gable(박공)"
+  ],
+  "idiom": [
+   "a domed cupola(둥근 지붕)"
+  ],
+  "colloc": [
+   "domed cupola(둥근 지붕)",
+   "church cupola(교회 둥근 지붕)",
+   "gilded cupola(금박 입힌 돔)"
+  ],
+  "ex_add": "The cathedral is crowned with a golden cupola.  (cupola=둥근 지붕)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5946",
+  "hw": "dally",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "한가로이 시간을 보내다 -> '꾸물거리다·시시덕거리다'.",
+  "senses": [
+   "1) (빈둥대며) 꾸물거리다, 시간을 허비하다",
+   "2) (~을) 가지고 놀다, 시시덕거리다 (dally with)"
+  ],
+  "etym": "고대 프랑스어 dalier(잡담하다·노닥거리다, 기원 불확실)에서 -> 'dally'. (어원 불확실.) '진지함 없이 노닥거리며 시간을 끌다'가 핵심.",
+  "deriv": "고대 프랑스어 dalier(노닥거리다) -> 'dally'. 한국 학습자 핵심: 명사 dalliance(노닥거림·시시덕거림)! 'dally with': dally with the idea(생각을 가지고 만지작거리다)·dilly-dally(꾸물대다). 유의어 dawdle·linger·trifle. 반대 hurry·hasten(5790)·rush. 심화 문어.",
+  "syn": [
+   "dawdle(꾸물대다)",
+   "linger(머뭇거리다)",
+   "trifle(가지고 놀다)"
+  ],
+  "anti": [
+   "hurry(서두르다)",
+   "hasten(재촉하다)",
+   "rush(돌진하다)"
+  ],
+  "idiom": [
+   "dally with(~을 가지고 놀다)"
+  ],
+  "colloc": [
+   "dally with the idea(생각을 만지작거리다)",
+   "dally over(~을 두고 꾸물대다)",
+   "dally about(빈둥거리다)"
+  ],
+  "ex_add": "Don't dally—we're already late.  (dally=꾸물거리다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5947",
+  "hw": "dauntless",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "기죽지(daunt) 않는(less) -> '겁 없는·불굴의'.",
+  "senses": [
+   "1) (어떤 위험에도) 겁 없는, 불굴의, 용맹한"
+  ],
+  "etym": "영어 daunt(5691, 기죽이다, 라틴 domitare 길들이다) + -less(없는) -> 'dauntless'. dominate·indomitable과 같은 domare(제압하다) 뿌리. '아무리 위협해도 기죽지 않는'이 핵심.",
+  "deriv": "daunt(5691, 기죽이다) + -less -> 'dauntless'. 한국 학습자 핵심: daunt(5691)에 -less를 붙인 단어 — 'undaunted'와 동의어! domare(제압) 어근 — dominate·indomitable·dauntless. dauntless courage(불굴의 용기). intrepid(5109)와 유사. 유의어 intrepid·fearless·undaunted. 반대 timid·fearful·cowardly. 심화 문학.",
+  "syn": [
+   "intrepid(겁 없는)",
+   "fearless(두려움 없는)",
+   "undaunted(굴하지 않는)"
+  ],
+  "anti": [
+   "timid(소심한)",
+   "fearful(겁먹은)",
+   "cowardly(겁 많은)"
+  ],
+  "idiom": [
+   "dauntless courage(불굴의 용기)"
+  ],
+  "colloc": [
+   "dauntless courage(불굴의 용기)",
+   "dauntless spirit(불굴의 정신)",
+   "dauntless explorer(겁 없는 탐험가)"
+  ],
+  "ex_add": "The dauntless crew sailed into the storm.  (dauntless=겁 없는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5948",
+  "hw": "demure",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "점잖게 머무는(morari) -> '얌전한·새침한'.",
+  "senses": [
+   "1) (특히 여성이) 얌전한, 차분한, 조신한",
+   "2) (짐짓) 새침한, 정숙한 체하는"
+  ],
+  "etym": "고대 프랑스어 demoré(차분한, demorer 머물다, 라틴 morari 지체하다)에서 추정 -> 'demure'. demur(5577)·moratorium과 같은 mora(지연) 계열로 보기도 함. '차분하고 얌전한'이 핵심.",
+  "deriv": "라틴어 morari(머물다) 추정 -> 'demure'. 한국 학습자 핵심: demur(5577, 이의를 표하다)와 철자 유사하나 뜻 다름! a demure smile(얌전한 미소)·demure manner. 유의어 modest·reserved·coy. 반대 brazen(5676)·bold·forward. 심화 묘사.",
+  "syn": [
+   "modest(얌전한)",
+   "reserved(차분한)",
+   "coy(새침한)"
+  ],
+  "anti": [
+   "brazen(뻔뻔한)",
+   "bold(대담한)",
+   "forward(나서는)"
+  ],
+  "idiom": [
+   "a demure smile(얌전한 미소)"
+  ],
+  "colloc": [
+   "demure smile(얌전한 미소)",
+   "demure manner(조신한 태도)",
+   "demure and quiet(얌전하고 조용한)"
+  ],
+  "ex_add": "She gave a demure smile and looked away.  (demure=얌전한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5949",
+  "hw": "deprecate",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "멀리(de) 기도해(precari) 물리치다 -> '못마땅해하다·반대하다'.",
+  "senses": [
+   "1) (강하게) 못마땅해하다, 반대하다, 비난하다",
+   "2) (자신을) 낮추다 (self-deprecating)"
+  ],
+  "etym": "라틴어 deprecari(빌어 물리치다, de-(멀리) + precari 빌다, prex 기도) -> 'deprecate'. precarious(5167)·imprecation(5595)·pray와 같은 prex(기도) 뿌리. '제발 그러지 말라 빌듯 반대하다'가 핵심.",
+  "deriv": "de-(멀리) + precari(빌다) -> 'deprecate'. 한국 학습자 핵심: prex(기도) 어근 — pray·precarious(5167)·imprecation(5595)·deprecate! 혼동 주의: deprecate(못마땅해하다) vs depreciate(가치가 떨어지다)! self-deprecating(자기를 낮추는). 유의어 disapprove·condemn·belittle. 반대 endorse·commend·approve. 심화 격식.",
+  "syn": [
+   "disapprove(못마땅해하다)",
+   "condemn(비난하다)",
+   "belittle(깎아내리다)"
+  ],
+  "anti": [
+   "endorse(지지하다)",
+   "commend(칭찬하다)",
+   "approve(인정하다)"
+  ],
+  "idiom": [
+   "self-deprecating(자기를 낮추는)"
+  ],
+  "colloc": [
+   "self-deprecating humor(자기를 낮추는 유머)",
+   "deprecate the practice(그 관행에 반대하다)",
+   "strongly deprecate(강하게 못마땅해하다)"
+  ],
+  "ex_add": "He deprecated the use of violence.  (deprecate=못마땅해하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5950",
+  "hw": "descant",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "본 가락 위에(des) 노래(cantare)를 얹다 -> '장황히 논하다 / 가락을 붙이다'.",
+  "senses": [
+   "1) (~에 대해) 장황하게 논하다, 길게 이야기하다",
+   "2) (음악) 주선율 위에 화성을 얹다"
+  ],
+  "etym": "라틴어 discantus(곁가락, dis-(따로) + cantus 노래, cantare 노래하다) -> 'descant'. recant(5463)·chant·accent와 같은 cantare(노래하다) 뿌리. '본가락 위에 가락을 얹듯 장황히 늘어놓다'가 핵심.",
+  "deriv": "dis- + cantare(노래하다) -> 'descant'. 한국 학습자 핵심: cantare(노래) 어근 — recant(5463)·chant·accent·descant! 'descant on/upon': descant on a topic(주제를 장황히 논하다). expatiate(5589)와 유사. 유의어 expatiate·dwell on·hold forth. 반대 be brief·summarize. 심화 문어·음악.",
+  "syn": [
+   "expatiate(장황히 논하다)",
+   "dwell on(자세히 다루다)",
+   "hold forth(장광설을 펴다)"
+  ],
+  "anti": [
+   "be brief(간략히 하다)",
+   "summarize(요약하다)",
+   "be terse(짤막히 하다)"
+  ],
+  "idiom": [
+   "descant on(~을 장황히 논하다)"
+  ],
+  "colloc": [
+   "descant on a topic(주제를 장황히 논하다)",
+   "descant upon(~에 대해 길게 말하다)",
+   "descant at length(장황하게 늘어놓다)"
+  ],
+  "ex_add": "He descanted at length on the virtues of patience.  (descant=장황히 논하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5951",
+  "hw": "desiccate",
+  "pos": "v.",
+  "cefr": "심화",
+  "core": "완전히(de) 마르게(siccus) 하다 -> '바싹 말리다·건조시키다'.",
+  "senses": [
+   "1) (수분을 없애) 바싹 말리다, 건조시키다",
+   "2) (생기를) 메마르게 하다"
+  ],
+  "etym": "라틴어 desiccare(말려 버리다, de-(완전히) + siccus 마른)의 과거분사 -> 'desiccate'. siccus(마른)는 sec(드라이 와인)·siccative의 뿌리. '수분을 다 빼 바싹 말리다'가 핵심.",
+  "deriv": "de-(완전히) + siccus(마른) -> 'desiccate'. 한국 학습자 핵심: siccus(마른) 어근 — sec(드라이)·desiccate! 형용사 desiccated(바싹 마른·생기 없는). desiccated coconut(말린 코코넛)·desiccated soil. 비유: a desiccated style(메마른 문체). 유의어 dry out·dehydrate·parch. 반대 moisten·hydrate·saturate. 심화 과학.",
+  "syn": [
+   "dehydrate(탈수시키다)",
+   "dry out(말리다)",
+   "parch(바싹 태우다)"
+  ],
+  "anti": [
+   "moisten(축이다)",
+   "hydrate(수분을 공급하다)",
+   "saturate(흠뻑 적시다)"
+  ],
+  "idiom": [
+   "desiccated coconut(말린 코코넛)"
+  ],
+  "colloc": [
+   "desiccated coconut(말린 코코넛)",
+   "desiccated soil(메마른 토양)",
+   "desiccate the sample(시료를 건조시키다)"
+  ],
+  "ex_add": "The hot wind desiccated the crops.  (desiccate=바싹 말리다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5952",
+  "hw": "fulsome",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "가득(full)해 넘치는 -> '과한·느끼한 / (논란) 풍부한'.",
+  "senses": [
+   "1) (칭찬·아첨이) 과한, 느끼한, 지나쳐 역겨운",
+   "2) (논쟁적 용법) 푸짐한, 풍부한"
+  ],
+  "etym": "영어 full(가득한) + -some -> 'fulsome'. '가득 차다 못해 넘쳐 느끼한'이 핵심. 본뜻은 부정적(과함)이나 '풍부한'으로도 쓰여 논란.",
+  "deriv": "full(가득한) + -some -> 'fulsome'. 한국 학습자 핵심: 주의! 표준 뜻은 '지나쳐 느끼한'(부정적) — fulsome praise(과한 아첨)! 현대엔 '푸짐한'으로도 쓰이나 논란. 유의어 excessive·cloying·effusive(5325). 반대 restrained·sincere·sparing. 심화 논평.",
+  "syn": [
+   "excessive(과도한)",
+   "cloying(느끼한)",
+   "effusive(넘치는)"
+  ],
+  "anti": [
+   "restrained(절제된)",
+   "sincere(진심의)",
+   "sparing(아끼는)"
+  ],
+  "idiom": [
+   "fulsome praise(과한 아첨)"
+  ],
+  "colloc": [
+   "fulsome praise(과한 칭찬)",
+   "fulsome tribute(느끼한 헌사)",
+   "fulsome apology(과한 사과)"
+  ],
+  "ex_add": "His fulsome praise made everyone uncomfortable.  (fulsome=과한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5953",
+  "hw": "gambit",
+  "pos": "n.",
+  "cefr": "심화",
+  "core": "다리(gamba)를 거는 첫수 -> '(유리한) 첫수·술책'.",
+  "senses": [
+   "1) (체스의) 희생 오프닝, 선제 수",
+   "2) (목적을 위한) 계략, 첫 수, 화제를 여는 말"
+  ],
+  "etym": "이탈리아어 gambetto(다리 걸기, gamba 다리)에서 -> 체스에서 말을 희생해 유리를 꾀하는 첫수 -> 'gambit'. gambol(5734)과 같은 gamba(다리) 뿌리. '판을 유리하게 끌려는 첫수·술책'이 핵심.",
+  "deriv": "이탈리아 gamba(다리) -> 'gambit'. 한국 학습자 핵심: gamba(다리) 어근 — gambol(5734)·gambit! opening gambit(첫 수·서두)·a clever gambit(영리한 술책). ploy와 유사. 유의어 ploy·stratagem·maneuver. 반대 (즉흥)blunder. 심화 격식.",
+  "syn": [
+   "ploy(술책)",
+   "stratagem(책략)",
+   "maneuver(책략)"
+  ],
+  "anti": [
+   "blunder(실수)",
+   "misstep(헛수)",
+   "oversight(실책)"
+  ],
+  "idiom": [
+   "opening gambit(첫 수·서두)"
+  ],
+  "colloc": [
+   "opening gambit(첫 수)",
+   "clever gambit(영리한 술책)",
+   "political gambit(정치적 책략)"
+  ],
+  "ex_add": "Lowering the price was a clever gambit to win customers.  (gambit=술책)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5954",
+  "hw": "garish",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "눈이 부시게 번쩍이는 -> '야하게 번쩍이는·천박한'.",
+  "senses": [
+   "1) (색·장식이) 야하게 번쩍이는, 현란한, 천박한"
+  ],
+  "etym": "중세 영어 gaure(빤히 쳐다보다) + -ish에서 -> '눈이 휘둥그레질 만큼 요란한' -> 'garish'. (어원 일부 불확실.) '천박하게 번쩍이는'이 핵심.",
+  "deriv": "중세 영어 gaure(빤히 보다) 추정 -> 'garish'. 한국 학습자 핵심: gaudy·lurid와 동의어 — '천박하게 요란한'! garish colors(야한 색)·garish decor(천박한 장식). 유의어 gaudy·lurid·flashy. 반대 subdued·tasteful·understated. 심화 묘사.",
+  "syn": [
+   "gaudy(번지르르한)",
+   "lurid(야한)",
+   "flashy(번쩍이는)"
+  ],
+  "anti": [
+   "subdued(차분한)",
+   "tasteful(고상한)",
+   "understated(절제된)"
+  ],
+  "idiom": [
+   "garish colors(야한 색)"
+  ],
+  "colloc": [
+   "garish colors(야한 색)",
+   "garish decor(천박한 장식)",
+   "garish lighting(현란한 조명)"
+  ],
+  "ex_add": "The room was decorated in garish colors.  (garish=천박하게 번쩍이는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5955",
+  "hw": "genteel",
+  "pos": "adj.",
+  "cefr": "심화",
+  "core": "좋은 가문(gentilis)의 -> '점잖은·고상한 체하는'.",
+  "senses": [
+   "1) (상류층처럼) 점잖은, 품위 있는",
+   "2) (짐짓) 고상한 체하는, 점잔 빼는"
+  ],
+  "etym": "프랑스어 gentil(귀족의·정중한, 라틴 gentilis 같은 가문의, gens 씨족)에서 -> 'genteel'. gentle·gentile·gentry와 같은 gens(씨족) 뿌리. '좋은 가문답게 점잖은 -> 점잔 빼는'이 핵심.",
+  "deriv": "라틴어 gens(씨족) -> 'genteel'. 한국 학습자 핵심: gens(씨족) 어근 — gentle·gentile·gentry·genteel! 종종 반어 — genteel poverty(체면 차리는 가난)·genteel manners. 유의어 refined·polite·well-bred. 반대 vulgar·coarse·boorish. 심화 사회.",
+  "syn": [
+   "refined(세련된)",
+   "polite(점잖은)",
+   "well-bred(교양 있는)"
+  ],
+  "anti": [
+   "vulgar(천박한)",
+   "coarse(거친)",
+   "boorish(상스러운)"
+  ],
+  "idiom": [
+   "genteel poverty(체면 차리는 가난)"
+  ],
+  "colloc": [
+   "genteel poverty(체면 차리는 가난)",
+   "genteel manners(점잖은 예절)",
+   "genteel society(상류 사회)"
+  ],
+  "ex_add": "They lived in genteel poverty in a crumbling mansion.  (genteel=점잖은)",
+  "ex_orig": "",
+  "ex_src": ""
  }
 ]
