@@ -45,7 +45,7 @@ COLS = [
     ("3회",         "_blank", 5,  False, "center"),
 ]
 NCOL = len(COLS)
-TITLE = "CEFR 기준 영단어 (5,000)"
+TITLE = "CEFR 기준 영단어"
 SUBNOTE = "머리글의 필터(▼)로 CEFR·품사를 원하는 대로 추리세요. · A1–C2 통합"
 
 def val(card, key, idx):

@@ -176517,5 +176517,1685 @@
   "ex_add": "He made a sardonic comment about the result.  (sardonic=냉소적인)",
   "ex_orig": "",
   "ex_src": ""
+ },
+ {
+  "num": "5205",
+  "hw": "scrupulous",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "신발 속 작은 돌(scrupulus)까지 신경 쓰는 -> '꼼꼼한·양심적인'.",
+  "senses": [
+   "1) (일이) 세심하고 빈틈없는, 꼼꼼한",
+   "2) (행동이) 양심적인, 정직한"
+  ],
+  "etym": "라틴어 scrupulus(작은 뾰족한 돌·불안)에서 -> '신발 속 돌멩이처럼 마음에 걸려 사소한 것까지 챙기는' -> 'scrupulous'. scruple(양심의 가책)과 같은 뿌리. '거리낄 만큼 세심하게'가 핵심.",
+  "deriv": "라틴어 scrupulus(작은 돌·가책) -> 'scrupulous'. 한국 학습자 핵심: scruple(양심의 가책)과 한 뿌리! 두 뜻 — ① 꼼꼼한(scrupulous attention) ② 양심적인(scrupulously honest). 유의어 meticulous(5129)·conscientious·thorough. 반대 unscrupulous(5xx)·careless·dishonest. C2 칭찬·윤리.",
+  "syn": [
+   "meticulous(꼼꼼한)",
+   "conscientious(양심적인)",
+   "thorough(철저한)"
+  ],
+  "anti": [
+   "unscrupulous(파렴치한)",
+   "careless(부주의한)",
+   "negligent(태만한)"
+  ],
+  "idiom": [
+   "scrupulously honest(철저히 정직한)"
+  ],
+  "colloc": [
+   "scrupulous attention(세심한 주의)",
+   "scrupulously honest(철저히 정직한)",
+   "scrupulous care(빈틈없는 주의)"
+  ],
+  "ex_add": "She kept scrupulous records of all her expenses.  (scrupulous=꼼꼼한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5206",
+  "hw": "scrutinize",
+  "pos": "v.",
+  "cefr": "C2",
+  "core": "넝마(scruta)를 뒤지듯 살피다 -> '면밀히 조사하다·뜯어보다'.",
+  "senses": [
+   "1) (자세히) 면밀히 살피다, 정밀 검토하다"
+  ],
+  "etym": "라틴어 scrutari(샅샅이 뒤지다, scruta 넝마·잡동사니) -> scrutinium(조사) -> 'scrutinize'. '넝마주이가 잡동사니를 하나하나 뒤지듯 꼼꼼히 보다'가 핵심.",
+  "deriv": "라틴어 scruta(넝마) -> 'scrutinize'. 한국 학습자 핵심: 명사 scrutiny(정밀 조사) — under scrutiny(면밀한 조사를 받는)·close scrutiny(철저한 검토)! scrutinize the evidence(증거를 면밀히 조사하다). 유의어 examine·inspect·pore over. 반대 glance·skim·overlook. C2 법·논설.",
+  "syn": [
+   "examine(자세히 보다)",
+   "inspect(점검하다)",
+   "pore over(정독하다)"
+  ],
+  "anti": [
+   "glance(흘끗 보다)",
+   "skim(대충 훑다)",
+   "overlook(간과하다)"
+  ],
+  "idiom": [
+   "under scrutiny(면밀한 조사를 받는)"
+  ],
+  "colloc": [
+   "scrutinize the evidence(증거를 면밀히 조사하다)",
+   "closely scrutinize(철저히 살피다)",
+   "under close scrutiny(철저한 검토를 받는)"
+  ],
+  "ex_add": "Auditors scrutinized every transaction.  (scrutinize=면밀히 조사하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5207",
+  "hw": "sedentary",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "앉아(sedere) 있는 -> '앉아서 하는·주로 앉아 지내는'.",
+  "senses": [
+   "1) (생활·일이) 주로 앉아서 하는, 활동량이 적은",
+   "2) (동물이) 한곳에 머무는, 정주성의"
+  ],
+  "etym": "라틴어 sedere(앉다) -> sedentarius(앉아 있는) -> 'sedentary'. sedere(앉다)는 sit·session·reside·sediment·preside의 거대 뿌리. '엉덩이 붙이고 앉아 지내는'이 핵심.",
+  "deriv": "라틴어 sedere(앉다) -> 'sedentary'. 한국 학습자 핵심: sedere(앉다) 거대 어근 — sit·session·reside·sediment·preside·sedentary! a sedentary lifestyle(앉아서 지내는 생활)·sedentary job(앉아서 하는 일). 유의어 inactive·desk-bound·stationary. 반대 active·mobile·energetic. C2 건강.",
+  "syn": [
+   "inactive(비활동적인)",
+   "desk-bound(책상에 매인)",
+   "stationary(움직이지 않는)"
+  ],
+  "anti": [
+   "active(활동적인)",
+   "mobile(잘 움직이는)",
+   "energetic(활기찬)"
+  ],
+  "idiom": [
+   "a sedentary lifestyle(앉아서 지내는 생활)"
+  ],
+  "colloc": [
+   "sedentary lifestyle(앉아서 지내는 생활)",
+   "sedentary job(앉아서 하는 일)",
+   "sedentary behavior(좌식 생활)"
+  ],
+  "ex_add": "A sedentary lifestyle can harm your health.  (sedentary=앉아서 하는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5208",
+  "hw": "serene",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "맑고 고요한(serenus) -> '고요한·평온한'.",
+  "senses": [
+   "1) (분위기·표정이) 평온한, 차분한",
+   "2) (하늘·물이) 맑고 고요한"
+  ],
+  "etym": "라틴어 serenus(맑은·고요한, 특히 날씨) -> 'serene'. '구름 한 점 없이 잔잔한 -> 마음이 평온한'으로 확장. '동요 없이 잔잔한'이 핵심.",
+  "deriv": "라틴어 serenus(맑은·고요한) -> 'serene'. 한국 학습자 핵심: 명사 serenity(평온). a serene smile(평온한 미소)·serene landscape(고요한 풍경). 유의어 tranquil(5xx)·calm·placid. 반대 turbulent·agitated·troubled. C2 묘사.",
+  "syn": [
+   "tranquil(고요한)",
+   "calm(차분한)",
+   "placid(잔잔한)"
+  ],
+  "anti": [
+   "turbulent(요동치는)",
+   "agitated(동요한)",
+   "troubled(불안한)"
+  ],
+  "idiom": [
+   "a serene expression(평온한 표정)"
+  ],
+  "colloc": [
+   "serene smile(평온한 미소)",
+   "serene landscape(고요한 풍경)",
+   "remain serene(평온함을 유지하다)"
+  ],
+  "ex_add": "She had a serene look on her face.  (serene=평온한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5209",
+  "hw": "solace",
+  "pos": "n., v.",
+  "cefr": "C2",
+  "core": "위로(solari) -> '위안·위로 / 위로하다'.",
+  "senses": [
+   "1) (n.) (슬픔 속의) 위안, 위로",
+   "2) (v.) 위로하다, 달래다"
+  ],
+  "etym": "라틴어 solari(위로하다) -> solacium(위안) -> 고대 프랑스 solas -> 'solace'. console(위로하다)·consolation(위안)과 같은 solari 뿌리. '슬픔을 달래 주는 것'이 핵심.",
+  "deriv": "라틴어 solari(위로하다) -> 'solace'. 한국 학습자 핵심: console·consolation과 한 뿌리! 'find/seek solace in': find solace in music(음악에서 위안을 얻다)·seek solace(위안을 구하다). 유의어 comfort·consolation·relief. 반대 distress·torment·anguish. C2 문어.",
+  "syn": [
+   "comfort(위안)",
+   "consolation(위로)",
+   "relief(위안)"
+  ],
+  "anti": [
+   "distress(고통)",
+   "torment(괴로움)",
+   "anguish(번민)"
+  ],
+  "idiom": [
+   "find solace in(~에서 위안을 얻다)"
+  ],
+  "colloc": [
+   "find solace in(~에서 위안을 얻다)",
+   "seek solace(위안을 구하다)",
+   "offer solace(위로를 주다)"
+  ],
+  "ex_add": "He found solace in his work after the loss.  (solace=위안)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5210",
+  "hw": "solicitous",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "온통(sollus) 마음 졸이며(citus) 챙기는 -> '세심히 배려하는·걱정해 주는'.",
+  "senses": [
+   "1) (남의 안위를) 세심히 배려하는, 걱정해 주는",
+   "2) (~하려고) 마음 쓰는, 열심인"
+  ],
+  "etym": "라틴어 sollicitus(불안한·마음 졸이는, sollus 전체 + citus 움직여진, ciere 움직이다) -> 'solicitous'. ciere(움직이다)는 excite·incite·solicit(간청하다)의 뿌리. '온 마음이 흔들릴 만큼 신경 써 주는'이 핵심.",
+  "deriv": "sollus(전체) + ciere(움직이다) -> 'solicitous'. 한국 학습자 핵심: ciere(움직이다) 어근 — excite·incite·solicit·solicitous! 동사 solicit(간청하다)과 구별: solicitous=배려심 깊은. solicitous about her health(그녀의 건강을 염려하는). 유의어 attentive·caring·concerned. 반대 indifferent·neglectful·callous. C2 인물 묘사.",
+  "syn": [
+   "attentive(세심한)",
+   "caring(보살피는)",
+   "concerned(걱정하는)"
+  ],
+  "anti": [
+   "indifferent(무관심한)",
+   "neglectful(소홀한)",
+   "callous(냉담한)"
+  ],
+  "idiom": [
+   "solicitous about(~을 걱정하는)"
+  ],
+  "colloc": [
+   "solicitous about her welfare(그녀의 안위를 걱정하는)",
+   "solicitous care(세심한 보살핌)",
+   "solicitous manner(배려 깊은 태도)"
+  ],
+  "ex_add": "The nurse was solicitous about the patient's comfort.  (solicitous=세심히 배려하는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5211",
+  "hw": "somber",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "그늘(umbra) 아래의 -> '침울한·우중충한·엄숙한'.",
+  "senses": [
+   "1) (분위기·기분이) 침울한, 어두운",
+   "2) (색·빛이) 칙칙한, 우중충한"
+  ],
+  "etym": "프랑스어 sombre(어두운, 라틴 sub-(아래) + umbra 그늘 추정) -> 'somber'(영국 sombre). umbra(그늘)는 umbrella(그늘 만드는 것)·penumbra(반그늘)의 뿌리. '그늘져 어둑하고 무거운'이 핵심.",
+  "deriv": "sub-(아래) + umbra(그늘) -> 'somber'. 한국 학습자 핵심: umbra(그늘) 어근 — umbrella·penumbra·somber! 철자: 미국 somber / 영국 sombre. a somber mood(침울한 분위기)·somber colors(칙칙한 색). 유의어 gloomy·grave·melancholy. 반대 cheerful·bright·jovial. C2 묘사.",
+  "syn": [
+   "gloomy(우울한)",
+   "grave(엄숙한)",
+   "melancholy(쓸쓸한)"
+  ],
+  "anti": [
+   "cheerful(쾌활한)",
+   "bright(밝은)",
+   "jovial(유쾌한)"
+  ],
+  "idiom": [
+   "a somber mood(침울한 분위기)"
+  ],
+  "colloc": [
+   "somber mood(침울한 분위기)",
+   "somber tone(엄숙한 어조)",
+   "somber colors(칙칙한 색)"
+  ],
+  "ex_add": "The funeral had a somber atmosphere.  (somber=침울한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5212",
+  "hw": "squander",
+  "pos": "v.",
+  "cefr": "C2",
+  "core": "흩뿌려 없애다 -> '(돈·기회를) 낭비하다·헛되이 날리다'.",
+  "senses": [
+   "1) (돈을) 흥청망청 낭비하다",
+   "2) (기회·재능을) 헛되이 날리다"
+  ],
+  "etym": "16세기 영어 squander(흩뿌리다)에서 유래(정확한 어원 불확실, 의성·방언적 기원으로 추정). '소중한 것을 마구 흩어 없애다'가 핵심. (어원 불확실하므로 단정하지 않음.)",
+  "deriv": "기원 불확실(16세기 영어) -> 'squander'. 한국 학습자 핵심: 대상 — 돈·시간·기회·재능 모두 가능! squander money(돈을 낭비하다)·squander an opportunity(기회를 날리다)·squander a lead(앞선 점수를 날리다). 유의어 waste·fritter away·dissipate. 반대 save·conserve·invest. C2 경제·스포츠.",
+  "syn": [
+   "waste(낭비하다)",
+   "fritter away(헛되이 쓰다)",
+   "dissipate(탕진하다)"
+  ],
+  "anti": [
+   "save(절약하다)",
+   "conserve(아끼다)",
+   "invest(투자하다)"
+  ],
+  "idiom": [
+   "squander an opportunity(기회를 날리다)"
+  ],
+  "colloc": [
+   "squander money(돈을 낭비하다)",
+   "squander an opportunity(기회를 날리다)",
+   "squander a fortune(재산을 탕진하다)"
+  ],
+  "ex_add": "He squandered his inheritance on gambling.  (squander=낭비하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5213",
+  "hw": "staunch",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "물샐틈없이 막은(stanchier) -> '확고한·충실한'.",
+  "senses": [
+   "1) (지지·신념이) 확고한, 변함없는, 충실한"
+  ],
+  "etym": "고대 프랑스어 estanche(물이 새지 않는, estanchier 멈추게 하다)에서 -> '단단히 막혀 흔들림 없는' -> 'staunch'. 동사 staunch(피·물을 멈추게 하다)와 동원. '꽉 막혀 새지 않는 -> 변함없이 굳건한'이 핵심.",
+  "deriv": "고대 프랑스어 estanchier(멈추게 하다) -> 'staunch'. 한국 학습자 핵심: 동사도 됨 — staunch the bleeding(출혈을 멎게 하다)! 형용사: a staunch supporter(확고한 지지자)·staunch ally(충실한 동맹). 유의어 loyal·steadfast·devoted. 반대 disloyal·wavering·fickle. C2 정치·인물.",
+  "syn": [
+   "loyal(충실한)",
+   "steadfast(확고한)",
+   "devoted(헌신적인)"
+  ],
+  "anti": [
+   "disloyal(불충한)",
+   "wavering(흔들리는)",
+   "fickle(변덕스러운)"
+  ],
+  "idiom": [
+   "a staunch ally(확고한 동맹)"
+  ],
+  "colloc": [
+   "staunch supporter(확고한 지지자)",
+   "staunch ally(충실한 동맹)",
+   "staunch defender(굳건한 옹호자)"
+  ],
+  "ex_add": "She remained a staunch supporter of the cause.  (staunch=확고한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5214",
+  "hw": "stoic",
+  "pos": "adj., n.",
+  "cefr": "C2",
+  "core": "스토아 학파처럼 감정을 누르는 -> '극기의·금욕적인 / 극기하는 사람'.",
+  "senses": [
+   "1) (adj.) 고통·감정을 잘 견디는, 의연한, 금욕적인",
+   "2) (n.) 극기하는 사람"
+  ],
+  "etym": "그리스어 Stoikos(스토아 학파, stoa '주랑'에서 강의한 데서) -> 'stoic'. 제논이 아테네의 채색 주랑(Stoa Poikile)에서 가르친 데서 유래. 감정에 흔들리지 않는 철학에서 '의연함'의 뜻으로 -> '괴로워도 내색 않는'이 핵심.",
+  "deriv": "그리스 stoa(주랑) -> 'stoic'. 한국 학습자 핵심: 철학 학파 이름에서 온 단어 — Stoa(주랑)에서 강의! 명사 stoicism(금욕·극기). stoic acceptance(의연한 수용)·stoic calm(흔들림 없는 침착). 유의어 impassive·unflinching·composed. 반대 emotional·excitable·demonstrative. C2 인물 묘사.",
+  "syn": [
+   "impassive(감정을 안 드러내는)",
+   "unflinching(움츠리지 않는)",
+   "composed(침착한)"
+  ],
+  "anti": [
+   "emotional(감정적인)",
+   "excitable(쉽게 흥분하는)",
+   "demonstrative(감정 표현이 많은)"
+  ],
+  "idiom": [
+   "stoic acceptance(의연한 수용)"
+  ],
+  "colloc": [
+   "stoic calm(흔들림 없는 침착)",
+   "stoic acceptance(의연한 수용)",
+   "remain stoic(의연함을 유지하다)"
+  ],
+  "ex_add": "He bore the pain with stoic calm.  (stoic=의연한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5215",
+  "hw": "strenuous",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "맹렬한(strenuus) -> '몹시 힘든·격렬한·맹렬한'.",
+  "senses": [
+   "1) (활동이) 몹시 힘든, 격렬한",
+   "2) (노력이) 분투하는, 맹렬한"
+  ],
+  "etym": "라틴어 strenuus(활발한·맹렬한) -> 'strenuous'. '온 힘을 쏟아 격렬하게'가 핵심. (게르만 strong과는 직접 동원이 아니나 의미가 통함.)",
+  "deriv": "라틴어 strenuus(맹렬한) -> 'strenuous'. 한국 학습자 핵심: 두 결 — ① 육체적 격렬(strenuous exercise 격한 운동) ② 노력의 맹렬함(strenuous efforts 분투). 부사 strenuously(맹렬히·강력히): strenuously deny(강력히 부인하다). 유의어 arduous·grueling·vigorous. 반대 easy·effortless·gentle. C2 건강·논설.",
+  "syn": [
+   "arduous(고된)",
+   "grueling(녹초로 만드는)",
+   "vigorous(격렬한)"
+  ],
+  "anti": [
+   "easy(쉬운)",
+   "effortless(수월한)",
+   "gentle(완만한)"
+  ],
+  "idiom": [
+   "strenuous efforts(맹렬한 노력)"
+  ],
+  "colloc": [
+   "strenuous exercise(격렬한 운동)",
+   "strenuous efforts(맹렬한 노력)",
+   "strenuously deny(강력히 부인하다)"
+  ],
+  "ex_add": "Avoid strenuous activity after the surgery.  (strenuous=몹시 힘든)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5216",
+  "hw": "stringent",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "꽉 죄는(stringere) -> '엄격한·엄중한'.",
+  "senses": [
+   "1) (규칙·기준이) 엄격한, 엄중한",
+   "2) (재정이) 빠듯한, 긴축의"
+  ],
+  "etym": "라틴어 stringere(팽팽히 죄다)의 현재분사 stringens -> 'stringent'. stringere(죄다)는 strict·restrict·constrain·strain·stress의 거대 뿌리. '바짝 죄어 빈틈을 안 주는'이 핵심.",
+  "deriv": "라틴어 stringere(죄다) -> 'stringent'. 한국 학습자 핵심: stringere(죄다) 거대 어근 — strict·restrict·constrain·strain·stringent! stringent regulations(엄격한 규제)·stringent controls(엄중한 통제). 유의어 strict·rigorous·tough. 반대 lax·lenient·loose. C2 법·규제.",
+  "syn": [
+   "strict(엄격한)",
+   "rigorous(엄정한)",
+   "tough(강경한)"
+  ],
+  "anti": [
+   "lax(느슨한)",
+   "lenient(관대한)",
+   "loose(헐거운)"
+  ],
+  "idiom": [
+   "stringent regulations(엄격한 규제)"
+  ],
+  "colloc": [
+   "stringent regulations(엄격한 규제)",
+   "stringent controls(엄중한 통제)",
+   "stringent requirements(까다로운 요건)"
+  ],
+  "ex_add": "The factory must meet stringent safety standards.  (stringent=엄격한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5217",
+  "hw": "subjugate",
+  "pos": "v.",
+  "cefr": "C2",
+  "core": "멍에(jugum) 아래(sub) 두다 -> '정복하다·예속시키다'.",
+  "senses": [
+   "1) (나라·민족을) 정복하다, 복종시키다, 예속시키다"
+  ],
+  "etym": "라틴어 subjugare(멍에 아래 두다, sub-(아래) + jugum 멍에)의 과거분사 -> 'subjugate'. jugum(멍에)은 conjugal(부부의·함께 멍에를 진)·conjugate(활용하다)·yoke(멍에, 동원)의 뿌리. '멍에를 씌워 부리다'가 핵심.",
+  "deriv": "sub-(아래) + jugum(멍에) -> 'subjugate'. 한국 학습자 핵심: jugum(멍에) 어근 — conjugal·conjugate·yoke(멍에)·subjugate! 명사 subjugation. subjugate a people(민족을 예속시키다). 유의어 conquer·enslave·suppress. 반대 liberate·free·emancipate. C2 역사·정치.",
+  "syn": [
+   "conquer(정복하다)",
+   "enslave(노예로 삼다)",
+   "suppress(억압하다)"
+  ],
+  "anti": [
+   "liberate(해방하다)",
+   "free(자유롭게 하다)",
+   "emancipate(해방시키다)"
+  ],
+  "idiom": [
+   "subjugate a people(민족을 예속시키다)"
+  ],
+  "colloc": [
+   "subjugate a nation(나라를 정복하다)",
+   "subjugate the population(주민을 예속시키다)",
+   "seek to subjugate(복종시키려 하다)"
+  ],
+  "ex_add": "The empire subjugated neighboring tribes.  (subjugate=정복하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5218",
+  "hw": "sublime",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "문턱(limen) 아래에서 위로 -> '숭고한·장엄한·최고의'.",
+  "senses": [
+   "1) (아름다움·감동이) 숭고한, 장엄한, 황홀한",
+   "2) 극치의, 더없이 훌륭한"
+  ],
+  "etym": "라틴어 sublimis(높이 솟은, sub-(~까지) + limen 문턱·상인방 추정) -> 'sublime'. '문지방 위 높이까지 치솟은 -> 숭고한'이 핵심. limen(문턱)은 subliminal(잠재의식의, 문턱 아래)·eliminate(문턱 밖으로 내보내다)의 뿌리.",
+  "deriv": "sub- + limen(문턱) -> 'sublime'. 한국 학습자 핵심: limen(문턱) 어근 — subliminal(역치 아래)·eliminate·sublime! 미학 핵심어: the sublime(숭고미)·sublime beauty(숭고한 아름다움). 화학 sublimate(승화하다)와도 연결. 유의어 magnificent·transcendent·glorious. 반대 ridiculous·mundane·dreadful. C2 예술·미학.",
+  "syn": [
+   "magnificent(장엄한)",
+   "transcendent(초월적인)",
+   "glorious(영광스러운)"
+  ],
+  "anti": [
+   "ridiculous(우스꽝스러운)",
+   "mundane(평범한)",
+   "dreadful(끔찍한)"
+  ],
+  "idiom": [
+   "from the sublime to the ridiculous(숭고함에서 우스꽝스러움으로)"
+  ],
+  "colloc": [
+   "sublime beauty(숭고한 아름다움)",
+   "sublime music(장엄한 음악)",
+   "the sublime(숭고미)"
+  ],
+  "ex_add": "The view from the summit was simply sublime.  (sublime=숭고한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5219",
+  "hw": "substantiate",
+  "pos": "v.",
+  "cefr": "C2",
+  "core": "아래에(sub) 실체(stare 서다)를 세우다 -> '입증하다·구체적 근거를 대다'.",
+  "senses": [
+   "1) (주장을 증거로) 입증하다, 뒷받침하다, 실증하다"
+  ],
+  "etym": "중세 라틴어 substantiare(실체화하다, substantia 실체, sub-(아래) + stare 서다) -> 'substantiate'. stare(서다)는 substance·stable·constant·obstinate(5138)의 거대 뿌리. '주장 밑에 실체(증거)를 받쳐 세우다'가 핵심.",
+  "deriv": "sub-(아래) + stare(서다) -> 'substantiate'. 한국 학습자 핵심: stare(서다) 거대 어근 — substance·stable·constant·substantiate! substantiate a claim(주장을 입증하다)·substantiate allegations(혐의를 입증하다). 유의어 verify·corroborate·confirm. 반대 refute(5191)·disprove·undermine. C2 논증·법.",
+  "syn": [
+   "verify(입증하다)",
+   "corroborate(뒷받침하다)",
+   "confirm(확증하다)"
+  ],
+  "anti": [
+   "refute(반박하다)",
+   "disprove(반증하다)",
+   "undermine(약화시키다)"
+  ],
+  "idiom": [
+   "substantiate a claim(주장을 입증하다)"
+  ],
+  "colloc": [
+   "substantiate a claim(주장을 입증하다)",
+   "substantiate allegations(혐의를 입증하다)",
+   "evidence to substantiate(입증할 증거)"
+  ],
+  "ex_add": "There is no evidence to substantiate his story.  (substantiate=입증하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5220",
+  "hw": "succinct",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "아래로(sub) 띠로 동여맨(cingere) -> '간결한·간명한'.",
+  "senses": [
+   "1) (표현이) 간결한, 간명한, 군더더기 없는"
+  ],
+  "etym": "라틴어 succinctus(허리를 동여맨, sub-(아래) + cingere 띠를 두르다)의 과거분사 -> '옷을 단정히 졸라매듯 말을 간추린' -> 'succinct'. cingere(두르다)는 cincture(띠)·precinct(경계)·shingles(대상포진)의 뿌리. '띠로 졸라매 군더더기를 없앤'이 핵심.",
+  "deriv": "sub- + cingere(띠 두르다) -> 'succinct'. 한국 학습자 핵심: cingere(두르다) 어근 — precinct·cincture·succinct! 간결 동의어군: terse(5xx)·concise·laconic(5114)·pithy. a succinct summary(간결한 요약). 유의어 concise·terse·pithy. 반대 verbose(5xx)·rambling·long-winded. C2 글쓰기.",
+  "syn": [
+   "concise(간결한)",
+   "terse(간명한)",
+   "pithy(함축적인)"
+  ],
+  "anti": [
+   "verbose(장황한)",
+   "rambling(두서없는)",
+   "long-winded(말이 많은)"
+  ],
+  "idiom": [
+   "a succinct summary(간결한 요약)"
+  ],
+  "colloc": [
+   "succinct summary(간결한 요약)",
+   "succinct explanation(간명한 설명)",
+   "clear and succinct(명료하고 간결한)"
+  ],
+  "ex_add": "Please give a succinct account of what happened.  (succinct=간결한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5221",
+  "hw": "superfluous",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "위로(super) 넘쳐흐르는(fluere) -> '불필요한·여분의'.",
+  "senses": [
+   "1) (필요 이상으로) 불필요한, 남아도는, 군더더기의"
+  ],
+  "etym": "라틴어 superfluus(넘쳐흐르는, super-(위로) + fluere 흐르다) -> 'superfluous'. fluere(흐르다)는 fluent·influence·fluid·flux의 거대 뿌리. '필요분 위로 흘러넘치는 -> 남는'이 핵심.",
+  "deriv": "super-(위로) + fluere(흐르다) -> 'superfluous'. 한국 학습자 핵심: fluere(흐르다) 거대 어근 — fluent·influence·fluid·superfluous! redundant(5190)와 동의어. superfluous detail(불필요한 세부)·superfluous words(군더더기 말). 유의어 redundant·unnecessary·excess. 반대 essential·necessary·vital. C2 글쓰기.",
+  "syn": [
+   "redundant(불필요한)",
+   "unnecessary(불필요한)",
+   "excess(여분의)"
+  ],
+  "anti": [
+   "essential(필수의)",
+   "necessary(필요한)",
+   "vital(긴요한)"
+  ],
+  "idiom": [
+   "superfluous to requirements(불필요한)"
+  ],
+  "colloc": [
+   "superfluous detail(불필요한 세부)",
+   "superfluous words(군더더기 말)",
+   "render superfluous(불필요하게 만들다)"
+  ],
+  "ex_add": "Remove any superfluous information from the report.  (superfluous=불필요한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5222",
+  "hw": "surreptitious",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "몰래(sub) 낚아챈(rapere) -> '은밀한·몰래 하는'.",
+  "senses": [
+   "1) (행동이) 은밀한, 몰래 하는, 슬그머니"
+  ],
+  "etym": "라틴어 surrepticius(몰래 한, surripere 슬쩍 훔치다, sub-(아래/몰래) + rapere 낚아채다)의 과거분사 -> 'surreptitious'. rapere(낚아채다)는 rapid·rapture·ravish·rapacious의 뿌리. '눈에 안 띄게 슬쩍 채 가는'이 핵심.",
+  "deriv": "sub-(몰래) + rapere(낚아채다) -> 'surreptitious'. 한국 학습자 핵심: rapere(낚아채다) 어근 — rapid·rapture·ravish·surreptitious! a surreptitious glance(몰래 흘끗 봄)·surreptitious meeting(은밀한 만남). 유의어 covert(5xx)·clandestine(5xx)·stealthy. 반대 open·overt·blatant(5xx). C2 서사·묘사.",
+  "syn": [
+   "covert(은밀한)",
+   "clandestine(비밀의)",
+   "stealthy(살금살금하는)"
+  ],
+  "anti": [
+   "open(공개적인)",
+   "overt(드러난)",
+   "blatant(노골적인)"
+  ],
+  "idiom": [
+   "a surreptitious glance(몰래 흘끗 봄)"
+  ],
+  "colloc": [
+   "surreptitious glance(몰래 흘끗 봄)",
+   "surreptitious meeting(은밀한 만남)",
+   "surreptitiously record(몰래 녹음하다)"
+  ],
+  "ex_add": "He took a surreptitious glance at his phone.  (surreptitious=은밀한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5223",
+  "hw": "tacit",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "말 없는(tacere) -> '암묵적인·무언의'.",
+  "senses": [
+   "1) (합의·이해가) 명시되지 않은, 암묵적인, 무언의"
+  ],
+  "etym": "라틴어 tacitus(말 없는, tacere 침묵하다)의 과거분사 -> 'tacit'. reticent(5200)·taciturn(5224)과 같은 tacere(침묵) 뿌리. '말로 안 했지만 통하는'이 핵심.",
+  "deriv": "라틴어 tacere(침묵하다) -> 'tacit'. 한국 학습자 핵심: tacere(침묵) 어근 — tacit·taciturn(5224)·reticent(5200)! tacit agreement(암묵적 합의)·tacit approval(묵인)·tacit knowledge(암묵지). 유의어 implicit·unspoken·implied. 반대 explicit·express·stated. C2 학술·법.",
+  "syn": [
+   "implicit(암시적인)",
+   "unspoken(말로 안 한)",
+   "implied(함축된)"
+  ],
+  "anti": [
+   "explicit(명시적인)",
+   "express(명백한)",
+   "stated(명시된)"
+  ],
+  "idiom": [
+   "tacit agreement(암묵적 합의)"
+  ],
+  "colloc": [
+   "tacit agreement(암묵적 합의)",
+   "tacit approval(묵인)",
+   "tacit understanding(무언의 양해)"
+  ],
+  "ex_add": "There was a tacit agreement not to mention it.  (tacit=암묵적인)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5224",
+  "hw": "taciturn",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "말이 없는(tacere) 기질의 -> '말수가 적은·과묵한'.",
+  "senses": [
+   "1) (천성적으로) 말수가 적은, 과묵한, 무뚝뚝한"
+  ],
+  "etym": "라틴어 taciturnus(말 없는, tacere 침묵하다) -> 'taciturn'. tacit(5223)·reticent(5200)과 같은 tacere(침묵) 뿌리. '본래 말을 잘 안 하는 성격의'가 핵심.",
+  "deriv": "라틴어 tacere(침묵하다) -> 'taciturn'. 한국 학습자 핵심: tacere(침묵) 어근 — tacit(5223)·taciturn·reticent(5200)! reticent(특정 사안에 말 아낌)와 달리 taciturn=천성이 과묵. a taciturn man(과묵한 남자). 유의어 reticent·reserved·uncommunicative. 반대 talkative·loquacious(5121)·garrulous. C2 인물 묘사.",
+  "syn": [
+   "reticent(말 아끼는)",
+   "reserved(말이 없는)",
+   "uncommunicative(말수 적은)"
+  ],
+  "anti": [
+   "talkative(수다스러운)",
+   "loquacious(말 많은)",
+   "garrulous(잔말 많은)"
+  ],
+  "idiom": [
+   "a taciturn nature(과묵한 성격)"
+  ],
+  "colloc": [
+   "taciturn man(과묵한 남자)",
+   "taciturn nature(과묵한 천성)",
+   "naturally taciturn(천성이 과묵한)"
+  ],
+  "ex_add": "Her father was a taciturn, serious man.  (taciturn=과묵한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5225",
+  "hw": "tangible",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "만질(tangere) 수 있는 -> '만질 수 있는·실재하는·구체적인'.",
+  "senses": [
+   "1) 만질 수 있는, 유형의",
+   "2) (성과·증거가) 구체적인, 실질적인"
+  ],
+  "etym": "라틴어 tangere(만지다) + -ibilis -> tangibilis -> 'tangible'. tangere(만지다)는 contact·contagious·tangent·intact·tactile의 거대 뿌리. '손에 잡히는 -> 실체가 분명한'이 핵심.",
+  "deriv": "라틴어 tangere(만지다) -> 'tangible'. 한국 학습자 핵심: tangere(만지다) 거대 어근 — contact·contagious·tangent·intact·tangible! tangible benefits(실질적 이익)·tangible evidence(구체적 증거)·tangible assets(유형 자산). 유의어 concrete·palpable(5149)·real. 반대 intangible·abstract·imperceptible. C2 경제·논설.",
+  "syn": [
+   "concrete(구체적인)",
+   "palpable(손에 잡히는)",
+   "real(실재하는)"
+  ],
+  "anti": [
+   "intangible(무형의)",
+   "abstract(추상적인)",
+   "imperceptible(감지 못 할)"
+  ],
+  "idiom": [
+   "tangible results(구체적 성과)"
+  ],
+  "colloc": [
+   "tangible benefits(실질적 이익)",
+   "tangible evidence(구체적 증거)",
+   "tangible assets(유형 자산)"
+  ],
+  "ex_add": "The project produced tangible results.  (tangible=구체적인)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5226",
+  "hw": "tantamount",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "같은 만큼(tanto) 올라선(amount) -> '~과 다름없는·맞먹는'.",
+  "senses": [
+   "1) (효과·의미가) ~과 마찬가지인, ~과 다름없는"
+  ],
+  "etym": "이탈리아어 tanto montare(같은 값에 이르다, tanto 그만큼 + montare 오르다, 라틴 mons 산) -> 'tantamount'. paramount(5153)와 같은 mons(산)에서 온 montare(오르다) 뿌리. '같은 높이에 이른 -> 사실상 같은'이 핵심.",
+  "deriv": "tanto(그만큼) + montare(오르다, mons 산) -> 'tantamount'. 한국 학습자 핵심: 'tantamount to + 명사/동명사' 고정 — be tantamount to treason(반역이나 마찬가지다). amount to와 의미 통함. 유의어 equivalent·comparable·akin. 반대 different·dissimilar·unequal. C2 격식·법.",
+  "syn": [
+   "equivalent(동등한)",
+   "comparable(맞먹는)",
+   "akin(유사한)"
+  ],
+  "anti": [
+   "different(다른)",
+   "dissimilar(같지 않은)",
+   "unequal(동등하지 않은)"
+  ],
+  "idiom": [
+   "tantamount to(~과 다름없는)"
+  ],
+  "colloc": [
+   "tantamount to surrender(항복이나 다름없는)",
+   "tantamount to an admission(시인이나 마찬가지인)",
+   "be tantamount to(~과 다름없다)"
+  ],
+  "ex_add": "His silence was tantamount to an admission of guilt.  (tantamount=다름없는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5227",
+  "hw": "tarnish",
+  "pos": "v., n.",
+  "cefr": "C2",
+  "core": "빛을 흐리게 하다(ternir) -> '(금속을) 변색시키다·(명예를) 더럽히다'.",
+  "senses": [
+   "1) (금속이) 변색되다, 흐려지다",
+   "2) (명성을) 더럽히다, 손상시키다"
+  ],
+  "etym": "고대 프랑스어 ternir(흐리게 하다·광택을 잃게 하다)에서 -> 'tarnish'. '윤기가 가셔 거무튀튀해지다 -> 평판이 흐려지다'가 핵심.",
+  "deriv": "고대 프랑스어 ternir(흐리게 하다) -> 'tarnish'. 한국 학습자 핵심: 물리적·비유적 둘 다 — ① 은이 변색되다(silver tarnishes) ② 평판을 더럽히다(tarnish one's reputation)! 명사로도 쓰임(녹·오점). 유의어 sully·taint·stain. 반대 polish·enhance·burnish. C2 명예·비유.",
+  "syn": [
+   "sully(더럽히다)",
+   "taint(오염시키다)",
+   "stain(얼룩지게 하다)"
+  ],
+  "anti": [
+   "polish(닦다)",
+   "enhance(높이다)",
+   "burnish(광내다)"
+  ],
+  "idiom": [
+   "tarnish a reputation(명성을 더럽히다)"
+  ],
+  "colloc": [
+   "tarnish a reputation(명성을 더럽히다)",
+   "tarnish the image(이미지를 손상시키다)",
+   "silver tarnishes(은이 변색되다)"
+  ],
+  "ex_add": "The scandal tarnished his reputation.  (tarnish=더럽히다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5228",
+  "hw": "tenacious",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "꽉 붙드는(tenere) -> '끈질긴·집요한·잘 붙어 있는'.",
+  "senses": [
+   "1) (사람이) 끈질긴, 집요한, 완강한",
+   "2) (기억·물체가) 잘 안 떨어지는, 끈덕진"
+  ],
+  "etym": "라틴어 tenax(꽉 붙드는, tenere 붙잡다·유지하다) -> 'tenacious'. tenere(붙잡다)는 tenant·tenure·retain·sustain·contain·tenable(5xx)의 거대 뿌리. '놓지 않고 꽉 붙드는'이 핵심.",
+  "deriv": "라틴어 tenere(붙잡다) -> 'tenacious'. 한국 학습자 핵심: tenere(붙잡다) 거대 어근 — tenant·retain·sustain·contain·tenacious·tenable! 명사 tenacity(끈기). a tenacious fighter(끈질긴 투사)·tenacious grip(꽉 쥔 손). 유의어 persistent·dogged·determined. 반대 yielding·irresolute·weak. C2 인물 평가.",
+  "syn": [
+   "persistent(끈질긴)",
+   "dogged(완강한)",
+   "determined(단호한)"
+  ],
+  "anti": [
+   "yielding(잘 양보하는)",
+   "irresolute(우유부단한)",
+   "weak(약한)"
+  ],
+  "idiom": [
+   "a tenacious grip(꽉 쥔 손)"
+  ],
+  "colloc": [
+   "tenacious fighter(끈질긴 투사)",
+   "tenacious grip(꽉 쥔 손)",
+   "tenacious pursuit(집요한 추구)"
+  ],
+  "ex_add": "Her tenacious spirit helped her succeed.  (tenacious=끈질긴)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5229",
+  "hw": "tenuous",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "가늘게(tenuis) 늘어난 -> '미약한·박약한·가느다란'.",
+  "senses": [
+   "1) (근거·연결이) 미약한, 박약한, 빈약한",
+   "2) 가느다란, 희박한"
+  ],
+  "etym": "라틴어 tenuis(가는·얇은) -> 'tenuous'. tenuis는 tenere(붙잡다)와 동원으로 '팽팽히 당겨 가늘어진' 어감. attenuate(약화시키다)와 같은 뿌리. '실처럼 가늘어 끊어질 듯한'이 핵심.",
+  "deriv": "라틴어 tenuis(가는) -> 'tenuous'. 한국 학습자 핵심: attenuate(가늘게 하다·약화)와 한 뿌리! 비유 빈출: a tenuous connection(미약한 연관)·tenuous grasp(어설픈 이해)·tenuous link(빈약한 고리). 유의어 weak·flimsy·slight. 반대 strong·solid·substantial. C2 논증.",
+  "syn": [
+   "weak(미약한)",
+   "flimsy(빈약한)",
+   "slight(희박한)"
+  ],
+  "anti": [
+   "strong(강한)",
+   "solid(탄탄한)",
+   "substantial(상당한)"
+  ],
+  "idiom": [
+   "a tenuous link(미약한 연결)"
+  ],
+  "colloc": [
+   "tenuous connection(미약한 연관)",
+   "tenuous grasp(어설픈 이해)",
+   "tenuous link(빈약한 고리)"
+  ],
+  "ex_add": "The evidence for this claim is tenuous.  (tenuous=미약한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5230",
+  "hw": "terse",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "매끈하게 닦인(tergere) -> '간결한·(퉁명스럽게) 짤막한'.",
+  "senses": [
+   "1) (표현이) 간결한, 군더더기 없는",
+   "2) (말투가) 퉁명스럽게 짧은, 무뚝뚝한"
+  ],
+  "etym": "라틴어 tersus(닦인·깔끔한, tergere 닦다·문지르다)의 과거분사 -> '문질러 군더더기를 없앤 -> 간결한' -> 'terse'. '쓸데없는 걸 닦아 낸 깔끔함'이 핵심.",
+  "deriv": "라틴어 tergere(닦다) -> 'terse'. 한국 학습자 핵심: 간결 동의어군 — succinct(5220)·concise·laconic(5114)·pithy·terse! 단, terse는 '퉁명스러운' 부정 뉘앙스 가능. a terse reply(퉁명스러운 짧은 답). 유의어 curt·brusque·concise. 반대 verbose(5xx)·long-winded·effusive. C2 문체·태도.",
+  "syn": [
+   "curt(퉁명스러운)",
+   "brusque(무뚝뚝한)",
+   "concise(간결한)"
+  ],
+  "anti": [
+   "verbose(장황한)",
+   "long-winded(말이 많은)",
+   "effusive(과장된)"
+  ],
+  "idiom": [
+   "a terse reply(퉁명스러운 짧은 답)"
+  ],
+  "colloc": [
+   "terse reply(퉁명스러운 답)",
+   "terse statement(짤막한 성명)",
+   "terse note(짤막한 메모)"
+  ],
+  "ex_add": "She sent a terse reply: \"No.\"  (terse=짤막한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5231",
+  "hw": "tranquil",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "완전히(tran-) 고요한(quies) -> '고요한·평온한'.",
+  "senses": [
+   "1) (장소·물이) 고요한, 잔잔한",
+   "2) (마음이) 평온한, 차분한"
+  ],
+  "etym": "라틴어 tranquillus(고요한, trans-(완전히) + quies 휴식·고요 추정) -> 'tranquil'. quies(고요)는 quiet·quit·acquiesce·requiem의 뿌리. '완전히 가라앉아 잔잔한'이 핵심.",
+  "deriv": "trans-(완전히) + quies(고요) -> 'tranquil'. 한국 학습자 핵심: quies(고요·휴식) 어근 — quiet·quit·acquiesce·requiem·tranquil! 명사 tranquility(고요), 동사 tranquilize(진정시키다). a tranquil lake(잔잔한 호수)·tranquil setting(평온한 환경). 유의어 serene(5208)·peaceful·placid. 반대 turbulent·agitated·chaotic. C2 묘사.",
+  "syn": [
+   "serene(고요한)",
+   "peaceful(평화로운)",
+   "placid(잔잔한)"
+  ],
+  "anti": [
+   "turbulent(요동치는)",
+   "agitated(동요한)",
+   "chaotic(혼란스러운)"
+  ],
+  "idiom": [
+   "a tranquil setting(평온한 환경)"
+  ],
+  "colloc": [
+   "tranquil lake(잔잔한 호수)",
+   "tranquil setting(평온한 환경)",
+   "tranquil atmosphere(고요한 분위기)"
+  ],
+  "ex_add": "We spent the day by a tranquil lake.  (tranquil=고요한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5232",
+  "hw": "transient",
+  "pos": "adj., n.",
+  "cefr": "C2",
+  "core": "가로질러(trans) 지나가(ire) 버리는 -> '일시적인·잠깐 머무는 / 뜨내기'.",
+  "senses": [
+   "1) (adj.) 일시적인, 덧없는, 잠깐 머무는",
+   "2) (n.) 뜨내기, 단기 체류자"
+  ],
+  "etym": "라틴어 transire(건너가다, trans-(가로질러) + ire 가다)의 현재분사 transiens -> 'transient'. ire(가다)는 transit·exit·initiate·ambition의 뿌리. '스쳐 지나가 버리는'이 핵심.",
+  "deriv": "trans-(가로질러) + ire(가다) -> 'transient'. 한국 학습자 핵심: ire(가다) 어근 — transit·exit·initiate·transient! ephemeral(덧없는)·transitory와 동의어. transient population(유동 인구)·transient symptoms(일시적 증상). 유의어 ephemeral·fleeting·temporary. 반대 permanent·lasting·enduring. C2 묘사·인구.",
+  "syn": [
+   "ephemeral(덧없는)",
+   "fleeting(순식간의)",
+   "temporary(일시적인)"
+  ],
+  "anti": [
+   "permanent(영구적인)",
+   "lasting(지속되는)",
+   "enduring(오래가는)"
+  ],
+  "idiom": [
+   "transient nature(덧없는 본질)"
+  ],
+  "colloc": [
+   "transient population(유동 인구)",
+   "transient symptoms(일시적 증상)",
+   "transient nature(덧없음)"
+  ],
+  "ex_add": "Fame can be transient and fleeting.  (transient=일시적인)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5233",
+  "hw": "truncate",
+  "pos": "v.",
+  "cefr": "C2",
+  "core": "줄기(truncus)를 자르다 -> '끝을 잘라내다·짧게 줄이다'.",
+  "senses": [
+   "1) (윗부분·끝을) 잘라 내다, 짧게 줄이다",
+   "2) (데이터·텍스트를) 절단하다"
+  ],
+  "etym": "라틴어 truncare(자르다, truncus 나무 줄기·몸통)의 과거분사 truncatus -> 'truncate'. truncus(몸통)는 trunk(나무 줄기·코끼리 코)·trench(도랑)의 뿌리. '줄기를 싹둑 잘라 토막 내다'가 핵심.",
+  "deriv": "라틴어 truncus(줄기·몸통) -> 'truncate'. 한국 학습자 핵심: trunk(나무 줄기)와 한 뿌리! a truncated version(축약본)·truncate the discussion(논의를 줄이다). IT에서 데이터 절단 의미로도. 유의어 shorten·abbreviate·curtail. 반대 extend·lengthen·prolong. C2 학술·IT.",
+  "syn": [
+   "shorten(줄이다)",
+   "abbreviate(축약하다)",
+   "curtail(단축하다)"
+  ],
+  "anti": [
+   "extend(연장하다)",
+   "lengthen(늘이다)",
+   "prolong(연장하다)"
+  ],
+  "idiom": [
+   "a truncated version(축약본)"
+  ],
+  "colloc": [
+   "truncated version(축약본)",
+   "truncate the text(텍스트를 자르다)",
+   "truncated form(잘린 형태)"
+  ],
+  "ex_add": "The article was truncated to fit the page.  (truncate=짧게 줄이다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5234",
+  "hw": "turmoil",
+  "pos": "n.",
+  "cefr": "C2",
+  "core": "뒤죽박죽 휘저어진 상태 -> '혼란·소란·동요'.",
+  "senses": [
+   "1) (큰) 혼란, 소란, 격동",
+   "2) (마음의) 동요, 심란함"
+  ],
+  "etym": "16세기 영어 turmoil(소란)에서 유래(정확한 어원 불확실, 라틴 tumultus 혼란과의 연관 추정). '한데 뒤섞여 들끓는 상태'가 핵심. (어원 불확실하므로 단정하지 않음.)",
+  "deriv": "기원 불확실(16세기 영어) -> 'turmoil'. 한국 학습자 핵심: 사회적·내면적 둘 다 — political turmoil(정치적 혼란)·emotional turmoil(마음의 동요)·in turmoil(혼란에 빠진). 유의어 chaos·upheaval·tumult. 반대 calm·order·tranquility. C2 시사·심리.",
+  "syn": [
+   "chaos(혼돈)",
+   "upheaval(대변동)",
+   "tumult(소란)"
+  ],
+  "anti": [
+   "calm(평온)",
+   "order(질서)",
+   "tranquility(고요)"
+  ],
+  "idiom": [
+   "in turmoil(혼란에 빠진)"
+  ],
+  "colloc": [
+   "political turmoil(정치적 혼란)",
+   "emotional turmoil(마음의 동요)",
+   "economic turmoil(경제 혼란)"
+  ],
+  "ex_add": "The country was in political turmoil.  (turmoil=혼란)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5235",
+  "hw": "ubiquitous",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "어디에나(ubique) 있는 -> '어디에나 있는·아주 흔한'.",
+  "senses": [
+   "1) 어디에나 있는, 도처에 존재하는, 아주 흔한"
+  ],
+  "etym": "라틴어 ubique(어디에나, ubi 어디 + -que 모든) + -ous -> 'ubiquitous'. ubi(어디)는 ubiquity(편재)의 뿌리. 원래 신의 '편재(omnipresence)'를 뜻하던 신학어에서 일상어로 확장. '동시에 모든 곳에 있는'이 핵심.",
+  "deriv": "라틴어 ubique(어디에나) -> 'ubiquitous'. 한국 학습자 핵심: ubi(어디) 어근 — ubiquity·ubiquitous! 명사 ubiquity. ubiquitous smartphones(어디에나 있는 스마트폰)·become ubiquitous(아주 흔해지다). 유의어 omnipresent·pervasive(5159)·universal. 반대 rare·scarce·uncommon. C2 시사·기술.",
+  "syn": [
+   "omnipresent(편재하는)",
+   "pervasive(만연한)",
+   "universal(보편적인)"
+  ],
+  "anti": [
+   "rare(드문)",
+   "scarce(희박한)",
+   "uncommon(흔치 않은)"
+  ],
+  "idiom": [
+   "become ubiquitous(아주 흔해지다)"
+  ],
+  "colloc": [
+   "ubiquitous smartphones(어디에나 있는 스마트폰)",
+   "become ubiquitous(아주 흔해지다)",
+   "ubiquitous presence(어디에나 있음)"
+  ],
+  "ex_add": "Mobile phones are now ubiquitous.  (ubiquitous=어디에나 있는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5236",
+  "hw": "unassuming",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "잘난 체하지(assume) 않는(un) -> '겸손한·잘난 체 않는'.",
+  "senses": [
+   "1) (사람이) 겸손한, 잘난 체하지 않는, 수수한"
+  ],
+  "etym": "영어 un-(부정) + assuming(주제넘은, assume 떠맡다·추정하다, 라틴 assumere = ad-(향해) + sumere 취하다) -> 'unassuming'. sumere(취하다)는 consume·resume·presume의 뿌리. '자기 몫 이상을 취하려 들지 않는 -> 겸손한'이 핵심.",
+  "deriv": "un-(부정) + assume(주제넘게 굴다) -> 'unassuming'. 한국 학습자 핵심: sumere(취하다) 어근 — consume·resume·presume·assume·unassuming! ostentatious(5146)의 반대 짝. an unassuming manner(겸손한 태도). 유의어 modest·humble·self-effacing. 반대 arrogant·pretentious·ostentatious. C2 인물 칭찬.",
+  "syn": [
+   "modest(겸손한)",
+   "humble(겸허한)",
+   "self-effacing(나서지 않는)"
+  ],
+  "anti": [
+   "arrogant(오만한)",
+   "pretentious(허세 부리는)",
+   "ostentatious(과시하는)"
+  ],
+  "idiom": [
+   "an unassuming manner(겸손한 태도)"
+  ],
+  "colloc": [
+   "unassuming manner(겸손한 태도)",
+   "quiet and unassuming(조용하고 겸손한)",
+   "unassuming character(수수한 성격)"
+  ],
+  "ex_add": "Despite his fame, he remained quiet and unassuming.  (unassuming=겸손한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5237",
+  "hw": "unbridled",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "고삐(bridle)를 풀어 놓은(un) -> '억제되지 않은·고삐 풀린'.",
+  "senses": [
+   "1) (감정·욕망이) 억제되지 않은, 거침없는, 고삐 풀린"
+  ],
+  "etym": "영어 un-(부정) + bridle(고삐·재갈을 물리다) + -ed -> 'unbridled'. bridle은 말의 머리에 씌우는 굴레로, '고삐를 벗겨 통제 불능이 된'이 핵심.",
+  "deriv": "un-(부정) + bridle(고삐) -> 'unbridled'. 한국 학습자 핵심: 말(馬) 비유 — 고삐 풀린 말처럼 통제 불능! unbridled enthusiasm(거침없는 열정)·unbridled greed(끝없는 탐욕)·unbridled power(견제 없는 권력). 유의어 unrestrained·uncontrolled·rampant. 반대 restrained·controlled·checked. C2 묘사·논설.",
+  "syn": [
+   "unrestrained(억제 안 된)",
+   "uncontrolled(통제 안 된)",
+   "rampant(만연한)"
+  ],
+  "anti": [
+   "restrained(억제된)",
+   "controlled(통제된)",
+   "checked(견제된)"
+  ],
+  "idiom": [
+   "unbridled enthusiasm(거침없는 열정)"
+  ],
+  "colloc": [
+   "unbridled enthusiasm(거침없는 열정)",
+   "unbridled greed(끝없는 탐욕)",
+   "unbridled power(견제 없는 권력)"
+  ],
+  "ex_add": "The news was met with unbridled joy.  (unbridled=억제되지 않은)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5238",
+  "hw": "unequivocal",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "여러(equi) 목소리(voc)로 안(un) 들리는 -> '명백한·분명한·모호하지 않은'.",
+  "senses": [
+   "1) (태도·답이) 명백한, 분명한, 모호하지 않은, 단호한"
+  ],
+  "etym": "영어 un-(부정) + equivocal(두 가지로 들리는, 라틴 aequus 같은 + vox 목소리) -> 'unequivocal'. vox(목소리)는 voice·vocal·equivocate(얼버무리다)의 뿌리. '여러 뜻으로 안 들리는 -> 딱 한 뜻으로 분명한'이 핵심.",
+  "deriv": "un- + aequus(같은) + vox(목소리) -> 'unequivocal'. 한국 학습자 핵심: vox(목소리) 어근 — voice·vocal·equivocate·unequivocal! equivocal(애매한)의 반대. an unequivocal answer(분명한 답)·unequivocal support(전폭적 지지). 부사 unequivocally. 유의어 unambiguous·categorical·clear. 반대 ambiguous·equivocal·vague. C2 논설.",
+  "syn": [
+   "unambiguous(모호하지 않은)",
+   "categorical(단정적인)",
+   "clear(분명한)"
+  ],
+  "anti": [
+   "ambiguous(애매한)",
+   "equivocal(모호한)",
+   "vague(막연한)"
+  ],
+  "idiom": [
+   "an unequivocal answer(분명한 답)"
+  ],
+  "colloc": [
+   "unequivocal answer(분명한 답)",
+   "unequivocal support(전폭적 지지)",
+   "unequivocally clear(명백히 분명한)"
+  ],
+  "ex_add": "The committee gave its unequivocal support.  (unequivocal=명백한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5239",
+  "hw": "unfettered",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "족쇄(fetter)를 푼(un) -> '구속받지 않는·자유로운'.",
+  "senses": [
+   "1) (제약 없이) 구속받지 않는, 자유로운"
+  ],
+  "etym": "영어 un-(부정) + fetter(발에 채우는 족쇄·차꼬) + -ed -> 'unfettered'. fetter는 foot(발)과 같은 게르만 뿌리(*ped-)로 '발에 채운 사슬'. '족쇄를 벗어 자유로운'이 핵심.",
+  "deriv": "un-(부정) + fetter(족쇄, 발 *ped-) -> 'unfettered'. 한국 학습자 핵심: foot/ped-(발) 어근 — fetter·unfettered! unbridled(5237)와 유사. unfettered access(제약 없는 접근)·unfettered freedom(완전한 자유)·unfettered capitalism(규제 없는 자본주의). 유의어 unrestrained·unrestricted·free. 반대 restricted·constrained·shackled. C2 정치·경제.",
+  "syn": [
+   "unrestrained(억제 안 된)",
+   "unrestricted(제한 없는)",
+   "free(자유로운)"
+  ],
+  "anti": [
+   "restricted(제한된)",
+   "constrained(제약된)",
+   "shackled(속박된)"
+  ],
+  "idiom": [
+   "unfettered access(제약 없는 접근)"
+  ],
+  "colloc": [
+   "unfettered access(제약 없는 접근)",
+   "unfettered freedom(완전한 자유)",
+   "unfettered markets(규제 없는 시장)"
+  ],
+  "ex_add": "The press should have unfettered freedom.  (unfettered=구속받지 않는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5240",
+  "hw": "unkempt",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "빗질되지(kempt) 않은(un) -> '단정치 못한·헝클어진'.",
+  "senses": [
+   "1) (머리·차림이) 헝클어진, 단정치 못한, 부스스한",
+   "2) (정원 등이) 손질 안 된"
+  ],
+  "etym": "영어 un-(부정) + kempt(빗질된, 고대 영어 cemban 빗질하다, comb 빗과 동원)의 과거분사 -> 'unkempt'. comb(빗)과 같은 뿌리. '빗질·손질을 안 해 부스스한'이 핵심.",
+  "deriv": "un-(부정) + kempt(빗질된, comb 빗) -> 'unkempt'. 한국 학습자 핵심: comb(빗)과 한 뿌리 — kempt(빗질된)는 거의 unkempt로만 쓰임! unkempt hair(헝클어진 머리)·unkempt appearance(단정치 못한 외모)·unkempt garden(손질 안 된 정원). 유의어 disheveled·untidy·scruffy. 반대 tidy·neat·groomed. C2 묘사.",
+  "syn": [
+   "disheveled(헝클어진)",
+   "untidy(단정치 못한)",
+   "scruffy(꾀죄죄한)"
+  ],
+  "anti": [
+   "tidy(단정한)",
+   "neat(말끔한)",
+   "groomed(잘 손질된)"
+  ],
+  "idiom": [
+   "unkempt appearance(단정치 못한 외모)"
+  ],
+  "colloc": [
+   "unkempt hair(헝클어진 머리)",
+   "unkempt appearance(단정치 못한 외모)",
+   "unkempt garden(손질 안 된 정원)"
+  ],
+  "ex_add": "He looked tired, with unkempt hair.  (unkempt=헝클어진)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5241",
+  "hw": "unscrupulous",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "양심의 가책(scruple)이 없는(un) -> '파렴치한·부도덕한'.",
+  "senses": [
+   "1) (이익을 위해) 양심 없는, 파렴치한, 수단을 안 가리는"
+  ],
+  "etym": "영어 un-(부정) + scrupulous(5205, 양심적인, 라틴 scrupulus 작은 돌·가책) -> 'unscrupulous'. scrupulous(5205)의 직접 반대어. '마음에 걸리는 게 없어 무슨 짓이든 하는'이 핵심.",
+  "deriv": "un-(부정) + scrupulous(5205) -> 'unscrupulous'. 한국 학습자 핵심: 5205 scrupulous(양심적)의 정반대! unscrupulous dealer(파렴치한 업자)·unscrupulous methods(수단을 안 가리는 방법). 유의어 dishonest·unethical·ruthless. 반대 scrupulous·honest·ethical. C2 윤리·시사.",
+  "syn": [
+   "dishonest(부정직한)",
+   "unethical(비윤리적인)",
+   "ruthless(무자비한)"
+  ],
+  "anti": [
+   "scrupulous(양심적인)",
+   "honest(정직한)",
+   "ethical(윤리적인)"
+  ],
+  "idiom": [
+   "unscrupulous methods(수단을 안 가리는 방법)"
+  ],
+  "colloc": [
+   "unscrupulous dealer(파렴치한 업자)",
+   "unscrupulous methods(부도덕한 수법)",
+   "unscrupulous landlords(악덕 집주인)"
+  ],
+  "ex_add": "Unscrupulous traders cheated elderly customers.  (unscrupulous=파렴치한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5242",
+  "hw": "untenable",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "붙들고(tenere) 있을 수 없는(un) -> '옹호할 수 없는·버틸 수 없는'.",
+  "senses": [
+   "1) (입장·주장이) 옹호할 수 없는, 지지받기 힘든",
+   "2) (상황이) 견딜 수 없는, 버틸 수 없는"
+  ],
+  "etym": "영어 un-(부정) + tenable(지킬 수 있는, 라틴 tenere 붙잡다·지키다) -> 'untenable'. tenacious(5228)와 같은 tenere(붙잡다) 뿌리. '더는 붙들고 지킬 수 없는'이 핵심.",
+  "deriv": "un-(부정) + tenere(붙잡다·지키다) -> 'untenable'. 한국 학습자 핵심: tenere(붙잡다) 거대 어근 — retain·sustain·tenacious(5228)·tenable·untenable! an untenable position(옹호할 수 없는 입장)·become untenable(버틸 수 없게 되다). 유의어 indefensible·unsustainable·insupportable. 반대 tenable·defensible·sustainable. C2 논증.",
+  "syn": [
+   "indefensible(옹호 못 할)",
+   "unsustainable(지속 불가능한)",
+   "insupportable(견딜 수 없는)"
+  ],
+  "anti": [
+   "tenable(지킬 수 있는)",
+   "defensible(옹호 가능한)",
+   "sustainable(지속 가능한)"
+  ],
+  "idiom": [
+   "an untenable position(옹호할 수 없는 입장)"
+  ],
+  "colloc": [
+   "untenable position(옹호 못 할 입장)",
+   "become untenable(버틸 수 없게 되다)",
+   "untenable situation(견딜 수 없는 상황)"
+  ],
+  "ex_add": "His argument soon became untenable.  (untenable=옹호할 수 없는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5243",
+  "hw": "vehement",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "마음(mens)을 앗아갈(vehe-) 만큼 격한 -> '격렬한·맹렬한'.",
+  "senses": [
+   "1) (감정·표현이) 격렬한, 맹렬한, 열렬한"
+  ],
+  "etym": "라틴어 vehemens(격렬한). vehere(나르다·휩쓸어 가다) + mens(마음) 결합으로 보는 민간 어원이 있으나, 실제로는 단일어로 추정 -> 'vehement'. '마음이 휩쓸릴 만큼 거센'이 핵심으로 의미가 굳음.",
+  "deriv": "라틴어 vehemens(격렬한) -> 'vehement'. 한국 학습자 핵심: 주로 반대·부인과 결합 — vehement denial(맹렬한 부인)·vehement opposition(격렬한 반대)! 부사 vehemently(맹렬히): vehemently deny. 유의어 fervent·intense·forceful. 반대 mild·apathetic·indifferent. C2 논쟁.",
+  "syn": [
+   "fervent(열렬한)",
+   "intense(격렬한)",
+   "forceful(강력한)"
+  ],
+  "anti": [
+   "mild(온건한)",
+   "apathetic(무관심한)",
+   "indifferent(무덤덤한)"
+  ],
+  "idiom": [
+   "vehement denial(맹렬한 부인)"
+  ],
+  "colloc": [
+   "vehement opposition(격렬한 반대)",
+   "vehement denial(맹렬한 부인)",
+   "vehemently deny(맹렬히 부인하다)"
+  ],
+  "ex_add": "She was vehement in her opposition to the plan.  (vehement=격렬한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5244",
+  "hw": "venerable",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "공경(venerari)받을 만한 -> '존경할 만한·유서 깊은'.",
+  "senses": [
+   "1) (나이·지위로) 존경할 만한, 덕망 높은",
+   "2) (기관·건물이) 유서 깊은, 오래되어 귀한"
+  ],
+  "etym": "라틴어 venerari(공경하다, Venus 사랑·매력의 여신과 동원, 어근 *wen- 욕망하다·사랑하다) + -abilis -> venerabilis -> 'venerable'. *wen-(욕망)은 Venus·venerate·venom(원래 '미약')과 연결. '우러러 받들 만한'이 핵심.",
+  "deriv": "라틴어 venerari(공경하다) -> 'venerable'. 한국 학습자 핵심: Venus(비너스)와 한 뿌리(*wen- 욕망·사랑)! 동사 venerate(숭배하다), 명사 veneration. a venerable institution(유서 깊은 기관)·venerable old man(덕망 높은 노인). 유의어 respected·esteemed·revered. 반대 disreputable·contemptible. C2 격식.",
+  "syn": [
+   "respected(존경받는)",
+   "esteemed(존경받는)",
+   "revered(숭배받는)"
+  ],
+  "anti": [
+   "disreputable(평판 나쁜)",
+   "contemptible(경멸할)",
+   "upstart(벼락출세한)"
+  ],
+  "idiom": [
+   "a venerable institution(유서 깊은 기관)"
+  ],
+  "colloc": [
+   "venerable institution(유서 깊은 기관)",
+   "venerable tradition(유서 깊은 전통)",
+   "venerable old man(덕망 높은 노인)"
+  ],
+  "ex_add": "He is a venerable figure in the art world.  (venerable=존경할 만한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5245",
+  "hw": "veracity",
+  "pos": "n.",
+  "cefr": "C2",
+  "core": "진실함(verus) -> '진실성·정확성'.",
+  "senses": [
+   "1) (진술의) 진실성, 정확성",
+   "2) (사람의) 정직함"
+  ],
+  "etym": "라틴어 verax(진실을 말하는, verus 참된) + -itas -> veracitas -> 'veracity'. verus(참)는 very(원래 '진실로')·verify·verdict·aver의 뿌리. '거짓 없이 참된 정도'가 핵심.",
+  "deriv": "라틴어 verus(참된) -> 'veracity'. 한국 학습자 핵심: verus(참) 어근 — very·verify·verdict·aver·veracity! 형용사 veracious(진실한, voracious 게걸스러운과 철자 혼동 주의!). question the veracity(진위를 의심하다). 유의어 truthfulness·accuracy·honesty. 반대 falsehood·mendacity·dishonesty. C2 법·논설.",
+  "syn": [
+   "truthfulness(진실성)",
+   "accuracy(정확성)",
+   "honesty(정직)"
+  ],
+  "anti": [
+   "falsehood(거짓)",
+   "mendacity(허위)",
+   "dishonesty(부정직)"
+  ],
+  "idiom": [
+   "question the veracity(진위를 의심하다)"
+  ],
+  "colloc": [
+   "question the veracity(진위를 의심하다)",
+   "veracity of the claim(주장의 진실성)",
+   "doubt its veracity(그 진위를 의심하다)"
+  ],
+  "ex_add": "They questioned the veracity of his account.  (veracity=진실성)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5246",
+  "hw": "verbose",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "말(verbum)이 많은 -> '장황한·말이 많은'.",
+  "senses": [
+   "1) (글·말이) 장황한, 말이 너무 많은, 군더더기가 많은"
+  ],
+  "etym": "라틴어 verbosus(말 많은, verbum 말·단어) -> 'verbose'. verbum(말)은 verb(동사)·verbal·proverb·verbatim(말 그대로)의 뿌리. '단어를 필요 이상으로 늘어놓는'이 핵심.",
+  "deriv": "라틴어 verbum(말·단어) -> 'verbose'. 한국 학습자 핵심: verbum(말) 어근 — verb·verbal·proverb·verbatim·verbose! 명사 verbosity. 간결(succinct 5220·terse 5230·laconic 5114)의 반대. a verbose report(장황한 보고서). 유의어 wordy·long-winded·rambling. 반대 concise·succinct·terse. C2 글쓰기.",
+  "syn": [
+   "wordy(말이 많은)",
+   "long-winded(장황한)",
+   "rambling(두서없는)"
+  ],
+  "anti": [
+   "concise(간결한)",
+   "succinct(간명한)",
+   "terse(간결한)"
+  ],
+  "idiom": [
+   "a verbose style(장황한 문체)"
+  ],
+  "colloc": [
+   "verbose report(장황한 보고서)",
+   "verbose style(장황한 문체)",
+   "overly verbose(지나치게 장황한)"
+  ],
+  "ex_add": "His writing is dense and verbose.  (verbose=장황한)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5247",
+  "hw": "vex",
+  "pos": "v.",
+  "cefr": "C2",
+  "core": "흔들어(vexare) 괴롭히다 -> '짜증나게 하다·괴롭히다'.",
+  "senses": [
+   "1) 짜증나게 하다, 성가시게 하다",
+   "2) (문제가) 골치 아프게 하다"
+  ],
+  "etym": "라틴어 vexare(흔들다·괴롭히다, vehere 나르다·휘젓다와 연관) -> 'vex'. '계속 흔들어 대 거슬리게 하다'가 핵심.",
+  "deriv": "라틴어 vexare(흔들다·괴롭히다) -> 'vex'. 한국 학습자 핵심: 형용사 vexing(성가신)·vexed(짜증난·논란 많은) — a vexed question(골치 아픈 문제)! 명사 vexation(짜증). 유의어 annoy·irritate·exasperate. 반대 soothe·please·calm. C2 문어.",
+  "syn": [
+   "annoy(짜증나게 하다)",
+   "irritate(거슬리게 하다)",
+   "exasperate(분통 터지게 하다)"
+  ],
+  "anti": [
+   "soothe(달래다)",
+   "please(기쁘게 하다)",
+   "calm(진정시키다)"
+  ],
+  "idiom": [
+   "a vexed question(골치 아픈 문제)"
+  ],
+  "colloc": [
+   "vexed question(골치 아픈 문제)",
+   "vexing problem(성가신 문제)",
+   "greatly vex(몹시 짜증나게 하다)"
+  ],
+  "ex_add": "The constant delays vexed the passengers.  (vex=짜증나게 하다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5248",
+  "hw": "vicarious",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "대신(vicis) 겪는 -> '대리로 느끼는·간접적인'.",
+  "senses": [
+   "1) (남의 경험을) 간접적으로 느끼는, 대리 만족의",
+   "2) 대리의, 대신하는"
+  ],
+  "etym": "라틴어 vicarius(대신하는, vicis 차례·교대·대신) -> 'vicarious'. vicis(교대)는 vice versa(거꾸로)·vice-(부-, 대리)·vicissitude(흥망)의 뿌리. '남의 자리를 대신해 겪는'이 핵심.",
+  "deriv": "라틴어 vicis(차례·대신) -> 'vicarious'. 한국 학습자 핵심: vicis(교대·대신) 어근 — vice versa·vice-president(부통령)·vicissitude·vicarious! vicarious pleasure(대리 만족)·vicarious experience(간접 경험)·live vicariously through(~을 통해 대리로 살다). 유의어 indirect·secondhand·surrogate. 반대 direct·firsthand. C2 심리.",
+  "syn": [
+   "indirect(간접적인)",
+   "secondhand(간접의)",
+   "surrogate(대리의)"
+  ],
+  "anti": [
+   "direct(직접적인)",
+   "firsthand(직접 겪은)",
+   "personal(직접의)"
+  ],
+  "idiom": [
+   "live vicariously through(~을 통해 대리로 살다)"
+  ],
+  "colloc": [
+   "vicarious pleasure(대리 만족)",
+   "vicarious experience(간접 경험)",
+   "vicarious thrill(대리 전율)"
+  ],
+  "ex_add": "She got a vicarious thrill from her son's success.  (vicarious=대리로 느끼는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5249",
+  "hw": "vigilant",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "깨어(vigil) 지켜보는 -> '바짝 경계하는·방심하지 않는'.",
+  "senses": [
+   "1) (위험에) 바짝 경계하는, 방심하지 않는, 주의 깊은"
+  ],
+  "etym": "라틴어 vigilare(깨어 있다·지키다, vigil 깨어 있는)의 현재분사 vigilans -> 'vigilant'. vigil(철야·불침번)은 vigor(활력)·reveille(기상나팔)·surveillance(감시)의 뿌리. '눈 부릅뜨고 지켜보는'이 핵심.",
+  "deriv": "라틴어 vigil(깨어 있는) -> 'vigilant'. 한국 학습자 핵심: vigil(불침번) 어근 — vigor·surveillance·vigilante(자경단원)·vigilant! 명사 vigilance(경계). remain vigilant(경계를 늦추지 않다)·vigilant guard(빈틈없는 경비). 유의어 watchful·alert·attentive. 반대 careless·negligent·inattentive. C2 안보·논설.",
+  "syn": [
+   "watchful(망보는)",
+   "alert(기민한)",
+   "attentive(주의 깊은)"
+  ],
+  "anti": [
+   "careless(부주의한)",
+   "negligent(태만한)",
+   "inattentive(주의 산만한)"
+  ],
+  "idiom": [
+   "remain vigilant(경계를 늦추지 않다)"
+  ],
+  "colloc": [
+   "remain vigilant(경계를 늦추지 않다)",
+   "ever vigilant(항상 경계하는)",
+   "vigilant for signs(징후를 경계하는)"
+  ],
+  "ex_add": "Citizens were urged to remain vigilant.  (vigilant=경계하는)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5250",
+  "hw": "vindicate",
+  "pos": "v.",
+  "cefr": "C2",
+  "core": "힘으로(vis) 권리를 주장해 밝히다 -> '정당함을 입증하다·혐의를 벗기다'.",
+  "senses": [
+   "1) (옳음을) 입증하다, 정당성을 증명하다",
+   "2) (사람의) 무죄·결백을 밝히다"
+  ],
+  "etym": "라틴어 vindicare(권리를 주장하다·지키다, vim dicare '힘을 선언하다'에서, vis 힘 + dicere 말하다 추정) -> 'vindicate'. revenge·vengeance와도 뿌리를 공유(vindicta 복수). '정당함을 강하게 주장해 밝히다'가 핵심.",
+  "deriv": "라틴어 vindicare(권리를 주장하다) -> 'vindicate'. 한국 학습자 핵심: revenge·vengeance와 사촌 어원(vindicta 복수)! 혼동 주의: vindicate(결백을 밝히다) ↔ vindictive(5251, 앙심 깊은). 명사 vindication. be vindicated(정당성이 입증되다). 유의어 exonerate·justify·absolve. 반대 incriminate·condemn·blame. C2 법·논설.",
+  "syn": [
+   "exonerate(혐의를 벗기다)",
+   "justify(정당화하다)",
+   "absolve(무죄로 하다)"
+  ],
+  "anti": [
+   "incriminate(죄를 씌우다)",
+   "condemn(비난하다)",
+   "blame(탓하다)"
+  ],
+  "idiom": [
+   "be vindicated(정당성이 입증되다)"
+  ],
+  "colloc": [
+   "vindicate a decision(결정의 정당성을 입증하다)",
+   "feel vindicated(정당함을 인정받은 기분이다)",
+   "fully vindicated(완전히 결백이 입증된)"
+  ],
+  "ex_add": "The new evidence finally vindicated him.  (vindicate=결백을 밝히다)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5251",
+  "hw": "vindictive",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "복수(vindicta)하려는 -> '앙심 깊은·보복적인'.",
+  "senses": [
+   "1) (사람이) 앙심을 품은, 보복하려는, 악의적인"
+  ],
+  "etym": "라틴어 vindicta(복수, vindicare 권리를 주장하다·응징하다) + -ive -> 'vindictive'. vindicate(5250)와 같은 뿌리지만 '응징·복수' 쪽 의미를 물려받음. '끝까지 앙갚음하려는'이 핵심.",
+  "deriv": "라틴어 vindicta(복수) -> 'vindictive'. 한국 학습자 핵심: 5250 vindicate(결백 입증)와 한 뿌리지만 뜻은 정반대 결 — vindictive=앙심 깊은! a vindictive person(앙심 품은 사람)·vindictive streak(보복적 기질). 유의어 vengeful·spiteful·malicious. 반대 forgiving·magnanimous(5124)·merciful. C2 인물 묘사.",
+  "syn": [
+   "vengeful(복수심에 찬)",
+   "spiteful(앙심 품은)",
+   "malicious(악의적인)"
+  ],
+  "anti": [
+   "forgiving(잘 용서하는)",
+   "magnanimous(도량이 큰)",
+   "merciful(자비로운)"
+  ],
+  "idiom": [
+   "a vindictive streak(보복적 기질)"
+  ],
+  "colloc": [
+   "vindictive person(앙심 품은 사람)",
+   "vindictive streak(보복적 기질)",
+   "petty and vindictive(옹졸하고 앙심 깊은)"
+  ],
+  "ex_add": "He's too vindictive to ever forgive an insult.  (vindictive=앙심 깊은)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5252",
+  "hw": "virulent",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "독(virus)이 강한 -> '맹독성의·악성의·맹렬히 적대적인'.",
+  "senses": [
+   "1) (병·독이) 맹독성의, 치명적인, 악성의",
+   "2) (감정·비난이) 신랄한, 맹렬한"
+  ],
+  "etym": "라틴어 virulentus(독이 가득한, virus 독·점액) -> 'virulent'. virus(독)는 오늘날 virus(바이러스)의 어원. '독성이 강해 빠르게 퍼지는 -> 격렬히 해로운'이 핵심.",
+  "deriv": "라틴어 virus(독) -> 'virulent'. 한국 학습자 핵심: virus(바이러스)와 한 뿌리! 두 결 — ① 의학(virulent strain 맹독성 변종) ② 비유(virulent criticism 신랄한 비판·virulent racism 악랄한 인종주의). 명사 virulence. 유의어 deadly·toxic·malignant. 반대 harmless·benign·mild. C2 의학·논설.",
+  "syn": [
+   "deadly(치명적인)",
+   "toxic(유독한)",
+   "malignant(악성의)"
+  ],
+  "anti": [
+   "harmless(무해한)",
+   "benign(양성의)",
+   "mild(약한)"
+  ],
+  "idiom": [
+   "virulent criticism(신랄한 비판)"
+  ],
+  "colloc": [
+   "virulent strain(맹독성 변종)",
+   "virulent criticism(신랄한 비판)",
+   "virulent disease(악성 질병)"
+  ],
+  "ex_add": "A virulent strain of the virus spread quickly.  (virulent=맹독성의)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5253",
+  "hw": "vivacious",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "생기(vivere 살다)가 넘치는 -> '활기찬·쾌활한'(주로 여성).",
+  "senses": [
+   "1) (사람이, 특히 여성이) 활기 넘치는, 쾌활하고 매력적인"
+  ],
+  "etym": "라틴어 vivax(활기찬·오래 사는, vivere 살다) + -ous -> 'vivacious'. vivere(살다)는 vivid(생생한)·survive·revive·vital의 거대 뿌리. '살아 펄떡이는 듯 생기 있는'이 핵심.",
+  "deriv": "라틴어 vivere(살다) -> 'vivacious'. 한국 학습자 핵심: vivere(살다) 거대 어근 — vivid·survive·revive·vital·vivacious! 명사 vivacity. a vivacious personality(활기찬 성격)·vivacious smile(생기 넘치는 미소). 유의어 lively·spirited·bubbly. 반대 dull·listless·lethargic(5119). C2 인물 묘사.",
+  "syn": [
+   "lively(활기찬)",
+   "spirited(생기 있는)",
+   "bubbly(쾌활한)"
+  ],
+  "anti": [
+   "dull(생기 없는)",
+   "listless(맥없는)",
+   "lethargic(무기력한)"
+  ],
+  "idiom": [
+   "a vivacious personality(활기찬 성격)"
+  ],
+  "colloc": [
+   "vivacious personality(활기찬 성격)",
+   "vivacious smile(생기 넘치는 미소)",
+   "bright and vivacious(밝고 쾌활한)"
+  ],
+  "ex_add": "She was a vivacious and charming host.  (vivacious=활기찬)",
+  "ex_orig": "",
+  "ex_src": ""
+ },
+ {
+  "num": "5254",
+  "hw": "volatile",
+  "pos": "adj.",
+  "cefr": "C2",
+  "core": "날아(volare) 가 버리는 -> '변덕스러운·불안정한·휘발성의'.",
+  "senses": [
+   "1) (상황·시세가) 불안정한, 급변하는",
+   "2) (사람이) 변덕스러운, 욱하는",
+   "3) (화학) 휘발성의"
+  ],
+  "etym": "라틴어 volatilis(날 수 있는, volare 날다) -> 'volatile'. volare(날다)는 volley(일제 사격)·volatile의 뿌리. '쉽게 날아가 버리는 -> 종잡을 수 없이 변하는'이 핵심.",
+  "deriv": "라틴어 volare(날다) -> 'volatile'. 한국 학습자 핵심: volare(날다) 어근 — volley·volatile! 세 결 — ① 시장(volatile market 변동성 큰 시장) ② 성격(volatile temper 욱하는 성미) ③ 화학(휘발성). 명사 volatility. mercurial(5128)·capricious와 유사. 유의어 unstable·unpredictable·explosive. 반대 stable·steady·predictable. C2 경제·심리.",
+  "syn": [
+   "unstable(불안정한)",
+   "unpredictable(예측 불가한)",
+   "explosive(폭발하기 쉬운)"
+  ],
+  "anti": [
+   "stable(안정적인)",
+   "steady(한결같은)",
+   "predictable(예측 가능한)"
+  ],
+  "idiom": [
+   "a volatile temper(욱하는 성미)"
+  ],
+  "colloc": [
+   "volatile market(변동성 큰 시장)",
+   "volatile situation(불안정한 상황)",
+   "volatile temper(욱하는 성미)"
+  ],
+  "ex_add": "Stock prices were highly volatile that week.  (volatile=불안정한)",
+  "ex_orig": "",
+  "ex_src": ""
  }
 ]
