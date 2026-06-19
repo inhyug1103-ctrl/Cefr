@@ -53,6 +53,10 @@ def build_full(out_path="out_full.xlsx"):
             "ex_src": (r.get("source", "") or "").split(" | ")[0].strip(),
             "ex_add": "",
         })
+    # 원본에 없는 강화 카드(예: C2 신규 표제어) 추가
+    have = {r["num"] for r in raw}
+    extra = sorted((c for n, c in enr.items() if n not in have), key=lambda x: x["num"])
+    full.extend(extra)
     # 임시 파일로 저장 후 build_xlsx 재사용
     tmp = os.path.join(HERE, "_full_tmp.json")
     json.dump(full, open(tmp, "w"), ensure_ascii=False)
