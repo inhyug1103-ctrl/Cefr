@@ -27,6 +27,7 @@ WHITE = "FFFFFF"
 # (헤더, 키 또는 변환함수, 너비, 줄바꿈여부, 정렬)
 COLS = [
     ("No.",        "_idx",   5,  False, "center"),
+    ("DAY",        "_day",   7,  False, "center"),
     ("CEFR",       "cefr",   7,  False, "center"),
     ("표제어",      "hw",     18, False, "left"),
     ("품사",        "pos",    14, True,  "left"),
@@ -45,11 +46,13 @@ COLS = [
     ("3회",         "_blank", 5,  False, "center"),
 ]
 NCOL = len(COLS)
-TITLE = "CEFR 기준 영단어"
-SUBNOTE = "머리글의 필터(▼)로 CEFR·품사를 원하는 대로 추리세요. · A1–C2 통합"
+DAYMAP = {}   # num -> "DAY 01" (build()에서 채움)
+TITLE = "기초부터 수능, 그 너머까지 — CEFR 기준 영단어"
+SUBNOTE = "A1·A2·B1·B2·C1·C2 + 심화  ·  어원으로 이해하는 영단어  ·  머리글 필터(▼)로 등급·DAY·품사를 골라 보세요"
 
 def val(card, key, idx):
     if key == "_idx":   return idx
+    if key == "_day":   return DAYMAP.get(card.get("num"), "")
     if key == "_blank": return None
     if key == "_senses":return "  /  ".join(card.get("senses") or [])
     if key == "_syn":   return "  ·  ".join(card.get("syn") or [])
@@ -117,6 +120,15 @@ def style_sheet(ws, cards, sheet_title, count_label):
 def build(cum_path="enriched_cumulative.json", out_path="out.xlsx"):
     cum = json.load(open(os.path.join(HERE, cum_path), encoding="utf-8"))
     cum.sort(key=lambda x: x["num"])
+    # DAY 매핑(교재판과 동일: 레벨순 40단어씩)
+    try:
+        import build_textbook
+        DAYMAP.clear()
+        for dayno, lv, cards in build_textbook.chunk_days(cum):
+            for c in cards:
+                DAYMAP[c["num"]] = "DAY %02d" % dayno
+    except Exception as e:
+        print("warn: DAY 매핑 생략 (%s)" % e)
     wb = openpyxl.Workbook()
     # 전체 sheet
     ws = wb.active; ws.title = "전체"
